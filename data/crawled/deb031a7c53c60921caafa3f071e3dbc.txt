@@ -1,0 +1,580 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ffacebookresearch%2Fhydra%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ffacebookresearch%2Fhydra%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=facebookresearch%2Fhydra) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ facebookresearch ](/facebookresearch) / **[hydra](/facebookresearch/hydra) ** Public
+
+  * Sponsor
+
+#  Sponsor facebookresearch/hydra 
+
+  * [ Notifications ](/login?return_to=%2Ffacebookresearch%2Fhydra) You must be signed in to change notification settings
+  * [ Fork 651 ](/login?return_to=%2Ffacebookresearch%2Fhydra)
+  * [ Star  9k ](/login?return_to=%2Ffacebookresearch%2Fhydra)
+
+
+
+
+Hydra is a framework for elegantly configuring complex applications 
+
+[hydra.cc](https://hydra.cc "https://hydra.cc")
+
+### License
+
+[ MIT license ](/facebookresearch/hydra/blob/main/LICENSE)
+
+[ 9k stars ](/facebookresearch/hydra/stargazers) [ 651 forks ](/facebookresearch/hydra/forks) [ Branches ](/facebookresearch/hydra/branches) [ Tags ](/facebookresearch/hydra/tags) [ Activity ](/facebookresearch/hydra/activity)
+
+[ Star  ](/login?return_to=%2Ffacebookresearch%2Fhydra)
+
+[ Notifications ](/login?return_to=%2Ffacebookresearch%2Fhydra) You must be signed in to change notification settings
+
+  * [ Code ](/facebookresearch/hydra)
+  * [ Issues 271 ](/facebookresearch/hydra/issues)
+  * [ Pull requests 38 ](/facebookresearch/hydra/pulls)
+  * [ Discussions ](/facebookresearch/hydra/discussions)
+  * [ Actions ](/facebookresearch/hydra/actions)
+  * [ Projects 0 ](/facebookresearch/hydra/projects)
+  * [ Security ](/facebookresearch/hydra/security)
+  * [ Insights ](/facebookresearch/hydra/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/facebookresearch/hydra)
+  * [ Issues  ](/facebookresearch/hydra/issues)
+  * [ Pull requests  ](/facebookresearch/hydra/pulls)
+  * [ Discussions  ](/facebookresearch/hydra/discussions)
+  * [ Actions  ](/facebookresearch/hydra/actions)
+  * [ Projects  ](/facebookresearch/hydra/projects)
+  * [ Security  ](/facebookresearch/hydra/security)
+  * [ Insights  ](/facebookresearch/hydra/pulse)
+
+
+
+# facebookresearch/hydra
+
+main
+
+[**35** Branches](/facebookresearch/hydra/branches)[**22** Tags](/facebookresearch/hydra/tags)
+
+[](/facebookresearch/hydra/branches)[](/facebookresearch/hydra/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![jesszzzz](https://avatars.githubusercontent.com/u/12478900?v=4&size=40)](/jesszzzz)[jesszzzz](/facebookresearch/hydra/commits?author=jesszzzz)[Fix bug when deep copying full config with missing parent (](/facebookresearch/hydra/commit/7c8fa4a7594fe0c333ce6180adecd50f6d1f43b9)[#3009](https://github.com/facebookresearch/hydra/pull/3009)[)](/facebookresearch/hydra/commit/7c8fa4a7594fe0c333ce6180adecd50f6d1f43b9)Jan 16, 2025[7c8fa4a](/facebookresearch/hydra/commit/7c8fa4a7594fe0c333ce6180adecd50f6d1f43b9) · Jan 16, 2025
+
+## History
+
+[1,903 Commits](/facebookresearch/hydra/commits/main/)[](/facebookresearch/hydra/commits/main/)  
+[.github](/facebookresearch/hydra/tree/main/.github ".github")| [.github](/facebookresearch/hydra/tree/main/.github ".github")| [Convert facebookresearch/hydra to GitHub Actions (](/facebookresearch/hydra/commit/103a99a2fd326fa1500680f57aea3b5bef9ee8fa "Convert facebookresearch/hydra to GitHub Actions \(#2973\)
+* Add workflow facebookresearch/hydra/core_tests
+* Add composite action early_return_for_forked_pull_requests
+* Add composite action macos
+* Add composite action linux
+* Add workflow facebookresearch/hydra/plugin_tests
+* Fix trigger and variables
+* Remove circleci config
+* Fix tests for windows")[#2973](https://github.com/facebookresearch/hydra/pull/2973)[)](/facebookresearch/hydra/commit/103a99a2fd326fa1500680f57aea3b5bef9ee8fa "Convert facebookresearch/hydra to GitHub Actions \(#2973\)
+* Add workflow facebookresearch/hydra/core_tests
+* Add composite action early_return_for_forked_pull_requests
+* Add composite action macos
+* Add composite action linux
+* Add workflow facebookresearch/hydra/plugin_tests
+* Fix trigger and variables
+* Remove circleci config
+* Fix tests for windows")| Oct 28, 2024  
+[.stubs](/facebookresearch/hydra/tree/main/.stubs ".stubs")| [.stubs](/facebookresearch/hydra/tree/main/.stubs ".stubs")| [Enabled proper mypy --strict in tests](/facebookresearch/hydra/commit/3136352880fcdb9b4fb3c3b8ccac07ba872e4b54 "Enabled proper mypy --strict in tests")| Jan 2, 2021  
+[ATTRIBUTION](/facebookresearch/hydra/tree/main/ATTRIBUTION "ATTRIBUTION")| [ATTRIBUTION](/facebookresearch/hydra/tree/main/ATTRIBUTION "ATTRIBUTION")| [Updated attribution](/facebookresearch/hydra/commit/059306d698940d07bbc829ead06b9a30fc888d06 "Updated attribution")| Aug 23, 2020  
+[build_helpers](/facebookresearch/hydra/tree/main/build_helpers "build_helpers")| [build_helpers](/facebookresearch/hydra/tree/main/build_helpers "build_helpers")| [Fix lint issue (](/facebookresearch/hydra/commit/30d8a2528b9fa1b05666555f808eb10926840d59 "Fix lint issue \(#2948\)")[#2948](https://github.com/facebookresearch/hydra/pull/2948)[)](/facebookresearch/hydra/commit/30d8a2528b9fa1b05666555f808eb10926840d59 "Fix lint issue \(#2948\)")| Sep 6, 2024  
+[contrib](/facebookresearch/hydra/tree/main/contrib "contrib")| [contrib](/facebookresearch/hydra/tree/main/contrib "contrib")| [Update and run pre-commit](/facebookresearch/hydra/commit/fc40f929d2d4f3182013b5d0f80d16ce5ab488a4 "Update and run pre-commit
+* Updating https://github.com/pycqa/flake8 ... updating 3.9.2 -> 4.0.1.")| Jul 28, 2022  
+[examples](/facebookresearch/hydra/tree/main/examples "examples")| [examples](/facebookresearch/hydra/tree/main/examples "examples")| [Convert facebookresearch/hydra to GitHub Actions (](/facebookresearch/hydra/commit/103a99a2fd326fa1500680f57aea3b5bef9ee8fa "Convert facebookresearch/hydra to GitHub Actions \(#2973\)
+* Add workflow facebookresearch/hydra/core_tests
+* Add composite action early_return_for_forked_pull_requests
+* Add composite action macos
+* Add composite action linux
+* Add workflow facebookresearch/hydra/plugin_tests
+* Fix trigger and variables
+* Remove circleci config
+* Fix tests for windows")[#2973](https://github.com/facebookresearch/hydra/pull/2973)[)](/facebookresearch/hydra/commit/103a99a2fd326fa1500680f57aea3b5bef9ee8fa "Convert facebookresearch/hydra to GitHub Actions \(#2973\)
+* Add workflow facebookresearch/hydra/core_tests
+* Add composite action early_return_for_forked_pull_requests
+* Add composite action macos
+* Add composite action linux
+* Add workflow facebookresearch/hydra/plugin_tests
+* Fix trigger and variables
+* Remove circleci config
+* Fix tests for windows")| Oct 28, 2024  
+[hydra](/facebookresearch/hydra/tree/main/hydra "hydra")| [hydra](/facebookresearch/hydra/tree/main/hydra "hydra")| [Fix bug when deep copying full config with missing parent (](/facebookresearch/hydra/commit/7c8fa4a7594fe0c333ce6180adecd50f6d1f43b9 "Fix bug when deep copying full config with missing parent \(#3009\)")[#3009](https://github.com/facebookresearch/hydra/pull/3009)[)](/facebookresearch/hydra/commit/7c8fa4a7594fe0c333ce6180adecd50f6d1f43b9 "Fix bug when deep copying full config with missing parent \(#3009\)")| Jan 16, 2025  
+[news](/facebookresearch/hydra/tree/main/news "news")| [news](/facebookresearch/hydra/tree/main/news "news")| [Fix instantiate side effect modifying input config parent (](/facebookresearch/hydra/commit/ca4d25c7a025e50bf4a7be5ab5c8addb06d35a9a "Fix instantiate side effect modifying input config parent \(#3005\)
+* Deepcopy full config in instantiate to avoid unexpected side effects
+* Add test checking input config is unchanged
+* Create flag to revert deepcopy behavior in instantiate")[#3005](https://github.com/facebookresearch/hydra/pull/3005)[)](/facebookresearch/hydra/commit/ca4d25c7a025e50bf4a7be5ab5c8addb06d35a9a "Fix instantiate side effect modifying input config parent \(#3005\)
+* Deepcopy full config in instantiate to avoid unexpected side effects
+* Add test checking input config is unchanged
+* Create flag to revert deepcopy behavior in instantiate")| Jan 8, 2025  
+[plugins](/facebookresearch/hydra/tree/main/plugins "plugins")| [plugins](/facebookresearch/hydra/tree/main/plugins "plugins")| [Convert facebookresearch/hydra to GitHub Actions (](/facebookresearch/hydra/commit/103a99a2fd326fa1500680f57aea3b5bef9ee8fa "Convert facebookresearch/hydra to GitHub Actions \(#2973\)
+* Add workflow facebookresearch/hydra/core_tests
+* Add composite action early_return_for_forked_pull_requests
+* Add composite action macos
+* Add composite action linux
+* Add workflow facebookresearch/hydra/plugin_tests
+* Fix trigger and variables
+* Remove circleci config
+* Fix tests for windows")[#2973](https://github.com/facebookresearch/hydra/pull/2973)[)](/facebookresearch/hydra/commit/103a99a2fd326fa1500680f57aea3b5bef9ee8fa "Convert facebookresearch/hydra to GitHub Actions \(#2973\)
+* Add workflow facebookresearch/hydra/core_tests
+* Add composite action early_return_for_forked_pull_requests
+* Add composite action macos
+* Add composite action linux
+* Add workflow facebookresearch/hydra/plugin_tests
+* Fix trigger and variables
+* Remove circleci config
+* Fix tests for windows")| Oct 28, 2024  
+[requirements](/facebookresearch/hydra/tree/main/requirements "requirements")| [requirements](/facebookresearch/hydra/tree/main/requirements "requirements")| [Bump black from 24.2.0 to 24.3.0 in /requirements (](/facebookresearch/hydra/commit/253e72a9f4fb12d8d9d37f772e7d6138e387d799 "Bump black from 24.2.0 to 24.3.0 in /requirements \(#2970\)
+Bumps \[black\]\(https://github.com/psf/black\) from 24.2.0 to 24.3.0.
+- \[Release notes\]\(https://github.com/psf/black/releases\)
+- \[Changelog\]\(https://github.com/psf/black/blob/main/CHANGES.md\)
+- \[Commits\]\(https://github.com/psf/black/compare/24.2.0...24.3.0\)
+---
+updated-dependencies:
+- dependency-name: black
+ dependency-type: direct:development
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")[#2970](https://github.com/facebookresearch/hydra/pull/2970)[)](/facebookresearch/hydra/commit/253e72a9f4fb12d8d9d37f772e7d6138e387d799 "Bump black from 24.2.0 to 24.3.0 in /requirements \(#2970\)
+Bumps \[black\]\(https://github.com/psf/black\) from 24.2.0 to 24.3.0.
+- \[Release notes\]\(https://github.com/psf/black/releases\)
+- \[Changelog\]\(https://github.com/psf/black/blob/main/CHANGES.md\)
+- \[Commits\]\(https://github.com/psf/black/compare/24.2.0...24.3.0\)
+---
+updated-dependencies:
+- dependency-name: black
+ dependency-type: direct:development
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")| Oct 15, 2024  
+[tests](/facebookresearch/hydra/tree/main/tests "tests")| [tests](/facebookresearch/hydra/tree/main/tests "tests")| [Fix bug when deep copying full config with missing parent (](/facebookresearch/hydra/commit/7c8fa4a7594fe0c333ce6180adecd50f6d1f43b9 "Fix bug when deep copying full config with missing parent \(#3009\)")[#3009](https://github.com/facebookresearch/hydra/pull/3009)[)](/facebookresearch/hydra/commit/7c8fa4a7594fe0c333ce6180adecd50f6d1f43b9 "Fix bug when deep copying full config with missing parent \(#3009\)")| Jan 16, 2025  
+[tools](/facebookresearch/hydra/tree/main/tools "tools")| [tools](/facebookresearch/hydra/tree/main/tools "tools")| [Convert facebookresearch/hydra to GitHub Actions (](/facebookresearch/hydra/commit/103a99a2fd326fa1500680f57aea3b5bef9ee8fa "Convert facebookresearch/hydra to GitHub Actions \(#2973\)
+* Add workflow facebookresearch/hydra/core_tests
+* Add composite action early_return_for_forked_pull_requests
+* Add composite action macos
+* Add composite action linux
+* Add workflow facebookresearch/hydra/plugin_tests
+* Fix trigger and variables
+* Remove circleci config
+* Fix tests for windows")[#2973](https://github.com/facebookresearch/hydra/pull/2973)[)](/facebookresearch/hydra/commit/103a99a2fd326fa1500680f57aea3b5bef9ee8fa "Convert facebookresearch/hydra to GitHub Actions \(#2973\)
+* Add workflow facebookresearch/hydra/core_tests
+* Add composite action early_return_for_forked_pull_requests
+* Add composite action macos
+* Add composite action linux
+* Add workflow facebookresearch/hydra/plugin_tests
+* Fix trigger and variables
+* Remove circleci config
+* Fix tests for windows")| Oct 28, 2024  
+[website](/facebookresearch/hydra/tree/main/website "website")| [website](/facebookresearch/hydra/tree/main/website "website")| [Bump nanoid from 3.3.7 to 3.3.8 in /website (](/facebookresearch/hydra/commit/0ede84058e57a40260a93ae4f9abe08a572b23e0 "Bump nanoid from 3.3.7 to 3.3.8 in /website \(#3000\)
+Bumps \[nanoid\]\(https://github.com/ai/nanoid\) from 3.3.7 to 3.3.8.
+- \[Release notes\]\(https://github.com/ai/nanoid/releases\)
+- \[Changelog\]\(https://github.com/ai/nanoid/blob/main/CHANGELOG.md\)
+- \[Commits\]\(https://github.com/ai/nanoid/compare/3.3.7...3.3.8\)
+---
+updated-dependencies:
+- dependency-name: nanoid
+ dependency-type: indirect
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")[#3000](https://github.com/facebookresearch/hydra/pull/3000)[)](/facebookresearch/hydra/commit/0ede84058e57a40260a93ae4f9abe08a572b23e0 "Bump nanoid from 3.3.7 to 3.3.8 in /website \(#3000\)
+Bumps \[nanoid\]\(https://github.com/ai/nanoid\) from 3.3.7 to 3.3.8.
+- \[Release notes\]\(https://github.com/ai/nanoid/releases\)
+- \[Changelog\]\(https://github.com/ai/nanoid/blob/main/CHANGELOG.md\)
+- \[Commits\]\(https://github.com/ai/nanoid/compare/3.3.7...3.3.8\)
+---
+updated-dependencies:
+- dependency-name: nanoid
+ dependency-type: indirect
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")| Dec 20, 2024  
+[.bandit](/facebookresearch/hydra/blob/main/.bandit ".bandit")| [.bandit](/facebookresearch/hydra/blob/main/.bandit ".bandit")| [added bandit security analysis to lint](/facebookresearch/hydra/commit/eab9e36fbeb4f4341739c09dda400071f3b53963 "added bandit security analysis to lint")| Aug 27, 2020  
+[.coveragerc](/facebookresearch/hydra/blob/main/.coveragerc ".coveragerc")| [.coveragerc](/facebookresearch/hydra/blob/main/.coveragerc ".coveragerc")| [temp : disable installing the plugins during coverage test (](/facebookresearch/hydra/commit/2384c3d35d65e3f946539d9d0d26f93c1ab4a1a0 "temp : disable installing the plugins during coverage test \(#457\)")[#457](https://github.com/facebookresearch/hydra/pull/457)[)](/facebookresearch/hydra/commit/2384c3d35d65e3f946539d9d0d26f93c1ab4a1a0 "temp : disable installing the plugins during coverage test \(#457\)")| Mar 1, 2020  
+[.flake8](/facebookresearch/hydra/blob/main/.flake8 ".flake8")| [.flake8](/facebookresearch/hydra/blob/main/.flake8 ".flake8")| [drop py3.7 & fix CI (](/facebookresearch/hydra/commit/4db334bc661ab700f3997c4352c8f39c5257b3a7 "drop py3.7 & fix CI \(#2854\)")[#2854](https://github.com/facebookresearch/hydra/pull/2854)[)](/facebookresearch/hydra/commit/4db334bc661ab700f3997c4352c8f39c5257b3a7 "drop py3.7 & fix CI \(#2854\)")| Feb 29, 2024  
+[.gitattributes](/facebookresearch/hydra/blob/main/.gitattributes ".gitattributes")| [.gitattributes](/facebookresearch/hydra/blob/main/.gitattributes ".gitattributes")| [Building ANTLR grammaer during pip install/sdist](/facebookresearch/hydra/commit/7f1c2902667caeb947fb22df7c8b15a1ad260a27 "Building ANTLR grammaer during pip install/sdist")| Jul 12, 2020  
+[.gitignore](/facebookresearch/hydra/blob/main/.gitignore ".gitignore")| [.gitignore](/facebookresearch/hydra/blob/main/.gitignore ".gitignore")| [Upgrade](/facebookresearch/hydra/commit/a867e42c7296ba977314256a8c5137408901bb7f "Upgrade `antlr` to 4.11 \(#2733\)") `[antlr](/facebookresearch/hydra/commit/a867e42c7296ba977314256a8c5137408901bb7f "Upgrade `antlr` to 4.11 \(#2733\)")` [to 4.11 (](/facebookresearch/hydra/commit/a867e42c7296ba977314256a8c5137408901bb7f "Upgrade `antlr` to 4.11 \(#2733\)")[#2733](https://github.com/facebookresearch/hydra/pull/2733)[)](/facebookresearch/hydra/commit/a867e42c7296ba977314256a8c5137408901bb7f "Upgrade `antlr` to 4.11 \(#2733\)")| Mar 6, 2024  
+[.isort.cfg](/facebookresearch/hydra/blob/main/.isort.cfg ".isort.cfg")| [.isort.cfg](/facebookresearch/hydra/blob/main/.isort.cfg ".isort.cfg")| [Skip contrib in CI (](/facebookresearch/hydra/commit/40a76be828569996aa5e7156d75b616a1aab9bb3 "Skip contrib in CI \(#2173\)")[#2173](https://github.com/facebookresearch/hydra/pull/2173)[)](/facebookresearch/hydra/commit/40a76be828569996aa5e7156d75b616a1aab9bb3 "Skip contrib in CI \(#2173\)")| Apr 26, 2022  
+[.mypy.ini](/facebookresearch/hydra/blob/main/.mypy.ini ".mypy.ini")| [.mypy.ini](/facebookresearch/hydra/blob/main/.mypy.ini ".mypy.ini")| [Fix CI failures (](/facebookresearch/hydra/commit/6ff79b1b7089093315ae78824606bb256ad10f77 "Fix CI failures \(#2842\)")[#2842](https://github.com/facebookresearch/hydra/pull/2842)[)](/facebookresearch/hydra/commit/6ff79b1b7089093315ae78824606bb256ad10f77 "Fix CI failures \(#2842\)")| Jan 23, 2024  
+[.pre-commit-config.yaml](/facebookresearch/hydra/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/facebookresearch/hydra/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [drop py3.7 & fix CI (](/facebookresearch/hydra/commit/4db334bc661ab700f3997c4352c8f39c5257b3a7 "drop py3.7 & fix CI \(#2854\)")[#2854](https://github.com/facebookresearch/hydra/pull/2854)[)](/facebookresearch/hydra/commit/4db334bc661ab700f3997c4352c8f39c5257b3a7 "drop py3.7 & fix CI \(#2854\)")| Feb 29, 2024  
+[.yamllint](/facebookresearch/hydra/blob/main/.yamllint ".yamllint")| [.yamllint](/facebookresearch/hydra/blob/main/.yamllint ".yamllint")| [Skip contrib in CI (](/facebookresearch/hydra/commit/40a76be828569996aa5e7156d75b616a1aab9bb3 "Skip contrib in CI \(#2173\)")[#2173](https://github.com/facebookresearch/hydra/pull/2173)[)](/facebookresearch/hydra/commit/40a76be828569996aa5e7156d75b616a1aab9bb3 "Skip contrib in CI \(#2173\)")| Apr 26, 2022  
+[CHANGELOG.md](/facebookresearch/hydra/blob/main/CHANGELOG.md "CHANGELOG.md")| [CHANGELOG.md](/facebookresearch/hydra/blob/main/CHANGELOG.md "CHANGELOG.md")| [Update CHANGELOG.md](/facebookresearch/hydra/commit/4973e865447b48aae3176b00dbd7444d94802c2f "Update CHANGELOG.md
+Minor spell fix")| Jul 17, 2020  
+[CODE_OF_CONDUCT.md](/facebookresearch/hydra/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/facebookresearch/hydra/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [OSS Automated Fix: Addition of Code of Conduct (](/facebookresearch/hydra/commit/84759e177e89b805850bcec4ccd57df0088b0477 "OSS Automated Fix: Addition of Code of Conduct \(#37\)")[#37](https://github.com/facebookresearch/hydra/pull/37)[)](/facebookresearch/hydra/commit/84759e177e89b805850bcec4ccd57df0088b0477 "OSS Automated Fix: Addition of Code of Conduct \(#37\)")| Aug 2, 2019  
+[CONTRIBUTING.md](/facebookresearch/hydra/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/facebookresearch/hydra/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Update CONTRIBUTING.md to the new default branch (](/facebookresearch/hydra/commit/c7eac9b4de04c9bd0bac3047827b1260d52e9450 "Update CONTRIBUTING.md to the new default branch \(#1793\)")[#1793](https://github.com/facebookresearch/hydra/pull/1793)[)](/facebookresearch/hydra/commit/c7eac9b4de04c9bd0bac3047827b1260d52e9450 "Update CONTRIBUTING.md to the new default branch \(#1793\)")| Aug 26, 2021  
+[LICENSE](/facebookresearch/hydra/blob/main/LICENSE "LICENSE")| [LICENSE](/facebookresearch/hydra/blob/main/LICENSE "LICENSE")| [Create LICENSE](/facebookresearch/hydra/commit/5fbe4212c047ef15ec38083d39d35a36a59e55db "Create LICENSE")| Aug 3, 2019  
+[MANIFEST.in](/facebookresearch/hydra/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](/facebookresearch/hydra/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST: add requirements.txt and build_helpers (](/facebookresearch/hydra/commit/4600734d488b142662b0a379f9f66ac2d7a5a2f9 "MANIFEST: add requirements.txt and build_helpers \(#2397\)")[#2397](https://github.com/facebookresearch/hydra/pull/2397)[)](/facebookresearch/hydra/commit/4600734d488b142662b0a379f9f66ac2d7a5a2f9 "MANIFEST: add requirements.txt and build_helpers \(#2397\)")| Sep 30, 2022  
+[NEWS.md](/facebookresearch/hydra/blob/main/NEWS.md "NEWS.md")| [NEWS.md](/facebookresearch/hydra/blob/main/NEWS.md "NEWS.md")| [sync NEWS.md with 1.3_branch](/facebookresearch/hydra/commit/f8940600d0ab5c695961ad83abd042ffe9458caf "sync NEWS.md with 1.3_branch")| Feb 25, 2023  
+[README.md](/facebookresearch/hydra/blob/main/README.md "README.md")| [README.md](/facebookresearch/hydra/blob/main/README.md "README.md")| [Update README.md](/facebookresearch/hydra/commit/20852a89c4914b19106b97f28621f517e6247d8f "Update README.md
+Updated downloads stats link and removed deal links from README.")| Jul 10, 2024  
+[apt.txt](/facebookresearch/hydra/blob/main/apt.txt "apt.txt")| [apt.txt](/facebookresearch/hydra/blob/main/apt.txt "apt.txt")| [switched binder image to apt get jre and not a jdk](/facebookresearch/hydra/commit/dd635820bd4b460c9cdfaa76ad7bd1673f82d166 "switched binder image to apt get jre and not a jdk")| Feb 12, 2021  
+[lgtm.yml](/facebookresearch/hydra/blob/main/lgtm.yml "lgtm.yml")| [lgtm.yml](/facebookresearch/hydra/blob/main/lgtm.yml "lgtm.yml")| [Added yamllint. (](/facebookresearch/hydra/commit/e6633b6e71ab958b9e794e16d919455d24e7ce07 "Added yamllint. \(#694\)
+* Added yamllint.
+This commit will break on CI. This is intended.
+* Add yamllint file
+* Yaml files pass lint
+* Remove --- from the start of yaml files
+* Black does not have to be installaed separately
+* Update contributor guide
+* Remove header from .yamllint
+* Remove some extra information from the documentation
+* Add a new category called maintenance
+* Add news entry")[#694](https://github.com/facebookresearch/hydra/pull/694)[)](/facebookresearch/hydra/commit/e6633b6e71ab958b9e794e16d919455d24e7ce07 "Added yamllint. \(#694\)
+* Added yamllint.
+This commit will break on CI. This is intended.
+* Add yamllint file
+* Yaml files pass lint
+* Remove --- from the start of yaml files
+* Black does not have to be installaed separately
+* Update contributor guide
+* Remove header from .yamllint
+* Remove some extra information from the documentation
+* Add a new category called maintenance
+* Add news entry")| Jun 22, 2020  
+[noxfile.py](/facebookresearch/hydra/blob/main/noxfile.py "noxfile.py")| [noxfile.py](/facebookresearch/hydra/blob/main/noxfile.py "noxfile.py")| [drop py3.7 & fix CI (](/facebookresearch/hydra/commit/4db334bc661ab700f3997c4352c8f39c5257b3a7 "drop py3.7 & fix CI \(#2854\)")[#2854](https://github.com/facebookresearch/hydra/pull/2854)[)](/facebookresearch/hydra/commit/4db334bc661ab700f3997c4352c8f39c5257b3a7 "drop py3.7 & fix CI \(#2854\)")| Feb 29, 2024  
+[pyproject.toml](/facebookresearch/hydra/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/facebookresearch/hydra/blob/main/pyproject.toml "pyproject.toml")| [Skip contrib in CI (](/facebookresearch/hydra/commit/40a76be828569996aa5e7156d75b616a1aab9bb3 "Skip contrib in CI \(#2173\)")[#2173](https://github.com/facebookresearch/hydra/pull/2173)[)](/facebookresearch/hydra/commit/40a76be828569996aa5e7156d75b616a1aab9bb3 "Skip contrib in CI \(#2173\)")| Apr 26, 2022  
+[pytest.ini](/facebookresearch/hydra/blob/main/pytest.ini "pytest.ini")| [pytest.ini](/facebookresearch/hydra/blob/main/pytest.ini "pytest.ini")| [Fix CI failures (](/facebookresearch/hydra/commit/6ff79b1b7089093315ae78824606bb256ad10f77 "Fix CI failures \(#2842\)")[#2842](https://github.com/facebookresearch/hydra/pull/2842)[)](/facebookresearch/hydra/commit/6ff79b1b7089093315ae78824606bb256ad10f77 "Fix CI failures \(#2842\)")| Jan 23, 2024  
+[setup.py](/facebookresearch/hydra/blob/main/setup.py "setup.py")| [setup.py](/facebookresearch/hydra/blob/main/setup.py "setup.py")| [drop py3.7 & fix CI (](/facebookresearch/hydra/commit/4db334bc661ab700f3997c4352c8f39c5257b3a7 "drop py3.7 & fix CI \(#2854\)")[#2854](https://github.com/facebookresearch/hydra/pull/2854)[)](/facebookresearch/hydra/commit/4db334bc661ab700f3997c4352c8f39c5257b3a7 "drop py3.7 & fix CI \(#2854\)")| Feb 29, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+[![logo](https://raw.githubusercontent.com/facebookresearch/hydra/main/website/static/img/Hydra-Readme-logo2.svg)](https://raw.githubusercontent.com/facebookresearch/hydra/main/website/static/img/Hydra-Readme-logo2.svg)
+
+[ ![PyPI](https://camo.githubusercontent.com/f9870e522e8a446aa9de3c249c95437e915e5141ccd3895ac8bb1d87db3512ce/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f68796472612d636f7265) ](https://pypi.org/project/hydra-core/) [ ![CircleCI](https://camo.githubusercontent.com/1c31f623685651ef3be411d4279ccafd8350ec7781c844b111a4c0f62a9987de/68747470733a2f2f696d672e736869656c64732e696f2f636972636c6563692f6275696c642f6769746875622f66616365626f6f6b72657365617263682f68796472613f746f6b656e3d61663139396364326465636139653730653533373736663964656439363238346231303638376539) ](https://circleci.com/gh/facebookresearch/hydra) [ ![PyPI - License](https://camo.githubusercontent.com/0f3da987816bca4a836e589fc710a6d145f66a28c79d48ed60e9eb47b778ef22/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f68796472612d636f7265) ](#) [ ![PyPI - Python Version](https://camo.githubusercontent.com/8951499b49d82ff3c78ab93777192a04952b0687dcf9bdfa440aef879f1c8bbe/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f68796472612d636f7265) ](#) [ ![Downloads](https://camo.githubusercontent.com/3352bfe3b577178925e71677c0aecc4231768142d0d0784089873188e40ddc37/68747470733a2f2f706570792e746563682f62616467652f68796472612d636f72652f6d6f6e7468) ](https://www.pepy.tech/projects/hydra-core?versions=0.11.*&versions=1.0.*&versions=1.1.*&versions=1.2.*&versions=1.3.*&versions=1.4.*) [ ![Code style: black](https://camo.githubusercontent.com/5bf9e9fa18966df7cb5fac7715bef6b72df15e01a6efa9d616c83f9fcb527fe2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64652532307374796c652d626c61636b2d3030303030302e737667) ](https://github.com/psf/black)
+
+_A framework for elegantly configuring complex applications._
+
+_Check the[website](https://hydra.cc/) for more information, or click the thumbnail below for a one-minute video introduction to Hydra._
+
+[ ![1 minute overview](https://camo.githubusercontent.com/f70b313012f5e58013a49a8437a294be7dd6f88de5baad48524a816ee050a341/687474703a2f2f696d672e796f75747562652e636f6d2f76692f536c6333675251706e42492f687164656661756c742e6a7067) ](http://www.youtube.com/watch?feature=player_embedded&v=Slc3gRQpnBI)
+
+### Releases
+
+[](#releases)
+
+#### Stable
+
+[](#stable)
+
+**Hydra 1.3** is the stable version of Hydra.
+
+  * [Documentation](https://hydra.cc/docs/1.3/intro/)
+  * Installation : `pip install hydra-core --upgrade`
+
+
+
+See the [NEWS.md](/facebookresearch/hydra/blob/main/NEWS.md) file for a summary of recent changes to Hydra.
+
+### License
+
+[](#license)
+
+Hydra is licensed under [MIT License](/facebookresearch/hydra/blob/main/LICENSE).
+
+## Hydra Ecosystem
+
+[](#hydra-ecosystem)
+
+#### Check out these third-party libraries that build on Hydra's functionality:
+
+[](#check-out-these-third-party-libraries-that-build-on-hydras-functionality)
+
+  * [hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen): Pythonic utilities for working with Hydra. Dynamic config generation capabilities, enhanced config store features, a Python API for launching Hydra jobs, and more.
+  * [lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template): user-friendly template combining Hydra with [Pytorch-Lightning](https://github.com/Lightning-AI/lightning) for ML experimentation.
+  * [hydra-torch](https://github.com/pytorch/hydra-torch): [configen](https://github.com/facebookresearch/hydra/tree/main/tools/configen)-generated configuration classes enabling type-safe PyTorch configuration for Hydra apps.
+  * NVIDIA's DeepLearningExamples repository contains a Hydra Launcher plugin, the [distributed_launcher](https://github.com/NVIDIA/DeepLearningExamples/tree/9c34e35c218514b8607d7cf381d8a982a01175e9/Tools/PyTorch/TimeSeriesPredictionPlatform/distributed_launcher), which makes use of the pytorch [distributed.launch](https://pytorch.org/docs/stable/distributed.html#launch-utility) API.
+
+
+
+#### Ask questions in Github Discussions or StackOverflow (Use the tag #fb-hydra or #omegaconf):
+
+[](#ask-questions-in-github-discussions-or-stackoverflow-use-the-tag-fb-hydra-or-omegaconf)
+
+  * [Github Discussions](https://github.com/facebookresearch/hydra/discussions)
+  * [StackOverflow](https://stackexchange.com/filters/391828/hydra-questions)
+  * [Twitter](https://twitter.com/Hydra_Framework)
+
+
+
+Check out the Meta AI [blog post](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability/) to learn about how Hydra fits into Meta's efforts to reengineer deep learning platforms for interoperability.
+
+### Citing Hydra
+
+[](#citing-hydra)
+
+If you use Hydra in your research please use the following BibTeX entry:
+
+```
+@Misc{Yadan2019Hydra, author = {Omry Yadan}, title = {Hydra - A framework for elegantly configuring complex applications}, howpublished = {Github}, year = {2019}, url = {https://github.com/facebookresearch/hydra} }
+```
+
+## About
+
+Hydra is a framework for elegantly configuring complex applications 
+
+[hydra.cc](https://hydra.cc "https://hydra.cc")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/facebookresearch/hydra/activity)
+
+[ Custom properties](/facebookresearch/hydra/custom-properties)
+
+### Stars
+
+[ **9k** stars](/facebookresearch/hydra/stargazers)
+
+### Watchers
+
+[ **129** watching](/facebookresearch/hydra/watchers)
+
+### Forks
+
+[ **651** forks](/facebookresearch/hydra/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Ffacebookresearch%2Fhydra&report=facebookresearch+%28user%29)
+
+##  [Releases 22](/facebookresearch/hydra/releases)
+
+[ Hydra 1.3.2 Latest  Feb 23, 2023 ](/facebookresearch/hydra/releases/tag/v1.3.2)
+
+[+ 21 releases](/facebookresearch/hydra/releases)
+
+## Sponsor this project
+
+  * ![open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg) [opencollective.com/**hydra**](https://opencollective.com/hydra)
+
+
+
+##  [Packages 0](/orgs/facebookresearch/packages?repo_name=hydra)
+
+No packages published 
+
+##  [Used by 31.9k](/facebookresearch/hydra/network/dependents)
+
+[
+
+  * ![@rakhmanov-tr](https://avatars.githubusercontent.com/u/92419757?s=64&v=4)
+  * ![@rong-io](https://avatars.githubusercontent.com/u/23371171?s=64&v=4)
+  * ![@danishhansari](https://avatars.githubusercontent.com/u/80449860?s=64&v=4)
+  * ![@JRBonilla](https://avatars.githubusercontent.com/u/8891461?s=64&v=4)
+  * ![@chenbudaowenshi](https://avatars.githubusercontent.com/u/180609664?s=64&v=4)
+  * ![@LynxiTech](https://avatars.githubusercontent.com/u/102273123?s=64&v=4)
+  * ![@han5i5j](https://avatars.githubusercontent.com/u/6679450?s=64&v=4)
+  * ![@Rama0surya](https://avatars.githubusercontent.com/u/103930380?s=64&v=4)
+
++ 31,855  ](/facebookresearch/hydra/network/dependents)
+
+##  [Contributors 122](/facebookresearch/hydra/graphs/contributors)
+
+  * [ ![@omry](https://avatars.githubusercontent.com/u/376455?s=64&v=4) ](https://github.com/omry)
+  * [ ![@Jasha10](https://avatars.githubusercontent.com/u/8935917?s=64&v=4) ](https://github.com/Jasha10)
+  * [ ![@jieru-hu](https://avatars.githubusercontent.com/u/4642412?s=64&v=4) ](https://github.com/jieru-hu)
+  * [ ![@shagunsodhani](https://avatars.githubusercontent.com/u/1321193?s=64&v=4) ](https://github.com/shagunsodhani)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@pixelb](https://avatars.githubusercontent.com/u/316894?s=64&v=4) ](https://github.com/pixelb)
+  * [ ![@3janeAI](https://avatars.githubusercontent.com/u/55730900?s=64&v=4) ](https://github.com/3janeAI)
+  * [ ![@odelalleau](https://avatars.githubusercontent.com/u/507137?s=64&v=4) ](https://github.com/odelalleau)
+  * [ ![@jesszzzz](https://avatars.githubusercontent.com/u/12478900?s=64&v=4) ](https://github.com/jesszzzz)
+  * [ ![@jrapin](https://avatars.githubusercontent.com/u/11429864?s=64&v=4) ](https://github.com/jrapin)
+  * [ ![@jan-matthis](https://avatars.githubusercontent.com/u/1239529?s=64&v=4) ](https://github.com/jan-matthis)
+  * [ ![@toshihikoyanase](https://avatars.githubusercontent.com/u/3255979?s=64&v=4) ](https://github.com/toshihikoyanase)
+  * [ ![@JoelMarcey](https://avatars.githubusercontent.com/u/3757713?s=64&v=4) ](https://github.com/JoelMarcey)
+  * [ ![@bryant1410](https://avatars.githubusercontent.com/u/3905501?s=64&v=4) ](https://github.com/bryant1410)
+
+
+
+[+ 108 contributors](/facebookresearch/hydra/graphs/contributors)
+
+## Languages
+
+  * [ Python 96.9% ](/facebookresearch/hydra/search?l=python)
+  * [ JavaScript 1.6% ](/facebookresearch/hydra/search?l=javascript)
+  * [ ANTLR 0.5% ](/facebookresearch/hydra/search?l=antlr)
+  * [ Jupyter Notebook 0.4% ](/facebookresearch/hydra/search?l=jupyter-notebook)
+  * [ CSS 0.3% ](/facebookresearch/hydra/search?l=css)
+  * [ HTML 0.2% ](/facebookresearch/hydra/search?l=html)
+  * Other 0.1%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

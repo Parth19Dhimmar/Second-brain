@@ -1,0 +1,30 @@
+{
+    "id": "cc6ada4bbcb2180f69e8e5c24de49831",
+    "metadata": {
+        "id": "cc6ada4bbcb2180f69e8e5c24de49831",
+        "url": "https://www.notion.so/Dataset-Sources-cc6ada4bbcb2180f69e8e5c24de49831",
+        "title": "Dataset Sources",
+        "properties": {
+            "Type": "Node"
+        }
+    },
+    "parent_metadata": {
+        "id": "5e2be6efc46ddc1e4eabb8dda4de6ff3",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Articles\n\n\t- [The Rise of Agentic Data Generation](https://huggingface.co/blog/mlabonne/agentic-datagen), [Maxime Labonne](https://huggingface.co/mlabonne)\n\t-\n\n# Awesome Lists\n\n\t- [https://github.com/mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets)\n\t-\n\n# Preference alignment\n\n\t- Helpfulness and harmlessness:\n\t\t- [https://huggingface.co/datasets/Anthropic/hh-rlhf](https://huggingface.co/datasets/Anthropic/hh-rlhf)\n\t\t- [https://huggingface.co/datasets/Trelis/hh-rlhf-dpo](https://huggingface.co/datasets/Trelis/hh-rlhf-dpo)\n\t\n\t- Summarization:\n\t\t- [https://huggingface.co/datasets/openai/summarize_from_feedback](https://huggingface.co/datasets/openai/summarize_from_feedback)\n\t\n\t\n\t\t[https://huggingface.co/datasets/argilla/distilabel-intel-orca-dpo-pairs](https://huggingface.co/datasets/argilla/distilabel-intel-orca-dpo-pairs)\n\t\t[https://huggingface.co/datasets/argilla/Capybara-Preferences](https://huggingface.co/datasets/argilla/Capybara-Preferences)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://huggingface.co/datasets/argilla/Capybara-Preferences/",
+        "https://huggingface.co/blog/mlabonne/agentic-datagen/",
+        "https://github.com/mlabonne/llm-datasets/",
+        "https://huggingface.co/datasets/Trelis/hh-rlhf-dpo/",
+        "https://huggingface.co/datasets/openai/summarize_from_feedback/",
+        "https://huggingface.co/datasets/argilla/distilabel-intel-orca-dpo-pairs/",
+        "https://huggingface.co/mlabonne/",
+        "https://huggingface.co/datasets/Anthropic/hh-rlhf/"
+    ]
+}

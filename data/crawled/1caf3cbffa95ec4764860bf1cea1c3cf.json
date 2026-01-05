@@ -1,0 +1,25 @@
+{
+    "id": "1caf3cbffa95ec4764860bf1cea1c3cf",
+    "metadata": {
+        "id": "1caf3cbffa95ec4764860bf1cea1c3cf",
+        "url": "https://www.notion.so/Deployment-Observability-1caf3cbffa95ec4764860bf1cea1c3cf",
+        "title": "Deployment & Observability",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "9adf97ff0ca42339ed205616f175dbe9",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Articles\n\n\t- [Best Tools For ML Model Serving](https://neptune.ai/blog/ml-model-serving-best-tools)\n\t- [Evidently - The ultimate list of internal ML platforms](/fe4d8a212da44f02a25a89a2f804b9f1)\n\t-\n\n# Tools\n\n\t[https://github.com/NannyML/nannyml](https://github.com/NannyML/nannyml)",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://neptune.ai/blog/ml-model-serving-best-tools/",
+        "/fe4d8a212da44f02a25a89a2f804b9f1/",
+        "https://github.com/NannyML/nannyml/"
+    ]
+}

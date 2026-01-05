@@ -1,0 +1,232 @@
+[](/)
+
+  * [Explore Courses](/courses/)
+  * [AI Newsletter](/the-batch/)
+    * [The Batch](/the-batch/)
+    * [Andrew's Letter](/the-batch/tag/letters/)
+    * [Data Points](/the-batch/tag/data-points/)
+    * [ML Research](/the-batch/tag/research/)
+    * [Blog](/blog/)
+  * [Community](/community/)
+    * [Forum](https://community.deeplearning.ai/)
+    * [Events](/events/)
+    * [Ambassadors](/ambassador/)
+    * [Ambassador Spotlight](/blog/category/ambassador-spotlight/)
+  * [Resources](/resources/)
+  * [Company](/about/)
+    * [About](/about/)
+    * [Careers](/careers/)
+    * [Contact](/contact/)
+
+[Start Learning](https://bit.ly/3RB9T8a)
+
+  * [Overview](#overview)
+  * [Course Outline](#course-outline)
+  * [Instructors](#instructors)
+
+
+
+![](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F04%2FBG_DeepLearning_Hugging_Face_QF_C2_Banner_2070x1080.png&w=3840&q=90)
+
+  * [All Courses](/courses/)
+  * [Short Courses](/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses)
+  * Quantization in Depth 
+
+
+
+Short CourseIntermediate2 Hours 11 Minutes
+
+# Quantization in Depth 
+
+Instructors: Marc Sun, Younes Belkada
+
+[![Hugging Face](https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/02/logo_DeepLearning_Hugging_Face_AI_Banner_1000x1000.png)](https://huggingface.co/)
+
+[Enroll for Free](https://learn.deeplearning.ai/courses/quantization-in-depth)
+
+  * [All Courses](/courses/)
+  * [Short Courses](/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses)
+  * Quantization in Depth 
+
+
+
+![](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F04%2FYouTube-Thumbnails-36.png&w=3840&q=75)
+
+  * Intermediate
+  * 2 Hours 11 Minutes
+  * 18 Video Lessons
+  * 13 Code Examples
+  * Instructors: Marc Sun, Younes Belkada
+  *     * ![Hugging Face](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F05%2Fhugging-face.png&w=48&q=75)
+Hugging Face
+
+
+
+## What you'll learn
+
+  * Try out different variants of Linear Quantization, including symmetric vs. asymmetric mode, and different granularities like per tensor, per channel, and per group quantization.
+
+  * Build a general-purpose quantizer in Pytorch that can quantize the dense layers of any open source model for up to 4x compression on dense layers.
+
+  * Implement weights packing to pack four 2-bit weights into a single 8-bit integer.
+
+
+
+
+## About this course
+
+In **Quantization in Depth** you will build model quantization methods to shrink model weights to ¼ their original size, and apply methods to maintain the compressed model’s performance. Your ability to quantize your models can make them more accessible, and also faster at inference time. 
+
+Implement and customize linear quantization from scratch so that you can study the tradeoff between space and performance, and then build a general-purpose quantizer in PyTorch that can quantize any open source model. You’ll implement techniques to compress model weights from 32 bits to 8 bits and even 2 bits.
+
+Join this course to:
+
+  * Build and customize linear quantization functions, choosing between two “modes”: asymmetric and symmetric; and three granularities: per-tensor, per-channel, and per-group quantization.
+  * Measure the quantization error of each of these options as you balance the performance and space tradeoffs for each option.
+  * Build your own quantizer in PyTorch, to quantize any open source model’s dense layers from 32 bits to 8 bits.
+  * Go beyond 8 bits, and pack four 2-bit weights into one 8-bit integer.
+
+
+
+**Quantization in Depth** lets you build and customize your own linear quantizer from scratch, going beyond standard open source libraries such as PyTorch and Quanto, which are covered in the short course **[Quantization Fundamentals](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)** , also by Hugging Face.
+
+This course gives you the foundation to study more advanced quantization methods, some of which are recommended at the end of the course.
+
+## Who should join?
+
+Building on the concepts introduced in **[Quantization Fundamentals with Hugging Face](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)** , this course will help deepen your understanding of linear quantization methods. If you’re looking to go further into quantization, this course is the perfect next step.
+
+## Course Outline
+
+18 Lessons・13 Code Examples
+
+  * Introduction
+
+Video・4 mins
+
+  * Overview
+
+Video・3 mins
+
+  * Quantize and De-quantize a Tensor
+
+Video with code examples・10 mins
+
+  * Get the Scale and Zero Point
+
+Video with code examples・13 mins
+
+  * Symmetric vs Asymmetric Mode
+
+Video with code examples・7 mins
+
+  * Finer Granularity for more Precision
+
+Video with code examples・2 mins
+
+  * Per Channel Quantization
+
+Video with code examples・11 mins
+
+  * Per Group Quantization
+
+Video with code examples・7 mins
+
+  * Quantizing Weights & Activations for Inference
+
+Video with code examples・3 mins
+
+  * Custom Build an 8-Bit Quantizer
+
+Video with code examples・13 mins
+
+  * Replace PyTorch layers with Quantized Layers
+
+Video with code examples・5 mins
+
+  * Quantize any Open Source PyTorch Model
+
+Video with code examples・8 mins
+
+  * Load your Quantized Weights from HuggingFace Hub
+
+Video with code examples・7 mins
+
+  * Weights Packing
+
+Video・5 mins
+
+  * Packing 2-bit Weights
+
+Video with code examples・8 mins
+
+  * Unpacking 2-Bit Weights
+
+Video with code examples・8 mins
+
+  * Beyond Linear Quantization
+
+Video・7 mins
+
+  * Conclusion
+
+Video・1 min
+
+
+
+
+## Instructors
+
+![Marc Sun](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F02%2FInstructors-profile-picture-5.png&w=256&q=75)
+
+### Marc Sun
+
+Machine Learning Engineer at Hugging Face
+
+  * [](https://www.linkedin.com/in/marc-sun/)
+
+
+
+![Younes Belkada](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F02%2FInstructors-profile-picture-6.png&w=256&q=75)
+
+### Younes Belkada
+
+Machine Learning Engineer at Hugging Face
+
+  * [](https://www.linkedin.com/in/younes-belkada-b1a903145/?locale=en_US)
+
+
+
+## Quantization in Depth
+
+  * Intermediate
+  * 2 Hours 11 Minutes
+  * 18 Video Lessons
+  * 13 Code Examples
+  * Instructors: Marc Sun, Younes Belkada
+  *     * ![Hugging Face](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F05%2Fhugging-face.png&w=48&q=75)
+Hugging Face
+
+
+
+[Enroll for Free](https://learn.deeplearning.ai/courses/quantization-in-depth)
+
+Course access is free for a limited time during the DeepLearning.AI learning platform beta!
+
+[Enroll for Free](https://learn.deeplearning.ai/courses/quantization-in-depth)
+
+## Want to learn more about Generative AI?
+
+Keep learning with updates on curated AI news, courses, and events, as well as Andrew’s thoughts from DeepLearning.AI! 
+
+[Enroll for Free](https://learn.deeplearning.ai/courses/quantization-in-depth)
+
+  * [Courses](/courses/)
+  * [The Batch](/the-batch/)
+  * [Community](/community/)
+  * [Careers](/careers/)
+  * [About](/about/)
+
+
+
+[](https://www.facebook.com/1027125564106325)[](https://www.instagram.com/deeplearningai)[](http://twitter.com/deeplearningai)[](https://www.linkedin.com/company/18246783)[](https://www.youtube.com/c/Deeplearningai)

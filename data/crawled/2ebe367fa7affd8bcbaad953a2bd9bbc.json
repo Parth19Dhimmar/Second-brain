@@ -1,0 +1,36 @@
+{
+    "id": "2ebe367fa7affd8bcbaad953a2bd9bbc",
+    "metadata": {
+        "id": "2ebe367fa7affd8bcbaad953a2bd9bbc",
+        "url": "https://mypy.readthedocs.io/en/latest/generics.html/",
+        "title": "Documentation page not found\n - Read the Docs",
+        "properties": {
+            "description": null,
+            "keywords": null,
+            "author": null
+        }
+    },
+    "parent_metadata": {
+        "id": "dcd68aa1d43adb6ce39b5ea42209dbee",
+        "url": "https://www.notion.so/Python-dcd68aa1d43adb6ce39b5ea42209dbee",
+        "title": "Python ",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ],
+            "Language": "Python",
+            "Created": {
+                "id": "tmas",
+                "type": "created_time",
+                "created_time": "2023-12-14T10:53:00.000Z"
+            }
+        }
+    },
+    "content": "404  Documentation page not found \n\n[mypy.readthedocs.io](/)\n\nThe documentation page you requested does not exist or may have been removed. \n\nHosted by [ ![Read the Docs logo](https://app-assets.readthedocs.org/readthedocsext/theme/images/logo-wordmark-dark.8035ede2e46d.svg) ](//readthedocs.org/)\n",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://mypy.readthedocs.io/",
+        "https://readthedocs.org/"
+    ]
+}

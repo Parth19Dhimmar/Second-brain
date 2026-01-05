@@ -1,0 +1,630 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Faccelerate%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Faccelerate%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=huggingface%2Faccelerate) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ huggingface ](/huggingface) / **[accelerate](/huggingface/accelerate) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fhuggingface%2Faccelerate) You must be signed in to change notification settings
+  * [ Fork 1k ](/login?return_to=%2Fhuggingface%2Faccelerate)
+  * [ Star  8.2k ](/login?return_to=%2Fhuggingface%2Faccelerate)
+
+
+
+
+🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support 
+
+[huggingface.co/docs/accelerate](https://huggingface.co/docs/accelerate "https://huggingface.co/docs/accelerate")
+
+### License
+
+[ Apache-2.0 license ](/huggingface/accelerate/blob/main/LICENSE)
+
+[ 8.2k stars ](/huggingface/accelerate/stargazers) [ 1k forks ](/huggingface/accelerate/forks) [ Branches ](/huggingface/accelerate/branches) [ Tags ](/huggingface/accelerate/tags) [ Activity ](/huggingface/accelerate/activity)
+
+[ Star  ](/login?return_to=%2Fhuggingface%2Faccelerate)
+
+[ Notifications ](/login?return_to=%2Fhuggingface%2Faccelerate) You must be signed in to change notification settings
+
+  * [ Code ](/huggingface/accelerate)
+  * [ Issues 98 ](/huggingface/accelerate/issues)
+  * [ Pull requests 26 ](/huggingface/accelerate/pulls)
+  * [ Actions ](/huggingface/accelerate/actions)
+  * [ Projects 1 ](/huggingface/accelerate/projects)
+  * [ Security ](/huggingface/accelerate/security)
+  * [ Insights ](/huggingface/accelerate/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/huggingface/accelerate)
+  * [ Issues  ](/huggingface/accelerate/issues)
+  * [ Pull requests  ](/huggingface/accelerate/pulls)
+  * [ Actions  ](/huggingface/accelerate/actions)
+  * [ Projects  ](/huggingface/accelerate/projects)
+  * [ Security  ](/huggingface/accelerate/security)
+  * [ Insights  ](/huggingface/accelerate/pulse)
+
+
+
+# huggingface/accelerate
+
+main
+
+[**90** Branches](/huggingface/accelerate/branches)[**67** Tags](/huggingface/accelerate/tags)
+
+[](/huggingface/accelerate/branches)[](/huggingface/accelerate/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![muellerzr](https://avatars.githubusercontent.com/u/7831895?v=4&size=40)](/muellerzr)[muellerzr](/huggingface/accelerate/commits?author=muellerzr)[v1.4.0.dev0](/huggingface/accelerate/commit/78b8126bff9882a66074a082cb2a80aa89026118)Jan 17, 2025[78b8126](/huggingface/accelerate/commit/78b8126bff9882a66074a082cb2a80aa89026118) · Jan 17, 2025
+
+## History
+
+[1,653 Commits](/huggingface/accelerate/commits/main/)[](/huggingface/accelerate/commits/main/)  
+[.devcontainer](/huggingface/accelerate/tree/main/.devcontainer ".devcontainer")| [.devcontainer](/huggingface/accelerate/tree/main/.devcontainer ".devcontainer")| [extensions has been removed and replaced by customizations (](/huggingface/accelerate/commit/420ff21c3bc458a8833356e2fe885484ee1b2dca "extensions has been removed and replaced by customizations \(#1075\)
+Co-authored-by: Dennis Bappert <bappert@outlook.com>")[#1075](https://github.com/huggingface/accelerate/pull/1075)[)](/huggingface/accelerate/commit/420ff21c3bc458a8833356e2fe885484ee1b2dca "extensions has been removed and replaced by customizations \(#1075\)
+Co-authored-by: Dennis Bappert <bappert@outlook.com>")| Mar 23, 2023  
+[.github](/huggingface/accelerate/tree/main/.github ".github")| [.github](/huggingface/accelerate/tree/main/.github ".github")| [Fixup docker build err (](/huggingface/accelerate/commit/ba90f856279c830f0fdafd02cf92012d8ea9d21c "Fixup docker build err \(#3333\)")[#3333](https://github.com/huggingface/accelerate/pull/3333)[)](/huggingface/accelerate/commit/ba90f856279c830f0fdafd02cf92012d8ea9d21c "Fixup docker build err \(#3333\)")| Jan 10, 2025  
+[benchmarks](/huggingface/accelerate/tree/main/benchmarks "benchmarks")| [benchmarks](/huggingface/accelerate/tree/main/benchmarks "benchmarks")| [Refactor scaler to util (](/huggingface/accelerate/commit/fb68cb9d0e934f24f415ad1d131ea2a04bf4f50d "Refactor scaler to util \(#3142\)
+* Refactor scaler to util
+* Document
+* Use the distributed_type directly")[#3142](https://github.com/huggingface/accelerate/pull/3142)[)](/huggingface/accelerate/commit/fb68cb9d0e934f24f415ad1d131ea2a04bf4f50d "Refactor scaler to util \(#3142\)
+* Refactor scaler to util
+* Document
+* Use the distributed_type directly")| Oct 8, 2024  
+[docker](/huggingface/accelerate/tree/main/docker "docker")| [docker](/huggingface/accelerate/tree/main/docker "docker")| [🚨 🚨 🚨 Goodbye Python 3.8! 🚨 🚨 🚨 (](/huggingface/accelerate/commit/85f35647db88f1b584725e7e4e200fd9afe4eeed "🚨 🚨 🚨 Goodbye Python 3.8! 🚨 🚨 🚨 \(#3194\)")[#3194](https://github.com/huggingface/accelerate/pull/3194)[)](/huggingface/accelerate/commit/85f35647db88f1b584725e7e4e200fd9afe4eeed "🚨 🚨 🚨 Goodbye Python 3.8! 🚨 🚨 🚨 \(#3194\)")| Oct 24, 2024  
+[docs](/huggingface/accelerate/tree/main/docs "docs")| [docs](/huggingface/accelerate/tree/main/docs "docs")| [Bye bye torch <2 (](/huggingface/accelerate/commit/b13aadcb6750259a09da5b4df4f708d90664f792 "Bye bye torch <2 \(#3331\)
+* Bye bye torch <1
+* Add 2.6.0 dl args
+* Rm require fsdp
+* Adjust imports + 2.0 specific modeling code
+* Bring back is_bf16")[#3331](https://github.com/huggingface/accelerate/pull/3331)[)](/huggingface/accelerate/commit/b13aadcb6750259a09da5b4df4f708d90664f792 "Bye bye torch <2 \(#3331\)
+* Bye bye torch <1
+* Add 2.6.0 dl args
+* Rm require fsdp
+* Adjust imports + 2.0 specific modeling code
+* Bring back is_bf16")| Jan 9, 2025  
+[examples](/huggingface/accelerate/tree/main/examples "examples")| [examples](/huggingface/accelerate/tree/main/examples "examples")| [Give example on how to handle gradient accumulation with cross-entropy (](/huggingface/accelerate/commit/acfbf72a7fb2d61f09b8640c17b87f6dbdeb44f3 "Give example on how to handle gradient accumulation with cross-entropy \(#3193\)
+* Add cross-entropy example in the gradient accumulation docs
+* add example of logs
+* correct skeleton code
+* replace gather_for_metrics with gather
+* batch_size -> per_device_batch_size
+* remove main_process_only=True
+* add autoregressive example in examples/
+* Update docs/source/usage_guides/gradient_accumulation.md
+Co-authored-by: Marc Sun <57196510+SunMarc@users.noreply.github.com>
+* ruff format
+* add grad accum test
+* update docs
+* Update examples/by_feature/gradient_accumulation_for_autoregressive_models.py
+Co-authored-by: Zach Mueller <muellerzr@gmail.com>
+* update tests
+---------
+Co-authored-by: Marc Sun <57196510+SunMarc@users.noreply.github.com>
+Co-authored-by: Zach Mueller <muellerzr@gmail.com>")| Dec 24, 2024  
+[manim_animations](/huggingface/accelerate/tree/main/manim_animations "manim_animations")| [manim_animations](/huggingface/accelerate/tree/main/manim_animations "manim_animations")| [Add source code for DataLoader Animation (](/huggingface/accelerate/commit/3dc131cd8dd3ceb67c65b3588a1d909c0dbdabb4 "Add source code for DataLoader Animation \(#2696\)
+* dl animation
+* oops
+* Export")[#2696](https://github.com/huggingface/accelerate/pull/2696)[)](/huggingface/accelerate/commit/3dc131cd8dd3ceb67c65b3588a1d909c0dbdabb4 "Add source code for DataLoader Animation \(#2696\)
+* dl animation
+* oops
+* Export")| Apr 23, 2024  
+[src/accelerate](/huggingface/accelerate/tree/main/src/accelerate "This path skips through empty directories")| [src/accelerate](/huggingface/accelerate/tree/main/src/accelerate "This path skips through empty directories")| [v1.4.0.dev0](/huggingface/accelerate/commit/78b8126bff9882a66074a082cb2a80aa89026118 "v1.4.0.dev0")| Jan 17, 2025  
+[tests](/huggingface/accelerate/tree/main/tests "tests")| [tests](/huggingface/accelerate/tree/main/tests "tests")| [[tests] enable BNB test cases in](/huggingface/accelerate/commit/7e324103c4eee7b605f7ac732f367ca694c56fc1 "\[tests\] enable BNB test cases in `tests/test_quantization.py` on XPU \(#3349\)
+* enable bnb tests
+* bug fix
+* fix quality issue
+* furter fix quality
+* fix style") `[tests/test_quantization.py](/huggingface/accelerate/commit/7e324103c4eee7b605f7ac732f367ca694c56fc1 "\[tests\] enable BNB test cases in `tests/test_quantization.py` on XPU \(#3349\)
+* enable bnb tests
+* bug fix
+* fix quality issue
+* furter fix quality
+* fix style")` [on XPU (](/huggingface/accelerate/commit/7e324103c4eee7b605f7ac732f367ca694c56fc1 "\[tests\] enable BNB test cases in `tests/test_quantization.py` on XPU \(#3349\)
+* enable bnb tests
+* bug fix
+* fix quality issue
+* furter fix quality
+* fix style")[#…](https://github.com/huggingface/accelerate/pull/3349)| Jan 17, 2025  
+[utils](/huggingface/accelerate/tree/main/utils "utils")| [utils](/huggingface/accelerate/tree/main/utils "utils")| [Add copyright + some ruff lint things (](/huggingface/accelerate/commit/7a2feecad4ed98b78c52396c9b1233138162ebc2 "Add copyright + some ruff lint things \(#2523\)
+* Copyright and ruff stuff
+* lol")[#2523](https://github.com/huggingface/accelerate/pull/2523)[)](/huggingface/accelerate/commit/7a2feecad4ed98b78c52396c9b1233138162ebc2 "Add copyright + some ruff lint things \(#2523\)
+* Copyright and ruff stuff
+* lol")| Mar 4, 2024  
+[.gitignore](/huggingface/accelerate/blob/main/.gitignore ".gitignore")| [.gitignore](/huggingface/accelerate/blob/main/.gitignore ".gitignore")| [Update quality tools to 2023 (](/huggingface/accelerate/commit/5002e5670498a814548690b4168e0984cde54904 "Update quality tools to 2023 \(#1046\)
+* Setup 2023 tooling for quality
+* Result of styling
+* Simplify inits and remove isort and flake8 from doc
+* Puts back isort skip flag")[#1046](https://github.com/huggingface/accelerate/pull/1046)[)](/huggingface/accelerate/commit/5002e5670498a814548690b4168e0984cde54904 "Update quality tools to 2023 \(#1046\)
+* Setup 2023 tooling for quality
+* Result of styling
+* Simplify inits and remove isort and flake8 from doc
+* Puts back isort skip flag")| Feb 7, 2023  
+[.pre-commit-config.yaml](/huggingface/accelerate/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/huggingface/accelerate/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Add pre-commit configuration (](/huggingface/accelerate/commit/67e698cf4de401d0536ec625091da91ed2a83f21 "Add pre-commit configuration \(#2451\)")[#2451](https://github.com/huggingface/accelerate/pull/2451)[)](/huggingface/accelerate/commit/67e698cf4de401d0536ec625091da91ed2a83f21 "Add pre-commit configuration \(#2451\)")| Feb 26, 2024  
+[CODE_OF_CONDUCT.md](/huggingface/accelerate/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/huggingface/accelerate/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Badges and code of conduct](/huggingface/accelerate/commit/6c81eb21e05d121259b73a5c226f06b7cbc61e0d "Badges and code of conduct")| Feb 11, 2021  
+[CONTRIBUTING.md](/huggingface/accelerate/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/huggingface/accelerate/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Update CONTRIBUTING.md Setup Instructions (](/huggingface/accelerate/commit/8c3aded21af951d3eceb28fa154c679f12d7edd3 "Update CONTRIBUTING.md Setup Instructions \(#3046\)")[#3046](https://github.com/huggingface/accelerate/pull/3046)[)](/huggingface/accelerate/commit/8c3aded21af951d3eceb28fa154c679f12d7edd3 "Update CONTRIBUTING.md Setup Instructions \(#3046\)")| Aug 26, 2024  
+[LICENSE](/huggingface/accelerate/blob/main/LICENSE "LICENSE")| [LICENSE](/huggingface/accelerate/blob/main/LICENSE "LICENSE")| [Initial commit](/huggingface/accelerate/commit/f88703334062f2dee4dfb7a1281e4febe76632cb "Initial commit")| Oct 30, 2020  
+[Makefile](/huggingface/accelerate/blob/main/Makefile "Makefile")| [Makefile](/huggingface/accelerate/blob/main/Makefile "Makefile")| [Add copyright + some ruff lint things (](/huggingface/accelerate/commit/7a2feecad4ed98b78c52396c9b1233138162ebc2 "Add copyright + some ruff lint things \(#2523\)
+* Copyright and ruff stuff
+* lol")[#2523](https://github.com/huggingface/accelerate/pull/2523)[)](/huggingface/accelerate/commit/7a2feecad4ed98b78c52396c9b1233138162ebc2 "Add copyright + some ruff lint things \(#2523\)
+* Copyright and ruff stuff
+* lol")| Mar 4, 2024  
+[README.md](/huggingface/accelerate/blob/main/README.md "README.md")| [README.md](/huggingface/accelerate/blob/main/README.md "README.md")| [Improve config handling and add a zoo (](/huggingface/accelerate/commit/1a6af0bd6dc125db287bbe7cf8577a45ebe252ec "Improve config handling and add a zoo \(#3029\)
+* Improve config handling and add a zoo
+* Docs
+* rm comment
+* Tweak doc")[#3029](https://github.com/huggingface/accelerate/pull/3029)[)](/huggingface/accelerate/commit/1a6af0bd6dc125db287bbe7cf8577a45ebe252ec "Improve config handling and add a zoo \(#3029\)
+* Improve config handling and add a zoo
+* Docs
+* rm comment
+* Tweak doc")| Aug 20, 2024  
+[pyproject.toml](/huggingface/accelerate/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/huggingface/accelerate/blob/main/pyproject.toml "pyproject.toml")| [MAINT: Upgrade ruff to v0.6.4 (](/huggingface/accelerate/commit/3fd02e60dc32c982aa52d527aafb3134367a794c "MAINT: Upgrade ruff to v0.6.4 \(#3095\)
+* MNT Upgrade ruff to 0.6.4
+Currently used version, 0.2.1, is quite old at this point.
+Not a lot needed to be changed:
+- Change ruff version in setup.py
+- Remove deprecated ignore-init-module-imports option for ruff
+- Type comparison should use is and not ==
+- Use f-string instead of % formatting
+- Some line wrapping and empty lines
+* Oops")[#3095](https://github.com/huggingface/accelerate/pull/3095)[)](/huggingface/accelerate/commit/3fd02e60dc32c982aa52d527aafb3134367a794c "MAINT: Upgrade ruff to v0.6.4 \(#3095\)
+* MNT Upgrade ruff to 0.6.4
+Currently used version, 0.2.1, is quite old at this point.
+Not a lot needed to be changed:
+- Change ruff version in setup.py
+- Remove deprecated ignore-init-module-imports option for ruff
+- Type comparison should use is and not ==
+- Use f-string instead of % formatting
+- Some line wrapping and empty lines
+* Oops")| Sep 10, 2024  
+[setup.py](/huggingface/accelerate/blob/main/setup.py "setup.py")| [setup.py](/huggingface/accelerate/blob/main/setup.py "setup.py")| [v1.4.0.dev0](/huggingface/accelerate/commit/78b8126bff9882a66074a082cb2a80aa89026118 "v1.4.0.dev0")| Jan 17, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [Apache-2.0 license](#)
+
+
+
+[![](https://raw.githubusercontent.com/huggingface/accelerate/main/docs/source/imgs/accelerate_logo.png)](https://raw.githubusercontent.com/huggingface/accelerate/main/docs/source/imgs/accelerate_logo.png)
+
+[![License](https://camo.githubusercontent.com/3e1e991a03f9428f57c084e0b330e1643fecaa9bfd526734a63bdf81781bd109/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f68756767696e67666163652f616363656c65726174652e7376673f636f6c6f723d626c7565)](https://github.com/huggingface/accelerate/blob/main/LICENSE) [![Documentation](https://camo.githubusercontent.com/7fad2cdc30ce31ed1101db87322f66d2130f048589e1a72d02d0387255e41349/68747470733a2f2f696d672e736869656c64732e696f2f776562736974652f687474702f68756767696e67666163652e636f2f646f63732f616363656c65726174652f696e6465782e68746d6c2e7376673f646f776e5f636f6c6f723d72656426646f776e5f6d6573736167653d6f66666c696e652675705f6d6573736167653d6f6e6c696e65)](https://huggingface.co/docs/accelerate/index.html) [![GitHub release](https://camo.githubusercontent.com/af2f6388c6d9cb2dd39a1451e122c1c906541922aaba49a4087a550bc51de68c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f68756767696e67666163652f616363656c65726174652e737667)](https://github.com/huggingface/accelerate/releases) [![Contributor Covenant](https://camo.githubusercontent.com/b939bc6b6e2370a6266a694cc4f0a583fbb99d28a82d0e5088f21739c369d3c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d76322e3025323061646f707465642d6666363962342e737667)](https://github.com/huggingface/accelerate/blob/main/CODE_OF_CONDUCT.md)
+
+Run your *raw* PyTorch training script on any kind of device 
+
+[](#run-your-raw-pytorch-training-script-on-any-kind-of-device)
+
+###  [![](https://raw.githubusercontent.com/huggingface/accelerate/main/docs/source/imgs/course_banner.png)](https://hf.co/course)
+
+[](#----)
+
+## Easy to integrate
+
+[](#easy-to-integrate)
+
+🤗 Accelerate was created for PyTorch users who like to write the training loop of PyTorch models but are reluctant to write and maintain the boilerplate code needed to use multi-GPUs/TPU/fp16.
+
+🤗 Accelerate abstracts exactly and only the boilerplate code related to multi-GPUs/TPU/fp16 and leaves the rest of your code unchanged.
+
+Here is an example:
+
+```
+import torch import torch.nn.functional as F from datasets import load_dataset + from accelerate import Accelerator + accelerator = Accelerator() - device = 'cpu' + device = accelerator.device model = torch.nn.Transformer().to(device) optimizer = torch.optim.Adam(model.parameters()) dataset = load_dataset('my_dataset') data = torch.utils.data.DataLoader(dataset, shuffle=True) + model, optimizer, data = accelerator.prepare(model, optimizer, data) model.train() for epoch in range(10): for source, targets in data: source = source.to(device) targets = targets.to(device) optimizer.zero_grad() output = model(source) loss = F.cross_entropy(output, targets) - loss.backward() + accelerator.backward(loss) optimizer.step()
+```
+
+As you can see in this example, by adding 5-lines to any standard PyTorch training script you can now run on any kind of single or distributed node setting (single CPU, single GPU, multi-GPUs and TPUs) as well as with or without mixed precision (fp8, fp16, bf16).
+
+In particular, the same code can then be run without modification on your local machine for debugging or your training environment.
+
+🤗 Accelerate even handles the device placement for you (which requires a few more changes to your code, but is safer in general), so you can even simplify your training loop further:
+
+```
+import torch import torch.nn.functional as F from datasets import load_dataset + from accelerate import Accelerator - device = 'cpu' + accelerator = Accelerator() - model = torch.nn.Transformer().to(device) + model = torch.nn.Transformer() optimizer = torch.optim.Adam(model.parameters()) dataset = load_dataset('my_dataset') data = torch.utils.data.DataLoader(dataset, shuffle=True) + model, optimizer, data = accelerator.prepare(model, optimizer, data) model.train() for epoch in range(10): for source, targets in data: - source = source.to(device) - targets = targets.to(device) optimizer.zero_grad() output = model(source) loss = F.cross_entropy(output, targets) - loss.backward() + accelerator.backward(loss) optimizer.step()
+```
+
+Want to learn more? Check out the [documentation](https://huggingface.co/docs/accelerate) or have a look at our [examples](https://github.com/huggingface/accelerate/tree/main/examples).
+
+## Launching script
+
+[](#launching-script)
+
+🤗 Accelerate also provides an optional CLI tool that allows you to quickly configure and test your training environment before launching the scripts. No need to remember how to use `torch.distributed.run` or to write a specific launcher for TPU training! On your machine(s) just run:
+
+```
+accelerate config
+```
+
+and answer the questions asked. This will generate a config file that will be used automatically to properly set the default options when doing
+
+```
+accelerate launch my_script.py --args_to_my_script
+```
+
+For instance, here is how you would run the GLUE example on the MRPC task (from the root of the repo):
+
+```
+accelerate launch examples/nlp_example.py
+```
+
+This CLI tool is **optional** , and you can still use `python my_script.py` or `python -m torchrun my_script.py` at your convenience.
+
+You can also directly pass in the arguments you would to `torchrun` as arguments to `accelerate launch` if you wish to not run` accelerate config`.
+
+For example, here is how to launch on two GPUs:
+
+```
+accelerate launch --multi_gpu --num_processes 2 examples/nlp_example.py
+```
+
+To learn more, check the CLI documentation available [here](https://huggingface.co/docs/accelerate/package_reference/cli).
+
+Or view the configuration zoo [here](https://github.com/huggingface/accelerate/blob/main/examples/config_yaml_templates/)
+
+## Launching multi-CPU run using MPI
+
+[](#launching-multi-cpu-run-using-mpi)
+
+🤗 Here is another way to launch multi-CPU run using MPI. You can learn how to install Open MPI on [this page](https://www.open-mpi.org/faq/?category=building#easy-build). You can use Intel MPI or MVAPICH as well. Once you have MPI setup on your cluster, just run:
+
+```
+accelerate config
+```
+
+Answer the questions that are asked, selecting to run using multi-CPU, and answer "yes" when asked if you want accelerate to launch mpirun. Then, use `accelerate launch` with your script like:
+
+```
+accelerate launch examples/nlp_example.py
+```
+
+Alternatively, you can use mpirun directly, without using the CLI like:
+
+```
+mpirun -np 2 python examples/nlp_example.py
+```
+
+## Launching training using DeepSpeed
+
+[](#launching-training-using-deepspeed)
+
+🤗 Accelerate supports training on single/multiple GPUs using DeepSpeed. To use it, you don't need to change anything in your training code; you can set everything using just `accelerate config`. However, if you desire to tweak your DeepSpeed related args from your Python script, we provide you the `DeepSpeedPlugin`.
+
+```
+from accelerate import Accelerator, DeepSpeedPlugin # deepspeed needs to know your gradient accumulation steps beforehand, so don't forget to pass it # Remember you still need to do gradient accumulation by yourself, just like you would have done without deepspeed deepspeed_plugin = DeepSpeedPlugin(zero_stage=2, gradient_accumulation_steps=2) accelerator = Accelerator(mixed_precision='fp16', deepspeed_plugin=deepspeed_plugin) # How to save your 🤗 Transformer? accelerator.wait_for_everyone() unwrapped_model = accelerator.unwrap_model(model) unwrapped_model.save_pretrained(save_dir, save_function=accelerator.save, state_dict=accelerator.get_state_dict(model))
+```
+
+Note: DeepSpeed support is experimental for now. In case you get into some problem, please open an issue.
+
+## Launching your training from a notebook
+
+[](#launching-your-training-from-a-notebook)
+
+🤗 Accelerate also provides a `notebook_launcher` function you can use in a notebook to launch a distributed training. This is especially useful for Colab or Kaggle notebooks with a TPU backend. Just define your training loop in a `training_function` then in your last cell, add:
+
+```
+from accelerate import notebook_launcher notebook_launcher(training_function)
+```
+
+An example can be found in [this notebook](https://github.com/huggingface/notebooks/blob/main/examples/accelerate_examples/simple_nlp_example.ipynb). [![Open In Colab](https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/accelerate_examples/simple_nlp_example.ipynb)
+
+## Why should I use 🤗 Accelerate?
+
+[](#why-should-i-use--accelerate)
+
+You should use 🤗 Accelerate when you want to easily run your training scripts in a distributed environment without having to renounce full control over your training loop. This is not a high-level framework above PyTorch, just a thin wrapper so you don't have to learn a new library. In fact, the whole API of 🤗 Accelerate is in one class, the `Accelerator` object.
+
+## Why shouldn't I use 🤗 Accelerate?
+
+[](#why-shouldnt-i-use--accelerate)
+
+You shouldn't use 🤗 Accelerate if you don't want to write a training loop yourself. There are plenty of high-level libraries above PyTorch that will offer you that, 🤗 Accelerate is not one of them.
+
+## Frameworks using 🤗 Accelerate
+
+[](#frameworks-using--accelerate)
+
+If you like the simplicity of 🤗 Accelerate but would prefer a higher-level abstraction around its capabilities, some frameworks and libraries that are built on top of 🤗 Accelerate are listed below:
+
+  * [Amphion](https://github.com/open-mmlab/Amphion) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
+  * [Animus](https://github.com/Scitator/animus) is a minimalistic framework to run machine learning experiments. Animus highlights common "breakpoints" in ML experiments and provides a unified interface for them within [IExperiment](https://github.com/Scitator/animus/blob/main/animus/core.py#L76).
+  * [Catalyst](https://github.com/catalyst-team/catalyst#getting-started) is a PyTorch framework for Deep Learning Research and Development. It focuses on reproducibility, rapid experimentation, and codebase reuse so you can create something new rather than write yet another train loop. Catalyst provides a [Runner](https://catalyst-team.github.io/catalyst/api/core.html#runner) to connect all parts of the experiment: hardware backend, data transformations, model training, and inference logic.
+  * [fastai](https://github.com/fastai/fastai#installing) is a PyTorch framework for Deep Learning that simplifies training fast and accurate neural nets using modern best practices. fastai provides a [Learner](https://docs.fast.ai/learner.html#Learner) to handle the training, fine-tuning, and inference of deep learning algorithms.
+  * [Finetuner](https://github.com/jina-ai/finetuner) is a service that enables models to create higher-quality embeddings for semantic search, visual similarity search, cross-modal text<->image search, recommendation systems, clustering, duplication detection, anomaly detection, or other uses.
+  * [InvokeAI](https://github.com/invoke-ai/InvokeAI) is a creative engine for Stable Diffusion models, offering industry-leading WebUI, terminal usage support, and serves as the foundation for many commercial products.
+  * [Kornia](https://kornia.readthedocs.io/en/latest/get-started/introduction.html) is a differentiable library that allows classical computer vision to be integrated into deep learning models. Kornia provides a [Trainer](https://kornia.readthedocs.io/en/latest/x.html#kornia.x.Trainer) with the specific purpose to train and fine-tune the supported deep learning algorithms within the library.
+  * [Open Assistant](https://projects.laion.ai/Open-Assistant/) is a chat-based assistant that understands tasks, can interact with their party systems, and retrieve information dynamically to do so.
+  * [pytorch-accelerated](https://github.com/Chris-hughes10/pytorch-accelerated) is a lightweight training library, with a streamlined feature set centered around a general-purpose [Trainer](https://pytorch-accelerated.readthedocs.io/en/latest/trainer.html), that places a huge emphasis on simplicity and transparency; enabling users to understand exactly what is going on under the hood, but without having to write and maintain the boilerplate themselves!
+  * [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) is an open-source browser-based easy-to-use interface based on the Gradio library for Stable Diffusion.
+  * [torchkeras](https://github.com/lyhue1991/torchkeras) is a simple tool for training pytorch model just in a keras style, a dynamic and beautiful plot is provided in notebook to monitor your loss or metric.
+  * [transformers](https://github.com/huggingface/transformers) as a tool for helping train state-of-the-art machine learning models in PyTorch, Tensorflow, and JAX. (Accelerate is the backend for the PyTorch side).
+
+
+
+## Installation
+
+[](#installation)
+
+This repository is tested on Python 3.8+ and PyTorch 1.10.0+
+
+You should install 🤗 Accelerate in a [virtual environment](https://docs.python.org/3/library/venv.html). If you're unfamiliar with Python virtual environments, check out the [user guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/).
+
+First, create a virtual environment with the version of Python you're going to use and activate it.
+
+Then, you will need to install PyTorch: refer to the [official installation page](https://pytorch.org/get-started/locally/#start-locally) regarding the specific install command for your platform. Then 🤗 Accelerate can be installed using pip as follows:
+
+```
+pip install accelerate
+```
+
+## Supported integrations
+
+[](#supported-integrations)
+
+  * CPU only
+  * multi-CPU on one node (machine)
+  * multi-CPU on several nodes (machines)
+  * single GPU
+  * multi-GPU on one node (machine)
+  * multi-GPU on several nodes (machines)
+  * TPU
+  * FP16/BFloat16 mixed precision
+  * FP8 mixed precision with [Transformer Engine](https://github.com/NVIDIA/TransformerEngine) or [MS-AMP](https://github.com/Azure/MS-AMP/)
+  * DeepSpeed support (Experimental)
+  * PyTorch Fully Sharded Data Parallel (FSDP) support (Experimental)
+  * Megatron-LM support (Experimental)
+
+
+
+## Citing 🤗 Accelerate
+
+[](#citing--accelerate)
+
+If you use 🤗 Accelerate in your publication, please cite it by using the following BibTeX entry.
+
+```
+@Misc{accelerate, title = {Accelerate: Training and inference at scale made simple, efficient and adaptable.}, author = {Sylvain Gugger and Lysandre Debut and Thomas Wolf and Philipp Schmid and Zachary Mueller and Sourab Mangrulkar and Marc Sun and Benjamin Bossan}, howpublished = {\url{https://github.com/huggingface/accelerate}}, year = {2022} }
+```
+
+## About
+
+🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support 
+
+[huggingface.co/docs/accelerate](https://huggingface.co/docs/accelerate "https://huggingface.co/docs/accelerate")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+[ Activity](/huggingface/accelerate/activity)
+
+[ Custom properties](/huggingface/accelerate/custom-properties)
+
+### Stars
+
+[ **8.2k** stars](/huggingface/accelerate/stargazers)
+
+### Watchers
+
+[ **97** watching](/huggingface/accelerate/watchers)
+
+### Forks
+
+[ **1k** forks](/huggingface/accelerate/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhuggingface%2Faccelerate&report=huggingface+%28user%29)
+
+##  [Releases 58](/huggingface/accelerate/releases)
+
+[ v1.3.0 Bug fixes + Require torch 2.0 Latest  Jan 17, 2025 ](/huggingface/accelerate/releases/tag/v1.3.0)
+
+[+ 57 releases](/huggingface/accelerate/releases)
+
+##  [Packages 0](/orgs/huggingface/packages?repo_name=accelerate)
+
+No packages published 
+
+##  [Used by 65.8k](/huggingface/accelerate/network/dependents)
+
+[
+
+  * ![@KristofarStavrev](https://avatars.githubusercontent.com/u/27790359?s=64&v=4)
+  * ![@daavidwlf](https://avatars.githubusercontent.com/u/129742131?s=64&v=4)
+  * ![@MilFey21](https://avatars.githubusercontent.com/u/123930503?s=64&v=4)
+  * ![@cynthiaxu04](https://avatars.githubusercontent.com/u/89044958?s=64&v=4)
+  * ![@ViksML](https://avatars.githubusercontent.com/u/184676963?s=64&v=4)
+  * ![@rayli09](https://avatars.githubusercontent.com/u/99834841?s=64&v=4)
+  * ![@fermsi-paradox](https://avatars.githubusercontent.com/u/191163511?s=64&v=4)
+  * ![@website7777](https://avatars.githubusercontent.com/u/95430611?s=64&v=4)
+
++ 65,818  ](/huggingface/accelerate/network/dependents)
+
+##  [Contributors 319](/huggingface/accelerate/graphs/contributors)
+
+  * [ ![@muellerzr](https://avatars.githubusercontent.com/u/7831895?s=64&v=4) ](https://github.com/muellerzr)
+  * [ ![@sgugger](https://avatars.githubusercontent.com/u/35901082?s=64&v=4) ](https://github.com/sgugger)
+  * [ ![@pacman100](https://avatars.githubusercontent.com/u/13534540?s=64&v=4) ](https://github.com/pacman100)
+  * [ ![@SunMarc](https://avatars.githubusercontent.com/u/57196510?s=64&v=4) ](https://github.com/SunMarc)
+  * [ ![@faaany](https://avatars.githubusercontent.com/u/24477841?s=64&v=4) ](https://github.com/faaany)
+  * [ ![@BenjaminBossan](https://avatars.githubusercontent.com/u/6229650?s=64&v=4) ](https://github.com/BenjaminBossan)
+  * [ ![@stas00](https://avatars.githubusercontent.com/u/10676103?s=64&v=4) ](https://github.com/stas00)
+  * [ ![@younesbelkada](https://avatars.githubusercontent.com/u/49240599?s=64&v=4) ](https://github.com/younesbelkada)
+  * [ ![@ji-huazhong](https://avatars.githubusercontent.com/u/28150734?s=64&v=4) ](https://github.com/ji-huazhong)
+  * [ ![@abhilash1910](https://avatars.githubusercontent.com/u/30946547?s=64&v=4) ](https://github.com/abhilash1910)
+  * [ ![@stevhliu](https://avatars.githubusercontent.com/u/59462357?s=64&v=4) ](https://github.com/stevhliu)
+  * [ ![@LysandreJik](https://avatars.githubusercontent.com/u/30755778?s=64&v=4) ](https://github.com/LysandreJik)
+  * [ ![@sywangyi](https://avatars.githubusercontent.com/u/36058628?s=64&v=4) ](https://github.com/sywangyi)
+  * [ ![@fxmarty](https://avatars.githubusercontent.com/u/9808326?s=64&v=4) ](https://github.com/fxmarty)
+
+
+
+[+ 305 contributors](/huggingface/accelerate/graphs/contributors)
+
+## Languages
+
+  * [ Python 99.6% ](/huggingface/accelerate/search?l=python)
+  * Other 0.4%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

@@ -1,0 +1,528 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fsmolagents%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fsmolagents%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=huggingface%2Fsmolagents) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ huggingface ](/huggingface) / **[smolagents](/huggingface/smolagents) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fhuggingface%2Fsmolagents) You must be signed in to change notification settings
+  * [ Fork 503 ](/login?return_to=%2Fhuggingface%2Fsmolagents)
+  * [ Star  5.6k ](/login?return_to=%2Fhuggingface%2Fsmolagents)
+
+
+
+
+🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. 
+
+[huggingface.co/docs/smolagents](https://huggingface.co/docs/smolagents "https://huggingface.co/docs/smolagents")
+
+### License
+
+[ Apache-2.0 license ](/huggingface/smolagents/blob/main/LICENSE)
+
+[ 5.6k stars ](/huggingface/smolagents/stargazers) [ 503 forks ](/huggingface/smolagents/forks) [ Branches ](/huggingface/smolagents/branches) [ Tags ](/huggingface/smolagents/tags) [ Activity ](/huggingface/smolagents/activity)
+
+[ Star  ](/login?return_to=%2Fhuggingface%2Fsmolagents)
+
+[ Notifications ](/login?return_to=%2Fhuggingface%2Fsmolagents) You must be signed in to change notification settings
+
+  * [ Code ](/huggingface/smolagents)
+  * [ Issues 50 ](/huggingface/smolagents/issues)
+  * [ Pull requests 26 ](/huggingface/smolagents/pulls)
+  * [ Discussions ](/huggingface/smolagents/discussions)
+  * [ Actions ](/huggingface/smolagents/actions)
+  * [ Projects 0 ](/huggingface/smolagents/projects)
+  * [ Security ](/huggingface/smolagents/security)
+  * [ Insights ](/huggingface/smolagents/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/huggingface/smolagents)
+  * [ Issues  ](/huggingface/smolagents/issues)
+  * [ Pull requests  ](/huggingface/smolagents/pulls)
+  * [ Discussions  ](/huggingface/smolagents/discussions)
+  * [ Actions  ](/huggingface/smolagents/actions)
+  * [ Projects  ](/huggingface/smolagents/projects)
+  * [ Security  ](/huggingface/smolagents/security)
+  * [ Insights  ](/huggingface/smolagents/pulse)
+
+
+
+# huggingface/smolagents
+
+main
+
+[**49** Branches](/huggingface/smolagents/branches)[**9** Tags](/huggingface/smolagents/tags)
+
+[](/huggingface/smolagents/branches)[](/huggingface/smolagents/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![kingdomad](https://avatars.githubusercontent.com/u/34766852?v=4&size=40)](/kingdomad)[kingdomad](/huggingface/smolagents/commits?author=kingdomad)[refactor(models): restructure model parameter handling (](/huggingface/smolagents/commit/398c932250f4f0ecafc5bf9351b4166662cb121b)[#227](https://github.com/huggingface/smolagents/pull/227)[)](/huggingface/smolagents/commit/398c932250f4f0ecafc5bf9351b4166662cb121b)Jan 22, 2025[398c932](/huggingface/smolagents/commit/398c932250f4f0ecafc5bf9351b4166662cb121b) · Jan 22, 2025
+
+## History
+
+[305 Commits](/huggingface/smolagents/commits/main/)[](/huggingface/smolagents/commits/main/)  
+[.github/workflows](/huggingface/smolagents/tree/main/.github/workflows "This path skips through empty directories")| [.github/workflows](/huggingface/smolagents/tree/main/.github/workflows "This path skips through empty directories")| [Clean makefile, pyproject.toml and CI (](/huggingface/smolagents/commit/1f8fd72acb29dbf22ff09a1ddf251f89add2c759 "Clean makefile, pyproject.toml and CI \(#229\)
+* Clean makefile / pyproject.toml / .github
+* new tests after
+* add back sqlalchemy
+* disable docs tests in CI
+* continue on error
+* correct continue on error
+* Remove all_docs test")[#229](https://github.com/huggingface/smolagents/pull/229)[)](/huggingface/smolagents/commit/1f8fd72acb29dbf22ff09a1ddf251f89add2c759 "Clean makefile, pyproject.toml and CI \(#229\)
+* Clean makefile / pyproject.toml / .github
+* new tests after
+* add back sqlalchemy
+* disable docs tests in CI
+* continue on error
+* correct continue on error
+* Remove all_docs test")| Jan 17, 2025  
+[docs](/huggingface/smolagents/tree/main/docs "docs")| [docs](/huggingface/smolagents/tree/main/docs "docs")| [Add Azure OpenAI support (](/huggingface/smolagents/commit/a721837c572202ea13070e97f77dc04ab3201f67 "Add Azure OpenAI support \(#282\)
+* Added support for connecting to Azure OpenAI via AzureOpenAIServerModel")[#282](https://github.com/huggingface/smolagents/pull/282)[)](/huggingface/smolagents/commit/a721837c572202ea13070e97f77dc04ab3201f67 "Add Azure OpenAI support \(#282\)
+* Added support for connecting to Azure OpenAI via AzureOpenAIServerModel")| Jan 22, 2025  
+[examples](/huggingface/smolagents/tree/main/examples "examples")| [examples](/huggingface/smolagents/tree/main/examples "examples")| [Add linter rules + apply make style (](/huggingface/smolagents/commit/6e1373a3241712343fafb35063569cc7f6b73e72 "Add linter rules + apply make style \(#255\)
+* Add linter rules + apply make style")[#255](https://github.com/huggingface/smolagents/pull/255)[)](/huggingface/smolagents/commit/6e1373a3241712343fafb35063569cc7f6b73e72 "Add linter rules + apply make style \(#255\)
+* Add linter rules + apply make style")| Jan 18, 2025  
+[src/smolagents](/huggingface/smolagents/tree/main/src/smolagents "This path skips through empty directories")| [src/smolagents](/huggingface/smolagents/tree/main/src/smolagents "This path skips through empty directories")| [refactor(models): restructure model parameter handling (](/huggingface/smolagents/commit/398c932250f4f0ecafc5bf9351b4166662cb121b "refactor\(models\): restructure model parameter handling \(#227\)
+* refactor\(models\): restructure model parameter handling
+- Introduce base-class level default parameters \(temperature, max_tokens\)
+- Optimize parameter handling: method args can override base config
+- Unify parameter handling across model implementations")[#227](https://github.com/huggingface/smolagents/pull/227)[)](/huggingface/smolagents/commit/398c932250f4f0ecafc5bf9351b4166662cb121b "refactor\(models\): restructure model parameter handling \(#227\)
+* refactor\(models\): restructure model parameter handling
+- Introduce base-class level default parameters \(temperature, max_tokens\)
+- Optimize parameter handling: method args can override base config
+- Unify parameter handling across model implementations")| Jan 22, 2025  
+[tests](/huggingface/smolagents/tree/main/tests "tests")| [tests](/huggingface/smolagents/tree/main/tests "tests")| [minor fix for console in AgentLogger (](/huggingface/smolagents/commit/ec45d6766ace781ea306979e19e81f2b28f9cc1f "minor fix for console in AgentLogger \(#303\)
+* minor fix for console in AgentLogger")[#303](https://github.com/huggingface/smolagents/pull/303)[)](/huggingface/smolagents/commit/ec45d6766ace781ea306979e19e81f2b28f9cc1f "minor fix for console in AgentLogger \(#303\)
+* minor fix for console in AgentLogger")| Jan 22, 2025  
+[utils](/huggingface/smolagents/tree/main/utils "utils")| [utils](/huggingface/smolagents/tree/main/utils "utils")| [Add linter rules + apply make style (](/huggingface/smolagents/commit/6e1373a3241712343fafb35063569cc7f6b73e72 "Add linter rules + apply make style \(#255\)
+* Add linter rules + apply make style")[#255](https://github.com/huggingface/smolagents/pull/255)[)](/huggingface/smolagents/commit/6e1373a3241712343fafb35063569cc7f6b73e72 "Add linter rules + apply make style \(#255\)
+* Add linter rules + apply make style")| Jan 18, 2025  
+[.gitignore](/huggingface/smolagents/blob/main/.gitignore ".gitignore")| [.gitignore](/huggingface/smolagents/blob/main/.gitignore ".gitignore")| [Add option to upload files to GradioUI (](/huggingface/smolagents/commit/2a51efe11fc6dca69c7e0e556ce54add57a53e40 "Add option to upload files to GradioUI \(#138\)
+* Add option to upload files to GradioUI")[#138](https://github.com/huggingface/smolagents/pull/138)[)](/huggingface/smolagents/commit/2a51efe11fc6dca69c7e0e556ce54add57a53e40 "Add option to upload files to GradioUI \(#138\)
+* Add option to upload files to GradioUI")| Jan 13, 2025  
+[.pre-commit-config.yaml](/huggingface/smolagents/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/huggingface/smolagents/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Add build files](/huggingface/smolagents/commit/9b172e900fabc666e4d92a44ceed351a44fbc726 "Add build files")| Dec 27, 2024  
+[CODE_OF_CONDUCT.md](/huggingface/smolagents/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/huggingface/smolagents/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Add code of conduct and contributing guide](/huggingface/smolagents/commit/754cddf79cc4ab4c6ad49f769911eb7f32209e1b "Add code of conduct and contributing guide")| Jan 3, 2025  
+[CONTRIBUTING.md](/huggingface/smolagents/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/huggingface/smolagents/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Clean makefile, pyproject.toml and CI (](/huggingface/smolagents/commit/1f8fd72acb29dbf22ff09a1ddf251f89add2c759 "Clean makefile, pyproject.toml and CI \(#229\)
+* Clean makefile / pyproject.toml / .github
+* new tests after
+* add back sqlalchemy
+* disable docs tests in CI
+* continue on error
+* correct continue on error
+* Remove all_docs test")[#229](https://github.com/huggingface/smolagents/pull/229)[)](/huggingface/smolagents/commit/1f8fd72acb29dbf22ff09a1ddf251f89add2c759 "Clean makefile, pyproject.toml and CI \(#229\)
+* Clean makefile / pyproject.toml / .github
+* new tests after
+* add back sqlalchemy
+* disable docs tests in CI
+* continue on error
+* correct continue on error
+* Remove all_docs test")| Jan 17, 2025  
+[Dockerfile](/huggingface/smolagents/blob/main/Dockerfile "Dockerfile")| [Dockerfile](/huggingface/smolagents/blob/main/Dockerfile "Dockerfile")| [Add E2B code interpreter 🥳](/huggingface/smolagents/commit/c18bc9037d1b07ceabd901a79a59e53a28b7745f "Add E2B code interpreter 🥳")| Dec 20, 2024  
+[LICENSE](/huggingface/smolagents/blob/main/LICENSE "LICENSE")| [LICENSE](/huggingface/smolagents/blob/main/LICENSE "LICENSE")| [Initial commit](/huggingface/smolagents/commit/dfd9609c26ccadfb6165576bf285054e738e2a95 "Initial commit")| Dec 5, 2024  
+[Makefile](/huggingface/smolagents/blob/main/Makefile "Makefile")| [Makefile](/huggingface/smolagents/blob/main/Makefile "Makefile")| [Clean makefile, pyproject.toml and CI (](/huggingface/smolagents/commit/1f8fd72acb29dbf22ff09a1ddf251f89add2c759 "Clean makefile, pyproject.toml and CI \(#229\)
+* Clean makefile / pyproject.toml / .github
+* new tests after
+* add back sqlalchemy
+* disable docs tests in CI
+* continue on error
+* correct continue on error
+* Remove all_docs test")[#229](https://github.com/huggingface/smolagents/pull/229)[)](/huggingface/smolagents/commit/1f8fd72acb29dbf22ff09a1ddf251f89add2c759 "Clean makefile, pyproject.toml and CI \(#229\)
+* Clean makefile / pyproject.toml / .github
+* new tests after
+* add back sqlalchemy
+* disable docs tests in CI
+* continue on error
+* correct continue on error
+* Remove all_docs test")| Jan 17, 2025  
+[README.md](/huggingface/smolagents/blob/main/README.md "README.md")| [README.md](/huggingface/smolagents/blob/main/README.md "README.md")| [Update README and documentation to clarify Hub integrations with Grad…](/huggingface/smolagents/commit/428aedde93807603dbe75c254afb793c741ec52d "Update README and documentation to clarify Hub integrations with Gradio Spaces and fix code snippet formatting \(#306\)
+- Changed the description of Hub integrations to specify sharing and loading of Gradio Spaces as tools.
+- Fixed a formatting issue in the code snippet by removing an extraneous comma in the import statement.")| Jan 22, 2025  
+[e2b.Dockerfile](/huggingface/smolagents/blob/main/e2b.Dockerfile "e2b.Dockerfile")| [e2b.Dockerfile](/huggingface/smolagents/blob/main/e2b.Dockerfile "e2b.Dockerfile")| [Make RAG example extremely fast with BM25](/huggingface/smolagents/commit/1abaf69b6701a0f4f56652f1304e42f721789bd8 "Make RAG example extremely fast with BM25")| Dec 26, 2024  
+[e2b.toml](/huggingface/smolagents/blob/main/e2b.toml "e2b.toml")| [e2b.toml](/huggingface/smolagents/blob/main/e2b.toml "e2b.toml")| [Add E2B code interpreter 🥳](/huggingface/smolagents/commit/c18bc9037d1b07ceabd901a79a59e53a28b7745f "Add E2B code interpreter 🥳")| Dec 20, 2024  
+[package-lock.json](/huggingface/smolagents/blob/main/package-lock.json "package-lock.json")| [package-lock.json](/huggingface/smolagents/blob/main/package-lock.json "package-lock.json")| [Add build files](/huggingface/smolagents/commit/9b172e900fabc666e4d92a44ceed351a44fbc726 "Add build files")| Dec 27, 2024  
+[package.json](/huggingface/smolagents/blob/main/package.json "package.json")| [package.json](/huggingface/smolagents/blob/main/package.json "package.json")| [Add build files](/huggingface/smolagents/commit/9b172e900fabc666e4d92a44ceed351a44fbc726 "Add build files")| Dec 27, 2024  
+[pyproject.toml](/huggingface/smolagents/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/huggingface/smolagents/blob/main/pyproject.toml "pyproject.toml")| [Make e2b optional dependency (](/huggingface/smolagents/commit/16f7910df832d8e8993daa245c6a8c037f21be19 "Make e2b optional dependency \(#292\)
+* Make e2b optional dependency with extra
+* Make e2b imports optional
+* Update e2b docs")[#292](https://github.com/huggingface/smolagents/pull/292)[)](/huggingface/smolagents/commit/16f7910df832d8e8993daa245c6a8c037f21be19 "Make e2b optional dependency \(#292\)
+* Make e2b optional dependency with extra
+* Make e2b imports optional
+* Update e2b docs")| Jan 21, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [Apache-2.0 license](#)
+
+
+
+[![License](https://camo.githubusercontent.com/8df26ff01beffc2e0877e9c33eed58b64da57acde33580a5991828321ba4ec9a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f68756767696e67666163652f736d6f6c6167656e74732e7376673f636f6c6f723d626c7565)](https://github.com/huggingface/smolagents/blob/main/LICENSE) [![Documentation](https://camo.githubusercontent.com/3ec0806cd2f53d943aeac7878e769b73dffc42a773b334c4baa5143d650d2aa5/68747470733a2f2f696d672e736869656c64732e696f2f776562736974652f687474702f68756767696e67666163652e636f2f646f63732f736d6f6c6167656e74732f696e6465782e68746d6c2e7376673f646f776e5f636f6c6f723d72656426646f776e5f6d6573736167653d6f66666c696e652675705f6d6573736167653d6f6e6c696e65)](https://huggingface.co/docs/smolagents) [![GitHub release](https://camo.githubusercontent.com/f1a4a952bd81b2bd80d6572574fecfbd7c08d446856dcb198260231287462475/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f68756767696e67666163652f736d6f6c6167656e74732e737667)](https://github.com/huggingface/smolagents/releases) [![Contributor Covenant](https://camo.githubusercontent.com/b939bc6b6e2370a6266a694cc4f0a583fbb99d28a82d0e5088f21739c369d3c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d76322e3025323061646f707465642d6666363962342e737667)](https://github.com/huggingface/smolagents/blob/main/CODE_OF_CONDUCT.md)
+
+### 
+
+[![Hugging Face mascot as James Bond](https://camo.githubusercontent.com/a8c1f1d12aa3114010c6e74b29d47fee91d8da10a915f065c38e6d0ea7f16568/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f736d6f6c6167656e74732f6d6173636f742e706e67)](https://camo.githubusercontent.com/a8c1f1d12aa3114010c6e74b29d47fee91d8da10a915f065c38e6d0ea7f16568/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f736d6f6c6167656e74732f6d6173636f742e706e67)
+
+smolagents - a smol library to build great agents!
+
+[](#----------smolagents---a-smol-library-to-build-great-agents--)
+
+`smolagents` is a library that enables you to run powerful agents in a few lines of code. It offers:
+
+✨ **Simplicity** : the logic for agents fits in ~thousand lines of code (see [agents.py](https://github.com/huggingface/smolagents/blob/main/src/smolagents/agents.py)). We kept abstractions to their minimal shape above raw code!
+
+🧑‍💻 **First-class support for Code Agents** , i.e. agents that write their actions in code (as opposed to "agents being used to write code"). To make it secure, we support executing in sandboxed environments via [E2B](https://e2b.dev/).
+
+  * On top of this [`CodeAgent`](https://huggingface.co/docs/smolagents/reference/agents#smolagents.CodeAgent) class, we still support the standard [`ToolCallingAgent`](https://huggingface.co/docs/smolagents/reference/agents#smolagents.ToolCallingAgent) that writes actions as JSON/text blobs.
+
+
+
+🤗 **Hub integrations** : you can share and load Gradio Spaces as tools to/from the Hub, and more is to come!
+
+🌐 **Support for any LLM** : it supports models hosted on the Hub loaded in their `transformers` version or through our inference API, but also supports models from OpenAI, Anthropic and many others via our [LiteLLM](https://www.litellm.ai/) integration.
+
+Full documentation can be found [here](https://huggingface.co/docs/smolagents/index).
+
+Note
+
+Check the our [launch blog post](https://huggingface.co/blog/smolagents) to learn more about `smolagents`!
+
+## Quick demo
+
+[](#quick-demo)
+
+First install the package.
+
+```
+pip install smolagents
+```
+
+Then define your agent, give it the tools it needs and run it!
+
+```
+from smolagents import CodeAgent, DuckDuckGoSearchTool, HfApiModel, agent = CodeAgent(tools=[DuckDuckGoSearchTool()], model=HfApiModel()) agent.run("How many seconds would it take for a leopard at full speed to run through Pont des Arts?")
+```
+
+smolagents.mp4
+
+## Code agents?
+
+[](#code-agents)
+
+In our `CodeAgent`, the LLM engine writes its actions in code. This approach is demonstrated to work better than the current industry practice of letting the LLM output a dictionary of the tools it wants to calls: [uses 30% fewer steps](https://huggingface.co/papers/2402.01030) (thus 30% fewer LLM calls) and [reaches higher performance on difficult benchmarks](https://huggingface.co/papers/2411.01747). Head to [our high-level intro to agents](https://huggingface.co/docs/smolagents/conceptual_guides/intro_agents) to learn more on that.
+
+Especially, since code execution can be a security concern (arbitrary code execution!), we provide options at runtime:
+
+  * a secure python interpreter to run code more safely in your environment (more secure than raw code execution but still risky)
+  * a sandboxed environment using [E2B](https://e2b.dev/) (removes the risk to your own system).
+
+
+
+## How smol is it really?
+
+[](#how-smol-is-it-really)
+
+We strived to keep abstractions to a strict minimum: the main code in `agents.py` is only ~1,000 lines of code. Still, we implement several types of agents: `CodeAgent` writes its actions as Python code snippets, and the more classic `ToolCallingAgent` leverages built-in tool calling methods.
+
+By the way, why use a framework at all? Well, because a big part of this stuff is non-trivial. For instance, the code agent has to keep a consistent format for code throughout its system prompt, its parser, the execution. So our framework handles this complexity for you. But of course we still encourage you to hack into the source code and use only the bits that you need, to the exclusion of everything else!
+
+## How strong are open models for agentic workflows?
+
+[](#how-strong-are-open-models-for-agentic-workflows)
+
+We've created [`CodeAgent`](https://huggingface.co/docs/smolagents/reference/agents#smolagents.CodeAgent) instances with some leading models, and compared them on [this benchmark](https://huggingface.co/datasets/m-ric/agents_medium_benchmark_2) that gathers questions from a few different benchmarks to propose a varied blend of challenges.
+
+[Find the benchmarking code here](https://github.com/huggingface/smolagents/blob/main/examples/benchmark.ipynb) for more detail on the agentic setup used, and see a comparison of using LLMs code agents compared to vanilla (spoilers: code agents works better).
+
+[![benchmark of different models on agentic workflows](https://camo.githubusercontent.com/26e6b31593a437a0ee4c222655fbe524f1ed27662d0b3a55db0d45a7196e7cc4/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f626c6f672f736d6f6c6167656e74732f62656e63686d61726b5f636f64655f6167656e74732e706e67)](https://camo.githubusercontent.com/26e6b31593a437a0ee4c222655fbe524f1ed27662d0b3a55db0d45a7196e7cc4/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f626c6f672f736d6f6c6167656e74732f62656e63686d61726b5f636f64655f6167656e74732e706e67)
+
+This comparison shows that open source models can now take on the best closed models!
+
+## Contributing
+
+[](#contributing)
+
+To contribute, follow our [contribution guide](https://github.com/huggingface/smolagents/blob/main/CONTRIBUTING.md).
+
+At any moment, feel welcome to open an issue, citing your exact error traces and package versions if it's a bug. It's often even better to open a PR with your proposed fixes/changes!
+
+To install dev dependencies, run:
+
+```
+`pip install -e ".[dev]" `
+```
+
+When making changes to the codebase, please check that it follows the repo's code quality requirements by running: To check code quality of the source code:
+
+```
+`make quality `
+```
+
+If the checks fail, you can run the formatter with:
+
+```
+`make style `
+```
+
+And commit the changes.
+
+To run tests locally, run this command:
+
+```
+pytest .
+```
+
+## Citing smolagents
+
+[](#citing-smolagents)
+
+If you use `smolagents` in your publication, please cite it by using the following BibTeX entry.
+
+```
+@Misc{smolagents, title = {`smolagents`: a smol library to build great agentic systems.}, author = {Aymeric Roucher and Albert Villanova del Moral and Thomas Wolf and Leandro von Werra and Erik Kaunismäki}, howpublished = {\url{https://github.com/huggingface/smolagents}}, year = {2025} }
+```
+
+## About
+
+🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. 
+
+[huggingface.co/docs/smolagents](https://huggingface.co/docs/smolagents "https://huggingface.co/docs/smolagents")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+[ Activity](/huggingface/smolagents/activity)
+
+[ Custom properties](/huggingface/smolagents/custom-properties)
+
+### Stars
+
+[ **5.6k** stars](/huggingface/smolagents/stargazers)
+
+### Watchers
+
+[ **73** watching](/huggingface/smolagents/watchers)
+
+### Forks
+
+[ **503** forks](/huggingface/smolagents/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fsmolagents&report=huggingface+%28user%29)
+
+##  [Releases 6](/huggingface/smolagents/releases)
+
+[ v1.4.1 Latest  Jan 17, 2025 ](/huggingface/smolagents/releases/tag/v1.4.1)
+
+[+ 5 releases](/huggingface/smolagents/releases)
+
+##  [Packages 0](/orgs/huggingface/packages?repo_name=smolagents)
+
+No packages published 
+
+##  [Used by 109](/huggingface/smolagents/network/dependents)
+
+[
+
+  * ![@tebinraouf](https://avatars.githubusercontent.com/u/23642967?s=64&v=4)
+  * ![@llmian-space](https://avatars.githubusercontent.com/u/191066221?s=64&v=4)
+  * ![@GHorbel-AhmEd-AMine](https://avatars.githubusercontent.com/u/39995021?s=64&v=4)
+  * ![@8ft0](https://avatars.githubusercontent.com/u/29192742?s=64&v=4)
+  * ![@ArionDas](https://avatars.githubusercontent.com/u/117722561?s=64&v=4)
+  * ![@SiDDyy007](https://avatars.githubusercontent.com/u/64948494?s=64&v=4)
+  * ![@axelbellec](https://avatars.githubusercontent.com/u/11810069?s=64&v=4)
+  * ![@0xM4sk](https://avatars.githubusercontent.com/u/120036276?s=64&v=4)
+
++ 101  ](/huggingface/smolagents/network/dependents)
+
+##  [Contributors 55](/huggingface/smolagents/graphs/contributors)
+
+  * [ ![@aymeric-roucher](https://avatars.githubusercontent.com/u/69208727?s=64&v=4) ](https://github.com/aymeric-roucher)
+  * [ ![@albertvillanova](https://avatars.githubusercontent.com/u/8515462?s=64&v=4) ](https://github.com/albertvillanova)
+  * [ ![@ScientistIzaak](https://avatars.githubusercontent.com/u/98251797?s=64&v=4) ](https://github.com/ScientistIzaak)
+  * [ ![@Wauplin](https://avatars.githubusercontent.com/u/11801849?s=64&v=4) ](https://github.com/Wauplin)
+  * [ ![@RolandJAAI](https://avatars.githubusercontent.com/u/38503289?s=64&v=4) ](https://github.com/RolandJAAI)
+  * [ ![@oliveredget](https://avatars.githubusercontent.com/u/188809800?s=64&v=4) ](https://github.com/oliveredget)
+  * [ ![@haesleinhuepf](https://avatars.githubusercontent.com/u/12660498?s=64&v=4) ](https://github.com/haesleinhuepf)
+  * [ ![@joaopauloschuler](https://avatars.githubusercontent.com/u/43456488?s=64&v=4) ](https://github.com/joaopauloschuler)
+  * [ ![@AngeloKiriakoulis](https://avatars.githubusercontent.com/u/84719237?s=64&v=4) ](https://github.com/AngeloKiriakoulis)
+  * [ ![@IlyaGusev](https://avatars.githubusercontent.com/u/2670295?s=64&v=4) ](https://github.com/IlyaGusev)
+  * [ ![@derekalia](https://avatars.githubusercontent.com/u/3313043?s=64&v=4) ](https://github.com/derekalia)
+  * [ ![@jank](https://avatars.githubusercontent.com/u/5099251?s=64&v=4) ](https://github.com/jank)
+  * [ ![@balikasg](https://avatars.githubusercontent.com/u/8049821?s=64&v=4) ](https://github.com/balikasg)
+  * [ ![@ErikKaum](https://avatars.githubusercontent.com/u/24875419?s=64&v=4) ](https://github.com/ErikKaum)
+
+
+
+[+ 41 contributors](/huggingface/smolagents/graphs/contributors)
+
+## Languages
+
+  * [ Python 99.7% ](/huggingface/smolagents/search?l=python)
+  * Other 0.3%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

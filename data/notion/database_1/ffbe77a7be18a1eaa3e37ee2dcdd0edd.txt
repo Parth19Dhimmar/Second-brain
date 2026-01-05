@@ -1,0 +1,24 @@
+# Notes
+
+
+
+<child_page>
+# Main Evaluation Methods
+
+- Using LLM-judges for AnswerRelevancy, Hallucination, Moderation, Recall and Precision
+- Visualizing embeddings
+- Comparing KNN vs. ANN methods to see how reliable ANN is
+- Using recommender and ranking metrics such as Normalized Discounted Cumulative Gain (NDCG)
+</child_page>
+
+
+
+---
+
+# Resources [Community]
+
+	
+
+# Resources [Science]
+
+# Tools

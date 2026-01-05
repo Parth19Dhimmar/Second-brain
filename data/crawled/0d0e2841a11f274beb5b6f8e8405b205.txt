@@ -1,0 +1,202 @@
+[ Skip to content ](#mlops-coding-course)
+
+[ ![logo](assets/logo.png) ](index.html "MLOps Coding Course")
+
+MLOps Coding Course 
+
+MLOps Coding Course 
+
+Type to start searching
+
+[ MLOPS-Courses/mlops-coding-course 
+
+  * 426
+  * 60
+
+](https://github.com/MLOPS-Courses/mlops-coding-course "Go to repository")
+
+  * [ MLOps Coding Course ](index.html)
+  * [ 0. Overview ](0.%20Overview/index.html)
+  * [ 1. Initializing ](1.%20Initializing/index.html)
+  * [ 2. Prototyping ](2.%20Prototyping/index.html)
+  * [ 3. Productionizing ](3.%20Productionizing/index.html)
+  * [ 4. Validating ](4.%20Validating/index.html)
+  * [ 5. Refining ](5.%20Refining/index.html)
+  * [ 6. Sharing ](6.%20Sharing/index.html)
+  * [ 7. Observability ](7.%20Observability/index.html)
+
+
+
+[ ![logo](assets/logo.png) ](index.html "MLOps Coding Course") MLOps Coding Course 
+
+[ MLOPS-Courses/mlops-coding-course 
+
+  * 426
+  * 60
+
+](https://github.com/MLOPS-Courses/mlops-coding-course "Go to repository")
+
+  * MLOps Coding Course  [ MLOps Coding Course  ](index.html) Table of contents 
+    * [ Chapter 0: Overview  ](#chapter-0-overview)
+    * [ Chapter 1: Initializing  ](#chapter-1-initializing)
+    * [ Chapter 2: Prototyping  ](#chapter-2-prototyping)
+    * [ Chapter 3: Productionizing  ](#chapter-3-productionizing)
+    * [ Chapter 4: Validating  ](#chapter-4-validating)
+    * [ Chapter 5: Refining  ](#chapter-5-refining)
+    * [ Chapter 6: Sharing  ](#chapter-6-sharing)
+    * [ Chapter 7: Observability  ](#chapter-7-observability)
+    * [ Let's journey together!  ](#lets-journey-together)
+  * [ 0. Overview  ](0.%20Overview/index.html)
+
+0. Overview 
+    * [ 0.0. Course  ](0.%20Overview/0.0.%20Course.html)
+    * [ 0.1. Projects  ](0.%20Overview/0.1.%20Projects.html)
+    * [ 0.2. Datasets  ](0.%20Overview/0.2.%20Datasets.html)
+    * [ 0.3. Platforms  ](0.%20Overview/0.3.%20Platforms.html)
+    * [ 0.4. Mentoring  ](0.%20Overview/0.4.%20Mentoring.html)
+    * [ 0.5. Assistants  ](0.%20Overview/0.5.%20Assistants.html)
+    * [ 0.6. Resources  ](0.%20Overview/0.6.%20Resources.html)
+  * [ 1. Initializing  ](1.%20Initializing/index.html)
+
+1. Initializing 
+    * [ 1.0. System  ](1.%20Initializing/1.0.%20System.html)
+    * [ 1.1. Python  ](1.%20Initializing/1.1.%20Python.html)
+    * [ 1.2. uv  ](1.%20Initializing/1.2.%20uv.html)
+    * [ 1.3. uv (project)  ](1.%20Initializing/1.3.%20uv%20%28project%29.html)
+    * [ 1.4. Git  ](1.%20Initializing/1.4.%20git.html)
+    * [ 1.5. GitHub  ](1.%20Initializing/1.5.%20GitHub.html)
+    * [ 1.6. VS Code  ](1.%20Initializing/1.6.%20VS%20Code.html)
+    * [ 1.7. pyenv (ARCHIVE)  ](1.%20Initializing/1.7.%20pyenv%20%28ARCHIVE%29.html)
+    * [ 1.8 Poetry (ARCHIVE)  ](1.%20Initializing/1.8.%20Poetry%20%28ARCHIVE%29.html)
+  * [ 2. Prototyping  ](2.%20Prototyping/index.html)
+
+2. Prototyping 
+    * [ 2.0. Notebooks  ](2.%20Prototyping/2.0.%20Notebooks.html)
+    * [ 2.1. Imports  ](2.%20Prototyping/2.1.%20Imports.html)
+    * [ 2.2. Configs  ](2.%20Prototyping/2.2.%20Configs.html)
+    * [ 2.3. Datasets  ](2.%20Prototyping/2.3.%20Datasets.html)
+    * [ 2.4. Analysis  ](2.%20Prototyping/2.4.%20Analysis.html)
+    * [ 2.5. Modeling  ](2.%20Prototyping/2.5.%20Modeling.html)
+    * [ 2.6. Evaluations  ](2.%20Prototyping/2.6.%20Evaluations.html)
+  * [ 3. Productionizing  ](3.%20Productionizing/index.html)
+
+3. Productionizing 
+    * [ 3.0. Package  ](3.%20Productionizing/3.0.%20Package.html)
+    * [ 3.1. Modules  ](3.%20Productionizing/3.1.%20Modules.html)
+    * [ 3.2. Paradigms  ](3.%20Productionizing/3.2.%20Paradigms.html)
+    * [ 3.3. Entrypoints  ](3.%20Productionizing/3.3.%20Entrypoints.html)
+    * [ 3.4. Configurations  ](3.%20Productionizing/3.4.%20Configurations.html)
+    * [ 3.5. Documentations  ](3.%20Productionizing/3.5.%20Documentations.html)
+    * [ 3.6. VS Code Workspace  ](3.%20Productionizing/3.6.%20VS%20Code%20Workspace.html)
+  * [ 4. Validating  ](4.%20Validating/index.html)
+
+4. Validating 
+    * [ 4.0. Typing  ](4.%20Validating/4.0.%20Typing.html)
+    * [ 4.1. Linting  ](4.%20Validating/4.1.%20Linting.html)
+    * [ 4.2. Testing  ](4.%20Validating/4.2.%20Testing.html)
+    * [ 4.3. Logging  ](4.%20Validating/4.3.%20Logging.html)
+    * [ 4.4. Security  ](4.%20Validating/4.4.%20Security.html)
+    * [ 4.5. Formatting  ](4.%20Validating/4.5.%20Formatting.html)
+    * [ 4.6. Debugging  ](4.%20Validating/4.6.%20Debugging.html)
+  * [ 5. Refining  ](5.%20Refining/index.html)
+
+5. Refining 
+    * [ 5.0. Design Patterns  ](5.%20Refining/5.0.%20Design%20Patterns.html)
+    * [ 5.1. Task Automation  ](5.%20Refining/5.1.%20Task%20Automation.html)
+    * [ 5.2. Pre-Commit Hooks  ](5.%20Refining/5.2.%20Pre-Commit%20Hooks.html)
+    * [ 5.3. CI/CD Workflows  ](5.%20Refining/5.3.%20CI-CD%20Workflows.html)
+    * [ 5.4. Software Containers  ](5.%20Refining/5.4.%20Software%20Containers.html)
+    * [ 5.5. AI/ML Experiments  ](5.%20Refining/5.5.%20AI-ML%20Experiments.html)
+    * [ 5.6. Model Registries  ](5.%20Refining/5.6.%20Model%20Registries.html)
+  * [ 6. Sharing  ](6.%20Sharing/index.html)
+
+6. Sharing 
+    * [ 6.0. Repository  ](6.%20Sharing/6.0.%20Repository.html)
+    * [ 6.1. License  ](6.%20Sharing/6.1.%20License.html)
+    * [ 6.2. Readme  ](6.%20Sharing/6.2.%20Readme.html)
+    * [ 6.3. Releases  ](6.%20Sharing/6.3.%20Releases.html)
+    * [ 6.4. Templates  ](6.%20Sharing/6.4.%20Templates.html)
+    * [ 6.5. Workstations  ](6.%20Sharing/6.5.%20Workstations.html)
+    * [ 6.6. Contributions  ](6.%20Sharing/6.6.%20Contributions.html)
+  * [ 7. Observability  ](7.%20Observability/index.html)
+
+7. Observability 
+    * [ 7.0. Reproducibility  ](7.%20Observability/0.%20Reproducibility.html)
+    * [ 7.1. Monitoring  ](7.%20Observability/1.%20Monitoring.html)
+    * [ 7.2. Alerting  ](7.%20Observability/2.%20Alerting.html)
+    * [ 7.3. Lineage  ](7.%20Observability/3.%20Lineage.html)
+    * [ 7.4. Costs and KPIs  ](7.%20Observability/4.%20Costs-KPIs.html)
+    * [ 7.5. Explainability  ](7.%20Observability/5.%20Explainability.html)
+    * [ 7.6. Infrastructure  ](7.%20Observability/6.%20Infrastructure.html)
+
+
+
+Table of contents 
+
+  * [ Chapter 0: Overview  ](#chapter-0-overview)
+  * [ Chapter 1: Initializing  ](#chapter-1-initializing)
+  * [ Chapter 2: Prototyping  ](#chapter-2-prototyping)
+  * [ Chapter 3: Productionizing  ](#chapter-3-productionizing)
+  * [ Chapter 4: Validating  ](#chapter-4-validating)
+  * [ Chapter 5: Refining  ](#chapter-5-refining)
+  * [ Chapter 6: Sharing  ](#chapter-6-sharing)
+  * [ Chapter 7: Observability  ](#chapter-7-observability)
+  * [ Let's journey together!  ](#lets-journey-together)
+
+
+
+# MLOps Coding Course
+
+![MLOps Coding Course Banner](./assets/banner.png) _Learn how to create, develop, and maintain a state-of-the-art MLOps code base._
+
+Welcome to our comprehensive [MLOps Coding Course](https://mlops-coding-course.fmind.dev/), designed to integrate robust software development practices with cutting-edge data science techniques. This course is tailored for both beginners who are just starting their journey and experienced professionals looking to enhance their skills in managing and executing AI and machine learning projects using Python. Here, you will learn through a hands-on approach that emphasizes real-world applications and efficient project execution.
+
+  * **Donation Link** : <https://donate.stripe.com/4gw8xT9oVbCc98s7ss>
+  * **GitHub Repository** : <https://github.com/MLOps-Courses/mlops-coding-course>
+  * **MLOps Coding Assistant** : <https://mlops-coding-assistant.fmind.dev/>
+
+
+
+## [Chapter 0: Overview](./0. Overview/)
+
+In the introductory chapter, we introduce the foundational concepts of MLOps and outline the structure and goals of the course. This chapter sets the stage for what you will learn and provides an overview of the key components and skills you will develop as you progress through the course.
+
+## [Chapter 1: Initializing](./1. Initializing/)
+
+The first chapter focuses on the initialization phase, which is crucial for setting up a robust development environment. Here, we guide you through configuring tools and environments essential for Python-based MLOps projects. This foundational setup ensures a smooth workflow and minimizes delays related to technical setups.
+
+## [Chapter 2: Prototyping](./2. Prototyping/)
+
+This chapter dives into the prototyping phase, a critical stage where various approaches are tested to identify the most effective solutions, usually with notebooks. We cover essential tools and practices that improve the efficiency of this process, helping you understand the problem and experiment with different models before finalizing the project architecture.
+
+## [Chapter 3: Productionizing](./3. Productionizing/)
+
+Learn to refine your Python codebase for better maintainability, scalability, and efficiency in Chapter 3. This includes transitioning from notebooks to structured Python packages, understanding different programming paradigms, and optimizing your development environment. These practices are crucial for enhancing code quality and collaboration.
+
+## [Chapter 4: Validating](./4. Validating/)
+
+Chapter 4 emphasizes the importance of code validation in the MLOps landscape. We explore key practices such as typing and debugging that ensure the robustness of ML pipelines, facilitate collaboration, and streamline deployment processes, all of which are essential for creating scalable and efficient systems.
+
+## [Chapter 5: Refining](./5. Refining/)
+
+In this chapter, we delve into refining MLOps projects to enhance their efficiency, reliability, and scalability. We discuss methodologies that streamline the development pipeline from code formulation to deployment, focusing on maintaining high code quality and automating repetitive tasks.
+
+## [Chapter 6: Sharing](./6. Sharing/)
+
+The chapter focuses on sharing and distributing MLOps projects. We explore tools and practices that enhance collaboration, promote reuse, and facilitate the scaling of machine learning solutions. You will learn how to effectively organize, document, and disseminate your projects to make them more accessible and beneficial to others.
+
+## [Chapter 7: Observability](./7. Observability/)
+
+This chapter dives into the essential aspects of observability in MLOps, equipping you with the knowledge and strategies to gain comprehensive insights into the performance, behavior, and health of your deployed models and infrastructure. You'll learn how to ensure reproducibility, implement monitoring and alerting systems, track data and model lineage, manage costs and KPIs, understand model explainability, and monitor infrastructure performance.
+
+## Let's journey together!
+
+We are excited to have you join us on this journey to mastering MLOps. By the end of this course, you will be well-equipped to manage and execute ML projects with a high degree of professionalism and skill. Let’s get started on transforming your data science capabilities with effective MLOps practices!
+
+[ Next  0. Overview  ](0.%20Overview/index.html)
+
+Copyright © MLOps Courses 
+
+Made with [ Material for MkDocs ](https://squidfunk.github.io/mkdocs-material/)
+
+[ ](https://github.com/MLOPS-Courses/mlops-coding-course "github.com") [ ](https://twitter.com/fmind_dev "twitter.com") [ ](https://www.linkedin.com/in/fmind-dev/ "www.linkedin.com")

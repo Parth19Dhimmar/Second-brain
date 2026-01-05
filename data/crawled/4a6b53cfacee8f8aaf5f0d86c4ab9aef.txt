@@ -1,0 +1,584 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F56cfab2f9ada&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](https://medium.com/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](https://medium.com/search?source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)
+
+Top highlight
+
+# Fine-tune Llama 3 with ORPO
+
+##  _A cheaper and faster unified fine-tuning technique_
+
+[![Maxime Labonne](https://miro.medium.com/v2/resize:fill:88:88/1*VbPYS4bNf0IrrOF-ZubSGQ.png)](https://medium.com/@mlabonne?source=post_page---byline--56cfab2f9ada--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:48:48/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---byline--56cfab2f9ada--------------------------------)
+
+[Maxime Labonne](https://medium.com/@mlabonne?source=post_page---byline--56cfab2f9ada--------------------------------)
+
+·
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fdc89da634938&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&user=Maxime+Labonne&userId=dc89da634938&source=post_page-dc89da634938--byline--56cfab2f9ada---------------------post_header-----------)
+
+Published in
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---byline--56cfab2f9ada--------------------------------)
+
+·
+
+8 min read
+
+·
+
+Apr 19, 2024
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F56cfab2f9ada&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&user=Maxime+Labonne&userId=dc89da634938&source=---header_actions--56cfab2f9ada---------------------clap_footer-----------)
+
+742
+
+8
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F56cfab2f9ada&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&source=---header_actions--56cfab2f9ada---------------------bookmark_footer-----------)
+
+[Listen](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D56cfab2f9ada&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&source=---header_actions--56cfab2f9ada---------------------post_audio_button-----------)
+
+Share
+
+![](https://miro.medium.com/v2/resize:fit:700/0*DSTQkcyX56nl4qYu.png)
+
+Image generated with DALL-E 3 by author
+
+ORPO is a **new exciting fine-tuning technique** that combines the traditional supervised fine-tuning and preference alignment stages into a single process. This reduces the computational resources and time required for training. Moreover, empirical results demonstrate that ORPO outperforms other alignment methods on various model sizes and benchmarks.
+
+In this article, we will fine-tune the new Llama 3 8B model using ORPO with the TRL library. The code is available on [Google Colab](https://colab.research.google.com/drive/1eHNWg9gnaXErdAa8_mcvjMupbSS6rDvi?usp=sharing) and in the [LLM Course](https://github.com/mlabonne/llm-course) on GitHub.
+
+# ⚖️ ORPO
+
+Instruction tuning and preference alignment are essential techniques for adapting Large Language Models (LLMs) to specific tasks. Traditionally, this involves a multi-stage process: 1/ **Supervised Fine-Tuning** (SFT) on instructions to adapt the model to the target domain, followed by 2/ **preference alignment methods** like Reinforcement Learning with Human Feedback (RLHF) or Direct Preference Optimization (DPO) to increase the likelihood of generating preferred responses over rejected ones.
+
+![](https://miro.medium.com/v2/resize:fit:700/0*LlRjrJYf7rWtVxGj.png)
+
+Image by author
+
+However, researchers have identified a limitation in this approach. While SFT effectively adapts the model to the desired domain, it inadvertently **increases the probability of generating undesirable answers** alongside preferred ones. This is why the preference alignment stage is necessary to widen the gap between the likelihoods of preferred and rejected outputs.
+
+![](https://miro.medium.com/v2/resize:fit:700/0*rfs4IexRUX7T6-5y.png)
+
+Note how the probability of rejected responses increases during supervised fine-tuning (image from the ORPO paper).
+
+Introduced by [Hong and Lee (2024)](https://arxiv.org/abs/2403.07691), ORPO offers an elegant solution to this problem by combining instruction tuning and preference alignment into a single, monolithic training process. ORPO modifies the standard language modeling objective, combining the negative log-likelihood loss with an odds ratio (OR) term. This OR loss weakly penalizes rejected responses while strongly rewarding preferred ones, allowing the model to simultaneously learn the target task and align with human preferences.
+
+![](https://miro.medium.com/v2/resize:fit:700/1*r3V1OdKtcWJJKS6cGT8chQ.png)
+
+ORPO has been implemented in the major fine-tuning libraries, like [TRL](https://github.com/huggingface/trl), [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl), and [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory). In the next section, we will see how to use with TRL.
+
+# 💻 Fine-tuning Llama 3 with ORPO
+
+[Llama 3](https://github.com/meta-llama/llama3/tree/main) is the latest family of LLMs developed by Meta. The models were trained on an extensive dataset of **15 trillion tokens** (compared to 2T tokens for Llama 2). Two model sizes have been released: a 70 billion parameter model and a smaller 8 billion parameter model. The 70B model has already demonstrated impressive performance, scoring 82 on the MMLU benchmark and 81.7 on the HumanEval benchmark.
+
+Llama 3 models also increased the context length up to 8,192 tokens (4,096 tokens for Llama 2), and potentially scale up to 32k with RoPE. Additionally, the models use a new tokenizer with a 128K-token vocabulary, reducing the number of tokens required to encode text by 15%. This vocabulary also explains the bump from 7B to 8B parameters.
+
+![](https://miro.medium.com/v2/resize:fit:700/0*G8pGN8e3ppGj0TCa.png)
+
+_Samples from ORPO-DPO-mix-40k (image by author)._
+
+ORPO requires a preference dataset, including a prompt, a chosen answer, and a rejected answer. In this example, we will use `[mlabonne/orpo-dpo-mix-40k](https://huggingface.co/datasets/mlabonne/orpo-dpo-mix-40k)`, a combination of the following high-quality DPO datasets:
+
+  * `[argilla/distilabel-capybara-dpo-7k-binarized](https://huggingface.co/datasets/argilla/distilabel-capybara-dpo-7k-binarized)`: highly scored chosen answers >=5 (2,882 samples)
+  * `[argilla/distilabel-intel-orca-dpo-pairs](https://huggingface.co/datasets/argilla/distilabel-intel-orca-dpo-pairs)`: highly scored chosen answers >=9, not in GSM8K (2,299 samples)
+  * `[argilla/ultrafeedback-binarized-preferences-cleaned](https://huggingface.co/datasets/argilla/ultrafeedback-binarized-preferences-cleaned)`: highly scored chosen answers >=5 (22,799 samples)
+  * `[argilla/distilabel-math-preference-dpo](https://huggingface.co/datasets/argilla/distilabel-math-preference-dpo)`: highly scored chosen answers >=9 (2,181 samples)
+  * `[unalignment/toxic-dpo-v0.2](https://huggingface.co/datasets/unalignment/toxic-dpo-v0.2)` (541 samples)
+  * `[M4-ai/prm_dpo_pairs_cleaned](https://huggingface.co/datasets/M4-ai/prm_dpo_pairs_cleaned)` (7,958 samples)
+  * `[jondurbin/truthy-dpo-v0.1](https://huggingface.co/datasets/jondurbin/truthy-dpo-v0.1)` (1,016 samples)
+
+
+
+Thanks to [argilla](https://huggingface.co/argilla), [unalignment](https://huggingface.co/unalignment), [M4-ai](https://huggingface.co/M4-ai), and [jondurbin](https://huggingface.co/jondurbin) for providing the source datasets.
+
+As per usual, let’s start by installing the required libraries:
+
+```
+pip install -U transformers datasets accelerate peft trl bitsandbytes wandb
+```
+
+Once it’s installed, we can import the necessary libraries and log in to W&B (optional):
+
+```
+import gcimport osimport torchimport wandbfrom datasets import load_datasetfrom google.colab import userdatafrom peft import LoraConfig, PeftModel, prepare_model_for_kbit_trainingfrom transformers import ( AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, TrainingArguments, pipeline,)from trl import ORPOConfig, ORPOTrainer, setup_chat_formatwb_token = userdata.get('wandb')wandb.login(key=wb_token)
+```
+
+If you have a recent GPU, you should also be able to use the [Flash Attention library](https://github.com/Dao-AILab/flash-attention) to replace the default eager attention implementation with a more efficient one.
+
+```
+if torch.cuda.get_device_capability()[0] >= 8: !pip install -qqq flash-attn attn_implementation = "flash_attention_2" torch_dtype = torch.bfloat16else: attn_implementation = "eager" torch_dtype = torch.float16
+```
+
+In the following, we will load the Llama 3 8B model in 4-bit precision thanks to [bitsandbytes](https://github.com/TimDettmers/bitsandbytes). We then set the LoRA configuration using [PEFT](https://github.com/huggingface/peft) for QLoRA. I’m also using the convenient `setup_chat_format()` function to modify the model and tokenizer for [ChatML](https://huggingface.co/docs/transformers/en/chat_templating#what-template-should-i-use) support. It automatically applies this chat template, adds special tokens, and resizes the model's embedding layer to match the new vocabulary size.
+
+Note that you need to submit a request to access [meta-llama/Meta-Llama-3-8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B) and be logged in to your Hugging Face account. Alternatively, you can load ungated copies of the model, like [NousResearch/Meta-Llama-3-8B](https://huggingface.co/NousResearch/Meta-Llama-3-8B).
+
+```
+# Modelbase_model = "meta-llama/Meta-Llama-3-8B"new_model = "OrpoLlama-3-8B"# QLoRA configbnb_config = BitsAndBytesConfig( load_in_4bit=True, bnb_4bit_quant_type="nf4", bnb_4bit_compute_dtype=torch_dtype, bnb_4bit_use_double_quant=True,)# LoRA configpeft_config = LoraConfig( r=16, lora_alpha=32, lora_dropout=0.05, bias="none", task_type="CAUSAL_LM", target_modules=['up_proj', 'down_proj', 'gate_proj', 'k_proj', 'q_proj', 'v_proj', 'o_proj'])# Load tokenizertokenizer = AutoTokenizer.from_pretrained(base_model)# Load modelmodel = AutoModelForCausalLM.from_pretrained( base_model, quantization_config=bnb_config, device_map="auto", attn_implementation=attn_implementation)model, tokenizer = setup_chat_format(model, tokenizer)model = prepare_model_for_kbit_training(model)
+```
+
+Now that the model is ready for training, we can take care of the dataset. We load `[mlabonne/orpo-dpo-mix-40k](https://huggingface.co/datasets/mlabonne/orpo-dpo-mix-40k)` and use the `apply_chat_template()` function to convert the "chosen" and "rejected" columns into the ChatML format. Note that I'm only using 1,000 samples and not the entire dataset, as it would take too long to run.
+
+```
+dataset_name = "mlabonne/orpo-dpo-mix-40k"dataset = load_dataset(dataset_name, split="all")dataset = dataset.shuffle(seed=42).select(range(1000))def format_chat_template(row): row["chosen"] = tokenizer.apply_chat_template(row["chosen"], tokenize=False) row["rejected"] = tokenizer.apply_chat_template(row["rejected"], tokenize=False) return rowdataset = dataset.map( format_chat_template, num_proc= os.cpu_count(),)dataset = dataset.train_test_split(test_size=0.01)
+```
+
+First, we need to set a few hyperparameters:
+
+  * `learning_rate`: ORPO uses very low learning rates compared to traditional SFT or even DPO. This value of 8e-6 comes from the original paper, and roughly corresponds to an SFT learning rate of 1e-5 and a DPO learning rate of 5e-6. I would recommend increasing it around 1e-6 for a real fine-tune.
+  * `beta`: It is the $\lambda$ parameter in the paper, with a default value of 0.1. An appendix from the original paper shows how it's been selected with an ablation study.
+  * Other parameters, like `max_length` and batch size are set to use as much VRAM as available (~20 GB in this configuration). Ideally, we would train the model for 3-5 epochs, but we'll stick to 1 here.
+
+
+
+Finally, we can train the model using the ORPOTrainer, which acts as a wrapper.
+
+```
+orpo_args = ORPOConfig( learning_rate=8e-6, beta=0.1, lr_scheduler_type="linear", max_length=1024, max_prompt_length=512, per_device_train_batch_size=2, per_device_eval_batch_size=2, gradient_accumulation_steps=4, optim="paged_adamw_8bit", num_train_epochs=1, evaluation_strategy="steps", eval_steps=0.2, logging_steps=1, warmup_steps=10, report_to="wandb", output_dir="./results/",)trainer = ORPOTrainer( model=model, args=orpo_args, train_dataset=dataset["train"], eval_dataset=dataset["test"], peft_config=peft_config, tokenizer=tokenizer,)trainer.train()trainer.save_model(new_model)
+```
+
+Training the model on these 1,000 samples took about 2 hours on an L4 GPU. Let’s check the W&B plots:
+
+![](https://miro.medium.com/v2/resize:fit:700/0*HDi6G4O5z9rpjeEG.png)
+
+While the loss goes down, the difference between the chosen and rejects answers is not clear: the average margin and accuracy are only slightly above zero and 0.5, respectively.
+
+In the original paper, the authors trained models on the `[Anthropic/hh-rlhf](https://huggingface.co/datasets/Anthropic/hh-rlhf)` dataset (161k samples) for 10 epochs, which is a lot longer than our quick run. They also experimented with Llama 3 and kindly [shared their logs](https://huggingface.co/orpo-explorers/hf-llama3-8b-orpo-v0.0/tensorboard) with me (thanks [Jiwoo Hong](https://twitter.com/jiwoohong98)).
+
+To end this tutorial, let’s merge the QLoRA adapter with the base model and push it to the Hugging Face Hub.
+
+```
+# Flush memorydel trainer, modelgc.collect()torch.cuda.empty_cache()# Reload tokenizer and modeltokenizer = AutoTokenizer.from_pretrained(base_model)model = AutoModelForCausalLM.from_pretrained( base_model, low_cpu_mem_usage=True, return_dict=True, torch_dtype=torch.float16, device_map="auto",)model, tokenizer = setup_chat_format(model, tokenizer)# Merge adapter with base modelmodel = PeftModel.from_pretrained(model, new_model)model = model.merge_and_unload()model.push_to_hub(new_model, use_temp_dir=False)tokenizer.push_to_hub(new_model, use_temp_dir=False)
+```
+
+Congrats, we finished this quick fine-tune of Llama 3: [mlabonne/OrpoLlama-3–8B](https://huggingface.co/mlabonne/OrpoLlama-3-8B). You can play with it using this [Hugging Face Space](https://huggingface.co/spaces/mlabonne/OrpoLlama-3-8B) (here’s a [notebook](https://colab.research.google.com/drive/1LcVUW5wsJTO2NGmozjji5CkC--646LgC?usp=sharing) to make your own). Although the model is undertrained, as highlighted by the W&B curves, I ran some evaluations on Nous’ benchmark suite using [LLM AutoEval](https://github.com/mlabonne/llm-autoeval).
+
+![](https://miro.medium.com/v2/resize:fit:700/1*XLNStboeDllWwCD-XyCTXw.png)
+
+Our ORPO fine-tune is actually pretty decent and improves the base model’s performance on every benchmark. This is encouraging and likely means that a fine-tune on the entire 40k samples would yield great results.
+
+This is an exciting time for the open-source community, with more and more high-quality open-weight models being released. The gap between closed-source and open-weight models is slowly closing, and fine-tuning is an essential tool to get the best performance for your use cases.
+
+![](https://miro.medium.com/v2/resize:fit:700/1*6MeN5SXi4yrnNyf2O_-5zQ.png)
+
+Image by author
+
+# Conclusion
+
+In this article, we introduced the ORPO algorithm and explained how it unifies the SFT and preference alignment stages into a single process. Then, we used TRL to fine-tune a Llama 3 8B model on a custom preference dataset. The final model shows encouraging results and highlights ORPO’s potential as a new fine-tuning paradigm.
+
+I hope it was useful, and I recommend running the [Colab notebook](https://colab.research.google.com/drive/1eHNWg9gnaXErdAa8_mcvjMupbSS6rDvi?usp=sharing) to fine-tune your own Llama 3 models. In future articles, we will see how to create high-quality datasets — a point that is often overlooked. If you liked this article, please follow me on [Hugging Face](https://huggingface.co/mlabonne/) and Twitter [@maximelabonne](https://twitter.com/maximelabonne).
+
+# References
+
+  * J. Hong, N. Lee, and J. Thorne, [ORPO: Monolithic Preference Optimization without Reference Model](https://arxiv.org/abs/2403.07691). 2024.
+  * L. von Werra et al., TRL: Transformer Reinforcement Learning. GitHub, 2020. [Online]. Available: <https://github.com/huggingface/trl>
+  * Bartolome, A., Martin, G., & Vila, D. (2023). Notus. In GitHub Repository. GitHub. <https://github.com/argilla-io/notus>
+  * AI at Meta, [Introducing Meta Llama 3](https://ai.meta.com/blog/meta-llama-3/), 2024.
+
+
+
+![](https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)
+
+## Sign up to discover human stories that deepen your understanding of the world.
+
+## Free
+
+Distraction-free reading. No ads.
+
+Organize your knowledge with lists and highlights.
+
+Tell your story. Find your audience.
+
+[Sign up for free](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&source=---post_footer_upsell--56cfab2f9ada---------------------lo_non_moc_upsell-----------)
+
+## Membership
+
+Read member-only stories
+
+Support writers you read most
+
+Earn money for your writing
+
+Listen to audio narrations
+
+Read offline with the Medium app
+
+[Try for $5/month](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplans&source=---post_footer_upsell--56cfab2f9ada---------------------lo_non_moc_upsell-----------)
+
+[Large Language Models](https://medium.com/tag/large-language-models?source=post_page-----56cfab2f9ada--------------------------------)
+
+[Artificial Intelligence](https://medium.com/tag/artificial-intelligence?source=post_page-----56cfab2f9ada--------------------------------)
+
+[Machine Learning](https://medium.com/tag/machine-learning?source=post_page-----56cfab2f9ada--------------------------------)
+
+[Hands On Tutorials](https://medium.com/tag/hands-on-tutorials?source=post_page-----56cfab2f9ada--------------------------------)
+
+[Editors Pick](https://medium.com/tag/editors-pick?source=post_page-----56cfab2f9ada--------------------------------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F56cfab2f9ada&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&user=Maxime+Labonne&userId=dc89da634938&source=---footer_actions--56cfab2f9ada---------------------clap_footer-----------)
+
+742
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F56cfab2f9ada&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&user=Maxime+Labonne&userId=dc89da634938&source=---footer_actions--56cfab2f9ada---------------------clap_footer-----------)
+
+742
+
+8
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F56cfab2f9ada&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&source=---footer_actions--56cfab2f9ada---------------------bookmark_footer-----------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:96:96/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--56cfab2f9ada--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:128:128/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--56cfab2f9ada--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--56cfab2f9ada---------------------follow_profile-----------)
+
+## [Published in Towards Data Science](https://towardsdatascience.com/?source=post_page---post_publication_info--56cfab2f9ada--------------------------------)
+
+[793K Followers](/followers?source=post_page---post_publication_info--56cfab2f9ada--------------------------------)
+
+·[Last published 3 hours ago](/detecting-hallucination-in-rag-ecaf251a6633?source=post_page---post_publication_info--56cfab2f9ada--------------------------------)
+
+Your home for data science and AI. The world’s leading publication for data science, data analytics, data engineering, machine learning, and artificial intelligence professionals.
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--56cfab2f9ada---------------------follow_profile-----------)
+
+[![Maxime Labonne](https://miro.medium.com/v2/resize:fill:96:96/1*VbPYS4bNf0IrrOF-ZubSGQ.png)](https://medium.com/@mlabonne?source=post_page---post_author_info--56cfab2f9ada--------------------------------)
+
+[![Maxime Labonne](https://miro.medium.com/v2/resize:fill:128:128/1*VbPYS4bNf0IrrOF-ZubSGQ.png)](https://medium.com/@mlabonne?source=post_page---post_author_info--56cfab2f9ada--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fdc89da634938&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&user=Maxime+Labonne&userId=dc89da634938&source=post_page-dc89da634938--post_author_info--56cfab2f9ada---------------------follow_profile-----------)
+
+## [Written by Maxime Labonne](https://medium.com/@mlabonne?source=post_page---post_author_info--56cfab2f9ada--------------------------------)
+
+[8.5K Followers](https://medium.com/@mlabonne/followers?source=post_page---post_author_info--56cfab2f9ada--------------------------------)
+
+·[13 Following](https://medium.com/@mlabonne/following?source=post_page---post_author_info--56cfab2f9ada--------------------------------)
+
+Ph.D., Staff ML Scientist @ Liquid AI • Author of "Hands-On Graph Neural Networks" • [x.com/maximelabonne](http://x.com/maximelabonne)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fdc89da634938&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&user=Maxime+Labonne&userId=dc89da634938&source=post_page-dc89da634938--post_author_info--56cfab2f9ada---------------------follow_profile-----------)
+
+## Responses (8)
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--56cfab2f9ada--------------------------------)
+
+[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-llama-3-with-orpo-56cfab2f9ada&source=---post_responses--56cfab2f9ada---------------------respond_sidebar-----------)
+
+Cancel
+
+Respond
+
+Respond
+
+Also publish to my profile
+
+[![Preston McCauley](https://miro.medium.com/v2/resize:fill:32:32/0*695PuUWwe-MS1b1a.jpg)](https://medium.com/@prestonux?source=post_page---post_responses--56cfab2f9ada----0----------------------------)
+
+[Preston McCauley](https://medium.com/@prestonux?source=post_page---post_responses--56cfab2f9ada----0----------------------------)
+
+[Apr 28, 2024](https://medium.com/@prestonux/this-is-a-great-share-but-why-is-everyone-so-reliant-on-hugging-face-09e055584b7c?source=post_page---post_responses--56cfab2f9ada----0----------------------------)
+
+```
+
+
+This is a great share but why is everyone so reliant on hugging face. No one continues to tell people how to get the model to a usable local form like gguf on your own system l, everyone stops at inference
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F09e055584b7c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40prestonux%2Fthis-is-a-great-share-but-why-is-everyone-so-reliant-on-hugging-face-09e055584b7c&user=Preston+McCauley&userId=1bcabf96aaea&source=---post_responses--09e055584b7c----0-----------------respond_sidebar-----------)
+
+53
+
+1 reply
+
+Reply
+
+[![Imran Ullah](https://miro.medium.com/v2/resize:fill:32:32/1*LC710Yn6w-CwD53pNsMGiA.jpeg)](https://medium.com/@imranullahds?source=post_page---post_responses--56cfab2f9ada----1----------------------------)
+
+[Imran Ullah](https://medium.com/@imranullahds?source=post_page---post_responses--56cfab2f9ada----1----------------------------)
+
+[Apr 27, 2024](https://medium.com/@imranullahds/the-model-did-not-learn-from-the-training-data-56381130c844?source=post_page---post_responses--56cfab2f9ada----1----------------------------)
+
+```
+
+
+the model did not learn from the training data. did you try it. let pick up a question from the dataset and ask from the model. or should we need to run it for more epochs? i just try for 596 steps.
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F56381130c844&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40imranullahds%2Fthe-model-did-not-learn-from-the-training-data-56381130c844&user=Imran+Ullah&userId=3d54476b40be&source=---post_responses--56381130c844----1-----------------respond_sidebar-----------)
+
+62
+
+1 reply
+
+Reply
+
+[![miguel ivanov](https://miro.medium.com/v2/resize:fill:32:32/1*35ZL6E89hrxCLm4e9ggZDQ.png)](https://medium.com/@miguelivanov?source=post_page---post_responses--56cfab2f9ada----2----------------------------)
+
+[miguel ivanov](https://medium.com/@miguelivanov?source=post_page---post_responses--56cfab2f9ada----2----------------------------)
+
+[Apr 20, 2024](https://medium.com/@miguelivanov/even-with-powerful-hardware-the-intensive-nature-of-training-large-models-is-evident-its-a-cdd9a035f9ac?source=post_page---post_responses--56cfab2f9ada----2----------------------------)
+
+1,000 samples took about 2 hours on an L4 GPU
+
+```
+
+
+Even with powerful hardware, the intensive nature of training large models is evident—it's a significant investment of resources.
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fcdd9a035f9ac&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40miguelivanov%2Feven-with-powerful-hardware-the-intensive-nature-of-training-large-models-is-evident-its-a-cdd9a035f9ac&user=miguel+ivanov&userId=c1ac0ffc527f&source=---post_responses--cdd9a035f9ac----2-----------------respond_sidebar-----------)
+
+63
+
+Reply
+
+See all responses
+
+## More from Maxime Labonne and Towards Data Science
+
+![The Large Language Model Course](https://miro.medium.com/v2/resize:fit:679/1*s-fK5J5Sz5185wLkLuvgTg.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--56cfab2f9ada----0---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--56cfab2f9ada----0---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+by
+
+[Maxime Labonne](https://medium.com/@mlabonne?source=post_page---author_recirc--56cfab2f9ada----0---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+## [The Large Language Model CourseHow to become an LLM Scientist or Engineer from scratch](/the-large-language-model-course-b6663cd57ceb?source=post_page---author_recirc--56cfab2f9ada----0---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+3d ago
+
+[76412](/the-large-language-model-course-b6663cd57ceb?source=post_page---author_recirc--56cfab2f9ada----0---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb6663cd57ceb&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fthe-large-language-model-course-b6663cd57ceb&source=---author_recirc--56cfab2f9ada----0-----------------bookmark_preview----09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+![Water Cooler Small Talk: Benford’s Law](https://miro.medium.com/v2/resize:fit:679/1*78Ka1EjSEBJgOrVy-H19sg.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--56cfab2f9ada----1---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--56cfab2f9ada----1---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+by
+
+[Maria Mouschoutzi, PhD](https://medium.com/@m.mouschoutzi?source=post_page---author_recirc--56cfab2f9ada----1---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+## [Water Cooler Small Talk: Benford’s LawA look into the strange first digit distribution of naturally occurring datasets](/water-cooler-small-talk-benfords-law-a1c12419e773?source=post_page---author_recirc--56cfab2f9ada----1---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+4d ago
+
+[4905](/water-cooler-small-talk-benfords-law-a1c12419e773?source=post_page---author_recirc--56cfab2f9ada----1---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa1c12419e773&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fwater-cooler-small-talk-benfords-law-a1c12419e773&source=---author_recirc--56cfab2f9ada----1-----------------bookmark_preview----09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+![The Death of Human-Written Code Tutorials in the ChatGPT Era … Or Not?](https://miro.medium.com/v2/resize:fit:679/1*hWM4ARagwBgwA9KRytIt6A.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--56cfab2f9ada----2---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--56cfab2f9ada----2---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+by
+
+[Murtaza Ali](https://murtaza5152-ali.medium.com/?source=post_page---author_recirc--56cfab2f9ada----2---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+## [The Death of Human-Written Code Tutorials in the ChatGPT Era … Or Not?An argument in favor of human-written coding tutorials in the new age of LLMs.](/the-death-of-human-written-code-tutorials-in-the-chatgpt-era-or-not-9a437a58a0b2?source=post_page---author_recirc--56cfab2f9ada----2---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+4d ago
+
+[634](/the-death-of-human-written-code-tutorials-in-the-chatgpt-era-or-not-9a437a58a0b2?source=post_page---author_recirc--56cfab2f9ada----2---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9a437a58a0b2&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fthe-death-of-human-written-code-tutorials-in-the-chatgpt-era-or-not-9a437a58a0b2&source=---author_recirc--56cfab2f9ada----2-----------------bookmark_preview----09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+![Graph Convolutional Networks: Introduction to GNNs](https://miro.medium.com/v2/resize:fit:679/1*X4I4_PO9l14apt0h3Nbw2A.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--56cfab2f9ada----3---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--56cfab2f9ada----3---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+by
+
+[Maxime Labonne](https://medium.com/@mlabonne?source=post_page---author_recirc--56cfab2f9ada----3---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+## [Graph Convolutional Networks: Introduction to GNNsA step-by-step guide using PyTorch Geometric](/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95?source=post_page---author_recirc--56cfab2f9ada----3---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+Aug 14, 2023
+
+[1.4K9](/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95?source=post_page---author_recirc--56cfab2f9ada----3---------------------09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F24b3f60d6c95&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fgraph-convolutional-networks-introduction-to-gnns-24b3f60d6c95&source=---author_recirc--56cfab2f9ada----3-----------------bookmark_preview----09a0edf1_62df_489f_ba2d_22cd0ffa0158-------)
+
+[See all from Maxime Labonne](https://medium.com/@mlabonne?source=post_page---author_recirc--56cfab2f9ada--------------------------------)
+
+[See all from Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--56cfab2f9ada--------------------------------)
+
+## Recommended from Medium
+
+![Step by Step Guide to use and fine-tune Llama 3.2](https://miro.medium.com/v2/resize:fit:679/1*IvObJhgIcV2xvhouvdJyuA.jpeg)
+
+[![Kinomoto.Mag AI](https://miro.medium.com/v2/resize:fill:20:20/1*jGldfXs-wb6XKIeEEXfrKQ.png)](https://medium.com/kinomoto-mag?source=post_page---read_next_recirc--56cfab2f9ada----0---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+In
+
+[Kinomoto.Mag AI](https://medium.com/kinomoto-mag?source=post_page---read_next_recirc--56cfab2f9ada----0---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+by
+
+[Dr. Walid Soula](https://medium.com/@soulawalid?source=post_page---read_next_recirc--56cfab2f9ada----0---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+## [Step by Step Guide to use and fine-tune Llama 3.2Learn how to fine-tune and run the Llama 3.2 model locally with my step-by-step guide using Unsloth and Ollama](https://medium.com/kinomoto-mag/step-by-step-guide-to-use-and-fine-tune-llama-3-2-ae4168611282?source=post_page---read_next_recirc--56cfab2f9ada----0---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+Oct 2, 2024
+
+[144](https://medium.com/kinomoto-mag/step-by-step-guide-to-use-and-fine-tune-llama-3-2-ae4168611282?source=post_page---read_next_recirc--56cfab2f9ada----0---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fae4168611282&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fkinomoto-mag%2Fstep-by-step-guide-to-use-and-fine-tune-llama-3-2-ae4168611282&source=---read_next_recirc--56cfab2f9ada----0-----------------bookmark_preview----9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+![Fine-tune a Mistral-7b model with Direct Preference Optimization](https://miro.medium.com/v2/resize:fit:679/0*SklfpfBm5zX07hrP.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--56cfab2f9ada----1---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--56cfab2f9ada----1---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+by
+
+[Maxime Labonne](https://medium.com/@mlabonne?source=post_page---read_next_recirc--56cfab2f9ada----1---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+## [Fine-tune a Mistral-7b model with Direct Preference OptimizationBoost the performance of your supervised fine-tuned models](/fine-tune-a-mistral-7b-model-with-direct-preference-optimization-708042745aac?source=post_page---read_next_recirc--56cfab2f9ada----1---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+Jan 1, 2024
+
+[2.1K9](/fine-tune-a-mistral-7b-model-with-direct-preference-optimization-708042745aac?source=post_page---read_next_recirc--56cfab2f9ada----1---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F708042745aac&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ffine-tune-a-mistral-7b-model-with-direct-preference-optimization-708042745aac&source=---read_next_recirc--56cfab2f9ada----1-----------------bookmark_preview----9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+## Lists
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*nVAk9E_TnPIK8Kv57PJruA.png)![](https://miro.medium.com/v2/resize:fill:48:48/1*790FdGYUonUX4X3IyQr1Og.png)![](https://miro.medium.com/v2/da:true/resize:fill:48:48/1*o1k0mQo3BuyIkmg-rI2Eiw.gif)Natural Language Processing1889 stories·1547 saves](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a?source=post_page---read_next_recirc--56cfab2f9ada--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/0*r4yjMpEmqzHCUvWC.jpg)![](https://miro.medium.com/v2/resize:fill:48:48/1*bv2KUVNLi2sFNjBTdoBmWw.png)![](https://miro.medium.com/v2/resize:fill:48:48/0*zsngbTOmFCy6sUCx.jpeg)Predictive Modeling w/ Python20 stories·1787 saves](https://medium.com/@ben.putney/list/predictive-modeling-w-python-e3668ea008e1?source=post_page---read_next_recirc--56cfab2f9ada--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*era76EGCwdY2gWSFKutuSw.jpeg)![](https://miro.medium.com/v2/resize:fill:48:48/1*AiTJDz5wwQFiUCf_SrBOQA.jpeg)![A phone with a tweet on it describing a deepfake video of the Ukrainian president, with a labeled fake image in the background](https://miro.medium.com/v2/resize:fill:48:48/1*zjPggFS8yoRtFbAP9R_3lw.jpeg)AI Regulation6 stories·671 saves](https://medium.com/@MediumStaff/list/ai-regulation-dfa78dfd2438?source=post_page---read_next_recirc--56cfab2f9ada--------------------------------)
+
+[![Principal Component Analysis for ML](https://miro.medium.com/v2/resize:fill:48:48/1*swd_PY6vTCyPnsgBYoFZfA.png)![Time Series Analysis](https://miro.medium.com/v2/resize:fill:48:48/1*8sSAHftNwd_RNJ3k4VA0pA.png)![deep learning cheatsheet for beginner](https://miro.medium.com/v2/resize:fill:48:48/1*uNyD4yNMH-DnOel1wzxOOA.png)Practical Guides to Machine Learning10 stories·2162 saves](https://destingong.medium.com/list/practical-guides-to-machine-learning-a877c2a39884?source=post_page---read_next_recirc--56cfab2f9ada--------------------------------)
+
+![Parameter-Efficient Fine-Tuning of LLMs](https://miro.medium.com/v2/resize:fit:679/1*f5MmSsi9I_uMJIU9CFZEyA.png)
+
+[![LM Po](https://miro.medium.com/v2/resize:fill:20:20/1*8biNIOdTZO6v4MDdtPmm2Q.png)](https://medium.com/@lmpo?source=post_page---read_next_recirc--56cfab2f9ada----0---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+[LM Po](https://medium.com/@lmpo?source=post_page---read_next_recirc--56cfab2f9ada----0---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+## [Parameter-Efficient Fine-Tuning of LLMsThe increasing size and complexity of Large Language Models (LLMs) have rendered traditional finetuning methods computationally expensive…](https://medium.com/@lmpo/parameter-efficient-fine-tuning-of-large-language-models-4ed51860e1da?source=post_page---read_next_recirc--56cfab2f9ada----0---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+Nov 3, 2024
+
+[1](https://medium.com/@lmpo/parameter-efficient-fine-tuning-of-large-language-models-4ed51860e1da?source=post_page---read_next_recirc--56cfab2f9ada----0---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4ed51860e1da&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40lmpo%2Fparameter-efficient-fine-tuning-of-large-language-models-4ed51860e1da&source=---read_next_recirc--56cfab2f9ada----0-----------------bookmark_preview----9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+![Instruction-Tuning Large Language Model \(LLM\) with HuggingFace and PEFT \(LoRA\) Technique.](https://miro.medium.com/v2/resize:fit:679/1*mNF7zBzke8ZnYo8IOJ3v5A.png)
+
+[![Kamal Dhungana](https://miro.medium.com/v2/resize:fill:20:20/0*-DLO733P-PebUsO_)](https://medium.com/@kbdhunga?source=post_page---read_next_recirc--56cfab2f9ada----1---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+[Kamal Dhungana](https://medium.com/@kbdhunga?source=post_page---read_next_recirc--56cfab2f9ada----1---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+## [Instruction-Tuning Large Language Model (LLM) with HuggingFace and PEFT (LoRA) Technique.Instruction tuning is a powerful fine-tuning technique that enhances the performance of large language models (LLMs) on specific tasks by…](https://medium.com/@kbdhunga/instruction-tuning-large-language-model-llm-with-huggingface-and-peft-lora-technique-992630e6f6ef?source=post_page---read_next_recirc--56cfab2f9ada----1---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+Jan 12
+
+[1](https://medium.com/@kbdhunga/instruction-tuning-large-language-model-llm-with-huggingface-and-peft-lora-technique-992630e6f6ef?source=post_page---read_next_recirc--56cfab2f9ada----1---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F992630e6f6ef&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kbdhunga%2Finstruction-tuning-large-language-model-llm-with-huggingface-and-peft-lora-technique-992630e6f6ef&source=---read_next_recirc--56cfab2f9ada----1-----------------bookmark_preview----9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+![How to Build a High-Quality Text-to-Speech \(TTS\) System Locally with Nvidia NeMo FastPitch](https://miro.medium.com/v2/resize:fit:679/0*1sxu5UM5O2W4BWHg)
+
+[![GoPenAI](https://miro.medium.com/v2/resize:fill:20:20/1*LUSEiP1BHPkkmH75e8eg_A.png)](https://blog.gopenai.com/?source=post_page---read_next_recirc--56cfab2f9ada----2---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+In
+
+[GoPenAI](https://blog.gopenai.com/?source=post_page---read_next_recirc--56cfab2f9ada----2---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+by
+
+[Mahmudur R Manna](https://mrmanna.medium.com/?source=post_page---read_next_recirc--56cfab2f9ada----2---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+## [How to Build a High-Quality Text-to-Speech (TTS) System Locally with Nvidia NeMo FastPitchIn this guide, I’ll take you through my journey of creating a personalized audiobook solution using Nvidia’s FastPitch, from understanding…](https://blog.gopenai.com/how-to-build-a-high-quality-text-to-speech-tts-system-locally-with-nvidia-nemo-fastpitch-98fc7b626819?source=post_page---read_next_recirc--56cfab2f9ada----2---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+Sep 12, 2024
+
+[591](https://blog.gopenai.com/how-to-build-a-high-quality-text-to-speech-tts-system-locally-with-nvidia-nemo-fastpitch-98fc7b626819?source=post_page---read_next_recirc--56cfab2f9ada----2---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F98fc7b626819&operation=register&redirect=https%3A%2F%2Fblog.gopenai.com%2Fhow-to-build-a-high-quality-text-to-speech-tts-system-locally-with-nvidia-nemo-fastpitch-98fc7b626819&source=---read_next_recirc--56cfab2f9ada----2-----------------bookmark_preview----9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+![Detailed Guide to Fine-Tuning LLaMA \(Large Language Model Meta AI\)](https://miro.medium.com/v2/resize:fit:679/1*n6oveS3Siu9y0VWXdH3umQ.png)
+
+[![Engr Muhammad Tanveer sultan](https://miro.medium.com/v2/resize:fill:20:20/1*LJR5XoVfUpwTJBSt7WBTLA.jpeg)](https://medium.com/@engr.tanveersultan53?source=post_page---read_next_recirc--56cfab2f9ada----3---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+[Engr Muhammad Tanveer sultan](https://medium.com/@engr.tanveersultan53?source=post_page---read_next_recirc--56cfab2f9ada----3---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+## [Detailed Guide to Fine-Tuning LLaMA (Large Language Model Meta AI)Introduction](https://medium.com/@engr.tanveersultan53/detailed-guide-to-fine-tuning-llama-large-language-model-meta-ai-0e9ab34452df?source=post_page---read_next_recirc--56cfab2f9ada----3---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+Aug 16, 2024
+
+[1001](https://medium.com/@engr.tanveersultan53/detailed-guide-to-fine-tuning-llama-large-language-model-meta-ai-0e9ab34452df?source=post_page---read_next_recirc--56cfab2f9ada----3---------------------9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0e9ab34452df&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40engr.tanveersultan53%2Fdetailed-guide-to-fine-tuning-llama-large-language-model-meta-ai-0e9ab34452df&source=---read_next_recirc--56cfab2f9ada----3-----------------bookmark_preview----9d89beb2_8cac_42fa_8309_7926e9a0c598-------)
+
+[See more recommendations](https://medium.com/?source=post_page---read_next_recirc--56cfab2f9ada--------------------------------)
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----56cfab2f9ada--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----56cfab2f9ada--------------------------------)
+
+[About](https://medium.com/about?autoplay=1&source=post_page-----56cfab2f9ada--------------------------------)
+
+[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----56cfab2f9ada--------------------------------)
+
+[Press](pressinquiries@medium.com?source=post_page-----56cfab2f9ada--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----56cfab2f9ada--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----56cfab2f9ada--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----56cfab2f9ada--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----56cfab2f9ada--------------------------------)
+
+[Teams](https://medium.com/business?source=post_page-----56cfab2f9ada--------------------------------)
+
+To make Medium work, we log user data. By using Medium, you agree to our [Privacy Policy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9), including cookie policy.

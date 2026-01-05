@@ -1,0 +1,56 @@
+{
+    "id": "b9abc13e2cfeef6d0cb946fd56fcfc55",
+    "metadata": {
+        "id": "b9abc13e2cfeef6d0cb946fd56fcfc55",
+        "url": "https://lightning.ai/pages/llm-learning-lab/",
+        "title": "LLM Learning Lab - Lightning AI",
+        "properties": {
+            "description": "Immerse yourself in a curated collection of blogs, tutorials, and how-to videos to help you unlock the transformative potential of large language models.",
+            "keywords": null,
+            "author": null,
+            "og:locale": "en_US",
+            "og:type": "article",
+            "og:title": "LLM Learning Lab - Lightning AI",
+            "og:description": "Immerse yourself in a curated collection of blogs, tutorials, and how-to videos to help you unlock the transformative potential of large language models.",
+            "og:url": "https://lightning.ai/pages/llm-learning-lab/",
+            "og:site_name": "Lightning AI",
+            "og:image": "https://lightningaidev.wpengine.com/wp-content/uploads/2023/06/llm-1.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "675",
+            "og:image:type": "image/jpeg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "LLM Learning Lab - Lightning AI",
+            "twitter:description": "Immerse yourself in a curated collection of blogs, tutorials, and how-to videos to help you unlock the transformative potential of large language models.",
+            "twitter:image": "https://lightningaidev.wpengine.com/wp-content/uploads/2023/06/llm-1.jpg",
+            "twitter:site": "@LightningAI"
+        }
+    },
+    "parent_metadata": {
+        "id": "dd4002d0a2ea06b2b992831dac740ab0",
+        "url": "https://www.notion.so/Sources-dd4002d0a2ea06b2b992831dac740ab0",
+        "title": "Sources",
+        "properties": {
+            "Type": "Node"
+        }
+    },
+    "content": "[Lightning AI Studios: Never set up a local environment again →](https://lightning.ai)\n\n# LLM Learning Lab\n\nImmerse yourself in a curated collection of blogs, tutorials, and how-to videos to help you unlock the transformative potential of large language models.\n\nPrevious\n\n[](https://lightning.ai/pages/blog/scaling-large-language-models-with-pytorch-lightning/)\n\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/10/fsdp-blog-300x178.png)\n\n###  Scaling Large (Language) Models with PyTorch Lightning\n\n[Read more](https://lightning.ai/pages/blog/scaling-large-language-models-with-pytorch-lightning/)\n\n[](https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/)\n\n###  How to build a chatbot using open-source LLMs like Llama 2 and Falcon\n\n[Read more](https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/)\n\n[](https://lightning.ai/pages/community/finetuning-falcon-efficiently/)\n\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/06/Screenshot-2023-06-14-at-9.09.01-PM-300x226.png)\n\n###  Finetuning Falcon LLMs More Efficiently With LoRA and Adapters\n\n[Read more](https://lightning.ai/pages/community/finetuning-falcon-efficiently/)\n\n[](https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/)\n\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/06/Untitled-5-300x135.png)\n\n###  Falcon – A guide to finetune and inference\n\n[Read more](https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/)\n\nNext\n\n  * 1\n  * 2\n  * 3\n  * 4\n\n\n\n## What do you want to learn about today?\n\nAdapterApple SiliconAutoscalingDeepSpeedDiffusion ModelsDistributed TrainingFalconGPT-NeoXGPTQHyperparameter TuningInferenceInstruction TuningLLaMALLMsLong Short-Term MemoryLoRAModel OptimizationModel PerformanceNeutral NetworksNLPObject DetectionPretrainingPrompt TuningQLoRAQuantizationScalingScikit-learnShardingStable DiffusionStableLMSynthetic Data GenerationTranscriptionTransfer LearningTransformer\n\n[](https://lightning.ai/pages/blog/lora-insights/)\n\nBlog\n\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/10/lora-expimage7-300x177.png)\n\n#####  Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments \n\n[Read more]()\n\n[](https://lightning.ai/pages/community/announcements/lightning-2.1-train-bigger-better-faster/)\n\nBlog\n\n#####  Lightning 2.1: Train Bigger, Better, Faster \n\n[Read more]()\n\n[](https://lightning.ai/pages/community/article/neurips2023-llm-efficiency-guide/)\n\nBlog\n\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/08/screenshot_2023-08-11_at_9.22.46_am-300x174.png)\n\n#####  The NeurIPS 2023 LLM Efficiency Challenge Starter Guide \n\n[Read more]()\n\n[](https://lightning.ai/pages/blog/pytorch-memory-vit-llm/)\n\nBlog\n\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/07/pytorch-memory-hero-300x160.png)\n\n#####  Optimizing Memory Usage for Training LLMs and Vision Transformers in PyTorch \n\n[Read more]()\n\n[](https://lightning.ai/pages/blog/faster-pytorch-training-by-reducing-peak-memory/)\n\nBlog\n\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/06/Screenshot-2023-06-21-at-11.48.35-PM-300x167.png)\n\n#####  Faster PyTorch Training by Reducing Peak Memory (combining backward pass + optimizer step) \n\n[Read more]()\n\n[](https://lightning.ai/pages/community/article/efficient-initialization-of-large-models/)\n\nBlog\n\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/06/Untitled-1-300x199.png)\n\n#####  Efficient Initialization of Large Models \n\n[Read more]()\n\n[](https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/)\n\nBlog\n\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/04/image-4-300x150.png)\n\n#####  The Ultimate Battle of Language Models: Lit-LLaMA vs GPT3.5 vs Bloom vs … \n\n[Read more]()\n\n[](https://lightning.ai/pages/community/article/lora-llm/)\n\nBlog\n\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/04/lora-thumbnail-300x140.png)\n\n#####  Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA) \n\n[Read more]()\n\n## Check out the LLM Glossary\n\nWe have broken down complex jargon into simple definitions to give you a deeper understanding of the evolving field of LLMs.\n\n[Go to Glossary](https://lightning.ai/pages/glossary/)\n\n## Join the biggest online community for open source AI!\n\nLightning's Discord server is where thousands of AI researchers, ML engineers, and PyTorch Lightning enthusiasts are collaborating on a daily basis! Members get to enjoy:\n\n  * Exclusive live events: Tune into regular live-streamed discussions, thought-provoking debates, and demos of valuable resources.\n  * Support from experts: Receive guidance, mentorship, and support at every step of your AI journey.\n  * Networking opportunities: Connect with like-minded individuals, forge valuable connections with experts and build your professional network.\n\n[Join today!](https://discord.gg/XncpTy7DSt)\n\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/03/discord-icon-1.svg)\n",
+    "content_quality_score": 0.6,
+    "summary": null,
+    "child_urls": [
+        "https://lightning.ai",
+        "https://lightning.ai/pages/blog/scaling-large-language-models-with-pytorch-lightning/",
+        "https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/",
+        "https://lightning.ai/pages/community/finetuning-falcon-efficiently/",
+        "https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/",
+        "https://lightning.ai/pages/blog/lora-insights/",
+        "https://lightning.ai/pages/community/announcements/lightning-2.1-train-bigger-better-faster/",
+        "https://lightning.ai/pages/community/article/neurips2023-llm-efficiency-guide/",
+        "https://lightning.ai/pages/blog/pytorch-memory-vit-llm/",
+        "https://lightning.ai/pages/blog/faster-pytorch-training-by-reducing-peak-memory/",
+        "https://lightning.ai/pages/community/article/efficient-initialization-of-large-models/",
+        "https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/",
+        "https://lightning.ai/pages/community/article/lora-llm/",
+        "https://lightning.ai/pages/glossary/",
+        "https://discord.gg/XncpTy7DSt"
+    ]
+}

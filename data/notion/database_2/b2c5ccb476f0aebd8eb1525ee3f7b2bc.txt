@@ -1,0 +1,249 @@
+# Notes
+
+
+
+<child_page>
+# ML Pipeline Architecture Design Patterns (With 10 Real-World Examples)
+
+[https://neptune.ai/blog/ml-pipeline-architecture-design-patterns](https://neptune.ai/blog/ml-pipeline-architecture-design-patterns)
+
+# Summary
+
+This article explores ML pipeline architecture design patterns, highlighting the distinction between ML pipeline architecture and design. It emphasizes the importance of following these patterns for efficiency, scalability, reproducibility, and standardization. The article outlines key stages in ML pipelines, including data ingestion, preprocessing, feature engineering, model training, evaluation, deployment, and monitoring. It then delves into 10 ML pipeline architecture examples, such as single leader architecture, directed acyclic graphs (DAGs), foreach pattern, synchronous training, parameter server architecture, and Ring-AllReduce architecture. Each pattern is explained with its advantages, disadvantages, and real-world applications, providing a comprehensive overview of ML pipeline architectures in practice.
+---
+
+# Details
+
+ Two terms are often used interchangeably, yet they hold distinct meanings.
+- ML pipeline architecture is like the high-level musical score for the symphony. It outlines the components, stages, and workflows within the ML pipeline.
+- In contrast, ML pipeline design is a deep dive into the composition of the ML pipeline, dealing with the tools, paradigms, techniques, and programming languages used to implement the pipeline and its components.
+
+Four reasons for following ML pipeline architecture and designs:
+- Efficiency
+- Scalability
+- Templating and reproducibility
+- Standardization
+
+MLOps: monitoring, maintaining, and deployment stages
+
+Main stages within ML pipelines:
+- Data Ingestion (e.g., Apache Kafka, Amazon Kinesis)
+- Data Preprocessing (e.g., pandas, NumPy)
+- Feature Engineering and Selection (e.g., Scikit-learn, Feature Tools)
+- Model Training (e.g., TensorFlow, PyTorch)
+- Model Evaluation (e.g., Scikit-learn, MLflow)
+- Model Deployment (e.g., TensorFlow Serving, TFX)
+- Monitoring and Maintenance (e.g., Prometheus, Grafana)
+# 10 ML pipeline architecture examples
+
+# Single leader architecture
+
+- Master-slave architecture
+- Pros: Scale horizontally for read operations
+- Cons: Scale vertically for write operations
+
+# Directed acyclic graphs (DAG)
+
+Directed graphs are made up of nodes, edges, and directions. The nodes represent processes; edges in graphs depict relationships between processes, and the direction of the edges signifies the flow of process execution or data/signal transfer within the graph.
+For instance, a condition in graphs where loops between vertices or nodes are disallowed. This type of graph is called an acyclic graph
+DAGs can easily be sorted topologically.
+Using DAGs provides an efficient way to execute processes and tasks in various applications, including big data analytics, machine learning, and artificial intelligence, where task dependencies and the order of execution are crucial.
+In modern machine learning pipelines that are expected to be adaptable and operate within dynamic environments or workflows, DAGs are unsuitable for modelling and managing these systems or pipelines, primarily because DAGs are ideal for static workflows with predefined dependencies. 
+# Foreach pattern
+
+The foreach pattern is a code execution paradigm that iteratively executes a piece of code for the number of times an item appears within a collection or set of data.
+For example, the foreach pattern can be used in the model training stage of ML pipelines, where a model is repeatedly exposed to different partitions of the dataset for training and others for testing over a specified amount of time.
+[Image](No URL)
+
+
+Utilizing the DAG architecture and foreach pattern in an ML pipeline enables a robust, scalable, and manageable ML pipeline solution. 
+Below is an illustration of an ML pipeline leveraging DAG and foreach pattern. The flowchart represents a machine learning pipeline where each stage (Data Collection, Data Preprocessing, Feature Extraction, Model Training, Model Validation, and Prediction Generation) is represented as a Directed Acyclic Graph (DAG) node. Within each stage, the “foreach” pattern is used to apply a specific operation to each item in a collection:
+[Image](No URL)
+But there are some disadvantages to it as well.
+When utilizing the foreach pattern in data or feature processing stages, all data must be loaded into memory before the operations can be executed. This can lead to poor computational performance, mainly when processing large volumes of data that may exceed available memory resources. For instance, in a use-case where the dataset is several terabytes large, the system may run out of memory, slow down, or even crash if it attempts to load all the data simultaneously.
+Another limitation of the foreach pattern lies in the execution order of elements within a data collection. The foreach pattern does not guarantee a consistent order of execution or order in the same form the data was loaded. Inconsistent order of execution within foreach patterns can be problematic in scenarios where the sequence in which data or features are processed is significant (e.g., time-series)
+# Synchronous training
+
+In this context, synchronous training involves a coordinated effort among all independent computational units, referred to as ‘workers’. Each worker holds a partition of the model and updates its parameters using its portion of the evenly distributed data. 
+[Image](No URL)
+
+Synchronous Training is relevant to scenarios or use cases where there is a need for even distribution of training data across compute resources, uniform computational capacity across all resources, and low latency communication between these independent resources. 
+Compared to asynchronous methods, synchronous training often achieves superior results as workers’ synchronized and uniform operation reduces variance in parameter updates at each step.
+Synchronous training may pose time efficiency issues as it requires the completion of tasks by all workers before proceeding to the next step. 
+# Parameter server architecture
+
+This architecture operates on the principle of server-client relationships, where the client nodes, referred to as ‘workers’, are assigned specific tasks such as handling data, managing model partitions, and executing defined operations.
+On the other hand, the server node plays a central role in managing and aggregating the updated model parameters and is also responsible for communicating these updates to the client nodes.
+[Image](No URL)
+# Ring-AllReduce architecture
+
+The workers independently compute their gradients during backward propagation on their own partition of the training data. A ring-like structure is applied to ensure each worker on a device has a model with parameters that include the gradient updates made on all other independent workers.
+his is achieved by passing the sum of gradients from one worker to the next worker in the ring, which then adds its own computed gradient to the sum and passes it on to the following worker. This process is repeated until all the workers have the complete sum of the gradients aggregated from all workers in the ring.
+[Image](No URL)
+Real-world applications involving distributed machine learning training, particularly in scenarios requiring handling extensive datasets (e.g., Meta, Google)
+
+- It enables effective data parallelism by ensuring optimal utilization of computational resources. Each worker node holds a complete copy of the model and is responsible for training on its subset of the data. 
+- Another advantage of Ring-AllReduce is that it allows for the aggregation of model parameter updates across multiple devices.
+# Others
+
+- Embeddings
+- Data parallelism
+- Model parallelism
+- Federated learning
+</child_page>
+
+
+
+<child_page>
+# Natural workflow of an ML system: from model development to ops
+
+[https://nicolay-gerold.notion.site/Season-3-MLOps-How-AI-Is-Built-2be82e4d93604c0594d84475f0a77721](https://nicolay-gerold.notion.site/Season-3-MLOps-How-AI-Is-Built-2be82e4d93604c0594d84475f0a77721)
+---
+
+# 1. Model Development: Building the Porcelain
+
+# Data Automation
+
+- Implementing automated processes for data collection, cleaning, and preparation
+- Ensuring data quality and consistency through automated pipelines
+# Data Quality and Validation
+
+- Implementing Data Quality Gates and Automated Data Quality Monitoring
+- Designing Data Validation Systems That Scale
+- Utilizing tools like Great Expectations and Pydantic for data validation
+# Version Control for Data
+
+- Implementing Git-Like Operations for Data
+- Data Version Control with lakeFS: A Practical Guide
+- Managing Dataset Evolution in Production
+# Experiment Management and Reproducibility
+
+- Building a Reproducible ML Pipeline with tools like Weights & Biases (W&B) or Comet
+- From Prototype to Production: Effective Experiment Management
+- Scaling ML Experiments: Infrastructure and Best Practices
+# Model Validation and Testing
+
+- Beyond Accuracy: Comprehensive Model Validation Strategies
+- Building Model Validation Pipelines That Scale
+- Testing Model Behavior: From Unit Tests to Integration
+# 2. Deployment & Serving
+
+# Security and Abuse Prevention
+
+- Preventing abuse of customer-facing ML & AI Systems
+- Implementing access controls and monitoring for potential misuse
+# Batch Processing Optimization
+
+- Maximizing throughput for batch workloads
+- Best practices for efficient batch processing in ML systems
+# Gradual Rollout and Testing
+
+- Canary Testing for ML: Implementing gradual rollouts and monitoring performance
+- A/B Testing for ML: Designing and executing controlled experiments to compare model versions
+# Continuous Integration and Deployment (CI/CD)
+
+- Implementing CI/CD pipelines specifically for ML workflows
+- Automating model deployment and updates
+# Model Lifecycle Management
+
+- Strategies for managing the entire lifecycle of ML models
+- Version control, monitoring, and updating models in production
+# Model Serving Patterns
+
+- Comparing Model Serving Patterns: Batch, Real-Time, Micro-Batch, Edge
+- Infrastructure Choices: Self-Hosted, Cloud Services, Edge/Browser
+# Distributed Inference
+
+- Techniques for distributed inference across various model types (LLMs, Embedding Models, CV, Classification)
+- Leveraging tools like Triton for efficient distributed inference
+# Self-Hosting AI
+
+- Strategies and considerations for self-hosting AI models
+- Case studies of organizations managing their own GPU clusters for AI inference
+# AI on Edge Devices
+
+- Serving AI to unknown devices: Bringing AI to local devices
+- Lessons from Federated Learning for distributed model training and inference
+# 3. Quality & Reliability
+
+# Testing
+
+- Building a Test-Driven ML Development Workflow
+- Implementing Data Validation: From Schema to Semantics
+- Designing Model Test Suites: Beyond Accuracy Metrics
+- Performance Testing ML Systems: Load, Stress, and Scale
+- Integration Testing for ML: Combining Code, Data, and Models
+# Monitoring & Observability
+
+- Building Real-Time Data Drift Detection Systems
+- Implementing Production Model Quality Monitors
+- Designing ML-Specific Logging Systems
+- Distributed Tracing for ML Systems: End-to-End Visibility
+- Monitoring Complex ML Pipelines: From Data to Prediction
+# Incident Recovery
+
+- Building Alert Systems for ML Applications
+- Debugging ML Systems: From Model to Infrastructure
+- Designing Recovery Procedures for ML Services
+- Creating ML Incident Playbooks: Lessons from Production
+# 4. Automation & Scale: Building the Plumbing
+
+# CI/CD for ML
+
+- Building CI Pipelines for ML: Beyond Standard Software Testing
+- Implementing Continuous Training: From Data to Deployment
+- Automating Model Evaluation in CI/CD Pipelines
+- Creating Deployment Pipelines for ML Services
+- Building Self-Healing ML Systems: Automated Recovery and Rollback
+# Scale Management
+
+- Scaling Model Training: From Single GPU to Cluster
+- Building Distributed Inference Systems: Architecture and Implementation
+- Optimizing Resource Usage in Large-Scale ML Systems
+- Managing Multi-Model ML Services: Infrastructure and Orchestration
+- Optimizing ML Infrastructure Costs: A Practical Guide
+# Container Orchestration
+
+- Orchestrating containers for training and inference
+- Managing GPU Resources in a Multi-Team Environment
+- Building Elastic ML Training Infrastructure
+# Security & Governance
+
+- Implementing robust access control mechanisms
+- Establishing model governance frameworks
+- Abuse Prevention (e.g., user request rate limiting)
+- Ensuring compliance with data protection regulations
+This structured overview provides a comprehensive look at the key aspects of ML model development, deployment, and serving, covering everything from initial data preparation to large-scale production systems. Each section addresses critical components of the ML lifecycle, emphasizing best practices, tools, and strategies for building robust, scalable, and reliable ML systems.
+</child_page>
+
+
+---
+
+# Community
+
+[https://nexocode.com/blog/posts/lambda-vs-kappa-architecture/](https://nexocode.com/blog/posts/lambda-vs-kappa-architecture/)
+[https://neptune.ai/blog/mlops-tools-platforms-landscape](https://neptune.ai/blog/mlops-tools-platforms-landscape)
+[https://www.youtube.com/watch?v=gxw1gMYP0WM&t=1171s](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=1171s)
+[From MLOps to ML Systems with Feature/Training/Inference Pipelines](https://www.hopsworks.ai/post/mlops-to-ml-systems-with-fti-pipelines)
+[Building an End-to-End MLOps Pipeline with Open-Source Tools](https://medium.com/infer-qwak/building-an-end-to-end-mlops-pipeline-with-open-source-tools-d8bacbf4184f)
+[CI/CD for Machine Learning in 2024: Best Practices to Build, Train, and Deploy](https://medium.com/infer-qwak/ci-cd-for-machine-learning-in-2024-best-practices-to-build-test-and-deploy-c4ad869824d2)
+The FTI Pipeline Architecture & Feature Store series:
+	- [Modularity and Composability for AI Systems with AI Pipelines and Shared Storage](https://www.hopsworks.ai/post/modularity-and-composability-for-ai-systems-with-ai-pipelines-and-shared-storage)
+	- [A Taxonomy for Data Transformations in AI Systems](https://www.hopsworks.ai/post/a-taxonomy-for-data-transformations-in-ai-systems)
+
+[https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+# Papers
+
+	- [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning.](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
+	- [The Hopsworks Feature Store for Machine Learning](https://dl.acm.org/doi/10.1145/3626246.3653389)
+
+# Blogs
+
+	- [https://www.hopsworks.ai/blog](https://www.hopsworks.ai/blog)
+	- [https://www.qwak.com/blog](https://www.qwak.com/blog)
+	- [https://www.featurestore.org/](https://www.featurestore.org/)
+
+# Courses
+
+	- [https://github.com/DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+	- [https://github.com/GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)

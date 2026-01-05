@@ -1,0 +1,686 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F7ca646833439&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](https://medium.com/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](https://medium.com/search?source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)
+
+Top highlight
+
+# A Guide on 12 Tuning Strategies for Production-Ready RAG Applications
+
+## How to improve the performance of your Retrieval-Augmented Generation (RAG) pipeline with these “hyperparameters” and tuning strategies
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:88:88/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---byline--7ca646833439--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:48:48/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---byline--7ca646833439--------------------------------)
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---byline--7ca646833439--------------------------------)
+
+·
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F3a38da70d8dc&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&user=Leonie+Monigatti&userId=3a38da70d8dc&source=post_page-3a38da70d8dc--byline--7ca646833439---------------------post_header-----------)
+
+Published in
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---byline--7ca646833439--------------------------------)
+
+·
+
+10 min read
+
+·
+
+Dec 6, 2023
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F7ca646833439&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&user=Leonie+Monigatti&userId=3a38da70d8dc&source=---header_actions--7ca646833439---------------------clap_footer-----------)
+
+1.7K
+
+16
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7ca646833439&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&source=---header_actions--7ca646833439---------------------bookmark_footer-----------)
+
+[Listen](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D7ca646833439&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&source=---header_actions--7ca646833439---------------------post_audio_button-----------)
+
+Share
+
+![](https://miro.medium.com/v2/resize:fit:700/1*14bRGUWZojH8Y1x12kA2IQ.png)
+
+Tuning Strategies for Retrieval-Augmented Generation Applications
+
+Data Science is an experimental science. It starts with the “No Free Lunch Theorem,” which states that there is no one-size-fits-all algorithm that works best for every problem. And it results in data scientists using [experiment tracking systems](https://medium.com/@iamleonie/intro-to-mlops-experiment-tracking-for-machine-learning-858e432bd133) to help them [tune the hyperparameters of their Machine Learning (ML) projects to achieve the best performance](https://medium.com/towards-data-science/intermediate-deep-learning-with-transfer-learning-f1aba5a814f).
+
+This article looks at a [Retrieval-Augmented Generation (RAG) pipeline](https://medium.com/towards-data-science/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2) through the eyes of a data scientist. It discusses potential “hyperparameters” you can experiment with to improve your RAG pipeline’s performance. Similar to experimentation in Deep Learning, where, e.g., data augmentation techniques are not a hyperparameter but a knob you can tune and experiment with, this article will also cover different strategies you can apply, which are not per se hyperparameters.
+
+## [Retrieval-Augmented Generation (RAG): From Theory to LangChain ImplementationFrom the theory of the original academic paper to its Python implementation with OpenAI, Weaviate, and LangChaintowardsdatascience.com](/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2?source=post_page-----7ca646833439--------------------------------)
+
+This article covers the following “hyperparameters” sorted by their relevant stage. In the [ingestion stage](#4142) of a RAG pipeline, you can achieve performance improvements by:
+
+  * [Data cleaning](#196c)
+  * [Chunking](#e45f)
+  * [Embedding models](#156e)
+  * [Metadata](#2b47)
+  * [Multi-indexing](#ce6c)
+  * [Indexing algorithms](#4daa)
+
+
+
+And in the [inferencing stage (retrieval and generation)](#ac53), you can tune:
+
+  * [Query transformations](#a5e2)
+  * [Retrieval parameters](#fa73)
+  * [Advanced retrieval strategies](#a3bb)
+  * [Re-ranking models](#341d)
+  * [LLMs](#e9f9)
+  * [Prompt engineering](#9c1c)
+
+
+
+Note that this article covers text-use cases of RAG. For multimodal RAG applications, different considerations may apply.
+
+# Ingestion Stage
+
+The ingestion stage is a preparation step for building a RAG pipeline, similar to the data cleaning and preprocessing steps in an ML pipeline. Usually, the ingestion stage consists of the following steps:
+
+  1. Collect data
+  2. Chunk data
+  3. Generate vector embeddings of chunks
+  4. Store vector embeddings and chunks in a vector database
+
+
+
+![Documents are first chunked, then the chunks are embedded, and the embeddings are stored in the vector database](https://miro.medium.com/v2/resize:fit:700/1*4WQ2HYCrZO8VwOXeugeGAg.png)
+
+Ingestion stage of a RAG pipeline
+
+This section discusses impactful techniques and hyperparameters that you can apply and tune to improve the relevance of the retrieved contexts in the inferencing stage.
+
+## Data cleaning
+
+Like any Data Science pipeline, the quality of your data heavily impacts the outcome in your RAG pipeline [8, 9]. Before moving on to any of the following steps, ensure that your data meets the following criteria:
+
+  * **Clean** : Apply at least some basic data cleaning techniques commonly used in Natural Language Processing, such as making sure all special characters are encoded correctly.
+  * **Correct** : Make sure your information is consistent and factually accurate to avoid conflicting information confusing your LLM.
+
+
+
+## Chunking
+
+Chunking your documents is an essential preparation step for your external knowledge source in a RAG pipeline that can impact the performance [1, 8, 9]. It is a technique to generate logically coherent snippets of information, usually by breaking up long documents into smaller sections (but it can also combine smaller snippets into coherent paragraphs).
+
+One consideration you need to make is the **choice of the chunking technique**. For example, in [LangChain, different text splitters](https://python.langchain.com/docs/modules/data_connection/document_transformers/) split up documents by different logics, such as by characters, tokens, etc. This depends on the type of data you have. For example, you will need to use different chunking techniques if your input data is code vs. if it is a Markdown file.
+
+The ideal **length of your chunk (**`**chunk_size**`**)** depends on your use case: If your use case is question answering, you may need shorter specific chunks, but if your use case is summarization, you may need longer chunks. Additionally, if a chunk is too short, it might not contain enough context. On the other hand, if a chunk is too long, it might contain too much irrelevant information.
+
+Additionally, you will need to think about a **“rolling window” between chunks (**`**overlap**`**)** to introduce some additional context.
+
+## Embedding models
+
+Embedding models are at the core of your retrieval. The **quality of your embeddings** heavily impacts your retrieval results [1, 4]. Usually, the higher the dimensionality of the generated embeddings, the higher the precision of your embeddings.
+
+For an idea of what alternative embedding models are available, you can look at the [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard), which covers 164 text embedding models (at the time of this writing).
+
+## [MTEB Leaderboard - a Hugging Face Space by mtebDiscover amazing ML apps made by the communityhuggingface.co](https://huggingface.co/spaces/mteb/leaderboard?source=post_page-----7ca646833439--------------------------------)
+
+While you can use general-purpose embedding models out-of-the-box, it may make sense to **fine-tune your embedding model** to your specific use case in some cases to avoid out-of-domain issues later on [9]. According to experiments conducted by LlamaIndex, fine-tuning your embedding model can lead to a [5–10% performance increase in retrieval evaluation metrics](https://github.com/run-llama/finetune-embedding/blob/main/evaluate.ipynb) [2].
+
+Note that you cannot fine-tune all embedding models (e.g., [OpenAI's ](https://platform.openai.com/docs/guides/fine-tuning)`[text-ebmedding-ada-002](https://platform.openai.com/docs/guides/fine-tuning)`[ can’t be fine-tuned at the moment](https://platform.openai.com/docs/guides/fine-tuning)).
+
+## Metadata
+
+When you store vector embeddings in a [vector database](https://medium.com/towards-data-science/explaining-vector-databases-in-3-levels-of-difficulty-fc392e48ab78), some vector databases let you store them together with metadata (or data that is not vectorized). **Annotating vector embeddings with metadata** can be helpful for additional post-processing of the search results, such as **metadata filtering** [1, 3, 8, 9]. For example, you could add metadata, such as the date, chapter, or subchapter reference.
+
+## Multi-indexing
+
+If the metadata is not sufficient enough to provide additional information to separate different types of context logically, you may want to **experiment with multiple indexes** [1, 9]. For example, you can use different indexes for different types of documents. Note that you will have to incorporate some index routing at retrieval time [1, 9]. If you are interested in a deeper dive into metadata and separate collections, you might want to learn more about the concept of [native multi-tenancy](https://www.youtube.com/watch?v=KT2RFMTJKGs).
+
+## Indexing algorithms
+
+To enable lightning-fast similarity search at scale, vector databases and vector indexing libraries use an Approximate Nearest Neighbor (ANN) search instead of a k-nearest neighbor (kNN) search. As the name suggests, ANN algorithms approximate the nearest neighbors and thus can be less precise than a kNN algorithm.
+
+There are **different ANN algorithms** you could experiment with, such as [Facebook Faiss](https://github.com/facebookresearch/faiss) (clustering), [Spotify Annoy](https://github.com/spotify/annoy) (trees), [Google ScaNN](https://github.com/google-research/google-research/tree/master/scann) (vector compression), and [HNSWLIB](https://github.com/nmslib/hnswlib) (proximity graphs). Also, many of these ANN algorithms have some parameters you could tune, such as `ef`, `efConstruction`, and `maxConnections` for HNSW [1].
+
+Additionally, you can enable vector compression for these indexing algorithms. Analogous to ANN algorithms, you will lose some precision with vector compression. However, depending on the choice of the vector compression algorithm and its tuning, you can optimize this as well.
+
+However, in practice, these parameters are already tuned by research teams of vector databases and vector indexing libraries during benchmarking experiments and not by developers of RAG systems. However, if you want to experiment with these parameters to squeeze out the last bits of performance, I recommend this article as a starting point:
+
+## [An Overview on RAG Evaluation | Weaviate - vector databaseLearn about new trends in RAG evaluation and the current state of the art.weaviate.io](https://weaviate.io/blog/rag-evaluation?source=post_page-----7ca646833439--------------------------------#indexing-knobs)
+
+# Inferencing Stage (Retrieval & Generation)
+
+The main components of the RAG pipeline are the retrieval and the generative components. This section mainly discusses strategies to improve the retrieval ([Query transformations](#a5e2), [retrieval parameters](#fa73), [advanced retrieval strategies](#a3bb), and [re-ranking models](#341d)) as this is the more impactful component of the two. But it also briefly touches on some strategies to improve the generation ([LLM](#e9f9) and [prompt engineering](#9c1c)).
+
+![Standard RAG schema](https://miro.medium.com/v2/resize:fit:700/1*tT14GpYfEMSqCjnt2UQOGQ.png)
+
+Inference stage of a RAG pipeline
+
+## Query transformations
+
+Since the search query to retrieve additional context in a RAG pipeline is also embedded into the vector space, its phrasing can also impact the search results. Thus, if your search query doesn’t result in satisfactory search results, you can experiment with various [query transformation techniques](https://gpt-index.readthedocs.io/en/v0.6.9/how_to/query/query_transformations.html) [5, 8, 9], such as:
+
+  * **Rephrasing:** Use an LLM to rephrase the query and try again.
+  * **Hypothetical Document Embeddings (HyDE):** Use an LLM to generate a hypothetical response to the search query and use both for retrieval.
+  * **Sub-queries:** Break down longer queries into multiple shorter queries.
+
+
+
+## Retrieval parameters
+
+The retrieval is an essential component of the RAG pipeline. The first consideration is whether semantic search will be sufficient for your use case or if you want to experiment with hybrid search.
+
+In the latter case, you need to experiment with weighting the aggregation of sparse and dense retrieval methods in hybrid search [1, 4, 9]. Thus, tuning the parameter `**alpha**`**, which controls the weighting between semantic (**`**alpha = 1**`**) and keyword-based search (**`**alpha = 0**`**)** , will become necessary.
+
+## [Improving Retrieval Performance in RAG Pipelines with Hybrid SearchHow to find more relevant search results by combining traditional keyword-based search with modern vector searchtowardsdatascience.com](/improving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5?source=post_page-----7ca646833439--------------------------------)
+
+Also, the **number of search results to retrieve** will play an essential role. The number of retrieved contexts will impact the length of the used context window (see [Prompt Engineering](#9c1c)). Also, if you are using a re-ranking model, you need to consider how many contexts to input to the model (see [Re-ranking models](#341d)).
+
+Note, while the used similarity measure for semantic search is a parameter you can change, you should not experiment with it but instead set it according to the used embedding model (e.g., `[text-embedding-ada-002](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)` supports cosine similarity or `[multi-qa-MiniLM-l6-cos-v1](https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-cos-v1#technical-details)` supports cosine similarity, dot product, and Euclidean distance).
+
+## Advanced retrieval strategies
+
+This section could technically be its own article. For this overview, we will keep this as concise as possible. For an in-depth explanation of the following techniques, I recommend this DeepLearning.AI course:
+
+## [Building and Evaluating Advanced RAG ApplicationsLearn methods like sentence-window retrieval and auto-merging retrieval, improving your RAG pipeline’s performance…www.deeplearning.ai](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/?source=post_page-----7ca646833439--------------------------------)
+
+The underlying idea of this section is that the chunks for retrieval shouldn’t necessarily be the same chunks used for the generation. Ideally, you would embed smaller chunks for retrieval (see [Chunking](#e45f)) but retrieve bigger contexts. [7]
+
+  * **Sentence-window retrieval:** Do not just retrieve the relevant sentence, but the window of appropriate sentences before and after the retrieved one.
+  * **Auto-merging retrieval:** The documents are organized in a tree-like structure. At query time, separate but related, smaller chunks can be consolidated into a larger context.
+
+
+
+## Re-ranking models
+
+While semantic search retrieves context based on its semantic similarity to the search query, “most similar” doesn’t necessarily mean “most relevant”. **Re-ranking models** , such as [Cohere’s Rerank](https://cohere.com/rerank?ref=txt.cohere.com&__hstc=14363112.8fc20f6b1a1ad8c0f80dcfed3741d271.1697800567394.1701091033915.1701173515537.7&__hssc=14363112.1.1701173515537&__hsfp=3638092843) model, can help eliminate irrelevant search results by computing a score for the relevance of the query for each retrieved context [1, 9].
+
+> “most similar” doesn’t necessarily mean “most relevant”
+
+If you are using a re-ranker model, you may need to re-tune the **number of search results** for the input of the re-ranker and how many of the reranked results you want to feed into the LLM.
+
+As with the [embedding models](#156e), you may want to experiment with **fine-tuning the re-ranker** to your specific use case.
+
+## LLMs
+
+The **LLM is the core component** for generating the response. Similarly to the embedding models, there is a wide range of LLMs you can choose from depending on your requirements, such as open vs. proprietary models, inferencing costs, context length, etc. [1]
+
+As with the [embedding models](#156e) or [re-ranking models](#341d), you may want to experiment with **fine-tuning the LLM** to your specific use case to incorporate specific wording or tone of voice.
+
+## Prompt engineering
+
+How you phrase or [**engineer your prompt**](/how-to-write-expert-prompts-for-chatgpt-gpt-4-and-other-language-models-23133dc85550) will significantly impact the LLM’s completion [1, 8, 9].
+
+```
+Please base your answer only on the search results and nothing else!
+``````
+Very important! Your answer MUST be grounded in the search results provided. Please explain why your answer is grounded in the search results!
+```
+
+Additionally, using **few-shot examples** in your prompt can improve the quality of the completions.
+
+As mentioned in [Retrieval parameters](#fa73), the **number of contexts** fed into the prompt is a parameter you should experiment with [1]. While the performance of your RAG pipeline can improve with increasing relevant context, you can also run into a “Lost in the Middle” [6] effect where relevant context is not recognized as such by the LLM if it is placed in the middle of many contexts.
+
+# Summary
+
+As more and more developers gain experience with prototyping RAG pipelines, it becomes more important to discuss strategies to bring RAG pipelines to production-ready performances. This article discussed different “hyperparameters” and other knobs you can tune in a RAG pipeline according to the relevant stages:
+
+This article covered the following strategies in the [ingestion stage](#4142):
+
+  * [Data cleaning](#196c): Ensure data is clean and correct.
+  * [Chunking](#e45f): Choice of chunking technique, chunk size (`chunk_size`) and chunk overlap (`overlap`).
+  * [Embedding models](#156e): Choice of the embedding model, incl. dimensionality, and whether to fine-tune it.
+  * [Metadata](#2b47): Whether to use metadata and choice of metadata.
+  * [Multi-indexing](#ce6c): Decide whether to use multiple indexes for different data collections.
+  * [Indexing algorithms](#4daa): Choice and tuning of ANN and vector compression algorithms can be tuned but are usually not tuned by practitioners.
+
+
+
+And the following strategies in the [inferencing stage (retrieval and generation)](#ac53):
+
+  * [Query transformations](#a5e2): Experiment with rephrasing, HyDE, or sub-queries.
+  * [Retrieval parameters](#fa73): Choice of search technique (`alpha` if you have hybrid search enabled) and the number of retrieved search results.
+  * [Advanced retrieval strategies](#a3bb): Whether to use advanced retrieval strategies, such as sentence-window or auto-merging retrieval.
+  * [Re-ranking models](#341d): Whether to use a re-ranking model, choice of re-ranking model, number of search results to input into the re-ranking model, and whether to fine-tune the re-ranking model.
+  * [LLMs](#e9f9): Choice of LLM and whether to fine-tune it.
+  * [Prompt engineering](#9c1c): Experiment with different phrasing and few-shot examples.
+
+
+
+# Enjoyed This Story?
+
+[_Subscribe for free_](https://medium.com/subscribe/@iamleonie) _to get notified when I publish a new story._
+
+## [Get an email whenever Leonie Monigatti publishes.Get an email whenever Leonie Monigatti publishes. By signing up, you will create a Medium account if you don’t already…medium.com](https://medium.com/@iamleonie/subscribe?source=post_page-----7ca646833439--------------------------------)
+
+ _Find me on_[ _LinkedIn_](https://www.linkedin.com/in/804250ab/),[_Twitter_](https://twitter.com/helloiamleonie) _, and_[ _Kaggle_](https://www.kaggle.com/iamleonie) _!_
+
+# References
+
+## Literature
+
+[1] [Connor Shorten](https://medium.com/u/59216259c525?source=post_page---user_mention--7ca646833439--------------------------------) and [Erika Cardenas](https://medium.com/u/91b27bdf28df?source=post_page---user_mention--7ca646833439--------------------------------) (2023). Weaviate Blog. [An Overview on RAG Evaluation](https://weaviate.io/blog/rag-evaluation) (accessed Nov. 27, 2023)
+
+[2] [Jerry Liu](https://medium.com/u/e76da1c45ef7?source=post_page---user_mention--7ca646833439--------------------------------) (2023). LlamaIndex Blog. [Fine-Tuning Embeddings for RAG with Synthetic Data](https://blog.llamaindex.ai/fine-tuning-embeddings-for-rag-with-synthetic-data-e534409a3971) (accessed Nov. 28, 2023)
+
+[3] LlamaIndex Documentation (2023). [Building Performant RAG Applications for Production](https://gpt-index.readthedocs.io/en/stable/optimizing/production_rag.html) (accessed Nov. 28, 2023)
+
+[4] Voyage AI (2023). [Embeddings Drive the Quality of RAG: A Case Study of Chat.LangChain](https://blog.voyageai.com/2023/10/29/a-case-study-of-chat-langchain/) (accessed Dec. 5, 2023)
+
+[5] LlamaIndex Documentation (2023). [Query Transformations](https://gpt-index.readthedocs.io/en/v0.6.9/how_to/query/query_transformations.html) (accessed Nov. 28, 2023)
+
+[6] Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., & Liang, P. (2023). Lost in the middle: How language models use long contexts. _arXiv preprint arXiv:2307.03172_.
+
+[7] DeepLearning.AI (2023). [Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) (accessed Dec 4, 2023)
+
+[8] [Ahmed Besbes](https://medium.com/u/adc8ea174c69?source=post_page---user_mention--7ca646833439--------------------------------) (2023). Towards Data Science. [Why Your RAG Is Not Reliable in a Production Environment](/why-your-rag-is-not-reliable-in-a-production-environment-9e6a73b3eddb) (accessed Nov. 27, 2023)
+
+[9] [Matt Ambrogi](https://medium.com/u/1e23ad8f92c5?source=post_page---user_mention--7ca646833439--------------------------------) (2023). Towards Data Science. [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c) (accessed Nov. 27, 2023)
+
+## Images
+
+If not otherwise stated, all images are created by the author.
+
+![](https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)
+
+## Sign up to discover human stories that deepen your understanding of the world.
+
+## Free
+
+Distraction-free reading. No ads.
+
+Organize your knowledge with lists and highlights.
+
+Tell your story. Find your audience.
+
+[Sign up for free](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&source=---post_footer_upsell--7ca646833439---------------------lo_non_moc_upsell-----------)
+
+## Membership
+
+Read member-only stories
+
+Support writers you read most
+
+Earn money for your writing
+
+Listen to audio narrations
+
+Read offline with the Medium app
+
+[Try for $5/month](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplans&source=---post_footer_upsell--7ca646833439---------------------lo_non_moc_upsell-----------)
+
+[Data Scientist](https://medium.com/tag/data-scientist?source=post_page-----7ca646833439--------------------------------)
+
+[Artificial Intelligence](https://medium.com/tag/artificial-intelligence?source=post_page-----7ca646833439--------------------------------)
+
+[Machine Learning](https://medium.com/tag/machine-learning?source=post_page-----7ca646833439--------------------------------)
+
+[Programming](https://medium.com/tag/programming?source=post_page-----7ca646833439--------------------------------)
+
+[Rags](https://medium.com/tag/rags?source=post_page-----7ca646833439--------------------------------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F7ca646833439&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&user=Leonie+Monigatti&userId=3a38da70d8dc&source=---footer_actions--7ca646833439---------------------clap_footer-----------)
+
+1.7K
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F7ca646833439&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&user=Leonie+Monigatti&userId=3a38da70d8dc&source=---footer_actions--7ca646833439---------------------clap_footer-----------)
+
+1.7K
+
+16
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7ca646833439&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&source=---footer_actions--7ca646833439---------------------bookmark_footer-----------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:96:96/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--7ca646833439--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:128:128/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--7ca646833439--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--7ca646833439---------------------follow_profile-----------)
+
+## [Published in Towards Data Science](https://towardsdatascience.com/?source=post_page---post_publication_info--7ca646833439--------------------------------)
+
+[794K Followers](/followers?source=post_page---post_publication_info--7ca646833439--------------------------------)
+
+·[Last published just now](/explaining-the-attention-mechanism-29a0e7b448a9?source=post_page---post_publication_info--7ca646833439--------------------------------)
+
+Your home for data science and AI. The world’s leading publication for data science, data analytics, data engineering, machine learning, and artificial intelligence professionals.
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--7ca646833439---------------------follow_profile-----------)
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:96:96/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---post_author_info--7ca646833439--------------------------------)
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:128:128/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---post_author_info--7ca646833439--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F3a38da70d8dc&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&user=Leonie+Monigatti&userId=3a38da70d8dc&source=post_page-3a38da70d8dc--post_author_info--7ca646833439---------------------follow_profile-----------)
+
+## [Written by Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---post_author_info--7ca646833439--------------------------------)
+
+[33K Followers](https://medium.com/@iamleonie/followers?source=post_page---post_author_info--7ca646833439--------------------------------)
+
+·[183 Following](https://medium.com/@iamleonie/following?source=post_page---post_author_info--7ca646833439--------------------------------)
+
+Developer Advocate @ Weaviate. Follow for practical data science guides - whether you're a data scientist or not. [linkedin.com/in/804250ab](http://linkedin.com/in/804250ab)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F3a38da70d8dc&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&user=Leonie+Monigatti&userId=3a38da70d8dc&source=post_page-3a38da70d8dc--post_author_info--7ca646833439---------------------follow_profile-----------)
+
+## Responses (16)
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--7ca646833439--------------------------------)
+
+[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439&source=---post_responses--7ca646833439---------------------respond_sidebar-----------)
+
+Cancel
+
+Respond
+
+Respond
+
+Also publish to my profile
+
+[![Yaman Singhania](https://miro.medium.com/v2/resize:fill:32:32/1*SFbApZmpqdPLeDeKuMZGFQ.jpeg)](https://yamansinghania.medium.com/?source=post_page---post_responses--7ca646833439----0----------------------------)
+
+[Yaman Singhania](https://yamansinghania.medium.com/?source=post_page---post_responses--7ca646833439----0----------------------------)
+
+[Dec 6, 2023](https://yamansinghania.medium.com/this-guide-on-tuning-strategies-for-production-ready-rag-applications-is-a-treasure-trove-for-14c8e91136f9?source=post_page---post_responses--7ca646833439----0----------------------------)
+
+```
+
+
+This guide on tuning strategies for production-ready RAG applications is a treasure trove for anyone navigating the intricacies of Retrieval-Augmented Generation. The breakdown of the "hyperparameters" and the comprehensive strategies provided give…more
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F14c8e91136f9&operation=register&redirect=https%3A%2F%2Fyamansinghania.medium.com%2Fthis-guide-on-tuning-strategies-for-production-ready-rag-applications-is-a-treasure-trove-for-14c8e91136f9&user=Yaman+Singhania&userId=d0758bf43bfb&source=---post_responses--14c8e91136f9----0-----------------respond_sidebar-----------)
+
+13
+
+Reply
+
+[![Arvind Nagaraj](https://miro.medium.com/v2/resize:fill:32:32/1*UlVQKoDW0ud-yfI6VeVf2A.jpeg)](https://medium.com/@gedanken.thesis?source=post_page---post_responses--7ca646833439----1----------------------------)
+
+[Arvind Nagaraj](https://medium.com/@gedanken.thesis?source=post_page---post_responses--7ca646833439----1----------------------------)
+
+[Dec 6, 2023](https://medium.com/@gedanken.thesis/this-is-such-a-well-written-best-practices-guide-on-creating-rag-pipelines-50661512b15b?source=post_page---post_responses--7ca646833439----1----------------------------)
+
+```
+
+
+This is such a well written "best practices" guide on creating RAG pipelines. Leonie has done a remarkable job of distilling important tips and tricks practitioners use, into a concise blogpost. Highly recommend giving these "hyperparameters" a try to improve the quality of your LLM powered applications.
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F50661512b15b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gedanken.thesis%2Fthis-is-such-a-well-written-best-practices-guide-on-creating-rag-pipelines-50661512b15b&user=Arvind+Nagaraj&userId=6e6d06d4b300&source=---post_responses--50661512b15b----1-----------------respond_sidebar-----------)
+
+12
+
+Reply
+
+[![Priya Dwivedi](https://miro.medium.com/v2/resize:fill:32:32/1*-pLZs7KHyeOLnCeWnk3AvQ.jpeg)](https://priya-dwivedi.medium.com/?source=post_page---post_responses--7ca646833439----2----------------------------)
+
+[Priya Dwivedi](https://priya-dwivedi.medium.com/?source=post_page---post_responses--7ca646833439----2----------------------------)
+
+[Dec 13, 2023](https://priya-dwivedi.medium.com/very-good-article-3d2604fb3221?source=post_page---post_responses--7ca646833439----2----------------------------)
+
+```
+
+
+Very good article. Thanks for summarizing many different things in one place and including helpful links!
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F3d2604fb3221&operation=register&redirect=https%3A%2F%2Fpriya-dwivedi.medium.com%2Fvery-good-article-3d2604fb3221&user=Priya+Dwivedi&userId=b040ce924438&source=---post_responses--3d2604fb3221----2-----------------respond_sidebar-----------)
+
+6
+
+Reply
+
+See all responses
+
+## More from Leonie Monigatti and Towards Data Science
+
+![Stylized performance dashboard for Retrieval-Augmented Generation](https://miro.medium.com/v2/resize:fit:679/1*t8v_0ztDLfkLB0fvHHc9pw.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--7ca646833439----0---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--7ca646833439----0---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+by
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---author_recirc--7ca646833439----0---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+## [Evaluating RAG Applications with RAGAsA framework with metrics and LLM-generated data to evaluate the performance of your Retrieval-Augmented Generation pipeline](/evaluating-rag-applications-with-ragas-81d67b0ee31a?source=post_page---author_recirc--7ca646833439----0---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+Dec 13, 2023
+
+[1.6K9](/evaluating-rag-applications-with-ragas-81d67b0ee31a?source=post_page---author_recirc--7ca646833439----0---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F81d67b0ee31a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&source=---author_recirc--7ca646833439----0-----------------bookmark_preview----2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+![Why Generative-AI Apps’ Quality Often Sucks and What to Do About It](https://miro.medium.com/v2/resize:fit:679/1*ze5_bcSOz29WLvry5gi0bg.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--7ca646833439----1---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--7ca646833439----1---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+by
+
+[Dr. Marcel Müller](https://medium.com/@marcelmueller?source=post_page---author_recirc--7ca646833439----1---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+## [Why Generative-AI Apps’ Quality Often Sucks and What to Do About ItHow to get from PoCs to tested high-quality applications in production](/why-generative-ai-apps-quality-often-sucks-and-what-to-do-about-it-f84407f263c3?source=post_page---author_recirc--7ca646833439----1---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+1d ago
+
+[1192](/why-generative-ai-apps-quality-often-sucks-and-what-to-do-about-it-f84407f263c3?source=post_page---author_recirc--7ca646833439----1---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff84407f263c3&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fwhy-generative-ai-apps-quality-often-sucks-and-what-to-do-about-it-f84407f263c3&source=---author_recirc--7ca646833439----1-----------------bookmark_preview----2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+![A selection of used images within the article.](https://miro.medium.com/v2/resize:fit:679/1*Rc_H4sx40bLqTFkRFq3SVQ.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--7ca646833439----2---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--7ca646833439----2---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+by
+
+[Jens Linden, PhD](https://medium.com/@jens-linden?source=post_page---author_recirc--7ca646833439----2---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+## [How Most Organizations Get Data Strategy Wrong — and How to Fix ItRedefining Data Strategy to Drive Competitive Advantage with Data, Analytics and AI](/how-most-organizations-get-data-strategy-wrong-and-how-to-fix-it-b8afa59f1533?source=post_page---author_recirc--7ca646833439----2---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+1d ago
+
+[3907](/how-most-organizations-get-data-strategy-wrong-and-how-to-fix-it-b8afa59f1533?source=post_page---author_recirc--7ca646833439----2---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb8afa59f1533&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fhow-most-organizations-get-data-strategy-wrong-and-how-to-fix-it-b8afa59f1533&source=---author_recirc--7ca646833439----2-----------------bookmark_preview----2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+![DSPy logo of puzzle pieces showing the DSPy modules Signature, Modules, Teleprompter, and the DSPy compiler prioritzed over prompting.](https://miro.medium.com/v2/resize:fit:679/1*hZoX1Q_rp9FyYwPJ4FlaUg@2x.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--7ca646833439----3---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--7ca646833439----3---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+by
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---author_recirc--7ca646833439----3---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+## [Intro to DSPy: Goodbye Prompting, Hello Programming!How the DSPy framework solves the fragility problem in LLM-based applications by replacing prompting with programming and compiling](/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9?source=post_page---author_recirc--7ca646833439----3---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+Feb 27, 2024
+
+[4.3K14](/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9?source=post_page---author_recirc--7ca646833439----3---------------------2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4ca1c6ce3eb9&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9&source=---author_recirc--7ca646833439----3-----------------bookmark_preview----2a0c5601_21a1_4c94_abe7_b87321045a52-------)
+
+[See all from Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---author_recirc--7ca646833439--------------------------------)
+
+[See all from Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--7ca646833439--------------------------------)
+
+## Recommended from Medium
+
+![How to Use Hybrid Search for Better LLM RAG Retrieval](https://miro.medium.com/v2/resize:fit:679/1*6OKP-FOqqkJv0galmQsD0w.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--7ca646833439----0---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--7ca646833439----0---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+by
+
+[Dr. Leon Eversberg](https://medium.com/@leoneversberg?source=post_page---read_next_recirc--7ca646833439----0---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+## [How to Use Hybrid Search for Better LLM RAG RetrievalBuilding an advanced local LLM RAG pipeline by combining dense embeddings with BM25](/how-to-use-hybrid-search-for-better-llm-rag-retrieval-032f66810ebe?source=post_page---read_next_recirc--7ca646833439----0---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+Aug 11, 2024
+
+[9945](/how-to-use-hybrid-search-for-better-llm-rag-retrieval-032f66810ebe?source=post_page---read_next_recirc--7ca646833439----0---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F032f66810ebe&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-use-hybrid-search-for-better-llm-rag-retrieval-032f66810ebe&source=---read_next_recirc--7ca646833439----0-----------------bookmark_preview----741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+![Intro to MLOps: Experiment Tracking for Machine Learning](https://miro.medium.com/v2/resize:fit:679/1*JZheX6XxxFWJp8wg8-cL6g.png)
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:20:20/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---read_next_recirc--7ca646833439----1---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---read_next_recirc--7ca646833439----1---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+## [Intro to MLOps: Experiment Tracking for Machine LearningWhy it matters and three different ways you can log and organize your ML experiments with pen and paper, spreadsheets, and modern…](https://medium.com/@iamleonie/intro-to-mlops-experiment-tracking-for-machine-learning-858e432bd133?source=post_page---read_next_recirc--7ca646833439----1---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+Dec 23, 2022
+
+[6427](https://medium.com/@iamleonie/intro-to-mlops-experiment-tracking-for-machine-learning-858e432bd133?source=post_page---read_next_recirc--7ca646833439----1---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F858e432bd133&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40iamleonie%2Fintro-to-mlops-experiment-tracking-for-machine-learning-858e432bd133&source=---read_next_recirc--7ca646833439----1-----------------bookmark_preview----741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+## Lists
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/0*r4yjMpEmqzHCUvWC.jpg)![](https://miro.medium.com/v2/resize:fill:48:48/1*bv2KUVNLi2sFNjBTdoBmWw.png)![](https://miro.medium.com/v2/resize:fill:48:48/0*zsngbTOmFCy6sUCx.jpeg)Predictive Modeling w/ Python20 stories·1792 saves](https://medium.com/@ben.putney/list/predictive-modeling-w-python-e3668ea008e1?source=post_page---read_next_recirc--7ca646833439--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*nVAk9E_TnPIK8Kv57PJruA.png)![](https://miro.medium.com/v2/resize:fill:48:48/1*790FdGYUonUX4X3IyQr1Og.png)![](https://miro.medium.com/v2/da:true/resize:fill:48:48/1*o1k0mQo3BuyIkmg-rI2Eiw.gif)Natural Language Processing1889 stories·1551 saves](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a?source=post_page---read_next_recirc--7ca646833439--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*vzu3JPzaq2EZKTZNY9BhLA.png)![AI-generated image of a cute tiny robot in the backdrop of ChatGPT’s logo](https://miro.medium.com/v2/resize:fill:48:48/1*lEmL62oZdrOOWIzAAFKiFg.jpeg)![](https://miro.medium.com/v2/resize:fill:48:48/1*i2zLIwC9mftamP1dbciCeQ.jpeg)ChatGPT21 stories·950 saves](https://medium.com/@m.wasalski/list/chatgpt-3742c7a4727d?source=post_page---read_next_recirc--7ca646833439--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*era76EGCwdY2gWSFKutuSw.jpeg)![](https://miro.medium.com/v2/resize:fill:48:48/1*AiTJDz5wwQFiUCf_SrBOQA.jpeg)![A phone with a tweet on it describing a deepfake video of the Ukrainian president, with a labeled fake image in the background](https://miro.medium.com/v2/resize:fill:48:48/1*zjPggFS8yoRtFbAP9R_3lw.jpeg)AI Regulation6 stories·672 saves](https://medium.com/@MediumStaff/list/ai-regulation-dfa78dfd2438?source=post_page---read_next_recirc--7ca646833439--------------------------------)
+
+![Two stochastic parrots sitting on a chain of large language models: LangChain](https://miro.medium.com/v2/resize:fit:679/1*4C54ZxHRM1dOlAvlvoEJZg@2x.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--7ca646833439----0---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--7ca646833439----0---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+by
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---read_next_recirc--7ca646833439----0---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+## [Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered ApplicationsA LangChain tutorial to build anything with large language models in Python](/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c?source=post_page---read_next_recirc--7ca646833439----0---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+Apr 25, 2023
+
+[4.4K31](/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c?source=post_page---read_next_recirc--7ca646833439----0---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F95fc8898732c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fgetting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c&source=---read_next_recirc--7ca646833439----0-----------------bookmark_preview----741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+![Agentic chuning offers near human-level performance in chunking](https://miro.medium.com/v2/resize:fit:679/1*wzK0hP8qqmrpv2ds6_R9uw.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--7ca646833439----1---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--7ca646833439----1---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+by
+
+[Thuwarakesh Murallie](https://thuwarakesh.medium.com/?source=post_page---read_next_recirc--7ca646833439----1---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+## [How to Achieve Near Human-Level Performance in Chunking for RAGsThe costly yet powerful splitting technique for superior RAG retrieval](/agentic-chunking-for-rags-091beccd94b1?source=post_page---read_next_recirc--7ca646833439----1---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+Aug 26, 2024
+
+[6446](/agentic-chunking-for-rags-091beccd94b1?source=post_page---read_next_recirc--7ca646833439----1---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F091beccd94b1&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fagentic-chunking-for-rags-091beccd94b1&source=---read_next_recirc--7ca646833439----1-----------------bookmark_preview----741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+![An image of an advanced RAG pipeline with two-step retrieval. First, a bi-encoder is used to find similar embedding vectors. Then, a cross-encoder model is used to narrow these candidates down to the top k most relevant documents.](https://miro.medium.com/v2/resize:fit:679/1*BKALH4lRnxAAOOSs3ipWVA.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--7ca646833439----2---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--7ca646833439----2---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+by
+
+[Dr. Leon Eversberg](https://medium.com/@leoneversberg?source=post_page---read_next_recirc--7ca646833439----2---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+## [How to Use Re-Ranking for Better LLM RAG RetrievalBuilding an advanced local LLM RAG pipeline with two-step retrieval using open-source bi-encoders and cross-encoders](/how-to-use-re-ranking-for-better-llm-rag-retrieval-243f89414266?source=post_page---read_next_recirc--7ca646833439----2---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+May 2, 2024
+
+[9246](/how-to-use-re-ranking-for-better-llm-rag-retrieval-243f89414266?source=post_page---read_next_recirc--7ca646833439----2---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F243f89414266&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-use-re-ranking-for-better-llm-rag-retrieval-243f89414266&source=---read_next_recirc--7ca646833439----2-----------------bookmark_preview----741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+![A Framework for Building a Production-Ready Feature Engineering Pipeline](https://miro.medium.com/v2/resize:fit:679/0*e0csCUWYLQbKES9q)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--7ca646833439----3---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--7ca646833439----3---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+by
+
+[Paul Iusztin](https://pauliusztin.medium.com/?source=post_page---read_next_recirc--7ca646833439----3---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+## [A Framework for Building a Production-Ready Feature Engineering PipelineLesson 1: Batch Serving. Feature Stores. Feature Engineering Pipelines.](/a-framework-for-building-a-production-ready-feature-engineering-pipeline-f0b29609b20f?source=post_page---read_next_recirc--7ca646833439----3---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+Apr 28, 2023
+
+[93611](/a-framework-for-building-a-production-ready-feature-engineering-pipeline-f0b29609b20f?source=post_page---read_next_recirc--7ca646833439----3---------------------741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff0b29609b20f&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-framework-for-building-a-production-ready-feature-engineering-pipeline-f0b29609b20f&source=---read_next_recirc--7ca646833439----3-----------------bookmark_preview----741e2e47_d0a3_4d3e_8502_573e85f2417a-------)
+
+[See more recommendations](https://medium.com/?source=post_page---read_next_recirc--7ca646833439--------------------------------)
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----7ca646833439--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----7ca646833439--------------------------------)
+
+[About](https://medium.com/about?autoplay=1&source=post_page-----7ca646833439--------------------------------)
+
+[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----7ca646833439--------------------------------)
+
+[Press](pressinquiries@medium.com?source=post_page-----7ca646833439--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----7ca646833439--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----7ca646833439--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----7ca646833439--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----7ca646833439--------------------------------)
+
+[Teams](https://medium.com/business?source=post_page-----7ca646833439--------------------------------)
+
+To make Medium work, we log user data. By using Medium, you agree to our [Privacy Policy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9), including cookie policy.

@@ -1,0 +1,1268 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FEleutherAI%2Flm-evaluation-harness%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FEleutherAI%2Flm-evaluation-harness%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=EleutherAI%2Flm-evaluation-harness) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ EleutherAI ](/EleutherAI) / **[lm-evaluation-harness](/EleutherAI/lm-evaluation-harness) ** Public
+
+  * [ Notifications ](/login?return_to=%2FEleutherAI%2Flm-evaluation-harness) You must be signed in to change notification settings
+  * [ Fork 2k ](/login?return_to=%2FEleutherAI%2Flm-evaluation-harness)
+  * [ Star  7.5k ](/login?return_to=%2FEleutherAI%2Flm-evaluation-harness)
+
+
+
+
+A framework for few-shot evaluation of language models. 
+
+[www.eleuther.ai](https://www.eleuther.ai "https://www.eleuther.ai")
+
+### License
+
+[ MIT license ](/EleutherAI/lm-evaluation-harness/blob/main/LICENSE.md)
+
+[ 7.5k stars ](/EleutherAI/lm-evaluation-harness/stargazers) [ 2k forks ](/EleutherAI/lm-evaluation-harness/forks) [ Branches ](/EleutherAI/lm-evaluation-harness/branches) [ Tags ](/EleutherAI/lm-evaluation-harness/tags) [ Activity ](/EleutherAI/lm-evaluation-harness/activity)
+
+[ Star  ](/login?return_to=%2FEleutherAI%2Flm-evaluation-harness)
+
+[ Notifications ](/login?return_to=%2FEleutherAI%2Flm-evaluation-harness) You must be signed in to change notification settings
+
+  * [ Code ](/EleutherAI/lm-evaluation-harness)
+  * [ Issues 347 ](/EleutherAI/lm-evaluation-harness/issues)
+  * [ Pull requests 98 ](/EleutherAI/lm-evaluation-harness/pulls)
+  * [ Actions ](/EleutherAI/lm-evaluation-harness/actions)
+  * [ Projects 1 ](/EleutherAI/lm-evaluation-harness/projects)
+  * [ Security ](/EleutherAI/lm-evaluation-harness/security)
+  * [ Insights ](/EleutherAI/lm-evaluation-harness/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/EleutherAI/lm-evaluation-harness)
+  * [ Issues  ](/EleutherAI/lm-evaluation-harness/issues)
+  * [ Pull requests  ](/EleutherAI/lm-evaluation-harness/pulls)
+  * [ Actions  ](/EleutherAI/lm-evaluation-harness/actions)
+  * [ Projects  ](/EleutherAI/lm-evaluation-harness/projects)
+  * [ Security  ](/EleutherAI/lm-evaluation-harness/security)
+  * [ Insights  ](/EleutherAI/lm-evaluation-harness/pulse)
+
+
+
+# EleutherAI/lm-evaluation-harness
+
+main
+
+[**101** Branches](/EleutherAI/lm-evaluation-harness/branches)[**11** Tags](/EleutherAI/lm-evaluation-harness/tags)
+
+[](/EleutherAI/lm-evaluation-harness/branches)[](/EleutherAI/lm-evaluation-harness/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+![jkaniecki](https://avatars.githubusercontent.com/u/153085639?v=4&size=40)![baberabb](https://avatars.githubusercontent.com/u/92168766?v=4&size=40)[jkaniecki](/EleutherAI/lm-evaluation-harness/commits?author=jkaniecki)and[baberabb](/EleutherAI/lm-evaluation-harness/commits?author=baberabb)[Fix max_tokens handling in vllm_vlms.py (](/EleutherAI/lm-evaluation-harness/commit/370e2f9e5bbe59912644b1b6e052e17be31d6858)[#2637](https://github.com/EleutherAI/lm-evaluation-harness/pull/2637)[)](/EleutherAI/lm-evaluation-harness/commit/370e2f9e5bbe59912644b1b6e052e17be31d6858)Jan 21, 2025[370e2f9](/EleutherAI/lm-evaluation-harness/commit/370e2f9e5bbe59912644b1b6e052e17be31d6858) · Jan 21, 2025
+
+## History
+
+[3,616 Commits](/EleutherAI/lm-evaluation-harness/commits/main/)[](/EleutherAI/lm-evaluation-harness/commits/main/)  
+[.github/workflows](/EleutherAI/lm-evaluation-harness/tree/main/.github/workflows "This path skips through empty directories")| [.github/workflows](/EleutherAI/lm-evaluation-harness/tree/main/.github/workflows "This path skips through empty directories")| [fix model tests (](/EleutherAI/lm-evaluation-harness/commit/aa72104bce092f333115b3ca22e7a6fef189c733 "fix model tests \(#2604\)
+upgrade transformers and peft in CI")[#2604](https://github.com/EleutherAI/lm-evaluation-harness/pull/2604)[)](/EleutherAI/lm-evaluation-harness/commit/aa72104bce092f333115b3ca22e7a6fef189c733 "fix model tests \(#2604\)
+upgrade transformers and peft in CI")| Dec 30, 2024  
+[docs](/EleutherAI/lm-evaluation-harness/tree/main/docs "docs")| [docs](/EleutherAI/lm-evaluation-harness/tree/main/docs "docs")| [assistant prefill (](/EleutherAI/lm-evaluation-harness/commit/703fbffd6fe5e136bbb9d884cb40844e5503ae5d "assistant prefill \(#2615\)
+* add assistant prefix
+* add arc_challenge from llama
+* nit
+* nit
+* nit
+* add assistant prefix
+* add mmlu_llama
+* nit
+* nit
+* Revert "nit"
+This reverts commit 6a97f8356237305e375212b966b30e8de59dd4bc.
+* fix regex bug
+* add assistant_prefix to vllm
+* add `Question:`
+* add mmlu_pro
+* add fewshot assistant_prefix
+* use `assistant_prefill`
+* typehints
+* nits
+* nits
+* add to docs
+* add readme")[#2615](https://github.com/EleutherAI/lm-evaluation-harness/pull/2615)[)](/EleutherAI/lm-evaluation-harness/commit/703fbffd6fe5e136bbb9d884cb40844e5503ae5d "assistant prefill \(#2615\)
+* add assistant prefix
+* add arc_challenge from llama
+* nit
+* nit
+* nit
+* add assistant prefix
+* add mmlu_llama
+* nit
+* nit
+* Revert "nit"
+This reverts commit 6a97f8356237305e375212b966b30e8de59dd4bc.
+* fix regex bug
+* add assistant_prefix to vllm
+* add `Question:`
+* add mmlu_pro
+* add fewshot assistant_prefix
+* use `assistant_prefill`
+* typehints
+* nits
+* nits
+* add to docs
+* add readme")| Jan 16, 2025  
+[examples](/EleutherAI/lm-evaluation-harness/tree/main/examples "examples")| [examples](/EleutherAI/lm-evaluation-harness/tree/main/examples "examples")| [fix tests (](/EleutherAI/lm-evaluation-harness/commit/5e0bc289dfcfe92cd3cd93836c0c863a99f4d566 "fix tests \(#2380\)")[#2380](https://github.com/EleutherAI/lm-evaluation-harness/pull/2380)[)](/EleutherAI/lm-evaluation-harness/commit/5e0bc289dfcfe92cd3cd93836c0c863a99f4d566 "fix tests \(#2380\)")| Oct 4, 2024  
+[lm_eval](/EleutherAI/lm-evaluation-harness/tree/main/lm_eval "lm_eval")| [lm_eval](/EleutherAI/lm-evaluation-harness/tree/main/lm_eval "lm_eval")| [Fix max_tokens handling in vllm_vlms.py (](/EleutherAI/lm-evaluation-harness/commit/370e2f9e5bbe59912644b1b6e052e17be31d6858 "Fix max_tokens handling in vllm_vlms.py \(#2637\)
+* Update vllm_vlms.py
+* pre-commit
+---------
+Co-authored-by: Baber <baber@hey.com>")[#2637](https://github.com/EleutherAI/lm-evaluation-harness/pull/2637)[)](/EleutherAI/lm-evaluation-harness/commit/370e2f9e5bbe59912644b1b6e052e17be31d6858 "Fix max_tokens handling in vllm_vlms.py \(#2637\)
+* Update vllm_vlms.py
+* pre-commit
+---------
+Co-authored-by: Baber <baber@hey.com>")| Jan 21, 2025  
+[scripts](/EleutherAI/lm-evaluation-harness/tree/main/scripts "scripts")| [scripts](/EleutherAI/lm-evaluation-harness/tree/main/scripts "scripts")| [update pre-commit (](/EleutherAI/lm-evaluation-harness/commit/f724be699e8adf7ca8004ea0e519dfac83a06f18 "update pre-commit \(#2632\)
+* update pre-commit")[#2632](https://github.com/EleutherAI/lm-evaluation-harness/pull/2632)[)](/EleutherAI/lm-evaluation-harness/commit/f724be699e8adf7ca8004ea0e519dfac83a06f18 "update pre-commit \(#2632\)
+* update pre-commit")| Jan 19, 2025  
+[templates/new_yaml_task](/EleutherAI/lm-evaluation-harness/tree/main/templates/new_yaml_task "This path skips through empty directories")| [templates/new_yaml_task](/EleutherAI/lm-evaluation-harness/tree/main/templates/new_yaml_task "This path skips through empty directories")| [Group agg rework (](/EleutherAI/lm-evaluation-harness/commit/517aadc4d05507e2fea7b7753e91e6ad7dd76847 "Group agg rework \(#1741\)
+* add greoup_config arg
+* add a group config that allows disabling table for group score and group aggregate in general
+* fixed size configuration
+* adjust config
+* add group config
+* adjust mmlu to use group_config
+* fixed args input in aggregate_subtask_metrics
+* fixed issues related to printing alias of group and updated yaml
+* update all mmlu variants to include group_config
+* edit format
+* modify mmlu tasks
+* adjust group to also be a configurable group
+* add configurable group
+* simplify get_task_list
+* adjust group scoring with using ConfigurableGroup
+* adjust args
+* update mmlu
+* update mmlu
+* update to work with new group and task configuration
+* readd group_agg
+* readd files
+* move prepare_print_tasks to evaluator_utils
+* sort set to False by default, fix predict_only arg
+* add version for groups
+* reversed task list
+* update additional condition when loading a group in a group yaml
+* update truthfulqa
+* add description regarding tags replacing group
+* replace group to tag
+* fixed conditional statement
+* remove warning
+* update loading of task group and newly added tags
+* reformat with pre-commit
+* fixed info log
+* update
+* fix bug
+* fix bug
+* use task id to differentiate tasks
+* convert all groups to configurable groups
+* use task_id
+* reformat
+* add task_id for python tasks as well
+* add task_id for python tasks as well
+* add task_id for python tasks as well
+* revert truthfulqa
+* revert mmlu tasks
+* new mmlu config
+* new group config parameter `tag_to_task`
+* Update truthfulqa_mc2.yaml
+* reformate
+* add _process_group_config
+* adjust task_id
+* add get_subtask_list function to get proper subtask list
+* group config to_dict update
+* remove tag check
+* update mmlu
+* fix config passing issues
+* add test yaml
+* format fix
+* add documentation
+* corner case for single tag being called
+* fix indentation
+* formatting
+* update all mmlu variants
+* Update docs/task_guide.md
+Co-authored-by: Hailey Schoelkopf <65563625+haileyschoelkopf@users.noreply.github.com>
+* remove group_alias
+* Update docs/task_guide.md
+Co-authored-by: Hailey Schoelkopf <65563625+haileyschoelkopf@users.noreply.github.com>
+* remove version for metadata
+* Update docs/task_guide.md
+Co-authored-by: Hailey Schoelkopf <65563625+haileyschoelkopf@users.noreply.github.com>
+* update mmlu/
+* removed " " in make_table
+* change how aggregate_metric is loaded
+* change how aggregate_metric is loaded
+* update aggregate_metric arg
+* update format
+* update format
+* some docs fixes
+* add groups for agieval, aexams, aclue
+* add more explicit aggregation groups
+* add more groupings / tags distinctions
+* add more groupings
+* more groupings
+* add many explicit group configs
+* add many explicit group configs
+* add more explicit group configs
+* add more explicit group configs
+* add more error msgs, agg_metric -> agg_metric_list
+* some docs updates
+* update task_id to be updateable and uses group:task format
+* make KMMLU a tag for now
+* update docs
+* don't duplicate task names
+* fix merge conflicts?
+* giving this a try
+* clean up diff
+* switch mmlu variants over to using
+* don't use to-be-deprecated group: config field in overview notebook
+* Python tasks which subclass ConfigurableTask now run
+* update mmlu
+* pre-commit format
+* fixed sorting for multi-level printing
+* move group api to separate file
+* fix bbh aggregation filter usage
+* track api/group.py
+* adjust group and tags loading
+* make explicit group configs for leaderboard and other newer tasks
+* fix arabicmmlu
+* update
+* change arabicmmlu template name???
+* update group alias
+* fix printing bugs
+* check table printing is correct ; update tests
+* use mmlu_stem to have a group included in print tests
+---------
+Co-authored-by: Hailey Schoelkopf <65563625+haileyschoelkopf@users.noreply.github.com>
+Co-authored-by: haileyschoelkopf <hailey@eleuther.ai>")[#1741](https://github.com/EleutherAI/lm-evaluation-harness/pull/1741)[)](/EleutherAI/lm-evaluation-harness/commit/517aadc4d05507e2fea7b7753e91e6ad7dd76847 "Group agg rework \(#1741\)
+* add greoup_config arg
+* add a group config that allows disabling table for group score and group aggregate in general
+* fixed size configuration
+* adjust config
+* add group config
+* adjust mmlu to use group_config
+* fixed args input in aggregate_subtask_metrics
+* fixed issues related to printing alias of group and updated yaml
+* update all mmlu variants to include group_config
+* edit format
+* modify mmlu tasks
+* adjust group to also be a configurable group
+* add configurable group
+* simplify get_task_list
+* adjust group scoring with using ConfigurableGroup
+* adjust args
+* update mmlu
+* update mmlu
+* update to work with new group and task configuration
+* readd group_agg
+* readd files
+* move prepare_print_tasks to evaluator_utils
+* sort set to False by default, fix predict_only arg
+* add version for groups
+* reversed task list
+* update additional condition when loading a group in a group yaml
+* update truthfulqa
+* add description regarding tags replacing group
+* replace group to tag
+* fixed conditional statement
+* remove warning
+* update loading of task group and newly added tags
+* reformat with pre-commit
+* fixed info log
+* update
+* fix bug
+* fix bug
+* use task id to differentiate tasks
+* convert all groups to configurable groups
+* use task_id
+* reformat
+* add task_id for python tasks as well
+* add task_id for python tasks as well
+* add task_id for python tasks as well
+* revert truthfulqa
+* revert mmlu tasks
+* new mmlu config
+* new group config parameter `tag_to_task`
+* Update truthfulqa_mc2.yaml
+* reformate
+* add _process_group_config
+* adjust task_id
+* add get_subtask_list function to get proper subtask list
+* group config to_dict update
+* remove tag check
+* update mmlu
+* fix config passing issues
+* add test yaml
+* format fix
+* add documentation
+* corner case for single tag being called
+* fix indentation
+* formatting
+* update all mmlu variants
+* Update docs/task_guide.md
+Co-authored-by: Hailey Schoelkopf <65563625+haileyschoelkopf@users.noreply.github.com>
+* remove group_alias
+* Update docs/task_guide.md
+Co-authored-by: Hailey Schoelkopf <65563625+haileyschoelkopf@users.noreply.github.com>
+* remove version for metadata
+* Update docs/task_guide.md
+Co-authored-by: Hailey Schoelkopf <65563625+haileyschoelkopf@users.noreply.github.com>
+* update mmlu/
+* removed " " in make_table
+* change how aggregate_metric is loaded
+* change how aggregate_metric is loaded
+* update aggregate_metric arg
+* update format
+* update format
+* some docs fixes
+* add groups for agieval, aexams, aclue
+* add more explicit aggregation groups
+* add more groupings / tags distinctions
+* add more groupings
+* more groupings
+* add many explicit group configs
+* add many explicit group configs
+* add more explicit group configs
+* add more explicit group configs
+* add more error msgs, agg_metric -> agg_metric_list
+* some docs updates
+* update task_id to be updateable and uses group:task format
+* make KMMLU a tag for now
+* update docs
+* don't duplicate task names
+* fix merge conflicts?
+* giving this a try
+* clean up diff
+* switch mmlu variants over to using
+* don't use to-be-deprecated group: config field in overview notebook
+* Python tasks which subclass ConfigurableTask now run
+* update mmlu
+* pre-commit format
+* fixed sorting for multi-level printing
+* move group api to separate file
+* fix bbh aggregation filter usage
+* track api/group.py
+* adjust group and tags loading
+* make explicit group configs for leaderboard and other newer tasks
+* fix arabicmmlu
+* update
+* change arabicmmlu template name???
+* update group alias
+* fix printing bugs
+* check table printing is correct ; update tests
+* use mmlu_stem to have a group included in print tests
+---------
+Co-authored-by: Hailey Schoelkopf <65563625+haileyschoelkopf@users.noreply.github.com>
+Co-authored-by: haileyschoelkopf <hailey@eleuther.ai>")| Jul 8, 2024  
+[tests](/EleutherAI/lm-evaluation-harness/tree/main/tests "tests")| [tests](/EleutherAI/lm-evaluation-harness/tree/main/tests "tests")| [update pre-commit (](/EleutherAI/lm-evaluation-harness/commit/f724be699e8adf7ca8004ea0e519dfac83a06f18 "update pre-commit \(#2632\)
+* update pre-commit")[#2632](https://github.com/EleutherAI/lm-evaluation-harness/pull/2632)[)](/EleutherAI/lm-evaluation-harness/commit/f724be699e8adf7ca8004ea0e519dfac83a06f18 "update pre-commit \(#2632\)
+* update pre-commit")| Jan 19, 2025  
+[.coveragerc](/EleutherAI/lm-evaluation-harness/blob/main/.coveragerc ".coveragerc")| [.coveragerc](/EleutherAI/lm-evaluation-harness/blob/main/.coveragerc ".coveragerc")| [add pre-commit](/EleutherAI/lm-evaluation-harness/commit/121b7096ab608a3ef8a73957c0f6efae053b5f15 "add pre-commit")| May 3, 2022  
+[.flake8](/EleutherAI/lm-evaluation-harness/blob/main/.flake8 ".flake8")| [.flake8](/EleutherAI/lm-evaluation-harness/blob/main/.flake8 ".flake8")| [add pre-commit](/EleutherAI/lm-evaluation-harness/commit/121b7096ab608a3ef8a73957c0f6efae053b5f15 "add pre-commit")| May 3, 2022  
+[.gitignore](/EleutherAI/lm-evaluation-harness/blob/main/.gitignore ".gitignore")| [.gitignore](/EleutherAI/lm-evaluation-harness/blob/main/.gitignore ".gitignore")| [Add Unitxt Multimodality Support (](/EleutherAI/lm-evaluation-harness/commit/7785577ceac539f7e25cf98bbe11264466326803 "Add Unitxt Multimodality Support \(#2364\)
+* Add Unitxt Multimodality Support
+Signed-off-by: elronbandel <elronbandel@gmail.com>
+* Update
+Signed-off-by: elronbandel <elronbandel@gmail.com>
+* Fix formatting
+Signed-off-by: elronbandel <elronbandel@gmail.com>
+---------
+Signed-off-by: elronbandel <elronbandel@gmail.com>")[#2364](https://github.com/EleutherAI/lm-evaluation-harness/pull/2364)[)](/EleutherAI/lm-evaluation-harness/commit/7785577ceac539f7e25cf98bbe11264466326803 "Add Unitxt Multimodality Support \(#2364\)
+* Add Unitxt Multimodality Support
+Signed-off-by: elronbandel <elronbandel@gmail.com>
+* Update
+Signed-off-by: elronbandel <elronbandel@gmail.com>
+* Fix formatting
+Signed-off-by: elronbandel <elronbandel@gmail.com>
+---------
+Signed-off-by: elronbandel <elronbandel@gmail.com>")| Oct 14, 2024  
+[.pre-commit-config.yaml](/EleutherAI/lm-evaluation-harness/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/EleutherAI/lm-evaluation-harness/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [update pre-commit (](/EleutherAI/lm-evaluation-harness/commit/f724be699e8adf7ca8004ea0e519dfac83a06f18 "update pre-commit \(#2632\)
+* update pre-commit")[#2632](https://github.com/EleutherAI/lm-evaluation-harness/pull/2632)[)](/EleutherAI/lm-evaluation-harness/commit/f724be699e8adf7ca8004ea0e519dfac83a06f18 "update pre-commit \(#2632\)
+* update pre-commit")| Jan 19, 2025  
+[CITATION.bib](/EleutherAI/lm-evaluation-harness/blob/main/CITATION.bib "CITATION.bib")| [CITATION.bib](/EleutherAI/lm-evaluation-harness/blob/main/CITATION.bib "CITATION.bib")| [Update CITATION.bib (](/EleutherAI/lm-evaluation-harness/commit/588a493c41b58d048d3994f99800edd27223bd3a "Update CITATION.bib \(#1285\)
+Bumping CITATION.bib to match re-adding the citation in readme. 
+cc @StellaAthena")[#1285](https://github.com/EleutherAI/lm-evaluation-harness/pull/1285)[)](/EleutherAI/lm-evaluation-harness/commit/588a493c41b58d048d3994f99800edd27223bd3a "Update CITATION.bib \(#1285\)
+Bumping CITATION.bib to match re-adding the citation in readme. 
+cc @StellaAthena")| Jan 15, 2024  
+[CODEOWNERS](/EleutherAI/lm-evaluation-harness/blob/main/CODEOWNERS "CODEOWNERS")| [CODEOWNERS](/EleutherAI/lm-evaluation-harness/blob/main/CODEOWNERS "CODEOWNERS")| [Update CODEOWNERS (](/EleutherAI/lm-evaluation-harness/commit/c0745fec3062328e0ab618f36334848cdf29900e "Update CODEOWNERS \(#2453\)")[#2453](https://github.com/EleutherAI/lm-evaluation-harness/pull/2453)[)](/EleutherAI/lm-evaluation-harness/commit/c0745fec3062328e0ab618f36334848cdf29900e "Update CODEOWNERS \(#2453\)")| Nov 4, 2024  
+[LICENSE.md](/EleutherAI/lm-evaluation-harness/blob/main/LICENSE.md "LICENSE.md")| [LICENSE.md](/EleutherAI/lm-evaluation-harness/blob/main/LICENSE.md "LICENSE.md")| [Basic setup](/EleutherAI/lm-evaluation-harness/commit/90e02bcad942d8a4967eb144839828115ff92e45 "Basic setup")| Dec 25, 2020  
+[README.md](/EleutherAI/lm-evaluation-harness/blob/main/README.md "README.md")| [README.md](/EleutherAI/lm-evaluation-harness/blob/main/README.md "README.md")| [add optimum-intel ipex model (](/EleutherAI/lm-evaluation-harness/commit/919470a141398f615de92919942066bd2f3e8765 "add optimum-intel ipex model \(#2566\)
+* initial support for optimum-intel ipex model. LM model as first step
+* format
+Signed-off-by: Yao Matrix <matrix.yao@intel.com>
+* pass dtype
+Signed-off-by: Yao Matrix <matrix.yao@intel.com>
+* update README
+Signed-off-by: Yao, Matrix <matrix.yao@intel.com>
+---------
+Signed-off-by: Yao Matrix <matrix.yao@intel.com>")[#2566](https://github.com/EleutherAI/lm-evaluation-harness/pull/2566)[)](/EleutherAI/lm-evaluation-harness/commit/919470a141398f615de92919942066bd2f3e8765 "add optimum-intel ipex model \(#2566\)
+* initial support for optimum-intel ipex model. LM model as first step
+* format
+Signed-off-by: Yao Matrix <matrix.yao@intel.com>
+* pass dtype
+Signed-off-by: Yao Matrix <matrix.yao@intel.com>
+* update README
+Signed-off-by: Yao, Matrix <matrix.yao@intel.com>
+---------
+Signed-off-by: Yao Matrix <matrix.yao@intel.com>")| Dec 13, 2024  
+[ignore.txt](/EleutherAI/lm-evaluation-harness/blob/main/ignore.txt "ignore.txt")| [ignore.txt](/EleutherAI/lm-evaluation-harness/blob/main/ignore.txt "ignore.txt")| [Update ignore.txt](/EleutherAI/lm-evaluation-harness/commit/9f09016db25c09d3e5dff2a0e473f29f6108118e "Update ignore.txt")| Nov 3, 2023  
+[mypy.ini](/EleutherAI/lm-evaluation-harness/blob/main/mypy.ini "mypy.ini")| [mypy.ini](/EleutherAI/lm-evaluation-harness/blob/main/mypy.ini "mypy.ini")| [disable](/EleutherAI/lm-evaluation-harness/commit/09493fd24d5c5947dfae07853b05d19c79bc16a4 "disable `mypy` \(#1193\)") `[mypy](/EleutherAI/lm-evaluation-harness/commit/09493fd24d5c5947dfae07853b05d19c79bc16a4 "disable `mypy` \(#1193\)")` [(](/EleutherAI/lm-evaluation-harness/commit/09493fd24d5c5947dfae07853b05d19c79bc16a4 "disable `mypy` \(#1193\)")[#1193](https://github.com/EleutherAI/lm-evaluation-harness/pull/1193)[)](/EleutherAI/lm-evaluation-harness/commit/09493fd24d5c5947dfae07853b05d19c79bc16a4 "disable `mypy` \(#1193\)")| Dec 21, 2023  
+[pile_statistics.json](/EleutherAI/lm-evaluation-harness/blob/main/pile_statistics.json "pile_statistics.json")| [pile_statistics.json](/EleutherAI/lm-evaluation-harness/blob/main/pile_statistics.json "pile_statistics.json")| [add pre-commit](/EleutherAI/lm-evaluation-harness/commit/121b7096ab608a3ef8a73957c0f6efae053b5f15 "add pre-commit")| May 3, 2022  
+[pyproject.toml](/EleutherAI/lm-evaluation-harness/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/EleutherAI/lm-evaluation-harness/blob/main/pyproject.toml "pyproject.toml")| [drop python 3.8 support (](/EleutherAI/lm-evaluation-harness/commit/8558b8d4998991220cb5483246b2ae4878c92a1f "drop python 3.8 support \(#2575\)
+* feat: drop Python 3.8 support
+* feat: drop Python 3.8 tests
+* pre-commit")[#2575](https://github.com/EleutherAI/lm-evaluation-harness/pull/2575)[)](/EleutherAI/lm-evaluation-harness/commit/8558b8d4998991220cb5483246b2ae4878c92a1f "drop python 3.8 support \(#2575\)
+* feat: drop Python 3.8 support
+* feat: drop Python 3.8 tests
+* pre-commit")| Dec 17, 2024  
+[requirements.txt](/EleutherAI/lm-evaluation-harness/blob/main/requirements.txt "requirements.txt")| [requirements.txt](/EleutherAI/lm-evaluation-harness/blob/main/requirements.txt "requirements.txt")| [Revert "Update requirements.txt"](/EleutherAI/lm-evaluation-harness/commit/7d37dd4aab83a6d63098d14e3ad0059c3736beeb "Revert "Update requirements.txt"
+This reverts commit 05590e11522e78a19b9b1109b710ad79f8ae5de6.")| Feb 8, 2022  
+[setup.py](/EleutherAI/lm-evaluation-harness/blob/main/setup.py "setup.py")| [setup.py](/EleutherAI/lm-evaluation-harness/blob/main/setup.py "setup.py")| [Switch Linting to](/EleutherAI/lm-evaluation-harness/commit/65b8761db922513dada0320b860fabb1b4f01dc3 "Switch Linting to `ruff` \(#1166\)
+* add ruff and isort. remove black and flake8
+* remove unnecessary dependencies
+* remove dependency from table
+* change order
+* ran ruff
+* check 3.9
+* exclude evaluator
+* update CI workflow
+* use ruff config in pyproject.toml
+* test
+* add isort rules to ruff
+* sort imports
+* import `make_table`
+* try stages for no-commit-to-branch
+* turn on mypy for pre-commit
+* test
+* test
+* test
+* change no-commit-to-branch to default
+* nits
+* fixed dependency") `[ruff](/EleutherAI/lm-evaluation-harness/commit/65b8761db922513dada0320b860fabb1b4f01dc3 "Switch Linting to `ruff` \(#1166\)
+* add ruff and isort. remove black and flake8
+* remove unnecessary dependencies
+* remove dependency from table
+* change order
+* ran ruff
+* check 3.9
+* exclude evaluator
+* update CI workflow
+* use ruff config in pyproject.toml
+* test
+* add isort rules to ruff
+* sort imports
+* import `make_table`
+* try stages for no-commit-to-branch
+* turn on mypy for pre-commit
+* test
+* test
+* test
+* change no-commit-to-branch to default
+* nits
+* fixed dependency")` [(](/EleutherAI/lm-evaluation-harness/commit/65b8761db922513dada0320b860fabb1b4f01dc3 "Switch Linting to `ruff` \(#1166\)
+* add ruff and isort. remove black and flake8
+* remove unnecessary dependencies
+* remove dependency from table
+* change order
+* ran ruff
+* check 3.9
+* exclude evaluator
+* update CI workflow
+* use ruff config in pyproject.toml
+* test
+* add isort rules to ruff
+* sort imports
+* import `make_table`
+* try stages for no-commit-to-branch
+* turn on mypy for pre-commit
+* test
+* test
+* test
+* change no-commit-to-branch to default
+* nits
+* fixed dependency")[#1166](https://github.com/EleutherAI/lm-evaluation-harness/pull/1166)[)](/EleutherAI/lm-evaluation-harness/commit/65b8761db922513dada0320b860fabb1b4f01dc3 "Switch Linting to `ruff` \(#1166\)
+* add ruff and isort. remove black and flake8
+* remove unnecessary dependencies
+* remove dependency from table
+* change order
+* ran ruff
+* check 3.9
+* exclude evaluator
+* update CI workflow
+* use ruff config in pyproject.toml
+* test
+* add isort rules to ruff
+* sort imports
+* import `make_table`
+* try stages for no-commit-to-branch
+* turn on mypy for pre-commit
+* test
+* test
+* test
+* change no-commit-to-branch to default
+* nits
+* fixed dependency")| Dec 20, 2023  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [MIT license](#)
+
+
+
+# Language Model Evaluation Harness
+
+[](#language-model-evaluation-harness)
+
+[![DOI](https://camo.githubusercontent.com/2b03c2ae010ea9e7319f8e7d149b83ad3fdba1486fd345de2dcfbe885ad4e09e/68747470733a2f2f7a656e6f646f2e6f72672f62616467652f444f492f31302e353238312f7a656e6f646f2e31303235363833362e737667)](https://doi.org/10.5281/zenodo.10256836)
+
+_Latest News 📣_
+
+  * [2024/09] We are prototyping allowing users of LM Evaluation Harness to create and evaluate on text+image multimodal input, text output tasks, and have just added the `hf-multimodal` and `vllm-vlm` model types and `mmmu` task as a prototype feature. We welcome users to try out this in-progress feature and stress-test it for themselves, and suggest they check out [`lmms-eval`](https://github.com/EvolvingLMMs-Lab/lmms-eval), a wonderful project originally forking off of the lm-evaluation-harness, for a broader range of multimodal tasks, models, and features.
+  * [2024/07] [API model](/EleutherAI/lm-evaluation-harness/blob/main/docs/API_guide.md) support has been updated and refactored, introducing support for batched and async requests, and making it significantly easier to customize and use for your own purposes. **To run Llama 405B, we recommend using VLLM's OpenAI-compliant API to host the model, and use the`local-completions` model type to evaluate the model.**
+  * [2024/07] New Open LLM Leaderboard tasks have been added ! You can find them under the [leaderboard](/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/tasks/leaderboard/README.md) task group.
+
+
+
+## Announcement
+
+[](#announcement)
+
+**A new v0.4.0 release of lm-evaluation-harness is available** !
+
+New updates and features include:
+
+  * **New Open LLM Leaderboard tasks have been added ! You can find them under the[leaderboard](/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/tasks/leaderboard/README.md) task group.**
+  * Internal refactoring
+  * Config-based task creation and configuration
+  * Easier import and sharing of externally-defined task config YAMLs
+  * Support for Jinja2 prompt design, easy modification of prompts + prompt imports from Promptsource
+  * More advanced configuration options, including output post-processing, answer extraction, and multiple LM generations per document, configurable fewshot settings, and more
+  * Speedups and new modeling libraries supported, including: faster data-parallel HF model usage, vLLM support, MPS support with HuggingFace, and more
+  * Logging and usability changes
+  * New tasks including CoT BIG-Bench-Hard, Belebele, user-defined task groupings, and more
+
+
+
+Please see our updated documentation pages in `docs/` for more details.
+
+Development will be continuing on the `main` branch, and we encourage you to give us feedback on what features are desired and how to improve the library further, or ask questions, either in issues or PRs on GitHub, or in the [EleutherAI discord](https://discord.gg/eleutherai)!
+
+## Overview
+
+[](#overview)
+
+This project provides a unified framework to test generative language models on a large number of different evaluation tasks.
+
+**Features:**
+
+  * Over 60 standard academic benchmarks for LLMs, with hundreds of subtasks and variants implemented.
+  * Support for models loaded via [transformers](https://github.com/huggingface/transformers/) (including quantization via [GPTQModel](https://github.com/ModelCloud/GPTQModel) and [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)), [GPT-NeoX](https://github.com/EleutherAI/gpt-neox), and [Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed/), with a flexible tokenization-agnostic interface.
+  * Support for fast and memory-efficient inference with [vLLM](https://github.com/vllm-project/vllm).
+  * Support for commercial APIs including [OpenAI](https://openai.com), and [TextSynth](https://textsynth.com/).
+  * Support for evaluation on adapters (e.g. LoRA) supported in [HuggingFace's PEFT library](https://github.com/huggingface/peft).
+  * Support for local models and benchmarks.
+  * Evaluation with publicly available prompts ensures reproducibility and comparability between papers.
+  * Easy support for custom prompts and evaluation metrics.
+
+
+
+The Language Model Evaluation Harness is the backend for 🤗 Hugging Face's popular [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard), has been used in [hundreds of papers](https://scholar.google.com/scholar?oi=bibs&hl=en&authuser=2&cites=15052937328817631261,4097184744846514103,1520777361382155671,17476825572045927382,18443729326628441434,14801318227356878622,7890865700763267262,12854182577605049984,15641002901115500560,5104500764547628290), and is used internally by dozens of organizations including NVIDIA, Cohere, BigScience, BigCode, Nous Research, and Mosaic ML.
+
+## Install
+
+[](#install)
+
+To install the `lm-eval` package from the github repository, run:
+
+```
+git clone --depth 1 https://github.com/EleutherAI/lm-evaluation-harness cd lm-evaluation-harness pip install -e .
+```
+
+We also provide a number of optional dependencies for extended functionality. A detailed table is available at the end of this document.
+
+## Basic Usage
+
+[](#basic-usage)
+
+### User Guide
+
+[](#user-guide)
+
+A user guide detailing the full list of supported arguments is provided [here](/EleutherAI/lm-evaluation-harness/blob/main/docs/interface.md), and on the terminal by calling `lm_eval -h`. Alternatively, you can use `lm-eval` instead of `lm_eval`.
+
+A list of supported tasks (or groupings of tasks) can be viewed with `lm-eval --tasks list`. Task descriptions and links to corresponding subfolders are provided [here](/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/tasks/README.md).
+
+### Hugging Face `transformers`
+
+[](#hugging-face-transformers)
+
+To evaluate a model hosted on the [HuggingFace Hub](https://huggingface.co/models) (e.g. GPT-J-6B) on `hellaswag` you can use the following command (this assumes you are using a CUDA-compatible GPU):
+
+```
+lm_eval --model hf \ --model_args pretrained=EleutherAI/gpt-j-6B \ --tasks hellaswag \ --device cuda:0 \ --batch_size 8
+```
+
+Additional arguments can be provided to the model constructor using the `--model_args` flag. Most notably, this supports the common practice of using the `revisions` feature on the Hub to store partially trained checkpoints, or to specify the datatype for running a model:
+
+```
+lm_eval --model hf \ --model_args pretrained=EleutherAI/pythia-160m,revision=step100000,dtype="float" \ --tasks lambada_openai,hellaswag \ --device cuda:0 \ --batch_size 8
+```
+
+Models that are loaded via both `transformers.AutoModelForCausalLM` (autoregressive, decoder-only GPT style models) and `transformers.AutoModelForSeq2SeqLM` (such as encoder-decoder models like T5) in Huggingface are supported.
+
+Batch size selection can be automated by setting the `--batch_size` flag to `auto`. This will perform automatic detection of the largest batch size that will fit on your device. On tasks where there is a large difference between the longest and shortest example, it can be helpful to periodically recompute the largest batch size, to gain a further speedup. To do this, append `:N` to above flag to automatically recompute the largest batch size `N` times. For example, to recompute the batch size 4 times, the command would be:
+
+```
+lm_eval --model hf \ --model_args pretrained=EleutherAI/pythia-160m,revision=step100000,dtype="float" \ --tasks lambada_openai,hellaswag \ --device cuda:0 \ --batch_size auto:4
+```
+
+Note
+
+Just like you can provide a local path to `transformers.AutoModel`, you can also provide a local path to `lm_eval` via `--model_args pretrained=/path/to/model`
+
+#### Multi-GPU Evaluation with Hugging Face `accelerate`
+
+[](#multi-gpu-evaluation-with-hugging-face-accelerate)
+
+We support three main ways of using Hugging Face's [accelerate 🚀](https://github.com/huggingface/accelerate) library for multi-GPU evaluation.
+
+To perform _data-parallel evaluation_ (where each GPU loads a **separate full copy** of the model), we leverage the `accelerate` launcher as follows:
+
+```
+`accelerate launch -m lm_eval --model hf \ --tasks lambada_openai,arc_easy \ --batch_size 16 `
+```
+
+(or via `accelerate launch --no-python lm_eval`).
+
+For cases where your model can fit on a single GPU, this allows you to evaluate on K GPUs K times faster than on one.
+
+**WARNING** : This setup does not work with FSDP model sharding, so in `accelerate config` FSDP must be disabled, or the NO_SHARD FSDP option must be used.
+
+The second way of using `accelerate` for multi-GPU evaluation is when your model is _too large to fit on a single GPU._
+
+In this setting, run the library _outside the`accelerate` launcher_, but passing `parallelize=True` to `--model_args` as follows:
+
+```
+`lm_eval --model hf \ --tasks lambada_openai,arc_easy \ --model_args parallelize=True \ --batch_size 16 `
+```
+
+This means that your model's weights will be split across all available GPUs.
+
+For more advanced users or even larger models, we allow for the following arguments when `parallelize=True` as well:
+
+  * `device_map_option`: How to split model weights across available GPUs. defaults to "auto".
+  * `max_memory_per_gpu`: the max GPU memory to use per GPU in loading the model.
+  * `max_cpu_memory`: the max amount of CPU memory to use when offloading the model weights to RAM.
+  * `offload_folder`: a folder where model weights will be offloaded to disk if needed.
+
+
+
+The third option is to use both at the same time. This will allow you to take advantage of both data parallelism and model sharding, and is especially useful for models that are too large to fit on a single GPU.
+
+```
+`accelerate launch --multi_gpu --num_processes {nb_of_copies_of_your_model} \ -m lm_eval --model hf \ --tasks lambada_openai,arc_easy \ --model_args parallelize=True \ --batch_size 16 `
+```
+
+To learn more about model parallelism and how to use it with the `accelerate` library, see the [accelerate documentation](https://huggingface.co/docs/transformers/v4.15.0/en/parallelism)
+
+**Warning: We do not natively support multi-node evaluation using the`hf` model type! Please reference [our GPT-NeoX library integration](https://github.com/EleutherAI/gpt-neox/blob/main/eval.py) for an example of code in which a custom multi-machine evaluation script is written.**
+
+**Note: we do not currently support multi-node evaluations natively, and advise using either an externally hosted server to run inference requests against, or creating a custom integration with your distributed framework[as is done for the GPT-NeoX library](https://github.com/EleutherAI/gpt-neox/blob/main/eval_tasks/eval_adapter.py).**
+
+### NVIDIA `nemo` models
+
+[](#nvidia-nemo-models)
+
+[NVIDIA NeMo Framework](https://github.com/NVIDIA/NeMo) is a generative AI framework built for researchers and pytorch developers working on language models.
+
+To evaluate a `nemo` model, start by installing NeMo following [the documentation](https://github.com/NVIDIA/NeMo?tab=readme-ov-file#installation). We highly recommended to use the NVIDIA PyTorch or NeMo container, especially if having issues installing Apex or any other dependencies (see [latest released containers](https://github.com/NVIDIA/NeMo/releases)). Please also install the lm evaluation harness library following the instructions in [the Install section](https://github.com/EleutherAI/lm-evaluation-harness/tree/main?tab=readme-ov-file#install).
+
+NeMo models can be obtained through [NVIDIA NGC Catalog](https://catalog.ngc.nvidia.com/models) or in [NVIDIA's Hugging Face page](https://huggingface.co/nvidia). In [NVIDIA NeMo Framework](https://github.com/NVIDIA/NeMo/tree/main/scripts/nlp_language_modeling) there are conversion scripts to convert the `hf` checkpoints of popular models like llama, falcon, mixtral or mpt to `nemo`.
+
+Run a `nemo` model on one GPU:
+
+```
+lm_eval --model nemo_lm \ --model_args path=<path_to_nemo_model> \ --tasks hellaswag \ --batch_size 32
+```
+
+It is recommended to unpack the `nemo` model to avoid the unpacking inside the docker container - it may overflow disk space. For that you can run:
+
+```
+`mkdir MY_MODEL tar -xvf MY_MODEL.nemo -c MY_MODEL `
+```
+
+#### Multi-GPU evaluation with NVIDIA `nemo` models
+
+[](#multi-gpu-evaluation-with-nvidia-nemo-models)
+
+By default, only one GPU is used. But we do support either data replication or tensor/pipeline parallelism during evaluation, on one node.
+
+  1. To enable data replication, set the `model_args` of `devices` to the number of data replicas to run. For example, the command to run 8 data replicas over 8 GPUs is:
+
+
+
+```
+torchrun --nproc-per-node=8 --no-python lm_eval \ --model nemo_lm \ --model_args path=<path_to_nemo_model>,devices=8 \ --tasks hellaswag \ --batch_size 32
+```
+
+  1. To enable tensor and/or pipeline parallelism, set the `model_args` of `tensor_model_parallel_size` and/or `pipeline_model_parallel_size`. In addition, you also have to set up `devices` to be equal to the product of `tensor_model_parallel_size` and/or `pipeline_model_parallel_size`. For example, the command to use one node of 4 GPUs with tensor parallelism of 2 and pipeline parallelism of 2 is:
+
+
+
+```
+torchrun --nproc-per-node=4 --no-python lm_eval \ --model nemo_lm \ --model_args path=<path_to_nemo_model>,devices=4,tensor_model_parallel_size=2,pipeline_model_parallel_size=2 \ --tasks hellaswag \ --batch_size 32
+```
+
+Note that it is recommended to substitute the `python` command by `torchrun --nproc-per-node=<number of devices> --no-python` to facilitate loading the model into the GPUs. This is especially important for large checkpoints loaded into multiple GPUs.
+
+Not supported yet: multi-node evaluation and combinations of data replication with tensor or pipeline parallelism.
+
+#### Multi-GPU evaluation with OpenVINO models
+
+[](#multi-gpu-evaluation-with-openvino-models)
+
+Pipeline parallelizm during evaluation is supported with OpenVINO models
+
+To enable pipeline parallelism, set the `model_args` of `pipeline_parallel`. In addition, you also have to set up `device` to value `HETERO:<GPU index1>,<GPU index2>` for example `HETERO:GPU.1,GPU.0` For example, the command to use pipeline parallelism of 2 is:
+
+```
+`lm_eval --model openvino \ --tasks wikitext \ --model_args pretrained=<path_to_ov_model>,pipeline_parallel=True \ --device HETERO:GPU.1,GPU.0 `
+```
+
+### Tensor + Data Parallel and Optimized Inference with `vLLM`
+
+[](#tensor--data-parallel-and-optimized-inference-with-vllm)
+
+We also support vLLM for faster inference on [supported model types](https://docs.vllm.ai/en/latest/models/supported_models.html), especially faster when splitting a model across multiple GPUs. For single-GPU or multi-GPU — tensor parallel, data parallel, or a combination of both — inference, for example:
+
+```
+lm_eval --model vllm \ --model_args pretrained={model_name},tensor_parallel_size={GPUs_per_model},dtype=auto,gpu_memory_utilization=0.8,data_parallel_size={model_replicas} \ --tasks lambada_openai \ --batch_size auto
+```
+
+To use vllm, do `pip install lm_eval[vllm]`. For a full list of supported vLLM configurations, please reference our [vLLM integration](https://github.com/EleutherAI/lm-evaluation-harness/blob/e74ec966556253fbe3d8ecba9de675c77c075bce/lm_eval/models/vllm_causallms.py) and the vLLM documentation.
+
+vLLM occasionally differs in output from Huggingface. We treat Huggingface as the reference implementation, and provide a [script](/EleutherAI/lm-evaluation-harness/blob/main/scripts/model_comparator.py) for checking the validity of vllm results against HF.
+
+Tip
+
+For fastest performance, we recommend using `--batch_size auto` for vLLM whenever possible, to leverage its continuous batching functionality!
+
+Tip
+
+Passing `max_model_len=4096` or some other reasonable default to vLLM through model args may cause speedups or prevent out-of-memory errors when trying to use auto batch size, such as for Mistral-7B-v0.1 which defaults to a maximum length of 32k.
+
+### Model APIs and Inference Servers
+
+[](#model-apis-and-inference-servers)
+
+Our library also supports the evaluation of models served via several commercial APIs, and we hope to implement support for the most commonly used performant local/self-hosted inference servers.
+
+To call a hosted model, use:
+
+```
+export OPENAI_API_KEY=YOUR_KEY_HERE lm_eval --model openai-completions \ --model_args model=davinci \ --tasks lambada_openai,hellaswag
+```
+
+We also support using your own local inference server with servers that mirror the OpenAI Completions and ChatCompletions APIs.
+
+```
+lm_eval --model local-completions --tasks gsm8k --model_args model=facebook/opt-125m,base_url=http://{yourip}:8000/v1/completions,num_concurrent=1,max_retries=3,tokenized_requests=False,batch_size=16
+```
+
+Note that for externally hosted models, configs such as `--device` which relate to where to place a local model should not be used and do not function. Just like you can use `--model_args` to pass arbitrary arguments to the model constructor for local models, you can use it to pass arbitrary arguments to the model API for hosted models. See the documentation of the hosting service for information on what arguments they support.
+
+API or Inference Server | Implemented? | `--model <xxx>` name | Models supported: | Request Types:  
+---|---|---|---|---  
+OpenAI Completions | ✔️ | `openai-completions`, `local-completions` | All OpenAI Completions API models | `generate_until`, `loglikelihood`, `loglikelihood_rolling`  
+OpenAI ChatCompletions | ✔️ | `openai-chat-completions`, `local-chat-completions` | [All ChatCompletions API models](https://platform.openai.com/docs/guides/gpt) | `generate_until` (no logprobs)  
+Anthropic | ✔️ | `anthropic` | [Supported Anthropic Engines](https://docs.anthropic.com/claude/reference/selecting-a-model) | `generate_until` (no logprobs)  
+Anthropic Chat | ✔️ | `anthropic-chat`, `anthropic-chat-completions` | [Supported Anthropic Engines](https://docs.anthropic.com/claude/docs/models-overview) | `generate_until` (no logprobs)  
+Textsynth | ✔️ | `textsynth` | [All supported engines](https://textsynth.com/documentation.html#engines) | `generate_until`, `loglikelihood`, `loglikelihood_rolling`  
+Cohere | [⌛ - blocked on Cohere API bug](https://github.com/EleutherAI/lm-evaluation-harness/pull/395) | N/A | [All `cohere.generate()` engines](https://docs.cohere.com/docs/models) | `generate_until`, `loglikelihood`, `loglikelihood_rolling`  
+[Llama.cpp](https://github.com/ggerganov/llama.cpp) (via [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)) | ✔️ | `gguf`, `ggml` | [All models supported by llama.cpp](https://github.com/ggerganov/llama.cpp) | `generate_until`, `loglikelihood`, (perplexity evaluation not yet implemented)  
+vLLM | ✔️ | `vllm` | [Most HF Causal Language Models](https://docs.vllm.ai/en/latest/models/supported_models.html) | `generate_until`, `loglikelihood`, `loglikelihood_rolling`  
+Mamba | ✔️ | `mamba_ssm` | [Mamba architecture Language Models via the `mamba_ssm` package](https://huggingface.co/state-spaces) | `generate_until`, `loglikelihood`, `loglikelihood_rolling`  
+Huggingface Optimum (Causal LMs) | ✔️ | `openvino` | Any decoder-only AutoModelForCausalLM converted with Huggingface Optimum into OpenVINO™ Intermediate Representation (IR) format | `generate_until`, `loglikelihood`, `loglikelihood_rolling`  
+Huggingface Optimum-intel IPEX (Causal LMs) | ✔️ | `ipex` | Any decoder-only AutoModelForCausalLM | `generate_until`, `loglikelihood`, `loglikelihood_rolling`  
+Neuron via AWS Inf2 (Causal LMs) | ✔️ | `neuronx` | Any decoder-only AutoModelForCausalLM supported to run on [huggingface-ami image for inferentia2](https://aws.amazon.com/marketplace/pp/prodview-gr3e6yiscria2) | `generate_until`, `loglikelihood`, `loglikelihood_rolling`  
+[Neural Magic DeepSparse](https://github.com/neuralmagic/deepsparse) | ✔️ | `deepsparse` | Any LM from [SparseZoo](https://sparsezoo.neuralmagic.com/) or on [HF Hub with the "deepsparse" tag](https://huggingface.co/models?other=deepsparse) | `generate_until`, `loglikelihood`  
+[Neural Magic SparseML](https://github.com/neuralmagic/sparseml) | ✔️ | `sparseml` | Any decoder-only AutoModelForCausalLM from [SparseZoo](https://sparsezoo.neuralmagic.com/) or on [HF Hub](https://huggingface.co/neuralmagic). Especially useful for models with quantization like [`zoo:llama2-7b-gsm8k_llama2_pretrain-pruned60_quantized`](https://sparsezoo.neuralmagic.com/models/llama2-7b-gsm8k_llama2_pretrain-pruned60_quantized) | `generate_until`, `loglikelihood`, `loglikelihood_rolling`  
+Watsonx.ai | ✔️ | `watsonx_llm` | [Supported Watsonx.ai Engines](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx) | `generate_until` `loglikelihood`  
+[Your local inference server!](/EleutherAI/lm-evaluation-harness/blob/main/docs/API_guide.md) | ✔️ | `local-completions` or `local-chat-completions` | Support for OpenAI API-compatible servers, with easy customization for other APIs. | `generate_until`, `loglikelihood`, `loglikelihood_rolling`  
+  
+Models which do not supply logits or logprobs can be used with tasks of type `generate_until` only, while local models, or APIs that supply logprobs/logits of their prompts, can be run on all task types: `generate_until`, `loglikelihood`, `loglikelihood_rolling`, and `multiple_choice`.
+
+For more information on the different task `output_types` and model request types, see [our documentation](https://github.com/EleutherAI/lm-evaluation-harness/blob/main/docs/model_guide.md#interface).
+
+Note
+
+For best performance with closed chat model APIs such as Anthropic Claude 3 and GPT-4, we recommend carefully looking at a few sample outputs using `--limit 10` first to confirm answer extraction and scoring on generative tasks is performing as expected. providing `system="<some system prompt here>"` within `--model_args` for anthropic-chat-completions, to instruct the model what format to respond in, may be useful.
+
+### Other Frameworks
+
+[](#other-frameworks)
+
+A number of other libraries contain scripts for calling the eval harness through their library. These include [GPT-NeoX](https://github.com/EleutherAI/gpt-neox/blob/main/eval_tasks/eval_adapter.py), [Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed/blob/main/examples/MoE/readme_evalharness.md), and [mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax/blob/master/eval_harness.py).
+
+To create your own custom integration you can follow instructions from [this tutorial](https://github.com/EleutherAI/lm-evaluation-harness/blob/main/docs/interface.md#external-library-usage).
+
+### Additional Features
+
+[](#additional-features)
+
+Note
+
+For tasks unsuitable for direct evaluation — either due risks associated with executing untrusted code or complexities in the evaluation process — the `--predict_only` flag is available to obtain decoded generations for post-hoc evaluation.
+
+If you have a Metal compatible Mac, you can run the eval harness using the MPS back-end by replacing `--device cuda:0` with `--device mps` (requires PyTorch version 2.1 or higher). **Note that the PyTorch MPS backend is still in early stages of development, so correctness issues or unsupported operations may exist. If you observe oddities in model performance on the MPS back-end, we recommend first checking that a forward pass of your model on`--device cpu` and `--device mps` match.**
+
+Note
+
+You can inspect what the LM inputs look like by running the following command:
+
+```
+python write_out.py \ --tasks <task1,task2,...> \ --num_fewshot 5 \ --num_examples 10 \ --output_base_path /path/to/output/folder
+```
+
+This will write out one text file for each task.
+
+To verify the data integrity of the tasks you're performing in addition to running the tasks themselves, you can use the `--check_integrity` flag:
+
+```
+lm_eval --model openai \ --model_args engine=davinci \ --tasks lambada_openai,hellaswag \ --check_integrity
+```
+
+## Advanced Usage Tips
+
+[](#advanced-usage-tips)
+
+For models loaded with the HuggingFace `transformers` library, any arguments provided via `--model_args` get passed to the relevant constructor directly. This means that anything you can do with `AutoModel` can be done with our library. For example, you can pass a local path via `pretrained=` or use models finetuned with [PEFT](https://github.com/huggingface/peft) by taking the call you would run to evaluate the base model and add `,peft=PATH` to the `model_args` argument:
+
+```
+lm_eval --model hf \ --model_args pretrained=EleutherAI/gpt-j-6b,parallelize=True,load_in_4bit=True,peft=nomic-ai/gpt4all-j-lora \ --tasks openbookqa,arc_easy,winogrande,hellaswag,arc_challenge,piqa,boolq \ --device cuda:0
+```
+
+Models provided as delta weights can be easily loaded using the Hugging Face transformers library. Within --model_args, set the delta argument to specify the delta weights, and use the pretrained argument to designate the relative base model to which they will be applied:
+
+```
+lm_eval --model hf \ --model_args pretrained=Ejafa/llama_7B,delta=lmsys/vicuna-7b-delta-v1.1 \ --tasks hellaswag
+```
+
+GPTQ quantized models can be loaded using [GPTQModel](https://github.com/ModelCloud/GPTQModel) (faster) or [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)
+
+GPTQModel: add `,gptqmodel=True` to `model_args`
+
+```
+lm_eval --model hf \ --model_args pretrained=model-name-or-path,gptqmodel=True \ --tasks hellaswag
+```
+
+AutoGPTQ: add `,autogptq=True` to `model_args`:
+
+```
+lm_eval --model hf \ --model_args pretrained=model-name-or-path,autogptq=model.safetensors,gptq_use_triton=True \ --tasks hellaswag
+```
+
+We support wildcards in task names, for example you can run all of the machine-translated lambada tasks via `--task lambada_openai_mt_*`.
+
+## Saving & Caching Results
+
+[](#saving--caching-results)
+
+To save evaluation results provide an `--output_path`. We also support logging model responses with the `--log_samples` flag for post-hoc analysis.
+
+Tip
+
+Use `--use_cache <DIR>` to cache evaluation results and skip previously evaluated samples when resuming runs of the same (model, task) pairs. Note that caching is rank-dependent, so restart with the same GPU count if interrupted. You can also use --cache_requests to save dataset preprocessing steps for faster evaluation resumption.
+
+To push results and samples to the Hugging Face Hub, first ensure an access token with write access is set in the `HF_TOKEN` environment variable. Then, use the `--hf_hub_log_args` flag to specify the organization, repository name, repository visibility, and whether to push results and samples to the Hub - [example dataset on the HF Hub](https://huggingface.co/datasets/KonradSzafer/lm-eval-results-demo). For instance:
+
+```
+lm_eval --model hf \ --model_args pretrained=model-name-or-path,autogptq=model.safetensors,gptq_use_triton=True \ --tasks hellaswag \ --log_samples \ --output_path results \ --hf_hub_log_args hub_results_org=EleutherAI,hub_repo_name=lm-eval-results,push_results_to_hub=True,push_samples_to_hub=True,public_repo=False \
+```
+
+This allows you to easily download the results and samples from the Hub, using:
+
+```
+from datasets import load_dataset load_dataset("EleutherAI/lm-eval-results-private", "hellaswag", "latest")
+```
+
+For a full list of supported arguments, check out the [interface](https://github.com/EleutherAI/lm-evaluation-harness/blob/main/docs/interface.md) guide in our documentation!
+
+## Visualizing Results
+
+[](#visualizing-results)
+
+You can seamlessly visualize and analyze the results of your evaluation harness runs using both Weights & Biases (W&B) and Zeno.
+
+### Zeno
+
+[](#zeno)
+
+You can use [Zeno](https://zenoml.com) to visualize the results of your eval harness runs.
+
+First, head to [hub.zenoml.com](https://hub.zenoml.com) to create an account and get an API key [on your account page](https://hub.zenoml.com/account). Add this key as an environment variable:
+
+```
+export ZENO_API_KEY=[your api key]
+```
+
+You'll also need to install the `lm_eval[zeno]` package extra.
+
+To visualize the results, run the eval harness with the `log_samples` and `output_path` flags. We expect `output_path` to contain multiple folders that represent individual model names. You can thus run your evaluation on any number of tasks and models and upload all of the results as projects on Zeno.
+
+```
+lm_eval \ --model hf \ --model_args pretrained=EleutherAI/gpt-j-6B \ --tasks hellaswag \ --device cuda:0 \ --batch_size 8 \ --log_samples \ --output_path output/gpt-j-6B
+```
+
+Then, you can upload the resulting data using the `zeno_visualize` script:
+
+```
+python scripts/zeno_visualize.py \ --data_path output \ --project_name "Eleuther Project"
+```
+
+This will use all subfolders in `data_path` as different models and upload all tasks within these model folders to Zeno. If you run the eval harness on multiple tasks, the `project_name` will be used as a prefix and one project will be created per task.
+
+You can find an example of this workflow in [examples/visualize-zeno.ipynb](/EleutherAI/lm-evaluation-harness/blob/main/examples/visualize-zeno.ipynb).
+
+### Weights and Biases
+
+[](#weights-and-biases)
+
+With the [Weights and Biases](https://wandb.ai/site) integration, you can now spend more time extracting deeper insights into your evaluation results. The integration is designed to streamline the process of logging and visualizing experiment results using the Weights & Biases (W&B) platform.
+
+The integration provide functionalities
+
+  * to automatically log the evaluation results,
+  * log the samples as W&B Tables for easy visualization,
+  * log the `results.json` file as an artifact for version control,
+  * log the `<task_name>_eval_samples.json` file if the samples are logged,
+  * generate a comprehensive report for analysis and visualization with all the important metric,
+  * log task and cli specific configs,
+  * and more out of the box like the command used to run the evaluation, GPU/CPU counts, timestamp, etc.
+
+
+
+First you'll need to install the lm_eval[wandb] package extra. Do `pip install lm_eval[wandb]`.
+
+Authenticate your machine with an your unique W&B token. Visit <https://wandb.ai/authorize> to get one. Do `wandb login` in your command line terminal.
+
+Run eval harness as usual with a `wandb_args` flag. Use this flag to provide arguments for initializing a wandb run ([wandb.init](https://docs.wandb.ai/ref/python/init)) as comma separated string arguments.
+
+```
+lm_eval \ --model hf \ --model_args pretrained=microsoft/phi-2,trust_remote_code=True \ --tasks hellaswag,mmlu_abstract_algebra \ --device cuda:0 \ --batch_size 8 \ --output_path output/phi-2 \ --limit 10 \ --wandb_args project=lm-eval-harness-integration \ --log_samples
+```
+
+In the stdout, you will find the link to the W&B run page as well as link to the generated report. You can find an example of this workflow in [examples/visualize-wandb.ipynb](/EleutherAI/lm-evaluation-harness/blob/main/examples/visualize-wandb.ipynb), and an example of how to integrate it beyond the CLI.
+
+## How to Contribute or Learn More?
+
+[](#how-to-contribute-or-learn-more)
+
+For more information on the library and how everything fits together, check out all of our [documentation pages](https://github.com/EleutherAI/lm-evaluation-harness/tree/main/docs)! We plan to post a larger roadmap of desired + planned library improvements soon, with more information on how contributors can help.
+
+### Implementing new tasks
+
+[](#implementing-new-tasks)
+
+To implement a new task in the eval harness, see [this guide](/EleutherAI/lm-evaluation-harness/blob/main/docs/new_task_guide.md).
+
+In general, we follow this priority list for addressing concerns about prompting and other eval details:
+
+  1. If there is widespread agreement among people who train LLMs, use the agreed upon procedure.
+  2. If there is a clear and unambiguous official implementation, use that procedure.
+  3. If there is widespread agreement among people who evaluate LLMs, use the agreed upon procedure.
+  4. If there are multiple common implementations but not universal or widespread agreement, use our preferred option among the common implementations. As before, prioritize choosing from among the implementations found in LLM training papers.
+
+
+
+These are guidelines and not rules, and can be overruled in special circumstances.
+
+We try to prioritize agreement with the procedures used by other groups to decrease the harm when people inevitably compare runs across different papers despite our discouragement of the practice. Historically, we also prioritized the implementation from [Language Models are Few Shot Learners](https://arxiv.org/abs/2005.14165) as our original goal was specifically to compare results with that paper.
+
+### Support
+
+[](#support)
+
+The best way to get support is to open an issue on this repo or join the [EleutherAI Discord server](https://discord.gg/eleutherai). The `#lm-thunderdome` channel is dedicated to developing this project and the `#release-discussion` channel is for receiving support for our releases. If you've used the library and have had a positive (or negative) experience, we'd love to hear from you!
+
+## Optional Extras
+
+[](#optional-extras)
+
+Extras dependencies can be installed via `pip install -e ".[NAME]"`
+
+Name | Use  
+---|---  
+api | For using api models (Anthropic, OpenAI API)  
+deepsparse | For running NM's DeepSparse models  
+dev | For linting PRs and contributions  
+gptq | For loading models with GPTQ  
+hf_transfer | For speeding up HF Hub file downloads  
+ifeval | For running the IFEval task  
+ibm_watsonx_ai | For using IBM watsonx.ai model apis  
+ipex | For running on optimum-intel ipex backend  
+neuronx | For running on AWS inf2 instances  
+mamba | For loading Mamba SSM models  
+math | For running math task answer checking  
+multilingual | For multilingual tokenizers  
+optimum | For running Intel OpenVINO models  
+promptsource | For using PromptSource prompts  
+sentencepiece | For using the sentencepiece tokenizer  
+sparseml | For using NM's SparseML models  
+testing | For running library test suite  
+vllm | For loading models with vLLM  
+zeno | For visualizing results with Zeno  
+--------------- | ---------------------------------------  
+all | Loads all extras (not recommended)  
+  
+## Cite as
+
+[](#cite-as)
+
+```
+`@misc{eval-harness, author = {Gao, Leo and Tow, Jonathan and Abbasi, Baber and Biderman, Stella and Black, Sid and DiPofi, Anthony and Foster, Charles and Golding, Laurence and Hsu, Jeffrey and Le Noac'h, Alain and Li, Haonan and McDonell, Kyle and Muennighoff, Niklas and Ociepa, Chris and Phang, Jason and Reynolds, Laria and Schoelkopf, Hailey and Skowron, Aviya and Sutawika, Lintang and Tang, Eric and Thite, Anish and Wang, Ben and Wang, Kevin and Zou, Andy}, title = {A framework for few-shot language model evaluation}, month = 07, year = 2024, publisher = {Zenodo}, version = {v0.4.3}, doi = {10.5281/zenodo.12608602}, url = {https://zenodo.org/records/12608602} } `
+```
+
+## About
+
+A framework for few-shot evaluation of language models. 
+
+[www.eleuther.ai](https://www.eleuther.ai "https://www.eleuther.ai")
+
+### Topics
+
+[ transformer ](/topics/transformer "Topic: transformer") [ language-model ](/topics/language-model "Topic: language-model") [ evaluation-framework ](/topics/evaluation-framework "Topic: evaluation-framework")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Citation
+
+Cite this repository 
+
+Loading
+
+Something went wrong. 
+
+[ Activity](/EleutherAI/lm-evaluation-harness/activity)
+
+[ Custom properties](/EleutherAI/lm-evaluation-harness/custom-properties)
+
+### Stars
+
+[ **7.5k** stars](/EleutherAI/lm-evaluation-harness/stargazers)
+
+### Watchers
+
+[ **39** watching](/EleutherAI/lm-evaluation-harness/watchers)
+
+### Forks
+
+[ **2k** forks](/EleutherAI/lm-evaluation-harness/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FEleutherAI%2Flm-evaluation-harness&report=EleutherAI+%28user%29)
+
+##  [Releases 11](/EleutherAI/lm-evaluation-harness/releases)
+
+[ v0.4.7 Latest  Dec 17, 2024 ](/EleutherAI/lm-evaluation-harness/releases/tag/v0.4.7)
+
+[+ 10 releases](/EleutherAI/lm-evaluation-harness/releases)
+
+##  [Packages 0](/orgs/EleutherAI/packages?repo_name=lm-evaluation-harness)
+
+No packages published 
+
+##  [Contributors 249](/EleutherAI/lm-evaluation-harness/graphs/contributors)
+
+  * [ ![@lintangsutawika](https://avatars.githubusercontent.com/u/5774558?s=64&v=4) ](https://github.com/lintangsutawika)
+  * [ ![@haileyschoelkopf](https://avatars.githubusercontent.com/u/65563625?s=64&v=4) ](https://github.com/haileyschoelkopf)
+  * [ ![@leogao2](https://avatars.githubusercontent.com/u/54557097?s=64&v=4) ](https://github.com/leogao2)
+  * [ ![@baberabb](https://avatars.githubusercontent.com/u/92168766?s=64&v=4) ](https://github.com/baberabb)
+  * [ ![@StellaAthena](https://avatars.githubusercontent.com/u/15899312?s=64&v=4) ](https://github.com/StellaAthena)
+  * [ ![@jon-tow](https://avatars.githubusercontent.com/u/41410219?s=64&v=4) ](https://github.com/jon-tow)
+  * [ ![@fattorib](https://avatars.githubusercontent.com/u/46356259?s=64&v=4) ](https://github.com/fattorib)
+  * [ ![@cjlovering](https://avatars.githubusercontent.com/u/14171897?s=64&v=4) ](https://github.com/cjlovering)
+  * [ ![@farzanehnakhaee70](https://avatars.githubusercontent.com/u/30573681?s=64&v=4) ](https://github.com/farzanehnakhaee70)
+  * [ ![@zphang](https://avatars.githubusercontent.com/u/1668462?s=64&v=4) ](https://github.com/zphang)
+  * [ ![@anishthite](https://avatars.githubusercontent.com/u/14373068?s=64&v=4) ](https://github.com/anishthite)
+  * [ ![@thefazzer](https://avatars.githubusercontent.com/u/30984080?s=64&v=4) ](https://github.com/thefazzer)
+  * [ ![@thomasw21](https://avatars.githubusercontent.com/u/24695242?s=64&v=4) ](https://github.com/thomasw21)
+  * [ ![@Muennighoff](https://avatars.githubusercontent.com/u/62820084?s=64&v=4) ](https://github.com/Muennighoff)
+
+
+
+[+ 235 contributors](/EleutherAI/lm-evaluation-harness/graphs/contributors)
+
+## Languages
+
+  * [ Python 99.4% ](/EleutherAI/lm-evaluation-harness/search?l=python)
+  * Other 0.6%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

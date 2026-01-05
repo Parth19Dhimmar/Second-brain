@@ -1,0 +1,38 @@
+{
+    "id": "ed7cfbcfaa6c25b0e66e8d020fbc32be",
+    "metadata": {
+        "id": "ed7cfbcfaa6c25b0e66e8d020fbc32be",
+        "url": "https://nicolay-gerold.notion.site/Season-3-MLOps-How-AI-Is-Built-2be82e4d93604c0594d84475f0a77721/",
+        "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+        "properties": {
+            "description": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
+            "keywords": null,
+            "author": null,
+            "og:site_name": "Notion",
+            "og:type": "website",
+            "og:url": "https://www.notion.so",
+            "og:title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+            "og:description": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
+            "og:image": "https://www.notion.so/images/meta/default.png",
+            "og:locale": "en_US",
+            "twitter:card": "summary_large_image",
+            "twitter:site": "@NotionHQ",
+            "twitter:title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+            "twitter:description": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
+            "twitter:url": "https://www.notion.so",
+            "twitter:image": "https://www.notion.so/images/meta/default.png"
+        }
+    },
+    "parent_metadata": {
+        "id": "ebfdfc289a0d887f835c7632801a57b0",
+        "url": "https://www.notion.so/Components-Architecture-and-System-Design-ebfdfc289a0d887f835c7632801a57b0",
+        "title": "Components, Architecture, and System Design",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "content": "\n",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": []
+}

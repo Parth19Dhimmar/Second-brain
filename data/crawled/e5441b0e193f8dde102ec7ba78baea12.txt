@@ -1,0 +1,1167 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fpytorch-image-models%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fpytorch-image-models%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=huggingface%2Fpytorch-image-models) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ huggingface ](/huggingface) / **[pytorch-image-models](/huggingface/pytorch-image-models) ** Public
+
+  * [ Sponsor  ](/sponsors/huggingface)
+  * [ Notifications ](/login?return_to=%2Fhuggingface%2Fpytorch-image-models) You must be signed in to change notification settings
+  * [ Fork 4.8k ](/login?return_to=%2Fhuggingface%2Fpytorch-image-models)
+  * [ Star  33k ](/login?return_to=%2Fhuggingface%2Fpytorch-image-models)
+
+
+
+
+The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more 
+
+[huggingface.co/docs/timm](https://huggingface.co/docs/timm "https://huggingface.co/docs/timm")
+
+### License
+
+[ Apache-2.0 license ](/huggingface/pytorch-image-models/blob/main/LICENSE)
+
+[ 33k stars ](/huggingface/pytorch-image-models/stargazers) [ 4.8k forks ](/huggingface/pytorch-image-models/forks) [ Branches ](/huggingface/pytorch-image-models/branches) [ Tags ](/huggingface/pytorch-image-models/tags) [ Activity ](/huggingface/pytorch-image-models/activity)
+
+[ Star  ](/login?return_to=%2Fhuggingface%2Fpytorch-image-models)
+
+[ Notifications ](/login?return_to=%2Fhuggingface%2Fpytorch-image-models) You must be signed in to change notification settings
+
+  * [ Code ](/huggingface/pytorch-image-models)
+  * [ Issues 47 ](/huggingface/pytorch-image-models/issues)
+  * [ Pull requests 19 ](/huggingface/pytorch-image-models/pulls)
+  * [ Discussions ](/huggingface/pytorch-image-models/discussions)
+  * [ Actions ](/huggingface/pytorch-image-models/actions)
+  * [ Projects 0 ](/huggingface/pytorch-image-models/projects)
+  * [ Security ](/huggingface/pytorch-image-models/security)
+  * [ Insights ](/huggingface/pytorch-image-models/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/huggingface/pytorch-image-models)
+  * [ Issues  ](/huggingface/pytorch-image-models/issues)
+  * [ Pull requests  ](/huggingface/pytorch-image-models/pulls)
+  * [ Discussions  ](/huggingface/pytorch-image-models/discussions)
+  * [ Actions  ](/huggingface/pytorch-image-models/actions)
+  * [ Projects  ](/huggingface/pytorch-image-models/projects)
+  * [ Security  ](/huggingface/pytorch-image-models/security)
+  * [ Insights  ](/huggingface/pytorch-image-models/pulse)
+
+
+
+# huggingface/pytorch-image-models
+
+main
+
+[**127** Branches](/huggingface/pytorch-image-models/branches)[**64** Tags](/huggingface/pytorch-image-models/tags)
+
+[](/huggingface/pytorch-image-models/branches)[](/huggingface/pytorch-image-models/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+![brianhou0208](https://avatars.githubusercontent.com/u/23580140?v=4&size=40)![rwightman](https://avatars.githubusercontent.com/u/5702664?v=4&size=40)[brianhou0208](/huggingface/pytorch-image-models/commits?author=brianhou0208)and[rwightman](/huggingface/pytorch-image-models/commits?author=rwightman)[Add num_classes assertion after reset_classifier](/huggingface/pytorch-image-models/commit/bda46f8e6f4bd6463317b6402b8d63c107ceb09a)Jan 21, 2025[bda46f8](/huggingface/pytorch-image-models/commit/bda46f8e6f4bd6463317b6402b8d63c107ceb09a) · Jan 21, 2025
+
+## History
+
+[2,676 Commits](/huggingface/pytorch-image-models/commits/main/)[](/huggingface/pytorch-image-models/commits/main/)  
+[.github](/huggingface/pytorch-image-models/tree/main/.github ".github")| [.github](/huggingface/pytorch-image-models/tree/main/.github ".github")| [Update pip install to use whl/cpu](/huggingface/pytorch-image-models/commit/1a2d8bb5a082e63bd08ea7ed45670f7f46b190f6 "Update pip install to use whl/cpu")| Oct 2, 2024  
+[convert](/huggingface/pytorch-image-models/tree/main/convert "convert")| [convert](/huggingface/pytorch-image-models/tree/main/convert "convert")| [Move aggregation (convpool) for nest into NestLevel, cleanup and enab…](/huggingface/pytorch-image-models/commit/81cd6863c8c9515de8884e8a8ea0445ec08b4486 "Move aggregation \(convpool\) for nest into NestLevel, cleanup and enable features_only use. Finalize weight url.")| Jul 6, 2021  
+[hfdocs](/huggingface/pytorch-image-models/tree/main/hfdocs "hfdocs")| [hfdocs](/huggingface/pytorch-image-models/tree/main/hfdocs "hfdocs")| [Version 1.0.14, update README & changelog](/huggingface/pytorch-image-models/commit/5d535d7a2d4b435b1b5c1177fd8f04a12b942b9a "Version 1.0.14, update README & changelog")| Jan 19, 2025  
+[results](/huggingface/pytorch-image-models/tree/main/results "results")| [results](/huggingface/pytorch-image-models/tree/main/results "results")| [Add missing nhwc bm for 4090](/huggingface/pytorch-image-models/commit/ee5b1e8217134e9f016a0086b793c34abb721216 "Add missing nhwc bm for 4090")| Sep 5, 2024  
+[tests](/huggingface/pytorch-image-models/tree/main/tests "tests")| [tests](/huggingface/pytorch-image-models/tree/main/tests "tests")| [Add num_classes assertion after reset_classifier](/huggingface/pytorch-image-models/commit/bda46f8e6f4bd6463317b6402b8d63c107ceb09a "Add num_classes assertion after reset_classifier")| Jan 21, 2025  
+[timm](/huggingface/pytorch-image-models/tree/main/timm "timm")| [timm](/huggingface/pytorch-image-models/tree/main/timm "timm")| [Fix RDNet forward call](/huggingface/pytorch-image-models/commit/17eabaad174db0a3d509aff06b175c302db3967d "Fix RDNet forward call")| Jan 21, 2025  
+[.gitattributes](/huggingface/pytorch-image-models/blob/main/.gitattributes ".gitattributes")| [.gitattributes](/huggingface/pytorch-image-models/blob/main/.gitattributes ".gitattributes")| [Add .gitattributes](/huggingface/pytorch-image-models/commit/f632190fd902e23a06df17cc1da09b15fa3a515e "Add .gitattributes")| Jul 2, 2019  
+[.gitignore](/huggingface/pytorch-image-models/blob/main/.gitignore ".gitignore")| [.gitignore](/huggingface/pytorch-image-models/blob/main/.gitignore ".gitignore")| [Add FlexiViT models and weights, refactoring, push more weights](/huggingface/pytorch-image-models/commit/9a51e4ea2ef2c770085e75ddcef17f957068e0f1 "Add FlexiViT models and weights, refactoring, push more weights
+* push all vision_transformer*.py weights to HF hub
+* finalize more pretrained tags for pushed weights
+* refactor pos_embed files and module locations, move some pos embed modules to layers
+* tweak hf hub helpers to aid bulk uploading and updating")| Dec 23, 2022  
+[CITATION.cff](/huggingface/pytorch-image-models/blob/main/CITATION.cff "CITATION.cff")| [CITATION.cff](/huggingface/pytorch-image-models/blob/main/CITATION.cff "CITATION.cff")| [Add CODE_OF_CONDUCT.md and CITATION.cff files](/huggingface/pytorch-image-models/commit/165c3dea988f0e88feb82164b9e4de017cddc0bc "Add CODE_OF_CONDUCT.md and CITATION.cff files")| Nov 17, 2024  
+[CODE_OF_CONDUCT.md](/huggingface/pytorch-image-models/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/huggingface/pytorch-image-models/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Update CODE_OF_CONDUCT.md](/huggingface/pytorch-image-models/commit/facae65947fb3761246820f3666dd34bf37d5a75 "Update CODE_OF_CONDUCT.md")| Nov 17, 2024  
+[CONTRIBUTING.md](/huggingface/pytorch-image-models/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/huggingface/pytorch-image-models/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Fix typos](/huggingface/pytorch-image-models/commit/8d81fdf3d9cedfaef12f51f52f20ac0d12cb5276 "Fix typos")| Jan 19, 2025  
+[LICENSE](/huggingface/pytorch-image-models/blob/main/LICENSE "LICENSE")| [LICENSE](/huggingface/pytorch-image-models/blob/main/LICENSE "LICENSE")| [Add Apache LICENSE file](/huggingface/pytorch-image-models/commit/48ab3cf0700d015a806572af846e36b70d2d3f03 "Add Apache LICENSE file")| May 31, 2019  
+[MANIFEST.in](/huggingface/pytorch-image-models/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](/huggingface/pytorch-image-models/blob/main/MANIFEST.in "MANIFEST.in")| [Move ImageNet metadata (aka info) files to timm/data/_info. Add helpe…](/huggingface/pytorch-image-models/commit/0f2803de7a029aab8858afbb1fafa72da62a1fbb "Move ImageNet metadata \(aka info\) files to timm/data/_info. Add helper classes to make info available for labelling. Update inference.py for first use.")| Feb 7, 2023  
+[README.md](/huggingface/pytorch-image-models/blob/main/README.md "README.md")| [README.md](/huggingface/pytorch-image-models/blob/main/README.md "README.md")| [Version 1.0.14, update README & changelog](/huggingface/pytorch-image-models/commit/5d535d7a2d4b435b1b5c1177fd8f04a12b942b9a "Version 1.0.14, update README & changelog")| Jan 19, 2025  
+[UPGRADING.md](/huggingface/pytorch-image-models/blob/main/UPGRADING.md "UPGRADING.md")| [UPGRADING.md](/huggingface/pytorch-image-models/blob/main/UPGRADING.md "UPGRADING.md")| [fix: minor typos in UPGRADING](/huggingface/pytorch-image-models/commit/1245b8392404d1806d82a39c23d11472be831d89 "fix: minor typos in UPGRADING")| Dec 31, 2024  
+[avg_checkpoints.py](/huggingface/pytorch-image-models/blob/main/avg_checkpoints.py "avg_checkpoints.py")| [avg_checkpoints.py](/huggingface/pytorch-image-models/blob/main/avg_checkpoints.py "avg_checkpoints.py")| [Make safetensor import option for now. Improve avg/clean checkpoints …](/huggingface/pytorch-image-models/commit/d0b45c9b4d6c38e5c93ede6e9b8fc676bcb9818e "Make safetensor import option for now. Improve avg/clean checkpoints ext handling a bit \(more consistent\).")| Feb 19, 2023  
+[benchmark.py](/huggingface/pytorch-image-models/blob/main/benchmark.py "benchmark.py")| [benchmark.py](/huggingface/pytorch-image-models/blob/main/benchmark.py "benchmark.py")| [Fix metavar for --input-size](/huggingface/pytorch-image-models/commit/634b68ae503e5631f0638451a5bcc393005b77e7 "Fix metavar for --input-size")| Jan 20, 2025  
+[bulk_runner.py](/huggingface/pytorch-image-models/blob/main/bulk_runner.py "bulk_runner.py")| [bulk_runner.py](/huggingface/pytorch-image-models/blob/main/bulk_runner.py "bulk_runner.py")| [Replace deprecated positional argument with --data-dir](/huggingface/pytorch-image-models/commit/7e5477acf5a58a9a74c73d0ee7528ef7ce1da766 "Replace deprecated positional argument with --data-dir")| Nov 5, 2024  
+[clean_checkpoint.py](/huggingface/pytorch-image-models/blob/main/clean_checkpoint.py "clean_checkpoint.py")| [clean_checkpoint.py](/huggingface/pytorch-image-models/blob/main/clean_checkpoint.py "clean_checkpoint.py")| [Make safetensor import option for now. Improve avg/clean checkpoints …](/huggingface/pytorch-image-models/commit/d0b45c9b4d6c38e5c93ede6e9b8fc676bcb9818e "Make safetensor import option for now. Improve avg/clean checkpoints ext handling a bit \(more consistent\).")| Feb 19, 2023  
+[distributed_train.sh](/huggingface/pytorch-image-models/blob/main/distributed_train.sh "distributed_train.sh")| [distributed_train.sh](/huggingface/pytorch-image-models/blob/main/distributed_train.sh "distributed_train.sh")| [Change torchrun args to use _ instead of -, - is the new format, but …](/huggingface/pytorch-image-models/commit/56b90317cd9db1038b42ebdfc5bd81b1a2275cc1 "Change torchrun args to use _ instead of -, - is the new format, but looks like _ still works for backward compat with old versions. Fix #1742")| Mar 27, 2023  
+[hubconf.py](/huggingface/pytorch-image-models/blob/main/hubconf.py "hubconf.py")| [hubconf.py](/huggingface/pytorch-image-models/blob/main/hubconf.py "hubconf.py")| [Major module / path restructure, timm.models.layers -> timm.layers, a…](/huggingface/pytorch-image-models/commit/927f031293a30afb940fff0bee34b85d9c059b0e "Major module / path restructure, timm.models.layers -> timm.layers, add _ prefix to all non model modules in timm.models")| Dec 7, 2022  
+[inference.py](/huggingface/pytorch-image-models/blob/main/inference.py "inference.py")| [inference.py](/huggingface/pytorch-image-models/blob/main/inference.py "inference.py")| [Fix metavar for --input-size](/huggingface/pytorch-image-models/commit/634b68ae503e5631f0638451a5bcc393005b77e7 "Fix metavar for --input-size")| Jan 20, 2025  
+[onnx_export.py](/huggingface/pytorch-image-models/blob/main/onnx_export.py "onnx_export.py")| [onnx_export.py](/huggingface/pytorch-image-models/blob/main/onnx_export.py "onnx_export.py")| [Add support for dynamo based onnx export](/huggingface/pytorch-image-models/commit/ba641e07aeecbe4478be7678c589b314fe777611 "Add support for dynamo based onnx export")| Mar 13, 2024  
+[onnx_validate.py](/huggingface/pytorch-image-models/blob/main/onnx_validate.py "onnx_validate.py")| [onnx_validate.py](/huggingface/pytorch-image-models/blob/main/onnx_validate.py "onnx_validate.py")| [Add onnx utils and export code, tweak padding and conv2d_same for bet…](/huggingface/pytorch-image-models/commit/aef6e562e443876654ba6340d8f2b43594ce3c42 "Add onnx utils and export code, tweak padding and conv2d_same for better dynamic export with recent PyTorch")| Apr 12, 2023  
+[pyproject.toml](/huggingface/pytorch-image-models/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/huggingface/pytorch-image-models/blob/main/pyproject.toml "pyproject.toml")| [Next release will be 1.0 :o](/huggingface/pytorch-image-models/commit/de15b8b828abe1c924a693ac3d750efe85545019 "Next release will be 1.0 :o")| Apr 11, 2024  
+[requirements-dev.txt](/huggingface/pytorch-image-models/blob/main/requirements-dev.txt "requirements-dev.txt")| [requirements-dev.txt](/huggingface/pytorch-image-models/blob/main/requirements-dev.txt "requirements-dev.txt")| [CI: Split CI tests to run them in parallel (](/huggingface/pytorch-image-models/commit/10627bbd49b5a90e07d39a3404ad3c8569105825 "CI: Split CI tests to run them in parallel \(#1691\)
+* Split CI tests to run them in parallel
+The idea of this PR is to split tests into multiple sets that can be run
+in parallel by GH. For this, all tests in test_models.py that would run
+on GH get a pytest marker. The GH workflow matrix is factorized to run
+only a single marker. That way, only a subset of tests should run per
+worker, leading to quicker results.
+There is also a worker that runs all the tests that are not inside
+test_models.py.
+* \[skip ci\] empty commit to abort ci
+* Fix typo in marker name
+* Split fx into forward and backward
+* Comment out test coverage for now
+Checking if it's responsible for regression in CI runtime.
+* Remove pytest cov completely from requirements
+* Remove cov call in pyproject.toml
+Missed that one.")[#1691](https://github.com/huggingface/pytorch-image-models/pull/1691)[)](/huggingface/pytorch-image-models/commit/10627bbd49b5a90e07d39a3404ad3c8569105825 "CI: Split CI tests to run them in parallel \(#1691\)
+* Split CI tests to run them in parallel
+The idea of this PR is to split tests into multiple sets that can be run
+in parallel by GH. For this, all tests in test_models.py that would run
+on GH get a pytest marker. The GH workflow matrix is factorized to run
+only a single marker. That way, only a subset of tests should run per
+worker, leading to quicker results.
+There is also a worker that runs all the tests that are not inside
+test_models.py.
+* \[skip ci\] empty commit to abort ci
+* Fix typo in marker name
+* Split fx into forward and backward
+* Comment out test coverage for now
+Checking if it's responsible for regression in CI runtime.
+* Remove pytest cov completely from requirements
+* Remove cov call in pyproject.toml
+Missed that one.")| Feb 24, 2023  
+[requirements.txt](/huggingface/pytorch-image-models/blob/main/requirements.txt "requirements.txt")| [requirements.txt](/huggingface/pytorch-image-models/blob/main/requirements.txt "requirements.txt")| [Remove numpy ver constraint, not relevant for latest PyTorch version](/huggingface/pytorch-image-models/commit/c6b74eb5bd7ad7e96addeb9bf9bdfc34d088f1ac "Remove numpy ver constraint, not relevant for latest PyTorch version")| Jan 19, 2025  
+[setup.cfg](/huggingface/pytorch-image-models/blob/main/setup.cfg "setup.cfg")| [setup.cfg](/huggingface/pytorch-image-models/blob/main/setup.cfg "setup.cfg")| [Remove setup.py, replace with pyproject.toml and pdm helpers](/huggingface/pytorch-image-models/commit/01616aa314272768cdab317fb2d2fee5eb4beaab "Remove setup.py, replace with pyproject.toml and pdm helpers")| Feb 16, 2024  
+[train.py](/huggingface/pytorch-image-models/blob/main/train.py "train.py")| [train.py](/huggingface/pytorch-image-models/blob/main/train.py "train.py")| [add arguments to the respective argument groups](/huggingface/pytorch-image-models/commit/cb4cea561a3f39bcd6a3105c72d7e0b2b928bf44 "add arguments to the respective argument groups")| Jan 20, 2025  
+[validate.py](/huggingface/pytorch-image-models/blob/main/validate.py "validate.py")| [validate.py](/huggingface/pytorch-image-models/blob/main/validate.py "validate.py")| [Fix metavar for --input-size](/huggingface/pytorch-image-models/commit/634b68ae503e5631f0638451a5bcc393005b77e7 "Fix metavar for --input-size")| Jan 20, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [Apache-2.0 license](#)
+
+
+
+# PyTorch Image Models
+
+[](#pytorch-image-models)
+
+  * [What's New](#whats-new)
+  * [Introduction](#introduction)
+  * [Models](#models)
+  * [Features](#features)
+  * [Results](#results)
+  * [Getting Started (Documentation)](#getting-started-documentation)
+  * [Train, Validation, Inference Scripts](#train-validation-inference-scripts)
+  * [Awesome PyTorch Resources](#awesome-pytorch-resources)
+  * [Licenses](#licenses)
+  * [Citing](#citing)
+
+
+
+## What's New
+
+[](#whats-new)
+
+## Jan 19, 2025
+
+[](#jan-19-2025)
+
+  * Fix loading of LeViT safetensor weights, remove conversion code which should have been deactivated
+  * Add 'SO150M' ViT weights trained with SBB recipes, decent results, but not optimal shape for ImageNet-12k/1k pretrain/ft 
+    * `vit_so150m_patch16_reg4_gap_256.sbb_e250_in12k_ft_in1k` - 86.7% top-1
+    * `vit_so150m_patch16_reg4_gap_384.sbb_e250_in12k_ft_in1k` - 87.4% top-1
+    * `vit_so150m_patch16_reg4_gap_256.sbb_e250_in12k`
+  * Misc typing, typo, etc. cleanup
+  * 1.0.14 release to get above LeViT fix out
+
+
+
+## Jan 9, 2025
+
+[](#jan-9-2025)
+
+  * Add support to train and validate in pure `bfloat16` or `float16`
+  * `wandb` project name arg added by <https://github.com/caojiaolong>, use arg.experiment for name
+  * Fix old issue w/ checkpoint saving not working on filesystem w/o hard-link support (e.g. FUSE fs mounts)
+  * 1.0.13 release
+
+
+
+## Jan 6, 2025
+
+[](#jan-6-2025)
+
+  * Add `torch.utils.checkpoint.checkpoint()` wrapper in `timm.models` that defaults `use_reentrant=False`, unless `TIMM_REENTRANT_CKPT=1` is set in env.
+
+
+
+## Dec 31, 2024
+
+[](#dec-31-2024)
+
+  * `convnext_nano` 384x384 ImageNet-12k pretrain & fine-tune. <https://huggingface.co/models?search=convnext_nano%20r384>
+  * Add AIM-v2 encoders from <https://github.com/apple/ml-aim>, see on Hub: <https://huggingface.co/models?search=timm%20aimv2>
+  * Add PaliGemma2 encoders from <https://github.com/google-research/big_vision> to existing PaliGemma, see on Hub: <https://huggingface.co/models?search=timm%20pali2>
+  * Add missing L/14 DFN2B 39B CLIP ViT, `vit_large_patch14_clip_224.dfn2b_s39b`
+  * Fix existing `RmsNorm` layer & fn to match standard formulation, use PT 2.5 impl when possible. Move old impl to `SimpleNorm` layer, it's LN w/o centering or bias. There were only two `timm` models using it, and they have been updated.
+  * Allow override of `cache_dir` arg for model creation
+  * Pass through `trust_remote_code` for HF datasets wrapper
+  * `inception_next_atto` model added by creator
+  * Adan optimizer caution, and Lamb decoupled weighgt decay options
+  * Some feature_info metadata fixed by <https://github.com/brianhou0208>
+  * All OpenCLIP and JAX (CLIP, SigLIP, Pali, etc) model weights that used load time remapping were given their own HF Hub instances so that they work with `hf-hub:` based loading, and thus will work with new Transformers `TimmWrapperModel`
+
+
+
+## Nov 28, 2024
+
+[](#nov-28-2024)
+
+  * More optimizers 
+    * Add MARS optimizer (<https://arxiv.org/abs/2411.10438>, <https://github.com/AGI-Arena/MARS>)
+    * Add LaProp optimizer (<https://arxiv.org/abs/2002.04839>, <https://github.com/Z-T-WANG/LaProp-Optimizer>)
+    * Add masking from 'Cautious Optimizers' (<https://arxiv.org/abs/2411.16085>, <https://github.com/kyleliang919/C-Optim>) to Adafactor, Adafactor Big Vision, AdamW (legacy), Adopt, Lamb, LaProp, Lion, NadamW, RMSPropTF, SGDW
+    * Cleanup some docstrings and type annotations re optimizers and factory
+  * Add MobileNet-V4 Conv Medium models pretrained on in12k and fine-tuned in1k @ 384x384 
+    * <https://huggingface.co/timm/mobilenetv4_conv_medium.e250_r384_in12k_ft_in1k>
+    * <https://huggingface.co/timm/mobilenetv4_conv_medium.e250_r384_in12k>
+    * <https://huggingface.co/timm/mobilenetv4_conv_medium.e180_ad_r384_in12k>
+    * <https://huggingface.co/timm/mobilenetv4_conv_medium.e180_r384_in12k>
+  * Add small cs3darknet, quite good for the speed 
+    * <https://huggingface.co/timm/cs3darknet_focus_s.ra4_e3600_r256_in1k>
+
+
+
+## Nov 12, 2024
+
+[](#nov-12-2024)
+
+  * Optimizer factory refactor 
+    * New factory works by registering optimizers using an OptimInfo dataclass w/ some key traits
+    * Add `list_optimizers`, `get_optimizer_class`, `get_optimizer_info` to reworked `create_optimizer_v2` fn to explore optimizers, get info or class
+    * deprecate `optim.optim_factory`, move fns to `optim/_optim_factory.py` and `optim/_param_groups.py` and encourage import via `timm.optim`
+  * Add Adopt (<https://github.com/iShohei220/adopt>) optimizer
+  * Add 'Big Vision' variant of Adafactor (<https://github.com/google-research/big_vision/blob/main/big_vision/optax.py>) optimizer
+  * Fix original Adafactor to pick better factorization dims for convolutions
+  * Tweak LAMB optimizer with some improvements in torch.where functionality since original, refactor clipping a bit
+  * dynamic img size support in vit, deit, eva improved to support resize from non-square patch grids, thanks <https://github.com/wojtke>
+
+
+
+## Oct 31, 2024
+
+[](#oct-31-2024)
+
+Add a set of new very well trained ResNet & ResNet-V2 18/34 (basic block) weights. See <https://huggingface.co/blog/rwightman/resnet-trick-or-treat>
+
+## Oct 19, 2024
+
+[](#oct-19-2024)
+
+  * Cleanup torch amp usage to avoid cuda specific calls, merge support for Ascend (NPU) devices from [MengqingCao](https://github.com/MengqingCao) that should work now in PyTorch 2.5 w/ new device extension autoloading feature. Tested Intel Arc (XPU) in Pytorch 2.5 too and it (mostly) worked.
+
+
+
+## Oct 16, 2024
+
+[](#oct-16-2024)
+
+  * Fix error on importing from deprecated path `timm.models.registry`, increased priority of existing deprecation warnings to be visible
+  * Port weights of InternViT-300M (<https://huggingface.co/OpenGVLab/InternViT-300M-448px>) to `timm` as `vit_intern300m_patch14_448`
+
+
+
+### Oct 14, 2024
+
+[](#oct-14-2024)
+
+  * Pre-activation (ResNetV2) version of 18/18d/34/34d ResNet model defs added by request (weights pending)
+  * Release 1.0.10
+
+
+
+### Oct 11, 2024
+
+[](#oct-11-2024)
+
+  * MambaOut (<https://github.com/yuweihao/MambaOut>) model & weights added. A cheeky take on SSM vision models w/o the SSM (essentially ConvNeXt w/ gating). A mix of original weights + custom variations & weights.
+
+model | img_size | top1 | top5 | param_count  
+---|---|---|---|---  
+[mambaout_base_plus_rw.sw_e150_r384_in12k_ft_in1k](http://huggingface.co/timm/mambaout_base_plus_rw.sw_e150_r384_in12k_ft_in1k) | 384 | 87.506 | 98.428 | 101.66  
+[mambaout_base_plus_rw.sw_e150_in12k_ft_in1k](http://huggingface.co/timm/mambaout_base_plus_rw.sw_e150_in12k_ft_in1k) | 288 | 86.912 | 98.236 | 101.66  
+[mambaout_base_plus_rw.sw_e150_in12k_ft_in1k](http://huggingface.co/timm/mambaout_base_plus_rw.sw_e150_in12k_ft_in1k) | 224 | 86.632 | 98.156 | 101.66  
+[mambaout_base_tall_rw.sw_e500_in1k](http://huggingface.co/timm/mambaout_base_tall_rw.sw_e500_in1k) | 288 | 84.974 | 97.332 | 86.48  
+[mambaout_base_wide_rw.sw_e500_in1k](http://huggingface.co/timm/mambaout_base_wide_rw.sw_e500_in1k) | 288 | 84.962 | 97.208 | 94.45  
+[mambaout_base_short_rw.sw_e500_in1k](http://huggingface.co/timm/mambaout_base_short_rw.sw_e500_in1k) | 288 | 84.832 | 97.27 | 88.83  
+[mambaout_base.in1k](http://huggingface.co/timm/mambaout_base.in1k) | 288 | 84.72 | 96.93 | 84.81  
+[mambaout_small_rw.sw_e450_in1k](http://huggingface.co/timm/mambaout_small_rw.sw_e450_in1k) | 288 | 84.598 | 97.098 | 48.5  
+[mambaout_small.in1k](http://huggingface.co/timm/mambaout_small.in1k) | 288 | 84.5 | 96.974 | 48.49  
+[mambaout_base_wide_rw.sw_e500_in1k](http://huggingface.co/timm/mambaout_base_wide_rw.sw_e500_in1k) | 224 | 84.454 | 96.864 | 94.45  
+[mambaout_base_tall_rw.sw_e500_in1k](http://huggingface.co/timm/mambaout_base_tall_rw.sw_e500_in1k) | 224 | 84.434 | 96.958 | 86.48  
+[mambaout_base_short_rw.sw_e500_in1k](http://huggingface.co/timm/mambaout_base_short_rw.sw_e500_in1k) | 224 | 84.362 | 96.952 | 88.83  
+[mambaout_base.in1k](http://huggingface.co/timm/mambaout_base.in1k) | 224 | 84.168 | 96.68 | 84.81  
+[mambaout_small.in1k](http://huggingface.co/timm/mambaout_small.in1k) | 224 | 84.086 | 96.63 | 48.49  
+[mambaout_small_rw.sw_e450_in1k](http://huggingface.co/timm/mambaout_small_rw.sw_e450_in1k) | 224 | 84.024 | 96.752 | 48.5  
+[mambaout_tiny.in1k](http://huggingface.co/timm/mambaout_tiny.in1k) | 288 | 83.448 | 96.538 | 26.55  
+[mambaout_tiny.in1k](http://huggingface.co/timm/mambaout_tiny.in1k) | 224 | 82.736 | 96.1 | 26.55  
+[mambaout_kobe.in1k](http://huggingface.co/timm/mambaout_kobe.in1k) | 288 | 81.054 | 95.718 | 9.14  
+[mambaout_kobe.in1k](http://huggingface.co/timm/mambaout_kobe.in1k) | 224 | 79.986 | 94.986 | 9.14  
+[mambaout_femto.in1k](http://huggingface.co/timm/mambaout_femto.in1k) | 288 | 79.848 | 95.14 | 7.3  
+[mambaout_femto.in1k](http://huggingface.co/timm/mambaout_femto.in1k) | 224 | 78.87 | 94.408 | 7.3  
+  
+  * SigLIP SO400M ViT fine-tunes on ImageNet-1k @ 378x378, added 378x378 option for existing SigLIP 384x384 models 
+    * [vit_so400m_patch14_siglip_378.webli_ft_in1k](https://huggingface.co/timm/vit_so400m_patch14_siglip_378.webli_ft_in1k) - 89.42 top-1
+    * [vit_so400m_patch14_siglip_gap_378.webli_ft_in1k](https://huggingface.co/timm/vit_so400m_patch14_siglip_gap_378.webli_ft_in1k) - 89.03
+  * SigLIP SO400M ViT encoder from recent multi-lingual (i18n) variant, patch16 @ 256x256 (<https://huggingface.co/timm/ViT-SO400M-16-SigLIP-i18n-256>). OpenCLIP update pending.
+  * Add two ConvNeXt 'Zepto' models & weights (one w/ overlapped stem and one w/ patch stem). Uses RMSNorm, smaller than previous 'Atto', 2.2M params. 
+    * [convnext_zepto_rms_ols.ra4_e3600_r224_in1k](https://huggingface.co/timm/convnext_zepto_rms_ols.ra4_e3600_r224_in1k) - 73.20 top-1 @ 224
+    * [convnext_zepto_rms.ra4_e3600_r224_in1k](https://huggingface.co/timm/convnext_zepto_rms.ra4_e3600_r224_in1k) - 72.81 @ 224
+
+
+
+### Sept 2024
+
+[](#sept-2024)
+
+  * Add a suite of tiny test models for improved unit tests and niche low-resource applications (<https://huggingface.co/blog/rwightman/timm-tiny-test>)
+  * Add MobileNetV4-Conv-Small (0.5x) model (<https://huggingface.co/posts/rwightman/793053396198664>) 
+    * [mobilenetv4_conv_small_050.e3000_r224_in1k](http://hf.co/timm/mobilenetv4_conv_small_050.e3000_r224_in1k) - 65.81 top-1 @ 256, 64.76 @ 224
+  * Add MobileNetV3-Large variants trained with MNV4 Small recipe 
+    * [mobilenetv3_large_150d.ra4_e3600_r256_in1k](http://hf.co/timm/mobilenetv3_large_150d.ra4_e3600_r256_in1k) - 81.81 @ 320, 80.94 @ 256
+    * [mobilenetv3_large_100.ra4_e3600_r224_in1k](http://hf.co/timm/mobilenetv3_large_100.ra4_e3600_r224_in1k) - 77.16 @ 256, 76.31 @ 224
+
+
+
+### Aug 21, 2024
+
+[](#aug-21-2024)
+
+  * Updated SBB ViT models trained on ImageNet-12k and fine-tuned on ImageNet-1k, challenging quite a number of much larger, slower models
+
+model | top1 | top5 | param_count | img_size  
+---|---|---|---|---  
+[vit_mediumd_patch16_reg4_gap_384.sbb2_e200_in12k_ft_in1k](https://huggingface.co/timm/vit_mediumd_patch16_reg4_gap_384.sbb2_e200_in12k_ft_in1k) | 87.438 | 98.256 | 64.11 | 384  
+[vit_mediumd_patch16_reg4_gap_256.sbb2_e200_in12k_ft_in1k](https://huggingface.co/timm/vit_mediumd_patch16_reg4_gap_256.sbb2_e200_in12k_ft_in1k) | 86.608 | 97.934 | 64.11 | 256  
+[vit_betwixt_patch16_reg4_gap_384.sbb2_e200_in12k_ft_in1k](https://huggingface.co/timm/vit_betwixt_patch16_reg4_gap_384.sbb2_e200_in12k_ft_in1k) | 86.594 | 98.02 | 60.4 | 384  
+[vit_betwixt_patch16_reg4_gap_256.sbb2_e200_in12k_ft_in1k](https://huggingface.co/timm/vit_betwixt_patch16_reg4_gap_256.sbb2_e200_in12k_ft_in1k) | 85.734 | 97.61 | 60.4 | 256  
+  
+  * MobileNet-V1 1.25, EfficientNet-B1, & ResNet50-D weights w/ MNV4 baseline challenge recipe
+
+model | top1 | top5 | param_count | img_size  
+---|---|---|---|---  
+[resnet50d.ra4_e3600_r224_in1k](http://hf.co/timm/resnet50d.ra4_e3600_r224_in1k) | 81.838 | 95.922 | 25.58 | 288  
+[efficientnet_b1.ra4_e3600_r240_in1k](http://hf.co/timm/efficientnet_b1.ra4_e3600_r240_in1k) | 81.440 | 95.700 | 7.79 | 288  
+[resnet50d.ra4_e3600_r224_in1k](http://hf.co/timm/resnet50d.ra4_e3600_r224_in1k) | 80.952 | 95.384 | 25.58 | 224  
+[efficientnet_b1.ra4_e3600_r240_in1k](http://hf.co/timm/efficientnet_b1.ra4_e3600_r240_in1k) | 80.406 | 95.152 | 7.79 | 240  
+[mobilenetv1_125.ra4_e3600_r224_in1k](http://hf.co/timm/mobilenetv1_125.ra4_e3600_r224_in1k) | 77.600 | 93.804 | 6.27 | 256  
+[mobilenetv1_125.ra4_e3600_r224_in1k](http://hf.co/timm/mobilenetv1_125.ra4_e3600_r224_in1k) | 76.924 | 93.234 | 6.27 | 224  
+  
+  * Add SAM2 (HieraDet) backbone arch & weight loading support
+  * Add Hiera Small weights trained w/ abswin pos embed on in12k & fine-tuned on 1k
+
+model | top1 | top5 | param_count  
+---|---|---|---  
+hiera_small_abswin_256.sbb2_e200_in12k_ft_in1k | 84.912 | 97.260 | 35.01  
+hiera_small_abswin_256.sbb2_pd_e200_in12k_ft_in1k | 84.560 | 97.106 | 35.01  
+  
+### Aug 8, 2024
+
+[](#aug-8-2024)
+
+  * Add RDNet ('DenseNets Reloaded', <https://arxiv.org/abs/2403.19588>), thanks [Donghyun Kim](https://github.com/dhkim0225)
+
+
+
+### July 28, 2024
+
+[](#july-28-2024)
+
+  * Add `mobilenet_edgetpu_v2_m` weights w/ `ra4` mnv4-small based recipe. 80.1% top-1 @ 224 and 80.7 @ 256.
+  * Release 1.0.8
+
+
+
+### July 26, 2024
+
+[](#july-26-2024)
+
+  * More MobileNet-v4 weights, ImageNet-12k pretrain w/ fine-tunes, and anti-aliased ConvLarge models
+
+model | top1 | top1_err | top5 | top5_err | param_count | img_size  
+---|---|---|---|---|---|---  
+[mobilenetv4_conv_aa_large.e230_r448_in12k_ft_in1k](http://hf.co/timm/mobilenetv4_conv_aa_large.e230_r448_in12k_ft_in1k) | 84.99 | 15.01 | 97.294 | 2.706 | 32.59 | 544  
+[mobilenetv4_conv_aa_large.e230_r384_in12k_ft_in1k](http://hf.co/timm/mobilenetv4_conv_aa_large.e230_r384_in12k_ft_in1k) | 84.772 | 15.228 | 97.344 | 2.656 | 32.59 | 480  
+[mobilenetv4_conv_aa_large.e230_r448_in12k_ft_in1k](http://hf.co/timm/mobilenetv4_conv_aa_large.e230_r448_in12k_ft_in1k) | 84.64 | 15.36 | 97.114 | 2.886 | 32.59 | 448  
+[mobilenetv4_conv_aa_large.e230_r384_in12k_ft_in1k](http://hf.co/timm/mobilenetv4_conv_aa_large.e230_r384_in12k_ft_in1k) | 84.314 | 15.686 | 97.102 | 2.898 | 32.59 | 384  
+[mobilenetv4_conv_aa_large.e600_r384_in1k](http://hf.co/timm/mobilenetv4_conv_aa_large.e600_r384_in1k) | 83.824 | 16.176 | 96.734 | 3.266 | 32.59 | 480  
+[mobilenetv4_conv_aa_large.e600_r384_in1k](http://hf.co/timm/mobilenetv4_conv_aa_large.e600_r384_in1k) | 83.244 | 16.756 | 96.392 | 3.608 | 32.59 | 384  
+[mobilenetv4_hybrid_medium.e200_r256_in12k_ft_in1k](http://hf.co/timm/mobilenetv4_hybrid_medium.e200_r256_in12k_ft_in1k) | 82.99 | 17.01 | 96.67 | 3.33 | 11.07 | 320  
+[mobilenetv4_hybrid_medium.e200_r256_in12k_ft_in1k](http://hf.co/timm/mobilenetv4_hybrid_medium.e200_r256_in12k_ft_in1k) | 82.364 | 17.636 | 96.256 | 3.744 | 11.07 | 256  
+  
+  * Impressive MobileNet-V1 and EfficientNet-B0 baseline challenges (<https://huggingface.co/blog/rwightman/mobilenet-baselines>)
+
+model | top1 | top1_err | top5 | top5_err | param_count | img_size  
+---|---|---|---|---|---|---  
+[efficientnet_b0.ra4_e3600_r224_in1k](http://hf.co/timm/efficientnet_b0.ra4_e3600_r224_in1k) | 79.364 | 20.636 | 94.754 | 5.246 | 5.29 | 256  
+[efficientnet_b0.ra4_e3600_r224_in1k](http://hf.co/timm/efficientnet_b0.ra4_e3600_r224_in1k) | 78.584 | 21.416 | 94.338 | 5.662 | 5.29 | 224  
+[mobilenetv1_100h.ra4_e3600_r224_in1k](http://hf.co/timm/mobilenetv1_100h.ra4_e3600_r224_in1k) | 76.596 | 23.404 | 93.272 | 6.728 | 5.28 | 256  
+[mobilenetv1_100.ra4_e3600_r224_in1k](http://hf.co/timm/mobilenetv1_100.ra4_e3600_r224_in1k) | 76.094 | 23.906 | 93.004 | 6.996 | 4.23 | 256  
+[mobilenetv1_100h.ra4_e3600_r224_in1k](http://hf.co/timm/mobilenetv1_100h.ra4_e3600_r224_in1k) | 75.662 | 24.338 | 92.504 | 7.496 | 5.28 | 224  
+[mobilenetv1_100.ra4_e3600_r224_in1k](http://hf.co/timm/mobilenetv1_100.ra4_e3600_r224_in1k) | 75.382 | 24.618 | 92.312 | 7.688 | 4.23 | 224  
+  
+  * Prototype of `set_input_size()` added to vit and swin v1/v2 models to allow changing image size, patch size, window size after model creation.
+  * Improved support in swin for different size handling, in addition to `set_input_size`, `always_partition` and `strict_img_size` args have been added to `__init__` to allow more flexible input size constraints
+  * Fix out of order indices info for intermediate 'Getter' feature wrapper, check out or range indices for same.
+  * Add several `tiny` < .5M param models for testing that are actually trained on ImageNet-1k
+
+model | top1 | top1_err | top5 | top5_err | param_count | img_size | crop_pct  
+---|---|---|---|---|---|---|---  
+test_efficientnet.r160_in1k | 47.156 | 52.844 | 71.726 | 28.274 | 0.36 | 192 | 1.0  
+test_byobnet.r160_in1k | 46.698 | 53.302 | 71.674 | 28.326 | 0.46 | 192 | 1.0  
+test_efficientnet.r160_in1k | 46.426 | 53.574 | 70.928 | 29.072 | 0.36 | 160 | 0.875  
+test_byobnet.r160_in1k | 45.378 | 54.622 | 70.572 | 29.428 | 0.46 | 160 | 0.875  
+test_vit.r160_in1k | 42.0 | 58.0 | 68.664 | 31.336 | 0.37 | 192 | 1.0  
+test_vit.r160_in1k | 40.822 | 59.178 | 67.212 | 32.788 | 0.37 | 160 | 0.875  
+  
+  * Fix vit reg token init, thanks [Promisery](https://github.com/Promisery)
+  * Other misc fixes
+
+
+
+### June 24, 2024
+
+[](#june-24-2024)
+
+  * 3 more MobileNetV4 hyrid weights with different MQA weight init scheme
+
+model | top1 | top1_err | top5 | top5_err | param_count | img_size  
+---|---|---|---|---|---|---  
+[mobilenetv4_hybrid_large.ix_e600_r384_in1k](http://hf.co/timm/mobilenetv4_hybrid_large.ix_e600_r384_in1k) | 84.356 | 15.644 | 96.892 | 3.108 | 37.76 | 448  
+[mobilenetv4_hybrid_large.ix_e600_r384_in1k](http://hf.co/timm/mobilenetv4_hybrid_large.ix_e600_r384_in1k) | 83.990 | 16.010 | 96.702 | 3.298 | 37.76 | 384  
+[mobilenetv4_hybrid_medium.ix_e550_r384_in1k](http://hf.co/timm/mobilenetv4_hybrid_medium.ix_e550_r384_in1k) | 83.394 | 16.606 | 96.760 | 3.240 | 11.07 | 448  
+[mobilenetv4_hybrid_medium.ix_e550_r384_in1k](http://hf.co/timm/mobilenetv4_hybrid_medium.ix_e550_r384_in1k) | 82.968 | 17.032 | 96.474 | 3.526 | 11.07 | 384  
+[mobilenetv4_hybrid_medium.ix_e550_r256_in1k](http://hf.co/timm/mobilenetv4_hybrid_medium.ix_e550_r256_in1k) | 82.492 | 17.508 | 96.278 | 3.722 | 11.07 | 320  
+[mobilenetv4_hybrid_medium.ix_e550_r256_in1k](http://hf.co/timm/mobilenetv4_hybrid_medium.ix_e550_r256_in1k) | 81.446 | 18.554 | 95.704 | 4.296 | 11.07 | 256  
+  
+  * florence2 weight loading in DaViT model
+
+
+
+### June 12, 2024
+
+[](#june-12-2024)
+
+  * MobileNetV4 models and initial set of `timm` trained weights added:
+
+model | top1 | top1_err | top5 | top5_err | param_count | img_size  
+---|---|---|---|---|---|---  
+[mobilenetv4_hybrid_large.e600_r384_in1k](http://hf.co/timm/mobilenetv4_hybrid_large.e600_r384_in1k) | 84.266 | 15.734 | 96.936 | 3.064 | 37.76 | 448  
+[mobilenetv4_hybrid_large.e600_r384_in1k](http://hf.co/timm/mobilenetv4_hybrid_large.e600_r384_in1k) | 83.800 | 16.200 | 96.770 | 3.230 | 37.76 | 384  
+[mobilenetv4_conv_large.e600_r384_in1k](http://hf.co/timm/mobilenetv4_conv_large.e600_r384_in1k) | 83.392 | 16.608 | 96.622 | 3.378 | 32.59 | 448  
+[mobilenetv4_conv_large.e600_r384_in1k](http://hf.co/timm/mobilenetv4_conv_large.e600_r384_in1k) | 82.952 | 17.048 | 96.266 | 3.734 | 32.59 | 384  
+[mobilenetv4_conv_large.e500_r256_in1k](http://hf.co/timm/mobilenetv4_conv_large.e500_r256_in1k) | 82.674 | 17.326 | 96.31 | 3.69 | 32.59 | 320  
+[mobilenetv4_conv_large.e500_r256_in1k](http://hf.co/timm/mobilenetv4_conv_large.e500_r256_in1k) | 81.862 | 18.138 | 95.69 | 4.31 | 32.59 | 256  
+[mobilenetv4_hybrid_medium.e500_r224_in1k](http://hf.co/timm/mobilenetv4_hybrid_medium.e500_r224_in1k) | 81.276 | 18.724 | 95.742 | 4.258 | 11.07 | 256  
+[mobilenetv4_conv_medium.e500_r256_in1k](http://hf.co/timm/mobilenetv4_conv_medium.e500_r256_in1k) | 80.858 | 19.142 | 95.768 | 4.232 | 9.72 | 320  
+[mobilenetv4_hybrid_medium.e500_r224_in1k](http://hf.co/timm/mobilenetv4_hybrid_medium.e500_r224_in1k) | 80.442 | 19.558 | 95.38 | 4.62 | 11.07 | 224  
+[mobilenetv4_conv_blur_medium.e500_r224_in1k](http://hf.co/timm/mobilenetv4_conv_blur_medium.e500_r224_in1k) | 80.142 | 19.858 | 95.298 | 4.702 | 9.72 | 256  
+[mobilenetv4_conv_medium.e500_r256_in1k](http://hf.co/timm/mobilenetv4_conv_medium.e500_r256_in1k) | 79.928 | 20.072 | 95.184 | 4.816 | 9.72 | 256  
+[mobilenetv4_conv_medium.e500_r224_in1k](http://hf.co/timm/mobilenetv4_conv_medium.e500_r224_in1k) | 79.808 | 20.192 | 95.186 | 4.814 | 9.72 | 256  
+[mobilenetv4_conv_blur_medium.e500_r224_in1k](http://hf.co/timm/mobilenetv4_conv_blur_medium.e500_r224_in1k) | 79.438 | 20.562 | 94.932 | 5.068 | 9.72 | 224  
+[mobilenetv4_conv_medium.e500_r224_in1k](http://hf.co/timm/mobilenetv4_conv_medium.e500_r224_in1k) | 79.094 | 20.906 | 94.77 | 5.23 | 9.72 | 224  
+[mobilenetv4_conv_small.e2400_r224_in1k](http://hf.co/timm/mobilenetv4_conv_small.e2400_r224_in1k) | 74.616 | 25.384 | 92.072 | 7.928 | 3.77 | 256  
+[mobilenetv4_conv_small.e1200_r224_in1k](http://hf.co/timm/mobilenetv4_conv_small.e1200_r224_in1k) | 74.292 | 25.708 | 92.116 | 7.884 | 3.77 | 256  
+[mobilenetv4_conv_small.e2400_r224_in1k](http://hf.co/timm/mobilenetv4_conv_small.e2400_r224_in1k) | 73.756 | 26.244 | 91.422 | 8.578 | 3.77 | 224  
+[mobilenetv4_conv_small.e1200_r224_in1k](http://hf.co/timm/mobilenetv4_conv_small.e1200_r224_in1k) | 73.454 | 26.546 | 91.34 | 8.66 | 3.77 | 224  
+  
+  * Apple MobileCLIP (<https://arxiv.org/pdf/2311.17049>, FastViT and ViT-B) image tower model support & weights added (part of OpenCLIP support).
+  * ViTamin (<https://arxiv.org/abs/2404.02132>) CLIP image tower model & weights added (part of OpenCLIP support).
+  * OpenAI CLIP Modified ResNet image tower modelling & weight support (via ByobNet). Refactor AttentionPool2d.
+
+
+
+### May 14, 2024
+
+[](#may-14-2024)
+
+  * Support loading PaliGemma jax weights into SigLIP ViT models with average pooling.
+  * Add Hiera models from Meta (<https://github.com/facebookresearch/hiera>).
+  * Add `normalize=` flag for transforms, return non-normalized torch.Tensor with original dytpe (for `chug`)
+  * Version 1.0.3 release
+
+
+
+### May 11, 2024
+
+[](#may-11-2024)
+
+  * `Searching for Better ViT Baselines (For the GPU Poor)` weights and vit variants released. Exploring model shapes between Tiny and Base.
+
+model | top1 | top5 | param_count | img_size  
+---|---|---|---|---  
+[vit_mediumd_patch16_reg4_gap_256.sbb_in12k_ft_in1k](https://huggingface.co/timm/vit_mediumd_patch16_reg4_gap_256.sbb_in12k_ft_in1k) | 86.202 | 97.874 | 64.11 | 256  
+[vit_betwixt_patch16_reg4_gap_256.sbb_in12k_ft_in1k](https://huggingface.co/timm/vit_betwixt_patch16_reg4_gap_256.sbb_in12k_ft_in1k) | 85.418 | 97.48 | 60.4 | 256  
+[vit_mediumd_patch16_rope_reg1_gap_256.sbb_in1k](https://huggingface.co/timm/vit_mediumd_patch16_rope_reg1_gap_256.sbb_in1k) | 84.322 | 96.812 | 63.95 | 256  
+[vit_betwixt_patch16_rope_reg4_gap_256.sbb_in1k](https://huggingface.co/timm/vit_betwixt_patch16_rope_reg4_gap_256.sbb_in1k) | 83.906 | 96.684 | 60.23 | 256  
+[vit_base_patch16_rope_reg1_gap_256.sbb_in1k](https://huggingface.co/timm/vit_base_patch16_rope_reg1_gap_256.sbb_in1k) | 83.866 | 96.67 | 86.43 | 256  
+[vit_medium_patch16_rope_reg1_gap_256.sbb_in1k](https://huggingface.co/timm/vit_medium_patch16_rope_reg1_gap_256.sbb_in1k) | 83.81 | 96.824 | 38.74 | 256  
+[vit_betwixt_patch16_reg4_gap_256.sbb_in1k](https://huggingface.co/timm/vit_betwixt_patch16_reg4_gap_256.sbb_in1k) | 83.706 | 96.616 | 60.4 | 256  
+[vit_betwixt_patch16_reg1_gap_256.sbb_in1k](https://huggingface.co/timm/vit_betwixt_patch16_reg1_gap_256.sbb_in1k) | 83.628 | 96.544 | 60.4 | 256  
+[vit_medium_patch16_reg4_gap_256.sbb_in1k](https://huggingface.co/timm/vit_medium_patch16_reg4_gap_256.sbb_in1k) | 83.47 | 96.622 | 38.88 | 256  
+[vit_medium_patch16_reg1_gap_256.sbb_in1k](https://huggingface.co/timm/vit_medium_patch16_reg1_gap_256.sbb_in1k) | 83.462 | 96.548 | 38.88 | 256  
+[vit_little_patch16_reg4_gap_256.sbb_in1k](https://huggingface.co/timm/vit_little_patch16_reg4_gap_256.sbb_in1k) | 82.514 | 96.262 | 22.52 | 256  
+[vit_wee_patch16_reg1_gap_256.sbb_in1k](https://huggingface.co/timm/vit_wee_patch16_reg1_gap_256.sbb_in1k) | 80.256 | 95.360 | 13.42 | 256  
+[vit_pwee_patch16_reg1_gap_256.sbb_in1k](https://huggingface.co/timm/vit_pwee_patch16_reg1_gap_256.sbb_in1k) | 80.072 | 95.136 | 15.25 | 256  
+[vit_mediumd_patch16_reg4_gap_256.sbb_in12k](https://huggingface.co/timm/vit_mediumd_patch16_reg4_gap_256.sbb_in12k) | N/A | N/A | 64.11 | 256  
+[vit_betwixt_patch16_reg4_gap_256.sbb_in12k](https://huggingface.co/timm/vit_betwixt_patch16_reg4_gap_256.sbb_in12k) | N/A | N/A | 60.4 | 256  
+  
+  * AttentionExtract helper added to extract attention maps from `timm` models. See example in [#1232 (comment)](https://github.com/huggingface/pytorch-image-models/discussions/1232#discussioncomment-9320949)
+  * `forward_intermediates()` API refined and added to more models including some ConvNets that have other extraction methods.
+  * 1017 of 1047 model architectures support `features_only=True` feature extraction. Remaining 34 architectures can be supported but based on priority requests.
+  * Remove torch.jit.script annotated functions including old JIT activations. Conflict with dynamo and dynamo does a much better job when used.
+
+
+
+### April 11, 2024
+
+[](#april-11-2024)
+
+  * Prepping for a long overdue 1.0 release, things have been stable for a while now.
+  * Significant feature that's been missing for a while, `features_only=True` support for ViT models with flat hidden states or non-std module layouts (so far covering `'vit_*', 'twins_*', 'deit*', 'beit*', 'mvitv2*', 'eva*', 'samvit_*', 'flexivit*'`)
+  * Above feature support achieved through a new `forward_intermediates()` API that can be used with a feature wrapping module or directly.
+
+
+
+```
+model = timm.create_model('vit_base_patch16_224') final_feat, intermediates = model.forward_intermediates(input) output = model.forward_head(final_feat) # pooling + classifier head print(final_feat.shape) torch.Size([2, 197, 768]) for f in intermediates: print(f.shape) torch.Size([2, 768, 14, 14]) torch.Size([2, 768, 14, 14]) torch.Size([2, 768, 14, 14]) torch.Size([2, 768, 14, 14]) torch.Size([2, 768, 14, 14]) torch.Size([2, 768, 14, 14]) torch.Size([2, 768, 14, 14]) torch.Size([2, 768, 14, 14]) torch.Size([2, 768, 14, 14]) torch.Size([2, 768, 14, 14]) torch.Size([2, 768, 14, 14]) torch.Size([2, 768, 14, 14]) print(output.shape) torch.Size([2, 1000])
+```
+
+```
+model = timm.create_model('eva02_base_patch16_clip_224', pretrained=True, img_size=512, features_only=True, out_indices=(-3, -2,)) output = model(torch.randn(2, 3, 512, 512)) for o in output: print(o.shape) torch.Size([2, 768, 32, 32]) torch.Size([2, 768, 32, 32])
+```
+
+  * TinyCLIP vision tower weights added, thx [Thien Tran](https://github.com/gau-nernst)
+
+
+
+### Feb 19, 2024
+
+[](#feb-19-2024)
+
+  * Next-ViT models added. Adapted from <https://github.com/bytedance/Next-ViT>
+  * HGNet and PP-HGNetV2 models added. Adapted from <https://github.com/PaddlePaddle/PaddleClas> by [SeeFun](https://github.com/seefun)
+  * Removed setup.py, moved to pyproject.toml based build supported by PDM
+  * Add updated model EMA impl using _for_each for less overhead
+  * Support device args in train script for non GPU devices
+  * Other misc fixes and small additions
+  * Min supported Python version increased to 3.8
+  * Release 0.9.16
+
+
+
+## Introduction
+
+[](#introduction)
+
+Py**T** orch **Im** age **M** odels (`timm`) is a collection of image models, layers, utilities, optimizers, schedulers, data-loaders / augmentations, and reference training / validation scripts that aim to pull together a wide variety of SOTA models with ability to reproduce ImageNet training results.
+
+The work of many others is present here. I've tried to make sure all source material is acknowledged via links to github, arxiv papers, etc in the README, documentation, and code docstrings. Please let me know if I missed anything.
+
+## Features
+
+[](#features)
+
+### Models
+
+[](#models)
+
+All model architecture families include variants with pretrained weights. There are specific model variants without any weights, it is NOT a bug. Help training new or better weights is always appreciated.
+
+  * Aggregating Nested Transformers - <https://arxiv.org/abs/2105.12723>
+  * BEiT - <https://arxiv.org/abs/2106.08254>
+  * Big Transfer ResNetV2 (BiT) - <https://arxiv.org/abs/1912.11370>
+  * Bottleneck Transformers - <https://arxiv.org/abs/2101.11605>
+  * CaiT (Class-Attention in Image Transformers) - <https://arxiv.org/abs/2103.17239>
+  * CoaT (Co-Scale Conv-Attentional Image Transformers) - <https://arxiv.org/abs/2104.06399>
+  * CoAtNet (Convolution and Attention) - <https://arxiv.org/abs/2106.04803>
+  * ConvNeXt - <https://arxiv.org/abs/2201.03545>
+  * ConvNeXt-V2 - <http://arxiv.org/abs/2301.00808>
+  * ConViT (Soft Convolutional Inductive Biases Vision Transformers)- <https://arxiv.org/abs/2103.10697>
+  * CspNet (Cross-Stage Partial Networks) - <https://arxiv.org/abs/1911.11929>
+  * DeiT - <https://arxiv.org/abs/2012.12877>
+  * DeiT-III - <https://arxiv.org/pdf/2204.07118.pdf>
+  * DenseNet - <https://arxiv.org/abs/1608.06993>
+  * DLA - <https://arxiv.org/abs/1707.06484>
+  * DPN (Dual-Path Network) - <https://arxiv.org/abs/1707.01629>
+  * EdgeNeXt - <https://arxiv.org/abs/2206.10589>
+  * EfficientFormer - <https://arxiv.org/abs/2206.01191>
+  * EfficientNet (MBConvNet Family) 
+    * EfficientNet NoisyStudent (B0-B7, L2) - <https://arxiv.org/abs/1911.04252>
+    * EfficientNet AdvProp (B0-B8) - <https://arxiv.org/abs/1911.09665>
+    * EfficientNet (B0-B7) - <https://arxiv.org/abs/1905.11946>
+    * EfficientNet-EdgeTPU (S, M, L) - <https://ai.googleblog.com/2019/08/efficientnet-edgetpu-creating.html>
+    * EfficientNet V2 - <https://arxiv.org/abs/2104.00298>
+    * FBNet-C - <https://arxiv.org/abs/1812.03443>
+    * MixNet - <https://arxiv.org/abs/1907.09595>
+    * MNASNet B1, A1 (Squeeze-Excite), and Small - <https://arxiv.org/abs/1807.11626>
+    * MobileNet-V2 - <https://arxiv.org/abs/1801.04381>
+    * Single-Path NAS - <https://arxiv.org/abs/1904.02877>
+    * TinyNet - <https://arxiv.org/abs/2010.14819>
+  * EfficientViT (MIT) - <https://arxiv.org/abs/2205.14756>
+  * EfficientViT (MSRA) - <https://arxiv.org/abs/2305.07027>
+  * EVA - <https://arxiv.org/abs/2211.07636>
+  * EVA-02 - <https://arxiv.org/abs/2303.11331>
+  * FastViT - <https://arxiv.org/abs/2303.14189>
+  * FlexiViT - <https://arxiv.org/abs/2212.08013>
+  * FocalNet (Focal Modulation Networks) - <https://arxiv.org/abs/2203.11926>
+  * GCViT (Global Context Vision Transformer) - <https://arxiv.org/abs/2206.09959>
+  * GhostNet - <https://arxiv.org/abs/1911.11907>
+  * GhostNet-V2 - <https://arxiv.org/abs/2211.12905>
+  * gMLP - <https://arxiv.org/abs/2105.08050>
+  * GPU-Efficient Networks - <https://arxiv.org/abs/2006.14090>
+  * Halo Nets - <https://arxiv.org/abs/2103.12731>
+  * HGNet / HGNet-V2 - TBD
+  * HRNet - <https://arxiv.org/abs/1908.07919>
+  * InceptionNeXt - <https://arxiv.org/abs/2303.16900>
+  * Inception-V3 - <https://arxiv.org/abs/1512.00567>
+  * Inception-ResNet-V2 and Inception-V4 - <https://arxiv.org/abs/1602.07261>
+  * Lambda Networks - <https://arxiv.org/abs/2102.08602>
+  * LeViT (Vision Transformer in ConvNet's Clothing) - <https://arxiv.org/abs/2104.01136>
+  * MambaOut - <https://arxiv.org/abs/2405.07992>
+  * MaxViT (Multi-Axis Vision Transformer) - <https://arxiv.org/abs/2204.01697>
+  * MetaFormer (PoolFormer-v2, ConvFormer, CAFormer) - <https://arxiv.org/abs/2210.13452>
+  * MLP-Mixer - <https://arxiv.org/abs/2105.01601>
+  * MobileCLIP - <https://arxiv.org/abs/2311.17049>
+  * MobileNet-V3 (MBConvNet w/ Efficient Head) - <https://arxiv.org/abs/1905.02244>
+    * FBNet-V3 - <https://arxiv.org/abs/2006.02049>
+    * HardCoRe-NAS - <https://arxiv.org/abs/2102.11646>
+    * LCNet - <https://arxiv.org/abs/2109.15099>
+  * MobileNetV4 - <https://arxiv.org/abs/2404.10518>
+  * MobileOne - <https://arxiv.org/abs/2206.04040>
+  * MobileViT - <https://arxiv.org/abs/2110.02178>
+  * MobileViT-V2 - <https://arxiv.org/abs/2206.02680>
+  * MViT-V2 (Improved Multiscale Vision Transformer) - <https://arxiv.org/abs/2112.01526>
+  * NASNet-A - <https://arxiv.org/abs/1707.07012>
+  * NesT - <https://arxiv.org/abs/2105.12723>
+  * Next-ViT - <https://arxiv.org/abs/2207.05501>
+  * NFNet-F - <https://arxiv.org/abs/2102.06171>
+  * NF-RegNet / NF-ResNet - <https://arxiv.org/abs/2101.08692>
+  * PNasNet - <https://arxiv.org/abs/1712.00559>
+  * PoolFormer (MetaFormer) - <https://arxiv.org/abs/2111.11418>
+  * Pooling-based Vision Transformer (PiT) - <https://arxiv.org/abs/2103.16302>
+  * PVT-V2 (Improved Pyramid Vision Transformer) - <https://arxiv.org/abs/2106.13797>
+  * RDNet (DenseNets Reloaded) - <https://arxiv.org/abs/2403.19588>
+  * RegNet - <https://arxiv.org/abs/2003.13678>
+  * RegNetZ - <https://arxiv.org/abs/2103.06877>
+  * RepVGG - <https://arxiv.org/abs/2101.03697>
+  * RepGhostNet - <https://arxiv.org/abs/2211.06088>
+  * RepViT - <https://arxiv.org/abs/2307.09283>
+  * ResMLP - <https://arxiv.org/abs/2105.03404>
+  * ResNet/ResNeXt 
+    * ResNet (v1b/v1.5) - <https://arxiv.org/abs/1512.03385>
+    * ResNeXt - <https://arxiv.org/abs/1611.05431>
+    * 'Bag of Tricks' / Gluon C, D, E, S variations - <https://arxiv.org/abs/1812.01187>
+    * Weakly-supervised (WSL) Instagram pretrained / ImageNet tuned ResNeXt101 - <https://arxiv.org/abs/1805.00932>
+    * Semi-supervised (SSL) / Semi-weakly Supervised (SWSL) ResNet/ResNeXts - <https://arxiv.org/abs/1905.00546>
+    * ECA-Net (ECAResNet) - <https://arxiv.org/abs/1910.03151v4>
+    * Squeeze-and-Excitation Networks (SEResNet) - <https://arxiv.org/abs/1709.01507>
+    * ResNet-RS - <https://arxiv.org/abs/2103.07579>
+  * Res2Net - <https://arxiv.org/abs/1904.01169>
+  * ResNeSt - <https://arxiv.org/abs/2004.08955>
+  * ReXNet - <https://arxiv.org/abs/2007.00992>
+  * SelecSLS - <https://arxiv.org/abs/1907.00837>
+  * Selective Kernel Networks - <https://arxiv.org/abs/1903.06586>
+  * Sequencer2D - <https://arxiv.org/abs/2205.01972>
+  * Swin S3 (AutoFormerV2) - <https://arxiv.org/abs/2111.14725>
+  * Swin Transformer - <https://arxiv.org/abs/2103.14030>
+  * Swin Transformer V2 - <https://arxiv.org/abs/2111.09883>
+  * Transformer-iN-Transformer (TNT) - <https://arxiv.org/abs/2103.00112>
+  * TResNet - <https://arxiv.org/abs/2003.13630>
+  * Twins (Spatial Attention in Vision Transformers) - <https://arxiv.org/pdf/2104.13840.pdf>
+  * Visformer - <https://arxiv.org/abs/2104.12533>
+  * Vision Transformer - <https://arxiv.org/abs/2010.11929>
+  * ViTamin - <https://arxiv.org/abs/2404.02132>
+  * VOLO (Vision Outlooker) - <https://arxiv.org/abs/2106.13112>
+  * VovNet V2 and V1 - <https://arxiv.org/abs/1911.06667>
+  * Xception - <https://arxiv.org/abs/1610.02357>
+  * Xception (Modified Aligned, Gluon) - <https://arxiv.org/abs/1802.02611>
+  * Xception (Modified Aligned, TF) - <https://arxiv.org/abs/1802.02611>
+  * XCiT (Cross-Covariance Image Transformers) - <https://arxiv.org/abs/2106.09681>
+
+
+
+### Optimizers
+
+[](#optimizers)
+
+To see full list of optimizers w/ descriptions: `timm.optim.list_optimizers(with_description=True)`
+
+Included optimizers available via `timm.optim.create_optimizer_v2` factory method:
+
+  * `adabelief` an implementation of AdaBelief adapted from <https://github.com/juntang-zhuang/Adabelief-Optimizer> - <https://arxiv.org/abs/2010.07468>
+  * `adafactor` adapted from [FAIRSeq impl](https://github.com/pytorch/fairseq/blob/master/fairseq/optim/adafactor.py) - <https://arxiv.org/abs/1804.04235>
+  * `adafactorbv` adapted from [Big Vision](https://github.com/google-research/big_vision/blob/main/big_vision/optax.py) - <https://arxiv.org/abs/2106.04560>
+  * `adahessian` by [David Samuel](https://github.com/davda54/ada-hessian) - <https://arxiv.org/abs/2006.00719>
+  * `adamp` and `sgdp` by [Naver ClovAI](https://github.com/clovaai) - <https://arxiv.org/abs/2006.08217>
+  * `adan` an implementation of Adan adapted from <https://github.com/sail-sg/Adan> - <https://arxiv.org/abs/2208.06677>
+  * `adopt` ADOPT adapted from <https://github.com/iShohei220/adopt> - <https://arxiv.org/abs/2411.02853>
+  * `lamb` an implementation of Lamb and LambC (w/ trust-clipping) cleaned up and modified to support use with XLA - <https://arxiv.org/abs/1904.00962>
+  * `laprop` optimizer from <https://github.com/Z-T-WANG/LaProp-Optimizer> - <https://arxiv.org/abs/2002.04839>
+  * `lars` an implementation of LARS and LARC (w/ trust-clipping) - <https://arxiv.org/abs/1708.03888>
+  * `lion` and implementation of Lion adapted from <https://github.com/google/automl/tree/master/lion> - <https://arxiv.org/abs/2302.06675>
+  * `lookahead` adapted from impl by [Liam](https://github.com/alphadl/lookahead.pytorch) - <https://arxiv.org/abs/1907.08610>
+  * `madgrad` an implementation of MADGRAD adapted from <https://github.com/facebookresearch/madgrad> - <https://arxiv.org/abs/2101.11075>
+  * `mars` MARS optimizer from <https://github.com/AGI-Arena/MARS> - <https://arxiv.org/abs/2411.10438>
+  * `nadam` an implementation of Adam w/ Nesterov momentum
+  * `nadamw` an implementation of AdamW (Adam w/ decoupled weight-decay) w/ Nesterov momentum. A simplified impl based on <https://github.com/mlcommons/algorithmic-efficiency>
+  * `novograd` by [Masashi Kimura](https://github.com/convergence-lab/novograd) - <https://arxiv.org/abs/1905.11286>
+  * `radam` by [Liyuan Liu](https://github.com/LiyuanLucasLiu/RAdam) - <https://arxiv.org/abs/1908.03265>
+  * `rmsprop_tf` adapted from PyTorch RMSProp by myself. Reproduces much improved Tensorflow RMSProp behaviour
+  * `sgdw` and implementation of SGD w/ decoupled weight-decay
+  * `fused<name>` optimizers by name with [NVIDIA Apex](https://github.com/NVIDIA/apex/tree/master/apex/optimizers) installed
+  * `bnb<name>` optimizers by name with [BitsAndBytes](https://github.com/TimDettmers/bitsandbytes) installed
+  * `cadamw`, `clion`, and more 'Cautious' optimizers from <https://github.com/kyleliang919/C-Optim> - <https://arxiv.org/abs/2411.16085>
+  * `adam`, `adamw`, `rmsprop`, `adadelta`, `adagrad`, and `sgd` pass through to `torch.optim` implementations
+
+
+
+### Augmentations
+
+[](#augmentations)
+
+  * Random Erasing from [Zhun Zhong](https://github.com/zhunzhong07/Random-Erasing/blob/master/transforms.py) - <https://arxiv.org/abs/1708.04896>)
+  * Mixup - <https://arxiv.org/abs/1710.09412>
+  * CutMix - <https://arxiv.org/abs/1905.04899>
+  * AutoAugment (<https://arxiv.org/abs/1805.09501>) and RandAugment (<https://arxiv.org/abs/1909.13719>) ImageNet configurations modeled after impl for EfficientNet training (<https://github.com/tensorflow/tpu/blob/master/models/official/efficientnet/autoaugment.py>)
+  * AugMix w/ JSD loss, JSD w/ clean + augmented mixing support works with AutoAugment and RandAugment as well - <https://arxiv.org/abs/1912.02781>
+  * SplitBachNorm - allows splitting batch norm layers between clean and augmented (auxiliary batch norm) data
+
+
+
+### Regularization
+
+[](#regularization)
+
+  * DropPath aka "Stochastic Depth" - <https://arxiv.org/abs/1603.09382>
+  * DropBlock - <https://arxiv.org/abs/1810.12890>
+  * Blur Pooling - <https://arxiv.org/abs/1904.11486>
+
+
+
+### Other
+
+[](#other)
+
+Several (less common) features that I often utilize in my projects are included. Many of their additions are the reason why I maintain my own set of models, instead of using others' via PIP:
+
+  * All models have a common default configuration interface and API for 
+    * accessing/changing the classifier - `get_classifier` and `reset_classifier`
+    * doing a forward pass on just the features - `forward_features` (see [documentation](https://huggingface.co/docs/timm/feature_extraction))
+    * these makes it easy to write consistent network wrappers that work with any of the models
+  * All models support multi-scale feature map extraction (feature pyramids) via create_model (see [documentation](https://huggingface.co/docs/timm/feature_extraction)) 
+    * `create_model(name, features_only=True, out_indices=..., output_stride=...)`
+    * `out_indices` creation arg specifies which feature maps to return, these indices are 0 based and generally correspond to the `C(i + 1)` feature level.
+    * `output_stride` creation arg controls output stride of the network by using dilated convolutions. Most networks are stride 32 by default. Not all networks support this.
+    * feature map channel counts, reduction level (stride) can be queried AFTER model creation via the `.feature_info` member
+  * All models have a consistent pretrained weight loader that adapts last linear if necessary, and from 3 to 1 channel input if desired
+  * High performance [reference training, validation, and inference scripts](https://huggingface.co/docs/timm/training_script) that work in several process/GPU modes: 
+    * NVIDIA DDP w/ a single GPU per process, multiple processes with APEX present (AMP mixed-precision optional)
+    * PyTorch DistributedDataParallel w/ multi-gpu, single process (AMP disabled as it crashes when enabled)
+    * PyTorch w/ single GPU single process (AMP optional)
+  * A dynamic global pool implementation that allows selecting from average pooling, max pooling, average + max, or concat([average, max]) at model creation. All global pooling is adaptive average by default and compatible with pretrained weights.
+  * A 'Test Time Pool' wrapper that can wrap any of the included models and usually provides improved performance doing inference with input images larger than the training size. Idea adapted from original DPN implementation when I ported (<https://github.com/cypw/DPNs>)
+  * Learning rate schedulers 
+    * Ideas adopted from 
+      * [AllenNLP schedulers](https://github.com/allenai/allennlp/tree/master/allennlp/training/learning_rate_schedulers)
+      * [FAIRseq lr_scheduler](https://github.com/pytorch/fairseq/tree/master/fairseq/optim/lr_scheduler)
+      * SGDR: Stochastic Gradient Descent with Warm Restarts (<https://arxiv.org/abs/1608.03983>)
+    * Schedulers include `step`, `cosine` w/ restarts, `tanh` w/ restarts, `plateau`
+  * Space-to-Depth by [mrT23](https://github.com/mrT23/TResNet/blob/master/src/models/tresnet/layers/space_to_depth.py) (<https://arxiv.org/abs/1801.04590>) -- original paper?
+  * Adaptive Gradient Clipping (<https://arxiv.org/abs/2102.06171>, <https://github.com/deepmind/deepmind-research/tree/master/nfnets>)
+  * An extensive selection of channel and/or spatial attention modules: 
+    * Bottleneck Transformer - <https://arxiv.org/abs/2101.11605>
+    * CBAM - <https://arxiv.org/abs/1807.06521>
+    * Effective Squeeze-Excitation (ESE) - <https://arxiv.org/abs/1911.06667>
+    * Efficient Channel Attention (ECA) - <https://arxiv.org/abs/1910.03151>
+    * Gather-Excite (GE) - <https://arxiv.org/abs/1810.12348>
+    * Global Context (GC) - <https://arxiv.org/abs/1904.11492>
+    * Halo - <https://arxiv.org/abs/2103.12731>
+    * Involution - <https://arxiv.org/abs/2103.06255>
+    * Lambda Layer - <https://arxiv.org/abs/2102.08602>
+    * Non-Local (NL) - <https://arxiv.org/abs/1711.07971>
+    * Squeeze-and-Excitation (SE) - <https://arxiv.org/abs/1709.01507>
+    * Selective Kernel (SK) - (<https://arxiv.org/abs/1903.06586>
+    * Split (SPLAT) - <https://arxiv.org/abs/2004.08955>
+    * Shifted Window (SWIN) - <https://arxiv.org/abs/2103.14030>
+
+
+
+## Results
+
+[](#results)
+
+Model validation results can be found in the [results tables](/huggingface/pytorch-image-models/blob/main/results/README.md)
+
+## Getting Started (Documentation)
+
+[](#getting-started-documentation)
+
+The official documentation can be found at <https://huggingface.co/docs/hub/timm>. Documentation contributions are welcome.
+
+[Getting Started with PyTorch Image Models (timm): A Practitioner’s Guide](https://towardsdatascience.com/getting-started-with-pytorch-image-models-timm-a-practitioners-guide-4e77b4bf9055) by [Chris Hughes](https://github.com/Chris-hughes10) is an extensive blog post covering many aspects of `timm` in detail.
+
+[timmdocs](http://timm.fast.ai/) is an alternate set of documentation for `timm`. A big thanks to [Aman Arora](https://github.com/amaarora) for his efforts creating timmdocs.
+
+[paperswithcode](https://paperswithcode.com/lib/timm) is a good resource for browsing the models within `timm`.
+
+## Train, Validation, Inference Scripts
+
+[](#train-validation-inference-scripts)
+
+The root folder of the repository contains reference train, validation, and inference scripts that work with the included models and other features of this repository. They are adaptable for other datasets and use cases with a little hacking. See [documentation](https://huggingface.co/docs/timm/training_script).
+
+## Awesome PyTorch Resources
+
+[](#awesome-pytorch-resources)
+
+One of the greatest assets of PyTorch is the community and their contributions. A few of my favourite resources that pair well with the models and components here are listed below.
+
+### Object Detection, Instance and Semantic Segmentation
+
+[](#object-detection-instance-and-semantic-segmentation)
+
+  * Detectron2 - <https://github.com/facebookresearch/detectron2>
+  * Segmentation Models (Semantic) - <https://github.com/qubvel/segmentation_models.pytorch>
+  * EfficientDet (Obj Det, Semantic soon) - <https://github.com/rwightman/efficientdet-pytorch>
+
+
+
+### Computer Vision / Image Augmentation
+
+[](#computer-vision--image-augmentation)
+
+  * Albumentations - <https://github.com/albumentations-team/albumentations>
+  * Kornia - <https://github.com/kornia/kornia>
+
+
+
+### Knowledge Distillation
+
+[](#knowledge-distillation)
+
+  * RepDistiller - <https://github.com/HobbitLong/RepDistiller>
+  * torchdistill - <https://github.com/yoshitomo-matsubara/torchdistill>
+
+
+
+### Metric Learning
+
+[](#metric-learning)
+
+  * PyTorch Metric Learning - <https://github.com/KevinMusgrave/pytorch-metric-learning>
+
+
+
+### Training / Frameworks
+
+[](#training--frameworks)
+
+  * fastai - <https://github.com/fastai/fastai>
+
+
+
+## Licenses
+
+[](#licenses)
+
+### Code
+
+[](#code)
+
+The code here is licensed Apache 2.0. I've taken care to make sure any third party code included or adapted has compatible (permissive) licenses such as MIT, BSD, etc. I've made an effort to avoid any GPL / LGPL conflicts. That said, it is your responsibility to ensure you comply with licenses here and conditions of any dependent licenses. Where applicable, I've linked the sources/references for various components in docstrings. If you think I've missed anything please create an issue.
+
+### Pretrained Weights
+
+[](#pretrained-weights)
+
+So far all of the pretrained weights available here are pretrained on ImageNet with a select few that have some additional pretraining (see extra note below). ImageNet was released for non-commercial research purposes only (<https://image-net.org/download>). It's not clear what the implications of that are for the use of pretrained weights from that dataset. Any models I have trained with ImageNet are done for research purposes and one should assume that the original dataset license applies to the weights. It's best to seek legal advice if you intend to use the pretrained weights in a commercial product.
+
+#### Pretrained on more than ImageNet
+
+[](#pretrained-on-more-than-imagenet)
+
+Several weights included or references here were pretrained with proprietary datasets that I do not have access to. These include the Facebook WSL, SSL, SWSL ResNe(Xt) and the Google Noisy Student EfficientNet models. The Facebook models have an explicit non-commercial license (CC-BY-NC 4.0, <https://github.com/facebookresearch/semi-supervised-ImageNet1K-models>, <https://github.com/facebookresearch/WSL-Images>). The Google models do not appear to have any restriction beyond the Apache 2.0 license (and ImageNet concerns). In either case, you should contact Facebook or Google with any questions.
+
+## Citing
+
+[](#citing)
+
+### BibTeX
+
+[](#bibtex)
+
+```
+@misc{rw2019timm, author = {Ross Wightman}, title = {PyTorch Image Models}, year = {2019}, publisher = {GitHub}, journal = {GitHub repository}, doi = {10.5281/zenodo.4414861}, howpublished = {\url{https://github.com/rwightman/pytorch-image-models}} }
+```
+
+### Latest DOI
+
+[](#latest-doi)
+
+[![DOI](https://camo.githubusercontent.com/44a3c3253479a300f0d439d549c186278c8bc037ef9ac494c2cb16a8379fb648/68747470733a2f2f7a656e6f646f2e6f72672f62616467652f3136383739393532362e737667)](https://zenodo.org/badge/latestdoi/168799526)
+
+## About
+
+The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more 
+
+[huggingface.co/docs/timm](https://huggingface.co/docs/timm "https://huggingface.co/docs/timm")
+
+### Topics
+
+[ pytorch ](/topics/pytorch "Topic: pytorch") [ imagenet ](/topics/imagenet "Topic: imagenet") [ image-classification ](/topics/image-classification "Topic: image-classification") [ resnet ](/topics/resnet "Topic: resnet") [ pretrained-models ](/topics/pretrained-models "Topic: pretrained-models") [ mixnet ](/topics/mixnet "Topic: mixnet") [ pretrained-weights ](/topics/pretrained-weights "Topic: pretrained-weights") [ distributed-training ](/topics/distributed-training "Topic: distributed-training") [ dual-path-networks ](/topics/dual-path-networks "Topic: dual-path-networks") [ mobilenet-v2 ](/topics/mobilenet-v2 "Topic: mobilenet-v2") [ mobile-deep-learning ](/topics/mobile-deep-learning "Topic: mobile-deep-learning") [ mobilenetv3 ](/topics/mobilenetv3 "Topic: mobilenetv3") [ efficientnet ](/topics/efficientnet "Topic: efficientnet") [ augmix ](/topics/augmix "Topic: augmix") [ randaugment ](/topics/randaugment "Topic: randaugment") [ nfnets ](/topics/nfnets "Topic: nfnets") [ normalization-free-training ](/topics/normalization-free-training "Topic: normalization-free-training") [ vision-transformer-models ](/topics/vision-transformer-models "Topic: vision-transformer-models") [ convnext ](/topics/convnext "Topic: convnext") [ maxvit ](/topics/maxvit "Topic: maxvit")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Citation
+
+Cite this repository 
+
+Loading
+
+Something went wrong. 
+
+[ Activity](/huggingface/pytorch-image-models/activity)
+
+[ Custom properties](/huggingface/pytorch-image-models/custom-properties)
+
+### Stars
+
+[ **33k** stars](/huggingface/pytorch-image-models/stargazers)
+
+### Watchers
+
+[ **317** watching](/huggingface/pytorch-image-models/watchers)
+
+### Forks
+
+[ **4.8k** forks](/huggingface/pytorch-image-models/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fpytorch-image-models&report=huggingface+%28user%29)
+
+##  [Releases 64](/huggingface/pytorch-image-models/releases)
+
+[ Release v1.0.14 Latest  Jan 19, 2025 ](/huggingface/pytorch-image-models/releases/tag/v1.0.14)
+
+[+ 63 releases](/huggingface/pytorch-image-models/releases)
+
+## Sponsor this project
+
+##  [Packages 0](/orgs/huggingface/packages?repo_name=pytorch-image-models)
+
+No packages published 
+
+##  [Used by 44.5k](/huggingface/pytorch-image-models/network/dependents)
+
+[
+
+  * ![@Kotomiya07](https://avatars.githubusercontent.com/u/115519148?s=64&v=4)
+  * ![@JeMing-creater](https://avatars.githubusercontent.com/u/86392508?s=64&v=4)
+  * ![@muzhancun](https://avatars.githubusercontent.com/u/91790440?s=64&v=4)
+  * ![@nyunAI](https://avatars.githubusercontent.com/u/135611296?s=64&v=4)
+  * ![@taufikfathonii](https://avatars.githubusercontent.com/u/194881936?s=64&v=4)
+  * ![@morfant](https://avatars.githubusercontent.com/u/959234?s=64&v=4)
+  * ![@BootCamp-Team2](https://avatars.githubusercontent.com/u/193212693?s=64&v=4)
+  * ![@ngminteck](https://avatars.githubusercontent.com/u/36160697?s=64&v=4)
+
++ 44,483  ](/huggingface/pytorch-image-models/network/dependents)
+
+##  [Contributors 147](/huggingface/pytorch-image-models/graphs/contributors)
+
+  * [ ![@rwightman](https://avatars.githubusercontent.com/u/5702664?s=64&v=4) ](https://github.com/rwightman)
+  * [ ![@nateraw](https://avatars.githubusercontent.com/u/32437151?s=64&v=4) ](https://github.com/nateraw)
+  * [ ![@alexander-soare](https://avatars.githubusercontent.com/u/16543381?s=64&v=4) ](https://github.com/alexander-soare)
+  * [ ![@amaarora](https://avatars.githubusercontent.com/u/41290559?s=64&v=4) ](https://github.com/amaarora)
+  * [ ![@seefun](https://avatars.githubusercontent.com/u/19152032?s=64&v=4) ](https://github.com/seefun)
+  * [ ![@ChristophReich1996](https://avatars.githubusercontent.com/u/34400551?s=64&v=4) ](https://github.com/ChristophReich1996)
+  * [ ![@chris-ha458](https://avatars.githubusercontent.com/u/15088501?s=64&v=4) ](https://github.com/chris-ha458)
+  * [ ![@fffffgggg54](https://avatars.githubusercontent.com/u/13189380?s=64&v=4) ](https://github.com/fffffgggg54)
+  * [ ![@JosuaRieder](https://avatars.githubusercontent.com/u/114307199?s=64&v=4) ](https://github.com/JosuaRieder)
+  * [ ![@mrT23](https://avatars.githubusercontent.com/u/21198860?s=64&v=4) ](https://github.com/mrT23)
+  * [ ![@kaczmarj](https://avatars.githubusercontent.com/u/17690870?s=64&v=4) ](https://github.com/kaczmarj)
+  * [ ![@kozistr](https://avatars.githubusercontent.com/u/15344796?s=64&v=4) ](https://github.com/kozistr)
+  * [ ![@contrastive](https://avatars.githubusercontent.com/u/20089016?s=64&v=4) ](https://github.com/contrastive)
+  * [ ![@morizin](https://avatars.githubusercontent.com/u/50985248?s=64&v=4) ](https://github.com/morizin)
+
+
+
+[+ 133 contributors](/huggingface/pytorch-image-models/graphs/contributors)
+
+## Languages
+
+  * [ Python 84.4% ](/huggingface/pytorch-image-models/search?l=python)
+  * [ MDX 15.6% ](/huggingface/pytorch-image-models/search?l=mdx)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

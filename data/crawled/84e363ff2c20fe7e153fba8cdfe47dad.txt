@@ -1,0 +1,577 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fneural-maze%2Fagentic_patterns%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fneural-maze%2Fagentic_patterns%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=neural-maze%2Fagentic_patterns) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ neural-maze ](/neural-maze) / **[agentic_patterns](/neural-maze/agentic_patterns) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fneural-maze%2Fagentic_patterns) You must be signed in to change notification settings
+  * [ Fork 99 ](/login?return_to=%2Fneural-maze%2Fagentic_patterns)
+  * [ Star  990 ](/login?return_to=%2Fneural-maze%2Fagentic_patterns)
+
+
+
+
+Implementing the 4 agentic patterns from scratch 
+
+### License
+
+[ MIT license ](/neural-maze/agentic_patterns/blob/main/LICENSE)
+
+[ 990 stars ](/neural-maze/agentic_patterns/stargazers) [ 99 forks ](/neural-maze/agentic_patterns/forks) [ Branches ](/neural-maze/agentic_patterns/branches) [ Tags ](/neural-maze/agentic_patterns/tags) [ Activity ](/neural-maze/agentic_patterns/activity)
+
+[ Star  ](/login?return_to=%2Fneural-maze%2Fagentic_patterns)
+
+[ Notifications ](/login?return_to=%2Fneural-maze%2Fagentic_patterns) You must be signed in to change notification settings
+
+  * [ Code ](/neural-maze/agentic_patterns)
+  * [ Issues 1 ](/neural-maze/agentic_patterns/issues)
+  * [ Pull requests 0 ](/neural-maze/agentic_patterns/pulls)
+  * [ Actions ](/neural-maze/agentic_patterns/actions)
+  * [ Projects 0 ](/neural-maze/agentic_patterns/projects)
+  * [ Security ](/neural-maze/agentic_patterns/security)
+  * [ Insights ](/neural-maze/agentic_patterns/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/neural-maze/agentic_patterns)
+  * [ Issues  ](/neural-maze/agentic_patterns/issues)
+  * [ Pull requests  ](/neural-maze/agentic_patterns/pulls)
+  * [ Actions  ](/neural-maze/agentic_patterns/actions)
+  * [ Projects  ](/neural-maze/agentic_patterns/projects)
+  * [ Security  ](/neural-maze/agentic_patterns/security)
+  * [ Insights  ](/neural-maze/agentic_patterns/pulse)
+
+
+
+# neural-maze/agentic_patterns
+
+main
+
+[**1** Branch](/neural-maze/agentic_patterns/branches)[**2** Tags](/neural-maze/agentic_patterns/tags)
+
+[](/neural-maze/agentic_patterns/branches)[](/neural-maze/agentic_patterns/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![MichaelisTrofficus](https://avatars.githubusercontent.com/u/32078719?v=4&size=40)](/MichaelisTrofficus)[MichaelisTrofficus](/neural-maze/agentic_patterns/commits?author=MichaelisTrofficus)[Merge pull request](/neural-maze/agentic_patterns/commit/2efdf0030a0ec751906b026cc61b22b83282f6ea) [#4](https://github.com/neural-maze/agentic_patterns/pull/4) [from neural-maze/final-readme](/neural-maze/agentic_patterns/commit/2efdf0030a0ec751906b026cc61b22b83282f6ea)Oct 25, 2024[2efdf00](/neural-maze/agentic_patterns/commit/2efdf0030a0ec751906b026cc61b22b83282f6ea) · Oct 25, 2024
+
+## History
+
+[50 Commits](/neural-maze/agentic_patterns/commits/main/)[](/neural-maze/agentic_patterns/commits/main/)  
+[.github](/neural-maze/agentic_patterns/tree/main/.github ".github")| [.github](/neural-maze/agentic_patterns/tree/main/.github ".github")| [add github actions for pypi package](/neural-maze/agentic_patterns/commit/c354cc0f68997f7a4b602d968b28b8eb4f99d122 "add github actions for pypi package")| Oct 11, 2024  
+[img](/neural-maze/agentic_patterns/tree/main/img "img")| [img](/neural-maze/agentic_patterns/tree/main/img "img")| [add more sections to readme](/neural-maze/agentic_patterns/commit/ebd40d6568a9450c0156a8021ee773c37162b994 "add more sections to readme")| Oct 24, 2024  
+[notebooks](/neural-maze/agentic_patterns/tree/main/notebooks "notebooks")| [notebooks](/neural-maze/agentic_patterns/tree/main/notebooks "notebooks")| [clear status of notebooks](/neural-maze/agentic_patterns/commit/bcf8db6b0f4c5a54834196e03dfaf23a8508ef9d "clear status of notebooks")| Oct 24, 2024  
+[src/agentic_patterns](/neural-maze/agentic_patterns/tree/main/src/agentic_patterns "This path skips through empty directories")| [src/agentic_patterns](/neural-maze/agentic_patterns/tree/main/src/agentic_patterns "This path skips through empty directories")| [add lshift methods for << operator](/neural-maze/agentic_patterns/commit/84ab82a3bc0c1227b7d4f2aac79319ac6617c074 "add lshift methods for << operator")| Oct 21, 2024  
+[.env.example](/neural-maze/agentic_patterns/blob/main/.env.example ".env.example")| [.env.example](/neural-maze/agentic_patterns/blob/main/.env.example ".env.example")| [refactor reflection pattern code](/neural-maze/agentic_patterns/commit/06ca49770658765647a36ffbe81e9bffb8280a43 "refactor reflection pattern code")| Oct 5, 2024  
+[.gitignore](/neural-maze/agentic_patterns/blob/main/.gitignore ".gitignore")| [.gitignore](/neural-maze/agentic_patterns/blob/main/.gitignore ".gitignore")| [add first commit](/neural-maze/agentic_patterns/commit/15f31c39d0fb97271efa82c00506a5e43061e89e "add first commit")| Jul 10, 2024  
+[.pre-commit-config.yaml](/neural-maze/agentic_patterns/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/neural-maze/agentic_patterns/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [refactor reflection pattern code](/neural-maze/agentic_patterns/commit/06ca49770658765647a36ffbe81e9bffb8280a43 "refactor reflection pattern code")| Oct 5, 2024  
+[LICENSE](/neural-maze/agentic_patterns/blob/main/LICENSE "LICENSE")| [LICENSE](/neural-maze/agentic_patterns/blob/main/LICENSE "LICENSE")| [Initial commit](/neural-maze/agentic_patterns/commit/438e58d1230a4c9c6f2183711064d671ed5ad3c2 "Initial commit")| Jul 10, 2024  
+[README.md](/neural-maze/agentic_patterns/blob/main/README.md "README.md")| [README.md](/neural-maze/agentic_patterns/blob/main/README.md "README.md")| [add Groq API Key section to readme](/neural-maze/agentic_patterns/commit/7271e7395aafa080304ffc637cddede0d35aff8d "add Groq API Key section to readme")| Oct 24, 2024  
+[poetry.lock](/neural-maze/agentic_patterns/blob/main/poetry.lock "poetry.lock")| [poetry.lock](/neural-maze/agentic_patterns/blob/main/poetry.lock "poetry.lock")| [add first version code multiagent](/neural-maze/agentic_patterns/commit/f8e2fe5dbe5304ab22f0337f1aa6472c344d9308 "add first version code multiagent")| Oct 10, 2024  
+[pyproject.toml](/neural-maze/agentic_patterns/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/neural-maze/agentic_patterns/blob/main/pyproject.toml "pyproject.toml")| [bump to 1.0.0](/neural-maze/agentic_patterns/commit/88602f4c5a1270220def2c93a9a480ae60dba18f "bump to 1.0.0")| Oct 24, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [MIT license](#)
+
+
+
+[![logo](/neural-maze/agentic_patterns/raw/main/img/agentic_patterns.png)](/neural-maze/agentic_patterns/blob/main/img/agentic_patterns.png)
+
+# Agentic Patterns
+
+[](#agentic-patterns)
+
+### Implementing the agentic patterns using Groq
+
+[](#implementing-the-agentic-patterns-using-groq)
+
+[![logo](/neural-maze/agentic_patterns/raw/main/img/groq.png)](/neural-maze/agentic_patterns/blob/main/img/groq.png)
+
+> No LangChain, no LangGraph, no LlamaIndex, no CrewAI. Pure and simple API calls to Groq.
+
+## Table of Contents
+
+[](#table-of-contents)
+
+  * [1. Introduction](#introduction)
+
+    * [1.1 Reflection Pattern](#reflection-pattern-)
+    * [1.2 Tool Pattern](#tool-pattern--)
+    * [1.3 Planning Pattern](#planning-pattern-)
+    * [1.4 Multiagent Pattern](#multiagent-pattern-)
+  * [2. The 4 Agentic Patterns](#the-4-agentic-patterns)
+
+  * [3. Installation](#installation)
+
+  * [4. Groq API Key](#groq-api-key)
+
+  * [5. Usage](#usage)
+
+    * [5.1 Using a Reflection Agent - Reflection Pattern](#using-a-reflection-agent---reflection-pattern)
+    * [5.2 Creating and Using Tools - Tool Use Pattern](#creating-and-using-tools---tool-use-pattern)
+    * [5.3 Reasoning with a ReAct Agent - Planning Pattern](#reasoning-with-a-react-agent---planning-pattern)
+    * [5.4 Defining and running a Crew of Agents - MultiAgent Pattern](#defining-and-running-a-crew-of-agents---multiagent-pattern)
+  * [6. Recommended Workflow](#recommended-workflow)
+
+  * [7. Star History](#star-history)
+
+
+
+
+## Introduction
+
+[](#introduction)
+
+This repository contains an implementation of the 4 agentic patterns as defined by Andrew Ng in his DeepLearning.AI [blog article series](https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/?ref=dl-staging-website.ghost.io).
+
+Here’s a description of the four patterns we will be implementing.
+
+## The 4 Agentic patterns
+
+[](#the-4-agentic-patterns)
+
+### Reflection Pattern 🤔
+
+[](#reflection-pattern-)
+
+[![logo](/neural-maze/agentic_patterns/raw/main/img/reflection_pattern.png)](/neural-maze/agentic_patterns/blob/main/img/reflection_pattern.png)
+
+A very basic pattern but, despite its simplicity, it provides surprising performance gains for the LLM response.
+
+It allows the LLM to **reflect on its results** , suggesting modifications, additions, improvements in the writing style, etc.
+
+Want to see how this pattern is implemented? 💻
+
+  * Check the [notebook](/neural-maze/agentic_patterns/blob/main/notebooks/reflection_pattern.ipynb) for a step by step explanation
+  * Check the [`ReflectionAgent`](/neural-maze/agentic_patterns/blob/main/src/agentic_patterns/reflection_pattern/reflection_agent.py) for a complete Python implementation
+
+
+
+Take a look at the YouTube video! 👇
+
+[ ![Watch the video](https://camo.githubusercontent.com/64939977526fda2debe421c3acaf14299a482b04248efda48aa88e094437f093/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f30734156493862516452632f302e6a7067) ](https://www.youtube.com/watch?v=0sAVI8bQdRc)
+
+### Tool Pattern 🛠
+
+[](#tool-pattern--)
+
+[![logo](/neural-maze/agentic_patterns/raw/main/img/tool_pattern.png)](/neural-maze/agentic_patterns/blob/main/img/tool_pattern.png)
+
+The information stored in the LLM weights is (usually) **not enough** to give accurate and insightful answers to our questions
+
+That's why we need to provide the LLM with ways to access the outside world 🌍
+
+In practice, you can build tools for whatever you want (at the end of the day they are just functions the LLM can use), from a tool that let's you access Wikipedia, another to analyse the content of YouTube videos or calculate difficult integrals in Wolfram Alpha.
+
+**Tools** are the **secret sauce of agentic applications** and the possibilities are endless! 🥫
+
+Want to see how this pattern is implemented? 💻
+
+  * Check the [notebook](/neural-maze/agentic_patterns/blob/main/notebooks/tool_pattern.ipynb) for a step by step explanation
+  * Check the [`ToolAgent`](/neural-maze/agentic_patterns/blob/main/src/agentic_patterns/tool_pattern/tool_agent.py) for a complete Python implementation
+  * Check the [`Tool`](/neural-maze/agentic_patterns/blob/main/src/agentic_patterns/tool_pattern/tool.py) for understanding how Tools work under the hood.
+
+
+
+Take a look at the YouTube video! 👇
+
+[ ![Watch the video](https://camo.githubusercontent.com/d74266014314dfce1de6b4fee85416ccf2a8ec2d069ad8dc671b4d190a0915af/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f41706f447a5a50385f636b2f302e6a7067) ](https://www.youtube.com/watch?v=ApoDzZP8_ck)
+
+### Planning Pattern 🧠
+
+[](#planning-pattern-)
+
+[![logo](/neural-maze/agentic_patterns/raw/main/img/planning_pattern.png)](/neural-maze/agentic_patterns/blob/main/img/planning_pattern.png)
+
+So, we've seen agents capable of reflecting and using tools to access the outside world. But ... **what about planning** , i.e. deciding what sequence of steps to follow to accomplish a large task?
+
+That is exactly what the Planning Pattern provides; ways for the LLM to break a task into **smaller, more easily accomplished subgoals** without losing track of the end goal.
+
+The most paradigmatic example of the planning pattern is the **ReAct** technique, displayed in the diagram above.
+
+Want to see how this pattern is implemented? 💻
+
+  * Check the [notebook](/neural-maze/agentic_patterns/blob/main/notebooks/planning_pattern.ipynb) for a step by step explanation
+  * Check the [`ReactAgent`](/neural-maze/agentic_patterns/blob/main/src/agentic_patterns/planning_pattern/react_agent.py) for a complete Python implementation
+
+
+
+Take a look at the YouTube video! 👇
+
+[ ![Watch the video](https://camo.githubusercontent.com/98a03a0448b44cacce1c0fd02c4c5de70886f3c88fb66a4e4ffd3295fd8a60b7/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f34786b43303639777277382f302e6a7067) ](https://www.youtube.com/watch?v=4xkC069wrw8)
+
+### Multiagent Pattern 🧑🏽‍🤝‍🧑🏻
+
+[](#multiagent-pattern-)
+
+[![logo](/neural-maze/agentic_patterns/raw/main/img/multiagent_pattern.png)](/neural-maze/agentic_patterns/blob/main/img/multiagent_pattern.png)
+
+You may have heard about frameworks like crewAI or AutoGen, which allow you to create multi-agent applications.
+
+These frameworks implement different variations of the multi-agent pattern, in which tasks are divided into **smaller subtasks executed by different roles** (e.g. one agent can be a software engineer, another a project manager, etc.)
+
+Want to see how this pattern is implemented? 💻
+
+  * Check the [notebook](/neural-maze/agentic_patterns/blob/main/notebooks/multiagent_pattern.ipynb) for a step by step explanation
+  * Check the [`Agent`](/neural-maze/agentic_patterns/blob/main/src/agentic_patterns/multiagent_pattern/agent.py) to see how to implement an `Agent`, member of the `Crew`.
+  * Check the [`Crew`](/neural-maze/agentic_patterns/blob/main/src/agentic_patterns/multiagent_pattern/crew.py) to see how to implement the `Crew`
+
+
+
+Take a look at the YouTube video! 👇
+
+[ ![Watch the video](https://camo.githubusercontent.com/9cacbf6bf13b475860057df8d5269e5050b26f6b67495ae3fba7977a858c2b01/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f6f73323251376e455850412f302e6a7067) ](https://www.youtube.com/watch?v=os22Q7nEXPA)
+
+## Installation
+
+[](#installation)
+
+If you take a look at any of the notebooks in the [notebooks/](/neural-maze/agentic_patterns/blob/main/notebooks) folder you'll see some helper methods and classes being imported from this library: `agentic-patterns`.
+
+This is the library implemented in the [src/](/neural-maze/agentic_patterns/blob/main/src) folder, and contains a full implementation of the 4 patterns and related helper methods.
+
+To install this library, you have two options.
+
+### Option 1: Use [Poetry](https://python-poetry.org/):
+
+[](#option-1-use-poetry)
+
+```
+`poetry install `
+```
+
+### Option 2: Install the PyPi library
+
+[](#option-2-install-the-pypi-library)
+
+```
+pip install -U agentic-patterns
+```
+
+## Groq API Key
+
+[](#groq-api-key)
+
+This project works with [Groq](https://groq.com/) as the LLM provider, so you'll need to create an API Key in this platform.
+
+When you have your API Key copy and paste it in an `.env` file.
+
+The content of this `.env` file should match the structure of the `.env.example` I've created in the repo, but instead of an empty string, the `GROQ_API_KEY` var will contain your API Key.
+
+## Usage
+
+[](#usage)
+
+Once you have both library installed and the `.env` file created, you can start playing with the 4 patterns implementation (I'll encourage you to take a look at the code, to fully understand what is happening under the hood).
+
+Let's see an example of how to put the 4 patterns into practise.
+
+### Using a Reflection Agent - Reflection Pattern
+
+[](#using-a-reflection-agent---reflection-pattern)
+
+Here is an example of how to use a Reflection Agent.
+
+```
+from agentic_patterns import ReflectionAgent agent = ReflectionAgent() generation_system_prompt = "You are a Python programmer tasked with generating high quality Python code" reflection_system_prompt = "You are Andrej Karpathy, an experienced computer scientist" user_msg = "Generate a Python implementation of the Merge Sort algorithm" final_response = agent.run( user_msg=user_msg, generation_system_prompt=generation_system_prompt, reflection_system_prompt=reflection_system_prompt, n_steps=10, verbose=1, ) print(final_response)
+```
+
+### Creating and Using Tools - Tool Use Pattern
+
+[](#creating-and-using-tools---tool-use-pattern)
+
+An example of how to create a custom tool and bind it to a Tool Agent.
+
+First, let's create the tool. In this case, I'll be creating a tool for interacting with Hacker News. To define a tool, we just need to decorate the Python function with the `@tool`decorator.
+
+```
+import json import requests from agentic_patterns.tool_pattern.tool import tool from agentic_patterns.tool_pattern.tool_agent import ToolAgent @tool def fetch_top_hacker_news_stories(top_n: int): """ Fetch the top stories from Hacker News. This function retrieves the top `top_n` stories from Hacker News using the Hacker News API. Each story contains the title, URL, score, author, and time of submission. The data is fetched from the official Firebase Hacker News API, which returns story details in JSON format. Args: top_n (int): The number of top stories to retrieve. """ top_stories_url = 'https://hacker-news.firebaseio.com/v0/topstories.json' try: response = requests.get(top_stories_url) response.raise_for_status() # Check for HTTP errors # Get the top story IDs top_story_ids = response.json()[:top_n] top_stories = [] # For each story ID, fetch the story details for story_id in top_story_ids: story_url = f'https://hacker-news.firebaseio.com/v0/item/{story_id}.json' story_response = requests.get(story_url) story_response.raise_for_status() # Check for HTTP errors story_data = story_response.json() # Append the story title and URL (or other relevant info) to the list top_stories.append({ 'title': story_data.get('title', 'No title'), 'url': story_data.get('url', 'No URL available'), }) return json.dumps(top_stories) except requests.exceptions.RequestException as e: print(f"An error occurred: {e}") return []
+```
+
+Next, let's define the Agent.
+
+```
+tool_agent = ToolAgent(tools=[fetch_top_hacker_news_stories]) output = tool_agent.run(user_msg="Tell me the top 5 Hacker News stories right now") print(output)
+```
+
+### Reasoning with a ReAct Agent - Planning Pattern
+
+[](#reasoning-with-a-react-agent---planning-pattern)
+
+As a paradigmatic example of the Planning Pattern, `agentic-patterns` offers an implementation of a ReAct Agent.
+
+The `ReactAgent` is an evolution of the `ToolAgent`, extending its planning and reasoning capabilities.
+
+As we did before, we'll begin by defining the tools. In this case, I'll create three.
+
+```
+@tool def sum_two_elements(a: int, b: int) -> int: """ Computes the sum of two integers. Args: a (int): The first integer to be summed. b (int): The second integer to be summed. Returns: int: The sum of `a` and `b`. """ return a + b @tool def multiply_two_elements(a: int, b: int) -> int: """ Multiplies two integers. Args: a (int): The first integer to multiply. b (int): The second integer to multiply. Returns: int: The product of `a` and `b`. """ return a * b @tool def compute_log(x: int) -> float | str: """ Computes the logarithm of an integer `x` with an optional base. Args: x (int): The integer value for which the logarithm is computed. Must be greater than 0. Returns: float: The logarithm of `x` to the specified `base`. """ if x <= 0: return "Logarithm is undefined for values less than or equal to 0." return math.log(x)
+```
+
+Now, let's create the agent.
+
+```
+from agentic_patterns.planning_pattern.react_agent import ReactAgent agent = ReactAgent(tools=[sum_two_elements, multiply_two_elements, compute_log]) agent.run(user_msg="I want to calculate the sum of 1234 and 5678 and multiply the result by 5. Then, I want to take the logarithm of this result")
+```
+
+### Defining and running a Crew of Agents - MultiAgent Pattern
+
+[](#defining-and-running-a-crew-of-agents---multiagent-pattern)
+
+For the Multiagent Pattern, I decided to use two [CrewAI](https://www.crewai.com/)'s abstractions: the Agent and the Crew.
+
+Additionally, I've also borrow some ideas from Airflow, defining the dependency between agents using the `>>` operator.
+
+Let's see an example:
+
+```
+from agentic_patterns.multiagent_pattern.crew import Crew with Crew() as crew: agent_1 = Agent( name="Poet Agent", backstory="You are a well-known poet, who enjoys creating high quality poetry.", task_description="Write a poem about the meaning of life", task_expected_output="Just output the poem, without any title or introductory sentences", ) agent_2 = Agent( name="Poem Translator Agent", backstory="You are an expert translator especially skilled in Spanish", task_description="Translate a poem into Spanish", task_expected_output="Just output the translated poem and nothing else" ) agent_3 = Agent( name="Writer Agent", backstory="You are an expert transcriber, that loves writing poems into txt files", task_description="You'll receive a Spanish poem in your context. You need to write the poem into './poem.txt' file", task_expected_output="A txt file containing the greek poem received from the context", tools=write_str_to_txt, ) agent_1 >> agent_2 >> agent_3
+```
+
+We can also plot the Crew, to see the DAG structure, like this:
+
+```
+crew.plot()
+```
+
+For the previous Crew, you should get something like this:
+
+[![alt text](/neural-maze/agentic_patterns/raw/main/img/dag.svg)](/neural-maze/agentic_patterns/blob/main/img/dag.svg)
+
+To run the Crew, simply run:
+
+```
+crew.run()
+```
+
+## Recommended Workflow
+
+[](#recommended-workflow)
+
+This is **an educational project** and not an agentic framework.
+
+The reason I've decided to implement the 4 Agentic Patterns from scratch was to deeply understand their basics and also to teach them to anyone interested.
+
+Given this, this is my recommended learning workflow:
+
+1️⃣ Start with the YouTube video, ideally following my explanations with your own Jupyter Notebook.
+
+2️⃣ Play with the code in the Jupyter Notebook: make changes, modify the prompts, create new examples etc. Get comfortable with the pattern fundamentals and basic concepts.
+
+3️⃣ (Optional) Read through the library implementation of each pattern. This will require more effort and more Python knowledge, but if you take the time, I can assure you you'll benefit a lot from it.
+
+Loading
+
+```
+flowchart TD; Video --> Notebook; Notebook --> Code classDef centered text-align:center; 
+```
+
+## Star History
+
+[](#star-history)
+
+[![Star History Chart](https://camo.githubusercontent.com/7b9ff20fbc9d1d6da9739e78264abc1c751dca741ed06bcc001e758d0d0018f1/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d6e657572616c2d6d617a652f6167656e7469635f7061747465726e7326747970653d44617465)](https://star-history.com/#neural-maze/agentic_patterns&Date)
+
+## About
+
+Implementing the 4 agentic patterns from scratch 
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+[ Activity](/neural-maze/agentic_patterns/activity)
+
+[ Custom properties](/neural-maze/agentic_patterns/custom-properties)
+
+### Stars
+
+[ **990** stars](/neural-maze/agentic_patterns/stargazers)
+
+### Watchers
+
+[ **13** watching](/neural-maze/agentic_patterns/watchers)
+
+### Forks
+
+[ **99** forks](/neural-maze/agentic_patterns/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fneural-maze%2Fagentic_patterns&report=neural-maze+%28user%29)
+
+##  [Releases 2](/neural-maze/agentic_patterns/releases)
+
+[ v1.0.0 Latest  Oct 25, 2024 ](/neural-maze/agentic_patterns/releases/tag/v1.0.0)
+
+[+ 1 release](/neural-maze/agentic_patterns/releases)
+
+##  [Packages 0](/orgs/neural-maze/packages?repo_name=agentic_patterns)
+
+No packages published 
+
+## Languages
+
+  * [ Jupyter Notebook 63.1% ](/neural-maze/agentic_patterns/search?l=jupyter-notebook)
+  * [ Python 36.9% ](/neural-maze/agentic_patterns/search?l=python)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

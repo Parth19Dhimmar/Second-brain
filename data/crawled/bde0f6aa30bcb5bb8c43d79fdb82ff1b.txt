@@ -1,0 +1,1928 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fggerganov%2Fllama.cpp%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fggerganov%2Fllama.cpp%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=ggerganov%2Fllama.cpp) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ ggerganov ](/ggerganov) / **[llama.cpp](/ggerganov/llama.cpp) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fggerganov%2Fllama.cpp) You must be signed in to change notification settings
+  * [ Fork 10.3k ](/login?return_to=%2Fggerganov%2Fllama.cpp)
+  * [ Star  71.1k ](/login?return_to=%2Fggerganov%2Fllama.cpp)
+
+
+
+
+LLM inference in C/C++ 
+
+### License
+
+[ MIT license ](/ggerganov/llama.cpp/blob/master/LICENSE)
+
+[ 71.1k stars ](/ggerganov/llama.cpp/stargazers) [ 10.3k forks ](/ggerganov/llama.cpp/forks) [ Branches ](/ggerganov/llama.cpp/branches) [ Tags ](/ggerganov/llama.cpp/tags) [ Activity ](/ggerganov/llama.cpp/activity)
+
+[ Star  ](/login?return_to=%2Fggerganov%2Fllama.cpp)
+
+[ Notifications ](/login?return_to=%2Fggerganov%2Fllama.cpp) You must be signed in to change notification settings
+
+  * [ Code ](/ggerganov/llama.cpp)
+  * [ Issues 271 ](/ggerganov/llama.cpp/issues)
+  * [ Pull requests 341 ](/ggerganov/llama.cpp/pulls)
+  * [ Discussions ](/ggerganov/llama.cpp/discussions)
+  * [ Actions ](/ggerganov/llama.cpp/actions)
+  * [ Projects 9 ](/ggerganov/llama.cpp/projects)
+  * [ Wiki ](/ggerganov/llama.cpp/wiki)
+  * [ Security 5 ](/ggerganov/llama.cpp/security)
+  * [ Insights ](/ggerganov/llama.cpp/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/ggerganov/llama.cpp)
+  * [ Issues  ](/ggerganov/llama.cpp/issues)
+  * [ Pull requests  ](/ggerganov/llama.cpp/pulls)
+  * [ Discussions  ](/ggerganov/llama.cpp/discussions)
+  * [ Actions  ](/ggerganov/llama.cpp/actions)
+  * [ Projects  ](/ggerganov/llama.cpp/projects)
+  * [ Wiki  ](/ggerganov/llama.cpp/wiki)
+  * [ Security  ](/ggerganov/llama.cpp/security)
+  * [ Insights  ](/ggerganov/llama.cpp/pulse)
+
+
+
+# ggerganov/llama.cpp
+
+master
+
+[**369** Branches](/ggerganov/llama.cpp/branches)[**2954** Tags](/ggerganov/llama.cpp/tags)
+
+[](/ggerganov/llama.cpp/branches)[](/ggerganov/llama.cpp/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![ochafik](https://avatars.githubusercontent.com/u/273860?v=4&size=40)](/ochafik)[ochafik](/ggerganov/llama.cpp/commits?author=ochafik)[`common`: utils to split / join / repeat strings (from json converter) (](/ggerganov/llama.cpp/commit/a94f3b2727e97eb6c904006eb786960c069282bc)Jan 22, 2025[a94f3b2](/ggerganov/llama.cpp/commit/a94f3b2727e97eb6c904006eb786960c069282bc) · Jan 22, 2025
+
+## History
+
+[4,526 Commits](/ggerganov/llama.cpp/commits/master/)[](/ggerganov/llama.cpp/commits/master/)  
+[.devops](/ggerganov/llama.cpp/tree/master/.devops ".devops")| [.devops](/ggerganov/llama.cpp/tree/master/.devops ".devops")| [devops : add docker-multi-stage builds (](/ggerganov/llama.cpp/commit/7c0e28585843b366864b43b48f92425e2ea17df6 "devops : add docker-multi-stage builds \(#10832\)")[#10832](https://github.com/ggerganov/llama.cpp/pull/10832)[)](/ggerganov/llama.cpp/commit/7c0e28585843b366864b43b48f92425e2ea17df6 "devops : add docker-multi-stage builds \(#10832\)")| Dec 23, 2024  
+[.github](/ggerganov/llama.cpp/tree/master/.github ".github")| [.github](/ggerganov/llama.cpp/tree/master/.github ".github")| [tests : increase timeout when sanitizers are enabled (](/ggerganov/llama.cpp/commit/92bc493917d43b83e592349e138b54c90b1c3ea7 "tests : increase timeout when sanitizers are enabled \(#11300\)
+* tests : increase timeout when sanitizers are enabled
+* tests : add DEFAULT_HTTP_TIMEOUT")[#11300](https://github.com/ggerganov/llama.cpp/pull/11300)[)](/ggerganov/llama.cpp/commit/92bc493917d43b83e592349e138b54c90b1c3ea7 "tests : increase timeout when sanitizers are enabled \(#11300\)
+* tests : increase timeout when sanitizers are enabled
+* tests : add DEFAULT_HTTP_TIMEOUT")| Jan 19, 2025  
+[Sources/llama](/ggerganov/llama.cpp/tree/master/Sources/llama "This path skips through empty directories")| [Sources/llama](/ggerganov/llama.cpp/tree/master/Sources/llama "This path skips through empty directories")| [llama : use cmake for swift build (](/ggerganov/llama.cpp/commit/43ed389a3f102517e6f7d5620d8e451e88afbf27 "llama : use cmake for swift build \(#10525\)
+* llama : use cmake for swift build
+* swift : <> -> ""
+* ci : remove make
+* ci : disable ios build
+* Revert "swift : <> -> """
+This reverts commit d39ffd9556482b77d4ea5b118b453fc1c097a31d.
+* ci : try fix ios build
+* ci : cont
+* ci : cont
+---------
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")[#10525](https://github.com/ggerganov/llama.cpp/pull/10525)[)](/ggerganov/llama.cpp/commit/43ed389a3f102517e6f7d5620d8e451e88afbf27 "llama : use cmake for swift build \(#10525\)
+* llama : use cmake for swift build
+* swift : <> -> ""
+* ci : remove make
+* ci : disable ios build
+* Revert "swift : <> -> """
+This reverts commit d39ffd9556482b77d4ea5b118b453fc1c097a31d.
+* ci : try fix ios build
+* ci : cont
+* ci : cont
+---------
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")| Dec 8, 2024  
+[ci](/ggerganov/llama.cpp/tree/master/ci "ci")| [ci](/ggerganov/llama.cpp/tree/master/ci "ci")| [ci : add -no-cnv for tests (](/ggerganov/llama.cpp/commit/b4d92a59a20eea400d8dd30844a339b76210daa0 "ci : add -no-cnv for tests \(#11238\)")[#11238](https://github.com/ggerganov/llama.cpp/pull/11238)[)](/ggerganov/llama.cpp/commit/b4d92a59a20eea400d8dd30844a339b76210daa0 "ci : add -no-cnv for tests \(#11238\)")| Jan 14, 2025  
+[cmake](/ggerganov/llama.cpp/tree/master/cmake "cmake")| [cmake](/ggerganov/llama.cpp/tree/master/cmake "cmake")| [cmake: fix shell command quoting in build-info script (](/ggerganov/llama.cpp/commit/a4251edd6fc16d168f517a7e4b0936212b296603 "cmake: fix shell command quoting in build-info script \(#11309\)")[#11309](https://github.com/ggerganov/llama.cpp/pull/11309)[)](/ggerganov/llama.cpp/commit/a4251edd6fc16d168f517a7e4b0936212b296603 "cmake: fix shell command quoting in build-info script \(#11309\)")| Jan 20, 2025  
+[common](/ggerganov/llama.cpp/tree/master/common "common")| [common](/ggerganov/llama.cpp/tree/master/common "common")| [`common`: utils to split / join / repeat strings (from json converter) (](/ggerganov/llama.cpp/commit/a94f3b2727e97eb6c904006eb786960c069282bc "`common`: utils to split / join / repeat strings \(from json converter\) \(#11342\)
+* Factor string_join, string_split, string_repeat into common
+* json: refactor to surface a versatile builder
+* Update common.cpp")| Jan 22, 2025  
+[docs](/ggerganov/llama.cpp/tree/master/docs "docs")| [docs](/ggerganov/llama.cpp/tree/master/docs "docs")| [doc: add cuda guide for fedora (](/ggerganov/llama.cpp/commit/1204f9727005974587d6fc1dcd4d4f0ead87c856 "doc: add cuda guide for fedora \(#11135\)
+Since NVIDIA does not release CUDA for in-maintenance versions of Fedora, the process of setting up the CUDA toolkit on Fedora has become quite involved. This guide should help mere mortals install CUDA for development in a Fedora 39 toolbox environment, without affecting the host system.")[#11135](https://github.com/ggerganov/llama.cpp/pull/11135)[)](/ggerganov/llama.cpp/commit/1204f9727005974587d6fc1dcd4d4f0ead87c856 "doc: add cuda guide for fedora \(#11135\)
+Since NVIDIA does not release CUDA for in-maintenance versions of Fedora, the process of setting up the CUDA toolkit on Fedora has become quite involved. This guide should help mere mortals install CUDA for development in a Fedora 39 toolbox environment, without affecting the host system.")| Jan 9, 2025  
+[examples](/ggerganov/llama.cpp/tree/master/examples "examples")| [examples](/ggerganov/llama.cpp/tree/master/examples "examples")| [llava : support Minicpm-omni (](/ggerganov/llama.cpp/commit/3e3357fd77bcf5bd8cfcc53ca53d4a5532e67e1b "llava : support Minicpm-omni \(#11289\)
+* init
+* add readme
+* update readme
+* no use make
+* update readme
+* update fix code
+* fix editorconfig-checker
+* no change convert py
+* use clip_image_u8_free")[#11289](https://github.com/ggerganov/llama.cpp/pull/11289)[)](/ggerganov/llama.cpp/commit/3e3357fd77bcf5bd8cfcc53ca53d4a5532e67e1b "llava : support Minicpm-omni \(#11289\)
+* init
+* add readme
+* update readme
+* no use make
+* update readme
+* update fix code
+* fix editorconfig-checker
+* no change convert py
+* use clip_image_u8_free")| Jan 22, 2025  
+[ggml](/ggerganov/llama.cpp/tree/master/ggml "ggml")| [ggml](/ggerganov/llama.cpp/tree/master/ggml "ggml")| [rpc : better caching of the base buffer pointer (](/ggerganov/llama.cpp/commit/6da5bec81c34f3b8a8f1b367cf23ad016e83d332 "rpc : better caching of the base buffer pointer \(#11331\)
+There is no need to use map, just store the base pointer in the buffer
+context.")[#11331](https://github.com/ggerganov/llama.cpp/pull/11331)[)](/ggerganov/llama.cpp/commit/6da5bec81c34f3b8a8f1b367cf23ad016e83d332 "rpc : better caching of the base buffer pointer \(#11331\)
+There is no need to use map, just store the base pointer in the buffer
+context.")| Jan 21, 2025  
+[gguf-py](/ggerganov/llama.cpp/tree/master/gguf-py "gguf-py")| [gguf-py](/ggerganov/llama.cpp/tree/master/gguf-py "gguf-py")| [llama : remove notion of CLS token (](/ggerganov/llama.cpp/commit/08f10f69c38288e9e8bb1f933af63a3fc9013d40 "llama : remove notion of CLS token \(#11064\)
+ggml-ci")[#11064](https://github.com/ggerganov/llama.cpp/pull/11064)[)](/ggerganov/llama.cpp/commit/08f10f69c38288e9e8bb1f933af63a3fc9013d40 "llama : remove notion of CLS token \(#11064\)
+ggml-ci")| Jan 12, 2025  
+[grammars](/ggerganov/llama.cpp/tree/master/grammars "grammars")| [grammars](/ggerganov/llama.cpp/tree/master/grammars "grammars")| [fix typo of README.md (](/ggerganov/llama.cpp/commit/98036d5670f21e9b9a99d5e3dbb3bf7589f5c4e3 "fix typo of README.md \(#10605\)")[#10605](https://github.com/ggerganov/llama.cpp/pull/10605)[)](/ggerganov/llama.cpp/commit/98036d5670f21e9b9a99d5e3dbb3bf7589f5c4e3 "fix typo of README.md \(#10605\)")| Dec 4, 2024  
+[include](/ggerganov/llama.cpp/tree/master/include "include")| [include](/ggerganov/llama.cpp/tree/master/include "include")| [Add Jinja template support (](/ggerganov/llama.cpp/commit/6171c9d25820ccf676b243c172868819d882848f "Add Jinja template support \(#11016\)
+* Copy minja from https://github.com/google/minja/commit/58f0ca6dd74bcbfbd4e71229736640322b31c7f9
+* Add --jinja and --chat-template-file flags
+* Add missing <optional> include
+* Avoid print in get_hf_chat_template.py
+* No designated initializers yet
+* Try and work around msvc++ non-macro max resolution quirk
+* Update test_chat_completion.py
+* Wire LLM_KV_TOKENIZER_CHAT_TEMPLATE_N in llama_model_chat_template
+* Refactor test-chat-template
+* Test templates w/ minja
+* Fix deprecation
+* Add --jinja to llama-run
+* Update common_chat_format_example to use minja template wrapper
+* Test chat_template in e2e test
+* Update utils.py
+* Update test_chat_completion.py
+* Update run.cpp
+* Update arg.cpp
+* Refactor common_chat_* functions to accept minja template + use_jinja option
+* Attempt to fix linkage of LLAMA_CHATML_TEMPLATE
+* Revert LLAMA_CHATML_TEMPLATE refactor
+* Normalize newlines in test-chat-templates for windows tests
+* Forward decl minja::chat_template to avoid eager json dep
+* Flush stdout in chat template before potential crash
+* Fix copy elision warning
+* Rm unused optional include
+* Add missing optional include to server.cpp
+* Disable jinja test that has a cryptic windows failure
+* minja: fix vigogne \(https://github.com/google/minja/pull/22\)
+* Apply suggestions from code review
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>
+* Finish suggested renamings
+* Move chat_templates inside server_context + remove mutex
+* Update --chat-template-file w/ recent change to --chat-template
+* Refactor chat template validation
+* Guard against missing eos/bos tokens \(null token otherwise throws in llama_vocab::impl::token_get_attr\)
+* Warn against missing eos / bos tokens when jinja template references them
+* rename: common_chat_template\[s\]
+* reinstate assert on chat_templates.template_default
+* Update minja to https://github.com/google/minja/commit/b8437df626ac6cd0ce3b333b3c74ed1129c19f25
+* Update minja to https://github.com/google/minja/pull/25
+* Update minja from https://github.com/google/minja/pull/27
+* rm unused optional header
+---------
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")[#11016](https://github.com/ggerganov/llama.cpp/pull/11016)[)](/ggerganov/llama.cpp/commit/6171c9d25820ccf676b243c172868819d882848f "Add Jinja template support \(#11016\)
+* Copy minja from https://github.com/google/minja/commit/58f0ca6dd74bcbfbd4e71229736640322b31c7f9
+* Add --jinja and --chat-template-file flags
+* Add missing <optional> include
+* Avoid print in get_hf_chat_template.py
+* No designated initializers yet
+* Try and work around msvc++ non-macro max resolution quirk
+* Update test_chat_completion.py
+* Wire LLM_KV_TOKENIZER_CHAT_TEMPLATE_N in llama_model_chat_template
+* Refactor test-chat-template
+* Test templates w/ minja
+* Fix deprecation
+* Add --jinja to llama-run
+* Update common_chat_format_example to use minja template wrapper
+* Test chat_template in e2e test
+* Update utils.py
+* Update test_chat_completion.py
+* Update run.cpp
+* Update arg.cpp
+* Refactor common_chat_* functions to accept minja template + use_jinja option
+* Attempt to fix linkage of LLAMA_CHATML_TEMPLATE
+* Revert LLAMA_CHATML_TEMPLATE refactor
+* Normalize newlines in test-chat-templates for windows tests
+* Forward decl minja::chat_template to avoid eager json dep
+* Flush stdout in chat template before potential crash
+* Fix copy elision warning
+* Rm unused optional include
+* Add missing optional include to server.cpp
+* Disable jinja test that has a cryptic windows failure
+* minja: fix vigogne \(https://github.com/google/minja/pull/22\)
+* Apply suggestions from code review
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>
+* Finish suggested renamings
+* Move chat_templates inside server_context + remove mutex
+* Update --chat-template-file w/ recent change to --chat-template
+* Refactor chat template validation
+* Guard against missing eos/bos tokens \(null token otherwise throws in llama_vocab::impl::token_get_attr\)
+* Warn against missing eos / bos tokens when jinja template references them
+* rename: common_chat_template\[s\]
+* reinstate assert on chat_templates.template_default
+* Update minja to https://github.com/google/minja/commit/b8437df626ac6cd0ce3b333b3c74ed1129c19f25
+* Update minja to https://github.com/google/minja/pull/25
+* Update minja from https://github.com/google/minja/pull/27
+* rm unused optional header
+---------
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")| Jan 21, 2025  
+[media](/ggerganov/llama.cpp/tree/master/media "media")| [media](/ggerganov/llama.cpp/tree/master/media "media")| [media : remove old img [no ci]](/ggerganov/llama.cpp/commit/be0e950c91cde2d8488ae32162b549d7023482f0 "media : remove old img \[no ci\]")| Jan 9, 2025  
+[models](/ggerganov/llama.cpp/tree/master/models "models")| [models](/ggerganov/llama.cpp/tree/master/models "models")| [llama : add support for Deepseek-R1-Qwen distill model (](/ggerganov/llama.cpp/commit/ec7f3ac9ab33e46b136eb5ab6a76c4d81f57c7f1 "llama : add support for Deepseek-R1-Qwen distill model \(#11310\)
+* llama : add support for Deepseek-R1-Qwen distill model
+* coding style")[#11310](https://github.com/ggerganov/llama.cpp/pull/11310)[)](/ggerganov/llama.cpp/commit/ec7f3ac9ab33e46b136eb5ab6a76c4d81f57c7f1 "llama : add support for Deepseek-R1-Qwen distill model \(#11310\)
+* llama : add support for Deepseek-R1-Qwen distill model
+* coding style")| Jan 20, 2025  
+[pocs](/ggerganov/llama.cpp/tree/master/pocs "pocs")| [pocs](/ggerganov/llama.cpp/tree/master/pocs "pocs")| [ggml : move AMX to the CPU backend (](/ggerganov/llama.cpp/commit/7cc2d2c88908fc92b97b28acafb82f7d6e425b85 "ggml : move AMX to the CPU backend \(#10570\)
+* ggml : move AMX to the CPU backend
+---------
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")[#10570](https://github.com/ggerganov/llama.cpp/pull/10570)[)](/ggerganov/llama.cpp/commit/7cc2d2c88908fc92b97b28acafb82f7d6e425b85 "ggml : move AMX to the CPU backend \(#10570\)
+* ggml : move AMX to the CPU backend
+---------
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")| Nov 29, 2024  
+[prompts](/ggerganov/llama.cpp/tree/master/prompts "prompts")| [prompts](/ggerganov/llama.cpp/tree/master/prompts "prompts")| [llama : add Qwen support (](/ggerganov/llama.cpp/commit/37c746d687d877bc11803e96b4dc5f378b83c0a0 "llama : add Qwen support \(#4281\)
+* enable qwen to llama.cpp
+* llama : do not GPU split bias tensors
+---------
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")[#4281](https://github.com/ggerganov/llama.cpp/pull/4281)[)](/ggerganov/llama.cpp/commit/37c746d687d877bc11803e96b4dc5f378b83c0a0 "llama : add Qwen support \(#4281\)
+* enable qwen to llama.cpp
+* llama : do not GPU split bias tensors
+---------
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")| Dec 1, 2023  
+[requirements](/ggerganov/llama.cpp/tree/master/requirements "requirements")| [requirements](/ggerganov/llama.cpp/tree/master/requirements "requirements")| [py : update transfomers version (](/ggerganov/llama.cpp/commit/08a43d05b6ba74de97610ae519450ad9996475e0 "py : update transfomers version \(#9694\)
+* update transfomers version.
+* update hfh version.")[#9694](https://github.com/ggerganov/llama.cpp/pull/9694)[)](/ggerganov/llama.cpp/commit/08a43d05b6ba74de97610ae519450ad9996475e0 "py : update transfomers version \(#9694\)
+* update transfomers version.
+* update hfh version.")| Sep 30, 2024  
+[scripts](/ggerganov/llama.cpp/tree/master/scripts "scripts")| [scripts](/ggerganov/llama.cpp/tree/master/scripts "scripts")| [Add Jinja template support (](/ggerganov/llama.cpp/commit/6171c9d25820ccf676b243c172868819d882848f "Add Jinja template support \(#11016\)
+* Copy minja from https://github.com/google/minja/commit/58f0ca6dd74bcbfbd4e71229736640322b31c7f9
+* Add --jinja and --chat-template-file flags
+* Add missing <optional> include
+* Avoid print in get_hf_chat_template.py
+* No designated initializers yet
+* Try and work around msvc++ non-macro max resolution quirk
+* Update test_chat_completion.py
+* Wire LLM_KV_TOKENIZER_CHAT_TEMPLATE_N in llama_model_chat_template
+* Refactor test-chat-template
+* Test templates w/ minja
+* Fix deprecation
+* Add --jinja to llama-run
+* Update common_chat_format_example to use minja template wrapper
+* Test chat_template in e2e test
+* Update utils.py
+* Update test_chat_completion.py
+* Update run.cpp
+* Update arg.cpp
+* Refactor common_chat_* functions to accept minja template + use_jinja option
+* Attempt to fix linkage of LLAMA_CHATML_TEMPLATE
+* Revert LLAMA_CHATML_TEMPLATE refactor
+* Normalize newlines in test-chat-templates for windows tests
+* Forward decl minja::chat_template to avoid eager json dep
+* Flush stdout in chat template before potential crash
+* Fix copy elision warning
+* Rm unused optional include
+* Add missing optional include to server.cpp
+* Disable jinja test that has a cryptic windows failure
+* minja: fix vigogne \(https://github.com/google/minja/pull/22\)
+* Apply suggestions from code review
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>
+* Finish suggested renamings
+* Move chat_templates inside server_context + remove mutex
+* Update --chat-template-file w/ recent change to --chat-template
+* Refactor chat template validation
+* Guard against missing eos/bos tokens \(null token otherwise throws in llama_vocab::impl::token_get_attr\)
+* Warn against missing eos / bos tokens when jinja template references them
+* rename: common_chat_template\[s\]
+* reinstate assert on chat_templates.template_default
+* Update minja to https://github.com/google/minja/commit/b8437df626ac6cd0ce3b333b3c74ed1129c19f25
+* Update minja to https://github.com/google/minja/pull/25
+* Update minja from https://github.com/google/minja/pull/27
+* rm unused optional header
+---------
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")[#11016](https://github.com/ggerganov/llama.cpp/pull/11016)[)](/ggerganov/llama.cpp/commit/6171c9d25820ccf676b243c172868819d882848f "Add Jinja template support \(#11016\)
+* Copy minja from https://github.com/google/minja/commit/58f0ca6dd74bcbfbd4e71229736640322b31c7f9
+* Add --jinja and --chat-template-file flags
+* Add missing <optional> include
+* Avoid print in get_hf_chat_template.py
+* No designated initializers yet
+* Try and work around msvc++ non-macro max resolution quirk
+* Update test_chat_completion.py
+* Wire LLM_KV_TOKENIZER_CHAT_TEMPLATE_N in llama_model_chat_template
+* Refactor test-chat-template
+* Test templates w/ minja
+* Fix deprecation
+* Add --jinja to llama-run
+* Update common_chat_format_example to use minja template wrapper
+* Test chat_template in e2e test
+* Update utils.py
+* Update test_chat_completion.py
+* Update run.cpp
+* Update arg.cpp
+* Refactor common_chat_* functions to accept minja template + use_jinja option
+* Attempt to fix linkage of LLAMA_CHATML_TEMPLATE
+* Revert LLAMA_CHATML_TEMPLATE refactor
+* Normalize newlines in test-chat-templates for windows tests
+* Forward decl minja::chat_template to avoid eager json dep
+* Flush stdout in chat template before potential crash
+* Fix copy elision warning
+* Rm unused optional include
+* Add missing optional include to server.cpp
+* Disable jinja test that has a cryptic windows failure
+* minja: fix vigogne \(https://github.com/google/minja/pull/22\)
+* Apply suggestions from code review
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>
+* Finish suggested renamings
+* Move chat_templates inside server_context + remove mutex
+* Update --chat-template-file w/ recent change to --chat-template
+* Refactor chat template validation
+* Guard against missing eos/bos tokens \(null token otherwise throws in llama_vocab::impl::token_get_attr\)
+* Warn against missing eos / bos tokens when jinja template references them
+* rename: common_chat_template\[s\]
+* reinstate assert on chat_templates.template_default
+* Update minja to https://github.com/google/minja/commit/b8437df626ac6cd0ce3b333b3c74ed1129c19f25
+* Update minja to https://github.com/google/minja/pull/25
+* Update minja from https://github.com/google/minja/pull/27
+* rm unused optional header
+---------
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")| Jan 21, 2025  
+[spm-headers](/ggerganov/llama.cpp/tree/master/spm-headers "spm-headers")| [spm-headers](/ggerganov/llama.cpp/tree/master/spm-headers "spm-headers")| [ggml : move CPU backend to a separate file (](/ggerganov/llama.cpp/commit/9f409893519b4a6def46ef80cd6f5d05ac0fb157 "ggml : move CPU backend to a separate file \(#10144\)")[#10144](https://github.com/ggerganov/llama.cpp/pull/10144)[)](/ggerganov/llama.cpp/commit/9f409893519b4a6def46ef80cd6f5d05ac0fb157 "ggml : move CPU backend to a separate file \(#10144\)")| Nov 3, 2024  
+[src](/ggerganov/llama.cpp/tree/master/src "src")| [src](/ggerganov/llama.cpp/tree/master/src "src")| [Add Jinja template support (](/ggerganov/llama.cpp/commit/6171c9d25820ccf676b243c172868819d882848f "Add Jinja template support \(#11016\)
+* Copy minja from https://github.com/google/minja/commit/58f0ca6dd74bcbfbd4e71229736640322b31c7f9
+* Add --jinja and --chat-template-file flags
+* Add missing <optional> include
+* Avoid print in get_hf_chat_template.py
+* No designated initializers yet
+* Try and work around msvc++ non-macro max resolution quirk
+* Update test_chat_completion.py
+* Wire LLM_KV_TOKENIZER_CHAT_TEMPLATE_N in llama_model_chat_template
+* Refactor test-chat-template
+* Test templates w/ minja
+* Fix deprecation
+* Add --jinja to llama-run
+* Update common_chat_format_example to use minja template wrapper
+* Test chat_template in e2e test
+* Update utils.py
+* Update test_chat_completion.py
+* Update run.cpp
+* Update arg.cpp
+* Refactor common_chat_* functions to accept minja template + use_jinja option
+* Attempt to fix linkage of LLAMA_CHATML_TEMPLATE
+* Revert LLAMA_CHATML_TEMPLATE refactor
+* Normalize newlines in test-chat-templates for windows tests
+* Forward decl minja::chat_template to avoid eager json dep
+* Flush stdout in chat template before potential crash
+* Fix copy elision warning
+* Rm unused optional include
+* Add missing optional include to server.cpp
+* Disable jinja test that has a cryptic windows failure
+* minja: fix vigogne \(https://github.com/google/minja/pull/22\)
+* Apply suggestions from code review
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>
+* Finish suggested renamings
+* Move chat_templates inside server_context + remove mutex
+* Update --chat-template-file w/ recent change to --chat-template
+* Refactor chat template validation
+* Guard against missing eos/bos tokens \(null token otherwise throws in llama_vocab::impl::token_get_attr\)
+* Warn against missing eos / bos tokens when jinja template references them
+* rename: common_chat_template\[s\]
+* reinstate assert on chat_templates.template_default
+* Update minja to https://github.com/google/minja/commit/b8437df626ac6cd0ce3b333b3c74ed1129c19f25
+* Update minja to https://github.com/google/minja/pull/25
+* Update minja from https://github.com/google/minja/pull/27
+* rm unused optional header
+---------
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")[#11016](https://github.com/ggerganov/llama.cpp/pull/11016)[)](/ggerganov/llama.cpp/commit/6171c9d25820ccf676b243c172868819d882848f "Add Jinja template support \(#11016\)
+* Copy minja from https://github.com/google/minja/commit/58f0ca6dd74bcbfbd4e71229736640322b31c7f9
+* Add --jinja and --chat-template-file flags
+* Add missing <optional> include
+* Avoid print in get_hf_chat_template.py
+* No designated initializers yet
+* Try and work around msvc++ non-macro max resolution quirk
+* Update test_chat_completion.py
+* Wire LLM_KV_TOKENIZER_CHAT_TEMPLATE_N in llama_model_chat_template
+* Refactor test-chat-template
+* Test templates w/ minja
+* Fix deprecation
+* Add --jinja to llama-run
+* Update common_chat_format_example to use minja template wrapper
+* Test chat_template in e2e test
+* Update utils.py
+* Update test_chat_completion.py
+* Update run.cpp
+* Update arg.cpp
+* Refactor common_chat_* functions to accept minja template + use_jinja option
+* Attempt to fix linkage of LLAMA_CHATML_TEMPLATE
+* Revert LLAMA_CHATML_TEMPLATE refactor
+* Normalize newlines in test-chat-templates for windows tests
+* Forward decl minja::chat_template to avoid eager json dep
+* Flush stdout in chat template before potential crash
+* Fix copy elision warning
+* Rm unused optional include
+* Add missing optional include to server.cpp
+* Disable jinja test that has a cryptic windows failure
+* minja: fix vigogne \(https://github.com/google/minja/pull/22\)
+* Apply suggestions from code review
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>
+* Finish suggested renamings
+* Move chat_templates inside server_context + remove mutex
+* Update --chat-template-file w/ recent change to --chat-template
+* Refactor chat template validation
+* Guard against missing eos/bos tokens \(null token otherwise throws in llama_vocab::impl::token_get_attr\)
+* Warn against missing eos / bos tokens when jinja template references them
+* rename: common_chat_template\[s\]
+* reinstate assert on chat_templates.template_default
+* Update minja to https://github.com/google/minja/commit/b8437df626ac6cd0ce3b333b3c74ed1129c19f25
+* Update minja to https://github.com/google/minja/pull/25
+* Update minja from https://github.com/google/minja/pull/27
+* rm unused optional header
+---------
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")| Jan 21, 2025  
+[tests](/ggerganov/llama.cpp/tree/master/tests "tests")| [tests](/ggerganov/llama.cpp/tree/master/tests "tests")| [Add Jinja template support (](/ggerganov/llama.cpp/commit/6171c9d25820ccf676b243c172868819d882848f "Add Jinja template support \(#11016\)
+* Copy minja from https://github.com/google/minja/commit/58f0ca6dd74bcbfbd4e71229736640322b31c7f9
+* Add --jinja and --chat-template-file flags
+* Add missing <optional> include
+* Avoid print in get_hf_chat_template.py
+* No designated initializers yet
+* Try and work around msvc++ non-macro max resolution quirk
+* Update test_chat_completion.py
+* Wire LLM_KV_TOKENIZER_CHAT_TEMPLATE_N in llama_model_chat_template
+* Refactor test-chat-template
+* Test templates w/ minja
+* Fix deprecation
+* Add --jinja to llama-run
+* Update common_chat_format_example to use minja template wrapper
+* Test chat_template in e2e test
+* Update utils.py
+* Update test_chat_completion.py
+* Update run.cpp
+* Update arg.cpp
+* Refactor common_chat_* functions to accept minja template + use_jinja option
+* Attempt to fix linkage of LLAMA_CHATML_TEMPLATE
+* Revert LLAMA_CHATML_TEMPLATE refactor
+* Normalize newlines in test-chat-templates for windows tests
+* Forward decl minja::chat_template to avoid eager json dep
+* Flush stdout in chat template before potential crash
+* Fix copy elision warning
+* Rm unused optional include
+* Add missing optional include to server.cpp
+* Disable jinja test that has a cryptic windows failure
+* minja: fix vigogne \(https://github.com/google/minja/pull/22\)
+* Apply suggestions from code review
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>
+* Finish suggested renamings
+* Move chat_templates inside server_context + remove mutex
+* Update --chat-template-file w/ recent change to --chat-template
+* Refactor chat template validation
+* Guard against missing eos/bos tokens \(null token otherwise throws in llama_vocab::impl::token_get_attr\)
+* Warn against missing eos / bos tokens when jinja template references them
+* rename: common_chat_template\[s\]
+* reinstate assert on chat_templates.template_default
+* Update minja to https://github.com/google/minja/commit/b8437df626ac6cd0ce3b333b3c74ed1129c19f25
+* Update minja to https://github.com/google/minja/pull/25
+* Update minja from https://github.com/google/minja/pull/27
+* rm unused optional header
+---------
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")[#11016](https://github.com/ggerganov/llama.cpp/pull/11016)[)](/ggerganov/llama.cpp/commit/6171c9d25820ccf676b243c172868819d882848f "Add Jinja template support \(#11016\)
+* Copy minja from https://github.com/google/minja/commit/58f0ca6dd74bcbfbd4e71229736640322b31c7f9
+* Add --jinja and --chat-template-file flags
+* Add missing <optional> include
+* Avoid print in get_hf_chat_template.py
+* No designated initializers yet
+* Try and work around msvc++ non-macro max resolution quirk
+* Update test_chat_completion.py
+* Wire LLM_KV_TOKENIZER_CHAT_TEMPLATE_N in llama_model_chat_template
+* Refactor test-chat-template
+* Test templates w/ minja
+* Fix deprecation
+* Add --jinja to llama-run
+* Update common_chat_format_example to use minja template wrapper
+* Test chat_template in e2e test
+* Update utils.py
+* Update test_chat_completion.py
+* Update run.cpp
+* Update arg.cpp
+* Refactor common_chat_* functions to accept minja template + use_jinja option
+* Attempt to fix linkage of LLAMA_CHATML_TEMPLATE
+* Revert LLAMA_CHATML_TEMPLATE refactor
+* Normalize newlines in test-chat-templates for windows tests
+* Forward decl minja::chat_template to avoid eager json dep
+* Flush stdout in chat template before potential crash
+* Fix copy elision warning
+* Rm unused optional include
+* Add missing optional include to server.cpp
+* Disable jinja test that has a cryptic windows failure
+* minja: fix vigogne \(https://github.com/google/minja/pull/22\)
+* Apply suggestions from code review
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>
+* Finish suggested renamings
+* Move chat_templates inside server_context + remove mutex
+* Update --chat-template-file w/ recent change to --chat-template
+* Refactor chat template validation
+* Guard against missing eos/bos tokens \(null token otherwise throws in llama_vocab::impl::token_get_attr\)
+* Warn against missing eos / bos tokens when jinja template references them
+* rename: common_chat_template\[s\]
+* reinstate assert on chat_templates.template_default
+* Update minja to https://github.com/google/minja/commit/b8437df626ac6cd0ce3b333b3c74ed1129c19f25
+* Update minja to https://github.com/google/minja/pull/25
+* Update minja from https://github.com/google/minja/pull/27
+* rm unused optional header
+---------
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")| Jan 21, 2025  
+[.clang-format](/ggerganov/llama.cpp/blob/master/.clang-format ".clang-format")| [.clang-format](/ggerganov/llama.cpp/blob/master/.clang-format ".clang-format")| [llama : add .clang-format file (](/ggerganov/llama.cpp/commit/fab5d30ff6729ff6ff615c41e8c0215d6bc30393 "llama : add .clang-format file \(#10415\)")[#10415](https://github.com/ggerganov/llama.cpp/pull/10415)[)](/ggerganov/llama.cpp/commit/fab5d30ff6729ff6ff615c41e8c0215d6bc30393 "llama : add .clang-format file \(#10415\)")| Nov 20, 2024  
+[.clang-tidy](/ggerganov/llama.cpp/blob/master/.clang-tidy ".clang-tidy")| [.clang-tidy](/ggerganov/llama.cpp/blob/master/.clang-tidy ".clang-tidy")| [ggml : move AMX to the CPU backend (](/ggerganov/llama.cpp/commit/7cc2d2c88908fc92b97b28acafb82f7d6e425b85 "ggml : move AMX to the CPU backend \(#10570\)
+* ggml : move AMX to the CPU backend
+---------
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")[#10570](https://github.com/ggerganov/llama.cpp/pull/10570)[)](/ggerganov/llama.cpp/commit/7cc2d2c88908fc92b97b28acafb82f7d6e425b85 "ggml : move AMX to the CPU backend \(#10570\)
+* ggml : move AMX to the CPU backend
+---------
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")| Nov 29, 2024  
+[.dockerignore](/ggerganov/llama.cpp/blob/master/.dockerignore ".dockerignore")| [.dockerignore](/ggerganov/llama.cpp/blob/master/.dockerignore ".dockerignore")| [ci : fix docker build number and tag name (](/ggerganov/llama.cpp/commit/ea9c32be71b91b42ecc538bd902e93cbb5fb36cb "ci : fix docker build number and tag name \(#9638\)
+* ci : fix docker build number and tag name
+* fine-grant permissions")[#9638](https://github.com/ggerganov/llama.cpp/pull/9638)[)](/ggerganov/llama.cpp/commit/ea9c32be71b91b42ecc538bd902e93cbb5fb36cb "ci : fix docker build number and tag name \(#9638\)
+* ci : fix docker build number and tag name
+* fine-grant permissions")| Sep 25, 2024  
+[.ecrc](/ggerganov/llama.cpp/blob/master/.ecrc ".ecrc")| [.ecrc](/ggerganov/llama.cpp/blob/master/.ecrc ".ecrc")| [common : Update stb_image.h to latest version (](/ggerganov/llama.cpp/commit/ad76569f8e78ab6ca921bda25cef25a157361719 "common : Update stb_image.h to latest version \(#9161\)
+* Update stb_image.h to latest version
+Fixes https://github.com/ggerganov/llama.cpp/issues/7431
+* Update .ecrc")[#9161](https://github.com/ggerganov/llama.cpp/pull/9161)[)](/ggerganov/llama.cpp/commit/ad76569f8e78ab6ca921bda25cef25a157361719 "common : Update stb_image.h to latest version \(#9161\)
+* Update stb_image.h to latest version
+Fixes https://github.com/ggerganov/llama.cpp/issues/7431
+* Update .ecrc")| Aug 27, 2024  
+[.editorconfig](/ggerganov/llama.cpp/blob/master/.editorconfig ".editorconfig")| [.editorconfig](/ggerganov/llama.cpp/blob/master/.editorconfig ".editorconfig")| [server : revamp chat UI with vuejs and daisyui (](/ggerganov/llama.cpp/commit/a71d81cf8c1afb26b166f897c94ee1581f9fac7d "server : revamp chat UI with vuejs and daisyui \(#10175\)
+* server : simple chat UI with vuejs and daisyui
+* move old files to legacy folder
+* embed deps into binary
+* basic markdown support
+* add conversation history, save to localStorage
+* fix bg-base classes
+* save theme preferences
+* fix tests
+* regenerate, edit, copy buttons
+* small fixes
+* docs: how to use legacy ui
+* better error handling
+* make CORS preflight more explicit
+* add GET method for CORS
+* fix tests
+* clean up a bit
+* better auto scroll
+* small fixes
+* use collapse-arrow
+* fix closeAndSaveConfigDialog
+* small fix
+* remove console.log
+* fix style for <pre> element
+* lighter bubble color \(less distract when reading\)")[#10175](https://github.com/ggerganov/llama.cpp/pull/10175)[)](/ggerganov/llama.cpp/commit/a71d81cf8c1afb26b166f897c94ee1581f9fac7d "server : revamp chat UI with vuejs and daisyui \(#10175\)
+* server : simple chat UI with vuejs and daisyui
+* move old files to legacy folder
+* embed deps into binary
+* basic markdown support
+* add conversation history, save to localStorage
+* fix bg-base classes
+* save theme preferences
+* fix tests
+* regenerate, edit, copy buttons
+* small fixes
+* docs: how to use legacy ui
+* better error handling
+* make CORS preflight more explicit
+* add GET method for CORS
+* fix tests
+* clean up a bit
+* better auto scroll
+* small fixes
+* use collapse-arrow
+* fix closeAndSaveConfigDialog
+* small fix
+* remove console.log
+* fix style for <pre> element
+* lighter bubble color \(less distract when reading\)")| Nov 7, 2024  
+[.flake8](/ggerganov/llama.cpp/blob/master/.flake8 ".flake8")| [.flake8](/ggerganov/llama.cpp/blob/master/.flake8 ".flake8")| [py : logging and flake8 suppression refactoring (](/ggerganov/llama.cpp/commit/6fbd43221167bf96112f899daf22c127b282cbcf "py : logging and flake8 suppression refactoring \(#7081\)
+Set one as executable and add basicConfig\(\)
+to another. Also added noqa tag to test scripts.")[#7081](https://github.com/ggerganov/llama.cpp/pull/7081)[)](/ggerganov/llama.cpp/commit/6fbd43221167bf96112f899daf22c127b282cbcf "py : logging and flake8 suppression refactoring \(#7081\)
+Set one as executable and add basicConfig\(\)
+to another. Also added noqa tag to test scripts.")| May 5, 2024  
+[.gitignore](/ggerganov/llama.cpp/blob/master/.gitignore ".gitignore")| [.gitignore](/ggerganov/llama.cpp/blob/master/.gitignore ".gitignore")| [vulkan: scale caching for k quants + misc fixes (](/ggerganov/llama.cpp/commit/adc5dd92e8aea98f5e7ac84f6e1bc15de35130b5 "vulkan: scale caching for k quants + misc fixes \(#11081\)
+* q6_k scale caching
+* 16 bit unpack
+* q4_k test \(slow\)
+* revert it
+* q3_k
+* q2_k
+* little stuff
+* try precalculating products of a and q2_k scales
+* Revert "try precalculating products of a and q2_k scales"
+This reverts commit 65110b81f23f66331a50c6e889a7c1ab9470a86b.
+* unpack should be u16, add vim swap to gitignore \(about time\)
+* better q4_k scales
+* q5_k
+* better q6_k with separate paths for all threads and partial threads in use, plus some more optimizations
+* q2_k better dequant
+* q3_k optimizations
+* q3_k use hmask simd from cpu avx version
+* make the caches happy
+* q3_k separate out calculation
+* q2_k separate out
+* little stuff
+* use calc_superblock everywhere
+* q2_k optimize scale calculation
+* more barriers")[#11081](https://github.com/ggerganov/llama.cpp/pull/11081)[)](/ggerganov/llama.cpp/commit/adc5dd92e8aea98f5e7ac84f6e1bc15de35130b5 "vulkan: scale caching for k quants + misc fixes \(#11081\)
+* q6_k scale caching
+* 16 bit unpack
+* q4_k test \(slow\)
+* revert it
+* q3_k
+* q2_k
+* little stuff
+* try precalculating products of a and q2_k scales
+* Revert "try precalculating products of a and q2_k scales"
+This reverts commit 65110b81f23f66331a50c6e889a7c1ab9470a86b.
+* unpack should be u16, add vim swap to gitignore \(about time\)
+* better q4_k scales
+* q5_k
+* better q6_k with separate paths for all threads and partial threads in use, plus some more optimizations
+* q2_k better dequant
+* q3_k optimizations
+* q3_k use hmask simd from cpu avx version
+* make the caches happy
+* q3_k separate out calculation
+* q2_k separate out
+* little stuff
+* use calc_superblock everywhere
+* q2_k optimize scale calculation
+* more barriers")| Jan 15, 2025  
+[.gitmodules](/ggerganov/llama.cpp/blob/master/.gitmodules ".gitmodules")| [.gitmodules](/ggerganov/llama.cpp/blob/master/.gitmodules ".gitmodules")| [ggml : build backends as libraries (](/ggerganov/llama.cpp/commit/ae8de6d50a09d49545e0afab2e50cc4acfb280e2 "ggml : build backends as libraries \(#10256\)
+* ggml : build backends as libraries
+---------
+Signed-off-by: Xiaodong Ye <xiaodong.ye@mthreads.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>
+Co-authored-by: R0CKSTAR <xiaodong.ye@mthreads.com>")[#10256](https://github.com/ggerganov/llama.cpp/pull/10256)[)](/ggerganov/llama.cpp/commit/ae8de6d50a09d49545e0afab2e50cc4acfb280e2 "ggml : build backends as libraries \(#10256\)
+* ggml : build backends as libraries
+---------
+Signed-off-by: Xiaodong Ye <xiaodong.ye@mthreads.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>
+Co-authored-by: R0CKSTAR <xiaodong.ye@mthreads.com>")| Nov 14, 2024  
+[.pre-commit-config.yaml](/ggerganov/llama.cpp/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/ggerganov/llama.cpp/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [convert.py : add python logging instead of print() (](/ggerganov/llama.cpp/commit/a2ac89d6efb41b535778bfeaecaae8fe295b6ed3 "convert.py : add python logging instead of print\(\) \(#6511\)
+* convert.py: add python logging instead of print\(\)
+* convert.py: verbose flag takes priority over dump flag log suppression
+* convert.py: named instance logging
+* convert.py: use explicit logger id string
+* convert.py: convert extra print\(\) to named logger
+* convert.py: sys.stderr.write --> logger.error
+* *.py: Convert all python scripts to use logging module
+* requirements.txt: remove extra line
+* flake8: update flake8 ignore and exclude to match ci settings
+* gh-actions: add flake8-no-print to flake8 lint step
+* pre-commit: add flake8-no-print to flake8 and also update pre-commit version
+* convert-hf-to-gguf.py: print\(\) to logger conversion
+* *.py: logging basiconfig refactor to use conditional expression
+* *.py: removed commented out logging
+* fixup! *.py: logging basiconfig refactor to use conditional expression
+* constant.py: logger.error then exit should be a raise exception instead
+* *.py: Convert logger error and sys.exit\(\) into a raise exception \(for atypical error\)
+* gguf-convert-endian.py: refactor convert_byteorder\(\) to use tqdm progressbar
+* verify-checksum-model.py: This is the result of the program, it should be printed to stdout.
+* compare-llama-bench.py: add blank line for readability during missing repo response
+* reader.py: read_gguf_file\(\) use print\(\) over logging
+* convert.py: warning goes to stderr and won't hurt the dump output
+* gguf-dump.py: dump_metadata\(\) should print to stdout
+* convert-hf-to-gguf.py: print --> logger.debug or ValueError\(\)
+* verify-checksum-models.py: use print\(\) for printing table
+* *.py: refactor logging.basicConfig\(\)
+* gguf-py/gguf/*.py: use __name__ as logger name
+Since they will be imported and not run directly.
+* python-lint.yml: use .flake8 file instead
+* constants.py: logger no longer required
+* convert-hf-to-gguf.py: add additional logging
+* convert-hf-to-gguf.py: print\(\) --> logger
+* *.py: fix flake8 warnings
+* revert changes to convert-hf-to-gguf.py for get_name\(\)
+* convert-hf-to-gguf-update.py: use triple quoted f-string instead
+* *.py: accidentally corrected the wrong line
+* *.py: add compilade warning suggestions and style fixes")[#6511](https://github.com/ggerganov/llama.cpp/pull/6511)[)](/ggerganov/llama.cpp/commit/a2ac89d6efb41b535778bfeaecaae8fe295b6ed3 "convert.py : add python logging instead of print\(\) \(#6511\)
+* convert.py: add python logging instead of print\(\)
+* convert.py: verbose flag takes priority over dump flag log suppression
+* convert.py: named instance logging
+* convert.py: use explicit logger id string
+* convert.py: convert extra print\(\) to named logger
+* convert.py: sys.stderr.write --> logger.error
+* *.py: Convert all python scripts to use logging module
+* requirements.txt: remove extra line
+* flake8: update flake8 ignore and exclude to match ci settings
+* gh-actions: add flake8-no-print to flake8 lint step
+* pre-commit: add flake8-no-print to flake8 and also update pre-commit version
+* convert-hf-to-gguf.py: print\(\) to logger conversion
+* *.py: logging basiconfig refactor to use conditional expression
+* *.py: removed commented out logging
+* fixup! *.py: logging basiconfig refactor to use conditional expression
+* constant.py: logger.error then exit should be a raise exception instead
+* *.py: Convert logger error and sys.exit\(\) into a raise exception \(for atypical error\)
+* gguf-convert-endian.py: refactor convert_byteorder\(\) to use tqdm progressbar
+* verify-checksum-model.py: This is the result of the program, it should be printed to stdout.
+* compare-llama-bench.py: add blank line for readability during missing repo response
+* reader.py: read_gguf_file\(\) use print\(\) over logging
+* convert.py: warning goes to stderr and won't hurt the dump output
+* gguf-dump.py: dump_metadata\(\) should print to stdout
+* convert-hf-to-gguf.py: print --> logger.debug or ValueError\(\)
+* verify-checksum-models.py: use print\(\) for printing table
+* *.py: refactor logging.basicConfig\(\)
+* gguf-py/gguf/*.py: use __name__ as logger name
+Since they will be imported and not run directly.
+* python-lint.yml: use .flake8 file instead
+* constants.py: logger no longer required
+* convert-hf-to-gguf.py: add additional logging
+* convert-hf-to-gguf.py: print\(\) --> logger
+* *.py: fix flake8 warnings
+* revert changes to convert-hf-to-gguf.py for get_name\(\)
+* convert-hf-to-gguf-update.py: use triple quoted f-string instead
+* *.py: accidentally corrected the wrong line
+* *.py: add compilade warning suggestions and style fixes")| May 3, 2024  
+[AUTHORS](/ggerganov/llama.cpp/blob/master/AUTHORS "AUTHORS")| [AUTHORS](/ggerganov/llama.cpp/blob/master/AUTHORS "AUTHORS")| [ggml : remove redundant copyright notice + update authors](/ggerganov/llama.cpp/commit/dc22344088a7ee81a1e4f096459b03a72f24ccdc "ggml : remove redundant copyright notice + update authors")| Nov 28, 2024  
+[CMakeLists.txt](/ggerganov/llama.cpp/blob/master/CMakeLists.txt "CMakeLists.txt")| [CMakeLists.txt](/ggerganov/llama.cpp/blob/master/CMakeLists.txt "CMakeLists.txt")| [cmake : add sanitizer flags for llama.cpp (](/ggerganov/llama.cpp/commit/4dd34ff83165a483ebff7bd43621b28490fa1fd6 "cmake : add sanitizer flags for llama.cpp \(#11279\)
+* cmake : add sanitizer flags for llama.cpp
+ggml-ci
+* tests : fix compile warnings
+ggml-ci
+* cmake : move sanitizer flags to llama_add_compile_flags
+ggml-ci
+* cmake : move llama.cpp compile flags to top level lists
+ggml-ci
+* cmake : apply only sanitizer flags at top level
+ggml-ci
+* tests : fix gguf context use in same_tensor_data
+* gguf-test: tensor data comparison
+* dummy : trigger ggml-ci
+* unicode : silence gcc warnings
+ggml-ci
+* ci : use sanitizer builds only in Debug mode
+ggml-ci
+* cmake : add status messages \[no ci\]
+---------
+Co-authored-by: Johannes Gäßler <johannesg@5d6.de>")[#11279](https://github.com/ggerganov/llama.cpp/pull/11279)[)](/ggerganov/llama.cpp/commit/4dd34ff83165a483ebff7bd43621b28490fa1fd6 "cmake : add sanitizer flags for llama.cpp \(#11279\)
+* cmake : add sanitizer flags for llama.cpp
+ggml-ci
+* tests : fix compile warnings
+ggml-ci
+* cmake : move sanitizer flags to llama_add_compile_flags
+ggml-ci
+* cmake : move llama.cpp compile flags to top level lists
+ggml-ci
+* cmake : apply only sanitizer flags at top level
+ggml-ci
+* tests : fix gguf context use in same_tensor_data
+* gguf-test: tensor data comparison
+* dummy : trigger ggml-ci
+* unicode : silence gcc warnings
+ggml-ci
+* ci : use sanitizer builds only in Debug mode
+ggml-ci
+* cmake : add status messages \[no ci\]
+---------
+Co-authored-by: Johannes Gäßler <johannesg@5d6.de>")| Jan 18, 2025  
+[CMakePresets.json](/ggerganov/llama.cpp/blob/master/CMakePresets.json "CMakePresets.json")| [CMakePresets.json](/ggerganov/llama.cpp/blob/master/CMakePresets.json "CMakePresets.json")| [Changes to CMakePresets.json to add ninja clang target on windows (](/ggerganov/llama.cpp/commit/c37fb4cf62ddf0d33562c4c4a4d6fb45e32ad3b6 "Changes to CMakePresets.json to add ninja clang target on windows \(#10668\)
+* Update cmakepreset.json to use clang with ninja by default
+* Update cmakepreset.json to add clang and ninja based configs
+* Updates to build.md file
+* Make updates to rename preset targets
+* Update with .cmake file
+* Remove additional whitespaces
+* Add .cmake file for x64-windows-llvm
+* Update docs/build.md
+* Update docs/build.md
+---------
+Co-authored-by: Max Krasnyansky <max.krasnyansky@gmail.com>")[#1…](https://github.com/ggerganov/llama.cpp/pull/10668)| Dec 9, 2024  
+[CODEOWNERS](/ggerganov/llama.cpp/blob/master/CODEOWNERS "CODEOWNERS")| [CODEOWNERS](/ggerganov/llama.cpp/blob/master/CODEOWNERS "CODEOWNERS")| [GGUF: C++ refactor, backend support, misc fixes (](/ggerganov/llama.cpp/commit/53ff6b9b9fb25ed0ec0a213e05534fe7c3d0040f "GGUF: C++ refactor, backend support, misc fixes \(#11030\)
+* GGUF: C++ refactor, backend support, misc fixes
+remove ggml_tensor.backend
+update CODEOWNERS \[no ci\]
+remove gguf_get_data from API
+revise GGUF API data types")[#11030](https://github.com/ggerganov/llama.cpp/pull/11030)[)](/ggerganov/llama.cpp/commit/53ff6b9b9fb25ed0ec0a213e05534fe7c3d0040f "GGUF: C++ refactor, backend support, misc fixes \(#11030\)
+* GGUF: C++ refactor, backend support, misc fixes
+remove ggml_tensor.backend
+update CODEOWNERS \[no ci\]
+remove gguf_get_data from API
+revise GGUF API data types")| Jan 7, 2025  
+[CONTRIBUTING.md](/ggerganov/llama.cpp/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/ggerganov/llama.cpp/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")| [contrib : add naming guidelines (cont) (](/ggerganov/llama.cpp/commit/a29f0870d4846f52eda14ae28cea612ab66d903c "contrib : add naming guidelines \(cont\) \(#11177\)")[#11177](https://github.com/ggerganov/llama.cpp/pull/11177)[)](/ggerganov/llama.cpp/commit/a29f0870d4846f52eda14ae28cea612ab66d903c "contrib : add naming guidelines \(cont\) \(#11177\)")| Jan 13, 2025  
+[LICENSE](/ggerganov/llama.cpp/blob/master/LICENSE "LICENSE")| [LICENSE](/ggerganov/llama.cpp/blob/master/LICENSE "LICENSE")| [license : update copyright notice + add AUTHORS (](/ggerganov/llama.cpp/commit/e11a8999b5690f810c2c99c14347f0834e68c524 "license : update copyright notice + add AUTHORS \(#6405\)
+* license : add AUTHORS
+* authors : update
+* scipts : add LICENSE and gen-authors.sh to sync")[#6405](https://github.com/ggerganov/llama.cpp/pull/6405)[)](/ggerganov/llama.cpp/commit/e11a8999b5690f810c2c99c14347f0834e68c524 "license : update copyright notice + add AUTHORS \(#6405\)
+* license : add AUTHORS
+* authors : update
+* scipts : add LICENSE and gen-authors.sh to sync")| Apr 9, 2024  
+[Makefile](/ggerganov/llama.cpp/blob/master/Makefile "Makefile")| [Makefile](/ggerganov/llama.cpp/blob/master/Makefile "Makefile")| [Add Jinja template support (](/ggerganov/llama.cpp/commit/6171c9d25820ccf676b243c172868819d882848f "Add Jinja template support \(#11016\)
+* Copy minja from https://github.com/google/minja/commit/58f0ca6dd74bcbfbd4e71229736640322b31c7f9
+* Add --jinja and --chat-template-file flags
+* Add missing <optional> include
+* Avoid print in get_hf_chat_template.py
+* No designated initializers yet
+* Try and work around msvc++ non-macro max resolution quirk
+* Update test_chat_completion.py
+* Wire LLM_KV_TOKENIZER_CHAT_TEMPLATE_N in llama_model_chat_template
+* Refactor test-chat-template
+* Test templates w/ minja
+* Fix deprecation
+* Add --jinja to llama-run
+* Update common_chat_format_example to use minja template wrapper
+* Test chat_template in e2e test
+* Update utils.py
+* Update test_chat_completion.py
+* Update run.cpp
+* Update arg.cpp
+* Refactor common_chat_* functions to accept minja template + use_jinja option
+* Attempt to fix linkage of LLAMA_CHATML_TEMPLATE
+* Revert LLAMA_CHATML_TEMPLATE refactor
+* Normalize newlines in test-chat-templates for windows tests
+* Forward decl minja::chat_template to avoid eager json dep
+* Flush stdout in chat template before potential crash
+* Fix copy elision warning
+* Rm unused optional include
+* Add missing optional include to server.cpp
+* Disable jinja test that has a cryptic windows failure
+* minja: fix vigogne \(https://github.com/google/minja/pull/22\)
+* Apply suggestions from code review
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>
+* Finish suggested renamings
+* Move chat_templates inside server_context + remove mutex
+* Update --chat-template-file w/ recent change to --chat-template
+* Refactor chat template validation
+* Guard against missing eos/bos tokens \(null token otherwise throws in llama_vocab::impl::token_get_attr\)
+* Warn against missing eos / bos tokens when jinja template references them
+* rename: common_chat_template\[s\]
+* reinstate assert on chat_templates.template_default
+* Update minja to https://github.com/google/minja/commit/b8437df626ac6cd0ce3b333b3c74ed1129c19f25
+* Update minja to https://github.com/google/minja/pull/25
+* Update minja from https://github.com/google/minja/pull/27
+* rm unused optional header
+---------
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")[#11016](https://github.com/ggerganov/llama.cpp/pull/11016)[)](/ggerganov/llama.cpp/commit/6171c9d25820ccf676b243c172868819d882848f "Add Jinja template support \(#11016\)
+* Copy minja from https://github.com/google/minja/commit/58f0ca6dd74bcbfbd4e71229736640322b31c7f9
+* Add --jinja and --chat-template-file flags
+* Add missing <optional> include
+* Avoid print in get_hf_chat_template.py
+* No designated initializers yet
+* Try and work around msvc++ non-macro max resolution quirk
+* Update test_chat_completion.py
+* Wire LLM_KV_TOKENIZER_CHAT_TEMPLATE_N in llama_model_chat_template
+* Refactor test-chat-template
+* Test templates w/ minja
+* Fix deprecation
+* Add --jinja to llama-run
+* Update common_chat_format_example to use minja template wrapper
+* Test chat_template in e2e test
+* Update utils.py
+* Update test_chat_completion.py
+* Update run.cpp
+* Update arg.cpp
+* Refactor common_chat_* functions to accept minja template + use_jinja option
+* Attempt to fix linkage of LLAMA_CHATML_TEMPLATE
+* Revert LLAMA_CHATML_TEMPLATE refactor
+* Normalize newlines in test-chat-templates for windows tests
+* Forward decl minja::chat_template to avoid eager json dep
+* Flush stdout in chat template before potential crash
+* Fix copy elision warning
+* Rm unused optional include
+* Add missing optional include to server.cpp
+* Disable jinja test that has a cryptic windows failure
+* minja: fix vigogne \(https://github.com/google/minja/pull/22\)
+* Apply suggestions from code review
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>
+* Finish suggested renamings
+* Move chat_templates inside server_context + remove mutex
+* Update --chat-template-file w/ recent change to --chat-template
+* Refactor chat template validation
+* Guard against missing eos/bos tokens \(null token otherwise throws in llama_vocab::impl::token_get_attr\)
+* Warn against missing eos / bos tokens when jinja template references them
+* rename: common_chat_template\[s\]
+* reinstate assert on chat_templates.template_default
+* Update minja to https://github.com/google/minja/commit/b8437df626ac6cd0ce3b333b3c74ed1129c19f25
+* Update minja to https://github.com/google/minja/pull/25
+* Update minja from https://github.com/google/minja/pull/27
+* rm unused optional header
+---------
+Co-authored-by: Xuan Son Nguyen <thichthat@gmail.com>
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")| Jan 21, 2025  
+[Package.swift](/ggerganov/llama.cpp/blob/master/Package.swift "Package.swift")| [Package.swift](/ggerganov/llama.cpp/blob/master/Package.swift "Package.swift")| [llama : use cmake for swift build (](/ggerganov/llama.cpp/commit/43ed389a3f102517e6f7d5620d8e451e88afbf27 "llama : use cmake for swift build \(#10525\)
+* llama : use cmake for swift build
+* swift : <> -> ""
+* ci : remove make
+* ci : disable ios build
+* Revert "swift : <> -> """
+This reverts commit d39ffd9556482b77d4ea5b118b453fc1c097a31d.
+* ci : try fix ios build
+* ci : cont
+* ci : cont
+---------
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")[#10525](https://github.com/ggerganov/llama.cpp/pull/10525)[)](/ggerganov/llama.cpp/commit/43ed389a3f102517e6f7d5620d8e451e88afbf27 "llama : use cmake for swift build \(#10525\)
+* llama : use cmake for swift build
+* swift : <> -> ""
+* ci : remove make
+* ci : disable ios build
+* Revert "swift : <> -> """
+This reverts commit d39ffd9556482b77d4ea5b118b453fc1c097a31d.
+* ci : try fix ios build
+* ci : cont
+* ci : cont
+---------
+Co-authored-by: Georgi Gerganov <ggerganov@gmail.com>")| Dec 8, 2024  
+[README.md](/ggerganov/llama.cpp/blob/master/README.md "README.md")| [README.md](/ggerganov/llama.cpp/blob/master/README.md "README.md")| [README : added kalavai to infrastructure list (](/ggerganov/llama.cpp/commit/7a689c415e2aecea1a5ae438542afeaf69815d52 "README : added kalavai to infrastructure list \(#11216\)")[#11216](https://github.com/ggerganov/llama.cpp/pull/11216)[)](/ggerganov/llama.cpp/commit/7a689c415e2aecea1a5ae438542afeaf69815d52 "README : added kalavai to infrastructure list \(#11216\)")| Jan 17, 2025  
+[SECURITY.md](/ggerganov/llama.cpp/blob/master/SECURITY.md "SECURITY.md")| [SECURITY.md](/ggerganov/llama.cpp/blob/master/SECURITY.md "SECURITY.md")| [chore: Fix markdown warnings (](/ggerganov/llama.cpp/commit/5c4d767ac028c0f9c31cba3fceaf765c6097abfc "chore: Fix markdown warnings \(#6625\)")[#6625](https://github.com/ggerganov/llama.cpp/pull/6625)[)](/ggerganov/llama.cpp/commit/5c4d767ac028c0f9c31cba3fceaf765c6097abfc "chore: Fix markdown warnings \(#6625\)")| Apr 12, 2024  
+[convert_hf_to_gguf.py](/ggerganov/llama.cpp/blob/master/convert_hf_to_gguf.py "convert_hf_to_gguf.py")| [convert_hf_to_gguf.py](/ggerganov/llama.cpp/blob/master/convert_hf_to_gguf.py "convert_hf_to_gguf.py")| [llama : add support for Deepseek-R1-Qwen distill model (](/ggerganov/llama.cpp/commit/ec7f3ac9ab33e46b136eb5ab6a76c4d81f57c7f1 "llama : add support for Deepseek-R1-Qwen distill model \(#11310\)
+* llama : add support for Deepseek-R1-Qwen distill model
+* coding style")[#11310](https://github.com/ggerganov/llama.cpp/pull/11310)[)](/ggerganov/llama.cpp/commit/ec7f3ac9ab33e46b136eb5ab6a76c4d81f57c7f1 "llama : add support for Deepseek-R1-Qwen distill model \(#11310\)
+* llama : add support for Deepseek-R1-Qwen distill model
+* coding style")| Jan 20, 2025  
+[convert_hf_to_gguf_update.py](/ggerganov/llama.cpp/blob/master/convert_hf_to_gguf_update.py "convert_hf_to_gguf_update.py")| [convert_hf_to_gguf_update.py](/ggerganov/llama.cpp/blob/master/convert_hf_to_gguf_update.py "convert_hf_to_gguf_update.py")| [llama : add support for Deepseek-R1-Qwen distill model (](/ggerganov/llama.cpp/commit/ec7f3ac9ab33e46b136eb5ab6a76c4d81f57c7f1 "llama : add support for Deepseek-R1-Qwen distill model \(#11310\)
+* llama : add support for Deepseek-R1-Qwen distill model
+* coding style")[#11310](https://github.com/ggerganov/llama.cpp/pull/11310)[)](/ggerganov/llama.cpp/commit/ec7f3ac9ab33e46b136eb5ab6a76c4d81f57c7f1 "llama : add support for Deepseek-R1-Qwen distill model \(#11310\)
+* llama : add support for Deepseek-R1-Qwen distill model
+* coding style")| Jan 20, 2025  
+[convert_llama_ggml_to_gguf.py](/ggerganov/llama.cpp/blob/master/convert_llama_ggml_to_gguf.py "convert_llama_ggml_to_gguf.py")| [convert_llama_ggml_to_gguf.py](/ggerganov/llama.cpp/blob/master/convert_llama_ggml_to_gguf.py "convert_llama_ggml_to_gguf.py")| [py : fix wrong input type for raw_dtype in ggml to gguf scripts (](/ggerganov/llama.cpp/commit/ee2984bdaf10c14d440ad873a049bcc09b786d9b "py : fix wrong input type for raw_dtype in ggml to gguf scripts \(#8928\)
+Co-authored-by: farbod <farbod.bjary82@gmail.com>")[#8928](https://github.com/ggerganov/llama.cpp/pull/8928)[)](/ggerganov/llama.cpp/commit/ee2984bdaf10c14d440ad873a049bcc09b786d9b "py : fix wrong input type for raw_dtype in ggml to gguf scripts \(#8928\)
+Co-authored-by: farbod <farbod.bjary82@gmail.com>")| Aug 16, 2024  
+[convert_lora_to_gguf.py](/ggerganov/llama.cpp/blob/master/convert_lora_to_gguf.py "convert_lora_to_gguf.py")| [convert_lora_to_gguf.py](/ggerganov/llama.cpp/blob/master/convert_lora_to_gguf.py "convert_lora_to_gguf.py")| [lora : improve compat with](/ggerganov/llama.cpp/commit/4d2b3d88041705b20c30b3219838aa435e7ffbde "lora : improve compat with `mergekit-extract-lora` \(#11131\)
+* \(wip\) support mergekit-extracted lora
+* support mergekit-extract-lora
+* use lora->get_scale
+* correct comment
+* correct norm name & condition
+* add some hints") `[mergekit-extract-lora](/ggerganov/llama.cpp/commit/4d2b3d88041705b20c30b3219838aa435e7ffbde "lora : improve compat with `mergekit-extract-lora` \(#11131\)
+* \(wip\) support mergekit-extracted lora
+* support mergekit-extract-lora
+* use lora->get_scale
+* correct comment
+* correct norm name & condition
+* add some hints")` [(](/ggerganov/llama.cpp/commit/4d2b3d88041705b20c30b3219838aa435e7ffbde "lora : improve compat with `mergekit-extract-lora` \(#11131\)
+* \(wip\) support mergekit-extracted lora
+* support mergekit-extract-lora
+* use lora->get_scale
+* correct comment
+* correct norm name & condition
+* add some hints")[#11131](https://github.com/ggerganov/llama.cpp/pull/11131)[)](/ggerganov/llama.cpp/commit/4d2b3d88041705b20c30b3219838aa435e7ffbde "lora : improve compat with `mergekit-extract-lora` \(#11131\)
+* \(wip\) support mergekit-extracted lora
+* support mergekit-extract-lora
+* use lora->get_scale
+* correct comment
+* correct norm name & condition
+* add some hints")| Jan 8, 2025  
+[flake.lock](/ggerganov/llama.cpp/blob/master/flake.lock "flake.lock")| [flake.lock](/ggerganov/llama.cpp/blob/master/flake.lock "flake.lock")| [flake.lock: Update (](/ggerganov/llama.cpp/commit/cce5a9007572c6e9fa522296b77571d2e5071357 "flake.lock: Update \(#10470\)
+Flake lock file updates:
+• Updated input 'nixpkgs':
+  'github:NixOS/nixpkgs/5e4fbfb6b3de1aa2872b76d49fafc942626e2add?narHash=sha256-OZiZ3m8SCMfh3B6bfGC/Bm4x3qc1m2SVEAlkV6iY7Yg%3D' \(2024-11-15\)
+ → 'github:NixOS/nixpkgs/23e89b7da85c3640bbc2173fe04f4bd114342367?narHash=sha256-y/MEyuJ5oBWrWAic/14LaIr/u5E0wRVzyYsouYY3W6w%3D' \(2024-11-19\)
+Co-authored-by: github-actions\[bot\] <github-actions\[bot\]@users.noreply.github.com>")[#10470](https://github.com/ggerganov/llama.cpp/pull/10470)[)](/ggerganov/llama.cpp/commit/cce5a9007572c6e9fa522296b77571d2e5071357 "flake.lock: Update \(#10470\)
+Flake lock file updates:
+• Updated input 'nixpkgs':
+  'github:NixOS/nixpkgs/5e4fbfb6b3de1aa2872b76d49fafc942626e2add?narHash=sha256-OZiZ3m8SCMfh3B6bfGC/Bm4x3qc1m2SVEAlkV6iY7Yg%3D' \(2024-11-15\)
+ → 'github:NixOS/nixpkgs/23e89b7da85c3640bbc2173fe04f4bd114342367?narHash=sha256-y/MEyuJ5oBWrWAic/14LaIr/u5E0wRVzyYsouYY3W6w%3D' \(2024-11-19\)
+Co-authored-by: github-actions\[bot\] <github-actions\[bot\]@users.noreply.github.com>")| Nov 24, 2024  
+[flake.nix](/ggerganov/llama.cpp/blob/master/flake.nix "flake.nix")| [flake.nix](/ggerganov/llama.cpp/blob/master/flake.nix "flake.nix")| [build(nix): Package gguf-py (](/ggerganov/llama.cpp/commit/9c1ba557335c3cab46807e6478eb7d17a63361f1 "build\(nix\): Package gguf-py \(#5664\)
+* style: format with nixfmt/rfc101-style
+* build\(nix\): Package gguf-py
+* build\(nix\): Refactor to new scope for gguf-py
+* build\(nix\): Exclude gguf-py from devShells
+* build\(nix\): Refactor gguf-py derivation to take in exact deps
+* build\(nix\): Enable pytestCheckHook and pythonImportsCheck for gguf-py
+* build\(python\): Package python scripts with pyproject.toml
+* chore: Cleanup
+* dev\(nix\): Break up python/C devShells
+* build\(python\): Relax pytorch version constraint
+Nix has an older version
+* chore: Move cmake to nativeBuildInputs for devShell
+* fmt: Reconcile formatting with rebase
+* style: nix fmt
+* cleanup: Remove unncessary __init__.py
+* chore: Suggestions from review
+- Filter out non-source files from llama-scripts flake derivation
+- Clean up unused closure
+- Remove scripts devShell
+* revert: Bad changes
+* dev: Simplify devShells, restore the -extra devShell
+* build\(nix\): Add pyyaml for gguf-py
+* chore: Remove some unused bindings
+* dev: Add tiktoken to -extra devShells")[#5664](https://github.com/ggerganov/llama.cpp/pull/5664)[)](/ggerganov/llama.cpp/commit/9c1ba557335c3cab46807e6478eb7d17a63361f1 "build\(nix\): Package gguf-py \(#5664\)
+* style: format with nixfmt/rfc101-style
+* build\(nix\): Package gguf-py
+* build\(nix\): Refactor to new scope for gguf-py
+* build\(nix\): Exclude gguf-py from devShells
+* build\(nix\): Refactor gguf-py derivation to take in exact deps
+* build\(nix\): Enable pytestCheckHook and pythonImportsCheck for gguf-py
+* build\(python\): Package python scripts with pyproject.toml
+* chore: Cleanup
+* dev\(nix\): Break up python/C devShells
+* build\(python\): Relax pytorch version constraint
+Nix has an older version
+* chore: Move cmake to nativeBuildInputs for devShell
+* fmt: Reconcile formatting with rebase
+* style: nix fmt
+* cleanup: Remove unncessary __init__.py
+* chore: Suggestions from review
+- Filter out non-source files from llama-scripts flake derivation
+- Clean up unused closure
+- Remove scripts devShell
+* revert: Bad changes
+* dev: Simplify devShells, restore the -extra devShell
+* build\(nix\): Add pyyaml for gguf-py
+* chore: Remove some unused bindings
+* dev: Add tiktoken to -extra devShells")| Sep 2, 2024  
+[mypy.ini](/ggerganov/llama.cpp/blob/master/mypy.ini "mypy.ini")| [mypy.ini](/ggerganov/llama.cpp/blob/master/mypy.ini "mypy.ini")| [convert : partially revert PR](/ggerganov/llama.cpp/commit/b43ebde3b0ccbc42d9dd782b32e2fd8eb35b43b5 "convert : partially revert PR #4818 \(#5041\)") [#4818](https://github.com/ggerganov/llama.cpp/pull/4818) [(](/ggerganov/llama.cpp/commit/b43ebde3b0ccbc42d9dd782b32e2fd8eb35b43b5 "convert : partially revert PR #4818 \(#5041\)")[#5041](https://github.com/ggerganov/llama.cpp/pull/5041)[)](/ggerganov/llama.cpp/commit/b43ebde3b0ccbc42d9dd782b32e2fd8eb35b43b5 "convert : partially revert PR #4818 \(#5041\)")| Jan 21, 2024  
+[poetry.lock](/ggerganov/llama.cpp/blob/master/poetry.lock "poetry.lock")| [poetry.lock](/ggerganov/llama.cpp/blob/master/poetry.lock "poetry.lock")| [build(python): Package scripts with pip-0517 compliance](/ggerganov/llama.cpp/commit/b0a46993dfbf8b8127598f319d4dcfdd83824ba8 "build\(python\): Package scripts with pip-0517 compliance")| Jul 4, 2024  
+[pyproject.toml](/ggerganov/llama.cpp/blob/master/pyproject.toml "pyproject.toml")| [pyproject.toml](/ggerganov/llama.cpp/blob/master/pyproject.toml "pyproject.toml")| [build(nix): Package gguf-py (](/ggerganov/llama.cpp/commit/9c1ba557335c3cab46807e6478eb7d17a63361f1 "build\(nix\): Package gguf-py \(#5664\)
+* style: format with nixfmt/rfc101-style
+* build\(nix\): Package gguf-py
+* build\(nix\): Refactor to new scope for gguf-py
+* build\(nix\): Exclude gguf-py from devShells
+* build\(nix\): Refactor gguf-py derivation to take in exact deps
+* build\(nix\): Enable pytestCheckHook and pythonImportsCheck for gguf-py
+* build\(python\): Package python scripts with pyproject.toml
+* chore: Cleanup
+* dev\(nix\): Break up python/C devShells
+* build\(python\): Relax pytorch version constraint
+Nix has an older version
+* chore: Move cmake to nativeBuildInputs for devShell
+* fmt: Reconcile formatting with rebase
+* style: nix fmt
+* cleanup: Remove unncessary __init__.py
+* chore: Suggestions from review
+- Filter out non-source files from llama-scripts flake derivation
+- Clean up unused closure
+- Remove scripts devShell
+* revert: Bad changes
+* dev: Simplify devShells, restore the -extra devShell
+* build\(nix\): Add pyyaml for gguf-py
+* chore: Remove some unused bindings
+* dev: Add tiktoken to -extra devShells")[#5664](https://github.com/ggerganov/llama.cpp/pull/5664)[)](/ggerganov/llama.cpp/commit/9c1ba557335c3cab46807e6478eb7d17a63361f1 "build\(nix\): Package gguf-py \(#5664\)
+* style: format with nixfmt/rfc101-style
+* build\(nix\): Package gguf-py
+* build\(nix\): Refactor to new scope for gguf-py
+* build\(nix\): Exclude gguf-py from devShells
+* build\(nix\): Refactor gguf-py derivation to take in exact deps
+* build\(nix\): Enable pytestCheckHook and pythonImportsCheck for gguf-py
+* build\(python\): Package python scripts with pyproject.toml
+* chore: Cleanup
+* dev\(nix\): Break up python/C devShells
+* build\(python\): Relax pytorch version constraint
+Nix has an older version
+* chore: Move cmake to nativeBuildInputs for devShell
+* fmt: Reconcile formatting with rebase
+* style: nix fmt
+* cleanup: Remove unncessary __init__.py
+* chore: Suggestions from review
+- Filter out non-source files from llama-scripts flake derivation
+- Clean up unused closure
+- Remove scripts devShell
+* revert: Bad changes
+* dev: Simplify devShells, restore the -extra devShell
+* build\(nix\): Add pyyaml for gguf-py
+* chore: Remove some unused bindings
+* dev: Add tiktoken to -extra devShells")| Sep 2, 2024  
+[pyrightconfig.json](/ggerganov/llama.cpp/blob/master/pyrightconfig.json "pyrightconfig.json")| [pyrightconfig.json](/ggerganov/llama.cpp/blob/master/pyrightconfig.json "pyrightconfig.json")| [ci : reduce severity of unused Pyright ignore comments (](/ggerganov/llama.cpp/commit/511636df0c90826b4dd1fc21ff260c19d69a3b5d "ci : reduce severity of unused Pyright ignore comments \(#9697\)")[#9697](https://github.com/ggerganov/llama.cpp/pull/9697)[)](/ggerganov/llama.cpp/commit/511636df0c90826b4dd1fc21ff260c19d69a3b5d "ci : reduce severity of unused Pyright ignore comments \(#9697\)")| Sep 30, 2024  
+[requirements.txt](/ggerganov/llama.cpp/blob/master/requirements.txt "requirements.txt")| [requirements.txt](/ggerganov/llama.cpp/blob/master/requirements.txt "requirements.txt")| [Refactor lora adapter support (](/ggerganov/llama.cpp/commit/97bdd26eee11fe109dec00de75690ceef61c03f2 "Refactor lora adapter support \(#8332\)
+* lora: load to devide buft
+* add patch tensor function
+* correct tensor patch
+* llama_lora_adapter_apply
+* correct ggml_backend_tensor_copy
+* add llm_build_mm
+* fix auto merge
+* update based on review comments
+* add convert script
+* no more transpose A
+* add f16 convert
+* add metadata check
+* add sanity check
+* fix ftype
+* add requirements
+* fix requirements
+* fix outfile
+* conversion: only allow selected models
+* fix types
+* cuda : do not use dmmv if the tensor does not have enough cols
+* llama : lora fixes
+* do not disable mmap with lora
+Co-authored-by: slaren <slarengh@gmail.com>
+* llm_build_lora_mm_id
+* convert_lora : MoE LoRA conversion support
+* convert_lora : prefer safetensors, similarly to convert_hf
+* convert_hf : simplify modify_tensors for InternLM2
+* convert_lora : lazy conversion
+* llama : load and use alpha from LoRA adapters
+* llama : use llm_build_lora_mm in most model graphs
+* auto scale
+* Revert "auto scale"
+This reverts commit 42415a4874e0f963e4aca6796ea5dfb97cd17464.
+* remove redundant params
+* Apply suggestions from code review
+Co-authored-by: slaren <slarengh@gmail.com>
+* change kv metadata
+* move add_type to __init__
+* convert_hf : move add_type to main\(\)
+* convert_lora : use the GGUFWriter from Model instead of overwriting it
+---------
+Co-authored-by: slaren <slarengh@gmail.com>
+Co-authored-by: Francis Couture-Harpin <git@compilade.net>")[#8332](https://github.com/ggerganov/llama.cpp/pull/8332)[)](/ggerganov/llama.cpp/commit/97bdd26eee11fe109dec00de75690ceef61c03f2 "Refactor lora adapter support \(#8332\)
+* lora: load to devide buft
+* add patch tensor function
+* correct tensor patch
+* llama_lora_adapter_apply
+* correct ggml_backend_tensor_copy
+* add llm_build_mm
+* fix auto merge
+* update based on review comments
+* add convert script
+* no more transpose A
+* add f16 convert
+* add metadata check
+* add sanity check
+* fix ftype
+* add requirements
+* fix requirements
+* fix outfile
+* conversion: only allow selected models
+* fix types
+* cuda : do not use dmmv if the tensor does not have enough cols
+* llama : lora fixes
+* do not disable mmap with lora
+Co-authored-by: slaren <slarengh@gmail.com>
+* llm_build_lora_mm_id
+* convert_lora : MoE LoRA conversion support
+* convert_lora : prefer safetensors, similarly to convert_hf
+* convert_hf : simplify modify_tensors for InternLM2
+* convert_lora : lazy conversion
+* llama : load and use alpha from LoRA adapters
+* llama : use llm_build_lora_mm in most model graphs
+* auto scale
+* Revert "auto scale"
+This reverts commit 42415a4874e0f963e4aca6796ea5dfb97cd17464.
+* remove redundant params
+* Apply suggestions from code review
+Co-authored-by: slaren <slarengh@gmail.com>
+* change kv metadata
+* move add_type to __init__
+* convert_hf : move add_type to main\(\)
+* convert_lora : use the GGUFWriter from Model instead of overwriting it
+---------
+Co-authored-by: slaren <slarengh@gmail.com>
+Co-authored-by: Francis Couture-Harpin <git@compilade.net>")| Jul 15, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+# llama.cpp
+
+[](#llamacpp)
+
+[![llama](https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png)](https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png)
+
+[![License: MIT](https://camo.githubusercontent.com/6581c31c16c1b13ddc2efb92e2ad69a93ddc4a92fd871ff15d401c4c6c9155a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)](https://opensource.org/licenses/MIT) [![Server](https://github.com/ggerganov/llama.cpp/actions/workflows/server.yml/badge.svg)](https://github.com/ggerganov/llama.cpp/actions/workflows/server.yml)
+
+[Roadmap](https://github.com/users/ggerganov/projects/7) / [Project status](https://github.com/ggerganov/llama.cpp/discussions/3471) / [Manifesto](https://github.com/ggerganov/llama.cpp/discussions/205) / [ggml](https://github.com/ggerganov/ggml)
+
+Inference of Meta's [LLaMA](https://arxiv.org/abs/2302.13971) model (and others) in pure C/C++
+
+## Recent API changes
+
+[](#recent-api-changes)
+
+  * [Changelog for `libllama` API](https://github.com/ggerganov/llama.cpp/issues/9289)
+  * [Changelog for `llama-server` REST API](https://github.com/ggerganov/llama.cpp/issues/9291)
+
+
+
+## Hot topics
+
+[](#hot-topics)
+
+  * **Introducing GGUF-my-LoRA** [#10123](https://github.com/ggerganov/llama.cpp/discussions/10123)
+  * Hugging Face Inference Endpoints now support GGUF out of the box! [#9669](https://github.com/ggerganov/llama.cpp/discussions/9669)
+  * Hugging Face GGUF editor: [discussion](https://github.com/ggerganov/llama.cpp/discussions/9268) | [tool](https://huggingface.co/spaces/CISCai/gguf-editor)
+
+
+
+## Description
+
+[](#description)
+
+The main goal of `llama.cpp` is to enable LLM inference with minimal setup and state-of-the-art performance on a wide range of hardware - locally and in the cloud.
+
+  * Plain C/C++ implementation without any dependencies
+  * Apple silicon is a first-class citizen - optimized via ARM NEON, Accelerate and Metal frameworks
+  * AVX, AVX2, AVX512 and AMX support for x86 architectures
+  * 1.5-bit, 2-bit, 3-bit, 4-bit, 5-bit, 6-bit, and 8-bit integer quantization for faster inference and reduced memory use
+  * Custom CUDA kernels for running LLMs on NVIDIA GPUs (support for AMD GPUs via HIP and Moore Threads MTT GPUs via MUSA)
+  * Vulkan and SYCL backend support
+  * CPU+GPU hybrid inference to partially accelerate models larger than the total VRAM capacity
+
+
+
+The `llama.cpp` project is the main playground for developing new features for the [ggml](https://github.com/ggerganov/ggml) library.
+
+Models
+
+Typically finetunes of the base models below are supported as well.
+
+Instructions for adding support for new models: [HOWTO-add-model.md](/ggerganov/llama.cpp/blob/master/docs/development/HOWTO-add-model.md)
+
+#### Text-only
+
+[](#text-only)
+
+  * LLaMA 🦙
+  * LLaMA 2 🦙🦙
+  * LLaMA 3 🦙🦙🦙
+  * [Mistral 7B](https://huggingface.co/mistralai/Mistral-7B-v0.1)
+  * [Mixtral MoE](https://huggingface.co/models?search=mistral-ai/Mixtral)
+  * [DBRX](https://huggingface.co/databricks/dbrx-instruct)
+  * [Falcon](https://huggingface.co/models?search=tiiuae/falcon)
+  * [Chinese LLaMA / Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) and [Chinese LLaMA-2 / Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)
+  * [Vigogne (French)](https://github.com/bofenghuang/vigogne)
+  * [BERT](https://github.com/ggerganov/llama.cpp/pull/5423)
+  * [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/)
+  * [Baichuan 1 & 2](https://huggingface.co/models?search=baichuan-inc/Baichuan) + [derivations](https://huggingface.co/hiyouga/baichuan-7b-sft)
+  * [Aquila 1 & 2](https://huggingface.co/models?search=BAAI/Aquila)
+  * [Starcoder models](https://github.com/ggerganov/llama.cpp/pull/3187)
+  * [Refact](https://huggingface.co/smallcloudai/Refact-1_6B-fim)
+  * [MPT](https://github.com/ggerganov/llama.cpp/pull/3417)
+  * [Bloom](https://github.com/ggerganov/llama.cpp/pull/3553)
+  * [Yi models](https://huggingface.co/models?search=01-ai/Yi)
+  * [StableLM models](https://huggingface.co/stabilityai)
+  * [Deepseek models](https://huggingface.co/models?search=deepseek-ai/deepseek)
+  * [Qwen models](https://huggingface.co/models?search=Qwen/Qwen)
+  * [PLaMo-13B](https://github.com/ggerganov/llama.cpp/pull/3557)
+  * [Phi models](https://huggingface.co/models?search=microsoft/phi)
+  * [PhiMoE](https://github.com/ggerganov/llama.cpp/pull/11003)
+  * [GPT-2](https://huggingface.co/gpt2)
+  * [Orion 14B](https://github.com/ggerganov/llama.cpp/pull/5118)
+  * [InternLM2](https://huggingface.co/models?search=internlm2)
+  * [CodeShell](https://github.com/WisdomShell/codeshell)
+  * [Gemma](https://ai.google.dev/gemma)
+  * [Mamba](https://github.com/state-spaces/mamba)
+  * [Grok-1](https://huggingface.co/keyfan/grok-1-hf)
+  * [Xverse](https://huggingface.co/models?search=xverse)
+  * [Command-R models](https://huggingface.co/models?search=CohereForAI/c4ai-command-r)
+  * [SEA-LION](https://huggingface.co/models?search=sea-lion)
+  * [GritLM-7B](https://huggingface.co/GritLM/GritLM-7B) + [GritLM-8x7B](https://huggingface.co/GritLM/GritLM-8x7B)
+  * [OLMo](https://allenai.org/olmo)
+  * [OLMo 2](https://allenai.org/olmo)
+  * [OLMoE](https://huggingface.co/allenai/OLMoE-1B-7B-0924)
+  * [Granite models](https://huggingface.co/collections/ibm-granite/granite-code-models-6624c5cec322e4c148c8b330)
+  * [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) + [Pythia](https://github.com/EleutherAI/pythia)
+  * [Snowflake-Arctic MoE](https://huggingface.co/collections/Snowflake/arctic-66290090abe542894a5ac520)
+  * [Smaug](https://huggingface.co/models?search=Smaug)
+  * [Poro 34B](https://huggingface.co/LumiOpen/Poro-34B)
+  * [Bitnet b1.58 models](https://huggingface.co/1bitLLM)
+  * [Flan T5](https://huggingface.co/models?search=flan-t5)
+  * [Open Elm models](https://huggingface.co/collections/apple/openelm-instruct-models-6619ad295d7ae9f868b759ca)
+  * [ChatGLM3-6b](https://huggingface.co/THUDM/chatglm3-6b) + [ChatGLM4-9b](https://huggingface.co/THUDM/glm-4-9b)
+  * [SmolLM](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966)
+  * [EXAONE-3.0-7.8B-Instruct](https://huggingface.co/LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct)
+  * [FalconMamba Models](https://huggingface.co/collections/tiiuae/falconmamba-7b-66b9a580324dd1598b0f6d4a)
+  * [Jais](https://huggingface.co/inceptionai/jais-13b-chat)
+  * [Bielik-11B-v2.3](https://huggingface.co/collections/speakleash/bielik-11b-v23-66ee813238d9b526a072408a)
+  * [RWKV-6](https://github.com/BlinkDL/RWKV-LM)
+  * [QRWKV-6](https://huggingface.co/recursal/QRWKV6-32B-Instruct-Preview-v0.1)
+  * [GigaChat-20B-A3B](https://huggingface.co/ai-sage/GigaChat-20B-A3B-instruct)
+
+
+
+#### Multimodal
+
+[](#multimodal)
+
+  * [LLaVA 1.5 models](https://huggingface.co/collections/liuhaotian/llava-15-653aac15d994e992e2677a7e), [LLaVA 1.6 models](https://huggingface.co/collections/liuhaotian/llava-16-65b9e40155f60fd046a5ccf2)
+  * [BakLLaVA](https://huggingface.co/models?search=SkunkworksAI/Bakllava)
+  * [Obsidian](https://huggingface.co/NousResearch/Obsidian-3B-V0.5)
+  * [ShareGPT4V](https://huggingface.co/models?search=Lin-Chen/ShareGPT4V)
+  * [MobileVLM 1.7B/3B models](https://huggingface.co/models?search=mobileVLM)
+  * [Yi-VL](https://huggingface.co/models?search=Yi-VL)
+  * [Mini CPM](https://huggingface.co/models?search=MiniCPM)
+  * [Moondream](https://huggingface.co/vikhyatk/moondream2)
+  * [Bunny](https://github.com/BAAI-DCAI/Bunny)
+  * [Qwen2-VL](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d)
+
+Bindings
+
+  * Python: [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
+  * Go: [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp)
+  * Node.js: [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp)
+  * JS/TS (llama.cpp server client): [lgrammel/modelfusion](https://modelfusion.dev/integration/model-provider/llamacpp)
+  * JS/TS (Programmable Prompt Engine CLI): [offline-ai/cli](https://github.com/offline-ai/cli)
+  * JavaScript/Wasm (works in browser): [tangledgroup/llama-cpp-wasm](https://github.com/tangledgroup/llama-cpp-wasm)
+  * Typescript/Wasm (nicer API, available on npm): [ngxson/wllama](https://github.com/ngxson/wllama)
+  * Ruby: [yoshoku/llama_cpp.rb](https://github.com/yoshoku/llama_cpp.rb)
+  * Rust (more features): [edgenai/llama_cpp-rs](https://github.com/edgenai/llama_cpp-rs)
+  * Rust (nicer API): [mdrokz/rust-llama.cpp](https://github.com/mdrokz/rust-llama.cpp)
+  * Rust (more direct bindings): [utilityai/llama-cpp-rs](https://github.com/utilityai/llama-cpp-rs)
+  * C#/.NET: [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp)
+  * C#/VB.NET (more features - community license): [LM-Kit.NET](https://docs.lm-kit.com/lm-kit-net/index.html)
+  * Scala 3: [donderom/llm4s](https://github.com/donderom/llm4s)
+  * Clojure: [phronmophobic/llama.clj](https://github.com/phronmophobic/llama.clj)
+  * React Native: [mybigday/llama.rn](https://github.com/mybigday/llama.rn)
+  * Java: [kherud/java-llama.cpp](https://github.com/kherud/java-llama.cpp)
+  * Zig: [deins/llama.cpp.zig](https://github.com/Deins/llama.cpp.zig)
+  * Flutter/Dart: [netdur/llama_cpp_dart](https://github.com/netdur/llama_cpp_dart)
+  * Flutter: [xuegao-tzx/Fllama](https://github.com/xuegao-tzx/Fllama)
+  * PHP (API bindings and features built on top of llama.cpp): [distantmagic/resonance](https://github.com/distantmagic/resonance) [(more info)](https://github.com/ggerganov/llama.cpp/pull/6326)
+  * Guile Scheme: [guile_llama_cpp](https://savannah.nongnu.org/projects/guile-llama-cpp)
+  * Swift [srgtuszy/llama-cpp-swift](https://github.com/srgtuszy/llama-cpp-swift)
+  * Swift [ShenghaiWang/SwiftLlama](https://github.com/ShenghaiWang/SwiftLlama)
+
+UIs
+
+_(to have a project listed here, it should clearly state that it depends on`llama.cpp`)_
+
+  * [AI Sublime Text plugin](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) (MIT)
+  * [cztomsik/ava](https://github.com/cztomsik/ava) (MIT)
+  * [Dot](https://github.com/alexpinel/Dot) (GPL)
+  * [eva](https://github.com/ylsdamxssjxxdd/eva) (MIT)
+  * [iohub/collama](https://github.com/iohub/coLLaMA) (Apache-2.0)
+  * [janhq/jan](https://github.com/janhq/jan) (AGPL)
+  * [KanTV](https://github.com/zhouwg/kantv?tab=readme-ov-file) (Apache-2.0)
+  * [KodiBot](https://github.com/firatkiral/kodibot) (GPL)
+  * [llama.vim](https://github.com/ggml-org/llama.vim) (MIT)
+  * [LARS](https://github.com/abgulati/LARS) (AGPL)
+  * [Llama Assistant](https://github.com/vietanhdev/llama-assistant) (GPL)
+  * [LLMFarm](https://github.com/guinmoon/LLMFarm?tab=readme-ov-file) (MIT)
+  * [LLMUnity](https://github.com/undreamai/LLMUnity) (MIT)
+  * [LMStudio](https://lmstudio.ai/) (proprietary)
+  * [LocalAI](https://github.com/mudler/LocalAI) (MIT)
+  * [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) (AGPL)
+  * [MindMac](https://mindmac.app) (proprietary)
+  * [MindWorkAI/AI-Studio](https://github.com/MindWorkAI/AI-Studio) (FSL-1.1-MIT)
+  * [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) (MIT)
+  * [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) (Apache-2.0)
+  * [nat/openplayground](https://github.com/nat/openplayground) (MIT)
+  * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) (MIT)
+  * [ollama/ollama](https://github.com/ollama/ollama) (MIT)
+  * [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (AGPL)
+  * [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) (MIT)
+  * [psugihara/FreeChat](https://github.com/psugihara/FreeChat) (MIT)
+  * [ptsochantaris/emeltal](https://github.com/ptsochantaris/emeltal) (MIT)
+  * [pythops/tenere](https://github.com/pythops/tenere) (AGPL)
+  * [ramalama](https://github.com/containers/ramalama) (MIT)
+  * [semperai/amica](https://github.com/semperai/amica) (MIT)
+  * [withcatai/catai](https://github.com/withcatai/catai) (MIT)
+
+Tools
+
+  * [akx/ggify](https://github.com/akx/ggify) – download PyTorch models from HuggingFace Hub and convert them to GGML
+  * [akx/ollama-dl](https://github.com/akx/ollama-dl) – download models from the Ollama library to be used directly with llama.cpp
+  * [crashr/gppm](https://github.com/crashr/gppm) – launch llama.cpp instances utilizing NVIDIA Tesla P40 or P100 GPUs with reduced idle power consumption
+  * [gpustack/gguf-parser](https://github.com/gpustack/gguf-parser-go/tree/main/cmd/gguf-parser) - review/check the GGUF file and estimate the memory usage
+  * [Styled Lines](https://marketplace.unity.com/packages/tools/generative-ai/styled-lines-llama-cpp-model-292902) (proprietary licensed, async wrapper of inference part for game development in Unity3d with pre-built Mobile and Web platform wrappers and a model example)
+
+Infrastructure
+
+  * [Paddler](https://github.com/distantmagic/paddler) - Stateful load balancer custom-tailored for llama.cpp
+  * [GPUStack](https://github.com/gpustack/gpustack) - Manage GPU clusters for running LLMs
+  * [llama_cpp_canister](https://github.com/onicai/llama_cpp_canister) - llama.cpp as a smart contract on the Internet Computer, using WebAssembly
+  * [llama-swap](https://github.com/mostlygeek/llama-swap) - transparent proxy that adds automatic model switching with llama-server
+  * [Kalavai](https://github.com/kalavai-net/kalavai-client) - Crowdsource end to end LLM deployment at any scale
+
+Games
+
+  * [Lucy's Labyrinth](https://github.com/MorganRO8/Lucys_Labyrinth) - A simple maze game where agents controlled by an AI model will try to trick you.
+
+
+
+## Supported backends
+
+[](#supported-backends)
+
+Backend | Target devices  
+---|---  
+[Metal](/ggerganov/llama.cpp/blob/master/docs/build.md#metal-build) | Apple Silicon  
+[BLAS](/ggerganov/llama.cpp/blob/master/docs/build.md#blas-build) | All  
+[BLIS](/ggerganov/llama.cpp/blob/master/docs/backend/BLIS.md) | All  
+[SYCL](/ggerganov/llama.cpp/blob/master/docs/backend/SYCL.md) | Intel and Nvidia GPU  
+[MUSA](/ggerganov/llama.cpp/blob/master/docs/build.md#musa) | Moore Threads MTT GPU  
+[CUDA](/ggerganov/llama.cpp/blob/master/docs/build.md#cuda) | Nvidia GPU  
+[HIP](/ggerganov/llama.cpp/blob/master/docs/build.md#hip) | AMD GPU  
+[Vulkan](/ggerganov/llama.cpp/blob/master/docs/build.md#vulkan) | GPU  
+[CANN](/ggerganov/llama.cpp/blob/master/docs/build.md#cann) | Ascend NPU  
+  
+## Building the project
+
+[](#building-the-project)
+
+The main product of this project is the `llama` library. Its C-style interface can be found in [include/llama.h](/ggerganov/llama.cpp/blob/master/include/llama.h). The project also includes many example programs and tools using the `llama` library. The examples range from simple, minimal code snippets to sophisticated sub-projects such as an OpenAI-compatible HTTP server. Possible methods for obtaining the binaries:
+
+  * Clone this repository and build locally, see [how to build](/ggerganov/llama.cpp/blob/master/docs/build.md)
+  * On MacOS or Linux, install `llama.cpp` via [brew, flox or nix](/ggerganov/llama.cpp/blob/master/docs/install.md)
+  * Use a Docker image, see [documentation for Docker](/ggerganov/llama.cpp/blob/master/docs/docker.md)
+  * Download pre-built binaries from [releases](https://github.com/ggerganov/llama.cpp/releases)
+
+
+
+## Obtaining and quantizing models
+
+[](#obtaining-and-quantizing-models)
+
+The [Hugging Face](https://huggingface.co) platform hosts a [number of LLMs](https://huggingface.co/models?library=gguf&sort=trending) compatible with `llama.cpp`:
+
+  * [Trending](https://huggingface.co/models?library=gguf&sort=trending)
+  * [LLaMA](https://huggingface.co/models?sort=trending&search=llama+gguf)
+
+
+
+You can either manually download the GGUF file or directly use any `llama.cpp`-compatible models from Hugging Face by using this CLI argument: `-hf <user>/<model>[:quant]`
+
+After downloading a model, use the CLI tools to run it locally - see below.
+
+`llama.cpp` requires the model to be stored in the [GGUF](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md) file format. Models in other data formats can be converted to GGUF using the `convert_*.py` Python scripts in this repo.
+
+The Hugging Face platform provides a variety of online tools for converting, quantizing and hosting models with `llama.cpp`:
+
+  * Use the [GGUF-my-repo space](https://huggingface.co/spaces/ggml-org/gguf-my-repo) to convert to GGUF format and quantize model weights to smaller sizes
+  * Use the [GGUF-my-LoRA space](https://huggingface.co/spaces/ggml-org/gguf-my-lora) to convert LoRA adapters to GGUF format (more info: [#10123](https://github.com/ggerganov/llama.cpp/discussions/10123))
+  * Use the [GGUF-editor space](https://huggingface.co/spaces/CISCai/gguf-editor) to edit GGUF meta data in the browser (more info: [#9268](https://github.com/ggerganov/llama.cpp/discussions/9268))
+  * Use the [Inference Endpoints](https://ui.endpoints.huggingface.co/) to directly host `llama.cpp` in the cloud (more info: [#9669](https://github.com/ggerganov/llama.cpp/discussions/9669))
+
+
+
+To learn more about model quantization, [read this documentation](/ggerganov/llama.cpp/blob/master/examples/quantize/README.md)
+
+## [`llama-cli`](/ggerganov/llama.cpp/blob/master/examples/main)
+
+[](#llama-cli)
+
+#### A CLI tool for accessing and experimenting with most of `llama.cpp`'s functionality.
+
+[](#a-cli-tool-for-accessing-and-experimenting-with-most-of-llamacpps-functionality)
+
+  * Run in conversation mode
+
+Models with a built-in chat template will automatically activate conversation mode. If this doesn't occur, you can manually enable it by adding `-cnv` and specifying a suitable chat template with `--chat-template NAME`
+
+```
+llama-cli -m model.gguf # > hi, who are you? # Hi there! I'm your helpful assistant! I'm an AI-powered chatbot designed to assist and provide information to users like you. I'm here to help answer your questions, provide guidance, and offer support on a wide range of topics. I'm a friendly and knowledgeable AI, and I'm always happy to help with anything you need. What's on your mind, and how can I assist you today? # # > what is 1+1? # Easy peasy! The answer to 1+1 is... 2!
+```
+
+  * Run in conversation mode with custom chat template
+
+```
+# use the "chatml" template (use -h to see the list of supported templates) llama-cli -m model.gguf -cnv --chat-template chatml # use a custom template llama-cli -m model.gguf -cnv --in-prefix 'User: ' --reverse-prompt 'User:'
+```
+
+  * Run simple text completion
+
+To disable conversation mode explicitly, use `-no-cnv`
+
+```
+llama-cli -m model.gguf -p "I believe the meaning of life is" -n 128 -no-cnv # I believe the meaning of life is to find your own truth and to live in accordance with it. For me, this means being true to myself and following my passions, even if they don't align with societal expectations. I think that's what I love about yoga – it's not just a physical practice, but a spiritual one too. It's about connecting with yourself, listening to your inner voice, and honoring your own unique journey.
+```
+
+  * Constrain the output with a custom grammar
+
+```
+llama-cli -m model.gguf -n 256 --grammar-file grammars/json.gbnf -p 'Request: schedule a call at 8pm; Command:' # {"appointmentTime": "8pm", "appointmentDetails": "schedule a a call"}
+```
+
+The [grammars/](/ggerganov/llama.cpp/blob/master/grammars) folder contains a handful of sample grammars. To write your own, check out the [GBNF Guide](/ggerganov/llama.cpp/blob/master/grammars/README.md).
+
+For authoring more complex JSON grammars, check out <https://grammar.intrinsiclabs.ai/>
+
+
+
+
+## [`llama-server`](/ggerganov/llama.cpp/blob/master/examples/server)
+
+[](#llama-server)
+
+#### A lightweight, [OpenAI API](https://github.com/openai/openai-openapi) compatible, HTTP server for serving LLMs.
+
+[](#a-lightweight-openai-api-compatible-http-server-for-serving-llms)
+
+  * Start a local HTTP server with default configuration on port 8080
+
+```
+llama-server -m model.gguf --port 8080 # Basic web UI can be accessed via browser: http://localhost:8080 # Chat completion endpoint: http://localhost:8080/v1/chat/completions
+```
+
+  * Support multiple-users and parallel decoding
+
+```
+# up to 4 concurrent requests, each with 4096 max context llama-server -m model.gguf -c 16384 -np 4
+```
+
+  * Enable speculative decoding
+
+```
+# the draft.gguf model should be a small variant of the target model.gguf llama-server -m model.gguf -md draft.gguf
+```
+
+  * Serve an embedding model
+
+```
+# use the /embedding endpoint llama-server -m model.gguf --embedding --pooling cls -ub 8192
+```
+
+  * Serve a reranking model
+
+```
+# use the /reranking endpoint llama-server -m model.gguf --reranking
+```
+
+  * Constrain all outputs with a grammar
+
+```
+# custom grammar llama-server -m model.gguf --grammar-file grammar.gbnf # JSON llama-server -m model.gguf --grammar-file grammars/json.gbnf
+```
+
+
+
+
+## [`llama-perplexity`](/ggerganov/llama.cpp/blob/master/examples/perplexity)
+
+[](#llama-perplexity)
+
+#### A tool for measuring the perplexity [1](#user-content-fn-1-c1750d6062550c7dec3339be0f4427f3)[2](#user-content-fn-2-c1750d6062550c7dec3339be0f4427f3) (and other quality metrics) of a model over a given text.
+
+[](#a-tool-for-measuring-the-perplexity-12-and-other-quality-metrics-of-a-model-over-a-given-text)
+
+  * Measure the perplexity over a text file
+
+```
+llama-perplexity -m model.gguf -f file.txt # [1]15.2701,[2]5.4007,[3]5.3073,[4]6.2965,[5]5.8940,[6]5.6096,[7]5.7942,[8]4.9297, ... # Final estimate: PPL = 5.4007 +/- 0.67339
+```
+
+  * Measure KL divergence
+
+```
+# TODO
+```
+
+
+
+
+## [`llama-bench`](/ggerganov/llama.cpp/blob/master/examples/llama-bench)
+
+[](#llama-bench)
+
+#### Benchmark the performance of the inference for various parameters.
+
+[](#benchmark-the-performance-of-the-inference-for-various-parameters)
+
+  * Run default benchmark
+
+```
+llama-bench -m model.gguf # Output: # | model | size | params | backend | threads | test | t/s | # | ------------------- | ---------: | ---------: | ---------- | ------: | ------------: | -------------------: | # | qwen2 1.5B Q4_0 | 885.97 MiB | 1.54 B | Metal,BLAS | 16 | pp512 | 5765.41 ± 20.55 | # | qwen2 1.5B Q4_0 | 885.97 MiB | 1.54 B | Metal,BLAS | 16 | tg128 | 197.71 ± 0.81 | # # build: 3e0ba0e60 (4229)
+```
+
+
+
+
+## [`llama-run`](/ggerganov/llama.cpp/blob/master/examples/run)
+
+[](#llama-run)
+
+#### A comprehensive example for running `llama.cpp` models. Useful for inferencing. Used with RamaLama [3](#user-content-fn-3-c1750d6062550c7dec3339be0f4427f3).
+
+[](#a-comprehensive-example-for-running-llamacpp-models-useful-for-inferencing-used-with-ramalama-3)
+
+  * Run a model with a specific prompt (by default it's pulled from Ollama registry)
+
+```
+llama-run granite-code
+```
+
+
+
+
+## [`llama-simple`](/ggerganov/llama.cpp/blob/master/examples/simple)
+
+[](#llama-simple)
+
+#### A minimal example for implementing apps with `llama.cpp`. Useful for developers.
+
+[](#a-minimal-example-for-implementing-apps-with-llamacpp-useful-for-developers)
+
+  * Basic text completion
+
+```
+llama-simple -m model.gguf # Hello my name is Kaitlyn and I am a 16 year old girl. I am a junior in high school and I am currently taking a class called "The Art of
+```
+
+
+
+
+## Contributing
+
+[](#contributing)
+
+  * Contributors can open PRs
+  * Collaborators can push to branches in the `llama.cpp` repo and merge PRs into the `master` branch
+  * Collaborators will be invited based on contributions
+  * Any help with managing issues, PRs and projects is very appreciated!
+  * See [good first issues](https://github.com/ggerganov/llama.cpp/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) for tasks suitable for first contributions
+  * Read the [CONTRIBUTING.md](/ggerganov/llama.cpp/blob/master/CONTRIBUTING.md) for more information
+  * Make sure to read this: [Inference at the edge](https://github.com/ggerganov/llama.cpp/discussions/205)
+  * A bit of backstory for those who are interested: [Changelog podcast](https://changelog.com/podcast/532)
+
+
+
+## Other documentation
+
+[](#other-documentation)
+
+  * [main (cli)](/ggerganov/llama.cpp/blob/master/examples/main/README.md)
+  * [server](/ggerganov/llama.cpp/blob/master/examples/server/README.md)
+  * [GBNF grammars](/ggerganov/llama.cpp/blob/master/grammars/README.md)
+
+
+
+#### Development documentation
+
+[](#development-documentation)
+
+  * [How to build](/ggerganov/llama.cpp/blob/master/docs/build.md)
+  * [Running on Docker](/ggerganov/llama.cpp/blob/master/docs/docker.md)
+  * [Build on Android](/ggerganov/llama.cpp/blob/master/docs/android.md)
+  * [Performance troubleshooting](/ggerganov/llama.cpp/blob/master/docs/development/token_generation_performance_tips.md)
+  * [GGML tips & tricks](https://github.com/ggerganov/llama.cpp/wiki/GGML-Tips-&-Tricks)
+
+
+
+#### Seminal papers and background on the models
+
+[](#seminal-papers-and-background-on-the-models)
+
+If your issue is with model generation quality, then please at least scan the following links and papers to understand the limitations of LLaMA models. This is especially important when choosing an appropriate model size and appreciating both the significant and subtle differences between LLaMA models and ChatGPT:
+
+  * LLaMA: 
+    * [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+    * [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+  * GPT-3 
+    * [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+  * GPT-3.5 / InstructGPT / ChatGPT: 
+    * [Aligning language models to follow instructions](https://openai.com/research/instruction-following)
+    * [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+
+
+
+#### References
+
+[](#references)
+
+## Footnotes
+
+  1. [examples/perplexity/README.md](examples/perplexity/README.md) [↩](#user-content-fnref-1-c1750d6062550c7dec3339be0f4427f3)
+
+  2. <https://huggingface.co/docs/transformers/perplexity> [↩](#user-content-fnref-2-c1750d6062550c7dec3339be0f4427f3)
+
+  3. [RamaLama](https://github.com/containers/ramalama) [↩](#user-content-fnref-3-c1750d6062550c7dec3339be0f4427f3)
+
+
+
+
+## About
+
+LLM inference in C/C++ 
+
+### Topics
+
+[ llama ](/topics/llama "Topic: llama") [ ggml ](/topics/ggml "Topic: ggml")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/ggerganov/llama.cpp/activity)
+
+### Stars
+
+[ **71.1k** stars](/ggerganov/llama.cpp/stargazers)
+
+### Watchers
+
+[ **563** watching](/ggerganov/llama.cpp/watchers)
+
+### Forks
+
+[ **10.3k** forks](/ggerganov/llama.cpp/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fggerganov%2Fllama.cpp&report=ggerganov+%28user%29)
+
+##  [Releases 2,817](/ggerganov/llama.cpp/releases)
+
+[ b4526 Latest  Jan 22, 2025 ](/ggerganov/llama.cpp/releases/tag/b4526)
+
+[+ 2,816 releases](/ggerganov/llama.cpp/releases)
+
+##  [Packages 1](/users/ggerganov/packages?repo_name=llama.cpp)
+
+  * [ llama.cpp ](/users/ggerganov/packages/container/package/llama.cpp)
+
+
+
+##  [Contributors 996](/ggerganov/llama.cpp/graphs/contributors)
+
+  * [ ![@ggerganov](https://avatars.githubusercontent.com/u/1991296?s=64&v=4) ](https://github.com/ggerganov)
+  * [ ![@slaren](https://avatars.githubusercontent.com/u/2141330?s=64&v=4) ](https://github.com/slaren)
+  * [ ![@JohannesGaessler](https://avatars.githubusercontent.com/u/18492268?s=64&v=4) ](https://github.com/JohannesGaessler)
+  * [ ![@ngxson](https://avatars.githubusercontent.com/u/7702203?s=64&v=4) ](https://github.com/ngxson)
+  * [ ![@cebtenzzre](https://avatars.githubusercontent.com/u/14168726?s=64&v=4) ](https://github.com/cebtenzzre)
+  * [ ![@ikawrakow](https://avatars.githubusercontent.com/u/48489457?s=64&v=4) ](https://github.com/ikawrakow)
+  * [ ![@Kawrakow](https://avatars.githubusercontent.com/u/31961568?s=64&v=4) ](https://github.com/Kawrakow)
+  * [ ![@danbev](https://avatars.githubusercontent.com/u/432351?s=64&v=4) ](https://github.com/danbev)
+  * [ ![@compilade](https://avatars.githubusercontent.com/u/113953597?s=64&v=4) ](https://github.com/compilade)
+  * [ ![@phymbert](https://avatars.githubusercontent.com/u/5741141?s=64&v=4) ](https://github.com/phymbert)
+  * [ ![@KerfuffleV2](https://avatars.githubusercontent.com/u/44031344?s=64&v=4) ](https://github.com/KerfuffleV2)
+  * [ ![@0cc4m](https://avatars.githubusercontent.com/u/11707594?s=64&v=4) ](https://github.com/0cc4m)
+  * [ ![@mofosyne](https://avatars.githubusercontent.com/u/827793?s=64&v=4) ](https://github.com/mofosyne)
+  * [ ![@github-actions\[bot\]](https://avatars.githubusercontent.com/in/15368?s=64&v=4) ](https://github.com/apps/github-actions)
+
+
+
+[+ 982 contributors](/ggerganov/llama.cpp/graphs/contributors)
+
+## Languages
+
+  * [ C++ 61.5% ](/ggerganov/llama.cpp/search?l=c%2B%2B)
+  * [ C 17.3% ](/ggerganov/llama.cpp/search?l=c)
+  * [ Python 6.7% ](/ggerganov/llama.cpp/search?l=python)
+  * [ Cuda 6.7% ](/ggerganov/llama.cpp/search?l=cuda)
+  * [ Metal 2.5% ](/ggerganov/llama.cpp/search?l=metal)
+  * [ Objective-C 2.5% ](/ggerganov/llama.cpp/search?l=objective-c)
+  * Other 2.8%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

@@ -1,0 +1,11 @@
+loguru
+pydantic
+boto3
+pymongo[srv]
+langchain_mongodb
+litellm
+zenml
+crawl4ai
+datasets
+huggingface-hub
+matplotlib

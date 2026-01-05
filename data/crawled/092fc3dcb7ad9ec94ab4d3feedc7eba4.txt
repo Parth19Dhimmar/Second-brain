@@ -1,0 +1,698 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2Ffc2486308557&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](https://medium.com/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](https://medium.com/search?source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)
+
+Top highlight
+
+# Visualize your RAG Data — Evaluate your Retrieval-Augmented Generation System with Ragas
+
+## How to use UMAP dimensionality reduction for Embeddings to show multiple evaluation Questions and their relationships to source documents with Ragas, OpenAI, Langchain and ChromaDB
+
+[![Markus Stoll](https://miro.medium.com/v2/resize:fill:88:88/1*-8lOzTMVRmfmOj5YkIb9Rw.jpeg)](https://medium.com/@markus.stoll?source=post_page---byline--fc2486308557--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:48:48/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---byline--fc2486308557--------------------------------)
+
+[Markus Stoll](https://medium.com/@markus.stoll?source=post_page---byline--fc2486308557--------------------------------)
+
+·
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fa8078cb720f3&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&user=Markus+Stoll&userId=a8078cb720f3&source=post_page-a8078cb720f3--byline--fc2486308557---------------------post_header-----------)
+
+Published in
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---byline--fc2486308557--------------------------------)
+
+·
+
+13 min read
+
+·
+
+Mar 3, 2024
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2Ffc2486308557&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&user=Markus+Stoll&userId=a8078cb720f3&source=---header_actions--fc2486308557---------------------clap_footer-----------)
+
+1.98K
+
+8
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffc2486308557&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&source=---header_actions--fc2486308557---------------------bookmark_footer-----------)
+
+[Listen](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Dfc2486308557&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&source=---header_actions--fc2486308557---------------------post_audio_button-----------)
+
+Share
+
+Retrieval-Augmented Generation (RAG) adds a retrieval step to the workflow of an LLM, enabling it to query relevant data from additional sources like private documents when responding to questions and queries [1]. This workflow does not require costly training or fine-tuning of LLMs on the additional documents. The documents are split into snippets, which are then indexed, often using a compact ML-generated vector representation (embedding). Snippets with similar content will be in proximity to each other in this embedding space.
+
+The RAG application projects the user-provided questions into the embedding space to retrieve relevant document snippets based on their distance to the question. The LLM can use the retrieved information to answer the query and to substantiate its conclusion by presenting the snippets as references.
+
+![](https://miro.medium.com/v2/resize:fit:700/1*peWTe1A-MqeROT_Jdof_Cw.gif)
+
+Animation of the iterations of a UMAP [3] dimensionality reduction for Wikipedia Formula One articles in the embedding space with manually labeled clusters — created by the author.
+
+The evaluation of a RAG application is challenging [2]. Different approaches exist: on one hand, there are methods where the answer as ground truth must be provided by the developer; on the other hand, the answer (and the question) can also be generated by another LLM. One of the largest open-source systems for LLM-supported answering is Ragas [4](Retrieval-Augmented Generation Assessment), which provides
+
+  * Methods for generating test data based on the documents and
+  * Evaluations based on different metrics for evaluating retrieval and generation steps one-by-one and end-to-end.
+
+
+
+In this article, you will learn
+
+  * How to briefly build a RAG system for Formula One (see the previous article [Visualize your RAG Data — EDA for Retrieval-Augmented Generation](https://medium.com/itnext/visualize-your-rag-data-eda-for-retrieval-augmented-generation-0701ee98768f) for detailed descriptions)
+  * Generate questions and answers
+  * Evaluate the RAG system with [Ragas](https://github.com/explodinggradients/ragas)
+  * Most importantly how to visualize the results with [Renumics Spotlight ](https://github.com/Renumics/spotlight)and interpret the results.
+
+
+
+> _The_[ _code is available at Github_](https://github.com/Renumics/renumics-rag/blob/main/notebooks/visualize_rag_tutorial_qs.ipynb)
+
+# Get your environment ready
+
+Start a notebook and install the required python packages
+
+```
+!pip install langchain langchain-openai chromadb renumics-spotlight%env OPENAI_API_KEY=<your-api-key>
+```
+
+This tutorial uses the following python packages:
+
+  * [**Langchain**](https://github.com/langchain-ai/langchain): A framework to integrate language models and RAG components, making the setup process smoother.
+  * [**Renumics-Spotlight**](https://github.com/Renumics/spotlight): A visualization tool to interactively explore unstructured ML datasets.
+  * [**Ragas**](https://github.com/explodinggradients/ragas): a framework that helps you evaluate your RAG pipelines
+
+
+
+ _Disclaimer: The author of this article is also one of the developers of Spotlight._
+
+# Prepare documents and embeddings for the dataset
+
+You can use your own RAG Application, skip to the next part to learn how to evaluate, extract and visualize.
+
+Or you can use the RAG application from the [last article](https://medium.com/itnext/visualize-your-rag-data-eda-for-retrieval-augmented-generation-0701ee98768f) with [our prepared dataset of all Formula One articles of Wikipedia](https://spotlightpublic.blob.core.windows.net/docs-data/rag_demo/docs.zip). There you can also insert your own Documents into a ‘docs/’ subfolder.
+
+> This dataset is based on articles from [Wikipedia](https://www.wikipedia.org/) and is licensed under the Creative Commons Attribution-ShareAlike License. The original articles and a list of authors can be found on the respective Wikipedia pages.
+
+Now you can use Langchain’s `DirectoryLoader` to load all files from the docs subdirectory and split the documents in snippets using the `RecursiveCharacterTextSpliter`. With `OpenAIEmbeddings` you can create embeddings and store them in a `ChromaDB `as vector store. For the Chain itself you can use LangChains `ChatOpenAI` and a `ChatPromptTemplate`.
+
+The[ linked code](https://github.com/Renumics/rag-demo/blob/main/notebooks/visualize_rag_tutorial_qs.ipynb) for this article contains all necessary steps and you can find a detailed description of all steps above in [the last article](https://medium.com/itnext/visualize-your-rag-data-eda-for-retrieval-augmented-generation-0701ee98768f).
+
+One important point is, that you should use a hash function to create ids for snippets in `ChromaDB`. This allows to find the embeddings in the db if you only have the document with its content and metadata. This makes it possible to skip documents that already exist in the database.
+
+```
+import hashlibimport jsonfrom langchain_core.documents import Documentdef stable_hash_meta(doc: Document) -> str: """ Stable hash document based on its metadata. """ return hashlib.sha1(json.dumps(doc.metadata, sort_keys=True).encode()).hexdigest()...splits = text_splitter.split_documents(docs)splits_ids = [ {"doc": split, "id": stable_hash_meta(split.metadata)} for split in splits]existing_ids = docs_vectorstore.get()["ids"]new_splits_ids = [split for split in splits_ids if split["id"] not in existing_ids]docs_vectorstore.add_documents( documents=[split["doc"] for split in new_splits_ids], ids=[split["id"] for split in new_splits_ids],)docs_vectorstore.persist()
+```
+
+# Evaluation Questions
+
+For a common topic like Formula One, one can also use ChatGPT directly to generate general questions. In this article, four methods of question generation are used:
+
+  * **GPT4** : 30 questions were generated using ChatGPT 4 with the following prompt “Write 30 question about Formula one”– Random Example: “Which Formula 1 team is known for its prancing horse logo?”
+  * **GPT3.5:** Another 199 question were generated with ChatGPT 3.5 with the following prompt “Write 100 question about Formula one” and repeating “Thanks, write another 100 please”– Example: “”Which driver won the inaugural Formula One World Championship in 1950?”
+  * **Ragas_GPT4** : 113 questions were generated using Ragas. Ragas utilizes the documents again and its own embedding model to construct a vector database, which is then used to generate questions with GPT4.– Example: “Can you tell me more about the performance of the Jordan 198 Formula One car in the 1998 World Championship?”
+  * **Rags_GPT3.5** : 226 additional questions were generated with Ragas — here we use GPT3.5– Example: “What incident occurred at the 2014 Belgian Grand Prix that led to Hamilton’s retirement from the race?”
+
+```
+from ragas.testset import TestsetGeneratorgenerator = TestsetGenerator.from_default( openai_generator_llm="gpt-3.5-turbo-16k", openai_filter_llm="gpt-3.5-turbo-16k")testset_ragas_gpt35 = generator.generate(docs, 100)
+```
+
+The questions and answers were not reviewed or modified in any way. All questions are combined in a single dataframe with the columns `id`, `question`, `ground_truth`, `question_by` and `answer`.
+
+![](https://miro.medium.com/v2/resize:fit:700/1*R_74K0-_SJXyTxq6ovAcWg.png)
+
+Next, the questions will be posed to the RAG system. For over 500 questions, this can take some time and incur costs. If you ask the questions row-by-row, you can pause and continue the process or recover from a crash without losing the results so far:
+
+```
+for i, row in df_questions_answers.iterrows(): if row["answer"] is None or pd.isnull(row["answer"]): response = rag_chain.invoke(row["question"]) df_questions_answers.loc[df_questions_answers.index[i], "answer"] = response[ "answer" ] df_questions_answers.loc[df_questions_answers.index[i], "source_documents"] = [ stable_hash_meta(source_document.metadata) for source_document in response["source_documents"] ]
+```
+
+Not only is the answer stored but also the source IDs of the retrieved document snippets, and their text content as context:
+
+![](https://miro.medium.com/v2/resize:fit:1000/1*umlKv7Qf9SSLzRslT2r0Qw.png)
+
+Additionally, the embeddings for all questions are generated and stored in the dataframe as well. This allows for visualizing them alongside the documents.
+
+# Evaluation with Ragas
+
+[Ragas](https://github.com/explodinggradients/ragas) provides metrics for evaluating each component of your RAG pipeline in isolation and end-to-end metrics for overall performance:
+
+  1. **Context Precision:** Uses the `question` and retrieved `contexts` to measure the signal-to-noise ratio.
+  2. **Context Relevancy:** Measures the relevance of the retrieved context to the question, calculated using the `question` and `contexts`.
+  3. **Context Recall:** Based on the `ground truth` and `contexts` to check if all relevant information for the answer is retrieved.
+  4. **Faithfulness:** Utilizes the `contexts` and `answer` to measure how factually accurate the generated answer is.
+  5. **Answer Relevance:** Computed using the `question` and `answer` to assess the relevance of the generated answer to the question (does not consider factuality).
+  6. **Answer Semantic Similarity:** Evaluated using the `ground truth` and `answer` to assess the semantic resemblance between the generated and the correct answer.
+  7. **Answer Correctness:** Relies on the `ground truth` and `answer` to measure the accuracy and alignment of the generated answer with the correct one.
+  8. **Aspect Critique:** Involves analyzing the `answer` to evaluate submissions based on predefined or custom aspects such as correctness or harmfulness.
+
+
+
+For now, we focus on the end-to-end metric of answer correctness. The column names and content in the dataframe are copied and adapted to meet the naming and formatting requirements according to the Ragas API:
+
+```
+# prepare the dataframe for evaluationdf_qa_eval = df_questions_answers.copy()# adapt the ground truth to the ragas naming and formatdf_qa_eval.rename(columns={"ground_truth": "ground_truths"}, inplace=True)df_qa_eval["ground_truths"] = [ [gt] if not isinstance(gt, list) else gt for gt in df_qa_eval["ground_truths"]]
+```
+
+This again can take some time and even more money than just querying your RAG system. Let’s apply the evaluation row-by-row to be able to recover from a crash without losing the results so far:
+
+```
+# evaluate the answer correctness if not already donefields = ["question", "answer", "contexts", "ground_truths"]for i, row in df_qa_eval.iterrows(): if row["answer_correctness"] is None or pd.isnull(row["answer_correctness"]): evaluation_result = evaluate( Dataset.from_pandas(df_qa_eval.iloc[i : i + 1][fields]), [answer_correctness], ) df_qa_eval.loc[i, "answer_correctness"] = evaluation_result[ "answer_correctness" ]
+```
+
+Afterwards, you can store the results in the `df_questions_answer` dataframe:
+
+```
+df_questions_answers["answer_correctness"] = df_qa_eval["answer_correctness"]
+```
+
+# Prepare visualization
+
+To include the document snippets in the visualization, we add references from documents to questions that used the document as a source. Additionally, the count of questions referencing a document is stored:
+
+```
+# Explode 'source_documents' so each document ID is in its own row alongside the question IDdf_questions_exploded = df_qa_eval.explode("source_documents")# Group by exploded 'source_documents' (document IDs) and aggregateagg = ( df_questions_exploded.groupby("source_documents") .agg( num_questions=("id", "count"), # Count of questions referencing the document question_ids=( "id", lambda x: list(x), ), # List of question IDs referencing the document ) .reset_index() .rename(columns={"source_documents": "id"}))# Merge the aggregated information back into df_documentsdf_documents_agg = pd.merge(df_docs, agg, on="id", how="left")# Use apply to replace NaN values with empty lists for 'question_ids'df_documents_agg["question_ids"] = df_documents_agg["question_ids"].apply( lambda x: x if isinstance(x, list) else [])# Replace NaN values in 'num_questions' with 0df_documents_agg["num_questions"] = df_documents_agg["num_questions"].fillna(0)
+```
+
+Now concatenate the dataframe of questions with the dataframe of the documents
+
+```
+df = pd.concat([df_qa_eval, df_documents_agg], axis=0)
+```
+
+Additionally, let’s prepare some different UMAP [3] mappings. You could do much the same in the Spotlight GUI later, but doing it upfront can save time.
+
+  * umap_all: UMAP with fit and transform applied on all document and question embeddings
+  * umap_questions: UMAP with fit applied on questions embeddings only and transform applied on both
+  * umap_docs: UMAP with fit applied on document embeddings only and transform applied on both
+
+
+
+We prepare each of the UMAP transformations like this:
+
+```
+umap = UMAP(n_neighbors=20, min_dist=0.15, metric="cosine", random_state=42).fitumap_all = umap.transform(df["embedding"].values.tolist())df["umap"] = umap_all.tolist()
+```
+
+Another interesting metric for each of the document snippets is the distance between its embeddings and the embeddings of the nearest question
+
+```
+question_embeddings = np.array(df[df["question"].notna()]["embedding"].tolist())df["nearest_question_dist"] = [ # brute force, could be optimized using ChromaDB np.min([np.linalg.norm(np.array(doc_emb) - question_embeddings)]) for doc_emb in df["embedding"].values]
+```
+
+This metric can be helpful to find documents that are not referenced by questions.
+
+![](https://miro.medium.com/v2/resize:fit:1000/1*YTRUXZmd0iX8kyPIdUUnlg.png)
+
+# Visualize results
+
+If you skipped the previous steps, you can download the dataframe and load it with:
+
+```
+import pandas as pddf = pd.read_parquet("df_f1_rag_docs_and_questions.parquet")
+```
+
+and start [Renumics Spotlight](https://github.com/Renumics/spotlight) to visualize it with:
+
+```
+from renumics import spotlightspotlight.show(df)spotlight.show( df, layout="/home/markus/Downloads/layout_rag_1.json", dtype={x: Embedding for x in df.keys() if "umap" in x},)
+```
+
+It will open a new browser window:
+
+![](https://miro.medium.com/v2/resize:fit:1000/1*IMbva0pP8RAVhoY4dVbjLg.png)
+
+Formula One documents and evaluation questions statistics and similarity maps — created by the author with [Renumics Spotlight](https://github.com/Renumics/spotlight)
+
+On the top left side, you can see a **table of all questions and all document** snippets. You can use the “visible columns” button to control which columns of the dataframe are shown in the table. It is useful to create a filter directly that selects only the questions to be able to turn the questions on and off in the visualizations: Select all questions and and then create a filter using the “Create filter from selected row” button.
+
+To the right of the table, the `answer correctness`**is displayed as a metric** across all questions. Below there are two **histograms** ; the left one shows the distribution of `answer correctness` divided into the different methods of question generation. The right one shows the distribution of methods of question generation. Here, it is advisable to create a filter for the questions using the filter button to display only the selected rows (the questions) if needed.
+
+On the right side, there are **two similarity maps.** The first one uses the `umap_questions` column and shows the questions and documents based on the transformation applied only to the questions. It is helpful for viewing the distribution of questions independently from the associated documents because this approach allows analysts to identify patterns or clusters within the questions themselves.
+
+The second similarity map shows the questions and documents based on the transformation applied only to the documents (`umap_docs`). It is useful for viewing the questions in the context of their associated documents. A similarity map that simultaneously transforms questions and documents has proven to be less helpful with a larger number of questions, as more or fewer questions get clustered together and tend to be separated from the documents. Therefore, this representation is omitted here.
+
+![](https://miro.medium.com/v2/resize:fit:1000/1*1wZrAj60hiw1T3RVnCuBtA.png)
+
+Formula One evaluation questions statistics and similarity maps — created by the author with [Renumics Spotlight](https://github.com/Renumics/spotlight)
+
+## Document Embedding Similarity Map: Observations
+
+In the similarity map `umap_docs`, you can identify areas in the embedding space of the documents that have no neighboring questions. It is even better recognized when selecting `nearest_question_dist` for coloring.
+
+![](https://miro.medium.com/v2/resize:fit:1000/1*cMGNPnnBa9Bn7BJ05SzxBw.png)
+
+Similarity map of Formula One documents and questions (highlighted) — created by the author with [Renumics Spotlight](https://github.com/Renumics/spotlight)
+
+Some clusters can be identified, including snippets that contain only headings or tabular data containing only numbers page by page, whose meaning is lost during splitting. Additionally, many Wikipedia-specific text additions that contain no relevant information, such as links to other languages or editing notes, form clusters with no neighboring questions.
+
+Removing the noise in form of Wikipedia-related text is very simple when using the Wikipedia API. It is probably not particularly necessary, as it mainly costs some space — it is not expected that the RAG result will be particularly worsened by it. However, data contained in large tables are hardly captured by the RAG system and it could ne benifical to extract these using advanced pre-processing methods for Table Extraction and to connect them to the RAG system.
+
+Another point that you can observe in the `umap_docs` similarity map is how the questions from different sources are distributed.
+
+![](https://miro.medium.com/v2/resize:fit:1090/1*IH7z3J4yUmU0C_SruxnDkg.png)
+
+![](https://miro.medium.com/v2/resize:fit:1090/1*K4bADgDmSAr5t4t4r9VImQ.png)
+
+Left: Questions generated from ChatGPT (GPT-3.5 and GPT-4), Right: Questions generated with ragas using GPT-3.5 and GPT-4 — created by the author with [Renumics Spotlight](https://github.com/Renumics/spotlight)
+
+The questions that were directly generated by ChatGPT (GPT-3.5, GPT-4) are located in a more confined area in the center, whereas the questions generated with ragas based on the documents cover a larger area.
+
+## Answer correctness histogram
+
+The histogram can be used as a starting point to get an initial impression of the global statistics of the data. Overall, across all questions, the `answer correctness` is 0.45. For the questions created without ragas, it is 0.36, and for questions with ragas, it is 0.52. It was expected that the system would perform better for questions generated by ragas, as these questions are based on the available data, whereas the questions directly generated by ChatGPT could come from all the data with which ChatGPT was trained.
+
+![](https://miro.medium.com/v2/resize:fit:605/1*GsLBsg7uwTrw-AzvO4BHmw.png)
+
+Histogram of the answer correctness colored by the source of the question - created by the author
+
+A quick, random manual review of some of the questions/answers and ground truth shows that in the interval of`answer correctness`0.3–0.4, most questions were still correctly answered according to the ground truth. In the interval 0.2–0.3, many incorrect answers are present. In the interval 0.1–0.2, most answers are incorrect. Notably, almost all questions in this range came from GPT-3.5. The two questions in this interval generated with GPT-4 were answered correctly even though they received an `answer correctness` of below 0.2.
+
+## Questions Embedding Similarity Map: Observations
+
+The Questions Embedding Similarity Map can be helpful to dig deeper into `answer correctness` by examining clusters of similar questions that may cause similar problems.
+
+  * **Cluster “Term for driver/process/cars”:** average `answer correctness` 0.23: Answers often not precise enough. E.g., Chassis tuning vs. Chassis flexing or brake tuning vs. brake bias adjustment. It is questionable whether these types of questions are suitable for evaluating the system, as it seems very difficult to judge the answers.
+  * **Cluster “Terms for fuel strategy:”** average `answer correctness`0.44, similar to the global`answer correctness`.
+  * **Cluster “Names of tracks”:** average `answer correctness` 0.49, similar to the global `answer correctnes`.
+  * **Cluster “Who holds the record for…”** : average `answer correctness` 0.44, similar to the global `answer correctness`.
+  * **Cluster “Win championship with…”** : average `answer correctnes` 0.26 — looks challenging. Questions with many conditions, e.g., “Who is the only driver to win the Formula One World Championship with a British racing license, driving for an Italian team with an American engine.” Extended RAG methods like Multi Query might help improve here.
+  * **Cluster “Who is the only driver to win… with a car bearing the number <number>”**: average `answer correctness` 0.23 — looks like GPT-3.5 was lazy here, repeating the same question with different numbers, even though most ground truth entries are wrong!
+
+
+
+![](https://miro.medium.com/v2/resize:fit:700/1*Yc03cpSEFlJoZSBPIpMkiQ.png)
+
+Similarity map of Formula One questions (highlighted) and documents — created by the author
+
+# Conclusion
+
+In conclusion, utilizing UMAP-based visualizations offers a interesting approach to dig deeper than just analyzing global metrics. The document embedding similarity map gives a good overview, illustrating the clustering of similar documents and their relation to evaluation questions. The question similarity map reveals patterns that allow the differentiation and analysis of questions in conjunction with quality metrics to enable insight generation. Follow the Visualize results section to apply the visualization on your evaluation strategy — what insights will you uncover?
+
+_I am a professional with expertise in creating advanced software solutions for the interactive exploration of unstructured data. I write about unstructured data and use powerful visualization tools to analyze and make informed decisions._
+
+# References
+
+[1] Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Qianyu Guo, Meng Wang, Haofen Wang: [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) (2024), arxiv
+
+[2] Yixuan Tang, Yi Yang: [MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries](https://arxiv.org/abs/2401.15391) (2021), arXiv
+
+[3] Leland McInnes, John Healy, James Melville: [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/abs/1802.03426) (2018), arXiv
+
+[4] Shahul Es, Jithin James, Luis Espinosa-Anke, Steven Schockaert: [RAGAS: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217) (2023), arXiv
+
+![](https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)
+
+## Sign up to discover human stories that deepen your understanding of the world.
+
+## Free
+
+Distraction-free reading. No ads.
+
+Organize your knowledge with lists and highlights.
+
+Tell your story. Find your audience.
+
+[Sign up for free](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&source=---post_footer_upsell--fc2486308557---------------------lo_non_moc_upsell-----------)
+
+## Membership
+
+Read member-only stories
+
+Support writers you read most
+
+Earn money for your writing
+
+Listen to audio narrations
+
+Read offline with the Medium app
+
+[Try for $5/month](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplans&source=---post_footer_upsell--fc2486308557---------------------lo_non_moc_upsell-----------)
+
+[Large Language Models](https://medium.com/tag/large-language-models?source=post_page-----fc2486308557--------------------------------)
+
+[ChatGPT](https://medium.com/tag/chatgpt?source=post_page-----fc2486308557--------------------------------)
+
+[Machine Learning](https://medium.com/tag/machine-learning?source=post_page-----fc2486308557--------------------------------)
+
+[Data Science](https://medium.com/tag/data-science?source=post_page-----fc2486308557--------------------------------)
+
+[Editors Pick](https://medium.com/tag/editors-pick?source=post_page-----fc2486308557--------------------------------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2Ffc2486308557&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&user=Markus+Stoll&userId=a8078cb720f3&source=---footer_actions--fc2486308557---------------------clap_footer-----------)
+
+1.98K
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2Ffc2486308557&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&user=Markus+Stoll&userId=a8078cb720f3&source=---footer_actions--fc2486308557---------------------clap_footer-----------)
+
+1.98K
+
+8
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffc2486308557&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&source=---footer_actions--fc2486308557---------------------bookmark_footer-----------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:96:96/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--fc2486308557--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:128:128/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--fc2486308557--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--fc2486308557---------------------follow_profile-----------)
+
+## [Published in Towards Data Science](https://towardsdatascience.com/?source=post_page---post_publication_info--fc2486308557--------------------------------)
+
+[794K Followers](/followers?source=post_page---post_publication_info--fc2486308557--------------------------------)
+
+·[Last published just now](/want-to-integrate-ai-into-your-business-fine-tuning-wont-cut-it-ec1af5662bc0?source=post_page---post_publication_info--fc2486308557--------------------------------)
+
+Your home for data science and AI. The world’s leading publication for data science, data analytics, data engineering, machine learning, and artificial intelligence professionals.
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--fc2486308557---------------------follow_profile-----------)
+
+[![Markus Stoll](https://miro.medium.com/v2/resize:fill:96:96/1*-8lOzTMVRmfmOj5YkIb9Rw.jpeg)](https://medium.com/@markus.stoll?source=post_page---post_author_info--fc2486308557--------------------------------)
+
+[![Markus Stoll](https://miro.medium.com/v2/resize:fill:128:128/1*-8lOzTMVRmfmOj5YkIb9Rw.jpeg)](https://medium.com/@markus.stoll?source=post_page---post_author_info--fc2486308557--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fa8078cb720f3&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&user=Markus+Stoll&userId=a8078cb720f3&source=post_page-a8078cb720f3--post_author_info--fc2486308557---------------------follow_profile-----------)
+
+## [Written by Markus Stoll](https://medium.com/@markus.stoll?source=post_page---post_author_info--fc2486308557--------------------------------)
+
+[2.1K Followers](https://medium.com/@markus.stoll/followers?source=post_page---post_author_info--fc2486308557--------------------------------)
+
+·[98 Following](https://medium.com/@markus.stoll/following?source=post_page---post_author_info--fc2486308557--------------------------------)
+
+CTO, Co-Founder at Renumics | 🤖 unstructured ML data | 📊 interactive ML data visualization | 🔍 ML data exploration
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fa8078cb720f3&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&user=Markus+Stoll&userId=a8078cb720f3&source=post_page-a8078cb720f3--post_author_info--fc2486308557---------------------follow_profile-----------)
+
+## Responses (8)
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--fc2486308557--------------------------------)
+
+[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fvisualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557&source=---post_responses--fc2486308557---------------------respond_sidebar-----------)
+
+Cancel
+
+Respond
+
+Respond
+
+Also publish to my profile
+
+[![Ziv Shapira](https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png)](https://medium.com/@ziv.shapira_50576?source=post_page---post_responses--fc2486308557----0----------------------------)
+
+[Ziv Shapira](https://medium.com/@ziv.shapira_50576?source=post_page---post_responses--fc2486308557----0----------------------------)
+
+[Mar 6, 2024](https://medium.com/@ziv.shapira_50576/super-interesting-coverage-of-an-end-to-end-flow-around-evaluation-thanks-for-sharing-40d5cb57a779?source=post_page---post_responses--fc2486308557----0----------------------------)
+
+```
+
+
+super interesting coverage of an end to end flow around evaluation. Thanks for sharing
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F40d5cb57a779&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ziv.shapira_50576%2Fsuper-interesting-coverage-of-an-end-to-end-flow-around-evaluation-thanks-for-sharing-40d5cb57a779&user=Ziv+Shapira&userId=dbee9febce8&source=---post_responses--40d5cb57a779----0-----------------respond_sidebar-----------)
+
+19
+
+Reply
+
+[![Meng Li](https://miro.medium.com/v2/resize:fill:32:32/1*X_tdDIXh7CjmdKVCkX_WRg.jpeg)](https://medium.com/@mengyoupanshan?source=post_page---post_responses--fc2486308557----1----------------------------)
+
+[Meng Li](https://medium.com/@mengyoupanshan?source=post_page---post_responses--fc2486308557----1----------------------------)
+
+[Mar 6, 2024](https://medium.com/@mengyoupanshan/a-very-comprehensive-case-study-d77d97cc0f68?source=post_page---post_responses--fc2486308557----1----------------------------)
+
+```
+
+
+A very comprehensive case study.
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fd77d97cc0f68&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mengyoupanshan%2Fa-very-comprehensive-case-study-d77d97cc0f68&user=Meng+Li&userId=ec4db5351378&source=---post_responses--d77d97cc0f68----1-----------------respond_sidebar-----------)
+
+7
+
+1 reply
+
+Reply
+
+[![Jimmy Pang](https://miro.medium.com/v2/resize:fill:32:32/2*tErpgAz2LFogsY1iQJyWRA.png)](https://jimmypang.medium.com/?source=post_page---post_responses--fc2486308557----2----------------------------)
+
+[Jimmy Pang](https://jimmypang.medium.com/?source=post_page---post_responses--fc2486308557----2----------------------------)
+
+[Mar 30, 2024](https://jimmypang.medium.com/typo-a7156893ced3?source=post_page---post_responses--fc2486308557----2----------------------------)
+
+brwoser
+
+```
+
+
+typo ;)
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fa7156893ced3&operation=register&redirect=https%3A%2F%2Fjimmypang.medium.com%2Ftypo-a7156893ced3&user=Jimmy+Pang&userId=b47cdbdc70c&source=---post_responses--a7156893ced3----2-----------------respond_sidebar-----------)
+
+10
+
+1 reply
+
+Reply
+
+See all responses
+
+## More from Markus Stoll and Towards Data Science
+
+![Visualize your RAG Data — EDA for Retrieval-Augmented Generation](https://miro.medium.com/v2/resize:fit:679/1*tRjj5MdSlD1_ClUxXkS3VA.gif)
+
+[![ITNEXT](https://miro.medium.com/v2/resize:fill:20:20/1*yAqDFIFA5F_NXalOJKz4TA.png)](https://itnext.io/?source=post_page---author_recirc--fc2486308557----0---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+In
+
+[ITNEXT](https://itnext.io/?source=post_page---author_recirc--fc2486308557----0---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+by
+
+[Markus Stoll](https://medium.com/@markus.stoll?source=post_page---author_recirc--fc2486308557----0---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+## [Visualize your RAG Data — EDA for Retrieval-Augmented GenerationHow to use UMAP dimensionality reduction for Embeddings to show Questions, Answers and their relationships to source documents with…](https://itnext.io/visualize-your-rag-data-eda-for-retrieval-augmented-generation-0701ee98768f?source=post_page---author_recirc--fc2486308557----0---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+Feb 8, 2024
+
+[1.2K4](https://itnext.io/visualize-your-rag-data-eda-for-retrieval-augmented-generation-0701ee98768f?source=post_page---author_recirc--fc2486308557----0---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0701ee98768f&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fvisualize-your-rag-data-eda-for-retrieval-augmented-generation-0701ee98768f&source=---author_recirc--fc2486308557----0-----------------bookmark_preview----a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+![Why Generative-AI Apps’ Quality Often Sucks and What to Do About It](https://miro.medium.com/v2/resize:fit:679/1*ze5_bcSOz29WLvry5gi0bg.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--fc2486308557----1---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--fc2486308557----1---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+by
+
+[Dr. Marcel Müller](https://medium.com/@marcelmueller?source=post_page---author_recirc--fc2486308557----1---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+## [Why Generative-AI Apps’ Quality Often Sucks and What to Do About ItHow to get from PoCs to tested high-quality applications in production](/why-generative-ai-apps-quality-often-sucks-and-what-to-do-about-it-f84407f263c3?source=post_page---author_recirc--fc2486308557----1---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+17h ago
+
+[1072](/why-generative-ai-apps-quality-often-sucks-and-what-to-do-about-it-f84407f263c3?source=post_page---author_recirc--fc2486308557----1---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff84407f263c3&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fwhy-generative-ai-apps-quality-often-sucks-and-what-to-do-about-it-f84407f263c3&source=---author_recirc--fc2486308557----1-----------------bookmark_preview----a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+![A selection of used images within the article.](https://miro.medium.com/v2/resize:fit:679/1*Rc_H4sx40bLqTFkRFq3SVQ.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--fc2486308557----2---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--fc2486308557----2---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+by
+
+[Jens Linden, PhD](https://medium.com/@jens-linden?source=post_page---author_recirc--fc2486308557----2---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+## [How Most Organizations Get Data Strategy Wrong — and How to Fix ItRedefining Data Strategy to Drive Competitive Advantage with Data, Analytics and AI](/how-most-organizations-get-data-strategy-wrong-and-how-to-fix-it-b8afa59f1533?source=post_page---author_recirc--fc2486308557----2---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+17h ago
+
+[3055](/how-most-organizations-get-data-strategy-wrong-and-how-to-fix-it-b8afa59f1533?source=post_page---author_recirc--fc2486308557----2---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb8afa59f1533&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fhow-most-organizations-get-data-strategy-wrong-and-how-to-fix-it-b8afa59f1533&source=---author_recirc--fc2486308557----2-----------------bookmark_preview----a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+![🔍 How to Explore and Visualize ML-Data for Object Detection in Images](https://miro.medium.com/v2/resize:fit:679/1*RSR1dUxLxyEvygcAsGuI6Q.gif)
+
+[![ITNEXT](https://miro.medium.com/v2/resize:fill:20:20/1*yAqDFIFA5F_NXalOJKz4TA.png)](https://itnext.io/?source=post_page---author_recirc--fc2486308557----3---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+In
+
+[ITNEXT](https://itnext.io/?source=post_page---author_recirc--fc2486308557----3---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+by
+
+[Markus Stoll](https://medium.com/@markus.stoll?source=post_page---author_recirc--fc2486308557----3---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+## [🔍 How to Explore and Visualize ML-Data for Object Detection in ImagesUse Ultralytics YOLOv8 detections and ViT embeddings to visualize and navigate the data in Renumics Spotlight 1.6.0](https://itnext.io/how-to-explore-and-visualize-ml-data-for-object-detection-in-images-88e074f46361?source=post_page---author_recirc--fc2486308557----3---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+Jan 2, 2024
+
+[6335](https://itnext.io/how-to-explore-and-visualize-ml-data-for-object-detection-in-images-88e074f46361?source=post_page---author_recirc--fc2486308557----3---------------------a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F88e074f46361&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fhow-to-explore-and-visualize-ml-data-for-object-detection-in-images-88e074f46361&source=---author_recirc--fc2486308557----3-----------------bookmark_preview----a5aeb1be_d008_4654_8513_21463c48d063-------)
+
+[See all from Markus Stoll](https://medium.com/@markus.stoll?source=post_page---author_recirc--fc2486308557--------------------------------)
+
+[See all from Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--fc2486308557--------------------------------)
+
+## Recommended from Medium
+
+![RAG Evaluation Metrics Explained: A Complete Guide](https://miro.medium.com/v2/resize:fit:679/0*hA2RpiXjL3dvm--v.png)
+
+[![Mohamed EL HARCHAOUI](https://miro.medium.com/v2/resize:fill:20:20/1*iDZLn-fDTwSVLrTHRnWYuA.png)](https://medium.com/@med.el.harchaoui?source=post_page---read_next_recirc--fc2486308557----0---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+[Mohamed EL HARCHAOUI](https://medium.com/@med.el.harchaoui?source=post_page---read_next_recirc--fc2486308557----0---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+## [RAG Evaluation Metrics Explained: A Complete GuideRAG (Retrieval-Augmented Generation) enhances generative language models by integrating information retrieval techniques to address the…](https://medium.com/@med.el.harchaoui/rag-evaluation-metrics-explained-a-complete-guide-dbd7a3b571a8?source=post_page---read_next_recirc--fc2486308557----0---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+Aug 11, 2024
+
+[14](https://medium.com/@med.el.harchaoui/rag-evaluation-metrics-explained-a-complete-guide-dbd7a3b571a8?source=post_page---read_next_recirc--fc2486308557----0---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdbd7a3b571a8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40med.el.harchaoui%2Frag-evaluation-metrics-explained-a-complete-guide-dbd7a3b571a8&source=---read_next_recirc--fc2486308557----0-----------------bookmark_preview----67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+![Agentic chuning offers near human-level performance in chunking](https://miro.medium.com/v2/resize:fit:679/1*wzK0hP8qqmrpv2ds6_R9uw.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--fc2486308557----1---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--fc2486308557----1---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+by
+
+[Thuwarakesh Murallie](https://thuwarakesh.medium.com/?source=post_page---read_next_recirc--fc2486308557----1---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+## [How to Achieve Near Human-Level Performance in Chunking for RAGsThe costly yet powerful splitting technique for superior RAG retrieval](/agentic-chunking-for-rags-091beccd94b1?source=post_page---read_next_recirc--fc2486308557----1---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+Aug 26, 2024
+
+[6416](/agentic-chunking-for-rags-091beccd94b1?source=post_page---read_next_recirc--fc2486308557----1---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F091beccd94b1&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fagentic-chunking-for-rags-091beccd94b1&source=---read_next_recirc--fc2486308557----1-----------------bookmark_preview----67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+## Lists
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/0*r4yjMpEmqzHCUvWC.jpg)![](https://miro.medium.com/v2/resize:fill:48:48/1*bv2KUVNLi2sFNjBTdoBmWw.png)![](https://miro.medium.com/v2/resize:fill:48:48/0*zsngbTOmFCy6sUCx.jpeg)Predictive Modeling w/ Python20 stories·1792 saves](https://medium.com/@ben.putney/list/predictive-modeling-w-python-e3668ea008e1?source=post_page---read_next_recirc--fc2486308557--------------------------------)
+
+[![Image by vectorjuice on FreePik](https://miro.medium.com/v2/resize:fill:48:48/0*3OsUtsnlTx9Svm4c.jpg)![](https://miro.medium.com/v2/resize:fill:48:48/1*IPZF1hcDWwpPqOz2vL7NxQ.png)![](https://miro.medium.com/v2/resize:fill:48:48/1*0fHUKyg3xtpNWpop35PR4g.png)The New Chatbots: ChatGPT, Bard, and Beyond12 stories·542 saves](https://medium.com/@MediumStaff/list/the-new-chatbots-chatgpt-bard-and-beyond-5969c7449b7f?source=post_page---read_next_recirc--fc2486308557--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*rex1OZ5_KcxK2QrsZr3Cgw.jpeg)![](https://miro.medium.com/v2/resize:fill:48:48/1*I2o9__q4g1dzbcH9XRqcRg.png)![](https://miro.medium.com/v2/resize:fill:48:48/0*F6q2BN7oddumBDGY.png)ChatGPT prompts 51 stories·2490 saves](https://medium.com/@nicholas.michael.janulewicz/list/chatgpt-prompts-b4c47b8e12ee?source=post_page---read_next_recirc--fc2486308557--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*nVAk9E_TnPIK8Kv57PJruA.png)![](https://miro.medium.com/v2/resize:fill:48:48/1*790FdGYUonUX4X3IyQr1Og.png)![](https://miro.medium.com/v2/da:true/resize:fill:48:48/1*o1k0mQo3BuyIkmg-rI2Eiw.gif)Natural Language Processing1889 stories·1551 saves](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a?source=post_page---read_next_recirc--fc2486308557--------------------------------)
+
+![Semantic Chunking: Improving AI Information Retrieval](https://miro.medium.com/v2/resize:fit:679/1*wnbUJi7HlxXQWaOYaQC48A.png)
+
+[![Nirdiamant](https://miro.medium.com/v2/resize:fill:20:20/1*4PgkOZRmtSG670T_oDYqXw.jpeg)](https://medium.com/@nirdiamant21?source=post_page---read_next_recirc--fc2486308557----0---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+[Nirdiamant](https://medium.com/@nirdiamant21?source=post_page---read_next_recirc--fc2486308557----0---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+## [Semantic Chunking: Improving AI Information RetrievalHello AI enthusiasts. Today, we’re exploring semantic chunking — a technique that’s making significant improvements in information…](https://medium.com/@nirdiamant21/semantic-chunking-improving-ai-information-retrieval-2f468be2d707?source=post_page---read_next_recirc--fc2486308557----0---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+Sep 3, 2024
+
+[496](https://medium.com/@nirdiamant21/semantic-chunking-improving-ai-information-retrieval-2f468be2d707?source=post_page---read_next_recirc--fc2486308557----0---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2f468be2d707&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nirdiamant21%2Fsemantic-chunking-improving-ai-information-retrieval-2f468be2d707&source=---read_next_recirc--fc2486308557----0-----------------bookmark_preview----67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+![You are an absolute moron for believing in the hype of “AI Agents”.](https://miro.medium.com/v2/resize:fit:679/1*ZGZHRi3VSgirewnjtto9hA.png)
+
+[![Austin Starks](https://miro.medium.com/v2/resize:fill:20:20/1*dfww62lW8x8sVZNbLx5aCA.jpeg)](https://medium.com/@austin-starks?source=post_page---read_next_recirc--fc2486308557----1---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+[Austin Starks](https://medium.com/@austin-starks?source=post_page---read_next_recirc--fc2486308557----1---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+## [You are an absolute moron for believing in the hype of “AI Agents”.All of my articles are 100% free to read. Non-members can read for free by clicking my friend link!](https://medium.com/@austin-starks/you-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e?source=post_page---read_next_recirc--fc2486308557----1---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+Jan 11
+
+[3.7K165](https://medium.com/@austin-starks/you-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e?source=post_page---read_next_recirc--fc2486308557----1---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc0f760e7e48e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40austin-starks%2Fyou-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e&source=---read_next_recirc--fc2486308557----1-----------------bookmark_preview----67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+![What are: Embeddings? Vector Databases? Vector Search? k-NN? ANN?](https://miro.medium.com/v2/resize:fit:679/0*8Msf5RMIiag5ASSF.jpeg)
+
+[![Cassie Kozyrkov](https://miro.medium.com/v2/resize:fill:20:20/1*XlVStdn200ll4k3u_VOvGg.png)](https://kozyrkov.medium.com/?source=post_page---read_next_recirc--fc2486308557----2---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+[Cassie Kozyrkov](https://kozyrkov.medium.com/?source=post_page---read_next_recirc--fc2486308557----2---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+## [What are: Embeddings? Vector Databases? Vector Search? k-NN? ANN?A simple explainer to debuzz these AI buzzwords](https://kozyrkov.medium.com/what-are-embeddings-vector-databases-vector-search-k-nn-ann-9eb35f715c94?source=post_page---read_next_recirc--fc2486308557----2---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+Feb 2, 2024
+
+[2.1K16](https://kozyrkov.medium.com/what-are-embeddings-vector-databases-vector-search-k-nn-ann-9eb35f715c94?source=post_page---read_next_recirc--fc2486308557----2---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9eb35f715c94&operation=register&redirect=https%3A%2F%2Fkozyrkov.medium.com%2Fwhat-are-embeddings-vector-databases-vector-search-k-nn-ann-9eb35f715c94&source=---read_next_recirc--fc2486308557----2-----------------bookmark_preview----67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+![Cache-Augmented Generation \(CAG\) Is Here To Replace RAG](https://miro.medium.com/v2/resize:fit:679/0*tPYuvWIPbMwbb5w-)
+
+[![Level Up Coding](https://miro.medium.com/v2/resize:fill:20:20/1*5D9oYBd58pyjMkV_5-zXXQ.jpeg)](https://levelup.gitconnected.com/?source=post_page---read_next_recirc--fc2486308557----3---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+In
+
+[Level Up Coding](https://levelup.gitconnected.com/?source=post_page---read_next_recirc--fc2486308557----3---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+by
+
+[Dr. Ashish Bamania](https://bamania-ashish.medium.com/?source=post_page---read_next_recirc--fc2486308557----3---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+## [Cache-Augmented Generation (CAG) Is Here To Replace RAGA deep dive into how a novel technique called Cache-Augmented Generation (CAG) works and reduces/ eliminates the need for RAG.](https://levelup.gitconnected.com/cache-augmented-generation-cag-is-here-to-replace-rag-3d25c52360b2?source=post_page---read_next_recirc--fc2486308557----3---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+Jan 10
+
+[3129](https://levelup.gitconnected.com/cache-augmented-generation-cag-is-here-to-replace-rag-3d25c52360b2?source=post_page---read_next_recirc--fc2486308557----3---------------------67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3d25c52360b2&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fcache-augmented-generation-cag-is-here-to-replace-rag-3d25c52360b2&source=---read_next_recirc--fc2486308557----3-----------------bookmark_preview----67712987_c1af_437f_8b51_d065c259c4d6-------)
+
+[See more recommendations](https://medium.com/?source=post_page---read_next_recirc--fc2486308557--------------------------------)
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----fc2486308557--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----fc2486308557--------------------------------)
+
+[About](https://medium.com/about?autoplay=1&source=post_page-----fc2486308557--------------------------------)
+
+[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----fc2486308557--------------------------------)
+
+[Press](pressinquiries@medium.com?source=post_page-----fc2486308557--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----fc2486308557--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----fc2486308557--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----fc2486308557--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----fc2486308557--------------------------------)
+
+[Teams](https://medium.com/business?source=post_page-----fc2486308557--------------------------------)
+
+To make Medium work, we log user data. By using Medium, you agree to our [Privacy Policy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9), including cookie policy.

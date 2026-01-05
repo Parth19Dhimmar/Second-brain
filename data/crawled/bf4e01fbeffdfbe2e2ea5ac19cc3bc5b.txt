@@ -1,0 +1,48 @@
+[Skip to content](#main)
+
+[Join us at ArgoCon NA 2024, colocated with KubeCon/CloudNativeCon 2024 Salt Lake City. Register now!](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/argocon/)
+
+[Argo](/)
+
+  * [Workflows](/workflows/)
+  * [CD](/cd/)
+  * [Rollouts](/rollouts/)
+  * [Events](/events/)
+  * [Trainings](/trainings/)
+  * [ Blog ](https://blog.argoproj.io)
+
+
+
+[](https://github.com/argoproj "Follow us on GitHub")[](/community/join-slack/)
+
+# Argo Workflows
+
+Kubernetes-native workflow engine supporting DAG and step-based workflows.
+
+[ Documentation ](https://argo-workflows.readthedocs.io/en/latest/)
+
+## What is Argo Workflows?
+
+Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD.
+
+  * Define workflows where each step in the workflow is a container.
+  * Model multi-step workflows as a sequence of tasks or capture the dependencies between tasks using a graph (DAG).
+  * Easily run compute intensive jobs for machine learning or data processing in a fraction of the time using Argo Workflows on Kubernetes.
+  * Run CI/CD pipelines natively on Kubernetes without configuring complex software development products.
+
+
+
+## Why Argo Workflows?
+
+  * Designed from the ground up for containers without the overhead and limitations of legacy VM and server-based environments.
+  * Cloud agnostic and can run on any Kubernetes cluster.
+  * Easily orchestrate highly parallel jobs on Kubernetes.
+  * Argo Workflows puts a cloud-scale supercomputer at your fingertips!
+
+
+
+[ View Docs ](https://argo-workflows.readthedocs.io/en/latest/)[ Get Started ](https://argo-workflows.readthedocs.io/en/latest/quick-start/)
+
+[](https://github.com/argoproj "Follow us on GitHub")[](/community/join-slack/)
+
+2025 © Argo Project Authors. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our [Trademark Usage page](https://www.linuxfoundation.org/trademark-usage).

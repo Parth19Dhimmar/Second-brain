@@ -1,0 +1,186 @@
+[Lightning AI Studios: Never set up a local environment again →](https://lightning.ai)
+
+**
+
+Log in or create a free Lightning.ai account to track your progress and access additional course materials[Get Started →](https://lightning.ai/sign-in?redirectTo=https%3A%2F%2Flightning.ai%2Fcourses%2Fdeep-learning-fundamentals%2F)
+
+**
+
+Deep Learning Fundamentals 
+
+* Pages
+
+  * [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
+    * [Unit 1Intro to ML and DL](https://lightning.ai/courses/deep-learning-fundamentals/unit-1/)
+      * [Unit 1.1What Is ML?](https://lightning.ai/courses/deep-learning-fundamentals/unit-1/unit-1-1/)
+      * [Unit 1.2How Can We Use ML?](https://lightning.ai/courses/deep-learning-fundamentals/unit-1/unit-1-2/)
+      * [Unit 1.3A Typical ML Workflow](https://lightning.ai/courses/deep-learning-fundamentals/unit-1/unit-1-3/)
+      * [Unit 1.4The First ML Classifier](https://lightning.ai/courses/deep-learning-fundamentals/unit-1/ml-classifier/)
+      * [Unit 1.5Setting Up Our Computing Environment](https://lightning.ai/courses/deep-learning-fundamentals/unit-1/1-5-computing-environment/)
+      * [Unit 1.6Implementing a Perceptron in Python](https://lightning.ai/courses/deep-learning-fundamentals/unit-1/1-6-implementing-a-perceptron-in-python-parts-1-3/)
+      * [Unit 1.7 Evaluating Machine Learning Models](https://lightning.ai/courses/deep-learning-fundamentals/unit-1/1-7-evaluating-machine-learning-models-parts-1-and-2/)
+      * [Unit 1 ExercisesUnit 1 Exercises](https://lightning.ai/courses/deep-learning-fundamentals/unit-1/exercises/)
+    * [Unit 2Using Tensors w/ PyTorch](https://lightning.ai/courses/deep-learning-fundamentals/2-0-unit-2-overview/)
+      * [Unit 2.1Pytorch Intro](https://lightning.ai/courses/deep-learning-fundamentals/2-0-unit-2-overview/2-1-introducing-pytorch/)
+      * [Unit 2.2Tensors](https://lightning.ai/courses/deep-learning-fundamentals/2-0-unit-2-overview/2-2-what-are-tensors-part-1-and-part-2/)
+      * [Unit 2.3Using Tensors](https://lightning.ai/courses/deep-learning-fundamentals/2-0-unit-2-overview/2-3-how-do-we-use-tensors-in-pytorch/)
+      * [Unit 2.4Linear Algebra](https://lightning.ai/courses/deep-learning-fundamentals/2-0-unit-2-overview/2-4-improving-code-efficiency-with-linear-algebra-parts-1-4/)
+      * [Unit 2.5Debugging Code](https://lightning.ai/courses/deep-learning-fundamentals/2-0-unit-2-overview/2-5-debugging-code/)
+      * [Unit 2.6Revisiting Perceptron w/ Tensors](https://lightning.ai/courses/deep-learning-fundamentals/2-0-unit-2-overview/2-6-revisiting-the-perceptron-algorithm/)
+      * [Unit 2.7Computation Graphs](https://lightning.ai/courses/deep-learning-fundamentals/2-0-unit-2-overview/2-7-seeing-predictive-models-as-computation-graphs/)
+      * [Unit 2 ExercisesExercises](https://lightning.ai/courses/deep-learning-fundamentals/2-0-unit-2-overview/unit-2-exercises/)
+    * [Unit 3Model Training in PyTorch](https://lightning.ai/courses/deep-learning-fundamentals/3-0-overview-model-training-in-pytorch/)
+      * [Unit 3.1Using Logistic Regression for Classification](https://lightning.ai/courses/deep-learning-fundamentals/3-0-overview-model-training-in-pytorch/3-1-using-logistic-regression-for-classification-parts-1-3/)
+      * [Unit 3.2The Logistic Regression Computation Graph](https://lightning.ai/courses/deep-learning-fundamentals/3-0-overview-model-training-in-pytorch/3-2-the-logistic-regression-computation-graph/)
+      * [Unit 3.3Model Training with Stochastic Gradient Descent ](https://lightning.ai/courses/deep-learning-fundamentals/3-0-overview-model-training-in-pytorch/3-3-model-training-with-stochastic-gradient-descent-part-1-4/)
+      * [Unit 3.4Automatic Differentiation in PyTorch](https://lightning.ai/courses/deep-learning-fundamentals/3-0-overview-model-training-in-pytorch/3-4-automatic-differentiation-in-pytorch/)
+      * [Unit 3.5The PyTorch API](https://lightning.ai/courses/deep-learning-fundamentals/3-0-overview-model-training-in-pytorch/3-5-the-pytorch-api-parts-1-2/)
+      * [Unit 3.6Training a Logistic Regression Model in PyTorch](https://lightning.ai/courses/deep-learning-fundamentals/3-0-overview-model-training-in-pytorch/3-6-training-a-logistic-regression-model-in-pytorch-parts-1-3/)
+      * [Unit 3.7 Feature Normalization](https://lightning.ai/courses/deep-learning-fundamentals/3-0-overview-model-training-in-pytorch/3-7-feature-normalization-parts-1-2/)
+      * [Unit 3 ExercisesUnit 3 Exercies](https://lightning.ai/courses/deep-learning-fundamentals/3-0-overview-model-training-in-pytorch/unit-3-exercises/)
+    * [Unit 4Training Multilayer Neural Networks Overview](https://lightning.ai/courses/deep-learning-fundamentals/training-multilayer-neural-networks-overview/)
+      * [Unit 4.1Logistic Regression for Multiple Classes](https://lightning.ai/courses/deep-learning-fundamentals/training-multilayer-neural-networks-overview/logistic-regression-for-multiple-classes-part-1-5/)
+      * [Unit 4.2Multilayer Neural Networks](https://lightning.ai/courses/deep-learning-fundamentals/training-multilayer-neural-networks-overview/4-2-multilayer-neural-networks-part-1-3/)
+      * [Unit 4.3Training a Multilayer Neural Network in PyTorch](https://lightning.ai/courses/deep-learning-fundamentals/training-multilayer-neural-networks-overview/4-3-training-a-multilayer-neural-network-in-pytorch-part-1-5/)
+      * [Unit 4.4Defining Efficient Data Loaders](https://lightning.ai/courses/deep-learning-fundamentals/training-multilayer-neural-networks-overview/4-4-defining-efficient-data-loaders-part-1-4/)
+      * [Unit 4.5Multilayer Neural Networks for Regression](https://lightning.ai/courses/deep-learning-fundamentals/training-multilayer-neural-networks-overview/4-5-multilayer-neural-networks-for-regression-parts-1-2/)
+      * [Unit 4.6Speeding Up Model Training Using GPUs](https://lightning.ai/courses/deep-learning-fundamentals/training-multilayer-neural-networks-overview/4-6-speeding-up-model-training-using-gpus/)
+      * [Unit 4 ExercisesUnit 4 Exercises](https://lightning.ai/courses/deep-learning-fundamentals/training-multilayer-neural-networks-overview/unit-4-exercises/)
+    * [Unit 5Organizing Your Code with Lightning](https://lightning.ai/courses/deep-learning-fundamentals/overview-organizing-your-code-with-pytorch-lightning/)
+      * [Unit 5.1 Organizing Your Code with Lightning](https://lightning.ai/courses/deep-learning-fundamentals/overview-organizing-your-code-with-pytorch-lightning/organizing-your-code-with-lightning/)
+      * [Unit 5.2Training a Multilayer Perceptron using the Lightning Trainer](https://lightning.ai/courses/deep-learning-fundamentals/overview-organizing-your-code-with-pytorch-lightning/5-2-training-a-multilayer-perceptron-using-the-lightning-trainer/)
+      * [Unit 5.3Computing Metrics Efficiently with TorchMetrics](https://lightning.ai/courses/deep-learning-fundamentals/overview-organizing-your-code-with-pytorch-lightning/5-3-computing-metrics-efficiently-with-torchmetrics/)
+      * [Unit 5.4Making Code Reproducible](https://lightning.ai/courses/deep-learning-fundamentals/overview-organizing-your-code-with-pytorch-lightning/5-4-making-code-reproducible/)
+      * [Unit 5.5Organizing Your Data Loaders with Data Modules](https://lightning.ai/courses/deep-learning-fundamentals/overview-organizing-your-code-with-pytorch-lightning/5-5-organizing-your-data-loaders-with-data-modules/)
+      * [Unit 5.6The Benefits of Logging Your Model Training](https://lightning.ai/courses/deep-learning-fundamentals/overview-organizing-your-code-with-pytorch-lightning/5-6-the-benefits-of-logging-your-model-training/)
+      * [Unit 5.7Evaluating and Using Models on New Data](https://lightning.ai/courses/deep-learning-fundamentals/overview-organizing-your-code-with-pytorch-lightning/5-7-evaluating-and-using-models-on-new-data/)
+      * [Unit 5.8Add Functionality with Callbacks](https://lightning.ai/courses/deep-learning-fundamentals/overview-organizing-your-code-with-pytorch-lightning/5-8-add-functionality-with-callbacks/)
+      * [Unit 5 ExercisesUnit 5 Exercises](https://lightning.ai/courses/deep-learning-fundamentals/overview-organizing-your-code-with-pytorch-lightning/unit-5-exercises/)
+    * [Unit 6Essential Deep Learning Tips & Tricks](https://lightning.ai/courses/deep-learning-fundamentals/unit-6-overview-essential-deep-learning-tips-tricks/)
+      * [Unit 6.1 Model Checkpointing and Early Stopping](https://lightning.ai/courses/deep-learning-fundamentals/unit-6-overview-essential-deep-learning-tips-tricks/unit-6.1-model-checkpointing-and-early-stopping/)
+      * [Unit 6.2Learning Rates and Learning Rate Schedulers](https://lightning.ai/courses/deep-learning-fundamentals/unit-6-overview-essential-deep-learning-tips-tricks/unit-6.2-learning-rates-and-learning-rate-schedulers/)
+      * [Unit 6.3Using More Advanced Optimization Algorithms](https://lightning.ai/courses/deep-learning-fundamentals/unit-6-overview-essential-deep-learning-tips-tricks/unit-6.3-using-more-advanced-optimization-algorithms/)
+      * [Unit 6.4Choosing Activation Functions](https://lightning.ai/courses/deep-learning-fundamentals/unit-6-overview-essential-deep-learning-tips-tricks/unit-6.4-choosing-activation-functions/)
+      * [Unit 6.5Automating The Hyperparameter Tuning Process](https://lightning.ai/courses/deep-learning-fundamentals/unit-6-overview-essential-deep-learning-tips-tricks/unit-6.5-automating-the-hyperparameter-tuning-process/)
+      * [Unit 6.6Improving Convergence with Batch Normalization](https://lightning.ai/courses/deep-learning-fundamentals/unit-6-overview-essential-deep-learning-tips-tricks/unit-6.6-improving-convergence-with-batch-normalization/)
+      * [Unit 6.7Reducing Overfitting With Dropout](https://lightning.ai/courses/deep-learning-fundamentals/unit-6-overview-essential-deep-learning-tips-tricks/6.7-reducing-overfitting-with-dropout/)
+      * [Unit 6.8Debugging Deep Neural Networks](https://lightning.ai/courses/deep-learning-fundamentals/unit-6-overview-essential-deep-learning-tips-tricks/6.8-debugging-deep-neural-networks/)
+      * [Unit 6 ExercisesUnit 6 Exercises](https://lightning.ai/courses/deep-learning-fundamentals/unit-6-overview-essential-deep-learning-tips-tricks/unit-6-exercises/)
+    * [Unit 7Getting Started with Computer Vision](https://lightning.ai/courses/deep-learning-fundamentals/unit-7-overview-getting-started-with-computer-vision/)
+      * [Unit 7.1Working With Images](https://lightning.ai/courses/deep-learning-fundamentals/unit-7-overview-getting-started-with-computer-vision/unit-7.1-working-with-images/)
+      * [Unit 7.2How Convolutional Neural Networks Work](https://lightning.ai/courses/deep-learning-fundamentals/unit-7-overview-getting-started-with-computer-vision/unit-7.2-how-convolutional-neural-networks-work/)
+      * [Unit 7.3Convolutional Neural Network Architectures](https://lightning.ai/courses/deep-learning-fundamentals/unit-7-overview-getting-started-with-computer-vision/unit-7.3-convolutional-neural-network-architectures/)
+      * [Unit 7.4Training Convolutional Neural Networks](https://lightning.ai/courses/deep-learning-fundamentals/unit-7-overview-getting-started-with-computer-vision/unit-7.4-training-convolutional-neural-networks/)
+      * [Unit 7.5Improving Predictions with Data Augmentation](https://lightning.ai/courses/deep-learning-fundamentals/unit-7-overview-getting-started-with-computer-vision/unit-7.5-improving-predictions-with-data-augmentation/)
+      * [Unit 7.6Leveraging Pretrained Models with Transfer Learning](https://lightning.ai/courses/deep-learning-fundamentals/unit-7-overview-getting-started-with-computer-vision/unit-7.6-leveraging-pretrained-models-with-transfer-learning/)
+      * [Unit 7.7Using Unlabeled Data with Self-Supervised](https://lightning.ai/courses/deep-learning-fundamentals/unit-7-overview-getting-started-with-computer-vision/unit-7.7-using-unlabeled-data-with-self-supervised/)
+      * [Unit 7 ExercisesUnit 7 Exercises](https://lightning.ai/courses/deep-learning-fundamentals/unit-7-overview-getting-started-with-computer-vision/unit-7-exercises/)
+    * [Unit 8Natural Language Processing and Large Language Models](https://lightning.ai/courses/deep-learning-fundamentals/unit-8.0-natural-language-processing-and-large-language-models/)
+      * [Unit 8.1Working with Text Data](https://lightning.ai/courses/deep-learning-fundamentals/unit-8.0-natural-language-processing-and-large-language-models/8.1-working-with-text-data/)
+      * [Unit 8.2Training A Text Classifier Baseline](https://lightning.ai/courses/deep-learning-fundamentals/unit-8.0-natural-language-processing-and-large-language-models/8.2-training-a-text-classifier-baseline/)
+      * [Unit 8.3Introduction to Recurrent Neural Networks](https://lightning.ai/courses/deep-learning-fundamentals/unit-8.0-natural-language-processing-and-large-language-models/8.3-introduction-to-recurrent-neural-networks/)
+      * [Unit 8.4From RNNs to the Transformer Architecture](https://lightning.ai/courses/deep-learning-fundamentals/unit-8.0-natural-language-processing-and-large-language-models/8.4-from-rnns-to-the-transformer-architecture/)
+      * [Unit 8.5Understanding Self-Attention](https://lightning.ai/courses/deep-learning-fundamentals/unit-8.0-natural-language-processing-and-large-language-models/8.5-understanding-self-attention/)
+      * [Unit 8.6Large Language Models](https://lightning.ai/courses/deep-learning-fundamentals/unit-8.0-natural-language-processing-and-large-language-models/8.6-large-language-models/)
+      * [Unit 8.7A Large Language Model for Classification](https://lightning.ai/courses/deep-learning-fundamentals/unit-8.0-natural-language-processing-and-large-language-models/8.7-a-large-language-model-for-classification/)
+      * [Unit 8 ExercisesUnit 8 Exercises](https://lightning.ai/courses/deep-learning-fundamentals/unit-8.0-natural-language-processing-and-large-language-models/unit-8-exercises/)
+    * [Unit 9Techniques for Speeding Up Model Training](https://lightning.ai/courses/deep-learning-fundamentals/9.0-overview-techniques-for-speeding-up-model-training/)
+      * [Unit 9.1Accelerated Model Training via Mixed-Precision Training](https://lightning.ai/courses/deep-learning-fundamentals/9.0-overview-techniques-for-speeding-up-model-training/unit-9.1-accelerated-model-training-via-mixed-precision-training/)
+      * [Unit 9.2Multi-GPU Training Strategies](https://lightning.ai/courses/deep-learning-fundamentals/9.0-overview-techniques-for-speeding-up-model-training/unit-9.2-multi-gpu-training-strategies/)
+      * [Unit 9.3Deep Dive Into Data Parallelism](https://lightning.ai/courses/deep-learning-fundamentals/9.0-overview-techniques-for-speeding-up-model-training/unit-9.3-deep-dive-into-data-parallelism/)
+      * [Unit 9.4Compiling PyTorch Models](https://lightning.ai/courses/deep-learning-fundamentals/9.0-overview-techniques-for-speeding-up-model-training/unit-9.4-compiling-pytorch-models/)
+      * [Unit 9.5Increasing Batch Sizes to Increase Throughput ](https://lightning.ai/courses/deep-learning-fundamentals/9.0-overview-techniques-for-speeding-up-model-training/unit-9.5-increasing-batch-sizes-to-increase-throughput/)
+      * [Unit 9 ExercisesUnit 9 Exercises](https://lightning.ai/courses/deep-learning-fundamentals/9.0-overview-techniques-for-speeding-up-model-training/unit-9-exercises/)
+    * [Unit 10 The Finale: Our Next Steps After AI Model Training](https://lightning.ai/courses/deep-learning-fundamentals/10.0-overview-the-finale-our-next-steps-after-ai-model-training/)
+      * [Unit 10.1Trustworthy and Reliable Machine Learning](https://lightning.ai/courses/deep-learning-fundamentals/10.0-overview-the-finale-our-next-steps-after-ai-model-training/10.1-trustworthy-and-reliable-machine-learning/)
+      * [Unit 10.2Scaling PyTorch Models without Boilerplate Code](https://lightning.ai/courses/deep-learning-fundamentals/10.0-overview-the-finale-our-next-steps-after-ai-model-training/10.2-fabric-scaling-pytorch-models-without-boilerplate-code/)
+      * [Unit 10.3Designing Machine Learning Systems](https://lightning.ai/courses/deep-learning-fundamentals/10.0-overview-the-finale-our-next-steps-after-ai-model-training/10.3-designing-machine-learning-systems/)
+      * [Unit 10.4Conclusion](https://lightning.ai/courses/deep-learning-fundamentals/10.0-overview-the-finale-our-next-steps-after-ai-model-training/10.4-conclusion/)
+      * [Unit 10 ExercisesUnit 10 Exercises](https://lightning.ai/courses/deep-learning-fundamentals/10.0-overview-the-finale-our-next-steps-after-ai-model-training/unit-10-exercises/)
+
+
+
+[Final certification exam](https://lightning.ai/ai-education/deep-learning-fundamentals/certification/)
+
+[Deep Learning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/) > Deep Learning Fundamentals
+
+  * Share:
+  * [![Tweet](https://lightningaidev.wpengine.com/wp-content/themes/lightning-wp/assets/images/icons/twitter.svg)](https://twitter.com/intent/tweet?source=http%3A%2F%2Flightning.ai&text=:%20http%3A%2F%2Flightning.ai&via=LightningAI "Tweet")
+  * [![Submit to Reddit](https://lightningaidev.wpengine.com/wp-content/themes/lightning-wp/assets/images/icons/reddit.svg)](http://www.reddit.com/submit?url=http%3A%2F%2Flightning.ai&title= "Submit to Reddit")
+  * [![Share on LinkedIn](https://lightningaidev.wpengine.com/wp-content/themes/lightning-wp/assets/images/icons/linkedin.svg)](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flightning.ai&title=&summary=&source=http%3A%2F%2Flightning.ai "Share on LinkedIn")
+
+
+
+Course Progress:
+
+#  Deep Learning Fundamentals
+
+[Start Course](https://lightning.ai/pages/courses/deep-learning-fundamentals/unit-1/unit-1-1/)
+
+## Welcome to Deep Learning Fundamentals
+
+Deep Learning Fundamentals is a free course on learning deep learning using a modern open-source stack.
+
+If you found this page, you probably heard that artificial intelligence and deep learning are taking the world by storm. This is correct. In this course, [Sebastian Raschka](https://sebastianraschka.com/), a best-selling author and professor, will teach you deep learning (machine learning with deep learning) from the ground up via a course of 10 units with bite-sized videos, quizzes, and exercises. The entire course is free and uses the most popular open-source tools for deep learning.
+
+**What will you learn in this course?**
+
+  * What machine learning is and when to use it
+  * The main concepts of deep learning
+  * How to design deep learning experiments with PyTorch
+  * How to write efficient deep learning code with PyTorch Lightning
+
+
+
+**What will you be able to do after this course?**
+
+  * Build classifiers for various kinds of data like tables, images, and text
+  * Tune models effectively to optimize predictive and computational performance
+
+
+
+**How is this course structured?**
+
+  * The course consists of 10 units, each containing several subsections
+  * It is centered around informative, succinct videos that are respectful of your time
+  * In each unit, you will find optional exercises to practice your knowledge
+  * We also provide additional resources for those who want a deep dive on specific topics
+
+
+
+**What are the prerequisites?**
+
+  * Ideally, you should already be familiar with programming in Python
+  * (Some lectures will involve a tiny bit of math, but a strong math background is not required!)
+
+
+
+**Are there interactive quizzes or exercises?**
+
+  * Each section is accompanied by optional multiple-choice quizzes to test your understanding of the material
+  * Optionally, each unit also features one or more code exercises to practice implementing concepts covered in this class
+
+
+
+**Is there a course completion badge or certificate?**
+
+  * At the end of this course, you can take an optional exam featuring 25 multiple-choice questions
+  * Upon answering 80% of the questions in the exam correctly (there are 5 attempts), you obtain an optional course completion badge that can be shared on LinkedIn
+
+[Start Course](https://lightning.ai/pages/courses/deep-learning-fundamentals/unit-1/unit-1-1/)
+
+**Log in or create a free Lightning.ai account to access:**
+
+  * Quizzes
+  * Completion badges
+  * Progress tracking
+  * Additional downloadable content
+  * Additional AI education resources
+  * Notifications when new units are released
+  * Free cloud computing credits
+
+[Sign Up or Log In](https://lightning.ai/sign-in?redirectTo=https%3A%2F%2Flightning.ai%2Fcourses%2Fdeep-learning-fundamentals%2F)
+
+#####  Watch Video 1
+
+##### Videos

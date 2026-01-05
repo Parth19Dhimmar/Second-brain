@@ -1,0 +1,613 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2Fc75203c2f2f5&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](https://medium.com/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](https://medium.com/search?source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)
+
+Top highlight
+
+# Improving Retrieval Performance in RAG Pipelines with Hybrid Search
+
+## How to find more relevant search results by combining traditional keyword-based search with modern vector search
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:88:88/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---byline--c75203c2f2f5--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:48:48/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---byline--c75203c2f2f5--------------------------------)
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---byline--c75203c2f2f5--------------------------------)
+
+·
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F3a38da70d8dc&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&user=Leonie+Monigatti&userId=3a38da70d8dc&source=post_page-3a38da70d8dc--byline--c75203c2f2f5---------------------post_header-----------)
+
+Published in
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---byline--c75203c2f2f5--------------------------------)
+
+·
+
+8 min read
+
+·
+
+Nov 28, 2023
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2Fc75203c2f2f5&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&user=Leonie+Monigatti&userId=3a38da70d8dc&source=---header_actions--c75203c2f2f5---------------------clap_footer-----------)
+
+679
+
+9
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc75203c2f2f5&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&source=---header_actions--c75203c2f2f5---------------------bookmark_footer-----------)
+
+[Listen](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Dc75203c2f2f5&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&source=---header_actions--c75203c2f2f5---------------------post_audio_button-----------)
+
+Share
+
+![hybrid search bar](https://miro.medium.com/v2/resize:fit:700/1*2n2GDf7QgHw-iH1NHXpDrQ.png)
+
+Search bar with hybrid search capabilities
+
+With the recent interest in [Retrieval-Augmented Generation](https://medium.com/p/4e9bd5f6a4f2) (RAG) pipelines, developers have started discussing challenges in building RAG pipelines with production-ready performance. Just like in many aspects of life, the Pareto Principle also comes into play with RAG pipelines, where achieving the initial 80% is relatively straightforward, but attaining the remaining 20% for production readiness proves challenging.
+
+> One commonly repeated theme is to improve the retrieval component of a RAG pipeline with hybrid search.
+
+Developers who have already gained experience building RAG pipelines have [started sharing their insights](https://medium.com/towards-data-science/the-untold-side-of-rag-addressing-its-challenges-in-domain-specific-searches-808956e3ecc8). One commonly repeated theme is to improve the retrieval component of a RAG pipeline with hybrid search.
+
+This article introduces you to the concept of hybrid search, how it can help you improve your RAG pipeline performance by retrieving more relevant results, and when to use it.
+
+  * [What is Hybrid Search](#f7da)
+  * [How Does Hybrid Search Work?](#fd67)
+  * [How Can Hybrid Search Improve the Performance of Your RAG Pipeline?](#6b8c)
+  * [When Would You Use Hybrid Search?](#6244)
+  * [Summary](#dec5)
+
+
+
+# What is Hybrid Search
+
+Hybrid search is a search technique that combines two or more search algorithms to improve the relevance of search results. Although it is not defined which algorithms are combined, hybrid search most commonly refers to the combination of traditional keyword-based search and modern vector search.
+
+Traditionally, keyword-based search was the obvious choice for search engines. But with the advent of Machine Learning (ML) algorithms, vector embeddings enabled a new search technique — called vector or semantic search — that allowed us to search across data semantically. However, both search techniques have essential tradeoffs to consider:
+
+  * **Keyword-based search:** While its exact keyword-matching capabilities are beneficial for specific terms, such as product names or industry jargon, it is sensitive to typos and synonyms, which lead it to miss important context.
+  * **Vector or semantic search:** While its semantic search capabilities allow multi-lingual and multi-modal search based on the data’s semantic meaning and make it robust to typos, it can miss essential keywords. Additionally, it depends on the quality of the generated vector embeddings and is sensitive to out-of-domain terms.
+
+
+
+Combining keyword-based and vector searches into a hybrid search allows you to leverage the advantages of both search techniques to improve search results' relevance, especially for text-search use cases.
+
+For example, consider the search query “How to merge two Pandas DataFrames with `.concat()`?”. The keyword search would help find relevant results for the method `.concat()`. However, since the word “merge” has synonyms such as “combine”, “join”, and “concatenate”, it would be helpful if we could leverage the context awareness of semantic search (see more details in [When Would You Use Hybrid Search](#6244)).
+
+If you are interested, you can play around with the different keyword-based, semantic, and hybrid search queries to search for movies in this live [demo](https://awesome-moviate.weaviate.io/) (its implementation is detailed in [this article](/recreating-andrej-karpathys-weekend-project-a-movie-search-engine-9b270d7a92e4)).
+
+# How Does Hybrid Search Work?
+
+Hybrid search combines keyword-based and vector search techniques by fusing their search results and reranking them.
+
+## Keyword-based search
+
+Keyword-based search in the context of hybrid search often uses a representation called sparse embeddings, which is why it is also referred to as sparse vector search. Sparse embeddings are vectors with mostly zero values with only a few non-zero values, as shown below.
+
+```
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 24, 3, 0, 0, 0, 0, ...]
+```
+
+Sparse embeddings can be generated with different algorithms. The most commonly used algorithm for sparse embeddings is [BM25](https://en.wikipedia.org/wiki/Okapi_BM25) (Best match 25), which builds upon the TF-IDF (Term Frequency-Inverse Document Frequency) approach and refines it. In simple terms, BM25 emphasizes the importance of terms based on their frequency in a document relative to their frequency across all documents.
+
+## Vector search
+
+Vector search is a modern search technique that has emerged with the advances in ML. Modern ML algorithms, such as [Transformers](https://huggingface.co/docs/transformers/index), can generate a numerical representation of data objects in various modalities (text, images, etc.) called vector embeddings.
+
+These vector embeddings are usually densely packed with information and mostly comprised of non-zero values (dense vectors), as shown below. This is why vector search is also known as dense vector search.
+
+```
+[0.634, 0.234, 0.867, 0.042, 0.249, 0.093, 0.029, 0.123, 0.234, ...]
+```
+
+A search query is embedded into the same vector space as the data objects. Then, its vector embedding is used to calculate the closest data objects based on a specified similarity metric, such as cosine distance. The returned search results list the closest data objects ranked by their similarity to the search query.
+
+## Fusion of keyword-based and vector search results
+
+Both the keyword-based search and the vector search return a separate set of results, usually a list of search results sorted by their calculated relevance. These separate sets of search results must be combined.
+
+There are many different strategies to combine the ranked results of two lists into one single ranking, as outlined in a paper by [Benham and Culpepper](https://rodgerbenham.github.io/bc17-adcs.pdf) [1].
+
+Generally speaking, the search results are usually first **scored**. These scores can be calculated based on a specified metric, such as cosine distance, or simply just the rank in the search results list.
+
+Then, the calculated scores are weighted with a parameter `alpha`, which dictates each algorithm's weighting and impacts the results' re-ranking.
+
+```
+hybrid_score = (1 - alpha) * sparse_score + alpha * dense_score
+```
+
+Usually, `alpha` takes a value between 0 and 1, with
+
+  * `alpha = 1`: Pure vector search
+  * `alpha = 0`: Pure keyword search
+
+
+
+Below, you can see a minimal example of the fusion between keyword and vector search with scoring based on the rank and an `alpha = 0.5`.
+
+![Minimal example showcasing the different rankings of keyword-based search, vector search, and hybrid search.](https://miro.medium.com/v2/resize:fit:700/1*N6AXCu1Qi25AHmJI4hV7-A.png)
+
+Minimal example of how keyword and vector search results can be fused in hybrid search with scoring based on ranking and an alpha of 0.5 (Image by the author, inspired by [Hybrid search explained](https://weaviate.io/blog/hybrid-search-explained))
+
+# How Can Hybrid Search Improve the Performance of Your RAG Pipeline?
+
+A [RAG pipeline](https://medium.com/p/4e9bd5f6a4f2) has many knobs you can tune to improve its performance. One of these knobs is to improve the relevance of the retrieved context that is then fed into the LLM because if the retrieved context is not relevant for answering a given question, the LLM won’t be able to generate a relevant answer either.
+
+Depending on your context type and query, you have to determine which of the three search techniques is most beneficial for your RAG application. Thus, **the parameter**`**alpha**`**, which controls the weighting between keyword-based and semantic search, can be viewed as a hyperparameter that needs to be tuned.**
+
+In a common [RAG pipeline using LangChain](https://medium.com/p/4e9bd5f6a4f2), you would define the retriever component by setting the used `vectorstore` component as the retriever with the `.as_retriever()` method as follows:
+
+```
+# Define and populate vector store# See details here https://towardsdatascience.com/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2vectorstore = ...# Set vectorstore as retrieverretriever = vectorstore.as_retriever()
+```
+
+However, this method only enables semantic search. If you want to enable hybrid search in LangChain, you will need to define a specific `[retriever](https://python.langchain.com/docs/integrations/retrievers)`[ component](https://python.langchain.com/docs/integrations/retrievers) with hybrid search capabilities, such as the `[WeaviateHybridSearchRetriever](https://python.langchain.com/docs/integrations/retrievers)`:
+
+```
+from langchain.retrievers.weaviate_hybrid_search import WeaviateHybridSearchRetrieverretriever = WeaviateHybridSearchRetriever( alpha = 0.5, # defaults to 0.5, which is equal weighting between keyword and semantic search client = client, # keyword arguments to pass to the Weaviate client index_name = "LangChain", # The name of the index to use text_key = "text", # The name of the text key to use attributes = [], # The attributes to return in the results)
+```
+
+The rest of the vanilla [RAG pipeline](https://medium.com/p/4e9bd5f6a4f2) will stay the same.
+
+This small code change allows you to experiment with different weighting between keyword-based and vector searches. Note that setting `alpha = 1` equals a fully semantic search as is the equivalent of defining the retriever from the `vectorstore` component directly (`retriever = vectorstore.as_retriever()`).
+
+# When Would You Use Hybrid Search (Hybrid Search Use Cases)
+
+Hybrid search is ideal for use cases where you want to enable semantic search capabilities for a more human-like search experience but also require exact phrase matching for specific terms, such as product names or serial numbers.
+
+An excellent example is the platform Stack Overflow, which has recently extended its search capabilities with semantic search by using hybrid search.
+
+## [Ask like a human: Implementing semantic search on Stack OverflowSemantic search allows users to search using natural language instead of a rigid syntax of keyword manipulation. Search…stackoverflow.blog](https://stackoverflow.blog/2023/07/31/ask-like-a-human-implementing-semantic-search-on-stack-overflow/?source=post_page-----c75203c2f2f5--------------------------------)
+
+Initially, Stack Overflow used TF-IDF to match keywords to documents [2]. However, describing the coding problem you are trying to solve can be difficult. It may lead to different results based on the words you use to describe your problem (e.g., combining two Pandas DataFrames can be done in different methods such as merging, joining, and concatenating). Thus, a more context-aware search method, such as semantic search, would be more beneficial for these cases.
+
+However, on the other hand, a common use case of Stack Overflow is to copy-paste error messages. For this case, exact keyword matching is the preferred search method. Also, you will want exact keyword-matching capabilities for method and argument names (e.g., `.read_csv()` in Pandas).
+
+As you can guess, many similar real-world use cases benefit from context-aware semantic searches but still rely on exact keyword matching. These use cases can strongly benefit from implementing a hybrid search retriever component.
+
+# Summary
+
+This article introduced the context of hybrid search as a combination of keyword-based and vector searches. Hybrid search merges the search results of the separate search algorithms and re-ranks the search results accordingly.
+
+In hybrid search, the parameter `alpha` controls the weighting between keyword-based and semantic searches. This parameter `alpha` can be viewed as a hyperparameter to tune in RAG pipelines to improve the accuracy of search results.
+
+Using the Stack Overflow [2] case study, we showcased how hybrid search can be useful for use cases where semantic search can improve the search experience. However, exact keyword matching is still important when specific terms are frequent.
+
+# Enjoyed This Story?
+
+[_Subscribe for free_](https://medium.com/subscribe/@iamleonie) _to get notified when I publish a new story._
+
+## [Get an email whenever Leonie Monigatti publishes.Get an email whenever Leonie Monigatti publishes. By signing up, you will create a Medium account if you don’t already…medium.com](https://medium.com/@iamleonie/subscribe?source=post_page-----c75203c2f2f5--------------------------------)
+
+ _Find me on_[ _LinkedIn_](https://www.linkedin.com/in/804250ab/),[_Twitter_](https://twitter.com/helloiamleonie) _, and_[ _Kaggle_](https://www.kaggle.com/iamleonie) _!_
+
+# Disclaimer
+
+I am a Developer Advocate at Weaviate, an open source vector database, at the time of this writing.
+
+# References
+
+## Literature
+
+[1] Benham, R., & Culpepper, J. S. (2017). [Risk-reward trade-offs in rank fusion](https://rodgerbenham.github.io/bc17-adcs.pdf). In _Proceedings of the 22nd Australasian Document Computing Symposium_ (pp. 1–8).
+
+[2] Haney, D. & Gibson, D. in Stack Overflow Blog. [Ask like a human: Implementing semantic search on Stack Overflow](https://stackoverflow.blog/2023/07/31/ask-like-a-human-implementing-semantic-search-on-stack-overflow/) (accessed Nov 24, 2023).
+
+## Images
+
+If not otherwise stated, all images are created by the author.
+
+![](https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)
+
+## Sign up to discover human stories that deepen your understanding of the world.
+
+## Free
+
+Distraction-free reading. No ads.
+
+Organize your knowledge with lists and highlights.
+
+Tell your story. Find your audience.
+
+[Sign up for free](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&source=---post_footer_upsell--c75203c2f2f5---------------------lo_non_moc_upsell-----------)
+
+## Membership
+
+Read member-only stories
+
+Support writers you read most
+
+Earn money for your writing
+
+Listen to audio narrations
+
+Read offline with the Medium app
+
+[Try for $5/month](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplans&source=---post_footer_upsell--c75203c2f2f5---------------------lo_non_moc_upsell-----------)
+
+[Data Science](https://medium.com/tag/data-science?source=post_page-----c75203c2f2f5--------------------------------)
+
+[Machine Learning](https://medium.com/tag/machine-learning?source=post_page-----c75203c2f2f5--------------------------------)
+
+[Programming](https://medium.com/tag/programming?source=post_page-----c75203c2f2f5--------------------------------)
+
+[Rag](https://medium.com/tag/rag?source=post_page-----c75203c2f2f5--------------------------------)
+
+[Tips And Tricks](https://medium.com/tag/tips-and-tricks?source=post_page-----c75203c2f2f5--------------------------------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2Fc75203c2f2f5&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&user=Leonie+Monigatti&userId=3a38da70d8dc&source=---footer_actions--c75203c2f2f5---------------------clap_footer-----------)
+
+679
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2Fc75203c2f2f5&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&user=Leonie+Monigatti&userId=3a38da70d8dc&source=---footer_actions--c75203c2f2f5---------------------clap_footer-----------)
+
+679
+
+9
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc75203c2f2f5&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&source=---footer_actions--c75203c2f2f5---------------------bookmark_footer-----------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:96:96/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--c75203c2f2f5--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:128:128/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--c75203c2f2f5--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--c75203c2f2f5---------------------follow_profile-----------)
+
+## [Published in Towards Data Science](https://towardsdatascience.com/?source=post_page---post_publication_info--c75203c2f2f5--------------------------------)
+
+[793K Followers](/followers?source=post_page---post_publication_info--c75203c2f2f5--------------------------------)
+
+·[Last published 3 hours ago](/detecting-hallucination-in-rag-ecaf251a6633?source=post_page---post_publication_info--c75203c2f2f5--------------------------------)
+
+Your home for data science and AI. The world’s leading publication for data science, data analytics, data engineering, machine learning, and artificial intelligence professionals.
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--c75203c2f2f5---------------------follow_profile-----------)
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:96:96/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---post_author_info--c75203c2f2f5--------------------------------)
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:128:128/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---post_author_info--c75203c2f2f5--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F3a38da70d8dc&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&user=Leonie+Monigatti&userId=3a38da70d8dc&source=post_page-3a38da70d8dc--post_author_info--c75203c2f2f5---------------------follow_profile-----------)
+
+## [Written by Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---post_author_info--c75203c2f2f5--------------------------------)
+
+[33K Followers](https://medium.com/@iamleonie/followers?source=post_page---post_author_info--c75203c2f2f5--------------------------------)
+
+·[183 Following](https://medium.com/@iamleonie/following?source=post_page---post_author_info--c75203c2f2f5--------------------------------)
+
+Developer Advocate @ Weaviate. Follow for practical data science guides - whether you're a data scientist or not. [linkedin.com/in/804250ab](http://linkedin.com/in/804250ab)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F3a38da70d8dc&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&user=Leonie+Monigatti&userId=3a38da70d8dc&source=post_page-3a38da70d8dc--post_author_info--c75203c2f2f5---------------------follow_profile-----------)
+
+## Responses (9)
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--c75203c2f2f5--------------------------------)
+
+[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5&source=---post_responses--c75203c2f2f5---------------------respond_sidebar-----------)
+
+Cancel
+
+Respond
+
+Respond
+
+Also publish to my profile
+
+[![Sivi](https://miro.medium.com/v2/resize:fill:32:32/0*fUEktUajcGqUktMl)](https://medium.com/@sivi3883?source=post_page---post_responses--c75203c2f2f5----0----------------------------)
+
+[Sivi](https://medium.com/@sivi3883?source=post_page---post_responses--c75203c2f2f5----0----------------------------)
+
+[Dec 5, 2023](https://medium.com/@sivi3883/a-very-good-article-to-explain-the-concepts-crystal-clear-with-examples-thanks-a-bunch-71f94f806e92?source=post_page---post_responses--c75203c2f2f5----0----------------------------)
+
+```
+
+
+A very good article to explain the concepts crystal clear with examples! Thanks a bunch!
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F71f94f806e92&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sivi3883%2Fa-very-good-article-to-explain-the-concepts-crystal-clear-with-examples-thanks-a-bunch-71f94f806e92&user=Sivi&userId=6ec11eac85d5&source=---post_responses--71f94f806e92----0-----------------respond_sidebar-----------)
+
+3
+
+Reply
+
+[![Yaroslav Kizyma](https://miro.medium.com/v2/resize:fill:32:32/0*iCql5DN01fVlwJU1.)](https://medium.com/@yaroslavkizyma_74083?source=post_page---post_responses--c75203c2f2f5----1----------------------------)
+
+[Yaroslav Kizyma](https://medium.com/@yaroslavkizyma_74083?source=post_page---post_responses--c75203c2f2f5----1----------------------------)
+
+[Nov 30, 2023](https://medium.com/@yaroslavkizyma_74083/during-my-work-on-a-current-project-i-have-created-a-custom-bm-25-over-an-existing-semantic-search-932278fef7ed?source=post_page---post_responses--c75203c2f2f5----1----------------------------)
+
+```
+
+
+During my work on a current project, I have created a custom BM-25 over an existing semantic search functionality from a vector DB we use.
+
+It takes some A/B testing and simple engineering issues:
+
+1. Caching text processing for BM-25, it takes a LOT of…more
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F932278fef7ed&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40yaroslavkizyma_74083%2Fduring-my-work-on-a-current-project-i-have-created-a-custom-bm-25-over-an-existing-semantic-search-932278fef7ed&user=Yaroslav+Kizyma&userId=fc7f8f1e5b9b&source=---post_responses--932278fef7ed----1-----------------respond_sidebar-----------)
+
+1
+
+Reply
+
+[![Shahebaz Mohammad](https://miro.medium.com/v2/resize:fill:32:32/1*rtCtdGxfygu6Yhzgs44ulQ.png)](https://shaz13.medium.com/?source=post_page---post_responses--c75203c2f2f5----2----------------------------)
+
+[Shahebaz Mohammad](https://shaz13.medium.com/?source=post_page---post_responses--c75203c2f2f5----2----------------------------)
+
+[Nov 30, 2023](https://shaz13.medium.com/super-crisp-and-easy-understanding-of-hybrid-search-out-there-thanks-5dca666147c5?source=post_page---post_responses--c75203c2f2f5----2----------------------------)
+
+```
+
+
+Super crisp and easy understanding of Hybrid search out there. Thanks!
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F5dca666147c5&operation=register&redirect=https%3A%2F%2Fshaz13.medium.com%2Fsuper-crisp-and-easy-understanding-of-hybrid-search-out-there-thanks-5dca666147c5&user=Shahebaz+Mohammad&userId=7714bf977426&source=---post_responses--5dca666147c5----2-----------------respond_sidebar-----------)
+
+3
+
+Reply
+
+See all responses
+
+## More from Leonie Monigatti and Towards Data Science
+
+![Stylized performance dashboard for Retrieval-Augmented Generation](https://miro.medium.com/v2/resize:fit:679/1*t8v_0ztDLfkLB0fvHHc9pw.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--c75203c2f2f5----0---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--c75203c2f2f5----0---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+by
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---author_recirc--c75203c2f2f5----0---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+## [Evaluating RAG Applications with RAGAsA framework with metrics and LLM-generated data to evaluate the performance of your Retrieval-Augmented Generation pipeline](/evaluating-rag-applications-with-ragas-81d67b0ee31a?source=post_page---author_recirc--c75203c2f2f5----0---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+Dec 13, 2023
+
+[1.6K9](/evaluating-rag-applications-with-ragas-81d67b0ee31a?source=post_page---author_recirc--c75203c2f2f5----0---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F81d67b0ee31a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&source=---author_recirc--c75203c2f2f5----0-----------------bookmark_preview----22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+![Water Cooler Small Talk: Benford’s Law](https://miro.medium.com/v2/resize:fit:679/1*78Ka1EjSEBJgOrVy-H19sg.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--c75203c2f2f5----1---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--c75203c2f2f5----1---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+by
+
+[Maria Mouschoutzi, PhD](https://medium.com/@m.mouschoutzi?source=post_page---author_recirc--c75203c2f2f5----1---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+## [Water Cooler Small Talk: Benford’s LawA look into the strange first digit distribution of naturally occurring datasets](/water-cooler-small-talk-benfords-law-a1c12419e773?source=post_page---author_recirc--c75203c2f2f5----1---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+4d ago
+
+[4905](/water-cooler-small-talk-benfords-law-a1c12419e773?source=post_page---author_recirc--c75203c2f2f5----1---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa1c12419e773&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fwater-cooler-small-talk-benfords-law-a1c12419e773&source=---author_recirc--c75203c2f2f5----1-----------------bookmark_preview----22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+![The Death of Human-Written Code Tutorials in the ChatGPT Era … Or Not?](https://miro.medium.com/v2/resize:fit:679/1*hWM4ARagwBgwA9KRytIt6A.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--c75203c2f2f5----2---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--c75203c2f2f5----2---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+by
+
+[Murtaza Ali](https://murtaza5152-ali.medium.com/?source=post_page---author_recirc--c75203c2f2f5----2---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+## [The Death of Human-Written Code Tutorials in the ChatGPT Era … Or Not?An argument in favor of human-written coding tutorials in the new age of LLMs.](/the-death-of-human-written-code-tutorials-in-the-chatgpt-era-or-not-9a437a58a0b2?source=post_page---author_recirc--c75203c2f2f5----2---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+4d ago
+
+[634](/the-death-of-human-written-code-tutorials-in-the-chatgpt-era-or-not-9a437a58a0b2?source=post_page---author_recirc--c75203c2f2f5----2---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9a437a58a0b2&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fthe-death-of-human-written-code-tutorials-in-the-chatgpt-era-or-not-9a437a58a0b2&source=---author_recirc--c75203c2f2f5----2-----------------bookmark_preview----22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+![DSPy logo of puzzle pieces showing the DSPy modules Signature, Modules, Teleprompter, and the DSPy compiler prioritzed over prompting.](https://miro.medium.com/v2/resize:fit:679/1*hZoX1Q_rp9FyYwPJ4FlaUg@2x.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--c75203c2f2f5----3---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--c75203c2f2f5----3---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+by
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---author_recirc--c75203c2f2f5----3---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+## [Intro to DSPy: Goodbye Prompting, Hello Programming!How the DSPy framework solves the fragility problem in LLM-based applications by replacing prompting with programming and compiling](/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9?source=post_page---author_recirc--c75203c2f2f5----3---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+Feb 27, 2024
+
+[4.3K14](/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9?source=post_page---author_recirc--c75203c2f2f5----3---------------------22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4ca1c6ce3eb9&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9&source=---author_recirc--c75203c2f2f5----3-----------------bookmark_preview----22676c9b_8c51_4745_9584_2b50141b596e-------)
+
+[See all from Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---author_recirc--c75203c2f2f5--------------------------------)
+
+[See all from Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--c75203c2f2f5--------------------------------)
+
+## Recommended from Medium
+
+![Cache-Augmented Generation \(CAG\) Is Here To Replace RAG](https://miro.medium.com/v2/resize:fit:679/0*tPYuvWIPbMwbb5w-)
+
+[![Level Up Coding](https://miro.medium.com/v2/resize:fill:20:20/1*5D9oYBd58pyjMkV_5-zXXQ.jpeg)](https://levelup.gitconnected.com/?source=post_page---read_next_recirc--c75203c2f2f5----0---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+In
+
+[Level Up Coding](https://levelup.gitconnected.com/?source=post_page---read_next_recirc--c75203c2f2f5----0---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+by
+
+[Dr. Ashish Bamania](https://bamania-ashish.medium.com/?source=post_page---read_next_recirc--c75203c2f2f5----0---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+## [Cache-Augmented Generation (CAG) Is Here To Replace RAGA deep dive into how a novel technique called Cache-Augmented Generation (CAG) works and reduces/ eliminates the need for RAG.](https://levelup.gitconnected.com/cache-augmented-generation-cag-is-here-to-replace-rag-3d25c52360b2?source=post_page---read_next_recirc--c75203c2f2f5----0---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+Jan 10
+
+[2509](https://levelup.gitconnected.com/cache-augmented-generation-cag-is-here-to-replace-rag-3d25c52360b2?source=post_page---read_next_recirc--c75203c2f2f5----0---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3d25c52360b2&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fcache-augmented-generation-cag-is-here-to-replace-rag-3d25c52360b2&source=---read_next_recirc--c75203c2f2f5----0-----------------bookmark_preview----20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+![Advanced Retrieval-Augmented Generation \(RAG\) implements pre-retrieval, retrieval, and post-retrieval optimizations to a naive RAG pipeline](https://miro.medium.com/v2/resize:fit:679/1*8z-QRadKewNmos0J_4TNAQ.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--c75203c2f2f5----1---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--c75203c2f2f5----1---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+by
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---read_next_recirc--c75203c2f2f5----1---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+## [Advanced Retrieval-Augmented Generation: From Theory to LlamaIndex ImplementationHow to address limitations of naive RAG pipelines by implementing targeted advanced RAG techniques in Python](/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930?source=post_page---read_next_recirc--c75203c2f2f5----1---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+Feb 19, 2024
+
+[1.8K13](/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930?source=post_page---read_next_recirc--c75203c2f2f5----1---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4de1464a9930&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&source=---read_next_recirc--c75203c2f2f5----1-----------------bookmark_preview----20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+## Lists
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/0*r4yjMpEmqzHCUvWC.jpg)![](https://miro.medium.com/v2/resize:fill:48:48/1*bv2KUVNLi2sFNjBTdoBmWw.png)![](https://miro.medium.com/v2/resize:fill:48:48/0*zsngbTOmFCy6sUCx.jpeg)Predictive Modeling w/ Python20 stories·1787 saves](https://medium.com/@ben.putney/list/predictive-modeling-w-python-e3668ea008e1?source=post_page---read_next_recirc--c75203c2f2f5--------------------------------)
+
+[![Principal Component Analysis for ML](https://miro.medium.com/v2/resize:fill:48:48/1*swd_PY6vTCyPnsgBYoFZfA.png)![Time Series Analysis](https://miro.medium.com/v2/resize:fill:48:48/1*8sSAHftNwd_RNJ3k4VA0pA.png)![deep learning cheatsheet for beginner](https://miro.medium.com/v2/resize:fill:48:48/1*uNyD4yNMH-DnOel1wzxOOA.png)Practical Guides to Machine Learning10 stories·2162 saves](https://destingong.medium.com/list/practical-guides-to-machine-learning-a877c2a39884?source=post_page---read_next_recirc--c75203c2f2f5--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*zPtGTCNOwu1p3kzn_sZFVQ.png)![](https://miro.medium.com/v2/da:true/resize:fill:48:48/0*kQIvhDkl0ixPpv4z)![](https://miro.medium.com/v2/resize:fill:48:48/1*ERYx0IB1pN-5ZX98cKAoUw.png)General Coding Knowledge20 stories·1878 saves](https://eddiebarth.medium.com/list/general-coding-knowledge-f2d429d4f0cd?source=post_page---read_next_recirc--c75203c2f2f5--------------------------------)
+
+[![](https://miro.medium.com/v2/da:true/resize:fill:48:48/0*gzCeWxDtGmD23QR5)![](https://miro.medium.com/v2/resize:fill:48:48/1*di4WDrnS1F6_p9GWnxvPmg.png)![](https://miro.medium.com/v2/resize:fill:48:48/1*PzJLbFrFtNkqPsxielO8zA.jpeg)Coding & Development11 stories·980 saves](https://medium.com/@jscribes/list/coding-development-e360d380bb82?source=post_page---read_next_recirc--c75203c2f2f5--------------------------------)
+
+![You are an absolute moron for believing in the hype of “AI Agents”.](https://miro.medium.com/v2/resize:fit:679/1*ZGZHRi3VSgirewnjtto9hA.png)
+
+[![Austin Starks](https://miro.medium.com/v2/resize:fill:20:20/1*dfww62lW8x8sVZNbLx5aCA.jpeg)](https://medium.com/@austin-starks?source=post_page---read_next_recirc--c75203c2f2f5----0---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+[Austin Starks](https://medium.com/@austin-starks?source=post_page---read_next_recirc--c75203c2f2f5----0---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+## [You are an absolute moron for believing in the hype of “AI Agents”.All of my articles are 100% free to read. Non-members can read for free by clicking my friend link!](https://medium.com/@austin-starks/you-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e?source=post_page---read_next_recirc--c75203c2f2f5----0---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+Jan 11
+
+[3.3K152](https://medium.com/@austin-starks/you-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e?source=post_page---read_next_recirc--c75203c2f2f5----0---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc0f760e7e48e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40austin-starks%2Fyou-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e&source=---read_next_recirc--c75203c2f2f5----0-----------------bookmark_preview----20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+![The Synergy of Vector Databases and Keyword Search in RAG: Unlocking Superior Results](https://miro.medium.com/v2/resize:fit:679/0*X2zrof2L8rsqUtfg)
+
+[![SearchBlox](https://miro.medium.com/v2/resize:fill:20:20/1*x-GfjrYaISFUxEm4euhYXA.png)](https://medium.com/searchblox?source=post_page---read_next_recirc--c75203c2f2f5----1---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+In
+
+[SearchBlox](https://medium.com/searchblox?source=post_page---read_next_recirc--c75203c2f2f5----1---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+by
+
+[Timo Selvaraj](https://medium.com/@tselvaraj?source=post_page---read_next_recirc--c75203c2f2f5----1---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+## [The Synergy of Vector Databases and Keyword Search in RAG: Unlocking Superior ResultsIn the fast-changing world of artificial intelligence and natural language processing, Retrieval Augmented Generation (RAG) has become a…](https://medium.com/searchblox/the-synergy-of-vector-databases-and-keyword-search-in-rag-unlocking-superior-results-6e6fae81f922?source=post_page---read_next_recirc--c75203c2f2f5----1---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+Oct 7, 2024
+
+[3](https://medium.com/searchblox/the-synergy-of-vector-databases-and-keyword-search-in-rag-unlocking-superior-results-6e6fae81f922?source=post_page---read_next_recirc--c75203c2f2f5----1---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6e6fae81f922&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsearchblox%2Fthe-synergy-of-vector-databases-and-keyword-search-in-rag-unlocking-superior-results-6e6fae81f922&source=---read_next_recirc--c75203c2f2f5----1-----------------bookmark_preview----20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+![How to Use Hybrid Search for Better LLM RAG Retrieval](https://miro.medium.com/v2/resize:fit:679/1*6OKP-FOqqkJv0galmQsD0w.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--c75203c2f2f5----2---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--c75203c2f2f5----2---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+by
+
+[Dr. Leon Eversberg](https://medium.com/@leoneversberg?source=post_page---read_next_recirc--c75203c2f2f5----2---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+## [How to Use Hybrid Search for Better LLM RAG RetrievalBuilding an advanced local LLM RAG pipeline by combining dense embeddings with BM25](/how-to-use-hybrid-search-for-better-llm-rag-retrieval-032f66810ebe?source=post_page---read_next_recirc--c75203c2f2f5----2---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+Aug 11, 2024
+
+[9885](/how-to-use-hybrid-search-for-better-llm-rag-retrieval-032f66810ebe?source=post_page---read_next_recirc--c75203c2f2f5----2---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F032f66810ebe&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-use-hybrid-search-for-better-llm-rag-retrieval-032f66810ebe&source=---read_next_recirc--c75203c2f2f5----2-----------------bookmark_preview----20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+![Building a 2 Billion Parameter LLM from Scratch Using Python](https://miro.medium.com/v2/resize:fit:679/1*r99Hq3YBd5FTTWLNYKKvPw.png)
+
+[![Level Up Coding](https://miro.medium.com/v2/resize:fill:20:20/1*5D9oYBd58pyjMkV_5-zXXQ.jpeg)](https://levelup.gitconnected.com/?source=post_page---read_next_recirc--c75203c2f2f5----3---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+In
+
+[Level Up Coding](https://levelup.gitconnected.com/?source=post_page---read_next_recirc--c75203c2f2f5----3---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+by
+
+[Fareed Khan](https://medium.com/@fareedkhandev?source=post_page---read_next_recirc--c75203c2f2f5----3---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+## [Building a 2 Billion Parameter LLM from Scratch Using PythonIt starts making sense](https://levelup.gitconnected.com/building-a-2-billion-parameter-llm-from-scratch-using-python-1325cb05d6fb?source=post_page---read_next_recirc--c75203c2f2f5----3---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+4d ago
+
+[7369](https://levelup.gitconnected.com/building-a-2-billion-parameter-llm-from-scratch-using-python-1325cb05d6fb?source=post_page---read_next_recirc--c75203c2f2f5----3---------------------20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1325cb05d6fb&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fbuilding-a-2-billion-parameter-llm-from-scratch-using-python-1325cb05d6fb&source=---read_next_recirc--c75203c2f2f5----3-----------------bookmark_preview----20d58bee_fe2e_4f72_8d62_dcfcd539bd85-------)
+
+[See more recommendations](https://medium.com/?source=post_page---read_next_recirc--c75203c2f2f5--------------------------------)
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----c75203c2f2f5--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----c75203c2f2f5--------------------------------)
+
+[About](https://medium.com/about?autoplay=1&source=post_page-----c75203c2f2f5--------------------------------)
+
+[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----c75203c2f2f5--------------------------------)
+
+[Press](pressinquiries@medium.com?source=post_page-----c75203c2f2f5--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----c75203c2f2f5--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----c75203c2f2f5--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----c75203c2f2f5--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----c75203c2f2f5--------------------------------)
+
+[Teams](https://medium.com/business?source=post_page-----c75203c2f2f5--------------------------------)
+
+To make Medium work, we log user data. By using Medium, you agree to our [Privacy Policy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9), including cookie policy.

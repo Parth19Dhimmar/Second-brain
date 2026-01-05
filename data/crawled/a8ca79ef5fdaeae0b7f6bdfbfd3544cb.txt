@@ -1,0 +1,387 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F2494701b9c0c&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](https://medium.com/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](https://medium.com/search?source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)
+
+# Introduction to Weight Quantization
+
+## Reducing the size of Large Language Models with 8-bit quantization
+
+[![Maxime Labonne](https://miro.medium.com/v2/resize:fill:88:88/1*VbPYS4bNf0IrrOF-ZubSGQ.png)](https://medium.com/@mlabonne?source=post_page---byline--2494701b9c0c--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:48:48/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---byline--2494701b9c0c--------------------------------)
+
+[Maxime Labonne](https://medium.com/@mlabonne?source=post_page---byline--2494701b9c0c--------------------------------)
+
+·
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fdc89da634938&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&user=Maxime+Labonne&userId=dc89da634938&source=post_page-dc89da634938--byline--2494701b9c0c---------------------post_header-----------)
+
+Published in
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---byline--2494701b9c0c--------------------------------)
+
+·
+
+14 min read
+
+·
+
+Jul 7, 2023
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F2494701b9c0c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&user=Maxime+Labonne&userId=dc89da634938&source=---header_actions--2494701b9c0c---------------------clap_footer-----------)
+
+--
+
+11
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2494701b9c0c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&source=---header_actions--2494701b9c0c---------------------bookmark_footer-----------)
+
+[Listen](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D2494701b9c0c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&source=---header_actions--2494701b9c0c---------------------post_audio_button-----------)
+
+Share
+
+![](https://miro.medium.com/v2/resize:fit:700/1*hWIaIAQ7GWbrjfbaoUoYxw.jpeg)
+
+Large Language Models (LLMs) are known for their extensive computational requirements. Typically, the size of a model is calculated by multiplying the number of parameters (**size**) by the precision of these values (**data type**). However, to save memory, weights can be stored using lower-precision data types through a process known as quantization.
+
+We distinguish two main families of weight quantization techniques in the literature:
+
+  * **Post-Training Quantization** (PTQ) is a straightforward technique where the weights of an already trained model are converted to lower precision without necessitating any retraining. Although easy to implement, PTQ is associated with potential performance degradation.
+  * **Quantization-Aware Training** (QAT) incorporates the weight conversion process during the pre-training or fine-tuning stage, resulting in enhanced model performance. However, QAT is computationally expensive and demands representative training data.
+
+
+
+In this article, we focus on PTQ to reduce the precision of our parameters. To get a good intuition, we will apply both naïve and more sophisticated techniques to a toy example using a GPT-2 model.
+
+The entire code is freely available on [Google Colab](https://colab.research.google.com/drive/1DPr4mUQ92Cc-xf4GgAaB6dFcFnWIvqYi?usp=sharing) and [GitHub](https://github.com/mlabonne/llm-course/blob/main/Introduction_to_Weight_Quantization.ipynb).
+
+# 📚 Background on Floating Point Representation
+
+The choice of data type dictates the quantity of computational resources required, affecting the speed and efficiency of the model. In deep learning applications, balancing precision and computational performance becomes a vital exercise as higher precision often implies greater computational demands.
+
+Among various data types, floating point numbers are predominantly employed in deep learning due to their ability to represent a wide range of values with high precision. Typically, a floating point number uses _n_ bits to store a numerical value. These _n_ bits are further partitioned into three distinct components:
+
+  1. **Sign** : The sign bit indicates the positive or negative nature of the number. It uses one bit where 0 indicates a positive number and 1 signals a negative number.
+  2. **Exponent** : The exponent is a segment of bits that represents the power to which the base (usually 2 in binary representation) is raised. The exponent can also be positive or negative, allowing the number to represent very large or very small values.
+  3. **Significand/Mantissa** : The remaining bits are used to store the significand, also referred to as the mantissa. This represents the significant digits of the number. The precision of the number heavily depends on the length of the significand.
+
+
+
+This design allows floating point numbers to cover a wide range of values with varying levels of precision. The formula used for this representation is:
+
+![](https://miro.medium.com/v2/resize:fit:700/1*gVngsuChFURCIf0N9biYWw.png)
+
+To understand this better, let’s delve into some of the most commonly used data types in deep learning: float32 (FP32), float16 (FP16), and bfloat16 (BF16):
+
+  * **FP32** uses 32 bits to represent a number: one bit for the sign, eight for the exponent, and the remaining 23 for the significand. While it provides a high degree of precision, the downside of FP32 is its high computational and memory footprint.
+  * **FP16** uses 16 bits to store a number: one is used for the sign, five for the exponent, and ten for the significand. Although this makes it more memory-efficient and accelerates computations, the reduced range and precision can introduce numerical instability, potentially impacting model accuracy.
+  * **BF16** is also a 16-bit format but with one bit for the sign, _eight_ for the exponent, and _seven_ for the significand. BF16 expands the representable range compared to FP16, thus decreasing underflow and overflow risks. Despite a reduction in precision due to fewer significand bits, BF16 typically does not significantly impact model performance and is a useful compromise for deep learning tasks.
+
+
+
+![](https://miro.medium.com/v2/resize:fit:1000/1*maBUGGMedWvvDyk6FdvkWw.png)
+
+Image by author
+
+In ML jargon, FP32 is often termed “full precision” (4 bytes), while BF16 and FP16 are “half-precision” (2 bytes). But could we do even better and store weights using a single byte? The answer is the INT8 data type, which consists of an 8-bit representation capable of storing 2⁸ = 256 different values. In the next section, we’ll see how to convert FP32 weights into an INT8 format.
+
+# 🔰 Naïve 8-bit Quantization
+
+In this section, we will implement two quantization techniques: a symmetric one with **absolute maximum (absmax) quantization** and an asymmetric one with **zero-point quantization**. In both cases, the goal is to map an FP32 tensor **X** (original weights) to an INT8 tensor **X_quant** (quantized weights).
+
+With **absmax quantization** , the original number is divided by the absolute maximum value of the tensor and multiplied by a scaling factor (127) to map inputs into the range [-127, 127]. To retrieve the original FP16 values, the INT8 number is divided by the quantization factor, acknowledging some loss of precision due to rounding.
+
+![](https://miro.medium.com/v2/resize:fit:700/1*jNl_x4JF0lpRA4_6Cae9cg.png)
+
+For instance, let’s say we have an absolution maximum value of 3.2. A weight of 0.1 would be quantized to _round(0.1 × 127/3.2) = 4_. If we want to dequantize it, we would get _4 × 3.2/127 = 0.1008_ , which implies an error of 0.008. Here’s the corresponding Python implementation:
+
+```
+import torchdef absmax_quantize(X): # Calculate scale scale = 127 / torch.max(torch.abs(X)) # Quantize X_quant = (scale * X).round() # Dequantize X_dequant = X_quant / scale return X_quant.to(torch.int8), X_dequant
+```
+
+With **zero-point quantization** , we can consider asymmetric input distributions, which is useful when you consider the output of a ReLU function (only positive values), for example. The input values are first scaled by the total range of values (255) divided by the difference between the maximum and minimum values. This distribution is then shifted by the zero-point to map it into the range [-128, 127] (notice the extra value compared to absmax). First, we calculate the scale factor and the zero-point value:
+
+![](https://miro.medium.com/v2/resize:fit:700/1*GiCuvGWBtdU4-hXcvetTnw.png)
+
+Then, we can use these variables to quantize or dequantize our weights:
+
+![](https://miro.medium.com/v2/resize:fit:700/1*SalTtt_eNoYOeHLD1XiEfw.png)
+
+Let’s take an example: we have a maximum value of 3.2 and a minimum value of -3.0. We can calculate the scale is _255/(3.2 + 3.0) = 41.13_ and the zero-point _-round(41.13 × -3.0) - 128 = 123 -128 = -5_ , so our previous weight of 0.1 would be quantized to _round(41.13 × 0.1 -5) = -1_. This is very different from the previous value obtained using absmax (4 vs. -1).
+
+![](https://miro.medium.com/v2/resize:fit:1000/1*n5nqoJUXp65JahKsLzQS-A.png)
+
+Image by author
+
+The Python implementation is quite straightforward:
+
+```
+def zeropoint_quantize(X): # Calculate value range (denominator) x_range = torch.max(X) - torch.min(X) x_range = 1 if x_range == 0 else x_range # Calculate scale scale = 255 / x_range # Shift by zero-point zeropoint = (-scale * torch.min(X) - 128).round() # Scale and round the inputs X_quant = torch.clip((X * scale + zeropoint).round(), -128, 127) # Dequantize X_dequant = (X_quant - zeropoint) / scale return X_quant.to(torch.int8), X_dequant
+```
+
+Instead of relying on complete toy examples, we can use these two functions on a real model thanks to the `transformers`library.
+
+We start by loading the model and tokenizer for GPT-2. This is a very small model we probably don’t want to quantize, but it will be good enough for this tutorial. First, we want to observe the model’s size so we can compare it later and evaluate the **memory savings** due to 8-bit quantization.
+
+```
+!pip install -q bitsandbytes>=0.39.0!pip install -q git+https://github.com/huggingface/accelerate.git!pip install -q git+https://github.com/huggingface/transformers.git
+``````
+from transformers import AutoModelForCausalLM, AutoTokenizerimport torchtorch.manual_seed(0)# Set device to CPU for nowdevice = 'cpu'# Load model and tokenizermodel_id = 'gpt2'model = AutoModelForCausalLM.from_pretrained(model_id).to(device)tokenizer = AutoTokenizer.from_pretrained(model_id)# Print model sizeprint(f"Model size: {model.get_memory_footprint():,} bytes")
+``````
+Model size: 510,342,192 bytes
+```
+
+The size of the GPT-2 model is approximately 487MB in FP32. The next step consists of quantizing the weights using zero-point and absmax quantization. In the following example, we apply these techniques to the first attention layer of GPT-2 to see the results.
+
+```
+# Extract weights of the first layerweights = model.transformer.h[0].attn.c_attn.weight.dataprint("Original weights:")print(weights)# Quantize layer using absmax quantizationweights_abs_quant, _ = absmax_quantize(weights)print("\nAbsmax quantized weights:")print(weights_abs_quant)# Quantize layer using absmax quantizationweights_zp_quant, _ = zeropoint_quantize(weights)print("\nZero-point quantized weights:")print(weights_zp_quant)
+``````
+Original weights:tensor([[-0.4738, -0.2614, -0.0978, ..., 0.0513, -0.0584, 0.0250], [ 0.0874, 0.1473, 0.2387, ..., -0.0525, -0.0113, -0.0156], [ 0.0039, 0.0695, 0.3668, ..., 0.1143, 0.0363, -0.0318], ..., [-0.2592, -0.0164, 0.1991, ..., 0.0095, -0.0516, 0.0319], [ 0.1517, 0.2170, 0.1043, ..., 0.0293, -0.0429, -0.0475], [-0.4100, -0.1924, -0.2400, ..., -0.0046, 0.0070, 0.0198]])Absmax quantized weights:tensor([[-21, -12, -4, ..., 2, -3, 1], [ 4, 7, 11, ..., -2, -1, -1], [ 0, 3, 16, ..., 5, 2, -1], ..., [-12, -1, 9, ..., 0, -2, 1], [ 7, 10, 5, ..., 1, -2, -2], [-18, -9, -11, ..., 0, 0, 1]], dtype=torch.int8)Zero-point quantized weights:tensor([[-20, -11, -3, ..., 3, -2, 2], [ 5, 8, 12, ..., -1, 0, 0], [ 1, 4, 18, ..., 6, 3, 0], ..., [-11, 0, 10, ..., 1, -1, 2], [ 8, 11, 6, ..., 2, -1, -1], [-18, -8, -10, ..., 1, 1, 2]], dtype=torch.int8)
+```
+
+The difference between the original (FP32) and quantized values (INT8) is clear, but the difference between absmax and zero-point weights is more subtle. In this case, the inputs look shifted by a value of -1. This suggests that the weight distribution in this layer is quite symmetric.
+
+We can compare these techniques by quantizing every layer in GPT-2 (linear layers, attention layers, etc.) and create two new models: `model_abs` and `model_zp`. To be precise, we will actually replace the original weights with **_de_** -quantized ones. This has two benefits: it allows us to 1/ compare the distribution of our weights (same scale) and 2/ actually run the models.
+
+Indeed, PyTorch doesn’t allow INT8 matrix multiplication by default. In a real scenario, we would dequantize them to run the model (in FP16 for example) but store them as INT8. In the next section, we will use the `[bitsandbytes](https://github.com/TimDettmers/bitsandbytes)` library to solve this issue.
+
+```
+import numpy as npfrom copy import deepcopy# Store original weightsweights = [param.data.clone() for param in model.parameters()]# Create model to quantizemodel_abs = deepcopy(model)# Quantize all model weightsweights_abs = []for param in model_abs.parameters(): _, dequantized = absmax_quantize(param.data) param.data = dequantized weights_abs.append(dequantized)# Create model to quantizemodel_zp = deepcopy(model)# Quantize all model weightsweights_zp = []for param in model_zp.parameters(): _, dequantized = zeropoint_quantize(param.data) param.data = dequantized weights_zp.append(dequantized)
+```
+
+Now that our models have been quantized, we want to check the impact of this process. Intuitively, we want to make sure that the quantized weights are **close to the original ones**. A visual way to check it is to plot the distribution of the dequantized and original weights. If the quantization is lossy, it would drastically change the weight distribution.
+
+The following figure shows this comparison, where the blue histogram represents the original (FP32) weights, and the red one represents the dequantized (from INT8) weights. Note that we only display this plot between -2 and 2 because of outliers with very high absolute values (more on that later).
+
+![](https://miro.medium.com/v2/resize:fit:700/1*5FkPW5PQDn3zqP7x9QSPLg.png)
+
+Both plots are quite similar, with a surprising spike around 0. This spike shows that our quantization is quite lossy since reversing the process doesn’t output the original values. This is particularly true for the absmax model, which displays both a lower valley and a higher spike around 0.
+
+Let’s compare the performance of the original and quantized models. For this purpose, we define a `generate_text()` function to generate 50 tokens with [top-k sampling](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html).
+
+```
+def generate_text(model, input_text, max_length=50): input_ids = tokenizer.encode(input_text, return_tensors='pt').to(device) output = model.generate(inputs=input_ids, max_length=max_length, do_sample=True, top_k=30, pad_token_id=tokenizer.eos_token_id, attention_mask=input_ids.new_ones(input_ids.shape)) return tokenizer.decode(output[0], skip_special_tokens=True)# Generate text with original and quantized modelsoriginal_text = generate_text(model, "I have a dream")absmax_text = generate_text(model_abs, "I have a dream")zp_text = generate_text(model_zp, "I have a dream")print(f"Original model:\n{original_text}")print("-" * 50)print(f"Absmax model:\n{absmax_text}")print("-" * 50)print(f"Zeropoint model:\n{zp_text}")
+``````
+Original model:I have a dream, and it is a dream I believe I would get to live in my future. I love my mother, and there was that one time I had been told that my family wasn't even that strong. And then I got the--------------------------------------------------Absmax model:I have a dream to find out the origin of her hair. She loves it. But there's no way you could be honest about how her hair is made. She must be crazy.We found a photo of the hairstyle posted on--------------------------------------------------Zeropoint model:I have a dream of creating two full-time jobs in America—one for people with mental health issues, and one for people who do not suffer from mental illness—or at least have an employment and family history of substance abuse, to work part
+```
+
+Instead of trying to see if one output makes more sense than the others, we can quantify it by calculating the **perplexity** of each output. This is a common metric used to evaluate language models, which measures the uncertainty of a model in predicting the next token in a sequence. In this comparison, we make the common assumption that the lower the score, the better the model is. In practice, a sentence with a high perplexity could also be correct.
+
+We implement it using a minimal function since it doesn’t need to consider details like the length of the context window since our sentences are short.
+
+```
+def calculate_perplexity(model, text): # Encode the text encodings = tokenizer(text, return_tensors='pt').to(device) # Define input_ids and target_ids input_ids = encodings.input_ids target_ids = input_ids.clone() with torch.no_grad(): outputs = model(input_ids, labels=target_ids) # Loss calculation neg_log_likelihood = outputs.loss # Perplexity calculation ppl = torch.exp(neg_log_likelihood) return pplppl = calculate_perplexity(model, original_text)ppl_abs = calculate_perplexity(model_abs, absmax_text)ppl_zp = calculate_perplexity(model_zp, absmax_text)print(f"Original perplexity: {ppl.item():.2f}")print(f"Absmax perplexity: {ppl_abs.item():.2f}")print(f"Zeropoint perplexity: {ppl_zp.item():.2f}")
+``````
+Original perplexity: 15.53Absmax perplexity: 17.92Zeropoint perplexity: 17.97
+```
+
+We see that the perplexity of the original model is **slightly lower** than the two others. A single experiment is not very reliable, but we could repeat this process multiple times to see the difference between each model. In theory, zero-point quantization should be slightly better than absmax, but is also more costly to compute.
+
+In this example, we applied quantization techniques to entire layers (per-tensor basis). However, we could apply it at different granularity levels: from the entire model to individual values. Quantizing the entire model in one pass would seriously degrade the performance, while quantizing individual values would create a big overhead. In practice, we often prefer the **vector-wise quantization** , which considers the variability of values in rows and columns inside of the same tensor.
+
+However, even vector-wise quantization doesn’t solve the problem of outlier features. Outlier features are extreme values (negative or positive) that appear in all transformer layers when the model reach a certain scale (>6.7B parameters). This is an issue since a single outlier can reduce the precision for all other values. But discarding these outlier features is not an option since it would **greatly degrade** the model’s performance.
+
+# 🔢 8-bit Quantization with LLM.int8()
+
+Introduced by [Dettmers et al. (2022)](https://arxiv.org/abs/2208.07339), LLM.int8() is a solution to the outlier problem. It relies on a vector-wise (absmax) quantization scheme and introduces mixed-precision quantization. This means that outlier features are processed in a FP16 format to retain their precision, while the other values are processed in an INT8 format. As outliers represent about 0.1% of values, this effectively reduces the memory footprint of the LLM by almost 2x.
+
+![](https://miro.medium.com/v2/resize:fit:700/1*SFxEfA8009WcgWJG5Vsh0A.png)
+
+Image by author
+
+LLM.int8() works by conducting matrix multiplication computation in three key steps:
+
+  1. Extract columns from the input hidden states **X** containing outlier features using a custom threshold.
+  2. Perform the matrix multiplication of the outliers using FP16 and the non-outliers using INT8 with vector-wise quantization (row-wise for the hidden state **X** and column-wise for the weight matrix **W**).
+  3. Dequantize the non-outlier results (INT8 to FP16) and add them to the outlier results to get the full result in FP16.
+
+
+
+![](https://miro.medium.com/v2/resize:fit:1000/1*1xt5F9kFLFGfiFmRtF11Pg.png)
+
+Image by author
+
+This approach is necessary because 8-bit precision is limited and can lead to substantial errors when quantizing a vector with large values. These errors also tend to amplify as they propagate through multiple layers.
+
+We can easily use this technique thanks to the integration of the `bitsandbytes` library into the Hugging Face ecosystem. We just need to specify `load_in_8bit=True` when loading the model (it also requires a GPU).
+
+```
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')model_int8 = AutoModelForCausalLM.from_pretrained(model_id, device_map='auto', load_in_8bit=True, )print(f"Model size: {model_int8.get_memory_footprint():,} bytes")
+``````
+Model size: 176,527,896 bytes
+```
+
+With this extra line of code, the model is now almost three times smaller (168MB vs. 487MB). We can even compare the distribution of the original and quantized weights as we did earlier:
+
+![](https://miro.medium.com/v2/resize:fit:700/1*gvBKaY8nDJgTfMwPVi77KQ.png)
+
+In this case, we see spikes around -2, -1, 0, 1, 2, etc. These values correspond to the parameters stored in the INT8 format (non-outliers). You can verify it by printing the model’s weights using `model_int8.parameters()`.
+
+We can also generate text with this quantized model and compare it to the original model.
+
+```
+# Generate text with quantized modeltext_int8 = generate_text(model_int8, "I have a dream")print(f"Original model:\n{original_text}")print("-" * 50)print(f"LLM.int8() model:\n{text_int8}")
+``````
+Original model:I have a dream, and it is a dream I believe I would get to live in my future. I love my mother, and there was that one time I had been told that my family wasn't even that strong. And then I got the--------------------------------------------------LLM.int8() model:I have a dream. I don't know what will come of it, but I am going to have to look for something that will be right. I haven't thought about it for a long time, but I have to try to get that thing
+```
+
+Once again, it is difficult to judge what is the best output, but we can rely on the perplexity metric to give us an (approximate) answer.
+
+```
+print(f"Perplexity (original): {ppl.item():.2f}")ppl = calculate_perplexity(model_int8, text_int8)print(f"Perplexity (LLM.int8()): {ppl.item():.2f}")
+``````
+Perplexity (original): 15.53Perplexity (LLM.int8()): 7.93
+```
+
+In this case, the perplexity of the quantized model is twice as low as the original one. In general, this is not the case, but it shows that this quantization technique is very competitive. In fact, the authors of LLM.int8() show that the performance degradation is so low it’s negligible (<1%). However, it has an additional cost in terms of computation: LLM.int8() is roughly about 20% slower for large models.
+
+# Conclusion
+
+This article provided an overview of the most popular weight quantization techniques. We started by gaining an understanding of floating point representation, before introducing two techniques for 8-bit quantization: **absmax** and **zero-point quantization**. However, their limitations, particularly when it comes to handling outliers, led to **LLM.int8()** , a technique that also preserves the model’s performance. This approach underlines the progress being made in the field of weight quantization, revealing the importance of properly addressing outliers.
+
+Looking forward, our next article will explore the GPTQ weight quantization technique in depth. This technique, introduced by [Frantar et al.](https://arxiv.org/abs/2210.17323), only utilizes 4 bits and represents a significant advancement in the field of weight quantization. We will provide a comprehensive guide on how to implement GPTQ using the AutoGPTQ library.
+
+If you’re interested in more technical content around LLMs, follow me on Twitter [@maximelabonne](https://twitter.com/maximelabonne).
+
+# References
+
+  * T. Dettmers, M. Lewis, Y. Belkada, and L. Zettlemoyer, [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339). 2022.
+  * Y. Beldaka, and T. Dettmers, [A Gentle Introduction to 8-bit Matrix Multiplication](https://huggingface.co/blog/hf-bitsandbytes-integration), Hugging Face Blog (2022).
+  * A. Gholami, S. Kim, Z. Dong, Z. Yao, M. W. Mahoney, and K. Keutzer, [A Survey of Quantization Methods for Efficient Neural Network Inference](https://arxiv.org/abs/2103.13630). 2021.
+  * H. Wu, P. Judd, X. Zhang, M. Isaev, and P. Micikevicius, [Integer Quantization for Deep Learning Inference: Principles and Empirical Evaluation](https://arxiv.org/abs/2004.09602). 2020.
+  * Lilian Weng, [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/), Lil’Log (2023).
+  * Kamil Czarnogorski, [Local Large Language Models](https://int8.io/local-large-language-models-beginners-guide/), Int8 (2023).
+
+
+
+![](https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)
+
+## Sign up to discover human stories that deepen your understanding of the world.
+
+## Free
+
+Distraction-free reading. No ads.
+
+Organize your knowledge with lists and highlights.
+
+Tell your story. Find your audience.
+
+[Sign up for free](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&source=---post_footer_upsell--2494701b9c0c---------------------lo_non_moc_upsell-----------)
+
+## Membership
+
+Read member-only stories
+
+Support writers you read most
+
+Earn money for your writing
+
+Listen to audio narrations
+
+Read offline with the Medium app
+
+[Try for $5/month](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplans&source=---post_footer_upsell--2494701b9c0c---------------------lo_non_moc_upsell-----------)
+
+[Large Language Models](https://medium.com/tag/large-language-models?source=post_page-----2494701b9c0c--------------------------------)
+
+[Quantization](https://medium.com/tag/quantization?source=post_page-----2494701b9c0c--------------------------------)
+
+[Machine Learning](https://medium.com/tag/machine-learning?source=post_page-----2494701b9c0c--------------------------------)
+
+[Data Science](https://medium.com/tag/data-science?source=post_page-----2494701b9c0c--------------------------------)
+
+[Hands On Tutorials](https://medium.com/tag/hands-on-tutorials?source=post_page-----2494701b9c0c--------------------------------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F2494701b9c0c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&user=Maxime+Labonne&userId=dc89da634938&source=---footer_actions--2494701b9c0c---------------------clap_footer-----------)
+
+--
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F2494701b9c0c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&user=Maxime+Labonne&userId=dc89da634938&source=---footer_actions--2494701b9c0c---------------------clap_footer-----------)
+
+--
+
+11
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2494701b9c0c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&source=---footer_actions--2494701b9c0c---------------------bookmark_footer-----------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:96:96/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--2494701b9c0c--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:128:128/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--2494701b9c0c--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--2494701b9c0c---------------------follow_profile-----------)
+
+## [Published in Towards Data Science](https://towardsdatascience.com/?source=post_page---post_publication_info--2494701b9c0c--------------------------------)
+
+[794K Followers](/followers?source=post_page---post_publication_info--2494701b9c0c--------------------------------)
+
+·[Last published just now](/explaining-the-attention-mechanism-29a0e7b448a9?source=post_page---post_publication_info--2494701b9c0c--------------------------------)
+
+Your home for data science and AI. The world’s leading publication for data science, data analytics, data engineering, machine learning, and artificial intelligence professionals.
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--2494701b9c0c---------------------follow_profile-----------)
+
+[![Maxime Labonne](https://miro.medium.com/v2/resize:fill:96:96/1*VbPYS4bNf0IrrOF-ZubSGQ.png)](https://medium.com/@mlabonne?source=post_page---post_author_info--2494701b9c0c--------------------------------)
+
+[![Maxime Labonne](https://miro.medium.com/v2/resize:fill:128:128/1*VbPYS4bNf0IrrOF-ZubSGQ.png)](https://medium.com/@mlabonne?source=post_page---post_author_info--2494701b9c0c--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fdc89da634938&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&user=Maxime+Labonne&userId=dc89da634938&source=post_page-dc89da634938--post_author_info--2494701b9c0c---------------------follow_profile-----------)
+
+## [Written by Maxime Labonne](https://medium.com/@mlabonne?source=post_page---post_author_info--2494701b9c0c--------------------------------)
+
+[8.6K Followers](https://medium.com/@mlabonne/followers?source=post_page---post_author_info--2494701b9c0c--------------------------------)
+
+·[13 Following](https://medium.com/@mlabonne/following?source=post_page---post_author_info--2494701b9c0c--------------------------------)
+
+Ph.D., Staff ML Scientist @ Liquid AI • Author of "Hands-On Graph Neural Networks" • [x.com/maximelabonne](http://x.com/maximelabonne)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fdc89da634938&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&user=Maxime+Labonne&userId=dc89da634938&source=post_page-dc89da634938--post_author_info--2494701b9c0c---------------------follow_profile-----------)
+
+## Responses (11)
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--2494701b9c0c--------------------------------)
+
+[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-weight-quantization-2494701b9c0c&source=---post_responses--2494701b9c0c---------------------respond_sidebar-----------)
+
+Cancel
+
+Respond
+
+Respond
+
+Also publish to my profile
+
+See all responses
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----2494701b9c0c--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----2494701b9c0c--------------------------------)
+
+[About](https://medium.com/about?autoplay=1&source=post_page-----2494701b9c0c--------------------------------)
+
+[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----2494701b9c0c--------------------------------)
+
+[Press](pressinquiries@medium.com?source=post_page-----2494701b9c0c--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----2494701b9c0c--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----2494701b9c0c--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----2494701b9c0c--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----2494701b9c0c--------------------------------)
+
+[Teams](https://medium.com/business?source=post_page-----2494701b9c0c--------------------------------)

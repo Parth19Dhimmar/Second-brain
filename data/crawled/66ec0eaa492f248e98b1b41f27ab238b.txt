@@ -1,0 +1,12 @@
+[https://aws.amazon.com/tutorials/build-train-deploy-monitor-machine-learning-model-sagemaker-studio/?trk=ha_a134p000004f0SDAAY~ha_awssm-5821_all-users](https://aws.amazon.com/tutorials/build-train-deploy-monitor-machine-learning-model-sagemaker-studio/?trk=ha_a134p000004f0SDAAY~ha_awssm-5821_all-users)
+[Chat Completion: Run Llama 2 Models in SageMaker JumpStart](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/llama-2-chat-completion.ipynb)
+[How to deploy Large Language Models (LLMs) to Amazon SageMaker using new Hugging Face LLM DLC](https://github.com/huggingface/notebooks/blob/main/sagemaker/27_deploy_large_language_models/sagemaker-notebook.ipynb)
+[Deploy models to Amazon SageMaker](https://huggingface.co/docs/sagemaker/en/inference)
+[Deploy Llama 3 on Amazon SageMaker](https://www.philschmid.de/sagemaker-llama3)
+[Run training on Amazon SageMaker](https://huggingface.co/docs/sagemaker/en/train)
+
+End-to-end example with custom Docker images and local processing: [https://github.com/avr2002/sagemaker/blob/feat/sagemaker-processing-job/pipeline.py](https://github.com/avr2002/sagemaker/blob/feat/sagemaker-processing-job/pipeline.py)
+# Docs
+
+[https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276)
+[https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-roles.html](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-roles.html)

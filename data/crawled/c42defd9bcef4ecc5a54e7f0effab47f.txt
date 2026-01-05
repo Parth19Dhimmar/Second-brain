@@ -1,0 +1,423 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fopenai%2Fevals%2Fblob%2Fmain%2Fevals%2Fregistry%2Fmodelgraded%2Ffact.yaml%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fopenai%2Fevals%2Fblob%2Fmain%2Fevals%2Fregistry%2Fmodelgraded%2Ffact.yaml%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=openai%2Fevals) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ openai ](/openai) / **[evals](/openai/evals) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fopenai%2Fevals) You must be signed in to change notification settings
+  * [ Fork 2.6k ](/login?return_to=%2Fopenai%2Fevals)
+  * [ Star  15.4k ](/login?return_to=%2Fopenai%2Fevals)
+
+
+
+
+  * [ Code ](/openai/evals)
+  * [ Issues 95 ](/openai/evals/issues)
+  * [ Pull requests 48 ](/openai/evals/pulls)
+  * [ Discussions ](/openai/evals/discussions)
+  * [ Actions ](/openai/evals/actions)
+  * [ Projects 0 ](/openai/evals/projects)
+  * [ Security ](/openai/evals/security)
+  * [ Insights ](/openai/evals/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/openai/evals)
+  * [ Issues  ](/openai/evals/issues)
+  * [ Pull requests  ](/openai/evals/pulls)
+  * [ Discussions  ](/openai/evals/discussions)
+  * [ Actions  ](/openai/evals/actions)
+  * [ Projects  ](/openai/evals/projects)
+  * [ Security  ](/openai/evals/security)
+  * [ Insights  ](/openai/evals/pulse)
+
+
+
+## Files
+
+main
+
+  * .github
+
+  * docs
+
+  * evals
+
+    * cli
+
+    * completion_fns
+
+    * elsuite
+
+    * prompt
+
+    * registry
+
+      * completion_fns
+
+      * data
+
+      * eval_sets
+
+      * evals
+
+      * modelgraded
+
+        * arithmetic-expression.yaml
+
+        * battle.yaml
+
+        * best.yaml
+
+        * closedqa.yaml
+
+        * diversity.yaml
+
+        * fact.yaml
+
+        * humor.yaml
+
+        * iambic_pentameter.yaml
+
+        * keywords.yaml
+
+        * onomatopoeia.yaml
+
+        * possible.yaml
+
+        * regression-equation.yaml
+
+        * research-question-extraction.yaml
+
+        * rhyming.yaml
+
+        * security.yaml
+
+        * singlestore.yaml
+
+        * sql.yaml
+
+        * translation.yaml
+
+      * solvers
+
+    * solvers
+
+    * utils
+
+    * __init__.py
+
+    * api.py
+
+    * base.py
+
+    * data.py
+
+    * data_test.py
+
+    * eval.py
+
+    * formatting.py
+
+    * metrics.py
+
+    * record.py
+
+    * record_test.py
+
+    * registry.py
+
+    * registry_test.py
+
+    * task_state.py
+
+  * examples
+
+  * scripts
+
+  * tests
+
+  * .gitattributes
+
+  * .gitignore
+
+  * .pre-commit-config.yaml
+
+  * LICENSE.md
+
+  * MANIFEST.in
+
+  * Makefile
+
+  * README.md
+
+  * SECURITY.md
+
+  * mypy.ini
+
+  * pyproject.toml
+
+
+
+
+## Breadcrumbs
+
+  1. [evals](/openai/evals/tree/main)
+  2. /[evals](/openai/evals/tree/main/evals)
+  3. /[registry](/openai/evals/tree/main/evals/registry)
+  4. /[modelgraded](/openai/evals/tree/main/evals/registry/modelgraded)
+
+
+
+/
+
+# fact.yaml
+
+Copy path
+
+Blame
+
+Blame
+
+## Latest commit
+
+[![rlbayes](https://avatars.githubusercontent.com/u/343165?v=4&size=40)](/rlbayes)[rlbayes](/openai/evals/commits?author=rlbayes)
+
+[[evals] moved modelgraded specs to registry (](/openai/evals/commit/aae522b0c36a542294e5eb8077f2d23838bc2696)[#392](https://github.com/openai/evals/pull/392)[)](/openai/evals/commit/aae522b0c36a542294e5eb8077f2d23838bc2696)
+
+Mar 22, 2023
+
+[aae522b](/openai/evals/commit/aae522b0c36a542294e5eb8077f2d23838bc2696) · Mar 22, 2023
+
+## History
+
+[History](/openai/evals/commits/main/evals/registry/modelgraded/fact.yaml)
+
+[](/openai/evals/commits/main/evals/registry/modelgraded/fact.yaml)
+
+23 lines (22 loc) · 1.13 KB
+
+· [](/openai/evals/blob/main/.github/CODEOWNERS#L1)
+
+## Breadcrumbs
+
+  1. [evals](/openai/evals/tree/main)
+  2. /[evals](/openai/evals/tree/main/evals)
+  3. /[registry](/openai/evals/tree/main/evals/registry)
+  4. /[modelgraded](/openai/evals/tree/main/evals/registry/modelgraded)
+
+
+
+/
+
+# fact.yaml
+
+Top
+
+## File metadata and controls
+
+  * Code
+
+  * Blame
+
+
+
+
+23 lines (22 loc) · 1.13 KB
+
+· [](/openai/evals/blob/main/.github/CODEOWNERS#L1)
+
+[Raw](https://github.com/openai/evals/raw/refs/heads/main/evals/registry/modelgraded/fact.yaml)
+
+fact: prompt: |- You are comparing a submitted answer to an expert answer on a given question. Here is the data: [BEGIN DATA] ************ [Question]: {input} ************ [Expert]: {ideal} ************ [Submission]: {completion} ************ [END DATA] Compare the factual content of the submitted answer with the expert answer. Ignore any differences in style, grammar, or punctuation. The submitted answer may either be a subset or superset of the expert answer, or it may conflict with it. Determine which case applies. Answer the question by selecting one of the following options: (A) The submitted answer is a subset of the expert answer and is fully consistent with it. (B) The submitted answer is a superset of the expert answer and is fully consistent with it. (C) The submitted answer contains all the same details as the expert answer. (D) There is a disagreement between the submitted answer and the expert answer. (E) The answers differ, but these differences don't matter from the perspective of factuality. choice_strings: ABCDE input_outputs: input: completion
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

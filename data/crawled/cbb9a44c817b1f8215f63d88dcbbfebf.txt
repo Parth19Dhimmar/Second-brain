@@ -1,0 +1,1003 @@
+Table of Contents [](#)
+
+1.6.1 
+
+User Guide
+
+  * [Quick Start](pages/quickstart.html)
+  * [All TorchMetrics](all-metrics.html)
+  * [TorchMetrics’ gallery](gallery/index.html)
+  * [Audio domain](gallery/index.html#audio-domain)
+  * [Image domain](gallery/index.html#image-domain)
+  * [Text domain](gallery/index.html#text-domain)
+  * [Structure Overview](pages/overview.html)
+  * [Plotting](pages/plotting.html)
+  * [Implementing a Metric](pages/implement.html)
+  * [TorchMetrics in PyTorch Lightning](pages/lightning.html)
+
+
+
+Aggregation
+
+  * [Concatenation](aggregation/cat.html)
+  * [Maximum](aggregation/max.html)
+  * [Mean](aggregation/mean.html)
+  * [Minimum](aggregation/min.html)
+  * [Running Mean](aggregation/running_mean.html)
+  * [Running Sum](aggregation/running_sum.html)
+  * [Sum](aggregation/sum.html)
+
+
+
+Audio
+
+  * [Complex Scale-Invariant Signal-to-Noise Ratio (C-SI-SNR)](audio/complex_scale_invariant_signal_noise_ratio.html)
+  * [Deep Noise Suppression Mean Opinion Score (DNSMOS)](audio/deep_noise_suppression_mean_opinion_score.html)
+  * [Non-Intrusive Speech Quality Assessment (NISQA v2.0)](audio/non_intrusive_speech_quality_assessment.html)
+  * [Perceptual Evaluation of Speech Quality (PESQ)](audio/perceptual_evaluation_speech_quality.html)
+  * [Permutation Invariant Training (PIT)](audio/permutation_invariant_training.html)
+  * [Scale-Invariant Signal-to-Distortion Ratio (SI-SDR)](audio/scale_invariant_signal_distortion_ratio.html)
+  * [Scale-Invariant Signal-to-Noise Ratio (SI-SNR)](audio/scale_invariant_signal_noise_ratio.html)
+  * [Short-Time Objective Intelligibility (STOI)](audio/short_time_objective_intelligibility.html)
+  * [Signal to Distortion Ratio (SDR)](audio/signal_distortion_ratio.html)
+  * [Signal-to-Noise Ratio (SNR)](audio/signal_noise_ratio.html)
+  * [Source Aggregated Signal-to-Distortion Ratio (SA-SDR)](audio/source_aggregated_signal_distortion_ratio.html)
+  * [Speech-to-Reverberation Modulation Energy Ratio (SRMR)](audio/speech_reverberation_modulation_energy_ratio.html)
+
+
+
+Classification
+
+  * [Accuracy](classification/accuracy.html)
+  * [AUROC](classification/auroc.html)
+  * [Average Precision](classification/average_precision.html)
+  * [Calibration Error](classification/calibration_error.html)
+  * [Cohen Kappa](classification/cohen_kappa.html)
+  * [Confusion Matrix](classification/confusion_matrix.html)
+  * [Coverage Error](classification/coverage_error.html)
+  * [Dice](classification/dice.html)
+  * [Exact Match](classification/exact_match.html)
+  * [F-1 Score](classification/f1_score.html)
+  * [F-Beta Score](classification/fbeta_score.html)
+  * [Group Fairness](classification/group_fairness.html)
+  * [Hamming Distance](classification/hamming_distance.html)
+  * [Hinge Loss](classification/hinge_loss.html)
+  * [Jaccard Index](classification/jaccard_index.html)
+  * [Label Ranking Average Precision](classification/label_ranking_average_precision.html)
+  * [Label Ranking Loss](classification/label_ranking_loss.html)
+  * [Log AUC](classification/logauc.html)
+  * [Matthews Correlation Coefficient](classification/matthews_corr_coef.html)
+  * [Negative Predictive Value](classification/negative_predictive_value.html)
+  * [Precision](classification/precision.html)
+  * [Precision At Fixed Recall](classification/precision_at_fixed_recall.html)
+  * [Precision Recall Curve](classification/precision_recall_curve.html)
+  * [Recall](classification/recall.html)
+  * [Recall At Fixed Precision](classification/recall_at_fixed_precision.html)
+  * [ROC](classification/roc.html)
+  * [Sensitivity At Specificity](classification/sensitivity_at_specificity.html)
+  * [Specificity](classification/specificity.html)
+  * [Specificity At Sensitivity](classification/specificity_at_sensitivity.html)
+  * [Stat Scores](classification/stat_scores.html)
+
+
+
+Clustering
+
+  * [Adjusted Mutual Information Score](clustering/adjusted_mutual_info_score.html)
+  * [Adjusted Rand Score](clustering/adjusted_rand_score.html)
+  * [Calinski Harabasz Score](clustering/calinski_harabasz_score.html)
+  * [Completeness Score](clustering/completeness_score.html)
+  * [Davies Bouldin Score](clustering/davies_bouldin_score.html)
+  * [Dunn Index](clustering/dunn_index.html)
+  * [Fowlkes-Mallows Index](clustering/fowlkes_mallows_index.html)
+  * [Homogeneity Score](clustering/homogeneity_score.html)
+  * [Mutual Information Score](clustering/mutual_info_score.html)
+  * [Normalized Mutual Information Score](clustering/normalized_mutual_info_score.html)
+  * [Rand Score](clustering/rand_score.html)
+  * [V-Measure Score](clustering/v_measure_score.html)
+
+
+
+Detection
+
+  * [Complete Intersection Over Union (cIoU)](detection/complete_intersection_over_union.html)
+  * [Distance Intersection Over Union (dIoU)](detection/distance_intersection_over_union.html)
+  * [Generalized Intersection Over Union (gIoU)](detection/generalized_intersection_over_union.html)
+  * [Intersection Over Union (IoU)](detection/intersection_over_union.html)
+  * [Mean-Average-Precision (mAP)](detection/mean_average_precision.html)
+  * [Modified Panoptic Quality](detection/modified_panoptic_quality.html)
+  * [Panoptic Quality](detection/panoptic_quality.html)
+
+
+
+Image
+
+  * [Error Relative Global Dim. Synthesis (ERGAS)](image/error_relative_global_dimensionless_synthesis.html)
+  * [Frechet Inception Distance (FID)](image/frechet_inception_distance.html)
+  * [Image Gradients](image/image_gradients.html)
+  * [Inception Score](image/inception_score.html)
+  * [Kernel Inception Distance](image/kernel_inception_distance.html)
+  * [Learned Perceptual Image Patch Similarity (LPIPS)](image/learned_perceptual_image_patch_similarity.html)
+  * [Memorization-Informed Frechet Inception Distance (MiFID)](image/mifid.html)
+  * [Multi-Scale SSIM](image/multi_scale_structural_similarity.html)
+  * [Peak Signal-to-Noise Ratio (PSNR)](image/peak_signal_noise_ratio.html)
+  * [Peak Signal To Noise Ratio With Blocked Effect](image/peak_signal_to_noise_with_block.html)
+  * [Perceptual Path Length (PPL)](image/perceptual_path_length.html)
+  * [Quality with No Reference](image/quality_with_no_reference.html)
+  * [Relative Average Spectral Error (RASE)](image/relative_average_spectral_error.html)
+  * [Root Mean Squared Error Using Sliding Window](image/root_mean_squared_error_using_sliding_window.html)
+  * [Spatial Correlation Coefficient (SCC)](image/spatial_correlation_coefficient.html)
+  * [Spatial Distortion Index](image/spatial_distortion_index.html)
+  * [Spectral Angle Mapper](image/spectral_angle_mapper.html)
+  * [Spectral Distortion Index](image/spectral_distortion_index.html)
+  * [Structural Similarity Index Measure (SSIM)](image/structural_similarity.html)
+  * [Total Variation (TV)](image/total_variation.html)
+  * [Universal Image Quality Index](image/universal_image_quality_index.html)
+  * [Visual Information Fidelity (VIF)](image/visual_information_fidelity.html)
+
+
+
+Multimodal
+
+  * [CLIP Image Quality Assessment (CLIP-IQA)](multimodal/clip_iqa.html)
+  * [CLIP Score](multimodal/clip_score.html)
+
+
+
+Nominal
+
+  * [Cramer’s V](nominal/cramers_v.html)
+  * [Fleiss Kappa](nominal/fleiss_kappa.html)
+  * [Pearson’s Contingency Coefficient](nominal/pearsons_contingency_coefficient.html)
+  * [Theil’s U](nominal/theils_u.html)
+  * [Tschuprow’s T](nominal/tschuprows_t.html)
+
+
+
+Pairwise
+
+  * [Cosine Similarity](pairwise/cosine_similarity.html)
+  * [Euclidean Distance](pairwise/euclidean_distance.html)
+  * [Linear Similarity](pairwise/linear_similarity.html)
+  * [Manhattan Distance](pairwise/manhattan_distance.html)
+  * [Minkowski Distance](pairwise/minkowski_distance.html)
+
+
+
+Regression
+
+  * [Concordance Corr. Coef.](regression/concordance_corr_coef.html)
+  * [Cosine Similarity](regression/cosine_similarity.html)
+  * [Critical Success Index (CSI)](regression/critical_success_index.html)
+  * [Explained Variance](regression/explained_variance.html)
+  * [Kendall Rank Corr. Coef.](regression/kendall_rank_corr_coef.html)
+  * [KL Divergence](regression/kl_divergence.html)
+  * [Log Cosh Error](regression/log_cosh_error.html)
+  * [Mean Absolute Error (MAE)](regression/mean_absolute_error.html)
+  * [Mean Absolute Percentage Error (MAPE)](regression/mean_absolute_percentage_error.html)
+  * [Mean Squared Error (MSE)](regression/mean_squared_error.html)
+  * [Mean Squared Log Error (MSLE)](regression/mean_squared_log_error.html)
+  * [Minkowski Distance](regression/minkowski_distance.html)
+  * [Normalized Root Mean Squared Error (NRMSE)](regression/normalized_root_mean_squared_error.html)
+  * [Pearson Corr. Coef.](regression/pearson_corr_coef.html)
+  * [R2 Score](regression/r2_score.html)
+  * [Relative Squared Error (RSE)](regression/rse.html)
+  * [Spearman Corr. Coef.](regression/spearman_corr_coef.html)
+  * [Symmetric Mean Absolute Percentage Error (SMAPE)](regression/symmetric_mean_absolute_percentage_error.html)
+  * [Tweedie Deviance Score](regression/tweedie_deviance_score.html)
+  * [Weighted MAPE](regression/weighted_mean_absolute_percentage_error.html)
+
+
+
+Retrieval
+
+  * [Retrieval AUROC](retrieval/auroc.html)
+  * [Retrieval Fall-Out](retrieval/fall_out.html)
+  * [Retrieval Hit Rate](retrieval/hit_rate.html)
+  * [Retrieval Mean Average Precision (MAP)](retrieval/map.html)
+  * [Retrieval Mean Reciprocal Rank (MRR)](retrieval/mrr.html)
+  * [Retrieval Normalized DCG](retrieval/normalized_dcg.html)
+  * [Retrieval Precision](retrieval/precision.html)
+  * [Retrieval Precision Recall Curve](retrieval/precision_recall_curve.html)
+  * [Retrieval R-Precision](retrieval/r_precision.html)
+  * [Retrieval Recall](retrieval/recall.html)
+
+
+
+Segmentation
+
+  * [Dice Score](segmentation/dice.html)
+  * [Generalized Dice Score](segmentation/generalized_dice.html)
+  * [Hausdorff Distance](segmentation/hausdorff_distance.html)
+  * [Mean Intersection over Union (mIoU)](segmentation/mean_iou.html)
+
+
+
+Shape
+
+  * [Procrustes Disparity](shape/procrustes.html)
+
+
+
+Text
+
+  * [BERT Score](text/bert_score.html)
+  * [BLEU Score](text/bleu_score.html)
+  * [Char Error Rate](text/char_error_rate.html)
+  * [ChrF Score](text/chrf_score.html)
+  * [Edit Distance](text/edit.html)
+  * [Extended Edit Distance](text/extended_edit_distance.html)
+  * [InfoLM](text/infolm.html)
+  * [Match Error Rate](text/match_error_rate.html)
+  * [Perplexity](text/perplexity.html)
+  * [ROUGE Score](text/rouge_score.html)
+  * [Sacre BLEU Score](text/sacre_bleu_score.html)
+  * [SQuAD](text/squad.html)
+  * [Translation Edit Rate (TER)](text/translation_edit_rate.html)
+  * [Word Error Rate](text/word_error_rate.html)
+  * [Word Info. Lost](text/word_info_lost.html)
+  * [Word Info. Preserved](text/word_info_preserved.html)
+
+
+
+Wrappers
+
+  * [Bootstrapper](wrappers/bootstrapper.html)
+  * [Classwise Wrapper](wrappers/classwise_wrapper.html)
+  * [Feature Sharing](wrappers/feature_share.html)
+  * [Metric Tracker](wrappers/metric_tracker.html)
+  * [Min / Max](wrappers/min_max.html)
+  * [Multi-output Wrapper](wrappers/multi_output_wrapper.html)
+  * [Multi-task Wrapper](wrappers/multi_task_wrapper.html)
+  * [Running](wrappers/running.html)
+  * [Transformations](wrappers/transformations.html)
+
+
+
+API Reference
+
+  * [torchmetrics.Metric](references/metric.html)
+  * [torchmetrics.utilities](references/utilities.html)
+
+
+
+Community
+
+  * [TorchMetrics Governance](governance.html)
+  * [Contributor Covenant Code of Conduct](generated/CODE_OF_CONDUCT.html)
+  * [Contributing](generated/CONTRIBUTING.html)
+  * [Changelog](generated/CHANGELOG.html)
+
+
+
+  * [Overview](https://lightning.ai/docs/overview/)
+  * [Team management](https://lightning.ai/docs/team-management/team-management)
+  * [Production](https://lightning.ai/docs/production/automate-workflows)
+  * [Security](https://lightning.ai/docs/security/security)
+  * [Open source](#)
+    * [Overview](https://lightning.ai/docs/opensource/open-source)
+    * [PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/)
+    * [Fabric](https://lightning.ai/docs/fabric/stable/)
+    * [Lit-GPT](https://github.com/Lightning-AI/litgpt)
+    * [Torchmetrics](https://lightning.ai/docs/torchmetrics/stable/)
+    * [Litdata](https://github.com/Lightning-AI/litdata)
+    * [Lit LLaMA](https://github.com/Lightning-AI/lit-llama)
+    * [Litserve](https://github.com/Lightning-AI/litserve)
+  * [Examples](https://lightning.ai/docs/examples)
+  * [Glossary](https://lightning.ai/docs/glossary)
+  * [FAQ](https://lightning.ai/docs/faq)
+
+
+
+  * [ Docs ](#) >
+  * Welcome to TorchMetrics
+  * [![](_static/images/view-page-source-icon.svg)](_sources/index.rst.txt)
+
+
+
+Shortcuts 
+
+# Welcome to TorchMetrics[](#welcome-to-torchmetrics)
+
+TorchMetrics is a collection of 100+ PyTorch metrics implementations and an easy-to-use API to create custom metrics. It offers:
+
+  * A standardized interface to increase reproducibility
+
+  * Reduces Boilerplate
+
+  * Distributed-training compatible
+
+  * Rigorously tested
+
+  * Automatic accumulation over batches
+
+  * Automatic synchronization between multiple devices
+
+
+
+
+You can use TorchMetrics in any PyTorch model, or within [PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/) to enjoy the following additional benefits:
+
+  * Your data will always be placed on the same device as your metrics
+
+  * You can log [`Metric`](references/metric.html#torchmetrics.Metric "torchmetrics.Metric") objects directly in Lightning to reduce even more boilerplate
+
+
+
+
+## Install TorchMetrics[](#install-torchmetrics)
+
+For pip users
+
+```
+pipinstalltorchmetrics 
+```
+
+Or directly from conda
+
+```
+condainstall-cconda-forgetorchmetrics 
+```
+
+### [New to TorchMetrics? Use this quickstart guide to learn key concepts. ](pages/quickstart.html)
+
+### [TorchMetrics with PyTorch Lightning Easily use TorchMetrics in your PyTorch Lightning code. ](pages/lightning.html)
+
+### [Metrics View the full list of metrics and filter by task and data type. ](all-metrics.html)
+
+### [Overview A detailed overview of the TorchMetrics API and concepts. ](pages/overview.html)
+
+### [Custom Metrics Learn how to implement a custom metric with TorchMetrics. ](pages/implement.html)
+
+### [API Reference Detailed descriptions of each API package. ](references/metric.html)
+
+User Guide
+
+  * [Quick Start](pages/quickstart.html)
+    * [Install](pages/quickstart.html#install)
+    * [Using TorchMetrics](pages/quickstart.html#using-torchmetrics)
+    * [Implementing your own metric](pages/quickstart.html#implementing-your-own-metric)
+  * [All TorchMetrics](all-metrics.html)
+  * [TorchMetrics’ gallery](gallery/index.html)
+  * [Audio domain](gallery/index.html#audio-domain)
+  * [Image domain](gallery/index.html#image-domain)
+  * [Text domain](gallery/index.html#text-domain)
+  * [Structure Overview](pages/overview.html)
+    * [Metrics and devices](pages/overview.html#metrics-and-devices)
+    * [Metrics and memory management](pages/overview.html#metrics-and-memory-management)
+    * [Saving and loading metrics](pages/overview.html#saving-and-loading-metrics)
+    * [Metrics in Distributed Data Parallel (DDP) mode](pages/overview.html#metrics-in-distributed-data-parallel-ddp-mode)
+    * [Metrics and 16-bit precision](pages/overview.html#metrics-and-16-bit-precision)
+    * [Metric Arithmetic](pages/overview.html#metric-arithmetic)
+    * [MetricCollection](pages/overview.html#metriccollection)
+    * [Metric wrappers](pages/overview.html#metric-wrappers)
+    * [Module vs Functional Metrics](pages/overview.html#module-vs-functional-metrics)
+    * [Metrics and differentiability](pages/overview.html#metrics-and-differentiability)
+    * [Metrics and hyperparameter optimization](pages/overview.html#metrics-and-hyperparameter-optimization)
+    * [Advanced metric settings](pages/overview.html#advanced-metric-settings)
+  * [Plotting](pages/plotting.html)
+    * [Plotting a single step](pages/plotting.html#plotting-a-single-step)
+    * [Plotting multi steps](pages/plotting.html#plotting-multi-steps)
+    * [Plotting a collection of metrics](pages/plotting.html#plotting-a-collection-of-metrics)
+    * [Advance example](pages/plotting.html#advance-example)
+  * [Implementing a Metric](pages/implement.html)
+    * [Base interface](pages/implement.html#base-interface)
+    * [Working with list states](pages/implement.html#working-with-list-states)
+    * [Metric attributes](pages/implement.html#metric-attributes)
+    * [Plot interface](pages/implement.html#plot-interface)
+    * [Internal implementation details](pages/implement.html#internal-implementation-details)
+    * [Contributing your metric to TorchMetrics](pages/implement.html#contributing-your-metric-to-torchmetrics)
+  * [TorchMetrics in PyTorch Lightning](pages/lightning.html)
+    * [Logging TorchMetrics](pages/lightning.html#logging-torchmetrics)
+    * [Common Pitfalls](pages/lightning.html#common-pitfalls)
+
+
+
+Aggregation
+
+  * [Concatenation](aggregation/cat.html)
+    * [Module Interface](aggregation/cat.html#module-interface)
+  * [Maximum](aggregation/max.html)
+    * [Module Interface](aggregation/max.html#module-interface)
+  * [Mean](aggregation/mean.html)
+    * [Module Interface](aggregation/mean.html#module-interface)
+  * [Minimum](aggregation/min.html)
+    * [Module Interface](aggregation/min.html#module-interface)
+  * [Running Mean](aggregation/running_mean.html)
+    * [Module Interface](aggregation/running_mean.html#module-interface)
+  * [Running Sum](aggregation/running_sum.html)
+    * [Module Interface](aggregation/running_sum.html#module-interface)
+  * [Sum](aggregation/sum.html)
+    * [Module Interface](aggregation/sum.html#module-interface)
+
+
+
+Audio
+
+  * [Complex Scale-Invariant Signal-to-Noise Ratio (C-SI-SNR)](audio/complex_scale_invariant_signal_noise_ratio.html)
+    * [Module Interface](audio/complex_scale_invariant_signal_noise_ratio.html#module-interface)
+    * [Functional Interface](audio/complex_scale_invariant_signal_noise_ratio.html#functional-interface)
+  * [Deep Noise Suppression Mean Opinion Score (DNSMOS)](audio/deep_noise_suppression_mean_opinion_score.html)
+    * [Module Interface](audio/deep_noise_suppression_mean_opinion_score.html#module-interface)
+    * [Functional Interface](audio/deep_noise_suppression_mean_opinion_score.html#functional-interface)
+  * [Non-Intrusive Speech Quality Assessment (NISQA v2.0)](audio/non_intrusive_speech_quality_assessment.html)
+    * [Module Interface](audio/non_intrusive_speech_quality_assessment.html#module-interface)
+    * [Functional Interface](audio/non_intrusive_speech_quality_assessment.html#functional-interface)
+  * [Perceptual Evaluation of Speech Quality (PESQ)](audio/perceptual_evaluation_speech_quality.html)
+    * [Module Interface](audio/perceptual_evaluation_speech_quality.html#module-interface)
+    * [Functional Interface](audio/perceptual_evaluation_speech_quality.html#functional-interface)
+  * [Permutation Invariant Training (PIT)](audio/permutation_invariant_training.html)
+    * [Module Interface](audio/permutation_invariant_training.html#module-interface)
+    * [Functional Interface](audio/permutation_invariant_training.html#functional-interface)
+  * [Scale-Invariant Signal-to-Distortion Ratio (SI-SDR)](audio/scale_invariant_signal_distortion_ratio.html)
+    * [Module Interface](audio/scale_invariant_signal_distortion_ratio.html#module-interface)
+    * [Functional Interface](audio/scale_invariant_signal_distortion_ratio.html#functional-interface)
+  * [Scale-Invariant Signal-to-Noise Ratio (SI-SNR)](audio/scale_invariant_signal_noise_ratio.html)
+    * [Module Interface](audio/scale_invariant_signal_noise_ratio.html#module-interface)
+    * [Functional Interface](audio/scale_invariant_signal_noise_ratio.html#functional-interface)
+  * [Short-Time Objective Intelligibility (STOI)](audio/short_time_objective_intelligibility.html)
+    * [Module Interface](audio/short_time_objective_intelligibility.html#module-interface)
+    * [Functional Interface](audio/short_time_objective_intelligibility.html#functional-interface)
+  * [Signal to Distortion Ratio (SDR)](audio/signal_distortion_ratio.html)
+    * [Module Interface](audio/signal_distortion_ratio.html#module-interface)
+    * [Functional Interface](audio/signal_distortion_ratio.html#functional-interface)
+  * [Signal-to-Noise Ratio (SNR)](audio/signal_noise_ratio.html)
+    * [Module Interface](audio/signal_noise_ratio.html#module-interface)
+    * [Functional Interface](audio/signal_noise_ratio.html#functional-interface)
+  * [Source Aggregated Signal-to-Distortion Ratio (SA-SDR)](audio/source_aggregated_signal_distortion_ratio.html)
+    * [Module Interface](audio/source_aggregated_signal_distortion_ratio.html#module-interface)
+    * [Functional Interface](audio/source_aggregated_signal_distortion_ratio.html#functional-interface)
+  * [Speech-to-Reverberation Modulation Energy Ratio (SRMR)](audio/speech_reverberation_modulation_energy_ratio.html)
+    * [Module Interface](audio/speech_reverberation_modulation_energy_ratio.html#module-interface)
+    * [Functional Interface](audio/speech_reverberation_modulation_energy_ratio.html#functional-interface)
+
+
+
+Classification
+
+  * [Accuracy](classification/accuracy.html)
+    * [Module Interface](classification/accuracy.html#module-interface)
+    * [Functional Interface](classification/accuracy.html#functional-interface)
+  * [AUROC](classification/auroc.html)
+    * [Module Interface](classification/auroc.html#module-interface)
+    * [Functional Interface](classification/auroc.html#functional-interface)
+  * [Average Precision](classification/average_precision.html)
+    * [Module Interface](classification/average_precision.html#module-interface)
+    * [Functional Interface](classification/average_precision.html#functional-interface)
+  * [Calibration Error](classification/calibration_error.html)
+    * [Module Interface](classification/calibration_error.html#module-interface)
+    * [Functional Interface](classification/calibration_error.html#functional-interface)
+  * [Cohen Kappa](classification/cohen_kappa.html)
+    * [Module Interface](classification/cohen_kappa.html#module-interface)
+    * [Functional Interface](classification/cohen_kappa.html#functional-interface)
+  * [Confusion Matrix](classification/confusion_matrix.html)
+    * [Module Interface](classification/confusion_matrix.html#module-interface)
+    * [Functional Interface](classification/confusion_matrix.html#functional-interface)
+  * [Coverage Error](classification/coverage_error.html)
+    * [Module Interface](classification/coverage_error.html#module-interface)
+    * [Functional Interface](classification/coverage_error.html#functional-interface)
+  * [Dice](classification/dice.html)
+    * [Module Interface](classification/dice.html#module-interface)
+    * [Functional Interface](classification/dice.html#functional-interface)
+  * [Exact Match](classification/exact_match.html)
+    * [Module Interface](classification/exact_match.html#module-interface)
+    * [Functional Interface](classification/exact_match.html#functional-interface)
+  * [F-1 Score](classification/f1_score.html)
+    * [Module Interface](classification/f1_score.html#module-interface)
+    * [Functional Interface](classification/f1_score.html#functional-interface)
+  * [F-Beta Score](classification/fbeta_score.html)
+    * [Module Interface](classification/fbeta_score.html#module-interface)
+    * [Functional Interface](classification/fbeta_score.html#functional-interface)
+  * [Group Fairness](classification/group_fairness.html)
+    * [Module Interface](classification/group_fairness.html#module-interface)
+    * [Functional Interface](classification/group_fairness.html#functional-interface)
+  * [Hamming Distance](classification/hamming_distance.html)
+    * [Module Interface](classification/hamming_distance.html#module-interface)
+    * [Functional Interface](classification/hamming_distance.html#functional-interface)
+  * [Hinge Loss](classification/hinge_loss.html)
+    * [Module Interface](classification/hinge_loss.html#module-interface)
+    * [Functional Interface](classification/hinge_loss.html#functional-interface)
+  * [Jaccard Index](classification/jaccard_index.html)
+    * [Module Interface](classification/jaccard_index.html#module-interface)
+    * [Functional Interface](classification/jaccard_index.html#functional-interface)
+  * [Label Ranking Average Precision](classification/label_ranking_average_precision.html)
+    * [Module Interface](classification/label_ranking_average_precision.html#module-interface)
+    * [Functional Interface](classification/label_ranking_average_precision.html#functional-interface)
+  * [Label Ranking Loss](classification/label_ranking_loss.html)
+    * [Module Interface](classification/label_ranking_loss.html#module-interface)
+    * [Functional Interface](classification/label_ranking_loss.html#functional-interface)
+  * [Log AUC](classification/logauc.html)
+    * [Module Interface](classification/logauc.html#module-interface)
+    * [Functional Interface](classification/logauc.html#functional-interface)
+  * [Matthews Correlation Coefficient](classification/matthews_corr_coef.html)
+    * [Module Interface](classification/matthews_corr_coef.html#module-interface)
+    * [Functional Interface](classification/matthews_corr_coef.html#functional-interface)
+  * [Negative Predictive Value](classification/negative_predictive_value.html)
+    * [Module Interface](classification/negative_predictive_value.html#module-interface)
+    * [Functional Interface](classification/negative_predictive_value.html#functional-interface)
+  * [Precision](classification/precision.html)
+    * [Module Interface](classification/precision.html#module-interface)
+    * [Functional Interface](classification/precision.html#functional-interface)
+  * [Precision At Fixed Recall](classification/precision_at_fixed_recall.html)
+    * [Module Interface](classification/precision_at_fixed_recall.html#module-interface)
+    * [Functional Interface](classification/precision_at_fixed_recall.html#functional-interface)
+  * [Precision Recall Curve](classification/precision_recall_curve.html)
+    * [Module Interface](classification/precision_recall_curve.html#module-interface)
+    * [Functional Interface](classification/precision_recall_curve.html#functional-interface)
+  * [Recall](classification/recall.html)
+    * [Module Interface](classification/recall.html#module-interface)
+    * [Functional Interface](classification/recall.html#functional-interface)
+  * [Recall At Fixed Precision](classification/recall_at_fixed_precision.html)
+    * [Module Interface](classification/recall_at_fixed_precision.html#module-interface)
+    * [Functional Interface](classification/recall_at_fixed_precision.html#functional-interface)
+  * [ROC](classification/roc.html)
+    * [Module Interface](classification/roc.html#module-interface)
+    * [Functional Interface](classification/roc.html#functional-interface)
+  * [Sensitivity At Specificity](classification/sensitivity_at_specificity.html)
+    * [Module Interface](classification/sensitivity_at_specificity.html#module-interface)
+    * [Functional Interface](classification/sensitivity_at_specificity.html#functional-interface)
+  * [Specificity](classification/specificity.html)
+    * [Module Interface](classification/specificity.html#module-interface)
+    * [Functional Interface](classification/specificity.html#functional-interface)
+  * [Specificity At Sensitivity](classification/specificity_at_sensitivity.html)
+    * [Module Interface](classification/specificity_at_sensitivity.html#module-interface)
+    * [Functional Interface](classification/specificity_at_sensitivity.html#functional-interface)
+  * [Stat Scores](classification/stat_scores.html)
+    * [Module Interface](classification/stat_scores.html#module-interface)
+    * [Functional Interface](classification/stat_scores.html#functional-interface)
+
+
+
+Clustering
+
+  * [Adjusted Mutual Information Score](clustering/adjusted_mutual_info_score.html)
+    * [Module Interface](clustering/adjusted_mutual_info_score.html#module-interface)
+    * [Functional Interface](clustering/adjusted_mutual_info_score.html#functional-interface)
+  * [Adjusted Rand Score](clustering/adjusted_rand_score.html)
+    * [Module Interface](clustering/adjusted_rand_score.html#module-interface)
+    * [Functional Interface](clustering/adjusted_rand_score.html#functional-interface)
+  * [Calinski Harabasz Score](clustering/calinski_harabasz_score.html)
+    * [Module Interface](clustering/calinski_harabasz_score.html#module-interface)
+    * [Functional Interface](clustering/calinski_harabasz_score.html#functional-interface)
+  * [Completeness Score](clustering/completeness_score.html)
+    * [Module Interface](clustering/completeness_score.html#module-interface)
+    * [Functional Interface](clustering/completeness_score.html#functional-interface)
+  * [Davies Bouldin Score](clustering/davies_bouldin_score.html)
+    * [Module Interface](clustering/davies_bouldin_score.html#module-interface)
+    * [Functional Interface](clustering/davies_bouldin_score.html#functional-interface)
+  * [Dunn Index](clustering/dunn_index.html)
+    * [Module Interface](clustering/dunn_index.html#module-interface)
+    * [Functional Interface](clustering/dunn_index.html#functional-interface)
+  * [Fowlkes-Mallows Index](clustering/fowlkes_mallows_index.html)
+    * [Module Interface](clustering/fowlkes_mallows_index.html#module-interface)
+    * [Functional Interface](clustering/fowlkes_mallows_index.html#functional-interface)
+  * [Homogeneity Score](clustering/homogeneity_score.html)
+    * [Module Interface](clustering/homogeneity_score.html#module-interface)
+    * [Functional Interface](clustering/homogeneity_score.html#functional-interface)
+  * [Mutual Information Score](clustering/mutual_info_score.html)
+    * [Module Interface](clustering/mutual_info_score.html#module-interface)
+    * [Functional Interface](clustering/mutual_info_score.html#functional-interface)
+  * [Normalized Mutual Information Score](clustering/normalized_mutual_info_score.html)
+    * [Module Interface](clustering/normalized_mutual_info_score.html#module-interface)
+    * [Functional Interface](clustering/normalized_mutual_info_score.html#functional-interface)
+  * [Rand Score](clustering/rand_score.html)
+    * [Module Interface](clustering/rand_score.html#module-interface)
+    * [Functional Interface](clustering/rand_score.html#functional-interface)
+  * [V-Measure Score](clustering/v_measure_score.html)
+    * [Module Interface](clustering/v_measure_score.html#module-interface)
+    * [Functional Interface](clustering/v_measure_score.html#functional-interface)
+
+
+
+Detection
+
+  * [Complete Intersection Over Union (cIoU)](detection/complete_intersection_over_union.html)
+    * [Module Interface](detection/complete_intersection_over_union.html#module-interface)
+    * [Functional Interface](detection/complete_intersection_over_union.html#functional-interface)
+  * [Distance Intersection Over Union (dIoU)](detection/distance_intersection_over_union.html)
+    * [Module Interface](detection/distance_intersection_over_union.html#module-interface)
+    * [Functional Interface](detection/distance_intersection_over_union.html#functional-interface)
+  * [Generalized Intersection Over Union (gIoU)](detection/generalized_intersection_over_union.html)
+    * [Module Interface](detection/generalized_intersection_over_union.html#module-interface)
+    * [Functional Interface](detection/generalized_intersection_over_union.html#functional-interface)
+  * [Intersection Over Union (IoU)](detection/intersection_over_union.html)
+    * [Module Interface](detection/intersection_over_union.html#module-interface)
+    * [Functional Interface](detection/intersection_over_union.html#functional-interface)
+  * [Mean-Average-Precision (mAP)](detection/mean_average_precision.html)
+    * [Module Interface](detection/mean_average_precision.html#module-interface)
+  * [Modified Panoptic Quality](detection/modified_panoptic_quality.html)
+    * [Module Interface](detection/modified_panoptic_quality.html#module-interface)
+    * [Functional Interface](detection/modified_panoptic_quality.html#functional-interface)
+  * [Panoptic Quality](detection/panoptic_quality.html)
+    * [Module Interface](detection/panoptic_quality.html#module-interface)
+    * [Functional Interface](detection/panoptic_quality.html#functional-interface)
+
+
+
+Image
+
+  * [Error Relative Global Dim. Synthesis (ERGAS)](image/error_relative_global_dimensionless_synthesis.html)
+    * [Module Interface](image/error_relative_global_dimensionless_synthesis.html#module-interface)
+    * [Functional Interface](image/error_relative_global_dimensionless_synthesis.html#functional-interface)
+  * [Frechet Inception Distance (FID)](image/frechet_inception_distance.html)
+    * [Module Interface](image/frechet_inception_distance.html#module-interface)
+  * [Image Gradients](image/image_gradients.html)
+    * [Functional Interface](image/image_gradients.html#functional-interface)
+  * [Inception Score](image/inception_score.html)
+    * [Module Interface](image/inception_score.html#module-interface)
+  * [Kernel Inception Distance](image/kernel_inception_distance.html)
+    * [Module Interface](image/kernel_inception_distance.html#module-interface)
+  * [Learned Perceptual Image Patch Similarity (LPIPS)](image/learned_perceptual_image_patch_similarity.html)
+    * [Module Interface](image/learned_perceptual_image_patch_similarity.html#module-interface)
+    * [Functional Interface](image/learned_perceptual_image_patch_similarity.html#functional-interface)
+  * [Memorization-Informed Frechet Inception Distance (MiFID)](image/mifid.html)
+    * [Module Interface](image/mifid.html#module-interface)
+  * [Multi-Scale SSIM](image/multi_scale_structural_similarity.html)
+    * [Module Interface](image/multi_scale_structural_similarity.html#module-interface)
+    * [Functional Interface](image/multi_scale_structural_similarity.html#functional-interface)
+  * [Peak Signal-to-Noise Ratio (PSNR)](image/peak_signal_noise_ratio.html)
+    * [Module Interface](image/peak_signal_noise_ratio.html#module-interface)
+    * [Functional Interface](image/peak_signal_noise_ratio.html#functional-interface)
+  * [Peak Signal To Noise Ratio With Blocked Effect](image/peak_signal_to_noise_with_block.html)
+    * [Module Interface](image/peak_signal_to_noise_with_block.html#module-interface)
+    * [Functional Interface](image/peak_signal_to_noise_with_block.html#functional-interface)
+  * [Perceptual Path Length (PPL)](image/perceptual_path_length.html)
+    * [Module Interface](image/perceptual_path_length.html#module-interface)
+    * [Functional Interface](image/perceptual_path_length.html#functional-interface)
+  * [Quality with No Reference](image/quality_with_no_reference.html)
+    * [Module Interface](image/quality_with_no_reference.html#module-interface)
+    * [Functional Interface](image/quality_with_no_reference.html#functional-interface)
+  * [Relative Average Spectral Error (RASE)](image/relative_average_spectral_error.html)
+    * [Module Interface](image/relative_average_spectral_error.html#module-interface)
+    * [Functional Interface](image/relative_average_spectral_error.html#functional-interface)
+  * [Root Mean Squared Error Using Sliding Window](image/root_mean_squared_error_using_sliding_window.html)
+    * [Module Interface](image/root_mean_squared_error_using_sliding_window.html#module-interface)
+    * [Functional Interface](image/root_mean_squared_error_using_sliding_window.html#functional-interface)
+  * [Spatial Correlation Coefficient (SCC)](image/spatial_correlation_coefficient.html)
+    * [Module Interface](image/spatial_correlation_coefficient.html#module-interface)
+    * [Functional Interface](image/spatial_correlation_coefficient.html#functional-interface)
+  * [Spatial Distortion Index](image/spatial_distortion_index.html)
+    * [Module Interface](image/spatial_distortion_index.html#module-interface)
+    * [Functional Interface](image/spatial_distortion_index.html#functional-interface)
+  * [Spectral Angle Mapper](image/spectral_angle_mapper.html)
+    * [Module Interface](image/spectral_angle_mapper.html#module-interface)
+    * [Functional Interface](image/spectral_angle_mapper.html#functional-interface)
+  * [Spectral Distortion Index](image/spectral_distortion_index.html)
+    * [Module Interface](image/spectral_distortion_index.html#module-interface)
+    * [Functional Interface](image/spectral_distortion_index.html#functional-interface)
+  * [Structural Similarity Index Measure (SSIM)](image/structural_similarity.html)
+    * [Module Interface](image/structural_similarity.html#module-interface)
+    * [Functional Interface](image/structural_similarity.html#functional-interface)
+  * [Total Variation (TV)](image/total_variation.html)
+    * [Module Interface](image/total_variation.html#module-interface)
+    * [Functional Interface](image/total_variation.html#functional-interface)
+  * [Universal Image Quality Index](image/universal_image_quality_index.html)
+    * [Module Interface](image/universal_image_quality_index.html#module-interface)
+    * [Functional Interface](image/universal_image_quality_index.html#functional-interface)
+  * [Visual Information Fidelity (VIF)](image/visual_information_fidelity.html)
+    * [Module Interface](image/visual_information_fidelity.html#module-interface)
+    * [Functional Interface](image/visual_information_fidelity.html#functional-interface)
+
+
+
+Multimodal
+
+  * [CLIP Image Quality Assessment (CLIP-IQA)](multimodal/clip_iqa.html)
+    * [Module Interface](multimodal/clip_iqa.html#module-interface)
+    * [Functional Interface](multimodal/clip_iqa.html#functional-interface)
+  * [CLIP Score](multimodal/clip_score.html)
+    * [Module Interface](multimodal/clip_score.html#module-interface)
+    * [Functional Interface](multimodal/clip_score.html#functional-interface)
+
+
+
+Nominal
+
+  * [Cramer’s V](nominal/cramers_v.html)
+    * [Module Interface](nominal/cramers_v.html#module-interface)
+    * [Functional Interface](nominal/cramers_v.html#functional-interface)
+  * [Fleiss Kappa](nominal/fleiss_kappa.html)
+    * [Module Interface](nominal/fleiss_kappa.html#module-interface)
+    * [Functional Interface](nominal/fleiss_kappa.html#functional-interface)
+  * [Pearson’s Contingency Coefficient](nominal/pearsons_contingency_coefficient.html)
+    * [Module Interface](nominal/pearsons_contingency_coefficient.html#module-interface)
+    * [Functional Interface](nominal/pearsons_contingency_coefficient.html#functional-interface)
+  * [Theil’s U](nominal/theils_u.html)
+    * [Module Interface](nominal/theils_u.html#module-interface)
+    * [Functional Interface](nominal/theils_u.html#functional-interface)
+  * [Tschuprow’s T](nominal/tschuprows_t.html)
+    * [Module Interface](nominal/tschuprows_t.html#module-interface)
+    * [Functional Interface](nominal/tschuprows_t.html#functional-interface)
+
+
+
+Pairwise
+
+  * [Cosine Similarity](pairwise/cosine_similarity.html)
+    * [Functional Interface](pairwise/cosine_similarity.html#functional-interface)
+  * [Euclidean Distance](pairwise/euclidean_distance.html)
+    * [Functional Interface](pairwise/euclidean_distance.html#functional-interface)
+  * [Linear Similarity](pairwise/linear_similarity.html)
+    * [Functional Interface](pairwise/linear_similarity.html#functional-interface)
+  * [Manhattan Distance](pairwise/manhattan_distance.html)
+    * [Functional Interface](pairwise/manhattan_distance.html#functional-interface)
+  * [Minkowski Distance](pairwise/minkowski_distance.html)
+    * [Functional Interface](pairwise/minkowski_distance.html#functional-interface)
+
+
+
+Regression
+
+  * [Concordance Corr. Coef.](regression/concordance_corr_coef.html)
+    * [Module Interface](regression/concordance_corr_coef.html#module-interface)
+    * [Functional Interface](regression/concordance_corr_coef.html#functional-interface)
+  * [Cosine Similarity](regression/cosine_similarity.html)
+    * [Module Interface](regression/cosine_similarity.html#module-interface)
+    * [Functional Interface](regression/cosine_similarity.html#functional-interface)
+  * [Critical Success Index (CSI)](regression/critical_success_index.html)
+    * [Module Interface](regression/critical_success_index.html#module-interface)
+    * [Functional Interface](regression/critical_success_index.html#functional-interface)
+  * [Explained Variance](regression/explained_variance.html)
+    * [Module Interface](regression/explained_variance.html#module-interface)
+    * [Functional Interface](regression/explained_variance.html#functional-interface)
+  * [Kendall Rank Corr. Coef.](regression/kendall_rank_corr_coef.html)
+    * [Module Interface](regression/kendall_rank_corr_coef.html#module-interface)
+    * [Functional Interface](regression/kendall_rank_corr_coef.html#functional-interface)
+  * [KL Divergence](regression/kl_divergence.html)
+    * [Module Interface](regression/kl_divergence.html#module-interface)
+    * [Functional Interface](regression/kl_divergence.html#functional-interface)
+  * [Log Cosh Error](regression/log_cosh_error.html)
+    * [Module Interface](regression/log_cosh_error.html#module-interface)
+    * [Functional Interface](regression/log_cosh_error.html#functional-interface)
+  * [Mean Absolute Error (MAE)](regression/mean_absolute_error.html)
+    * [Module Interface](regression/mean_absolute_error.html#module-interface)
+    * [Functional Interface](regression/mean_absolute_error.html#functional-interface)
+  * [Mean Absolute Percentage Error (MAPE)](regression/mean_absolute_percentage_error.html)
+    * [Module Interface](regression/mean_absolute_percentage_error.html#module-interface)
+    * [Functional Interface](regression/mean_absolute_percentage_error.html#functional-interface)
+  * [Mean Squared Error (MSE)](regression/mean_squared_error.html)
+    * [Module Interface](regression/mean_squared_error.html#module-interface)
+    * [Functional Interface](regression/mean_squared_error.html#functional-interface)
+  * [Mean Squared Log Error (MSLE)](regression/mean_squared_log_error.html)
+    * [Module Interface](regression/mean_squared_log_error.html#module-interface)
+    * [Functional Interface](regression/mean_squared_log_error.html#functional-interface)
+  * [Minkowski Distance](regression/minkowski_distance.html)
+    * [Module Interface](regression/minkowski_distance.html#module-interface)
+    * [Functional Interface](regression/minkowski_distance.html#functional-interface)
+  * [Normalized Root Mean Squared Error (NRMSE)](regression/normalized_root_mean_squared_error.html)
+    * [Module Interface](regression/normalized_root_mean_squared_error.html#module-interface)
+    * [Functional Interface](regression/normalized_root_mean_squared_error.html#functional-interface)
+  * [Pearson Corr. Coef.](regression/pearson_corr_coef.html)
+    * [Module Interface](regression/pearson_corr_coef.html#module-interface)
+    * [Functional Interface](regression/pearson_corr_coef.html#functional-interface)
+  * [R2 Score](regression/r2_score.html)
+    * [Module Interface](regression/r2_score.html#module-interface)
+    * [Functional Interface](regression/r2_score.html#functional-interface)
+  * [Relative Squared Error (RSE)](regression/rse.html)
+    * [Module Interface](regression/rse.html#module-interface)
+    * [Functional Interface](regression/rse.html#functional-interface)
+  * [Spearman Corr. Coef.](regression/spearman_corr_coef.html)
+    * [Module Interface](regression/spearman_corr_coef.html#module-interface)
+    * [Functional Interface](regression/spearman_corr_coef.html#functional-interface)
+  * [Symmetric Mean Absolute Percentage Error (SMAPE)](regression/symmetric_mean_absolute_percentage_error.html)
+    * [Module Interface](regression/symmetric_mean_absolute_percentage_error.html#module-interface)
+    * [Functional Interface](regression/symmetric_mean_absolute_percentage_error.html#functional-interface)
+  * [Tweedie Deviance Score](regression/tweedie_deviance_score.html)
+    * [Module Interface](regression/tweedie_deviance_score.html#module-interface)
+    * [Functional Interface](regression/tweedie_deviance_score.html#functional-interface)
+  * [Weighted MAPE](regression/weighted_mean_absolute_percentage_error.html)
+    * [Module Interface](regression/weighted_mean_absolute_percentage_error.html#module-interface)
+    * [Functional Interface](regression/weighted_mean_absolute_percentage_error.html#functional-interface)
+
+
+
+Retrieval
+
+  * [Retrieval AUROC](retrieval/auroc.html)
+    * [Module Interface](retrieval/auroc.html#module-interface)
+    * [Functional Interface](retrieval/auroc.html#functional-interface)
+  * [Retrieval Fall-Out](retrieval/fall_out.html)
+    * [Module Interface](retrieval/fall_out.html#module-interface)
+    * [Functional Interface](retrieval/fall_out.html#functional-interface)
+  * [Retrieval Hit Rate](retrieval/hit_rate.html)
+    * [Module Interface](retrieval/hit_rate.html#module-interface)
+    * [Functional Interface](retrieval/hit_rate.html#functional-interface)
+  * [Retrieval Mean Average Precision (MAP)](retrieval/map.html)
+    * [Module Interface](retrieval/map.html#module-interface)
+    * [Functional Interface](retrieval/map.html#functional-interface)
+  * [Retrieval Mean Reciprocal Rank (MRR)](retrieval/mrr.html)
+    * [Module Interface](retrieval/mrr.html#module-interface)
+    * [Functional Interface](retrieval/mrr.html#functional-interface)
+  * [Retrieval Normalized DCG](retrieval/normalized_dcg.html)
+    * [Module Interface](retrieval/normalized_dcg.html#module-interface)
+    * [Functional Interface](retrieval/normalized_dcg.html#functional-interface)
+  * [Retrieval Precision](retrieval/precision.html)
+    * [Module Interface](retrieval/precision.html#module-interface)
+    * [Functional Interface](retrieval/precision.html#functional-interface)
+  * [Retrieval Precision Recall Curve](retrieval/precision_recall_curve.html)
+    * [Module Interface](retrieval/precision_recall_curve.html#module-interface)
+    * [Functional Interface](retrieval/precision_recall_curve.html#functional-interface)
+  * [Retrieval R-Precision](retrieval/r_precision.html)
+    * [Module Interface](retrieval/r_precision.html#module-interface)
+    * [Functional Interface](retrieval/r_precision.html#functional-interface)
+  * [Retrieval Recall](retrieval/recall.html)
+    * [Module Interface](retrieval/recall.html#module-interface)
+    * [Functional Interface](retrieval/recall.html#functional-interface)
+
+
+
+Segmentation
+
+  * [Dice Score](segmentation/dice.html)
+    * [Module Interface](segmentation/dice.html#module-interface)
+    * [Functional Interface](segmentation/dice.html#functional-interface)
+  * [Generalized Dice Score](segmentation/generalized_dice.html)
+    * [Module Interface](segmentation/generalized_dice.html#module-interface)
+    * [Functional Interface](segmentation/generalized_dice.html#functional-interface)
+  * [Hausdorff Distance](segmentation/hausdorff_distance.html)
+    * [Module Interface](segmentation/hausdorff_distance.html#module-interface)
+    * [Functional Interface](segmentation/hausdorff_distance.html#functional-interface)
+  * [Mean Intersection over Union (mIoU)](segmentation/mean_iou.html)
+    * [Module Interface](segmentation/mean_iou.html#module-interface)
+    * [Functional Interface](segmentation/mean_iou.html#functional-interface)
+
+
+
+Shape
+
+  * [Procrustes Disparity](shape/procrustes.html)
+    * [Module Interface](shape/procrustes.html#module-interface)
+    * [Functional Interface](shape/procrustes.html#functional-interface)
+
+
+
+Text
+
+  * [BERT Score](text/bert_score.html)
+    * [Module Interface](text/bert_score.html#module-interface)
+    * [Functional Interface](text/bert_score.html#functional-interface)
+  * [BLEU Score](text/bleu_score.html)
+    * [Module Interface](text/bleu_score.html#module-interface)
+    * [Functional Interface](text/bleu_score.html#functional-interface)
+  * [Char Error Rate](text/char_error_rate.html)
+    * [Module Interface](text/char_error_rate.html#module-interface)
+    * [Functional Interface](text/char_error_rate.html#functional-interface)
+  * [ChrF Score](text/chrf_score.html)
+    * [Module Interface](text/chrf_score.html#module-interface)
+    * [Functional Interface](text/chrf_score.html#functional-interface)
+  * [Edit Distance](text/edit.html)
+    * [Module Interface](text/edit.html#module-interface)
+    * [Functional Interface](text/edit.html#functional-interface)
+  * [Extended Edit Distance](text/extended_edit_distance.html)
+    * [Module Interface](text/extended_edit_distance.html#module-interface)
+    * [Functional Interface](text/extended_edit_distance.html#functional-interface)
+  * [InfoLM](text/infolm.html)
+    * [Module Interface](text/infolm.html#module-interface)
+    * [Functional Interface](text/infolm.html#functional-interface)
+  * [Match Error Rate](text/match_error_rate.html)
+    * [Module Interface](text/match_error_rate.html#module-interface)
+    * [Functional Interface](text/match_error_rate.html#functional-interface)
+  * [Perplexity](text/perplexity.html)
+    * [Module Interface](text/perplexity.html#module-interface)
+    * [Functional Interface](text/perplexity.html#functional-interface)
+  * [ROUGE Score](text/rouge_score.html)
+    * [Module Interface](text/rouge_score.html#module-interface)
+    * [Functional Interface](text/rouge_score.html#functional-interface)
+  * [Sacre BLEU Score](text/sacre_bleu_score.html)
+    * [Module Interface](text/sacre_bleu_score.html#module-interface)
+    * [Functional Interface](text/sacre_bleu_score.html#functional-interface)
+  * [SQuAD](text/squad.html)
+    * [Module Interface](text/squad.html#module-interface)
+    * [Functional Interface](text/squad.html#functional-interface)
+  * [Translation Edit Rate (TER)](text/translation_edit_rate.html)
+    * [Module Interface](text/translation_edit_rate.html#module-interface)
+    * [Functional Interface](text/translation_edit_rate.html#functional-interface)
+  * [Word Error Rate](text/word_error_rate.html)
+    * [Module Interface](text/word_error_rate.html#module-interface)
+    * [Functional Interface](text/word_error_rate.html#functional-interface)
+  * [Word Info. Lost](text/word_info_lost.html)
+    * [Module Interface](text/word_info_lost.html#module-interface)
+    * [Functional Interface](text/word_info_lost.html#functional-interface)
+  * [Word Info. Preserved](text/word_info_preserved.html)
+    * [Module Interface](text/word_info_preserved.html#module-interface)
+    * [Functional Interface](text/word_info_preserved.html#functional-interface)
+
+
+
+Wrappers
+
+  * [Bootstrapper](wrappers/bootstrapper.html)
+    * [Module Interface](wrappers/bootstrapper.html#module-interface)
+  * [Classwise Wrapper](wrappers/classwise_wrapper.html)
+    * [Module Interface](wrappers/classwise_wrapper.html#module-interface)
+  * [Feature Sharing](wrappers/feature_share.html)
+    * [Module Interface](wrappers/feature_share.html#module-interface)
+  * [Metric Tracker](wrappers/metric_tracker.html)
+    * [Module Interface](wrappers/metric_tracker.html#module-interface)
+  * [Min / Max](wrappers/min_max.html)
+    * [Module Interface](wrappers/min_max.html#module-interface)
+  * [Multi-output Wrapper](wrappers/multi_output_wrapper.html)
+    * [Module Interface](wrappers/multi_output_wrapper.html#module-interface)
+  * [Multi-task Wrapper](wrappers/multi_task_wrapper.html)
+    * [Module Interface](wrappers/multi_task_wrapper.html#module-interface)
+  * [Running](wrappers/running.html)
+    * [Module Interface](wrappers/running.html#module-interface)
+  * [Transformations](wrappers/transformations.html)
+    * [Module Interface](wrappers/transformations.html#module-interface)
+
+
+
+API Reference
+
+  * [torchmetrics.Metric](references/metric.html)
+    * [`Metric`](references/metric.html#torchmetrics.Metric)
+      * [`Metric.add_state()`](references/metric.html#torchmetrics.Metric.add_state)
+      * [`Metric.clone()`](references/metric.html#torchmetrics.Metric.clone)
+      * [`Metric.compute()`](references/metric.html#torchmetrics.Metric.compute)
+      * [`Metric.double()`](references/metric.html#torchmetrics.Metric.double)
+      * [`Metric.float()`](references/metric.html#torchmetrics.Metric.float)
+      * [`Metric.forward()`](references/metric.html#torchmetrics.Metric.forward)
+      * [`Metric.half()`](references/metric.html#torchmetrics.Metric.half)
+      * [`Metric.merge_state()`](references/metric.html#torchmetrics.Metric.merge_state)
+      * [`Metric.persistent()`](references/metric.html#torchmetrics.Metric.persistent)
+      * [`Metric.plot()`](references/metric.html#torchmetrics.Metric.plot)
+      * [`Metric.reset()`](references/metric.html#torchmetrics.Metric.reset)
+      * [`Metric.set_dtype()`](references/metric.html#torchmetrics.Metric.set_dtype)
+      * [`Metric.state_dict()`](references/metric.html#torchmetrics.Metric.state_dict)
+      * [`Metric.sync()`](references/metric.html#torchmetrics.Metric.sync)
+      * [`Metric.sync_context()`](references/metric.html#torchmetrics.Metric.sync_context)
+      * [`Metric.type()`](references/metric.html#torchmetrics.Metric.type)
+      * [`Metric.unsync()`](references/metric.html#torchmetrics.Metric.unsync)
+      * [`Metric.update()`](references/metric.html#torchmetrics.Metric.update)
+      * [`Metric.device`](references/metric.html#torchmetrics.Metric.device)
+      * [`Metric.dtype`](references/metric.html#torchmetrics.Metric.dtype)
+      * [`Metric.metric_state`](references/metric.html#torchmetrics.Metric.metric_state)
+      * [`Metric.update_called`](references/metric.html#torchmetrics.Metric.update_called)
+      * [`Metric.update_count`](references/metric.html#torchmetrics.Metric.update_count)
+  * [torchmetrics.utilities](references/utilities.html)
+    * [torchmetrics.utilities.data](references/utilities.html#torchmetrics-utilities-data)
+      * [select_topk](references/utilities.html#select-topk)
+      * [to_categorical](references/utilities.html#to-categorical)
+      * [to_onehot](references/utilities.html#to-onehot)
+      * [dim_zero_cat](references/utilities.html#dim-zero-cat)
+      * [dim_zero_max](references/utilities.html#dim-zero-max)
+      * [dim_zero_mean](references/utilities.html#dim-zero-mean)
+      * [dim_zero_min](references/utilities.html#dim-zero-min)
+      * [dim_zero_sum](references/utilities.html#dim-zero-sum)
+    * [torchmetrics.utilities.distributed](references/utilities.html#torchmetrics-utilities-distributed)
+      * [gather_all_tensors](references/utilities.html#gather-all-tensors)
+    * [torchmetrics.utilities.exceptions](references/utilities.html#torchmetrics-utilities-exceptions)
+      * [TorchMetricsUserError](references/utilities.html#torchmetricsusererror)
+      * [TorchMetricsUserWarning](references/utilities.html#torchmetricsuserwarning)
+
+
+
+Community
+
+  * [TorchMetrics Governance](governance.html)
+  * [Contributor Covenant Code of Conduct](generated/CODE_OF_CONDUCT.html)
+  * [Contributing](generated/CONTRIBUTING.html)
+  * [Changelog](generated/CHANGELOG.html)
+
+
+
+# Indices and tables[](#indices-and-tables)
+
+  * [Index](genindex.html)
+
+  * [Module Index](py-modindex.html)
+
+  * [Search Page](search.html)
+
+
+
+
+  * [Welcome to TorchMetrics](#)
+    * [Install TorchMetrics](#install-torchmetrics)
+  * [Indices and tables](#indices-and-tables)
+
+
+
+To analyze traffic and optimize your experience, we serve cookies on this site. By clicking or navigating, you agree to allow our usage of cookies. Read PyTorch Lightning's [Privacy Policy](https://pytorchlightning.ai/privacy-policy). 
+
+![](_static/images/pytorch-x.svg)

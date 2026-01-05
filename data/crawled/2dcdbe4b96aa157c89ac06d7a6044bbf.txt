@@ -1,0 +1,1117 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fmicrosoft%2FDeepSpeed%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fmicrosoft%2FDeepSpeed%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=microsoft%2FDeepSpeed) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ microsoft ](/microsoft) / **[DeepSpeed](/microsoft/DeepSpeed) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fmicrosoft%2FDeepSpeed) You must be signed in to change notification settings
+  * [ Fork 4.2k ](/login?return_to=%2Fmicrosoft%2FDeepSpeed)
+  * [ Star  36.3k ](/login?return_to=%2Fmicrosoft%2FDeepSpeed)
+
+
+
+
+DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. 
+
+[www.deepspeed.ai/](https://www.deepspeed.ai/ "https://www.deepspeed.ai/")
+
+### License
+
+[ Apache-2.0 license ](/microsoft/DeepSpeed/blob/master/LICENSE)
+
+[ 36.3k stars ](/microsoft/DeepSpeed/stargazers) [ 4.2k forks ](/microsoft/DeepSpeed/forks) [ Branches ](/microsoft/DeepSpeed/branches) [ Tags ](/microsoft/DeepSpeed/tags) [ Activity ](/microsoft/DeepSpeed/activity)
+
+[ Star  ](/login?return_to=%2Fmicrosoft%2FDeepSpeed)
+
+[ Notifications ](/login?return_to=%2Fmicrosoft%2FDeepSpeed) You must be signed in to change notification settings
+
+  * [ Code ](/microsoft/DeepSpeed)
+  * [ Issues 992 ](/microsoft/DeepSpeed/issues)
+  * [ Pull requests 106 ](/microsoft/DeepSpeed/pulls)
+  * [ Discussions ](/microsoft/DeepSpeed/discussions)
+  * [ Actions ](/microsoft/DeepSpeed/actions)
+  * [ Projects 0 ](/microsoft/DeepSpeed/projects)
+  * [ Security ](/microsoft/DeepSpeed/security)
+  * [ Insights ](/microsoft/DeepSpeed/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/microsoft/DeepSpeed)
+  * [ Issues  ](/microsoft/DeepSpeed/issues)
+  * [ Pull requests  ](/microsoft/DeepSpeed/pulls)
+  * [ Discussions  ](/microsoft/DeepSpeed/discussions)
+  * [ Actions  ](/microsoft/DeepSpeed/actions)
+  * [ Projects  ](/microsoft/DeepSpeed/projects)
+  * [ Security  ](/microsoft/DeepSpeed/security)
+  * [ Insights  ](/microsoft/DeepSpeed/pulse)
+
+
+
+# microsoft/DeepSpeed
+
+master
+
+[**767** Branches](/microsoft/DeepSpeed/branches)[**98** Tags](/microsoft/DeepSpeed/tags)
+
+[](/microsoft/DeepSpeed/branches)[](/microsoft/DeepSpeed/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![loadams](https://avatars.githubusercontent.com/u/114770087?v=4&size=40)](/loadams)[loadams](/microsoft/DeepSpeed/commits?author=loadams)[Update version.txt after 0.16.3 release (](/microsoft/DeepSpeed/commit/de4596bedc61100db9385b5d99efd9025db13a7d)[#6965](https://github.com/microsoft/DeepSpeed/pull/6965)[)](/microsoft/DeepSpeed/commit/de4596bedc61100db9385b5d99efd9025db13a7d)Jan 22, 2025[de4596b](/microsoft/DeepSpeed/commit/de4596bedc61100db9385b5d99efd9025db13a7d) · Jan 22, 2025
+
+## History
+
+[2,656 Commits](/microsoft/DeepSpeed/commits/master/)[](/microsoft/DeepSpeed/commits/master/)  
+[.github](/microsoft/DeepSpeed/tree/master/.github ".github")| [.github](/microsoft/DeepSpeed/tree/master/.github ".github")| [Pin nv-a6000 workflow (](/microsoft/DeepSpeed/commit/66d3d3e94dbdfbbf6535cab66256c238983fc7c3 "Pin nv-a6000 workflow \(#6938\)
+Breaking change in transformers is
+https://github.com/huggingface/transformers/pull/35235. Need to make
+changes to unpin nv-a6000 workflow.")[#6938](https://github.com/microsoft/DeepSpeed/pull/6938)[)](/microsoft/DeepSpeed/commit/66d3d3e94dbdfbbf6535cab66256c238983fc7c3 "Pin nv-a6000 workflow \(#6938\)
+Breaking change in transformers is
+https://github.com/huggingface/transformers/pull/35235. Need to make
+changes to unpin nv-a6000 workflow.")| Jan 13, 2025  
+[accelerator](/microsoft/DeepSpeed/tree/master/accelerator "accelerator")| [accelerator](/microsoft/DeepSpeed/tree/master/accelerator "accelerator")| `[warn](/microsoft/DeepSpeed/commit/05eaf3d1cab0f42f130a153802c7b94d86ecc872 "`warn` to `warning` \(#6952\)
+`warn` is deprecated, see
+https://docs.python.org/3/library/logging.html#logging.Logger.warning
+
+```DeprecationWarning: The 'warn' method is deprecated, use 'warning' instead```")` [to](/microsoft/DeepSpeed/commit/05eaf3d1cab0f42f130a153802c7b94d86ecc872 "`warn` to `warning` \(#6952\)
+`warn` is deprecated, see
+https://docs.python.org/3/library/logging.html#logging.Logger.warning
+
+```DeprecationWarning: The 'warn' method is deprecated, use 'warning' instead```") `[warning](/microsoft/DeepSpeed/commit/05eaf3d1cab0f42f130a153802c7b94d86ecc872 "`warn` to `warning` \(#6952\)
+`warn` is deprecated, see
+https://docs.python.org/3/library/logging.html#logging.Logger.warning
+
+```DeprecationWarning: The 'warn' method is deprecated, use 'warning' instead```")` [(](/microsoft/DeepSpeed/commit/05eaf3d1cab0f42f130a153802c7b94d86ecc872 "`warn` to `warning` \(#6952\)
+`warn` is deprecated, see
+https://docs.python.org/3/library/logging.html#logging.Logger.warning
+
+```DeprecationWarning: The 'warn' method is deprecated, use 'warning' instead```")[#6952](https://github.com/microsoft/DeepSpeed/pull/6952)[)](/microsoft/DeepSpeed/commit/05eaf3d1cab0f42f130a153802c7b94d86ecc872 "`warn` to `warning` \(#6952\)
+`warn` is deprecated, see
+https://docs.python.org/3/library/logging.html#logging.Logger.warning
+
+```DeprecationWarning: The 'warn' method is deprecated, use 'warning' instead```")| Jan 16, 2025  
+[azure](/microsoft/DeepSpeed/tree/master/azure "azure")| [azure](/microsoft/DeepSpeed/tree/master/azure "azure")| [update info and links. (](/microsoft/DeepSpeed/commit/fb72ccdc0a11aa0516d498741eeea2ed074a1fae "update info and links. \(#2122\)")[#2122](https://github.com/microsoft/DeepSpeed/pull/2122)[)](/microsoft/DeepSpeed/commit/fb72ccdc0a11aa0516d498741eeea2ed074a1fae "update info and links. \(#2122\)")| Jul 23, 2022  
+[benchmarks](/microsoft/DeepSpeed/tree/master/benchmarks "benchmarks")| [benchmarks](/microsoft/DeepSpeed/tree/master/benchmarks "benchmarks")| [remove benchmarks (now in DSE) and add links (](/microsoft/DeepSpeed/commit/baa95c6256c1064f602049918cb64db3859cc00b "remove benchmarks \(now in DSE\) and add links \(#3157\)
+Co-authored-by: Jeff Rasley <jerasley@microsoft.com>")[#3157](https://github.com/microsoft/DeepSpeed/pull/3157)[)](/microsoft/DeepSpeed/commit/baa95c6256c1064f602049918cb64db3859cc00b "remove benchmarks \(now in DSE\) and add links \(#3157\)
+Co-authored-by: Jeff Rasley <jerasley@microsoft.com>")| Apr 7, 2023  
+[bin](/microsoft/DeepSpeed/tree/master/bin "bin")| [bin](/microsoft/DeepSpeed/tree/master/bin "bin")| [DeepNVMe perf tuning (](/microsoft/DeepSpeed/commit/a5400974df59d99d58dabd173bb8d89180bbd773 "DeepNVMe perf tuning \(#6560\)
+Add performance tuning utilities: `ds_nvme_tune` and `ds_io`. 
+Update tutorial with tuning section.
+---------
+Co-authored-by: Ubuntu <jomayeri@microsoft.com>
+Co-authored-by: Joe Mayer <114769929+jomayeri@users.noreply.github.com>")[#6560](https://github.com/microsoft/DeepSpeed/pull/6560)[)](/microsoft/DeepSpeed/commit/a5400974df59d99d58dabd173bb8d89180bbd773 "DeepNVMe perf tuning \(#6560\)
+Add performance tuning utilities: `ds_nvme_tune` and `ds_io`. 
+Update tutorial with tuning section.
+---------
+Co-authored-by: Ubuntu <jomayeri@microsoft.com>
+Co-authored-by: Joe Mayer <114769929+jomayeri@users.noreply.github.com>")| Sep 26, 2024  
+[blogs](/microsoft/DeepSpeed/tree/master/blogs "blogs")| [blogs](/microsoft/DeepSpeed/tree/master/blogs "blogs")| [Fix windows blog examples (](/microsoft/DeepSpeed/commit/53fb5795a10ed25a824f134dd44cb625d8ad23ac "Fix windows blog examples \(#6934\)")[#6934](https://github.com/microsoft/DeepSpeed/pull/6934)[)](/microsoft/DeepSpeed/commit/53fb5795a10ed25a824f134dd44cb625d8ad23ac "Fix windows blog examples \(#6934\)")| Jan 8, 2025  
+[csrc](/microsoft/DeepSpeed/tree/master/csrc "csrc")| [csrc](/microsoft/DeepSpeed/tree/master/csrc "csrc")| [Merge LoCo with Zero++ (](/microsoft/DeepSpeed/commit/1b58ba5ec04493a112fae10d9cc9c824dfbd40ca "Merge LoCo with Zero++ \(#6730\)
+   ### Integration of LoCo Method into ZeRO++
+#### Overview
+This PR introduces the integration of the **LoCo** method, as outlined
+in \[this paper\]\(https://arxiv.org/abs/2407.04480\), into the ZeRO++
+framework of DeepSpeed. The key enhancement involves applying error
+feedback compensation to 4-bit gradients before communication. This
+approach ***improves pre-training loss outcomes without additional time
+overhead***, though it requires extra GPU memory. The extent of this
+memory increase depends on model size and training configuration.
+#### Experimental Results
+We conducted pre-training experiments using the Llama2 architecture,
+adjusting the number of layers and hidden size. The experiments
+included:
+- **A smaller-scale model with 0.8B parameters trained on 30B tokens**.
+- **A larger-scale model with 8B parameters trained on 5B tokens**.
+The training data was sampled from **Redpajama-V2**.
+<p align="center">
+<img
+src="https://github.com/user-attachments/assets/e7db9487-728c-4a17-9806-c15afa12f62e"
+width="49%" />
+<img
+src="https://github.com/user-attachments/assets/3efec895-b71d-43ab-b5ce-65468ba8b9f1"
+width="49%" />
+</p>
+**Findings**:
+- **Smaller Models \(0.8B parameters\)**: Significant gains were observed
+when applying the LoCo method.
+- **Larger Models \(8B parameters\)**: The gains were present but less
+pronounced. This could be due to:
+ 1. Relatively smaller data volume.
+2. Lower pre-training loss for larger models, making significant
+improvements harder to achieve.
+However, even a smaller pre-training loss gap in larger models can
+translate to meaningful gains in downstream tasks.
+#### Example Script
+For reference, the
+\[run.sh\]\(https://github.com/user-attachments/files/17679552/zeroplus-7b3.zip\)
+script used for the 8B parameter, 5B tokens experiment is attached. The
+experiment was conducted using the **DeepSpeed-Megatron** platform.
+
+#### Acknowledgments
+Special thanks to cc @GuanhuaWang for ongoing communication and guidance
+throughout this work.
+---
+We appreciate your consideration of this PR and welcome any feedback or
+questions!
+---------
+Co-authored-by: ChuanxinTang <tangchuanxin.chn@gmail.com>
+Co-authored-by: root <pan.jiachun@outlook.com>
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>
+Co-authored-by: Logan Adams <loadams@microsoft.com>
+Co-authored-by: Hongwei Chen <33092912+hwchen2017@users.noreply.github.com>")[#6730](https://github.com/microsoft/DeepSpeed/pull/6730)[)](/microsoft/DeepSpeed/commit/1b58ba5ec04493a112fae10d9cc9c824dfbd40ca "Merge LoCo with Zero++ \(#6730\)
+   ### Integration of LoCo Method into ZeRO++
+#### Overview
+This PR introduces the integration of the **LoCo** method, as outlined
+in \[this paper\]\(https://arxiv.org/abs/2407.04480\), into the ZeRO++
+framework of DeepSpeed. The key enhancement involves applying error
+feedback compensation to 4-bit gradients before communication. This
+approach ***improves pre-training loss outcomes without additional time
+overhead***, though it requires extra GPU memory. The extent of this
+memory increase depends on model size and training configuration.
+#### Experimental Results
+We conducted pre-training experiments using the Llama2 architecture,
+adjusting the number of layers and hidden size. The experiments
+included:
+- **A smaller-scale model with 0.8B parameters trained on 30B tokens**.
+- **A larger-scale model with 8B parameters trained on 5B tokens**.
+The training data was sampled from **Redpajama-V2**.
+<p align="center">
+<img
+src="https://github.com/user-attachments/assets/e7db9487-728c-4a17-9806-c15afa12f62e"
+width="49%" />
+<img
+src="https://github.com/user-attachments/assets/3efec895-b71d-43ab-b5ce-65468ba8b9f1"
+width="49%" />
+</p>
+**Findings**:
+- **Smaller Models \(0.8B parameters\)**: Significant gains were observed
+when applying the LoCo method.
+- **Larger Models \(8B parameters\)**: The gains were present but less
+pronounced. This could be due to:
+ 1. Relatively smaller data volume.
+2. Lower pre-training loss for larger models, making significant
+improvements harder to achieve.
+However, even a smaller pre-training loss gap in larger models can
+translate to meaningful gains in downstream tasks.
+#### Example Script
+For reference, the
+\[run.sh\]\(https://github.com/user-attachments/files/17679552/zeroplus-7b3.zip\)
+script used for the 8B parameter, 5B tokens experiment is attached. The
+experiment was conducted using the **DeepSpeed-Megatron** platform.
+
+#### Acknowledgments
+Special thanks to cc @GuanhuaWang for ongoing communication and guidance
+throughout this work.
+---
+We appreciate your consideration of this PR and welcome any feedback or
+questions!
+---------
+Co-authored-by: ChuanxinTang <tangchuanxin.chn@gmail.com>
+Co-authored-by: root <pan.jiachun@outlook.com>
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>
+Co-authored-by: Logan Adams <loadams@microsoft.com>
+Co-authored-by: Hongwei Chen <33092912+hwchen2017@users.noreply.github.com>")| Dec 10, 2024  
+[deepspeed](/microsoft/DeepSpeed/tree/master/deepspeed "deepspeed")| [deepspeed](/microsoft/DeepSpeed/tree/master/deepspeed "deepspeed")| [Using explicit GPU upcast for ZeRO-Offload (](/microsoft/DeepSpeed/commit/c17dc33c04a65606d770705a2c9d4ae3e0ae5a9b "Using explicit GPU upcast for ZeRO-Offload \(#6962\)
+Following discussion in
+\[PR-6670\]\(https://github.com/microsoft/DeepSpeed/pull/6670\), the explict
+upcast is much more efficient than implicit upcast, this PR is to
+replace implicit upcast with explict one.
+The results on 3B model are shown below:
+| Option | BWD \(ms\) | Speed up |
+|------------|-----|------|
+| Before PR-6670 | 25603.30 | 1x |
+| After PR-6670 | 1174.31 | 21.8X |
+| After this PR| 309.2 | 82.8X |")[#6962](https://github.com/microsoft/DeepSpeed/pull/6962)[)](/microsoft/DeepSpeed/commit/c17dc33c04a65606d770705a2c9d4ae3e0ae5a9b "Using explicit GPU upcast for ZeRO-Offload \(#6962\)
+Following discussion in
+\[PR-6670\]\(https://github.com/microsoft/DeepSpeed/pull/6670\), the explict
+upcast is much more efficient than implicit upcast, this PR is to
+replace implicit upcast with explict one.
+The results on 3B model are shown below:
+| Option | BWD \(ms\) | Speed up |
+|------------|-----|------|
+| Before PR-6670 | 25603.30 | 1x |
+| After PR-6670 | 1174.31 | 21.8X |
+| After this PR| 309.2 | 82.8X |")| Jan 21, 2025  
+[docker](/microsoft/DeepSpeed/tree/master/docker "docker")| [docker](/microsoft/DeepSpeed/tree/master/docker "docker")| [Remove Duplicate Declaration of pandas in](/microsoft/DeepSpeed/commit/7f3d669b40f8d29010efd9578d4a2cdd0f16b20e "Remove Duplicate Declaration of pandas in `Dockerfile` \(#6959\)
+### Description
+This pull request removes the redundant installation of `pandas` from
+the `Dockerfile`.
+It was previously declared twice, and this update eliminates the
+duplicate entry, improving the clarity and maintainability of the
+`Dockerfile`.
+
+https://github.com/microsoft/DeepSpeed/blob/018ece5af2d89a11a4a235f81f94496c78b4f990/docker/Dockerfile#L124
+
+https://github.com/microsoft/DeepSpeed/blob/018ece5af2d89a11a4a235f81f94496c78b4f990/docker/Dockerfile#L135
+### Changes
+Removed the duplicate pandas installation line from the `RUN pip
+install` command.") `[Dockerfile](/microsoft/DeepSpeed/commit/7f3d669b40f8d29010efd9578d4a2cdd0f16b20e "Remove Duplicate Declaration of pandas in `Dockerfile` \(#6959\)
+### Description
+This pull request removes the redundant installation of `pandas` from
+the `Dockerfile`.
+It was previously declared twice, and this update eliminates the
+duplicate entry, improving the clarity and maintainability of the
+`Dockerfile`.
+
+https://github.com/microsoft/DeepSpeed/blob/018ece5af2d89a11a4a235f81f94496c78b4f990/docker/Dockerfile#L124
+
+https://github.com/microsoft/DeepSpeed/blob/018ece5af2d89a11a4a235f81f94496c78b4f990/docker/Dockerfile#L135
+### Changes
+Removed the duplicate pandas installation line from the `RUN pip
+install` command.")` [(](/microsoft/DeepSpeed/commit/7f3d669b40f8d29010efd9578d4a2cdd0f16b20e "Remove Duplicate Declaration of pandas in `Dockerfile` \(#6959\)
+### Description
+This pull request removes the redundant installation of `pandas` from
+the `Dockerfile`.
+It was previously declared twice, and this update eliminates the
+duplicate entry, improving the clarity and maintainability of the
+`Dockerfile`.
+
+https://github.com/microsoft/DeepSpeed/blob/018ece5af2d89a11a4a235f81f94496c78b4f990/docker/Dockerfile#L124
+
+https://github.com/microsoft/DeepSpeed/blob/018ece5af2d89a11a4a235f81f94496c78b4f990/docker/Dockerfile#L135
+### Changes
+Removed the duplicate pandas installation line from the `RUN pip
+install` command.")[#6959](https://github.com/microsoft/DeepSpeed/pull/6959)[)](/microsoft/DeepSpeed/commit/7f3d669b40f8d29010efd9578d4a2cdd0f16b20e "Remove Duplicate Declaration of pandas in `Dockerfile` \(#6959\)
+### Description
+This pull request removes the redundant installation of `pandas` from
+the `Dockerfile`.
+It was previously declared twice, and this update eliminates the
+duplicate entry, improving the clarity and maintainability of the
+`Dockerfile`.
+
+https://github.com/microsoft/DeepSpeed/blob/018ece5af2d89a11a4a235f81f94496c78b4f990/docker/Dockerfile#L124
+
+https://github.com/microsoft/DeepSpeed/blob/018ece5af2d89a11a4a235f81f94496c78b4f990/docker/Dockerfile#L135
+### Changes
+Removed the duplicate pandas installation line from the `RUN pip
+install` command.")| Jan 17, 2025  
+[docs](/microsoft/DeepSpeed/tree/master/docs "docs")| [docs](/microsoft/DeepSpeed/tree/master/docs "docs")| [Add arctic model support by adding w2 to all_reduce (](/microsoft/DeepSpeed/commit/0b25630abe8f7dd4e64c277ff92f5f7e36a27284 "Add arctic model support by adding w2 to all_reduce \(#6856\)
+As title says. 
+Default behavior of arctic model produces shape issues with AutoTP due
+to the MLP layer performing `w2 * act\(w1*w3\)`. However, method provided
+to fix Mixtral-7x8b in #5257 does not work since the MLP for Arctic is
+also used within a ModuleList for the MoE. This results in MLP weights
+hiding behind individual experts as layers `#.w#`, which is not caught
+by the fix in #5257. This adds the check directly within replace, where
+it can check for actual layer names for the `w2` key in the model to
+patch with `all_reduce`.
+---------
+Signed-off-by: Daniel Huang <daniel1.huang@intel.com>
+Co-authored-by: Olatunji Ruwase <olruwase@microsoft.com>
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>")[#6856](https://github.com/microsoft/DeepSpeed/pull/6856)[)](/microsoft/DeepSpeed/commit/0b25630abe8f7dd4e64c277ff92f5f7e36a27284 "Add arctic model support by adding w2 to all_reduce \(#6856\)
+As title says. 
+Default behavior of arctic model produces shape issues with AutoTP due
+to the MLP layer performing `w2 * act\(w1*w3\)`. However, method provided
+to fix Mixtral-7x8b in #5257 does not work since the MLP for Arctic is
+also used within a ModuleList for the MoE. This results in MLP weights
+hiding behind individual experts as layers `#.w#`, which is not caught
+by the fix in #5257. This adds the check directly within replace, where
+it can check for actual layer names for the `w2` key in the model to
+patch with `all_reduce`.
+---------
+Signed-off-by: Daniel Huang <daniel1.huang@intel.com>
+Co-authored-by: Olatunji Ruwase <olruwase@microsoft.com>
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>")| Dec 18, 2024  
+[examples](/microsoft/DeepSpeed/tree/master/examples "examples")| [examples](/microsoft/DeepSpeed/tree/master/examples "examples")| [docs: fix HF links (](/microsoft/DeepSpeed/commit/5e16f255a63620b37c8cbe499f67edae9223df9e "docs: fix HF links \(#6780\)
+The current link
+https://huggingface.co/docs/transformers/main_classes/deepspeed is very
+unhelpful.
+It turns out in the past it had some guides:
+https://huggingface.co/docs/transformers/v4.27.1/main_classes/deepspeed#shared-configuration
+Later it's refreshed and moved to
+https://huggingface.co/docs/transformers/deepspeed")[#6780](https://github.com/microsoft/DeepSpeed/pull/6780)[)](/microsoft/DeepSpeed/commit/5e16f255a63620b37c8cbe499f67edae9223df9e "docs: fix HF links \(#6780\)
+The current link
+https://huggingface.co/docs/transformers/main_classes/deepspeed is very
+unhelpful.
+It turns out in the past it had some guides:
+https://huggingface.co/docs/transformers/v4.27.1/main_classes/deepspeed#shared-configuration
+Later it's refreshed and moved to
+https://huggingface.co/docs/transformers/deepspeed")| Nov 25, 2024  
+[op_builder](/microsoft/DeepSpeed/tree/master/op_builder "op_builder")| [op_builder](/microsoft/DeepSpeed/tree/master/op_builder "op_builder")| [Remove op compilation flags due to perf issue (](/microsoft/DeepSpeed/commit/396f8db793b37db9b11847df8245f85bc57eeaa3 "Remove op compilation flags due to perf issue \(#6944\)
+in some scenarios some of the optimization
+flags for the ops compiler for HPU can cause
+a significant performance degradation. 
+remove the flags until the issue is resolved")[#6944](https://github.com/microsoft/DeepSpeed/pull/6944)[)](/microsoft/DeepSpeed/commit/396f8db793b37db9b11847df8245f85bc57eeaa3 "Remove op compilation flags due to perf issue \(#6944\)
+in some scenarios some of the optimization
+flags for the ops compiler for HPU can cause
+a significant performance degradation. 
+remove the flags until the issue is resolved")| Jan 13, 2025  
+[release](/microsoft/DeepSpeed/tree/master/release "release")| [release](/microsoft/DeepSpeed/tree/master/release "release")| [Fixup check release version script (](/microsoft/DeepSpeed/commit/fd98af256e84c9d03432365a3a7648182ea2b696 "Fixup check release version script \(#4413\)
+* Fixup check release version script")[#4413](https://github.com/microsoft/DeepSpeed/pull/4413)[)](/microsoft/DeepSpeed/commit/fd98af256e84c9d03432365a3a7648182ea2b696 "Fixup check release version script \(#4413\)
+* Fixup check release version script")| Oct 3, 2023  
+[requirements](/microsoft/DeepSpeed/tree/master/requirements "requirements")| [requirements](/microsoft/DeepSpeed/tree/master/requirements "requirements")| [Update pre-commit version (](/microsoft/DeepSpeed/commit/177832ed45c0174673cfeef978afb3ebfce1c2bc "Update pre-commit version \(#6821\)")[#6821](https://github.com/microsoft/DeepSpeed/pull/6821)[)](/microsoft/DeepSpeed/commit/177832ed45c0174673cfeef978afb3ebfce1c2bc "Update pre-commit version \(#6821\)")| Dec 5, 2024  
+[scripts](/microsoft/DeepSpeed/tree/master/scripts "scripts")| [scripts](/microsoft/DeepSpeed/tree/master/scripts "scripts")| [Add script to check for](/microsoft/DeepSpeed/commit/5115df3f0be4f277c058ff5023c62652365659b7 "Add script to check for `--extra-index-url` \(#5184\)
+Co-authored-by: Michael Wyatt <michaelwyatt@microsoft.com>") `[--extra-index-url](/microsoft/DeepSpeed/commit/5115df3f0be4f277c058ff5023c62652365659b7 "Add script to check for `--extra-index-url` \(#5184\)
+Co-authored-by: Michael Wyatt <michaelwyatt@microsoft.com>")` [(](/microsoft/DeepSpeed/commit/5115df3f0be4f277c058ff5023c62652365659b7 "Add script to check for `--extra-index-url` \(#5184\)
+Co-authored-by: Michael Wyatt <michaelwyatt@microsoft.com>")[#5184](https://github.com/microsoft/DeepSpeed/pull/5184)[)](/microsoft/DeepSpeed/commit/5115df3f0be4f277c058ff5023c62652365659b7 "Add script to check for `--extra-index-url` \(#5184\)
+Co-authored-by: Michael Wyatt <michaelwyatt@microsoft.com>")| Feb 26, 2024  
+[tests](/microsoft/DeepSpeed/tree/master/tests "tests")| [tests](/microsoft/DeepSpeed/tree/master/tests "tests")| [Update import for torchvision.transformers (](/microsoft/DeepSpeed/commit/f97f0885cf942aab1559d0f6a060d4801bff3a61 "Update import for torchvision.transformers \(#6958\)
+Fixes import - found via
+\[torchfix\]\(https://github.com/pytorch-labs/torchfix\).")[#6958](https://github.com/microsoft/DeepSpeed/pull/6958)[)](/microsoft/DeepSpeed/commit/f97f0885cf942aab1559d0f6a060d4801bff3a61 "Update import for torchvision.transformers \(#6958\)
+Fixes import - found via
+\[torchfix\]\(https://github.com/pytorch-labs/torchfix\).")| Jan 17, 2025  
+[.clang-format](/microsoft/DeepSpeed/blob/master/.clang-format ".clang-format")| [.clang-format](/microsoft/DeepSpeed/blob/master/.clang-format ".clang-format")| [force set lf instead of crlf (](/microsoft/DeepSpeed/commit/a10e4811fe78b707289132c9695bade4715fe59b "force set lf instead of crlf \(https://github.com/pre-commit/pre-commit-hooks#mixed-line-ending\) \(#1598\)")[https://github.com/pre-commit/pre-commi…](https://github.com/pre-commit/pre-commit-hooks#mixed-line-ending)| Nov 30, 2021  
+[.flake8](/microsoft/DeepSpeed/blob/master/.flake8 ".flake8")| [.flake8](/microsoft/DeepSpeed/blob/master/.flake8 ".flake8")| [Re-enable GPT-J unit tests and refactor inference tests (](/microsoft/DeepSpeed/commit/78b769359152e3c935c1d2ccd0ce5b3cc92e237e "Re-enable GPT-J unit tests and refactor inference tests \(#3618\)")[#3618](https://github.com/microsoft/DeepSpeed/pull/3618)[)](/microsoft/DeepSpeed/commit/78b769359152e3c935c1d2ccd0ce5b3cc92e237e "Re-enable GPT-J unit tests and refactor inference tests \(#3618\)")| Jun 28, 2023  
+[.gitignore](/microsoft/DeepSpeed/blob/master/.gitignore ".gitignore")| [.gitignore](/microsoft/DeepSpeed/blob/master/.gitignore ".gitignore")| [Add HIP conversion file outputs to .gitignore (](/microsoft/DeepSpeed/commit/25a02047ae1726f2c67fba75d262e1e1afdfe306 "Add HIP conversion file outputs to .gitignore \(#5111\)
+This PR adds the following HIP output files to `.gitignore`:
+``` 
+*_hip.cpp
+*_hip.h
+*.hip
+*.cuh
+*hip_layers.h
+```
+---------
+Co-authored-by: Michael Wyatt <michaelwyatt@microsoft.com>")[#5111](https://github.com/microsoft/DeepSpeed/pull/5111)[)](/microsoft/DeepSpeed/commit/25a02047ae1726f2c67fba75d262e1e1afdfe306 "Add HIP conversion file outputs to .gitignore \(#5111\)
+This PR adds the following HIP output files to `.gitignore`:
+``` 
+*_hip.cpp
+*_hip.h
+*.hip
+*.cuh
+*hip_layers.h
+```
+---------
+Co-authored-by: Michael Wyatt <michaelwyatt@microsoft.com>")| Feb 10, 2024  
+[.gitmodules](/microsoft/DeepSpeed/blob/master/.gitmodules ".gitmodules")| [.gitmodules](/microsoft/DeepSpeed/blob/master/.gitmodules ".gitmodules")| [DeepSpeed-FastGen (](/microsoft/DeepSpeed/commit/38b41dffa1d593ad8a8ab3ee2795dc203800f08c "DeepSpeed-FastGen \(#4604\)
+Co-authored-by: Jeff Rasley <jerasley@microsoft.com>
+Co-authored-by: Michael Wyatt <michaelwyatt@microsoft.com>
+Co-authored-by: Ammar Ahmad Awan <ammar.awan@microsoft.com>
+Co-authored-by: Masahiro Tanaka <mtanaka@microsoft.com>
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>")[#4604](https://github.com/microsoft/DeepSpeed/pull/4604)[)](/microsoft/DeepSpeed/commit/38b41dffa1d593ad8a8ab3ee2795dc203800f08c "DeepSpeed-FastGen \(#4604\)
+Co-authored-by: Jeff Rasley <jerasley@microsoft.com>
+Co-authored-by: Michael Wyatt <michaelwyatt@microsoft.com>
+Co-authored-by: Ammar Ahmad Awan <ammar.awan@microsoft.com>
+Co-authored-by: Masahiro Tanaka <mtanaka@microsoft.com>
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>")| Nov 4, 2023  
+[.pre-commit-config.yaml](/microsoft/DeepSpeed/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/microsoft/DeepSpeed/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Update pre-commit version (](/microsoft/DeepSpeed/commit/177832ed45c0174673cfeef978afb3ebfce1c2bc "Update pre-commit version \(#6821\)")[#6821](https://github.com/microsoft/DeepSpeed/pull/6821)[)](/microsoft/DeepSpeed/commit/177832ed45c0174673cfeef978afb3ebfce1c2bc "Update pre-commit version \(#6821\)")| Dec 5, 2024  
+[.pylintrc](/microsoft/DeepSpeed/blob/master/.pylintrc ".pylintrc")| [.pylintrc](/microsoft/DeepSpeed/blob/master/.pylintrc ".pylintrc")| [Add codespell to pre-commit checks (](/microsoft/DeepSpeed/commit/4cf970e6bb3c2ff29b2f03fcddb6f2cf26245a23 "Add codespell to pre-commit checks \(#1717\)")[#1717](https://github.com/microsoft/DeepSpeed/pull/1717)[)](/microsoft/DeepSpeed/commit/4cf970e6bb3c2ff29b2f03fcddb6f2cf26245a23 "Add codespell to pre-commit checks \(#1717\)")| Jan 23, 2022  
+[.readthedocs.yml](/microsoft/DeepSpeed/blob/master/.readthedocs.yml ".readthedocs.yml")| [.readthedocs.yml](/microsoft/DeepSpeed/blob/master/.readthedocs.yml ".readthedocs.yml")| [Fix RTD builds (](/microsoft/DeepSpeed/commit/0f2338f7b8c5bc0c9f54b09c4248d129af7a347f "Fix RTD builds \(#4558\)
+* Update .readthedocs.yml
+* Update requirements-readthedocs.txt")[#4558](https://github.com/microsoft/DeepSpeed/pull/4558)[)](/microsoft/DeepSpeed/commit/0f2338f7b8c5bc0c9f54b09c4248d129af7a347f "Fix RTD builds \(#4558\)
+* Update .readthedocs.yml
+* Update requirements-readthedocs.txt")| Oct 23, 2023  
+[.style.yapf](/microsoft/DeepSpeed/blob/master/.style.yapf ".style.yapf")| [.style.yapf](/microsoft/DeepSpeed/blob/master/.style.yapf ".style.yapf")| [update formatter version and style settings (](/microsoft/DeepSpeed/commit/91d63e0228c29d0f8b25ea3bc7173acdcdddd136 "update formatter version and style settings \(#3098\)")[#3098](https://github.com/microsoft/DeepSpeed/pull/3098)[)](/microsoft/DeepSpeed/commit/91d63e0228c29d0f8b25ea3bc7173acdcdddd136 "update formatter version and style settings \(#3098\)")| Mar 27, 2023  
+[CODEOWNERS](/microsoft/DeepSpeed/blob/master/CODEOWNERS "CODEOWNERS")| [CODEOWNERS](/microsoft/DeepSpeed/blob/master/CODEOWNERS "CODEOWNERS")| [Update code owners (](/microsoft/DeepSpeed/commit/b344c04df0fdf058617004924a7aaa15055dccce "Update code owners \(#6890\)
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>")[#6890](https://github.com/microsoft/DeepSpeed/pull/6890)[)](/microsoft/DeepSpeed/commit/b344c04df0fdf058617004924a7aaa15055dccce "Update code owners \(#6890\)
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>")| Dec 18, 2024  
+[CODE_OF_CONDUCT.md](/microsoft/DeepSpeed/blob/master/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/microsoft/DeepSpeed/blob/master/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [force set lf instead of crlf (](/microsoft/DeepSpeed/commit/a10e4811fe78b707289132c9695bade4715fe59b "force set lf instead of crlf \(https://github.com/pre-commit/pre-commit-hooks#mixed-line-ending\) \(#1598\)")[https://github.com/pre-commit/pre-commi…](https://github.com/pre-commit/pre-commit-hooks#mixed-line-ending)| Nov 30, 2021  
+[COMMITTERS.md](/microsoft/DeepSpeed/blob/master/COMMITTERS.md "COMMITTERS.md")| [COMMITTERS.md](/microsoft/DeepSpeed/blob/master/COMMITTERS.md "COMMITTERS.md")| [Update TSC (](/microsoft/DeepSpeed/commit/8efbcc495c3c7c072d10bfd672932807fb9eb8e5 "Update TSC \(#6867\)")[#6867](https://github.com/microsoft/DeepSpeed/pull/6867)[)](/microsoft/DeepSpeed/commit/8efbcc495c3c7c072d10bfd672932807fb9eb8e5 "Update TSC \(#6867\)")| Dec 13, 2024  
+[CONTRIBUTING.md](/microsoft/DeepSpeed/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/microsoft/DeepSpeed/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")| [New feature contribution guideline (](/microsoft/DeepSpeed/commit/752319c782ee57d9ed02cfadab8bca6e319301ea "New feature contribution guideline \(#1646\)")[#1646](https://github.com/microsoft/DeepSpeed/pull/1646)[)](/microsoft/DeepSpeed/commit/752319c782ee57d9ed02cfadab8bca6e319301ea "New feature contribution guideline \(#1646\)")| Dec 18, 2021  
+[GOVERNANCE.md](/microsoft/DeepSpeed/blob/master/GOVERNANCE.md "GOVERNANCE.md")| [GOVERNANCE.md](/microsoft/DeepSpeed/blob/master/GOVERNANCE.md "GOVERNANCE.md")| [Adding the governance doc (](/microsoft/DeepSpeed/commit/d702eb5f79bcfc8a7afa735b70762633cd5a56e9 "Adding the governance doc \(#6748\)
+Drafted governance doc for the LFAI.
+Co-authored-by: Minjia Zhang <minjiaz@illinois.edu>")[#6748](https://github.com/microsoft/DeepSpeed/pull/6748)[)](/microsoft/DeepSpeed/commit/d702eb5f79bcfc8a7afa735b70762633cd5a56e9 "Adding the governance doc \(#6748\)
+Drafted governance doc for the LFAI.
+Co-authored-by: Minjia Zhang <minjiaz@illinois.edu>")| Nov 14, 2024  
+[LICENSE](/microsoft/DeepSpeed/blob/master/LICENSE "LICENSE")| [LICENSE](/microsoft/DeepSpeed/blob/master/LICENSE "LICENSE")| [added full apache license (](/microsoft/DeepSpeed/commit/6c4782b0f29071c1b42a9f4e3faa67f514f300a1 "added full apache license \(#3119\)")[#3119](https://github.com/microsoft/DeepSpeed/pull/3119)[)](/microsoft/DeepSpeed/commit/6c4782b0f29071c1b42a9f4e3faa67f514f300a1 "added full apache license \(#3119\)")| Mar 31, 2023  
+[MANIFEST.in](/microsoft/DeepSpeed/blob/master/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](/microsoft/DeepSpeed/blob/master/MANIFEST.in "MANIFEST.in")| [[manifest] update mainfest to add hpp file in deepspeed. (](/microsoft/DeepSpeed/commit/ebf82e8f3ad6d51d49d115e54a11ae4597ff36fb "\[manifest\] update mainfest to add hpp file in deepspeed. \(#5533\)
+Hi @loadams, Could you please help to review this pr?
+After add hpp files in csrc, we found sometimes the hpp headers will
+still be excluded from the op src packaging, so we add the hpp file in
+deepspeed to make sure the hpp header in deepspeed package, to ensure
+jit load to compile the xpu/fused_adam ops in 0.14.2.")[#5533](https://github.com/microsoft/DeepSpeed/pull/5533)[)](/microsoft/DeepSpeed/commit/ebf82e8f3ad6d51d49d115e54a11ae4597ff36fb "\[manifest\] update mainfest to add hpp file in deepspeed. \(#5533\)
+Hi @loadams, Could you please help to review this pr?
+After add hpp files in csrc, we found sometimes the hpp headers will
+still be excluded from the op src packaging, so we add the hpp file in
+deepspeed to make sure the hpp header in deepspeed package, to ensure
+jit load to compile the xpu/fused_adam ops in 0.14.2.")| May 14, 2024  
+[MANIFEST_win.in](/microsoft/DeepSpeed/blob/master/MANIFEST_win.in "MANIFEST_win.in")| [MANIFEST_win.in](/microsoft/DeepSpeed/blob/master/MANIFEST_win.in "MANIFEST_win.in")| [Abstract accelerator (step 2) (](/microsoft/DeepSpeed/commit/9548d48f48a53b97bdbeada374b7f35ad2f1c655 "Abstract accelerator \(step 2\) \(#2560\)
+* Abstract accelerator \(step 2\)
+* more flex op_builder path for both installation and runtime
+* add SpatialInferenceBuilder into cuda_accelerator.py
+* use reflection to make cuda_accelerator adapt to CUDA op builder change automatically
+* clean up deepspeed/__init__.py
+* add comments in cuda_accelerator for no torch path
+* Update deepspeed/env_report.py
+Change env_report.py according to suggestion
+Co-authored-by: Michael Wyatt <mrwyattii@gmail.com>
+* reduce the range of try...except for better code clarity
+* Add porting for deepspeed/ops/random_ltd/dropping_utils.py
+* move accelerator to top directory and create symlink under deepspeed
+Co-authored-by: Olatunji Ruwase <olruwase@microsoft.com>
+Co-authored-by: Michael Wyatt <mrwyattii@gmail.com>
+Co-authored-by: Jeff Rasley <jerasley@microsoft.com>")[#2560](https://github.com/microsoft/DeepSpeed/pull/2560)[)](/microsoft/DeepSpeed/commit/9548d48f48a53b97bdbeada374b7f35ad2f1c655 "Abstract accelerator \(step 2\) \(#2560\)
+* Abstract accelerator \(step 2\)
+* more flex op_builder path for both installation and runtime
+* add SpatialInferenceBuilder into cuda_accelerator.py
+* use reflection to make cuda_accelerator adapt to CUDA op builder change automatically
+* clean up deepspeed/__init__.py
+* add comments in cuda_accelerator for no torch path
+* Update deepspeed/env_report.py
+Change env_report.py according to suggestion
+Co-authored-by: Michael Wyatt <mrwyattii@gmail.com>
+* reduce the range of try...except for better code clarity
+* Add porting for deepspeed/ops/random_ltd/dropping_utils.py
+* move accelerator to top directory and create symlink under deepspeed
+Co-authored-by: Olatunji Ruwase <olruwase@microsoft.com>
+Co-authored-by: Michael Wyatt <mrwyattii@gmail.com>
+Co-authored-by: Jeff Rasley <jerasley@microsoft.com>")| Jan 7, 2023  
+[README.md](/microsoft/DeepSpeed/blob/master/README.md "README.md")| [README.md](/microsoft/DeepSpeed/blob/master/README.md "README.md")| [Remove broken links to non-active site (](/microsoft/DeepSpeed/commit/bd6fd50e9f49a81d71284a49b8449c334bf11074 "Remove broken links to non-active site \(#6854\)
+The site referenced in various places on the README is no longer active:
+https://deepspeed4science.ai
+
+!\[image\]\(https://github.com/user-attachments/assets/8ec47313-2abf-40d6-b1f8-9a9234c15e2f\)
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>")[#6854](https://github.com/microsoft/DeepSpeed/pull/6854)[)](/microsoft/DeepSpeed/commit/bd6fd50e9f49a81d71284a49b8449c334bf11074 "Remove broken links to non-active site \(#6854\)
+The site referenced in various places on the README is no longer active:
+https://deepspeed4science.ai
+
+!\[image\]\(https://github.com/user-attachments/assets/8ec47313-2abf-40d6-b1f8-9a9234c15e2f\)
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>")| Dec 12, 2024  
+[SECURITY.md](/microsoft/DeepSpeed/blob/master/SECURITY.md "SECURITY.md")| [SECURITY.md](/microsoft/DeepSpeed/blob/master/SECURITY.md "SECURITY.md")| [Add information on security expectations with this software (](/microsoft/DeepSpeed/commit/1d15ef0acfcbbd0efb90458fe08c234a21328e77 "Add information on security expectations with this software \(#6941\)
+Inspired by the link vllm
+\[includes\]\(https://github.com/vllm-project/vllm/blob/main/SECURITY.md\),
+this starts to give users insight into the security expectations they
+should have from using DeepSpeed.")[#6941](https://github.com/microsoft/DeepSpeed/pull/6941)[)](/microsoft/DeepSpeed/commit/1d15ef0acfcbbd0efb90458fe08c234a21328e77 "Add information on security expectations with this software \(#6941\)
+Inspired by the link vllm
+\[includes\]\(https://github.com/vllm-project/vllm/blob/main/SECURITY.md\),
+this starts to give users insight into the security expectations they
+should have from using DeepSpeed.")| Jan 10, 2025  
+[build_win.bat](/microsoft/DeepSpeed/blob/master/build_win.bat "build_win.bat")| [build_win.bat](/microsoft/DeepSpeed/blob/master/build_win.bat "build_win.bat")| [Add Windows scripts (deepspeed, ds_report). (](/microsoft/DeepSpeed/commit/74f3dcab62c0b4e9879f526002cef6728b5def0e "Add Windows scripts \(deepspeed, ds_report\). \(#5699\)
+Co-authored-by: Costin Eseanu <costineseanu@gmail.com>
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>")[#5699](https://github.com/microsoft/DeepSpeed/pull/5699)[)](/microsoft/DeepSpeed/commit/74f3dcab62c0b4e9879f526002cef6728b5def0e "Add Windows scripts \(deepspeed, ds_report\). \(#5699\)
+Co-authored-by: Costin Eseanu <costineseanu@gmail.com>
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>")| Jul 9, 2024  
+[environment.yml](/microsoft/DeepSpeed/blob/master/environment.yml "environment.yml")| [environment.yml](/microsoft/DeepSpeed/blob/master/environment.yml "environment.yml")| [Introduce pydantic_v1 compatibility module for pydantic>=2.0.0 support (](/microsoft/DeepSpeed/commit/604d701e35548e5407b017c088bdc3760832c9e0 "Introduce pydantic_v1 compatibility module for pydantic>=2.0.0 support \(#4407\)
+* Introduce pydantic_v1 compatibility module for pydantic>=2.0.0 support")| Oct 9, 2023  
+[install.sh](/microsoft/DeepSpeed/blob/master/install.sh "install.sh")| [install.sh](/microsoft/DeepSpeed/blob/master/install.sh "install.sh")| [Update install.sh (](/microsoft/DeepSpeed/commit/077e42e68a766a5ec1a1b231a62af0b6125defdd "Update install.sh \(#3270\)
+Optimization Code
+1. Use #!/usr/bin/env bash instead of #!/bin/bash to make the script more portable.
+2. Use rm -rf instead of rm -r to remove directories recursively.
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>
+Co-authored-by: Olatunji Ruwase <olruwase@microsoft.com>")[#3270](https://github.com/microsoft/DeepSpeed/pull/3270)[)](/microsoft/DeepSpeed/commit/077e42e68a766a5ec1a1b231a62af0b6125defdd "Update install.sh \(#3270\)
+Optimization Code
+1. Use #!/usr/bin/env bash instead of #!/bin/bash to make the script more portable.
+2. Use rm -rf instead of rm -r to remove directories recursively.
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>
+Co-authored-by: Olatunji Ruwase <olruwase@microsoft.com>")| Apr 18, 2023  
+[setup.cfg](/microsoft/DeepSpeed/blob/master/setup.cfg "setup.cfg")| [setup.cfg](/microsoft/DeepSpeed/blob/master/setup.cfg "setup.cfg")| [Seeded unit tests (](/microsoft/DeepSpeed/commit/46f4573b1a8a9cda2b45f4de4e90b631cee3f80b "Seeded unit tests \(#1072\)
+* is not -> !=
+* Use pytest-randomly to seed unit tests.")[#1072](https://github.com/microsoft/DeepSpeed/pull/1072)[)](/microsoft/DeepSpeed/commit/46f4573b1a8a9cda2b45f4de4e90b631cee3f80b "Seeded unit tests \(#1072\)
+* is not -> !=
+* Use pytest-randomly to seed unit tests.")| May 14, 2021  
+[setup.py](/microsoft/DeepSpeed/blob/master/setup.py "setup.py")| [setup.py](/microsoft/DeepSpeed/blob/master/setup.py "setup.py")| [Update python version classifiers (](/microsoft/DeepSpeed/commit/6628127a379e3c3fd70e48534c4b5952c5c23a72 "Update python version classifiers \(#6933\)
+Update python version classifiers in setup.py to reflect python versions
+currently supported.")[#6933](https://github.com/microsoft/DeepSpeed/pull/6933)[)](/microsoft/DeepSpeed/commit/6628127a379e3c3fd70e48534c4b5952c5c23a72 "Update python version classifiers \(#6933\)
+Update python version classifiers in setup.py to reflect python versions
+currently supported.")| Jan 8, 2025  
+[version.txt](/microsoft/DeepSpeed/blob/master/version.txt "version.txt")| [version.txt](/microsoft/DeepSpeed/blob/master/version.txt "version.txt")| [Update version.txt after 0.16.3 release (](/microsoft/DeepSpeed/commit/de4596bedc61100db9385b5d99efd9025db13a7d "Update version.txt after 0.16.3 release \(#6965\)
+**Auto-generated PR to update version.txt after a DeepSpeed release**
+Released version - 0.16.3
+Author      - @loadams
+Co-authored-by: loadams <loadams@users.noreply.github.com>")[#6965](https://github.com/microsoft/DeepSpeed/pull/6965)[)](/microsoft/DeepSpeed/commit/de4596bedc61100db9385b5d99efd9025db13a7d "Update version.txt after 0.16.3 release \(#6965\)
+**Auto-generated PR to update version.txt after a DeepSpeed release**
+Released version - 0.16.3
+Author      - @loadams
+Co-authored-by: loadams <loadams@users.noreply.github.com>")| Jan 22, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [Apache-2.0 license](#)
+  * [Security](#)
+
+
+
+[![License Apache 2.0](https://camo.githubusercontent.com/28f81b2186e695c5459000cec01c5894362839550b4fda91e0bbf0f8e7dcb91b/68747470733a2f2f62616467656e2e6e65742f62616467652f6c6963656e73652f617061636865322e302f626c7565)](https://github.com/Microsoft/DeepSpeed/blob/master/LICENSE) [![PyPI version](https://camo.githubusercontent.com/8c9a65fb29baad40fad02babe30839425d712a8fb4326c3203f53f858e438bda/68747470733a2f2f62616467652e667572792e696f2f70792f6465657073706565642e737667)](https://pypi.org/project/deepspeed/) [![Downloads](https://camo.githubusercontent.com/ca47dcd46a1de670be78570251109ad4a54f3c1789b1c53a7c5b083b76783125/68747470733a2f2f7374617469632e706570792e746563682f62616467652f646565707370656564)](https://pepy.tech/project/deepspeed) [![Build](https://camo.githubusercontent.com/bf04ccb9b5277c577b96b50bf60e8a8db6e5adada0584e23f1e05f1d17738138/68747470733a2f2f62616467656e2e6e65742f62616467652f6275696c642f636865636b2d7374617475732f626c7565)](#build-pipeline-status) [![OpenSSF Best Practices](https://camo.githubusercontent.com/218b94dceecc6b4e22a240d6de6878168cb625dcd6b5843a98adee23c0e402ef/68747470733a2f2f7777772e626573747072616374696365732e6465762f70726f6a656374732f393533302f6261646765)](https://www.bestpractices.dev/projects/9530) [![Twitter](https://camo.githubusercontent.com/40288bf12f1c06a215f3ec24f877230a9f0159a246b63d2353b6a3aec328f599/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f4d534654446565705370656564)](https://twitter.com/intent/follow?screen_name=MSFTDeepSpeed) [![Japanese Twitter](https://camo.githubusercontent.com/e71599509c671afa353e0fbc27fca289136fb2ff12a005174b581ec4cd793a6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f254536253937254135254536253943254143254538254141253945547769747465722d2534304d5346544465657053706565644a502d626c7565)](https://twitter.com/MSFTDeepSpeedJP) [![Chinese Zhihu](https://camo.githubusercontent.com/9631f47724c3219e6a93f3cf23bb2b5d998514c1a765c8dffe600a1504147008/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545372539462541352545342542392538452d2545352542452541452545382542442541464465657053706565642d626c7565)](https://www.zhihu.com/people/deepspeed)
+
+[![](/microsoft/DeepSpeed/raw/master/docs/assets/images/DeepSpeed_light.svg#gh-light-mode-only)](/microsoft/DeepSpeed/blob/master/docs/assets/images/DeepSpeed_light.svg#gh-light-mode-only) [![](/microsoft/DeepSpeed/raw/master/docs/assets/images/DeepSpeed_dark_transparent.svg#gh-dark-mode-only)](/microsoft/DeepSpeed/blob/master/docs/assets/images/DeepSpeed_dark_transparent.svg#gh-dark-mode-only)
+
+## Latest News
+
+[](#latest-news)
+
+** DeepSpeed empowers ChatGPT-like model training with a single click, offering 15x speedup over SOTA RLHF systems with unprecedented cost reduction at all scales; [learn how](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat).**
+
+  * [2024/12] [Ulysses-Offload: Democratizing Long Context LLM Training ](https://github.com/microsoft/DeepSpeed/blob/master/blogs/ulysses-offload/README.md)
+  * [2024/12] [DeepSpeed-Domino: Communication-Free LLM Training Engine](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-domino/README.md)
+  * [2024/08] [DeepSpeed on Windows](https://github.com/microsoft/DeepSpeed/tree/master/blogs/windows/08-2024/README.md) [[日本語](https://github.com/microsoft/DeepSpeed/tree/master/blogs/windows/08-2024/japanese/README.md)]
+  * [2024/08] [DeepNVMe: Improving DL Applications through I/O Optimizations](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-gds/README.md) [[日本語](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-gds/japanese/README.md)]
+  * [2024/07] [DeepSpeed Universal Checkpointing: Efficient and Flexible Checkpointing for Large Scale Distributed Training](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-ucp/README.md) [[中文](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-ucp/chinese/README.md)] [[日本語](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-ucp/japanese/README.md)]
+  * [2024/03] [DeepSpeed-FP6:The power of FP6-Centric Serving for Large Language Models](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fp6/03-05-2024) [[English](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fp6/03-05-2024/README.md)] [[中文](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fp6/03-05-2024/README-Chinese.md)]
+  * [2024/01] [DeepSpeed-FastGen: Introducing Mixtral, Phi-2, and Falcon support with major performance and feature enhancements.](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen/2024-01-19)
+  * [2023/11] [Llama 2 Inference on 4th Gen Intel® Xeon® Scalable Processor with DeepSpeed](https://github.com/microsoft/DeepSpeed/tree/master/blogs/intel-inference) [[Intel version]](https://www.intel.com/content/www/us/en/developer/articles/technical/xllama-2-on-xeon-scalable-processor-with-deepspeed.html)
+  * [2023/11] [DeepSpeed ZeRO-Offload++: 6x Higher Training Throughput via Collaborative CPU/GPU Twin-Flow](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-offloadpp)
+  * [2023/11] [DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen) [[English](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen)] [[中文](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen/chinese/README.md)] [[日本語](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen/japanese/README.md)]
+  * [2023/10] [DeepSpeed-VisualChat: Improve Your Chat Experience with Multi-Round Multi-Image Inputs](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-visualchat/10-03-2023/README.md) [[English](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-visualchat/10-03-2023/README.md)] [[中文](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-visualchat/10-03-2023/README-Chinese.md)] [[日本語](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-visualchat/10-03-2023/README-Japanese.md)]
+  * [2023/09] Announcing the DeepSpeed4Science Initiative: Enabling large-scale scientific discovery through sophisticated AI system technologies [[Tutorials](https://www.deepspeed.ai/deepspeed4science/)] [[White paper](https://arxiv.org/abs/2310.04610)] [[Blog](https://www.microsoft.com/en-us/research/blog/announcing-the-deepspeed4science-initiative-enabling-large-scale-scientific-discovery-through-sophisticated-ai-system-technologies/)] [[中文](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed4science/chinese/README.md)] [[日本語](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed4science/japanese/README.md)]
+
+More news
+
+  * [2023/08] [DeepSpeed ZeRO-Inference: 20x faster inference through weight quantization and KV cache offloading](https://github.com/microsoft/DeepSpeedExamples/blob/master/inference/huggingface/zero_inference/README.md)
+  * [2023/08] [DeepSpeed-Chat: Llama/Llama-2 system support, efficiency boost, and training stability improvements](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat/ds-chat-release-8-31/README.md)
+  * [2023/08] [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-ulysses) [[中文](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-ulysses/chinese/README.md)] [[日本語](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-ulysses/japanese/README.md)]
+  * [2023/06] [ZeRO++: A leap in speed for LLM and chat model training with 4X less communication](https://www.microsoft.com/en-us/research/blog/deepspeed-zero-a-leap-in-speed-for-llm-and-chat-model-training-with-4x-less-communication/) [[English](https://www.microsoft.com/en-us/research/blog/deepspeed-zero-a-leap-in-speed-for-llm-and-chat-model-training-with-4x-less-communication/)] [[中文](https://github.com/microsoft/DeepSpeed/blob/master/blogs/zeropp/chinese/README.md)] [[日本語](https://github.com/microsoft/DeepSpeed/blob/master/blogs/zeropp/japanese/README.md)]
+
+
+
+# Extreme Speed and Scale for DL Training and Inference
+
+[](#extreme-speed-and-scale-for-dl-training-and-inference)
+
+_**[DeepSpeed](https://www.deepspeed.ai/) enables world's most powerful language models like [MT-530B](https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/) and [BLOOM](https://huggingface.co/blog/bloom-megatron-deepspeed)**_. It is an easy-to-use deep learning optimization software suite that powers unprecedented scale and speed for both training and inference. With DeepSpeed you can:
+
+  * Train/Inference dense or sparse models with billions or trillions of parameters
+  * Achieve excellent system throughput and efficiently scale to thousands of GPUs
+  * Train/Inference on resource constrained GPU systems
+  * Achieve unprecedented low latency and high throughput for inference
+  * Achieve extreme compression for an unparalleled inference latency and model size reduction with low costs
+
+
+
+# DeepSpeed's four innovation pillars
+
+[](#deepspeeds-four-innovation-pillars)
+
+[![](/microsoft/DeepSpeed/raw/master/docs/assets/images/DeepSpeed-pillars.png)](/microsoft/DeepSpeed/blob/master/docs/assets/images/DeepSpeed-pillars.png)
+
+## DeepSpeed-Training
+
+[](#deepspeed-training)
+
+DeepSpeed offers a confluence of system innovations, that has made large scale DL training effective, and efficient, greatly improved ease of use, and redefined the DL training landscape in terms of scale that is possible. These innovations such as ZeRO, 3D-Parallelism, DeepSpeed-MoE, ZeRO-Infinity, etc. fall under the training pillar. Learn more: [DeepSpeed-Training](https://www.deepspeed.ai/training/)
+
+## DeepSpeed-Inference
+
+[](#deepspeed-inference)
+
+DeepSpeed brings together innovations in parallelism technology such as tensor, pipeline, expert and ZeRO-parallelism, and combines them with high performance custom inference kernels, communication optimizations and heterogeneous memory technologies to enable inference at an unprecedented scale, while achieving unparalleled latency, throughput and cost reduction. This systematic composition of system technologies for inference falls under the inference pillar. Learn more: [DeepSpeed-Inference](https://www.deepspeed.ai/inference)
+
+## DeepSpeed-Compression
+
+[](#deepspeed-compression)
+
+To further increase the inference efficiency, DeepSpeed offers easy-to-use and flexible-to-compose compression techniques for researchers and practitioners to compress their models while delivering faster speed, smaller model size, and significantly reduced compression cost. Moreover, SoTA innovations on compression like ZeroQuant and XTC are included under the compression pillar. Learn more: [DeepSpeed-Compression](https://www.deepspeed.ai/compression)
+
+## DeepSpeed4Science
+
+[](#deepspeed4science)
+
+In line with Microsoft's mission to solve humanity's most pressing challenges, the DeepSpeed team at Microsoft is responding to this opportunity by launching a new initiative called _DeepSpeed4Science_ , aiming to build unique capabilities through AI system technology innovations to help domain experts to unlock today's biggest science mysteries. Learn more: [tutorials](https://www.deepspeed.ai/deepspeed4science/)
+
+# DeepSpeed Software Suite
+
+[](#deepspeed-software-suite)
+
+## DeepSpeed Library
+
+[](#deepspeed-library)
+
+The [DeepSpeed](https://github.com/microsoft/deepspeed) library (this repository) implements and packages the innovations and technologies in DeepSpeed Training, Inference and Compression Pillars into a single easy-to-use, open-sourced repository. It allows for easy composition of multitude of features within a single training, inference or compression pipeline. The DeepSpeed Library is heavily adopted by the DL community, and has been used to enable some of the most powerful models (see [DeepSpeed Adoption](#deepspeed-adoption)).
+
+## Model Implementations for Inference (MII)
+
+[](#model-implementations-for-inference-mii)
+
+[Model Implementations for Inference (MII)](https://github.com/microsoft/deepspeed-mii) is an open-sourced repository for making low-latency and high-throughput inference accessible to all data scientists by alleviating the need to apply complex system optimization techniques themselves. Out-of-box, MII offers support for thousands of widely used DL models, optimized using DeepSpeed-Inference, that can be deployed with a few lines of code, while achieving significant latency reduction compared to their vanilla open-sourced versions.
+
+## DeepSpeed on Azure
+
+[](#deepspeed-on-azure)
+
+DeepSpeed users are diverse and have access to different environments. We recommend to try DeepSpeed on Azure as it is the simplest and easiest method. The recommended method to try DeepSpeed on Azure is through AzureML [recipes](https://github.com/Azure/azureml-examples/tree/main/v1/python-sdk/workflows/train/deepspeed). The job submission and data preparation scripts have been made available [here](https://github.com/microsoft/Megatron-DeepSpeed/tree/main/examples_deepspeed/azureml). For more details on how to use DeepSpeed on Azure, please follow the [Azure tutorial](https://www.deepspeed.ai/tutorials/azure/).
+
+# DeepSpeed Adoption
+
+[](#deepspeed-adoption)
+
+DeepSpeed is an important part of Microsoft’s new [AI at Scale](https://www.microsoft.com/en-us/research/project/ai-at-scale/) initiative to enable next-generation AI capabilities at scale, where you can find more information [here](https://innovation.microsoft.com/en-us/exploring-ai-at-scale).
+
+DeepSpeed has been used to train many different large-scale models, below is a list of several examples that we are aware of (if you'd like to include your model please submit a PR):
+
+  * [Megatron-Turing NLG (530B)](https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/)
+  * [Jurassic-1 (178B)](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/61138924626a6981ee09caf6_jurassic_tech_paper.pdf)
+  * [BLOOM (176B)](https://huggingface.co/blog/bloom-megatron-deepspeed)
+  * [GLM (130B)](https://github.com/THUDM/GLM-130B)
+  * [xTrimoPGLM (100B)](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v2)
+  * [YaLM (100B)](https://github.com/yandex/YaLM-100B)
+  * [GPT-NeoX (20B)](https://github.com/EleutherAI/gpt-neox)
+  * [AlexaTM (20B)](https://www.amazon.science/blog/20b-parameter-alexa-model-sets-new-marks-in-few-shot-learning)
+  * [Turing NLG (17B)](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)
+  * [METRO-LM (5.4B)](https://arxiv.org/pdf/2204.06644.pdf)
+
+
+
+DeepSpeed has been integrated with several different popular open-source DL frameworks such as:
+
+Documentation  
+---  
+[![](/microsoft/DeepSpeed/raw/master/docs/assets/images/transformers-light.png#gh-light-mode-only)](/microsoft/DeepSpeed/blob/master/docs/assets/images/transformers-light.png#gh-light-mode-only)[![](/microsoft/DeepSpeed/raw/master/docs/assets/images/transformers-dark.png#gh-dark-mode-only)](/microsoft/DeepSpeed/blob/master/docs/assets/images/transformers-dark.png#gh-dark-mode-only) | [Transformers with DeepSpeed](https://huggingface.co/docs/transformers/deepspeed)  
+[![](/microsoft/DeepSpeed/raw/master/docs/assets/images/accelerate-light.png#gh-light-mode-only)](/microsoft/DeepSpeed/blob/master/docs/assets/images/accelerate-light.png#gh-light-mode-only)[![](/microsoft/DeepSpeed/raw/master/docs/assets/images/accelerate-dark.png#gh-dark-mode-only)](/microsoft/DeepSpeed/blob/master/docs/assets/images/accelerate-dark.png#gh-dark-mode-only) | [Accelerate with DeepSpeed](https://huggingface.co/docs/accelerate/usage_guides/deepspeed)  
+[![](/microsoft/DeepSpeed/raw/master/docs/assets/images/lightning-light.svg#gh-light-mode-only)](/microsoft/DeepSpeed/blob/master/docs/assets/images/lightning-light.svg#gh-light-mode-only)[![](/microsoft/DeepSpeed/raw/master/docs/assets/images/lightning-dark.svg#gh-dark-mode-only)](/microsoft/DeepSpeed/blob/master/docs/assets/images/lightning-dark.svg#gh-dark-mode-only) | [Lightning with DeepSpeed](https://lightning.ai/docs/pytorch/stable/advanced/model_parallel.html#deepspeed)  
+[![](/microsoft/DeepSpeed/raw/master/docs/assets/images/mosaicml.svg)](/microsoft/DeepSpeed/blob/master/docs/assets/images/mosaicml.svg) | [MosaicML with DeepSpeed](https://docs.mosaicml.com/projects/composer/en/latest/trainer/using_the_trainer.html?highlight=deepspeed#deepspeed-integration)  
+[![](/microsoft/DeepSpeed/raw/master/docs/assets/images/determined.svg)](/microsoft/DeepSpeed/blob/master/docs/assets/images/determined.svg) | [Determined with DeepSpeed](https://docs.determined.ai/latest/training/apis-howto/deepspeed/overview.html)  
+[![](https://user-images.githubusercontent.com/58739961/187154444-fce76639-ac8d-429b-9354-c6fac64b7ef8.jpg)](https://user-images.githubusercontent.com/58739961/187154444-fce76639-ac8d-429b-9354-c6fac64b7ef8.jpg) | [MMEngine with DeepSpeed](https://mmengine.readthedocs.io/en/latest/common_usage/large_model_training.html#deepspeed)  
+  
+# Build Pipeline Status
+
+[](#build-pipeline-status)
+
+Description | Status  
+---|---  
+NVIDIA | [![nv-torch110-p40](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-torch110-p40.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-torch110-p40.yml) [![nv-torch110-v100](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-torch110-v100.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-torch110-v100.yml) [![nv-torch-latest-v100](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-torch-latest-v100.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-torch-latest-v100.yml) [![nv-h100](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-h100.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-h100.yml) [![nv-inference](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-inference.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-inference.yml) [![nv-nightly](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-nightly.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-nightly.yml)  
+AMD | [![amd-mi200](https://github.com/microsoft/DeepSpeed/actions/workflows/amd-mi200.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/amd-mi200.yml)  
+CPU | [![torch-latest-cpu](https://github.com/microsoft/DeepSpeed/actions/workflows/cpu-torch-latest.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/cpu-torch-latest.yml) [![cpu-inference](https://github.com/microsoft/DeepSpeed/actions/workflows/cpu-inference.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/cpu-inference.yml)  
+Intel Gaudi | [![hpu-gaudi2](https://github.com/microsoft/DeepSpeed/actions/workflows/hpu-gaudi2.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/hpu-gaudi2.yml)  
+Intel XPU | [![xpu-max1100](https://github.com/microsoft/DeepSpeed/actions/workflows/xpu-max1100.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/xpu-max1100.yml)  
+PyTorch Nightly | [![nv-torch-nightly-v100](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-torch-nightly-v100.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-torch-nightly-v100.yml)  
+Integrations | [![nv-transformers-v100](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-transformers-v100.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-transformers-v100.yml) [![nv-lightning-v100](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-lightning-v100.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-lightning-v100.yml) [![nv-accelerate-v100](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-accelerate-v100.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-accelerate-v100.yml) [![nv-mii](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-mii.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-mii.yml) [![nv-ds-chat](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-ds-chat.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-ds-chat.yml) [![nv-sd](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-sd.yml/badge.svg)](https://github.com/microsoft/DeepSpeed/actions/workflows/nv-sd.yml)  
+Misc | [![Formatting](https://github.com/microsoft/DeepSpeed/actions/workflows/formatting.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/formatting.yml) [![pages-build-deployment](https://github.com/microsoft/DeepSpeed/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/microsoft/DeepSpeed/actions/workflows/pages/pages-build-deployment) [![Documentation Status](https://camo.githubusercontent.com/20accbec2bcbca6196130c0b5bd0e4bd5f8d8a630cbf6d11be31d7c938396da2/68747470733a2f2f72656164746865646f63732e6f72672f70726f6a656374732f6465657073706565642f62616467652f3f76657273696f6e3d6c6174657374)](https://deepspeed.readthedocs.io/en/latest/?badge=latest)[![python](https://github.com/microsoft/DeepSpeed/actions/workflows/python.yml/badge.svg?branch=master)](https://github.com/microsoft/DeepSpeed/actions/workflows/python.yml)  
+Huawei Ascend NPU | [![Huawei Ascend NPU](https://github.com/Ascend/Ascend-CI/actions/workflows/deepspeed.yaml/badge.svg?branch=main)](https://github.com/Ascend/Ascend-CI/actions/workflows/deepspeed.yaml)  
+  
+# Installation
+
+[](#installation)
+
+The quickest way to get started with DeepSpeed is via pip, this will install the latest release of DeepSpeed which is not tied to specific PyTorch or CUDA versions. DeepSpeed includes several C++/CUDA extensions that we commonly refer to as our 'ops'. By default, all of these extensions/ops will be built just-in-time (JIT) using [torch's JIT C++ extension loader that relies on ninja](https://pytorch.org/docs/stable/cpp_extension.html) to build and dynamically link them at runtime.
+
+## Requirements
+
+[](#requirements)
+
+  * [PyTorch](https://pytorch.org/) must be installed _before_ installing DeepSpeed.
+  * For full feature support we recommend a version of PyTorch that is >= 1.9 and ideally the latest PyTorch stable release.
+  * A CUDA or ROCm compiler such as [nvcc](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/#introduction) or [hipcc](https://github.com/ROCm-Developer-Tools/HIPCC) used to compile C++/CUDA/HIP extensions.
+  * Specific GPUs we develop and test against are listed below, this doesn't mean your GPU will not work if it doesn't fall into this category it's just DeepSpeed is most well tested on the following: 
+    * NVIDIA: Pascal, Volta, Ampere, and Hopper architectures
+    * AMD: MI100 and MI200
+
+
+
+## Contributed HW support
+
+[](#contributed-hw-support)
+
+  * DeepSpeed now support various HW accelerators.
+
+Contributor | Hardware | Accelerator Name | Contributor validated | Upstream validated  
+---|---|---|---|---  
+Huawei | Huawei Ascend NPU | npu | Yes | No  
+Intel | Intel(R) Gaudi(R) 2 AI accelerator | hpu | Yes | Yes  
+Intel | Intel(R) Xeon(R) Processors | cpu | Yes | Yes  
+Intel | Intel(R) Data Center GPU Max series | xpu | Yes | Yes  
+  
+## PyPI
+
+[](#pypi)
+
+We regularly push releases to [PyPI](https://pypi.org/project/deepspeed/) and encourage users to install from there in most cases.
+
+```
+pip install deepspeed
+```
+
+After installation, you can validate your install and see which extensions/ops your machine is compatible with via the DeepSpeed environment report.
+
+```
+ds_report
+```
+
+If you would like to pre-install any of the DeepSpeed extensions/ops (instead of JIT compiling) or install pre-compiled ops via PyPI please see our [advanced installation instructions](https://www.deepspeed.ai/tutorials/advanced-install/).
+
+## Windows
+
+[](#windows)
+
+Windows support is partially supported with DeepSpeed. On Windows you can build wheel with following steps, currently only inference mode is supported.
+
+  1. Install pytorch, such as pytorch 1.8 + cuda 11.1
+  2. Install visual cpp build tools, such as VS2019 C++ x64/x86 build tools
+  3. Launch cmd console with Administrator privilege for creating required symlink folders
+  4. Run `python setup.py bdist_wheel` to build wheel in `dist` folder
+
+
+
+# Features
+
+[](#features)
+
+Please checkout [DeepSpeed-Training](https://www.deepspeed.ai/training), [DeepSpeed-Inference](https://www.deepspeed.ai/inference) and [DeepSpeed-Compression](https://www.deepspeed.ai/compression) pages for full set of features offered along each of these three pillars.
+
+# Further Reading
+
+[](#further-reading)
+
+All DeepSpeed documentation, tutorials, and blogs can be found on our website: [deepspeed.ai](https://www.deepspeed.ai/)
+
+Description  
+---  
+[Getting Started](https://www.deepspeed.ai/getting-started/) | First steps with DeepSpeed  
+[DeepSpeed JSON Configuration](https://www.deepspeed.ai/docs/config-json/) | Configuring DeepSpeed  
+[API Documentation](https://deepspeed.readthedocs.io/en/latest/) | Generated DeepSpeed API documentation  
+[Tutorials](https://www.deepspeed.ai/tutorials/) | Tutorials  
+[Blogs](https://www.deepspeed.ai/posts/) | Blogs  
+  
+# Contributing
+
+[](#contributing)
+
+DeepSpeed welcomes your contributions! Please see our [contributing](/microsoft/DeepSpeed/blob/master/CONTRIBUTING.md) guide for more details on formatting, testing, etc. Thanks so much to all of our amazing contributors!
+
+[ ![](https://camo.githubusercontent.com/4dc25610b42ca1390f8eef15b69b6389dd12f048ff60a73cf2807f04b5cba4a6/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6d6963726f736f66742f44656570537065656426723d) ](https://github.com/microsoft/DeepSpeed/graphs/contributors)
+
+## Contributor License Agreement
+
+[](#contributor-license-agreement)
+
+This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit <https://cla.opensource.microsoft.com>.
+
+When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
+
+## Code of Conduct
+
+[](#code-of-conduct)
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments.
+
+# Publications
+
+[](#publications)
+
+  1. Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, Yuxiong He. (2019) ZeRO: memory optimizations toward training trillion parameter models. [arXiv:1910.02054](https://arxiv.org/abs/1910.02054) and [In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC '20)](https://dl.acm.org/doi/10.5555/3433701.3433727).
+
+  2. Jeff Rasley, Samyam Rajbhandari, Olatunji Ruwase, and Yuxiong He. (2020) DeepSpeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters. [In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20, Tutorial)](https://dl.acm.org/doi/10.1145/3394486.3406703).
+
+  3. Minjia Zhang, Yuxiong He. (2020) Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping. [arXiv:2010.13369](https://arxiv.org/abs/2010.13369) and [NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/a1140a3d0df1c81e24ae954d935e8926-Abstract.html).
+
+  4. Jie Ren, Samyam Rajbhandari, Reza Yazdani Aminabadi, Olatunji Ruwase, Shuangyan Yang, Minjia Zhang, Dong Li, Yuxiong He. (2021) ZeRO-Offload: Democratizing Billion-Scale Model Training. [arXiv:2101.06840](https://arxiv.org/abs/2101.06840) and [USENIX ATC 2021](https://www.usenix.org/conference/atc21/presentation/ren-jie). [[paper]](https://arxiv.org/abs/2101.06840) [[slides]](https://www.usenix.org/system/files/atc21_slides_ren-jie.pdf) [[blog]](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)
+
+  5. Hanlin Tang, Shaoduo Gan, Ammar Ahmad Awan, Samyam Rajbhandari, Conglong Li, Xiangru Lian, Ji Liu, Ce Zhang, Yuxiong He. (2021) 1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed. [arXiv:2102.02888](https://arxiv.org/abs/2102.02888) and [ICML 2021](http://proceedings.mlr.press/v139/tang21a.html).
+
+  6. Samyam Rajbhandari, Olatunji Ruwase, Jeff Rasley, Shaden Smith, Yuxiong He. (2021) ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning. [arXiv:2104.07857](https://arxiv.org/abs/2104.07857) and [SC 2021](https://dl.acm.org/doi/abs/10.1145/3458817.3476205). [[paper]](https://arxiv.org/abs/2104.07857) [[slides]](/microsoft/DeepSpeed/blob/master/docs/assets/files/SC21-ZeRO-Infinity.pdf) [[blog]](https://www.microsoft.com/en-us/research/blog/zero-infinity-and-deepspeed-unlocking-unprecedented-model-scale-for-deep-learning-training/)
+
+  7. Conglong Li, Ammar Ahmad Awan, Hanlin Tang, Samyam Rajbhandari, Yuxiong He. (2021) 1-bit LAMB: Communication Efficient Large-Scale Large-Batch Training with LAMB's Convergence Speed. [arXiv:2104.06069](https://arxiv.org/abs/2104.06069) and [HiPC 2022](https://hipc.org/advance-program/).
+
+  8. Conglong Li, Minjia Zhang, Yuxiong He. (2021) The Stability-Efficiency Dilemma: Investigating Sequence Length Warmup for Training GPT Models. [arXiv:2108.06084](https://arxiv.org/abs/2108.06084) and [NeurIPS 2022](https://openreview.net/forum?id=JpZ5du_Kdh).
+
+  9. Yucheng Lu, Conglong Li, Minjia Zhang, Christopher De Sa, Yuxiong He. (2022) Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam. [arXiv:2202.06009](https://arxiv.org/abs/2202.06009).
+
+  10. Samyam Rajbhandari, Conglong Li, Zhewei Yao, Minjia Zhang, Reza Yazdani Aminabadi, Ammar Ahmad Awan, Jeff Rasley, Yuxiong He. (2022) DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale [arXiv:2201.05596](https://arxiv.org/abs/2201.05596) and [ICML 2022](https://proceedings.mlr.press/v162/rajbhandari22a.html). [[pdf]](https://arxiv.org/abs/2201.05596) [[slides]](/microsoft/DeepSpeed/blob/master/docs/assets/files/ICML-5mins.pdf) [[blog]](https://www.microsoft.com/en-us/research/blog/deepspeed-advancing-moe-inference-and-training-to-power-next-generation-ai-scale/)
+
+  11. Shaden Smith, Mostofa Patwary, Brandon Norick, Patrick LeGresley, Samyam Rajbhandari, Jared Casper, Zhun Liu, Shrimai Prabhumoye, George Zerveas, Vijay Korthikanti, Elton Zhang, Rewon Child, Reza Yazdani Aminabadi, Julie Bernauer, Xia Song, Mohammad Shoeybi, Yuxiong He, Michael Houston, Saurabh Tiwary, Bryan Catanzaro. (2022) Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model [arXiv:2201.11990](https://arxiv.org/abs/2201.11990).
+
+  12. Xiaoxia Wu, Zhewei Yao, Minjia Zhang, Conglong Li, Yuxiong He. (2022) Extreme Compression for Pre-trained Transformers Made Simple and Efficient. [arXiv:2206.01859](https://arxiv.org/abs/2206.01859) and [NeurIPS 2022](https://openreview.net/forum?id=xNeAhc2CNAl).
+
+  13. Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, Conglong Li, Yuxiong He. (2022) ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers. [arXiv:2206.01861](https://arxiv.org/abs/2206.01861) and [NeurIPS 2022](https://openreview.net/forum?id=f-fVCElZ-G1) [[slides]](/microsoft/DeepSpeed/blob/master/docs/assets/files/zeroquant_series.pdf) [[blog]](https://www.microsoft.com/en-us/research/blog/deepspeed-compression-a-composable-library-for-extreme-compression-and-zero-cost-quantization/)
+
+  14. Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He. (2022) DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale. [arXiv:2207.00032](https://arxiv.org/abs/2207.00032) and [SC 2022](https://dl.acm.org/doi/abs/10.5555/3571885.3571946). [[paper]](https://arxiv.org/abs/2207.00032) [[slides]](/microsoft/DeepSpeed/blob/master/docs/assets/files/sc22-ds-inference.pdf) [[blog]](https://www.microsoft.com/en-us/research/blog/deepspeed-accelerating-large-scale-model-inference-and-training-via-system-optimizations-and-compression/)
+
+  15. Zhewei Yao, Xiaoxia Wu, Conglong Li, Connor Holmes, Minjia Zhang, Cheng Li, Yuxiong He. (2022) Random-LTD: Random and Layerwise Token Dropping Brings Efficient Training for Large-scale Transformers. [arXiv:2211.11586](https://arxiv.org/abs/2211.11586).
+
+  16. Conglong Li, Zhewei Yao, Xiaoxia Wu, Minjia Zhang, Yuxiong He. (2022) DeepSpeed Data Efficiency: Improving Deep Learning Model Quality and Training Efficiency via Efficient Data Sampling and Routing. [arXiv:2212.03597](https://arxiv.org/abs/2212.03597) [ENLSP2023 Workshop at NeurIPS2023](https://neurips2023-enlsp.github.io/)
+
+  17. Xiaoxia Wu, Cheng Li, Reza Yazdani Aminabadi, Zhewei Yao, Yuxiong He. (2023) Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases. [arXiv:2301.12017](https://arxiv.org/abs/2301.12017) and [ICML2023](https://icml.cc/Conferences/2023).
+
+  18. Syed Zawad, Cheng Li, Zhewei Yao, Elton Zheng, Yuxiong He, Feng Yan. (2023) DySR: Adaptive Super-Resolution via Algorithm and System Co-design. [ICLR:2023](https://openreview.net/forum?id=Pgtn4l6eKjv).
+
+  19. Sheng Shen, Zhewei Yao, Chunyuan Li, Trevor Darrell, Kurt Keutzer, Yuxiong He. (2023) Scaling Vision-Language Models with Sparse Mixture of Experts. [arXiv:2303.07226](https://arxiv.org/abs/2303.07226) and [Finding at EMNLP2023](https://2023.emnlp.org/).
+
+  20. Quentin Anthony, Ammar Ahmad Awan, Jeff Rasley, Yuxiong He, Aamir Shafi, Mustafa Abduljabbar, Hari Subramoni, Dhabaleswar Panda. (2023) MCR-DL: Mix-and-Match Communication Runtime for Deep Learning [arXiv:2303.08374](https://arxiv.org/abs/2303.08374) and will appear at IPDPS 2023.
+
+  21. Siddharth Singh, Olatunji Ruwase, Ammar Ahmad Awan, Samyam Rajbhandari, Yuxiong He, Abhinav Bhatele. (2023) A Hybrid Tensor-Expert-Data Parallelism Approach to Optimize Mixture-of-Experts Training [arXiv:2303.06318](https://arxiv.org/abs/2303.06318) and will appear at ICS 2023.
+
+  22. Guanhua Wang, Heyang Qin, Sam Ade Jacobs, Xiaoxia Wu, Connor Holmes, Zhewei Yao, Samyam Rajbhandari, Olatunji Ruwase, Feng Yan, Lei Yang, Yuxiong He. (2023) ZeRO++: Extremely Efficient Collective Communication for Giant Model Training [arXiv:2306.10209](https://arxiv.org/abs/2306.10209) and [ML for Sys Workshop at NeurIPS2023](http://mlforsystems.org/) [[blog]](https://www.microsoft.com/en-us/research/blog/deepspeed-zero-a-leap-in-speed-for-llm-and-chat-model-training-with-4x-less-communication/)
+
+  23. Zhewei Yao, Xiaoxia Wu, Cheng Li, Stephen Youn, Yuxiong He. (2023) ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation [arXiv:2303.08302](https://arxiv.org/abs/2303.08302) and [ENLSP2023 Workshop at NeurIPS2023](https://neurips2023-enlsp.github.io/) [[slides]](/microsoft/DeepSpeed/blob/master/docs/assets/files/zeroquant_series.pdf)
+
+  24. Pareesa Ameneh Golnari, Zhewei Yao, Yuxiong He. (2023) Selective Guidance: Are All the Denoising Steps of Guided Diffusion Important? [arXiv:2305.09847](https://arxiv.org/abs/2305.09847)
+
+  25. Zhewei Yao, Reza Yazdani Aminabadi, Olatunji Ruwase, Samyam Rajbhandari, Xiaoxia Wu, Ammar Ahmad Awan, Jeff Rasley, Minjia Zhang, Conglong Li, Connor Holmes, Zhongzhu Zhou, Michael Wyatt, Molly Smith, Lev Kurilenko, Heyang Qin, Masahiro Tanaka, Shuai Che, Shuaiwen Leon Song, Yuxiong He. (2023) DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales [arXiv:2308.01320](https://arxiv.org/abs/2308.01320).
+
+  26. Xiaoxia Wu, Zhewei Yao, Yuxiong He. (2023) ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats [arXiv:2307.09782](https://arxiv.org/abs/2307.09782) and [ENLSP2023 Workshop at NeurIPS2023](https://neurips2023-enlsp.github.io/) [[slides]](/microsoft/DeepSpeed/blob/master/docs/assets/files/zeroquant_series.pdf)
+
+  27. Zhewei Yao, Xiaoxia Wu, Conglong Li, Minjia Zhang, Heyang Qin, Olatunji Ruwase, Ammar Ahmad Awan, Samyam Rajbhandari, Yuxiong He. (2023) DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via Multi-Modal Causal Attention [arXiv:2309.14327](https://arxiv.org/pdf/2309.14327.pdf)
+
+  28. Shuaiwen Leon Song, Bonnie Kruft, Minjia Zhang, Conglong Li, Shiyang Chen, Chengming Zhang, Masahiro Tanaka, Xiaoxia Wu, Jeff Rasley, Ammar Ahmad Awan, Connor Holmes, Martin Cai, Adam Ghanem, Zhongzhu Zhou, Yuxiong He, et al. (2023) DeepSpeed4Science Initiative: Enabling Large-Scale Scientific Discovery through Sophisticated AI System Technologies [arXiv:2310.04610](https://arxiv.org/abs/2310.04610) [[blog]](https://www.microsoft.com/en-us/research/blog/announcing-the-deepspeed4science-initiative-enabling-large-scale-scientific-discovery-through-sophisticated-ai-system-technologies/)
+
+  29. Zhewei Yao, Reza Yazdani Aminabadi, Stephen Youn, Xiaoxia Wu, Elton Zheng, Yuxiong He. (2023) ZeroQuant-HERO: Hardware-Enhanced Robust Optimized Post-Training Quantization Framework for W8A8 Transformers [arXiv:2310.17723](https://arxiv.org/abs/2310.17723)
+
+  30. Xiaoxia Wu, Haojun Xia, Stephen Youn, Zhen Zheng, Shiyang Chen, Arash Bakhtiari, Michael Wyatt, Reza Yazdani Aminabadi, Yuxiong He, Olatunji Ruwase, Leon Song, Zhewei Yao (2023) ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks [arXiv:2312.08583](https://arxiv.org/abs/2312.08583)
+
+  31. Haojun Xia, Zhen Zheng, Xiaoxia Wu, Shiyang Chen, Zhewei Yao, Stephen Youn, Arash Bakhtiari, Michael Wyatt, Donglin Zhuang, Zhongzhu Zhou, Olatunji Ruwase, Yuxiong He, Shuaiwen Leon Song. (2024) FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design [arXiv:2401.14112](https://arxiv.org/abs/2401.14112)
+
+  32. Sam Ade Jacobs, Masahiro Tanaka, Chengming Zhang, Minjia Zhang, Reza Yazdani Aminadabi, Shuaiwen Leon Song, Samyam Rajbhandari, Yuxiong He. (2024) [System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://dl.acm.org/doi/10.1145/3662158.3662806)
+
+  33. Xinyu Lian, Sam Ade Jacobs, Lev Kurilenko, Masahiro Tanaka, Stas Bekman, Olatunji Ruwase, Minjia Zhang. (2024) Universal Checkpointing: Efficient and Flexible Checkpointing for Large Scale Distributed Training [arXiv:2406.18820](https://arxiv.org/abs/2406.18820)
+
+
+
+
+# Videos
+
+[](#videos)
+
+  1. DeepSpeed KDD 2020 Tutorial 
+    1. [Overview](https://www.youtube.com/watch?v=CaseqC45DNc&list=PLa85ZdUjfWS21mgibJ2vCvLziprjpKoW0&index=29)
+    2. [ZeRO + large model training](https://www.youtube.com/watch?v=y4_bCiAsIAk&list=PLa85ZdUjfWS21mgibJ2vCvLziprjpKoW0&index=28)
+    3. [17B T-NLG demo](https://www.youtube.com/watch?v=9V-ZbP92drg&list=PLa85ZdUjfWS21mgibJ2vCvLziprjpKoW0&index=27)
+    4. [Fastest BERT training + RScan tuning](https://www.youtube.com/watch?v=o1K-ZG9F6u0&list=PLa85ZdUjfWS21mgibJ2vCvLziprjpKoW0&index=26)
+    5. DeepSpeed hands on deep dive: [part 1](https://www.youtube.com/watch?v=_NOk-mBwDYg&list=PLa85ZdUjfWS21mgibJ2vCvLziprjpKoW0&index=92), [part 2](https://www.youtube.com/watch?v=sG6_c4VXLww&list=PLa85ZdUjfWS21mgibJ2vCvLziprjpKoW0&index=94), [part 3](https://www.youtube.com/watch?v=k9yPkBTayos&list=PLa85ZdUjfWS21mgibJ2vCvLziprjpKoW0&index=93)
+    6. [FAQ](https://www.youtube.com/watch?v=nsHu6vEgPew&list=PLa85ZdUjfWS21mgibJ2vCvLziprjpKoW0&index=24)
+  2. Microsoft Research Webinar 
+     * Registration is free and all videos are available on-demand.
+     * [ZeRO & Fastest BERT: Increasing the scale and speed of deep learning training in DeepSpeed](https://note.microsoft.com/MSR-Webinar-DeepSpeed-Registration-On-Demand.html).
+  3. [DeepSpeed on AzureML](https://youtu.be/yBVXR8G8Bg8)
+  4. [Large Model Training and Inference with DeepSpeed // Samyam Rajbhandari // LLMs in Prod Conference](https://www.youtube.com/watch?v=cntxC3g22oU) [[slides]](/microsoft/DeepSpeed/blob/master/docs/assets/files/presentation-mlops.pdf)
+  5. Community Tutorials 
+     * [DeepSpeed: All the tricks to scale to gigantic models (Mark Saroufim)](https://www.youtube.com/watch?v=pDGI668pNg0)
+     * [Turing-NLG, DeepSpeed and the ZeRO optimizer (Yannic Kilcher)](https://www.youtube.com/watch?v=tC01FRB0M7w)
+     * [Ultimate Guide To Scaling ML Models (The AI Epiphany)](https://www.youtube.com/watch?v=hc0u4avAkuM)
+
+
+
+## About
+
+DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. 
+
+[www.deepspeed.ai/](https://www.deepspeed.ai/ "https://www.deepspeed.ai/")
+
+### Topics
+
+[ machine-learning ](/topics/machine-learning "Topic: machine-learning") [ compression ](/topics/compression "Topic: compression") [ deep-learning ](/topics/deep-learning "Topic: deep-learning") [ gpu ](/topics/gpu "Topic: gpu") [ inference ](/topics/inference "Topic: inference") [ pytorch ](/topics/pytorch "Topic: pytorch") [ zero ](/topics/zero "Topic: zero") [ data-parallelism ](/topics/data-parallelism "Topic: data-parallelism") [ model-parallelism ](/topics/model-parallelism "Topic: model-parallelism") [ mixture-of-experts ](/topics/mixture-of-experts "Topic: mixture-of-experts") [ pipeline-parallelism ](/topics/pipeline-parallelism "Topic: pipeline-parallelism") [ billion-parameters ](/topics/billion-parameters "Topic: billion-parameters") [ trillion-parameters ](/topics/trillion-parameters "Topic: trillion-parameters")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/microsoft/DeepSpeed/activity)
+
+[ Custom properties](/microsoft/DeepSpeed/custom-properties)
+
+### Stars
+
+[ **36.3k** stars](/microsoft/DeepSpeed/stargazers)
+
+### Watchers
+
+[ **349** watching](/microsoft/DeepSpeed/watchers)
+
+### Forks
+
+[ **4.2k** forks](/microsoft/DeepSpeed/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2FDeepSpeed&report=microsoft+%28user%29)
+
+##  [Releases 86](/microsoft/DeepSpeed/releases)
+
+[ v0.16.3 Patch Release Latest  Jan 21, 2025 ](/microsoft/DeepSpeed/releases/tag/v0.16.3)
+
+[+ 85 releases](/microsoft/DeepSpeed/releases)
+
+##  [Packages 0](/orgs/microsoft/packages?repo_name=DeepSpeed)
+
+No packages published 
+
+##  [Used by 10.4k](/microsoft/DeepSpeed/network/dependents)
+
+[
+
+  * ![@chris1220313648](https://avatars.githubusercontent.com/u/102129825?s=64&v=4)
+  * ![@maodong2056](https://avatars.githubusercontent.com/u/28977460?s=64&v=4)
+  * ![@X-LANCE](https://avatars.githubusercontent.com/u/35554183?s=64&v=4)
+  * ![@intelligent-machine-learning](https://avatars.githubusercontent.com/u/107632618?s=64&v=4)
+  * ![@videommmu](https://avatars.githubusercontent.com/u/196011024?s=64&v=4)
+  * ![@xqun3](https://avatars.githubusercontent.com/u/9492425?s=64&v=4)
+  * ![@littlespray](https://avatars.githubusercontent.com/u/35391174?s=64&v=4)
+  * ![@Applied-Machine-Learning-Lab](https://avatars.githubusercontent.com/u/106729116?s=64&v=4)
+
++ 10,407  ](/microsoft/DeepSpeed/network/dependents)
+
+##  [Contributors 399](/microsoft/DeepSpeed/graphs/contributors)
+
+  * [ ![@jeffra](https://avatars.githubusercontent.com/u/645595?s=64&v=4) ](https://github.com/jeffra)
+  * [ ![@tjruwase](https://avatars.githubusercontent.com/u/4271600?s=64&v=4) ](https://github.com/tjruwase)
+  * [ ![@loadams](https://avatars.githubusercontent.com/u/114770087?s=64&v=4) ](https://github.com/loadams)
+  * [ ![@mrwyattii](https://avatars.githubusercontent.com/u/18311180?s=64&v=4) ](https://github.com/mrwyattii)
+  * [ ![@ShadenSmith](https://avatars.githubusercontent.com/u/620322?s=64&v=4) ](https://github.com/ShadenSmith)
+  * [ ![@RezaYazdaniAminabadi](https://avatars.githubusercontent.com/u/44502768?s=64&v=4) ](https://github.com/RezaYazdaniAminabadi)
+  * [ ![@stas00](https://avatars.githubusercontent.com/u/10676103?s=64&v=4) ](https://github.com/stas00)
+  * [ ![@tohtana](https://avatars.githubusercontent.com/u/81312776?s=64&v=4) ](https://github.com/tohtana)
+  * [ ![@awan-10](https://avatars.githubusercontent.com/u/9065216?s=64&v=4) ](https://github.com/awan-10)
+  * [ ![@conglongli](https://avatars.githubusercontent.com/u/4238238?s=64&v=4) ](https://github.com/conglongli)
+  * [ ![@lekurile](https://avatars.githubusercontent.com/u/113481193?s=64&v=4) ](https://github.com/lekurile)
+  * [ ![@samyam](https://avatars.githubusercontent.com/u/3409344?s=64&v=4) ](https://github.com/samyam)
+  * [ ![@cmikeh2](https://avatars.githubusercontent.com/u/2001145?s=64&v=4) ](https://github.com/cmikeh2)
+  * [ ![@HeyangQin](https://avatars.githubusercontent.com/u/46639297?s=64&v=4) ](https://github.com/HeyangQin)
+
+
+
+[+ 385 contributors](/microsoft/DeepSpeed/graphs/contributors)
+
+## Languages
+
+  * [ Python 69.9% ](/microsoft/DeepSpeed/search?l=python)
+  * [ C++ 19.5% ](/microsoft/DeepSpeed/search?l=c%2B%2B)
+  * [ Cuda 9.7% ](/microsoft/DeepSpeed/search?l=cuda)
+  * [ Shell 0.4% ](/microsoft/DeepSpeed/search?l=shell)
+  * [ C 0.4% ](/microsoft/DeepSpeed/search?l=c)
+  * [ Dockerfile 0.1% ](/microsoft/DeepSpeed/search?l=dockerfile)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

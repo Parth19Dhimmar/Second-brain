@@ -1,0 +1,94 @@
+[ ](/)
+
+[ ](https://twitter.com/paperswithcode)
+
+  * [ Browse State-of-the-Art ](/sota)
+  * [ Datasets ](/datasets)
+  * [Methods](/methods)
+  * More 
+
+[Newsletter](/newsletter) [RC2022](/rc2022) [About](/about) [Trends](/trends) [ Portals ](https://portal.paperswithcode.com/) [ Libraries ](/libraries)
+
+
+
+  * [ ](https://twitter.com/paperswithcode)
+  * [Sign In](/accounts/login?next=/sota/code-generation-on-humaneval/)
+
+
+
+### Subscribe to the PwC Newsletter
+
+×
+
+Stay informed on the latest trending ML papers with code, research developments, libraries, methods, and datasets. [Read previous issues](/newsletter)
+
+Subscribe
+
+##### Join the community
+
+×
+
+You need to [log in](/accounts/login?next=/sota/code-generation-on-humaneval/) to edit. You can [create a new account](/accounts/register?next=/sota/code-generation-on-humaneval/) if you don't have one. 
+
+[ ![](https://production-media.paperswithcode.com/thumbnails/task/658fcf6a-52ca-4865-b111-28bf61c346dc.jpg) Code Generation ](/task/code-generation)
+
+# Code Generation on HumanEval
+
+  * [Leaderboard](#)
+  * [Community Models](#)
+  * [Dataset](#)
+
+
+
+View
+
+Pass@1
+
+by 
+
+Date
+
+All competition entriesPublished models only
+
+Created with Highcharts 9.3.0PASS@1MetaGPT (GPT-4)​MetaGPT (GPT-4)OctorCoder (GPT-4)​OctorCoder (GPT-4)L2MAC (GPT-4)​L2MAC (GPT-4)AgentCoder (GPT-4)​AgentCoder (GPT-4)LDB (GPT-4o)​LDB (GPT-4o)Chart context menuOther modelsModels with highest Pass@1Sep '23Nov '23Jan '24Mar '24May '24Jul '24Sep '24Nov '2480859095100
+
+Filter: mythuntagged
+
+Edit Leaderboard
+
+Rank| Model| Pass@1| Paper| Code| Result| Year| Tags  
+---|---|---|---|---|---|---|---  
+1| [LDB (GPT-4o)](/paper/ldb-a-large-language-model-debugger-via)| 98.2| [Debug like a Human: A Large Language Model Debugger via Verifying Runtime Execution Step-by-step](/paper/ldb-a-large-language-model-debugger-via)| [](/paper/ldb-a-large-language-model-debugger-via#code)| [Enter](/paper/ldb-a-large-language-model-debugger-via#results)| 2024  
+2| [AgentCoder (GPT-4)](/paper/agentcoder-multi-agent-based-code-generation)| 96.3| [AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation](/paper/agentcoder-multi-agent-based-code-generation)| [](/paper/agentcoder-multi-agent-based-code-generation#code)| [Enter](/paper/agentcoder-multi-agent-based-code-generation/review/?hl=118774)| 2023  
+3| [AFlow(GPT-4o-mini)](/paper/aflow-automating-agentic-workflow-generation)| 94.7| [AFlow: Automating Agentic Workflow Generation](/paper/aflow-automating-agentic-workflow-generation)| [](/paper/aflow-automating-agentic-workflow-generation#code)| [Enter](/paper/aflow-automating-agentic-workflow-generation#results)| 2024  
+4| [MGDebugger (DeepSeek-Coder-V2-Lite)](/paper/from-code-to-correctness-closing-the-last)| 94.5| [From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging](/paper/from-code-to-correctness-closing-the-last)| [](/paper/from-code-to-correctness-closing-the-last#code)| [Enter](/paper/from-code-to-correctness-closing-the-last/review/?hl=130376)| 2024  
+5| [MapCoder (GPT-4)](/paper/mapcoder-multi-agent-code-generation-for)| 93.9| [MapCoder: Multi-Agent Code Generation for Competitive Problem Solving](/paper/mapcoder-multi-agent-code-generation-for)| [](/paper/mapcoder-multi-agent-code-generation-for#code)| [Enter](/paper/mapcoder-multi-agent-code-generation-for#results)| 2024  
+6| Claude 3.5 Sonnet (0-shot)| 92.0| 2024| myth  
+7| FractalResearch : Pioneer-SWO (GPT-4-turbo)| 91.65  
+8| [L2MAC (GPT-4)](/paper/l2mac-large-language-model-automatic-computer)| 90.2| [L2MAC: Large Language Model Automatic Computer for Extensive Code Generation](/paper/l2mac-large-language-model-automatic-computer)| [](/paper/l2mac-large-language-model-automatic-computer#code)| [Enter](/paper/l2mac-large-language-model-automatic-computer/review/?hl=120475)| 2023  
+9| [GPT-4o (0-shot)](/paper/claude-3-5-sonnet-model-card-addendum)| 90.2| [Claude 3.5 Sonnet Model Card Addendum](/paper/claude-3-5-sonnet-model-card-addendum)| [Enter](/paper/claude-3-5-sonnet-model-card-addendum#results)| 2024| myth  
+10| [OctorCoder (GPT-4)](/paper/octopack-instruction-tuning-code-large)| 86.6| [OctoPack: Instruction Tuning Code Large Language Models](/paper/octopack-instruction-tuning-code-large)| [](/paper/octopack-instruction-tuning-code-large#code)| [Enter](/paper/octopack-instruction-tuning-code-large#results)| 2023  
+11| Spark_FP16_medium_v4.1.1| 85.97| 2024  
+12| [MetaGPT (GPT-4)](/paper/metagpt-meta-programming-for-multi-agent)| 85.9| [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](/paper/metagpt-meta-programming-for-multi-agent)| [](/paper/metagpt-meta-programming-for-multi-agent#code)| [Enter](/paper/metagpt-meta-programming-for-multi-agent/review/?hl=107865)| 2023  
+  
+View
+
+Pass@1
+
+by 
+
+Date
+
+Created with Highcharts 9.3.0PASS@1replit-code-v1-3b​replit-code-v1-3bChart context menuOther modelsModels with highest Pass@121. Jul0.219
+
+Filter: untagged
+
+Rank| Model| Pass@1| Details| Year| Tags  
+---|---|---|---|---|---  
+1| [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b)| 0.219| [](https://huggingface.co/replit/replit-code-v1-3b)| 2023  
+  
+[HumanEvalThis is an evaluation harness for the HumanEval problem solving dataset described in the paper "Evaluating Large Language Models Trained on Code". It used to measure functional correctness for synthesizing programs from docstrings. It consists of 164 original programming problems, assessing language comprehension, algorithms, and simple mathematics, with some comparable to simple software interview questions.](/dataset/humaneval)
+
+Contact us on: hello@paperswithcode.com .  Papers With Code is a free resource with all data licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). 
+
+[Terms](/site/terms) [Data policy](/site/data-policy) [Cookies policy](/site/cookies-policy) [ from ![]() ](/about#team)

@@ -1,0 +1,301 @@
+[Generally Available: The world's fastest and most accurate Whisper transcription](https://www.baseten.co/blog/the-fastest-most-accurate-and-cost-efficient-whisper-transcription/)
+
+[](/)
+
+  * [Model library](/library/)
+  * [Solutions](#)
+
+**Use Case**
+    * [Transcription](/solutions/transcription/)
+    * [Large language models](/solutions/llms/)
+    * [Image generation](/solutions/image-generation/)
+    * [Text-to-speech](/solutions/text-to-speech/)
+    * [Compound AI](/solutions/compound-ai/)
+    * [Embeddings](/solutions/embeddings/)
+
+**Deployments**
+    * [Baseten Cloud](/deployments/baseten-cloud/)
+    * [Baseten Self-hosted](/deployments/baseten-self-hosted/)
+    * [Baseten Hybrid](/deployments/baseten-hybrid/)
+
+  * [Documentation](https://docs.baseten.co/)
+  * [Customers](/customers/)
+  * [Pricing](/pricing/)
+  * [Resources](#)
+
+    * [Blog](/blog/)
+    * [Careers](/careers/)
+    * [Changelog](/changelog/)
+    * [Events](/resources/event/)
+    * [Guides](/resources/guide/)
+    * [Webinars](/resources/webinar/)
+
+
+
+
+  * [Sign in](https://app.baseten.co/login/)
+  * [Sign up](https://app.baseten.co/signup/)
+
+
+
+[](/)
+
+  * [Model library](/library/)
+  * [Solutions](#)
+
+**Use Case**
+    * [Transcription](/solutions/transcription/)
+    * [Large language models](/solutions/llms/)
+    * [Image generation](/solutions/image-generation/)
+    * [Text-to-speech](/solutions/text-to-speech/)
+    * [Compound AI](/solutions/compound-ai/)
+    * [Embeddings](/solutions/embeddings/)
+
+**Deployments**
+    * [Baseten Cloud](/deployments/baseten-cloud/)
+    * [Baseten Self-hosted](/deployments/baseten-self-hosted/)
+    * [Baseten Hybrid](/deployments/baseten-hybrid/)
+
+  * [Documentation](https://docs.baseten.co/)
+  * [Customers](/customers/)
+  * [Pricing](/pricing/)
+  * [Resources](#)
+
+    * [Blog](/blog/)
+    * [Careers](/careers/)
+    * [Changelog](/changelog/)
+    * [Events](/resources/event/)
+    * [Guides](/resources/guide/)
+    * [Webinars](/resources/webinar/)
+
+
+
+  * [Sign in](https://app.baseten.co/login/)
+  * [Sign up](https://app.baseten.co/signup/)
+
+
+
+[Baseten](/) / [Blog](/blog/) / [Glossary](/blog/category/glossary/)
+
+# Continuous vs dynamic batching for AI inference
+
+![]()![]()![Philip Kiely](https://www.datocms-assets.com/104802/1697123627-headshot_2023-1.png?auto=format&fill=blur&fit=fillmax&w=50)
+
+![]()![]()![Matt Howard](https://www.datocms-assets.com/104802/1711642957-1631497277111-edited.png?auto=format&fill=blur&fit=fillmax&w=50)
+
+[Matt Howard](/author/matt-howard/)
+
+[Philip Kiely](/author/philip-kiely/)
+
+![]()![]()![Prompt: A batch of candy being processed on a fantasy assembly line](https://www.datocms-assets.com/104802/1712336959-playground-2-copy.png?auto=format&fit=crop&h=325&w=675)
+
+### Share
+
+  * [](https://twitter.com/intent/tweet?text=Continuous vs dynamic batching for AI inference&url=https://www.baseten.co/blog/continuous-vs-dynamic-batching-for-ai-inference/&via=basetenco)
+  * [](https://www.linkedin.com/shareArticle?mini=true&url=https://www.baseten.co/blog/continuous-vs-dynamic-batching-for-ai-inference/&title=Continuous vs dynamic batching for AI inference)
+  * [](https://www.facebook.com/sharer/sharer.php?u=https://www.baseten.co/blog/continuous-vs-dynamic-batching-for-ai-inference/)
+
+
+
+### TL;DR
+
+When using AI models in production, batching makes good use of GPU resources by processing multiple requests to a model simultaneously. But different methods for batching are appropriate in different cases. To maximize throughput of AI inference, use continuous batching for most LLM deployments and dynamic batching for most other models.
+
+Batch inference is essential for serving LLMs and other generative models in production. If you only run one request at a time through a GPU, most of its capacity is sitting idle. Running multiple inputs through the model simultaneously uses more of the GPU’s resources to massively increase the throughput of your model deployment. However, it’s important to choose the right strategy for batch inference to make sure your model still performs well on other important metrics like latency.
+
+There are four ways inference requests can be batched on a GPU:
+
+  1. No batching: each request is processed one at a time.
+
+  2. Static batching: requests are placed in batches that are run when full.
+
+  3. Dynamic batching: requests are placed in batches as they’re received and batches run once full or once enough time has elapsed since the first request.
+
+  4. Continuous batching: requests are processed token-by-token, with new requests getting processed as older requests finish and free up space on the GPU.
+
+
+
+
+Batching method depends on model architecture and modality. In production, you’ll generally want continuous batching for LLMs and dynamic batching for most other generative models.
+
+In this article, we’ll examine the different methods for batching inference requests to AI models and the suitable uses for each approach. We’ll limit our discussion to batch inference on the GPU itself (there are other [opportunities to add concurrency](https://docs.baseten.co/performance/concurrency) in an end-to-end system) with a goal of maximizing the utilization of GPU resources.
+
+##  Naive implementation for basic testing
+
+The most naive implementation of any model server has no batching. Every request is processed individually in the order that it’s received.
+
+If you spin up a quick service with, say, FastAPI and PyTorch, you won’t get batching out of the box. That’s fine for basic development and testing, but wastes valuable GPU resources in production.
+
+Without batching, most of the GPU capacity on the model serving instance is idle. Imagine a road full of cars where every car has only its driver, no passengers. Most cars can fit at least four people, so a lot of capacity is going unused. This is exactly what’s happening on your GPU.
+
+##  Static batching for scheduled load
+
+Static batching is the simplest method for batching requests. But it can increase latency substantially, limiting its use cases.
+
+When running inference on an LLM, or many other ML models, your bottleneck is the memory bandwidth used to load model weights. Model weights are much bigger than the activations (which are the "state" of a request mid-processing), so when loading a single layer of weights into the GPU's cache, you want to share that cost across processing many independent sets of activations. This gets you much better throughput than loading one layer of weights and computing it on one activation at a time.
+
+If running each request individually is like everyone driving their own car, batching is like a bus. If the bus operates on static batching, the driver waits for the bus to fill entirely, then drives off to the destination. This ensures that the bus is full every time it goes through its route. Similarly, static batching for model inference waits until a set number of requests has been received, then runs a single batch to process the requests simultaneously.
+
+Static batching is most appropriate when latency isn’t an issue, like processing a huge corpus of documents on a daily cadence. Static batching pushes the complexity of orchestrating requests elsewhere in the system. Using static batching requires a well-managed queue of requests to feed the model and a method for accepting model output in large chunks.
+
+##  Dynamic batching for AI inference in production
+
+Static batching works well for daily jobs or behind-the-scenes processing. But for latency-sensitive production deployments, like generating images in response to user input, static batching won’t cut it.
+
+Returning to our bus analogy, imagine being the first person getting on the bus on a slow day. If you have to wait for the entire bus to fill up before you leave, you’ll be waiting a long time. But what if the driver started a timer when the first passenger got on the bus, and left when the bus was full or the timer ran out, whichever happens first. This way, you’re guaranteed to only wait a few minutes maximum.
+
+Dynamic batching works the same way. You set up dynamic batching with:
+
+  1. A preset maximum batch size, which you hope to reach before kicking off each run.
+
+  2. A window to wait after receiving the first request before running a partial batch.
+
+
+
+
+In the diagram below, we can see how dynamic batching results in shorter wait times when there is less traffic.
+
+✕
+
+![]()![]()![Dynamic batching runs batches once full or once a maximum time has elapsed, improving latency versus static batching while maintaining throughput in high-traffic periods.](https://www.datocms-assets.com/104802/1712337076-frame-2030.png?auto=format&fit=max&w=1200)
+
+Dynamic batching runs batches once full or once a maximum time has elapsed, improving latency versus static batching while maintaining throughput in high-traffic periods.
+
+Let’s say you set up your model server with a batch size of 16 requests and a window of 100 milliseconds. When the server receives its first request, it will:
+
+  1. Receive 15 more requests in under 100 milliseconds and immediately run a full batch, or
+
+  2. Receive fewer than 15 requests and run a partial batch once 100 milliseconds passes.
+
+
+
+
+Dynamic batching is great for live traffic on models like [Stable Diffusion XL](/library/stable-diffusion-xl/), where each inference request takes about the same amount of time. The right settings for your specific deployment depend on traffic patterns and latency requirements, but dynamic batching gives you flexibility across a wide range of options.
+
+##  Continuous batching for LLM inference in production
+
+While dynamic batching is great for modalities like image generation where each output takes about the same amount of time to create, we can do even better for LLMs with continuous batching.
+
+LLMs create a sequence of tokens as output. These output sequences will vary in length – the model could be answering a simple question or performing a detailed analysis with step-by-step reasoning. If you use a dynamic batching approach, each batch of requests is going to need to wait for the longest output to finish before the next batch can begin. This leaves GPU resources idle.
+
+Continuous batching works at the token level rather than at the request level. The bottleneck in LLM inference is loading model weights. So for continuous batching, the model server loads each layer of the model sequentially and applies it to the next token of each request. In continuous batching, the same model weights could be used to generate the fifth token of one response and the eighty-fifth token of another.
+
+In the bus example, continuous batching is similar to how bus routes work in the real world. As the driver goes through the route, passengers ride the bus for different amounts of time. When one passenger reaches their destination, that opens up a seat for a new passenger.
+
+✕
+
+![]()![]()![Continuous batching improves GPU utilization over dynamic batching by eliminating the idle time waiting for the longest response of each batch to finish.](https://www.datocms-assets.com/104802/1712337158-frame-2029.png?auto=format&fit=max&w=1200)
+
+Continuous batching improves GPU utilization over dynamic batching by eliminating the idle time waiting for the longest response of each batch to finish.
+
+One complication with continuous batching is that it takes a lot longer to generate the first token of a response than each subsequent token. This relies on a process called prefill, which is actually compute bound. But over the course of an entire request, next token prediction is the most expensive part, so it’s the part we focus on optimizing with continuous batching.
+
+Like with dynamic batching, you need to configure continuous batching based on your anticipated traffic patterns. You need to specify:
+
+  * Maximum batch size: how many requests the model can process at once.
+
+  * Anticipated sequence shapes: how many tokens the input and output sequences are expected to contain.
+
+
+
+
+Continuous batching is implemented at the inference server layer. Model servers like TGI and VLLM offer continuous batching, while TensorRT-LLM uses “in-flight batching” to essentially the same effect.
+
+Thanks to continuous batching, you can massively increase the throughput of your LLM deployments while still hitting ambitious latency targets. Read more about the tradeoffs between batch size and latency in our [guide to LLM benchmarking](/blog/understanding-performance-benchmarks-for-llm-inference/), or see a concrete example in our [benchmarking results for Mistral 7B](/blog/benchmarking-fast-mistral-7b-inference/).
+
+Table of Contents
+
+  * [Naive implementation for basic testing](#112924-naive-implementation-for-basic-testing)
+  * [Static batching for scheduled load](#112928-static-batching-for-scheduled-load)
+  * [Dynamic batching for AI inference in production](#3500572-dynamic-batching-for-ai-inference-in-production)
+  * [Continuous batching for LLM inference in production](#3500603-continuous-batching-for-llm-inference-in-production)
+
+
+
+## Subscribe to our newsletter
+
+Stay up to date on model performance, GPUs, and more.
+
+Email*
+
+### Related Glossary posts
+
+[View all **Glossary**](/blog/category/glossary/)
+
+## [A quick introduction to speculative decoding](/blog/a-quick-introduction-to-speculative-decoding/)
+
+Speculative decoding improves LLM inference latency by using a smaller model to generate draft tokens that the larger target model can accept during inference.
+
+![]()![]()![Philip Kiely](https://www.datocms-assets.com/104802/1697123627-headshot_2023-1.png?auto=format&fill=blur&fit=fillmax&w=50)
+
+![]()![]()![Justin Yi headshot](https://www.datocms-assets.com/104802/1692365087-6338a543c71f5034439daa68_img_776bw-p-500.jpeg?auto=format&fill=blur&fit=fillmax&w=50)
+
+![]()![]()![Pankaj Gupta headshot](https://www.datocms-assets.com/104802/1692365874-62570a69154458276850ebed_pankaj.png?auto=format&fill=blur&fit=fillmax&w=50)
+
+[Pankaj Gupta](/author/pankaj-gupta/)
+
+2 others
+
+![]()![]()![A ghostly, glowing llama walking ahead of a real llama](https://www.datocms-assets.com/104802/1734625556-dall-e-2024-12-19-09-30-24-a-photorealistic-movie-scene-at-night-in-a-peruvian-mountain-forest-a-glowing-ghostly-llama-with-a-translucent-ethereal-appearance-is-walking-ahead.webp?auto=format&crop=focalpoint&fit=crop&fp-x=0.49&fp-y=0.43&h=325&w=675)
+
+## [Building high-performance compound AI applications with MongoDB Atlas and Baseten](/blog/building-high-performance-compound-ai-applications-with-mongodb-atlas-and-baseten/)
+
+Using MongoDB Atlas and Baseten’s Chains framework for compound AI, you can build high-performance compound AI systems.
+
+![]()![]()![Philip Kiely](https://www.datocms-assets.com/104802/1697123627-headshot_2023-1.png?auto=format&fill=blur&fit=fillmax&w=50)
+
+[Philip Kiely](/author/philip-kiely/)
+
+![]()![]()![Leaf rocket](https://www.datocms-assets.com/104802/1726537344-playground.jpeg?auto=format&crop=focalpoint&fit=crop&fp-x=0.57&fp-y=0.47&h=325&w=675)
+
+## [Compound AI systems explained](/blog/compound-ai-systems-explained/)
+
+Compound AI systems combine multiple models and processing steps, and are forming the next generation of AI products.
+
+![]()![]()![Rachel Rapp headshot in black and white](https://www.datocms-assets.com/104802/1716998368-mypiccropped-edited.png?auto=format&fill=blur&fit=fillmax&w=50)
+
+[Rachel Rapp](/author/rachel-rapp/)
+
+![]()![]()![An AI-generated image representing a compound AI system with multiple components.](https://www.datocms-assets.com/104802/1722962169-compound_ai.png?auto=format&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.48&h=325&w=675)
+
+Popular models
+
+  * [DeepSeek-R1](/library/deepseek-r1/)
+  * [Llama 3.3 70B Instruct](/library/llama-3-3-70b-instruct/)
+  * [MARS6](/library/mars6/)
+  * [Qwen 2.5 32B Coder Instruct](/library/qwen-2-5-32b-coder-instruct/)
+  * [flux-schnell](/library/flux-schnell/)
+
+
+
+Product
+
+  * [Pricing](/pricing/)
+  * [Customer stories](/customers/)
+  * [Terms of service](/terms-and-conditions/)
+  * [Privacy policy](/privacy-policy/)
+  * [Security and trust](/trust/)
+
+
+
+Developers
+
+  * [Changelog](/changelog/)
+  * [Status](https://status.baseten.co/)
+  * [Docs](https://docs.baseten.co/)
+
+
+
+Company
+
+  * [About](/about/)
+  * [Blog](/blog/)
+  * [Careers](/careers/) We’re hiring
+
+
+
+[](/)
+
+[](https://github.com/basetenlabs)[](http://twitter.com/basetenco)[](https://www.linkedin.com/company/baseten)[](https://www.youtube.com/channel/UCOCLmqf7Jy3LcsO0SMBGP_Q)
+
+![Hipaa Compliant](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhipaa.2eb9b526.png&w=256&q=75)![SOC 2 Type II Certified](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fsoc2-type2.0821ffd3.png&w=256&q=75)

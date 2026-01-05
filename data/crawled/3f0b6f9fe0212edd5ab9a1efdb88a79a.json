@@ -1,0 +1,28 @@
+{
+    "id": "3f0b6f9fe0212edd5ab9a1efdb88a79a",
+    "metadata": {
+        "id": "3f0b6f9fe0212edd5ab9a1efdb88a79a",
+        "url": "https://www.notion.so/Utilities-3f0b6f9fe0212edd5ab9a1efdb88a79a",
+        "title": "Utilities",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "dff5e13e074dd23dc4d861c5fec39dd7",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n# Resources [Science]\n\n# Tools\n\n\t[https://github.com/dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)\n\t[https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)\n\t[https://github.com/BerriAI/litellm](https://github.com/BerriAI/litellm)\n\t[https://github.com/DS4SD/docling](https://github.com/DS4SD/docling)\n\t[https://github.com/mendableai/firecrawl](https://github.com/mendableai/firecrawl)\n\t[https://github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://github.com/dottxt-ai/outlines/",
+        "https://github.com/DS4SD/docling/",
+        "https://github.com/BerriAI/litellm/",
+        "https://github.com/mendableai/firecrawl/",
+        "https://github.com/microsoft/markitdown/",
+        "https://github.com/unclecode/crawl4ai/"
+    ]
+}

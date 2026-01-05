@@ -1,0 +1,32 @@
+# Notes
+
+
+
+<child_page>
+# With joblib Memory
+
+Repeated computations can slow down data preprocessing and feature engineering in machine learning. Using joblib.Memory, you can cache function outputs and avoid redundant calculations, improving efficiency.
+
+Why This Works
+This works by caching the results of expensive function calls to avoid redundant computations. Outputs are stored on disk and reused for identical inputs, saving time and resources. It scales well with large datasets and parameter variations, automatically invalidating outdated caches when code changes. This reduces the overhead of repeated tasks, speeding up iterative workflows and improving overall efficiency in machine learning pipelines.
+---
+
+```
+from joblib import Memory
+
+memory = Memory('cache_dir')
+
+@memory.cache
+def expensive_function(x):
+    return sum(range(x))
+````
+</child_page>
+
+
+---
+
+# Resources [Community]
+
+# Resources [Science]
+
+# Tools

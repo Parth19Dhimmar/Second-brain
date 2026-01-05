@@ -1,0 +1,341 @@
+[Webcast January 29: Why Didn't Serverless Take Off?](/serverless-past-present-future)
+
+[![DBOS - Logo](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/67241465129b580e4b924af4_Vectors-Wrapper.svg)](/)
+
+Products
+
+[DBOS CloudDeploy with a click, scale to millions](/dbos-cloud)[DBOS TransactBuild a reliable backend 10x faster.](/dbos-transact)
+
+[Pricing](/pricing)[Docs](https://docs.dbos.dev/)
+
+Resources
+
+[About DBOSSee our story, meet our team.](/about)[BlogThe latest on cloud & reliable backends.](/blog)[VideosDBOS concepts and best practices](/videos)
+
+[Start your project](https://console.dbos.dev/login-redirect)
+
+[Login](https://console.dbos.dev/login-redirect)
+
+[](https://github.com/dbos-inc/dbos-transact-py)[](https://discord.com/invite/jsmC6pXGgX)[Login](https://console.dbos.dev/login-redirect)
+
+[Start your project](https://console.dbos.dev/login-redirect)
+
+# Reliable backends,built effortlessly
+
+Reliable backends,built effortlessly
+
+DBOS is a serverless platform for building highly reliable applications.What takes days to build on AWS takes minutes on DBOS.
+
+[Start your project](https://console.dbos.dev/login-redirect)
+
+No credit card required.
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/6730407c420dae5eaf176275_Glow.svg)
+
+[Reliable workflows](#w-tabs-0-data-w-pane-0)[Event-driven processing](#w-tabs-0-data-w-pane-1)[Cron jobs](#w-tabs-0-data-w-pane-2)[Data pipelines](#w-tabs-0-data-w-pane-3)[Reliable AI agents](#w-tabs-0-data-w-pane-4)[Webhooks & notifications](#w-tabs-0-data-w-pane-5)
+
+## Create reliable workflows
+
+Write your business logic in normal code, with branches, loops, subtasks, and retries. DBOS makes it resilient to any failure.
+
+[See an example](https://docs.dbos.dev/python/tutorials/workflow-tutorial)
+
+@DBOS.workflow()def checkout_workflow(items): order = create_order() reserve_inventory(order, items) payment_status = process_payment(order, items) if payment_status == 'paid': fulfill_order(order) else: undo_reserve_inventory(order, items) cancel_order(order)
+
+## Event-driven processing
+
+Consume Kafka messages exactly-once, no need to worry about timeouts or offsets.
+
+[See an example](https://docs.dbos.dev/python/tutorials/kafka-integration)
+
+@DBOS.kafka_consumer(config,["alerts-topic"])@DBOS.workflow()def process_kafka_alerts(msg: KafkaMessage): alerts = msg.value.decode() for alert in alerts: respond_to_alert(alert)
+
+## Cron jobs made easy
+
+[See an example](https://docs.dbos.dev/python/examples/cron-starter)
+
+@DBOS.scheduled("0 * * * *") # Run once an hour@DBOS.workflow()def run_hourly(scheduled_time: datetime, actual_time: datetime): results = search_hackernews("serverless") for comment, url in results: post_to_slack(comment, url)
+
+## Resilient data pipelines
+
+Build data pipelines that are reliable and observable by default.DBOS durable queues guarantee all your tasks complete.
+
+[See an example](https://docs.dbos.dev/python/examples/document-detective)
+
+queue = Queue("indexing_queue")@DBOS.workflow()def indexing_workflow(urls: List[HttpUrl]): handles: List[WorkflowHandle] = [] for url in urls: handle = queue.enqueue(index_document, url) handles.append(handle) indexed_pages = 0 for handle in handles: indexed_pages += handle.get_result() logger.info(f"Indexed {len(urls)} documents totaling {indexed_pages} pages")
+
+## Reliable AI agents
+
+Enhance your AI workflows with DBOS, build reliable AI agents with automatic retries and no limit on how long they can run for.
+
+[See an example](https://docs.dbos.dev/python/examples/reliable-ai-agent)
+
+@DBOS.step(retries_allowed=True, max_attempts=2)def process_refund(item, reason): return f"Processed refund for item {item}, because {reason}"@DBOS.step(retries_allowed=True, max_attempts=3)def apply_discount(amount): return f"Applied discount of {amount}%"refunds_agent = Agent( name="Refunds Agent", instructions="Help the user with a refund. If the reason is that it was too expensive, offer the user a refund code.", functions=[process_refund, apply_discount],)
+
+## Webhooks & notifications
+
+Effortlessly mix synchronous webhook code with asynchronous event processing. Reliably wait weeks or months for events, then use idempotency and durable execution to process them exactly once.
+
+[See an example](https://docs.dbos.dev/python/examples/rag-slackbot)
+
+@slackapp.message()def handle_message(request: BoltRequest) -> None: event_id = request.body["event_id"] with SetWorkflowID(event_id):DBOS.start_workflow(message_workflow, request.body["event"])
+
+[![Gartner Cool Vendor 2024 - Badge](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/6724211a9ec6f0803fe3cdea_Gartner-Cool-Vendor-Badge-DBOS.jpg)2024 Gartner® Cool Vendor™Enabling Efficient Cloud Operations](https://www.dbos.dev/blog/dbos-2024-gartner-cool-vendor)
+
+### Brands building 10x faster
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/673d27061af0558b20254b3e_zeep-chat.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/67242fbc49dd3e04041ba3db_Bighire.io.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/67242fd05d5d91b38b2f3a9a_TMG.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/673d27061af0558b20254b3e_zeep-chat.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/67242fbc49dd3e04041ba3db_Bighire.io.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/67242fd05d5d91b38b2f3a9a_TMG.svg)
+
+### Brands building 10x faster
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/673d27061af0558b20254b3e_zeep-chat.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/67242fbc49dd3e04041ba3db_Bighire.io.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/67242fd05d5d91b38b2f3a9a_TMG.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/673d27061af0558b20254b3e_zeep-chat.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/67242fbc49dd3e04041ba3db_Bighire.io.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/67242fd05d5d91b38b2f3a9a_TMG.svg)
+
+### Brands building 10x faster
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/673d27061af0558b20254b3e_zeep-chat.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/67242fbc49dd3e04041ba3db_Bighire.io.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/67242fd05d5d91b38b2f3a9a_TMG.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/673d27061af0558b20254b3e_zeep-chat.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/67242fbc49dd3e04041ba3db_Bighire.io.svg)
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/67242fd05d5d91b38b2f3a9a_TMG.svg)
+
+## Reliable backends built in minutes, not months.
+
+Reliable backends built in minutes, not months.
+
+### Build 10x faster
+
+Just code your business logic – that’s it.DBOS makes your apps reliable and observable by default.
+
+Compatible with: Python Typescript Postgres AWS Node.js Kafka
+
+### Only pay while code executes
+
+Serverless architecture means you don’t pay for idled CPU time.So while DBOS is doing more, you’re paying less.
+
+### Deploy with a single click
+
+Serverlessly deploy your application with a single command.Automatically scale to millions of users.
+
+![DBOS Transact Workflow Example](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/673a854f6ccbf2bcc1194c16_dbos-workflow-benefit.png)![](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/6734538fc3243e10a4adce18_pay-per-use.png)![](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/6732fea346ae1a82629631b0_dbos-executing-25x-faster-than-aws-lambda.png)
+
+[Start your project](https://console.dbos.dev/login-redirect)
+
+No credit card required.
+
+## Easy to launch. Easy to scale.
+
+With one-click deployment, DBOS makes serverless simple.
+
+[![](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/673a85dd8fe1d3908b86838f_dbos-transact-workflow-clipped.svg)](/dbos-transact)
+
+### DBOS Transact
+
+A lightweight, open-source library for building highly reliable backends
+
+  * Simply decorate your code to make it crashproof
+  * 100% open-source, run it anywhere
+  * Automatically generate and visualize workflow traces
+
+[Explore DBOS Transact](/dbos-transact)
+
+[![](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/673a80a02dd4689bf7a818ab_dbos-cloud-browser-clipped.svg)](/dbos-cloud)
+
+### DBOS Cloud 
+
+A seriously fast serverless platform for running cloud-native backends. 
+
+  * Up to 25x faster than AWS Lambda + Step Functions
+  * Only pay for the CPU time you actually use
+  * Deploy with a click, scale to millions. 
+
+[Explore DBOS Cloud](/dbos-cloud)
+
+![PostgreSQL Logo](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/6732fea3f44509e2e17be72e_PostgreSQL.png)
+
+![Kafka Logo](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/6732fea312040db93b3f450a_Kafka.png)
+
+#### Build with your favorite tools
+
+DBOS works with your favorite tools and languages, including TypeScript, Python, and Postgres.
+
+## What you can build on DBOS
+
+Experience serverless backends that are simpler, faster and more cost-efficient.
+
+### [AI-Powered SlackbotUse DBOS and LlamaIndex to build an AI-powered Slackbot that answers questions.Learn more](https://docs.dbos.dev/python/examples/rag-slackbot)
+
+### [eCommerce CheckoutUse DBOS durable workflows to build an eCommerce checkout resilient to failure.Learn more](https://docs.dbos.dev/python/examples/widget-store)
+
+### [OpenAI QuickstartCreate an interactive AI application deployed in just 9 lines of code.Learn more](https://docs.dbos.dev/python/examples/ai-starter)
+
+### [LLM-Powered ChatbotBuild a chatbot with DBOS, and deploy it 50x cheaper than AWS.Learn more](https://docs.dbos.dev/python/examples/chatbot)
+
+### [eCommerce CheckoutUse DBOS durable workflows to build an eCommerce checkout resilient to failure.Learn more](https://docs.dbos.dev/python/examples/widget-store)
+
+### [AI-Powered SlackbotUse DBOS and LlamaIndex to build an AI-powered Slackbot that answers questions.Learn more](https://docs.dbos.dev/python/examples/rag-slackbot)
+
+### [OpenAI QuickstartCreate an interactive AI application deployed in just 9 lines of code.Learn more](https://docs.dbos.dev/python/examples/ai-starter)
+
+### [LLM-Powered ChatbotBuild a chatbot with DBOS, and deploy it 50x cheaper than AWS.Learn more](https://docs.dbos.dev/python/examples/chatbot)
+
+## Brands building 10x faster
+
+“What took us 2 months to build using a labyrinth of AWS resources took just 2 days on DBOS Cloud.”
+
+![Thomas McNally Portrait](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/6724211a9ec6f0803fe3cdd8_TMcN.webp)
+
+Thomas McNally
+
+VP Technology, TMG.io
+
+![tmg Logo](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/6729b592490a06a163cae7c3_TMG.png)
+
+“What took us 2 months to build using a labyrinth of AWS resources took just 2 days on DBOS Cloud.”
+
+![Thomas McNally Portrait](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/6724211a9ec6f0803fe3cdd8_TMcN.webp)
+
+Thomas McNally
+
+VP Technology, TMG.io
+
+![DBOS Logo](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/67249eb67b67661348eec568_Vectors-Wrapper.svg)
+
+"With DBOS, developers can build applications in days that now take months on conventional cloud platforms."
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/673ab74082767acb2d4c191c_Matei-Zaharia.png)
+
+Matei Zaharia
+
+Co-Founder, Databricks
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/673ab683b32cf03625b9fa9b_databricks-logo.png)
+
+"I really love the design of DBOS. If you're a gamer, it's a bit like having a “save point” in your programs. If a Function fails at any point, a new Function can start, picking up at the last checkpoint."
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/67898b6726c2621d0993909e_Paul-Copplestone.webp)
+
+Paul Copplestone
+
+CEO & Co-Founder, Supabase.com
+
+![](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/678ac6f8c8e18a35ad94d208_supabase-logo-wordmark-dark.png)
+
+"DBOS isn't kidding when they say they make serverless simple. Their claims about speed and ease are right on."
+
+![Vince Fulco - Portrait](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/675b7ab0c18c12e6de867bb0_vince-fulco.jpeg)
+
+Vince Fulco
+
+Co-Founder, Bighire.io
+
+![Bighire.io Logo](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/6729b592b8ea54af0f836896_Bighire.io.png)
+
+## Try DBOS Free. Forever.
+
+Try DBOS as long as you like with our free plan.An effortless, serverless solution that runs 25x faster.
+
+[Start your project](https://console.dbos.dev/login-redirect)
+
+[Browse pricing plans](/pricing)
+
+[![Gartner Cool Vendor 2024 - Badge](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/6724211a9ec6f0803fe3cdea_Gartner-Cool-Vendor-Badge-DBOS.jpg)2024 Gartner® Cool Vendor™Enabling Efficient Cloud Operations](https://www.dbos.dev/blog/dbos-2024-gartner-cool-vendor)
+
+![DBOS Transact Workflow Example](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/673a7fab98fc4326f533ad6c_dbos-transact-workflow-hero.svg)![](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/673a7fac55337a9ba4ad5b82_dbos-cloud-console-cta-clipped.svg)
+
+## FAQs
+
+### Will DBOS add support for other languages?
+
+DBOS applications are developed with the open source DBOS Transact framework, available for TypeScript and Python. We will implement the DBOS Transact framework in other languages based on popular demand.Please join the [DBOS Community on Discord](https://discord.gg/jsmC6pXGgX) and let us know what language(s) you'd like us to support!
+
+### What happens if my monthly usage exceeds the free tier settings?
+
+If your usage exceeds the free-use limits, we will not interrupt your service. What we will do is notify you via email that you've exceeded the free-use limit. In response to the email, you can either reduce your usage below the free-use limits or discuss DBOS pricing options with us.
+
+### Can I run DBOS Cloud on-premises?
+
+The TypeScript and Python applications built with the DBOS Transact framework can be deployed and run on any platform. For production deployment, deploy your code from the DBOS Transact framework to DBOS Cloud.
+
+‍
+
+If you'd like to discuss running DBOS on a private cloud or on premises, please [contact us.](https://www.dbos.dev/contact)
+
+‍
+
+## Follow the future of serverless
+
+[![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/673bc6e2886e9bd36cb94e36_66b04ca0d42c798fd0272ec6_DBOS-Gartner-Cool-Vendor-2.jpeg)DBOS Named a 2024 Cool VendorCompanyAugust 5, 2024](/blog/dbos-2024-gartner-cool-vendor)
+
+[![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/673bc6de4119842c6ce26e40_663dbab1335f900f63178247_How-DBOS-Cloud-Works.jpeg)The Anatomy of DBOS CloudDBOS ArchitectureMay 10, 2024](/blog/anatomy-of-dbos-cloud)
+
+[![](https://cdn.prod.website-files.com/672411cbf038560468c9e68f/672e7616f3df51b21f4bccca_672a49b89b36ada70151da2d_lightweight-durable-execution-library-comparison.jpeg)Why Durable Execution Should Be LightweightDBOS ArchitectureNovember 5, 2024](/blog/what-is-lightweight-durable-execution)
+
+#### Improve your knowledge of cloud & reliable backends
+
+  * Forward-thinking, monthly updates.
+  * Perfect for devs building on cloud architecture.
+  * Advice on creating high-performing applications.
+
+
+
+You've successfully subscribed. Stay tuned!
+
+Oops! Please enter a valid email and try again.
+
+Only valuable insights, no spam. Unsubscribe in a single click.
+
+### Build your reliable backend. Effortlessly.
+
+[Contact sales](/contact)
+
+[Start your free project](https://console.dbos.dev/login-redirect)
+
+![DBOS - Logo](https://cdn.prod.website-files.com/672411cbf038560468c9e63b/67241465129b580e4b924af4_Vectors-Wrapper.svg)
+
+DBOS radically simplifies cloud application devops and deployment.
+
+[](https://www.linkedin.com/company/dbos-inc/)[](https://github.com/dbos-inc)[](https://discord.com/invite/jsmC6pXGgX)[](https://twitter.com/DBOS_Inc)[](/contact)
+
+Products
+
+[DBOS Cloud](/dbos-cloud)[DBOS Transact](/dbos-transact)[Pricing Plans](/pricing)[Contact Us](/contact)
+
+Solutions
+
+[Cron Job Platform](/solutions/cron-hosting)[Durable AI Workflows](/solutions/agentic-ai-platform)[Durable Data Pipelines](/solutions/data-pipeline-platform)[Cloud Modernization](/solutions/cloud-modernization)
+
+Developers
+
+[Docs](https://docs.dbos.dev/)[Quickstart Guide](https://docs.dbos.dev/quickstart)[Examples](https://docs.dbos.dev/examples)[Tutorials](https://docs.dbos.dev/cloud-tutorials/application-management)
+
+Company
+
+[About Us](/about)[Privacy Policy](/privacy)[Terms of Service](/terms-of-service)[Cookies](#)
+
+Copyright © DBOS, Inc. 2024

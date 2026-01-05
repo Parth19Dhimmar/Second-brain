@@ -1,0 +1,27 @@
+{
+    "id": "ac87aecd0f9d79392ecc75eb3a6e9d7a",
+    "metadata": {
+        "id": "ac87aecd0f9d79392ecc75eb3a6e9d7a",
+        "url": "https://www.notion.so/GraphRAG-ac87aecd0f9d79392ecc75eb3a6e9d7a",
+        "title": "GraphRAG",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ]
+        }
+    },
+    "parent_metadata": {
+        "id": "2b61845bd7f9b42f858b2ea432b5d87a",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n\t[https://www.linkedin.com/posts/damienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/damienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf?utm_source=share&utm_medium=member_desktop)\n\t[https://github.com/damienbenveniste/The-AiEdge-Code-Examples/tree/master/code-examples/LLM-Applications/GraphRAG](https://github.com/damienbenveniste/The-AiEdge-Code-Examples/tree/master/code-examples/LLM-Applications/GraphRAG)\n\t[https://towardsdatascience.com/how-to-build-a-graph-rag-app-b323fc33ba06](https://towardsdatascience.com/how-to-build-a-graph-rag-app-b323fc33ba06)\n\n# Resources [Science]\n\n# Tools",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://www.linkedin.com/posts/damienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf?utm_source=share&utm_medium=member_desktop/",
+        "https://github.com/damienbenveniste/The-AiEdge-Code-Examples/tree/master/code-examples/LLM-Applications/GraphRAG/",
+        "https://towardsdatascience.com/how-to-build-a-graph-rag-app-b323fc33ba06/"
+    ]
+}

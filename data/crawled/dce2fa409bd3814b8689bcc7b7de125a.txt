@@ -1,0 +1,289 @@
+[![VectorHub by Superlinked](/vectorhub/_next/static/media/vectorhub-logo.bed1e9df.svg)](/vectorhub/)
+
+[Building Blocks](/vectorhub/building-blocks)[Articles](/vectorhub/all-articles)[Contributing](/vectorhub/contributing/contributing)[VDB Comparison](https://superlinked.com/vector-db-comparison/)
+
+[VDB Comparison](https://superlinked.com/vector-db-comparison/)
+
+[855](https://github.com/superlinked/superlinked)
+
+Search
+
+Subscribe
+
+![subscribe](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)
+
+Menu
+
+Generate custom embeddings with ALL your structured and unstructured data.[![](/vectorhub/_next/static/media/thick-arrow-primary.2ff1db1a.svg)Try Superlinked](https://github.com/superlinked/superlinked)
+
+Let's build with vectors
+
+Learn to build vector-powered systems with VectorHub, a free education and open-source platform for data scientists, software engineers and everybody in between. Discover new approaches to information retrieval and feature engineering, build MVPs and launch production-ready systems.
+
+[![](https://innovative-ants-bf39f838ee.media.strapiapp.com/pascal_biese_b3dbd23d26.jpeg)](https://github.com/superlinked/VectorHub/graphs/contributors)[![](https://innovative-ants-bf39f838ee.media.strapiapp.com/atita_58213bfabe.jpeg)](https://github.com/superlinked/VectorHub/graphs/contributors)[![](https://innovative-ants-bf39f838ee.media.strapiapp.com/kristof_horvath_414ab46de5.jpeg)](https://github.com/superlinked/VectorHub/graphs/contributors)[![](https://innovative-ants-bf39f838ee.media.strapiapp.com/mirza_climenta_0dd5ae7b80.jpeg)](https://github.com/superlinked/VectorHub/graphs/contributors)[![](https://innovative-ants-bf39f838ee.media.strapiapp.com/richard_kiss_63fe0c06bb.jpeg)](https://github.com/superlinked/VectorHub/graphs/contributors)[![](https://innovative-ants-bf39f838ee.media.strapiapp.com/anthony_alcaraz_9453498b90.jpeg)](https://github.com/superlinked/VectorHub/graphs/contributors)
+
+[and 43 other contributors](https://github.com/superlinked/VectorHub/graphs/contributors)
+
+[![Unlocking LLM Power with Organizational KG Ontologies](/vectorhub/_next/image?url=https%3A%2F%2Finnovative-ants-bf39f838ee.media.strapiapp.com%2Funlocking_LLM_power_2x_2cab7f0b19.png&w=3840&q=75)Unlocking LLM Power with Organizational KG OntologiesLarge Language Models (LLMs) are revolutionizing AI capabilities, but organizations face challenges ...September 30, 2024#Knowledge Graphs](/vectorhub/articles/kg-ontologies)
+
+[![](/vectorhub/_next/image?url=https%3A%2F%2Finnovative-ants-bf39f838ee.media.strapiapp.com%2Fsemantic_search_news_0ea5e81ca8.png&w=1920&q=75)Semantic search in business news - a notebook articleLearn how to build a semantic search-powered news recommendation app using Superlinked. Discover sol...November 6, 2024#Personalized Search](/vectorhub/articles/semantic-search-news)[![](/vectorhub/_next/image?url=https%3A%2F%2Finnovative-ants-bf39f838ee.media.strapiapp.com%2Fraptor_14570d3675.png&w=1920&q=75)Improving RAG with RAPTORLearn how RAPTOR's hierarchical clustering revolutionizes RAG systems by preserving semantic relatio...October 30, 2024#RAG](/vectorhub/articles/improve-rag-with-raptor)Read all articles
+
+![hero section background](/vectorhub/_next/image?url=%2Fvectorhub%2F_next%2Fstatic%2Fmedia%2Fhome-section-bg.c23ae90e.png&w=3840&q=75)![hero section background icon](/vectorhub/_next/image?url=%2Fvectorhub%2F_next%2Fstatic%2Fmedia%2Fhome-section-vector.4b2d3be2.png&w=640&q=75)
+
+![Starting from basics](/vectorhub/_next/static/media/nav-start-basic-icon.1c87decf.svg)
+
+Starting from basics
+
+![Looking for specific](/vectorhub/_next/static/media/nav-sepecific-icon.4501f24f.svg)
+
+Looking for specific
+
+![Tooling](/vectorhub/_next/static/media/nav-tooling-icon.ba375b5a.svg)
+
+Tooling
+
+Building Blocks
+
+Building blocks are the atomic units that create a vector retrieval stack. If you want to create a vector retrieval stack that's ready for production, you'll need to have a few key components in place. These include Data Sources, Vector Compute and Vector Search & Management. 
+
+![](/vectorhub/_next/static/media/bb_datasource_icon.93934bed.svg)
+
+Data Sources
+
+![](/vectorhub/_next/image?url=%2Fvectorhub%2F_next%2Fstatic%2Fmedia%2Fdata-sources.43fa7a14.png&w=3840&q=75)
+
+You can get your data from various sources, including relational databases, data pipeline tools, data warehouses, and customer data platforms.
+
+Data Sources: Introduction
+
+![open](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)
+
+Data Modality
+
+![open](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)
+
+Data Velocity
+
+![open](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)
+
+Data Sources: Conclusion
+
+![open](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)
+
+![](/vectorhub/_next/static/media/bb_vectorcompute_icon.ab8be66f.svg)
+
+Vector Compute
+
+![](/vectorhub/_next/static/media/bb_vectorsearch_icon.974db08f.svg)
+
+Vector search & Management
+
+![](/vectorhub/_next/image?url=%2Fvectorhub%2F_next%2Fstatic%2Fmedia%2Fdata-sources.43fa7a14.png&w=3840&q=75)
+
+You can get your data from various sources, including relational databases, data pipeline tools, data warehouses, and customer data platforms.
+
+Data Sources: Introduction
+
+![open](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)
+
+Data Modality
+
+![open](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)
+
+Data Velocity
+
+![open](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)
+
+Data Sources: Conclusion
+
+![open](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)
+
+Browse topics and popular content
+
+Pick a topic:
+
+Popular Articles
+
+Popular ArticlesAll ArticlesRAGRecommendationsPersonalized SearchKnowledge GraphsQuality And EvaluationSuperlinked
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/user_analytics_f19f208c67.png)
+
+#Superlinked
+
+#Vector Search
+
+User Acquisition Analytics
+
+Learn how to leverage vector embeddings with Superlinked to analyze user responses to ad messaging, ...
+
+October 7, 2024
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/Multi_attribute_search_with_vector_embeddings_ac3e9def9e.png)
+
+#Vector Search
+
+#Superlinked
+
+Multi-attribute search with vector embeddings
+
+Vector search represents a revolution in information retrieval. Vector embedding - by taking account...
+
+September 1, 2024
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/vector_indexing_8463f7f6de.png)
+
+#RAG
+
+#Vector Search
+
+Vector Indexes
+
+Vector indexes are crucial to efficient, relevant, and accurate search in various common application...
+
+August 14, 2024
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/rag_feedback_878ba93f75.png)
+
+#RAG
+
+Your RAG application is a communication system
+
+Effective RAG can take the best features of language models and moderate their shortcomings. In this...
+
+July 29, 2024
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/How_to_get_consistent_quality_RAG_results_using_Superlinked_3c5cd9cc52.png)
+
+#Superlinked
+
+#RAG
+
+How to get consistent, quality RAG results using Superlinked
+
+In this article, we’ll show you how to improve retrieval quality using the Superlinked library in an...
+
+May 24, 2024
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/Evaluating_Retrieval_Augmented_Generation_using_RAGAS_31_777827a3e9.png)
+
+#Quality And Evaluation
+
+#RAG
+
+Evaluating Retrieval Augmented Generation using RAGAS
+
+This article shows you how to build a naive RAG system, and examine three ways of building and using...
+
+May 3, 2024
+
+Tools for you to develop with vectors
+
+Vector DB Comparison
+
+Compare 30+ VDBs on features and price
+
+[Try it out![subscribe](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)](https://superlinked.com/vector-db-comparison/)
+
+![Vector DB Comparison](/vectorhub/_next/image?url=%2Fvectorhub%2F_next%2Fstatic%2Fmedia%2Fvectorhub_db_snap.92688f11.png&w=1080&q=75)
+
+[SuperlinkedBuild smarter GenAI apps with multimodal vectors & feedback loops that work in real-time.![Superlinked](/vectorhub/_next/static/media/superlinked.a1d6ad97.svg)](https://github.com/superlinked/superlinked)[VDB BenchmarkingCOMING SOONCompare performance of different VDBs managed offerings![Superlinked](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)](#home-tools-section)[Request a tool you want](https://superlinked.typeform.com/to/k1H9BYYR)
+
+Become a VectorHub Contributor
+
+Contribute among these world class developers and help educate the vector world.
+
+Become Contributor
+
+![subscribe](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/pascal_biese_b3dbd23d26.jpeg)
+
+Pascal Biese
+
+[](https://github.com/xaiguy)[](https://www.linkedin.com/in/pascalbiese/)
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/atita_58213bfabe.jpeg)
+
+Atita Arora
+
+[](https://github.com/atarora)[](https://www.linkedin.com/in/atitaarora/)
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/kristof_horvath_414ab46de5.jpeg)
+
+Kristóf Horváth
+
+[](https://github.com/hkristof03)[](https://www.linkedin.com/in/kristof-horvath-0301/)
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/mirza_climenta_0dd5ae7b80.jpeg)
+
+Dr. Mirza Klimenta
+
+[](https://github.com/levrone1987)[](https://www.linkedin.com/in/mirza-klimenta/)
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/richard_kiss_63fe0c06bb.jpeg)
+
+Richard Kiss
+
+[](https://github.com/krichard98)[](https://www.linkedin.com/in/richard-kiss-3209a1186/)
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/anthony_alcaraz_9453498b90.jpeg)
+
+Anthony Alcaraz
+
+[](https://github.com/AnthonyAlcaraz)[](https://www.linkedin.com/in/anthony-alcaraz-b80763155/)
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/rod_rivera_c6f4b64c05.jpeg)
+
+Rod Rivera
+
+[](https://github.com/rorcde)[](https://www.linkedin.com/in/aiengineer/)
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/robert_kubler_734421850a.jpeg)
+
+Dr. Robert Kübler
+
+[](https://github.com/Garve)[](https://www.linkedin.com/in/robert-kuebler/)
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/paul_lusztin_da72076ee0.jpeg)
+
+Paul Lusztin
+
+[](https://github.com/iusztinpaul)[](https://www.linkedin.com/in/pauliusztin/)
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/ankit_khare_4558674f58.jpeg)
+
+Ankit Khare
+
+[](https://github.com/ankit1khare)[](https://www.linkedin.com/in/deeplearnerak/)
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/ashish_abraham_877dba8982.jpeg)
+
+Ashish Abraham
+
+[](https://github.com/Ashish-Abraham)[](https://www.linkedin.com/in/ashish-abraham-811a23201/)
+
+![](https://innovative-ants-bf39f838ee.media.strapiapp.com/michael_jancen_widmer_54fb16e2e3.jpeg)
+
+Michael Jancen-Widmer
+
+[](https://github.com/jancen0)[](https://www.linkedin.com/in/michaeljancenwidmer/)
+
+[![Superlinked](/vectorhub/_next/static/media/superlinked-logo.9ad3911a.svg)](https://superlinked.com/)
+
+Subscribe
+
+![subscribe](/vectorhub/_next/static/media/thick-arrow.99bec954.svg)
+
+By subscribing, you agree to our [Terms and Conditions](https://www.superlinked.com/policies/terms-and-conditions).
+
+About
+
+[Company](https://superlinked.com/)[Careers](https://superlinked.notion.site/Work-at-Superlinked-541f2d74ce714c889a1c6dba6dd0dbf1)[Index](/vectorhub/siteindex)
+
+Support
+
+Contact Us[Terms of Use](https://superlinked.com/policies/terms-and-conditions)[Privacy Policy](https://superlinked.com/policies/privacy-policy)[Cookie Policy](https://superlinked.com/policies/cookie-policy)
+
+Social
+
+[Github](https://github.com/superlinked/superlinked)[X (Twitter)](https://twitter.com/superlinked)[LinkedIn](https://www.linkedin.com/company/superlinked/)

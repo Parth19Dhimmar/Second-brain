@@ -1,0 +1,515 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Freworkd%2FAgentGPT%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Freworkd%2FAgentGPT%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=reworkd%2FAgentGPT) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ reworkd ](/reworkd) / **[AgentGPT](/reworkd/AgentGPT) ** Public
+
+  * [ Sponsor  ](/sponsors/reworkd-admin)
+  * [ Notifications ](/login?return_to=%2Freworkd%2FAgentGPT) You must be signed in to change notification settings
+  * [ Fork 9.3k ](/login?return_to=%2Freworkd%2FAgentGPT)
+  * [ Star  32.5k ](/login?return_to=%2Freworkd%2FAgentGPT)
+
+
+
+
+🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. 
+
+[agentgpt.reworkd.ai](https://agentgpt.reworkd.ai "https://agentgpt.reworkd.ai")
+
+### License
+
+[ GPL-3.0 license ](/reworkd/AgentGPT/blob/main/LICENSE)
+
+[ 32.5k stars ](/reworkd/AgentGPT/stargazers) [ 9.3k forks ](/reworkd/AgentGPT/forks) [ Branches ](/reworkd/AgentGPT/branches) [ Tags ](/reworkd/AgentGPT/tags) [ Activity ](/reworkd/AgentGPT/activity)
+
+[ Star  ](/login?return_to=%2Freworkd%2FAgentGPT)
+
+[ Notifications ](/login?return_to=%2Freworkd%2FAgentGPT) You must be signed in to change notification settings
+
+  * [ Code ](/reworkd/AgentGPT)
+  * [ Issues 124 ](/reworkd/AgentGPT/issues)
+  * [ Pull requests 79 ](/reworkd/AgentGPT/pulls)
+  * [ Discussions ](/reworkd/AgentGPT/discussions)
+  * [ Actions ](/reworkd/AgentGPT/actions)
+  * [ Projects 1 ](/reworkd/AgentGPT/projects)
+  * [ Security ](/reworkd/AgentGPT/security)
+  * [ Insights ](/reworkd/AgentGPT/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/reworkd/AgentGPT)
+  * [ Issues  ](/reworkd/AgentGPT/issues)
+  * [ Pull requests  ](/reworkd/AgentGPT/pulls)
+  * [ Discussions  ](/reworkd/AgentGPT/discussions)
+  * [ Actions  ](/reworkd/AgentGPT/actions)
+  * [ Projects  ](/reworkd/AgentGPT/projects)
+  * [ Security  ](/reworkd/AgentGPT/security)
+  * [ Insights  ](/reworkd/AgentGPT/pulse)
+
+
+
+# reworkd/AgentGPT
+
+main
+
+[**176** Branches](/reworkd/AgentGPT/branches)[**12** Tags](/reworkd/AgentGPT/tags)
+
+[](/reworkd/AgentGPT/branches)[](/reworkd/AgentGPT/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![frgfm](https://avatars.githubusercontent.com/u/26927750?v=4&size=40)](/frgfm)[frgfm](/reworkd/AgentGPT/commits?author=frgfm)[docs: Fixes typo in the documentation about translations (](/reworkd/AgentGPT/commit/cd900e5f63572a58e0dbeaeffcc2150d9fc8781d)[#1422](https://github.com/reworkd/AgentGPT/pull/1422)[)](/reworkd/AgentGPT/commit/cd900e5f63572a58e0dbeaeffcc2150d9fc8781d)Jul 16, 2024[cd900e5](/reworkd/AgentGPT/commit/cd900e5f63572a58e0dbeaeffcc2150d9fc8781d) · Jul 16, 2024
+
+## History
+
+[1,494 Commits](/reworkd/AgentGPT/commits/main/)[](/reworkd/AgentGPT/commits/main/)  
+[.github](/reworkd/AgentGPT/tree/main/.github ".github")| [.github](/reworkd/AgentGPT/tree/main/.github ".github")| [🚀 Python 3.12 Support (](/reworkd/AgentGPT/commit/a96f66c8d09653654e25bc7271eea649fd5475e1 "🚀 Python 3.12 Support \(#1343\)
+* 🚀 Upgrade to python 3.12
+* ♻️ Sort imports
+* ♻️ Sort imports")[#1343](https://github.com/reworkd/AgentGPT/pull/1343)[)](/reworkd/AgentGPT/commit/a96f66c8d09653654e25bc7271eea649fd5475e1 "🚀 Python 3.12 Support \(#1343\)
+* 🚀 Upgrade to python 3.12
+* ♻️ Sort imports
+* ♻️ Sort imports")| Oct 27, 2023  
+[cli](/reworkd/AgentGPT/tree/main/cli "cli")| [cli](/reworkd/AgentGPT/tree/main/cli "cli")| [Bump inquirer from 9.2.11 to 9.2.12 in /cli (](/reworkd/AgentGPT/commit/c2084e4faa46ecd91621be17574ef9532668cbfc "Bump inquirer from 9.2.11 to 9.2.12 in /cli \(#1378\)
+Bumps \[inquirer\]\(https://github.com/SBoudrias/Inquirer.js\) from 9.2.11 to 9.2.12.
+- \[Release notes\]\(https://github.com/SBoudrias/Inquirer.js/releases\)
+- \[Commits\]\(https://github.com/SBoudrias/Inquirer.js/compare/inquirer@9.2.11...inquirer@9.2.12\)
+---
+updated-dependencies:
+- dependency-name: inquirer
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")[#1378](https://github.com/reworkd/AgentGPT/pull/1378)[)](/reworkd/AgentGPT/commit/c2084e4faa46ecd91621be17574ef9532668cbfc "Bump inquirer from 9.2.11 to 9.2.12 in /cli \(#1378\)
+Bumps \[inquirer\]\(https://github.com/SBoudrias/Inquirer.js\) from 9.2.11 to 9.2.12.
+- \[Release notes\]\(https://github.com/SBoudrias/Inquirer.js/releases\)
+- \[Commits\]\(https://github.com/SBoudrias/Inquirer.js/compare/inquirer@9.2.11...inquirer@9.2.12\)
+---
+updated-dependencies:
+- dependency-name: inquirer
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")| Nov 13, 2023  
+[db](/reworkd/AgentGPT/tree/main/db "db")| [db](/reworkd/AgentGPT/tree/main/db "db")| [🐋 Put MySQL DB in docker (](/reworkd/AgentGPT/commit/f0c137af8e005447e069ab49561900fd6b85cae4 "🐋 Put MySQL DB in docker \(#492\)")[#492](https://github.com/reworkd/AgentGPT/pull/492)[)](/reworkd/AgentGPT/commit/f0c137af8e005447e069ab49561900fd6b85cae4 "🐋 Put MySQL DB in docker \(#492\)")| May 10, 2023  
+[docs](/reworkd/AgentGPT/tree/main/docs "docs")| [docs](/reworkd/AgentGPT/tree/main/docs "docs")| [docs: Fixes typo in the documentation about translations (](/reworkd/AgentGPT/commit/cd900e5f63572a58e0dbeaeffcc2150d9fc8781d "docs: Fixes typo in the documentation about translations \(#1422\)")[#1422](https://github.com/reworkd/AgentGPT/pull/1422)[)](/reworkd/AgentGPT/commit/cd900e5f63572a58e0dbeaeffcc2150d9fc8781d "docs: Fixes typo in the documentation about translations \(#1422\)")| Jul 16, 2024  
+[next](/reworkd/AgentGPT/tree/main/next "next")| [next](/reworkd/AgentGPT/tree/main/next "next")| [♻️ Refactor Hero](/reworkd/AgentGPT/commit/3b06cda015275f2e92dafc8152c217aac36ed7f0 "♻️ Refactor Hero")| Nov 13, 2023  
+[platform](/reworkd/AgentGPT/tree/main/platform "platform")| [platform](/reworkd/AgentGPT/tree/main/platform "platform")| [--- (](/reworkd/AgentGPT/commit/97d66456a441a74a4260985ae511394ff5a6b6d3 "--- \(#1557\)
+updated-dependencies:
+- dependency-name: pymysql
+ dependency-type: indirect
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")[#1557](https://github.com/reworkd/AgentGPT/pull/1557)[)](/reworkd/AgentGPT/commit/97d66456a441a74a4260985ae511394ff5a6b6d3 "--- \(#1557\)
+updated-dependencies:
+- dependency-name: pymysql
+ dependency-type: indirect
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")| Jul 12, 2024  
+[scripts](/reworkd/AgentGPT/tree/main/scripts "scripts")| [scripts](/reworkd/AgentGPT/tree/main/scripts "scripts")| [🔒 Generic Oauth installer (](/reworkd/AgentGPT/commit/0ef8f45a1e5ca9f41a1b854a37a6df84e7ae397f "🔒 Generic Oauth installer \(#1150\)
+* 🤌 Generic oauth installer
+* 🤌 Generic oauth installer
+* 🐛 Poetry issues
+* 🐛 Poetry issues")[#1150](https://github.com/reworkd/AgentGPT/pull/1150)[)](/reworkd/AgentGPT/commit/0ef8f45a1e5ca9f41a1b854a37a6df84e7ae397f "🔒 Generic Oauth installer \(#1150\)
+* 🤌 Generic oauth installer
+* 🤌 Generic oauth installer
+* 🐛 Poetry issues
+* 🐛 Poetry issues")| Jul 27, 2023  
+[.editorconfig](/reworkd/AgentGPT/blob/main/.editorconfig ".editorconfig")| [.editorconfig](/reworkd/AgentGPT/blob/main/.editorconfig ".editorconfig")| [Add EditorConfig (](/reworkd/AgentGPT/commit/92c62b0dabad4500124616509ee0dd0acafd06c8 "Add EditorConfig \(#211\)")[#211](https://github.com/reworkd/AgentGPT/pull/211)[)](/reworkd/AgentGPT/commit/92c62b0dabad4500124616509ee0dd0acafd06c8 "Add EditorConfig \(#211\)")| Apr 18, 2023  
+[.env.example](/reworkd/AgentGPT/blob/main/.env.example ".env.example")| [.env.example](/reworkd/AgentGPT/blob/main/.env.example ".env.example")| [✨ Update db port](/reworkd/AgentGPT/commit/e321032086d0b6d456f97dd1e497037a55d95894 "✨ Update db port")| Nov 1, 2023  
+[.gitattributes](/reworkd/AgentGPT/blob/main/.gitattributes ".gitattributes")| [.gitattributes](/reworkd/AgentGPT/blob/main/.gitattributes ".gitattributes")| [Initial commit](/reworkd/AgentGPT/commit/50487b5a99c8fc528a3db734dd156113a66b877f "Initial commit")| Apr 7, 2023  
+[.gitignore](/reworkd/AgentGPT/blob/main/.gitignore ".gitignore")| [.gitignore](/reworkd/AgentGPT/blob/main/.gitignore ".gitignore")| [🏎️ Make content refresher async (](/reworkd/AgentGPT/commit/03b8543da513d907c97925e325298de29f139e94 "🏎️ Make content refresher async \(#1184\)
+* 🏎️ Make content refresher async
+* 🏎️ Make content refresher async
+* 🏎️ Make content refresher async")[#1184](https://github.com/reworkd/AgentGPT/pull/1184)[)](/reworkd/AgentGPT/commit/03b8543da513d907c97925e325298de29f139e94 "🏎️ Make content refresher async \(#1184\)
+* 🏎️ Make content refresher async
+* 🏎️ Make content refresher async
+* 🏎️ Make content refresher async")| Aug 4, 2023  
+[LICENSE](/reworkd/AgentGPT/blob/main/LICENSE "LICENSE")| [LICENSE](/reworkd/AgentGPT/blob/main/LICENSE "LICENSE")| [📄 Create License](/reworkd/AgentGPT/commit/9ff61686e43b657dd6f19ad0773c8a848712ae5c ":page_facing_up: Create License")| Apr 10, 2023  
+[README.md](/reworkd/AgentGPT/blob/main/README.md "README.md")| [README.md](/reworkd/AgentGPT/blob/main/README.md "README.md")| [🐛 remove executable permissions from README (](/reworkd/AgentGPT/commit/f11b0d94ce0bfe14e71b8eccd3cf047409e5ac39 "🐛 remove executable permissions from README \(#1253\)
+- Feels risky. Especially since .md files tend to start with same "#" as executable shebangs
+- It was made executable in 7e2f5348078aff9214e5a88a056b4f1cce250d23")[#1253](https://github.com/reworkd/AgentGPT/pull/1253)[)](/reworkd/AgentGPT/commit/f11b0d94ce0bfe14e71b8eccd3cf047409e5ac39 "🐛 remove executable permissions from README \(#1253\)
+- Feels risky. Especially since .md files tend to start with same "#" as executable shebangs
+- It was made executable in 7e2f5348078aff9214e5a88a056b4f1cce250d23")| Aug 26, 2023  
+[docker-compose.yml](/reworkd/AgentGPT/blob/main/docker-compose.yml "docker-compose.yml")| [docker-compose.yml](/reworkd/AgentGPT/blob/main/docker-compose.yml "docker-compose.yml")| [✨ Update db port](/reworkd/AgentGPT/commit/e321032086d0b6d456f97dd1e497037a55d95894 "✨ Update db port")| Nov 1, 2023  
+[setup.bat](/reworkd/AgentGPT/blob/main/setup.bat "setup.bat")| [setup.bat](/reworkd/AgentGPT/blob/main/setup.bat "setup.bat")| [Added windows statup script (](/reworkd/AgentGPT/commit/dbddac58dfd3c45c88b85e119310c0df7f519368 "Added windows statup script \(#734\)")[#734](https://github.com/reworkd/AgentGPT/pull/734)[)](/reworkd/AgentGPT/commit/dbddac58dfd3c45c88b85e119310c0df7f519368 "Added windows statup script \(#734\)")| Jun 7, 2023  
+[setup.sh](/reworkd/AgentGPT/blob/main/setup.sh "setup.sh")| [setup.sh](/reworkd/AgentGPT/blob/main/setup.sh "setup.sh")| [❗️ Fix shebang so shell scripts work on more systems (](/reworkd/AgentGPT/commit/df76d83a9ea6fae34e64b6840214fe62cfe28bc9 "❗️ Fix shebang so shell scripts work on more systems \(#955\)
+In general, `#!/usr/bin/env bash` is considered better practice because it's more portable.
+Bash is not always located at /bin/bash.
+This will make the scripts work on systems, like NixOS")[#955](https://github.com/reworkd/AgentGPT/pull/955)[)](/reworkd/AgentGPT/commit/df76d83a9ea6fae34e64b6840214fe62cfe28bc9 "❗️ Fix shebang so shell scripts work on more systems \(#955\)
+In general, `#!/usr/bin/env bash` is considered better practice because it's more portable.
+Bash is not always located at /bin/bash.
+This will make the scripts work on systems, like NixOS")| Jul 4, 2023  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [GPL-3.0 license](#)
+  * [Security](#)
+
+
+
+[![AgentGPT Logo](https://raw.githubusercontent.com/reworkd/AgentGPT/main/next/public/banner.png)](https://raw.githubusercontent.com/reworkd/AgentGPT/main/next/public/banner.png)
+
+_🤖 Assemble, configure, and deploy autonomous AI Agent(s) in your browser. 🤖_
+
+[![Node version](https://camo.githubusercontent.com/167ac7a88567130502a483661e5dc3062fa409ee5d552a3fcb5222078cd7a1d3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6e6f6465266d6573736167653d2532302533453d3138266c6f676f3d6e6f64652e6a7326636f6c6f723d3233333444303538)](https://camo.githubusercontent.com/167ac7a88567130502a483661e5dc3062fa409ee5d552a3fcb5222078cd7a1d3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6e6f6465266d6573736167653d2532302533453d3138266c6f676f3d6e6f64652e6a7326636f6c6f723d3233333444303538) [![English](https://camo.githubusercontent.com/7d63edf20a7293ae4d08802aa85ad78b685f8011a60bfc4897ce1ac939c6abeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e672d456e676c6973682d626c75652e737667)](https://github.com/reworkd/AgentGPT/blob/master/README.md) [![简体中文](https://camo.githubusercontent.com/381490746dc8a272776644537a2c6f0a16ca5333407c1be5795236aae51a1862/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e672de7ae80e4bd93e4b8ade696872d7265642e737667)](https://github.com/reworkd/AgentGPT/blob/master/docs/README.zh-HANS.md) [![Hungarian](https://camo.githubusercontent.com/d30fc9889297d9ae1ba403cabb6c3e97405a9f897412289dea8dbf62ac49b3d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e672d48756e67617269616e2d7265642e737667)](https://github.com/reworkd/AgentGPT/blob/master/docs/README.hu-Cs4K1Sr4C.md)
+
+[🔗 Short link](https://agentgpt.reworkd.ai) •  [📚 Docs](https://docs.reworkd.ai/) •  [🤝 Contribute](https://docs.reworkd.ai/essentials/contributing) •  [🐦 Twitter](https://twitter.com/reworkdai) •  [📢 Discord](https://discord.gg/gcmNyAAFfV)
+
+AgentGPT allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results 🚀.
+
+## ✨ Demo
+
+[](#-demo)
+
+For the best demo experience, try [our site](https://agentgpt.reworkd.ai) directly :)
+
+Untitled.1.mp4
+
+## 👨‍🚀 Getting Started
+
+[](#-getting-started)
+
+The easiest way to get started with AgentGPT is automatic setup CLI bundled with the project. The cli sets up the following for AgentGPT:
+
+  * 🔐 [Environment variables](https://github.com/reworkd/AgentGPT/blob/main/.env.example) (and API Keys)
+  * 🗂️ [Database](https://github.com/reworkd/AgentGPT/tree/main/db) (Mysql)
+  * 🤖 [Backend](https://github.com/reworkd/AgentGPT/tree/main/platform) (FastAPI)
+  * 🎨 [Frontend](https://github.com/reworkd/AgentGPT/tree/main/next) (Nextjs)
+
+
+
+## Prerequisites ☝️
+
+[](#prerequisites-point_up)
+
+Before you get started, please make sure you have the following installed:
+
+  * An editor of your choice. For example, [Visual Studio Code (VS Code)](https://code.visualstudio.com/download)
+  * [Node.js](https://nodejs.org/en/download)
+  * [Git](https://git-scm.com/downloads)
+  * [Docker](https://www.docker.com/products/docker-desktop). After installation, please create an account, open up the Docker application, and sign in.
+  * An [OpenAI API key](https://platform.openai.com/signup)
+  * A [Serper API Key](https://serper.dev/signup) (optional)
+  * A [Replicate API Token](https://replicate.com/signin) (optional)
+
+
+
+## Getting Started 🚀
+
+[](#getting-started-rocket)
+
+  1. **Open your editor**
+
+  2. **Open the Terminal** - Typically, you can do this from a 'Terminal' tab or by using a shortcut (e.g., `Ctrl + ~` for Windows or `Control + ~` for Mac in VS Code).
+
+  3. **Clone the Repository and Navigate into the Directory** - Once your terminal is open, you can clone the repository and move into the directory by running the commands below.
+
+**For Mac/Linux users** 🍎 🐧
+
+```
+git clone https://github.com/reworkd/AgentGPT.git cd AgentGPT ./setup.sh
+```
+
+**For Windows users** :windows:
+
+```
+git clone https://github.com/reworkd/AgentGPT.git cd AgentGPT ./setup.bat
+```
+
+  4. **Follow the setup instructions from the script** - add the appropriate API keys, and once all of the services are running, travel to <http://localhost:3000> on your web-browser.
+
+
+
+
+Happy hacking! 🎉
+
+## 🎉 Roadmap
+
+[](#-roadmap)
+
+This platform is currently in beta, a full list of completed and planed features can be found on our [public roadmap](https://docs.reworkd.ai/essentials/roadmap).
+
+## 🚀 Tech Stack
+
+[](#-tech-stack)
+
+  * ✅ **Bootstrapping** : [create-t3-app](https://create.t3.gg) + [FastAPI-template](https://github.com/s3rius/FastAPI-template).
+  * ✅ **Framework** : [Nextjs 13 + Typescript](https://nextjs.org/) + [FastAPI](https://fastapi.tiangolo.com/)
+  * ✅ **Auth** : [Next-Auth.js](https://next-auth.js.org)
+  * ✅ **ORM** : [Prisma](https://prisma.io) & [SQLModel](https://sqlmodel.tiangolo.com/).
+  * ✅ **Database** : [Planetscale](https://planetscale.com/).
+  * ✅ **Styling** : [TailwindCSS + HeadlessUI](https://tailwindcss.com).
+  * ✅ **Schema Validation** : [Zod](https://github.com/colinhacks/zod) + [Pydantic](https://docs.pydantic.dev/).
+  * ✅ **LLM Tooling** : [Langchain](https://github.com/hwchase17/langchain).
+
+
+
+##  💝 Our GitHub sponsors 💝 
+
+[](#-our-github-sponsors-)
+
+Join us in fueling the development of AgentGPT, an open-source project pushing the boundaries of AI agents! Your sponsorship would drive progress by helping us scale up resources, enhance features and functionality, and continue to iterate on this exciting project! 🚀 
+
+[![Arthur](https://github.com/arthurbnhm.png)](https://github.com/arthurbnhm)[![Matt Ray](https://github.com/mrayonnaise.png)](https://github.com/mrayonnaise)[![Vector Ventures](https://github.com/jd3655.png)](https://github.com/jd3655)[![](https://github.com/durairajasivam.png)](https://github.com/durairajasivam)[![Florian Kraft](https://github.com/floriank.png)](https://github.com/floriank)[![](https://github.com/localecho.png)](https://github.com/localecho)[![](https://github.com/fireheat135.png)](https://github.com/fireheat135)[![Zoe](https://github.com/zoelidity.png)](https://github.com/zoelidity)[![Lucas Bussey](https://github.com/busseyl.png)](https://github.com/busseyl)[![](https://github.com/DuanChaori.png)](https://github.com/DuanChaori)[![](https://github.com/jukwaphil1.png)](https://github.com/jukwaphil1)[![Lisa](https://github.com/lisa-ee.png)](https://github.com/lisa-ee)[![](https://github.com/VulcanT.png)](https://github.com/VulcanT)[![kmotte](https://github.com/kman62.png)](https://github.com/kman62)[![](https://github.com/Haithamhaj.png)](https://github.com/Haithamhaj)[![SWFT Blockchain](https://github.com/SwftCoins.png)](https://github.com/SwftCoins)[![](https://github.com/ChevalierzA.png)](https://github.com/ChevalierzA)[![](https://github.com/research-developer.png)](https://github.com/research-developer)[![](https://github.com/Mitchell-Coder-New.png)](https://github.com/Mitchell-Coder-New)[![](https://github.com/Trecares.png)](https://github.com/Trecares)[![Nikolay Kostov](https://github.com/nnkostov.png)](https://github.com/nnkostov)[![Oryan Moshe](https://github.com/oryanmoshe.png)](https://github.com/oryanmoshe)[![Clay Nelson](https://github.com/ClayNelson.png)](https://github.com/ClayNelson)[![0xmatchmaker](https://github.com/0xmatchmaker.png)](https://github.com/0xmatchmaker)[![](https://github.com/carlosbartolomeu.png)](https://github.com/carlosbartolomeu)[![](https://github.com/Agronobeetles.png)](https://github.com/Agronobeetles)[![Guy Thompson](https://github.com/CloudyGuyThompson.png)](https://github.com/CloudyGuyThompson)[![](https://github.com/Jhonvolt17.png)](https://github.com/Jhonvolt17)[![Vusi Dube](https://github.com/sirswali.png)](https://github.com/sirswali)[![](https://github.com/Tweezamiza.png)](https://github.com/Tweezamiza)[![](https://github.com/DixonFyre.png)](https://github.com/DixonFyre)[![](https://github.com/jenius-eagle.png)](https://github.com/jenius-eagle)[![Roberto Luis Sanchez, P.E., P.G.; D,GE; F.ASCE](https://github.com/CubanCongaMan.png)](https://github.com/CubanCongaMan)[![](https://github.com/cskrobec.png)](https://github.com/cskrobec)[![](https://github.com/Jahmazon.png)](https://github.com/Jahmazon)[![David Gammond](https://github.com/ISDAworld.png)](https://github.com/ISDAworld)[![Lazza Capital](https://github.com/lazzacapital.png)](https://github.com/lazzacapital)[![](https://github.com/OptionalJoystick.png)](https://github.com/OptionalJoystick)[![](https://github.com/rodolfoguzzi.png)](https://github.com/rodolfoguzzi)[![](https://github.com/bluecat2210.png)](https://github.com/bluecat2210)[![](https://github.com/dactylogram9.png)](https://github.com/dactylogram9)[![](https://github.com/RUFreeJAC63.png)](https://github.com/RUFreeJAC63)[![](https://github.com/cecilmiles.png)](https://github.com/cecilmiles)[![](https://github.com/Djarielm007.png)](https://github.com/Djarielm007)[![](https://github.com/mikenj07.png)](https://github.com/mikenj07)[![](https://github.com/SvetaMolusk.png)](https://github.com/SvetaMolusk)[![](https://github.com/wuminkung.png)](https://github.com/wuminkung)[![](https://github.com/zhoumo1221.png)](https://github.com/zhoumo1221)[![Stephane DeGuire](https://github.com/Stefan6666XXX.png)](https://github.com/Stefan6666XXX)[![Lyska](https://github.com/lyska.png)](https://github.com/lyska)[![](https://github.com/KurganKolde.png)](https://github.com/KurganKolde)[![Sharon Clapp at CCSU](https://github.com/sclappccsu.png)](https://github.com/sclappccsu)[![Rooba.Finance](https://github.com/Rooba-Finance.png)](https://github.com/Rooba-Finance)[![](https://github.com/ferienhausmiete.png)](https://github.com/ferienhausmiete)[![Benjamin Bales](https://github.com/benjaminbales.png)](https://github.com/benjaminbales)[![](https://github.com/pimentel233.png)](https://github.com/pimentel233)[![](https://github.com/PinkyWobbles.png)](https://github.com/PinkyWobbles)[![](https://github.com/jconroy11.png)](https://github.com/jconroy11)[![](https://github.com/DavidJamesRotenberg.png)](https://github.com/DavidJamesRotenberg)[![](https://github.com/antecochat.png)](https://github.com/antecochat)[![](https://github.com/RealBonOfaSitch.png)](https://github.com/RealBonOfaSitch)
+
+##  💪 Contributors 💪 
+
+[](#-contributors-)
+
+Our contributors have made this project possible. Thank you! 🙏 
+
+[ ![](https://camo.githubusercontent.com/3e7b1d012902484dfff35c6a9104a6a65ba5863da37dd653faf326fc8ce8e9cd/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d7265776f726b642f6167656e74677074) ](https://github.com/reworkd/agentgpt/graphs/contributors)
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+## About
+
+🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. 
+
+[agentgpt.reworkd.ai](https://agentgpt.reworkd.ai "https://agentgpt.reworkd.ai")
+
+### Topics
+
+[ agent ](/topics/agent "Topic: agent") [ agi ](/topics/agi "Topic: agi") [ openai ](/topics/openai "Topic: openai") [ gpt ](/topics/gpt "Topic: gpt") [ next ](/topics/next "Topic: next") [ t3 ](/topics/t3 "Topic: t3") [ t3-stack ](/topics/t3-stack "Topic: t3-stack") [ langchain ](/topics/langchain "Topic: langchain") [ autogpt ](/topics/autogpt "Topic: autogpt") [ baby-agi ](/topics/baby-agi "Topic: baby-agi") [ agentgpt ](/topics/agentgpt "Topic: agentgpt")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ GPL-3.0 license ](#GPL-3.0-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/reworkd/AgentGPT/activity)
+
+[ Custom properties](/reworkd/AgentGPT/custom-properties)
+
+### Stars
+
+[ **32.5k** stars](/reworkd/AgentGPT/stargazers)
+
+### Watchers
+
+[ **305** watching](/reworkd/AgentGPT/watchers)
+
+### Forks
+
+[ **9.3k** forks](/reworkd/AgentGPT/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Freworkd%2FAgentGPT&report=reworkd+%28user%29)
+
+##  [Releases 12](/reworkd/AgentGPT/releases)
+
+[ v.1.0.0 Latest  Nov 2, 2023 ](/reworkd/AgentGPT/releases/tag/v.1.0.0)
+
+[+ 11 releases](/reworkd/AgentGPT/releases)
+
+## Sponsor this project
+
+[ ![@reworkd-admin](https://avatars.githubusercontent.com/u/122697934?s=64&v=4) ](/reworkd-admin) [ **reworkd-admin** Reworkd ](/reworkd-admin)
+
+[ Sponsor  ](/sponsors/reworkd-admin)
+
+[Learn more about GitHub Sponsors](/sponsors)
+
+##  [Contributors 73](/reworkd/AgentGPT/graphs/contributors)
+
+  * [ ![@asim-shrestha](https://avatars.githubusercontent.com/u/50181239?s=64&v=4) ](https://github.com/asim-shrestha)
+  * [ ![@awtkns](https://avatars.githubusercontent.com/u/32209255?s=64&v=4) ](https://github.com/awtkns)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@shahrishabh7](https://avatars.githubusercontent.com/u/75043888?s=64&v=4) ](https://github.com/shahrishabh7)
+  * [ ![@Jshen123](https://avatars.githubusercontent.com/u/22240630?s=64&v=4) ](https://github.com/Jshen123)
+  * [ ![@jasangill1](https://avatars.githubusercontent.com/u/56135840?s=64&v=4) ](https://github.com/jasangill1)
+  * [ ![@Cs4K1Sr4C](https://avatars.githubusercontent.com/u/126985144?s=64&v=4) ](https://github.com/Cs4K1Sr4C)
+  * [ ![@Srijan-Subedi](https://avatars.githubusercontent.com/u/94234723?s=64&v=4) ](https://github.com/Srijan-Subedi)
+  * [ ![@reworkd-admin](https://avatars.githubusercontent.com/u/122697934?s=64&v=4) ](https://github.com/reworkd-admin)
+  * [ ![@exil0867](https://avatars.githubusercontent.com/u/6927114?s=64&v=4) ](https://github.com/exil0867)
+  * [ ![@l2hyunwoo](https://avatars.githubusercontent.com/u/54518925?s=64&v=4) ](https://github.com/l2hyunwoo)
+  * [ ![@ka-fuachie](https://avatars.githubusercontent.com/u/53425546?s=64&v=4) ](https://github.com/ka-fuachie)
+  * [ ![@Dogtiti](https://avatars.githubusercontent.com/u/38354472?s=64&v=4) ](https://github.com/Dogtiti)
+  * [ ![@tomi-lui](https://avatars.githubusercontent.com/u/64671485?s=64&v=4) ](https://github.com/tomi-lui)
+
+
+
+[+ 59 contributors](/reworkd/AgentGPT/graphs/contributors)
+
+## Languages
+
+  * [ TypeScript 56.4% ](/reworkd/AgentGPT/search?l=typescript)
+  * [ Python 32.1% ](/reworkd/AgentGPT/search?l=python)
+  * [ JavaScript 5.2% ](/reworkd/AgentGPT/search?l=javascript)
+  * [ MDX 4.7% ](/reworkd/AgentGPT/search?l=mdx)
+  * [ CSS 0.9% ](/reworkd/AgentGPT/search?l=css)
+  * [ Shell 0.4% ](/reworkd/AgentGPT/search?l=shell)
+  * Other 0.3%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

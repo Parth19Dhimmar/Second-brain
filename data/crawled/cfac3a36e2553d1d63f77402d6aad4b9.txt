@@ -1,0 +1,630 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F81d67b0ee31a&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](https://medium.com/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](https://medium.com/search?source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)
+
+Top highlight
+
+# Evaluating RAG Applications with RAGAs
+
+## A framework with metrics and LLM-generated data to evaluate the performance of your Retrieval-Augmented Generation pipeline
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:88:88/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---byline--81d67b0ee31a--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:48:48/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---byline--81d67b0ee31a--------------------------------)
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---byline--81d67b0ee31a--------------------------------)
+
+·
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F3a38da70d8dc&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&user=Leonie+Monigatti&userId=3a38da70d8dc&source=post_page-3a38da70d8dc--byline--81d67b0ee31a---------------------post_header-----------)
+
+Published in
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---byline--81d67b0ee31a--------------------------------)
+
+·
+
+8 min read
+
+·
+
+Dec 13, 2023
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F81d67b0ee31a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&user=Leonie+Monigatti&userId=3a38da70d8dc&source=---header_actions--81d67b0ee31a---------------------clap_footer-----------)
+
+1.6K
+
+9
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F81d67b0ee31a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&source=---header_actions--81d67b0ee31a---------------------bookmark_footer-----------)
+
+[Listen](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D81d67b0ee31a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&source=---header_actions--81d67b0ee31a---------------------post_audio_button-----------)
+
+Share
+
+![Stylized performance dashboard for Retrieval-Augmented Generation](https://miro.medium.com/v2/resize:fit:700/1*t8v_0ztDLfkLB0fvHHc9pw.png)
+
+Stylized performance dashboard for Retrieval-Augmented Generation
+
+By now, we know that building a proof of concept for a [Retrieval-Augmented Generation (RAG) application](https://medium.com/towards-data-science/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2) is easy, but making it production-ready is very difficult. Getting the RAG pipeline's performance to a satisfying state is especially difficult because of the different components in a RAG pipeline:
+
+  * **Retriever component:** retrieves additional context from an external database for the LLM to answer the query.
+  * **Generator component:** generates an answer based on a prompt augmented with the retrieved information.
+
+
+
+When evaluating a RAG pipeline, you must evaluate both components separately and together to understand if and where the RAG pipeline still needs improvement. Additionally, to understand whether your RAG application’s performance is improving, you must evaluate it quantitatively. For this, you will need two ingredients: **An evaluation metric and an evaluation dataset.**
+
+Currently, determining the right evaluation metrics and collecting good validation data is an active research field. As this is a quickly evolving topic, we are currently witnessing the appearance of various approaches for RAG evaluation frameworks, such as the [RAG Triad of metrics](https://learn.deeplearning.ai/building-evaluating-advanced-rag/lesson/3/rag-triad-of-metrics), [ROUGE](https://aclanthology.org/W04-1013/), [ARES](https://arxiv.org/abs/2311.09476), [BLEU](https://dl.acm.org/doi/10.3115/1073083.1073135), and [RAGAs](https://arxiv.org/pdf/2309.15217v1.pdf) [1]. This article will focus on how you can evaluate a RAG pipeline using [RAGAs](https://arxiv.org/pdf/2309.15217v1.pdf) [1].
+
+# What is RAGAs
+
+RAGAs (**R** etrieval-**A** ugmented **G** eneration **As** sessment) is a framework ([GitHub](https://github.com/explodinggradients/ragas), [Docs](https://docs.ragas.io/en/latest/)) that provides you with the necessary ingredients to help you evaluate your RAG pipeline on a component level.
+
+## Evaluation Data
+
+What’s interesting about RAGAs is that it started out as a framework for “reference-free” evaluation [1]. That means, instead of having to rely on human-annotated ground truth labels in the evaluation dataset, RAGAs leverages LLMs under the hood to conduct the evaluations.
+
+To evaluate the RAG pipeline, RAGAs expects the following information:
+
+  * `question`: The user query that is the input of the RAG pipeline. The input.
+  * `answer`: The generated answer from the RAG pipeline. The output.
+  * `contexts`: The contexts retrieved from the external knowledge source used to answer the `question`.
+  * `ground_truths`: The ground truth answer to the `question`. This is the only human-annotated information. This information is only required for the metric `context_recall` (see [Evaluation Metrics](#c52f)).
+
+
+
+Leveraging LLMs for reference-free evaluation is an active research topic. While using as little human-annotated data as possible makes it a cheaper and faster evaluation method, there is still some discussion about its shortcomings, such as bias [3]. However, some papers have already shown promising results [4]. For detailed information, see the “Related Work” section of the RAGAs [1] paper.
+
+Note that the framework has expanded to provide metrics and paradigms that require ground truth labels (e.g., `context_recall` and `answer_correctness`, see [Evaluation Metrics](#c52f)).
+
+Additionally, the framework provides you with tooling for [automatic test data generation](https://docs.ragas.io/en/latest/concepts/testset_generation.html).
+
+## Evaluation Metrics
+
+RAGAs provide you with a few [metrics](https://docs.ragas.io/en/latest/concepts/metrics/index.html) to evaluate a RAG pipeline component-wise as well as end-to-end.
+
+On a **component level** , RAGAs provides you with metrics to evaluate the retrieval component (`context_relevancy` and `context_recall`) and the generative component (`faithfulness` and `answer_relevancy`) separately [2]:
+
+  * [**Context precision**](https://docs.ragas.io/en/latest/concepts/metrics/context_precision.html)measures the signal-to-noise ratio of the retrieved context. This metric is computed using the `question` and the `contexts`.
+  * [**Context recall**](https://docs.ragas.io/en/latest/concepts/metrics/context_recall.html)measures if all the relevant information required to answer the question was retrieved. This metric is computed based on the `ground_truth` (this is the only metric in the framework that relies on human-annotated ground truth labels) and the `contexts`.
+  * [**Faithfulness**](https://docs.ragas.io/en/latest/concepts/metrics/faithfulness.html) measures the factual accuracy of the generated answer. The number of correct statements from the given contexts is divided by the total number of statements in the generated answer. This metric uses the `question`, `contexts`and the `answer`.
+  * [**Answer relevancy**](https://docs.ragas.io/en/latest/concepts/metrics/answer_relevance.html) measures how relevant the generated answer is to the question. This metric is computed using the `question` and the `answer`. For example, the answer “ _France is in western Europe_.” to the question “ _Where is France and what is it’s capital?_ ” would achieve a low answer relevancy because it only answers half of the question.
+
+
+
+All metrics are scaled to the range [0, 1], with higher values indicating a better performance.
+
+RAGAs also provides you with metrics to evaluate the RAG pipeline **end-to-end,** such as [answer semantic similarity](https://docs.ragas.io/en/latest/concepts/metrics/semantic_similarity.html) and [answer correctness](https://docs.ragas.io/en/latest/concepts/metrics/answer_correctness.html). This article focuses on the component-level metrics.
+
+# Evaluating a RAG Application with RAGAs
+
+This section uses RAGAs to evaluate a minimal vanilla RAG pipeline to show you how to use RAGAs and to give you an intuition about its evaluation metrics.
+
+## Prerequisites
+
+Make sure you have installed the required Python packages:
+
+  * `langchain`, `openai`, and `weaviate-client` for the RAG pipeline
+  * `ragas` for evaluating the RAG pipeline
+
+```
+#!pip install langchain openai weaviate-client ragas
+```
+
+Additionally, define your relevant environment variables in a .env file in your root directory. To obtain an OpenAI API Key, you need an OpenAI account and then “Create new secret key” under [API keys](https://platform.openai.com/account/api-keys).
+
+```
+OPENAI_API_KEY="<YOUR_OPENAI_API_KEY>"
+```
+
+## Setting up the RAG application
+
+Before you can evaluate your RAG application, you need to set it up. We will use a vanilla RAG pipeline. We will keep this section short since we will use the same setup described in detail in the following article.
+
+## [Retrieval-Augmented Generation (RAG): From Theory to LangChain ImplementationFrom the theory of the original academic paper to its Python implementation with OpenAI, Weaviate, and LangChaintowardsdatascience.com](/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2?source=post_page-----81d67b0ee31a--------------------------------)
+
+First, you must prepare the data by loading and chunking the documents.
+
+```
+import requestsfrom langchain.document_loaders import TextLoaderfrom langchain.text_splitter import CharacterTextSplitterurl = "https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/docs/modules/state_of_the_union.txt"res = requests.get(url)with open("state_of_the_union.txt", "w") as f: f.write(res.text)# Load the dataloader = TextLoader('./state_of_the_union.txt')documents = loader.load()# Chunk the datatext_splitter = CharacterTextSplitter(chunk_size=500, chunk_overlap=50)chunks = text_splitter.split_documents(documents)
+```
+
+Next, generate the vector embeddings for each chunk with the OpenAI embedding model and store them in the vector database.
+
+```
+from langchain.embeddings import OpenAIEmbeddingsfrom langchain.vectorstores import Weaviateimport weaviatefrom weaviate.embedded import EmbeddedOptionsfrom dotenv import load_dotenv,find_dotenv# Load OpenAI API key from .env fileload_dotenv(find_dotenv())# Setup vector databaseclient = weaviate.Client( embedded_options = EmbeddedOptions())# Populate vector databasevectorstore = Weaviate.from_documents( client = client, documents = chunks, embedding = OpenAIEmbeddings(), by_text = False)# Define vectorstore as retriever to enable semantic searchretriever = vectorstore.as_retriever()
+```
+
+Finally, set up a prompt template and the OpenAI LLM and combine them with the retriever component to a RAG pipeline.
+
+```
+from langchain.chat_models import ChatOpenAIfrom langchain.prompts import ChatPromptTemplatefrom langchain.schema.runnable import RunnablePassthroughfrom langchain.schema.output_parser import StrOutputParser# Define LLMllm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)# Define prompt templatetemplate = """You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. If you don't know the answer, just say that you don't know. Use two sentences maximum and keep the answer concise.Question: {question} Context: {context} Answer:"""prompt = ChatPromptTemplate.from_template(template)# Setup RAG pipelinerag_chain = ( {"context": retriever, "question": RunnablePassthrough()} | prompt | llm | StrOutputParser() )
+```
+
+## Preparing the Evaluation Data
+
+As RAGAs aims to be a reference-free evaluation framework, the required preparations of the evaluation dataset are minimal. You will need to prepare `question` and `ground_truths` pairs from which you can prepare the remaining information through inference as follows:
+
+```
+from datasets import Datasetquestions = ["What did the president say about Justice Breyer?", "What did the president say about Intel's CEO?", "What did the president say about gun violence?", ]ground_truths = [["The president said that Justice Breyer has dedicated his life to serve the country and thanked him for his service."], ["The president said that Pat Gelsinger is ready to increase Intel's investment to $100 billion."], ["The president asked Congress to pass proven measures to reduce gun violence."]]answers = []contexts = []# Inferencefor query in questions: answers.append(rag_chain.invoke(query)) contexts.append([docs.page_content for docs in retriever.get_relevant_documents(query)])# To dictdata = { "question": questions, "answer": answers, "contexts": contexts, "ground_truths": ground_truths}# Convert dict to datasetdataset = Dataset.from_dict(data)
+```
+
+If you are not interested in the `context_recall` metric, you don’t need to provide the `ground_truths` information. In this case, all you need to prepare are the `question`s.
+
+## Evaluating the RAG application
+
+First, import all the metrics you want to use from `ragas.metrics`. Then, you can use the `evaluate()` function and simply pass in the relevant metrics and the prepared dataset.
+
+```
+from ragas import evaluatefrom ragas.metrics import ( faithfulness, answer_relevancy, context_recall, context_precision,)result = evaluate( dataset = dataset, metrics=[ context_precision, context_recall, faithfulness, answer_relevancy, ],)df = result.to_pandas()
+```
+
+Below, you can see the resulting RAGAs scores for the examples:
+
+![](https://miro.medium.com/v2/resize:fit:1000/1*EPFvP7YP1esSDESjKDtnXQ.png)
+
+RAGAs scores context precision, context recall, faithfulness, and answer relevancy.
+
+We can make the following observations:
+
+  * `context_relevancy` (signal-to-noise ratio of the retrieved context): While the LLM judges all of the context as relevant for the last question, it also judges that most of the retrieved context for the second question is irrelevant. Depending on this metric, you could experiment with different numbers of retrieved contexts to reduce the noise.
+  * `context_recall`(if all the relevant information required to answer the question was retrieved): The LLMs evaluate that the retrieved contexts contain the relevant information required to answer the questions correctly.
+  * `faithfulness` (factual accuracy of the generated answer): While the LLM judges that the first and last questions are answered correctly, the answer to the second question, which wrongly states that the president did not mention Intel’s CEO, is judged with a faithfulness of 0.5.
+  * `answer_relevancy` (how relevant is the generated answer to the question): All of the generated answers are judged as fairly relevant to the questions.
+
+
+
+As mentioned in [Evaluation Data](#836f), using LLMs for reference-free evaluation is an active research field. I am curious to see how this topic will evolve.
+
+# Summary
+
+Building a proof-of-concept RAG application is easy, but getting its performance production-ready is hard. Like a machine learning project, you should evaluate the RAG pipeline’s performance with a validation dataset and an evaluation metric.
+
+However, since a RAG pipeline consists of multiple components that must be evaluated separately and in combinations, you will require a set of evaluation metrics. Additionally, generating a high-quality validation dataset from human annotators is hard, time-consuming, and expensive.
+
+This article has introduced the [RAGAs](https://arxiv.org/pdf/2309.15217v1.pdf) [1] evaluation framework. The framework proposes four evaluation metrics — `context_relevancy`, `context_recall`, `faithfulness` and `answer_relevancy` — that together make up the RAGAs score. Additionally, RAGAs leverages LLMs under the hood for reference-free evaluation to save costs.
+
+Now that you have the tools to evaluate your RAG application’s performance, I recommend [setting up an experimentation pipeline](https://medium.com/@iamleonie/intro-to-mlops-experiment-tracking-for-machine-learning-858e432bd133) and start tweaking the performance with the following tuning strategies:
+
+## [A Guide on 12 Tuning Strategies for Production-Ready RAG ApplicationsHow to improve the performance of your Retrieval-Augmented Generation (RAG) pipeline with these “hyperparameters” and…towardsdatascience.com](/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439?source=post_page-----81d67b0ee31a--------------------------------)
+
+You can find the code to generate this dataset in [this GitHub repository](https://github.com/weaviate/recipes/blob/main/evaluation/RAGAs-RAG-langchain.ipynb).
+
+# Enjoyed This Story?
+
+[_Subscribe for free_](https://medium.com/subscribe/@iamleonie) _to get notified when I publish a new story._
+
+## [Get an email whenever Leonie Monigatti publishes.Get an email whenever Leonie Monigatti publishes. By signing up, you will create a Medium account if you don’t already…medium.com](https://medium.com/@iamleonie/subscribe?source=post_page-----81d67b0ee31a--------------------------------)
+
+ _Find me on_[ _LinkedIn_](https://www.linkedin.com/in/804250ab/),[_Twitter_](https://twitter.com/helloiamleonie) _, and_[ _Kaggle_](https://www.kaggle.com/iamleonie) _!_
+
+# Disclaimer
+
+I am a Developer Advocate at Weaviate, an open source vector database, at the time of this writing.
+
+# References
+
+[1] Es, S., James, J., Espinosa-Anke, L., & Schockaert, S. (2023). RAGAs: Automated Evaluation of Retrieval Augmented Generation. [_arXiv preprint arXiv:2309.15217_](https://arxiv.org/pdf/2309.15217v1.pdf).
+
+[2] RAGAs Documentation (2023). [Documentation](https://docs.ragas.io/en/latest/index.html) (accessed Dec 11, 2023)
+
+[3] Wang, P., Li, L., Chen, L., Zhu, D., Lin, B., Cao, Y., … & Sui, Z. (2023). Large language models are not fair evaluators. [_arXiv preprint arXiv:2305.17926_.](https://arxiv.org/abs/2305.17926)
+
+[4] Liu, Y., Iter, D., Xu, Y., Wang, S., Xu, R., & Zhu, C. (2023). G-eval: Nlg evaluation using gpt-4 with better human alignment, may 2023. [_arXiv preprint arXiv:2303.16634_ , _6_.](https://arxiv.org/abs/2303.16634)
+
+## Images
+
+If not otherwise stated, all images are created by the author.
+
+![](https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)
+
+## Sign up to discover human stories that deepen your understanding of the world.
+
+## Free
+
+Distraction-free reading. No ads.
+
+Organize your knowledge with lists and highlights.
+
+Tell your story. Find your audience.
+
+[Sign up for free](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&source=---post_footer_upsell--81d67b0ee31a---------------------lo_non_moc_upsell-----------)
+
+## Membership
+
+Read member-only stories
+
+Support writers you read most
+
+Earn money for your writing
+
+Listen to audio narrations
+
+Read offline with the Medium app
+
+[Try for $5/month](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplans&source=---post_footer_upsell--81d67b0ee31a---------------------lo_non_moc_upsell-----------)
+
+[Data Science](https://medium.com/tag/data-science?source=post_page-----81d67b0ee31a--------------------------------)
+
+[Machine Learning](https://medium.com/tag/machine-learning?source=post_page-----81d67b0ee31a--------------------------------)
+
+[Artificial Intelligence](https://medium.com/tag/artificial-intelligence?source=post_page-----81d67b0ee31a--------------------------------)
+
+[Programming](https://medium.com/tag/programming?source=post_page-----81d67b0ee31a--------------------------------)
+
+[Rags](https://medium.com/tag/rags?source=post_page-----81d67b0ee31a--------------------------------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F81d67b0ee31a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&user=Leonie+Monigatti&userId=3a38da70d8dc&source=---footer_actions--81d67b0ee31a---------------------clap_footer-----------)
+
+1.6K
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F81d67b0ee31a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&user=Leonie+Monigatti&userId=3a38da70d8dc&source=---footer_actions--81d67b0ee31a---------------------clap_footer-----------)
+
+1.6K
+
+9
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F81d67b0ee31a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&source=---footer_actions--81d67b0ee31a---------------------bookmark_footer-----------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:96:96/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--81d67b0ee31a--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:128:128/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--81d67b0ee31a--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--81d67b0ee31a---------------------follow_profile-----------)
+
+## [Published in Towards Data Science](https://towardsdatascience.com/?source=post_page---post_publication_info--81d67b0ee31a--------------------------------)
+
+[794K Followers](/followers?source=post_page---post_publication_info--81d67b0ee31a--------------------------------)
+
+·[Last published just now](/explaining-the-attention-mechanism-29a0e7b448a9?source=post_page---post_publication_info--81d67b0ee31a--------------------------------)
+
+Your home for data science and AI. The world’s leading publication for data science, data analytics, data engineering, machine learning, and artificial intelligence professionals.
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--81d67b0ee31a---------------------follow_profile-----------)
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:96:96/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---post_author_info--81d67b0ee31a--------------------------------)
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:128:128/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---post_author_info--81d67b0ee31a--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F3a38da70d8dc&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&user=Leonie+Monigatti&userId=3a38da70d8dc&source=post_page-3a38da70d8dc--post_author_info--81d67b0ee31a---------------------follow_profile-----------)
+
+## [Written by Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---post_author_info--81d67b0ee31a--------------------------------)
+
+[33K Followers](https://medium.com/@iamleonie/followers?source=post_page---post_author_info--81d67b0ee31a--------------------------------)
+
+·[183 Following](https://medium.com/@iamleonie/following?source=post_page---post_author_info--81d67b0ee31a--------------------------------)
+
+Developer Advocate @ Weaviate. Follow for practical data science guides - whether you're a data scientist or not. [linkedin.com/in/804250ab](http://linkedin.com/in/804250ab)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F3a38da70d8dc&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&user=Leonie+Monigatti&userId=3a38da70d8dc&source=post_page-3a38da70d8dc--post_author_info--81d67b0ee31a---------------------follow_profile-----------)
+
+## Responses (9)
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--81d67b0ee31a--------------------------------)
+
+[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&source=---post_responses--81d67b0ee31a---------------------respond_sidebar-----------)
+
+Cancel
+
+Respond
+
+Respond
+
+Also publish to my profile
+
+[![Kevin Kuei](https://miro.medium.com/v2/resize:fill:32:32/0*5ZXfoTHMM6gXKnHq.jpg)](https://medium.com/@kevin.kuei.0321?source=post_page---post_responses--81d67b0ee31a----0----------------------------)
+
+[Kevin Kuei](https://medium.com/@kevin.kuei.0321?source=post_page---post_responses--81d67b0ee31a----0----------------------------)
+
+[Mar 7, 2024](https://medium.com/@kevin.kuei.0321/please-translate-to-chinese-1bc3bfcf35ac?source=post_page---post_responses--81d67b0ee31a----0----------------------------)
+
+ingredients
+
+```
+
+
+please translate to chinese
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F1bc3bfcf35ac&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kevin.kuei.0321%2Fplease-translate-to-chinese-1bc3bfcf35ac&user=Kevin+Kuei&userId=e8cb5288ba9a&source=---post_responses--1bc3bfcf35ac----0-----------------respond_sidebar-----------)
+
+1
+
+Reply
+
+[![Shrijayan](https://miro.medium.com/v2/resize:fill:32:32/1*nxqNJMwU-kz2eNZmtlyj1w.png)](https://medium.com/@shrijayan?source=post_page---post_responses--81d67b0ee31a----1----------------------------)
+
+[Shrijayan](https://medium.com/@shrijayan?source=post_page---post_responses--81d67b0ee31a----1----------------------------)
+
+[Jan 3, 2024](https://medium.com/@shrijayan/openaikeynotfound-openai-api-key-not-found-cfebcb97a9b3?source=post_page---post_responses--81d67b0ee31a----1----------------------------)
+
+```
+
+
+OpenAIKeyNotFound: OpenAI API key not found! Seems like your trying to use Ragas metrics with OpenAI endpoints. Please set 'OPENAI_API_KEY' environment variable
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fcfebcb97a9b3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shrijayan%2Fopenaikeynotfound-openai-api-key-not-found-cfebcb97a9b3&user=Shrijayan&userId=71a3ebccbeeb&source=---post_responses--cfebcb97a9b3----1-----------------respond_sidebar-----------)
+
+1
+
+Reply
+
+[![Anuj Khandelwal](https://miro.medium.com/v2/resize:fill:32:32/2*B29flpgsHJ509t2_Mnv5Zg.png)](https://www.medium.anujonthemove.com/?source=post_page---post_responses--81d67b0ee31a----2----------------------------)
+
+[Anuj Khandelwal](https://www.medium.anujonthemove.com/?source=post_page---post_responses--81d67b0ee31a----2----------------------------)
+
+[Oct 1, 2024](https://www.medium.anujonthemove.com/deepeval-by-confident-ai-provides-many-researched-backed-llm-based-reference-free-evaluation-0d68dab96bc7?source=post_page---post_responses--81d67b0ee31a----2----------------------------)
+
+using LLMs for reference-free evaluation is an active research field.
+
+```
+
+
+DeepEval by Confident AI provides many researched-backed, LLM based, reference-free evaluation metrics.
+
+In fact, RAGAs, is also in the process of releasing their implementation of LLM based metrics. One can check this out at: <https://docs.ragas.io/en/latest/concepts/metrics/context_recall/>
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F0d68dab96bc7&operation=register&redirect=https%3A%2F%2Fwww.medium.anujonthemove.com%2Fdeepeval-by-confident-ai-provides-many-researched-backed-llm-based-reference-free-evaluation-0d68dab96bc7&user=Anuj+Khandelwal&userId=4de630a69b46&source=---post_responses--0d68dab96bc7----2-----------------respond_sidebar-----------)
+
+Reply
+
+See all responses
+
+## More from Leonie Monigatti and Towards Data Science
+
+![DSPy logo of puzzle pieces showing the DSPy modules Signature, Modules, Teleprompter, and the DSPy compiler prioritzed over prompting.](https://miro.medium.com/v2/resize:fit:679/1*hZoX1Q_rp9FyYwPJ4FlaUg@2x.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--81d67b0ee31a----0---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--81d67b0ee31a----0---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+by
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---author_recirc--81d67b0ee31a----0---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+## [Intro to DSPy: Goodbye Prompting, Hello Programming!How the DSPy framework solves the fragility problem in LLM-based applications by replacing prompting with programming and compiling](/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9?source=post_page---author_recirc--81d67b0ee31a----0---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+Feb 27, 2024
+
+[4.3K14](/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9?source=post_page---author_recirc--81d67b0ee31a----0---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4ca1c6ce3eb9&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9&source=---author_recirc--81d67b0ee31a----0-----------------bookmark_preview----3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+![Why Generative-AI Apps’ Quality Often Sucks and What to Do About It](https://miro.medium.com/v2/resize:fit:679/1*ze5_bcSOz29WLvry5gi0bg.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--81d67b0ee31a----1---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--81d67b0ee31a----1---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+by
+
+[Dr. Marcel Müller](https://medium.com/@marcelmueller?source=post_page---author_recirc--81d67b0ee31a----1---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+## [Why Generative-AI Apps’ Quality Often Sucks and What to Do About ItHow to get from PoCs to tested high-quality applications in production](/why-generative-ai-apps-quality-often-sucks-and-what-to-do-about-it-f84407f263c3?source=post_page---author_recirc--81d67b0ee31a----1---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+1d ago
+
+[1192](/why-generative-ai-apps-quality-often-sucks-and-what-to-do-about-it-f84407f263c3?source=post_page---author_recirc--81d67b0ee31a----1---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff84407f263c3&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fwhy-generative-ai-apps-quality-often-sucks-and-what-to-do-about-it-f84407f263c3&source=---author_recirc--81d67b0ee31a----1-----------------bookmark_preview----3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+![A selection of used images within the article.](https://miro.medium.com/v2/resize:fit:679/1*Rc_H4sx40bLqTFkRFq3SVQ.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--81d67b0ee31a----2---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--81d67b0ee31a----2---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+by
+
+[Jens Linden, PhD](https://medium.com/@jens-linden?source=post_page---author_recirc--81d67b0ee31a----2---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+## [How Most Organizations Get Data Strategy Wrong — and How to Fix ItRedefining Data Strategy to Drive Competitive Advantage with Data, Analytics and AI](/how-most-organizations-get-data-strategy-wrong-and-how-to-fix-it-b8afa59f1533?source=post_page---author_recirc--81d67b0ee31a----2---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+1d ago
+
+[3907](/how-most-organizations-get-data-strategy-wrong-and-how-to-fix-it-b8afa59f1533?source=post_page---author_recirc--81d67b0ee31a----2---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb8afa59f1533&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fhow-most-organizations-get-data-strategy-wrong-and-how-to-fix-it-b8afa59f1533&source=---author_recirc--81d67b0ee31a----2-----------------bookmark_preview----3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+![Retrieval augmented generation \(RAG\) workflow from user query through retrieval with a vector database to prompt stuffing and finally generating a response.](https://miro.medium.com/v2/resize:fit:679/1*kSkeaXRvRzbJ9SrFZaMoOg.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--81d67b0ee31a----3---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--81d67b0ee31a----3---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+by
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---author_recirc--81d67b0ee31a----3---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+## [Retrieval-Augmented Generation (RAG): From Theory to LangChain ImplementationFrom the theory of the original academic paper to its Python implementation with OpenAI, Weaviate, and LangChain](/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2?source=post_page---author_recirc--81d67b0ee31a----3---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+Nov 14, 2023
+
+[1.8K15](/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2?source=post_page---author_recirc--81d67b0ee31a----3---------------------3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4e9bd5f6a4f2&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fretrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2&source=---author_recirc--81d67b0ee31a----3-----------------bookmark_preview----3ac7e74d_1029_4489_9bd2_4b378b077f34-------)
+
+[See all from Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---author_recirc--81d67b0ee31a--------------------------------)
+
+[See all from Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--81d67b0ee31a--------------------------------)
+
+## Recommended from Medium
+
+![Intro to MLOps: Experiment Tracking for Machine Learning](https://miro.medium.com/v2/resize:fit:679/1*JZheX6XxxFWJp8wg8-cL6g.png)
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:20:20/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---read_next_recirc--81d67b0ee31a----0---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---read_next_recirc--81d67b0ee31a----0---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+## [Intro to MLOps: Experiment Tracking for Machine LearningWhy it matters and three different ways you can log and organize your ML experiments with pen and paper, spreadsheets, and modern…](https://medium.com/@iamleonie/intro-to-mlops-experiment-tracking-for-machine-learning-858e432bd133?source=post_page---read_next_recirc--81d67b0ee31a----0---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+Dec 23, 2022
+
+[6427](https://medium.com/@iamleonie/intro-to-mlops-experiment-tracking-for-machine-learning-858e432bd133?source=post_page---read_next_recirc--81d67b0ee31a----0---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F858e432bd133&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40iamleonie%2Fintro-to-mlops-experiment-tracking-for-machine-learning-858e432bd133&source=---read_next_recirc--81d67b0ee31a----0-----------------bookmark_preview----443f8914_667a_4883_8dd9_aefef114910e-------)
+
+![How to Use Hybrid Search for Better LLM RAG Retrieval](https://miro.medium.com/v2/resize:fit:679/1*6OKP-FOqqkJv0galmQsD0w.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--81d67b0ee31a----1---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--81d67b0ee31a----1---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+by
+
+[Dr. Leon Eversberg](https://medium.com/@leoneversberg?source=post_page---read_next_recirc--81d67b0ee31a----1---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+## [How to Use Hybrid Search for Better LLM RAG RetrievalBuilding an advanced local LLM RAG pipeline by combining dense embeddings with BM25](/how-to-use-hybrid-search-for-better-llm-rag-retrieval-032f66810ebe?source=post_page---read_next_recirc--81d67b0ee31a----1---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+Aug 11, 2024
+
+[9945](/how-to-use-hybrid-search-for-better-llm-rag-retrieval-032f66810ebe?source=post_page---read_next_recirc--81d67b0ee31a----1---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F032f66810ebe&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-use-hybrid-search-for-better-llm-rag-retrieval-032f66810ebe&source=---read_next_recirc--81d67b0ee31a----1-----------------bookmark_preview----443f8914_667a_4883_8dd9_aefef114910e-------)
+
+## Lists
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/0*r4yjMpEmqzHCUvWC.jpg)![](https://miro.medium.com/v2/resize:fill:48:48/1*bv2KUVNLi2sFNjBTdoBmWw.png)![](https://miro.medium.com/v2/resize:fill:48:48/0*zsngbTOmFCy6sUCx.jpeg)Predictive Modeling w/ Python20 stories·1792 saves](https://medium.com/@ben.putney/list/predictive-modeling-w-python-e3668ea008e1?source=post_page---read_next_recirc--81d67b0ee31a--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*nVAk9E_TnPIK8Kv57PJruA.png)![](https://miro.medium.com/v2/resize:fill:48:48/1*790FdGYUonUX4X3IyQr1Og.png)![](https://miro.medium.com/v2/da:true/resize:fill:48:48/1*o1k0mQo3BuyIkmg-rI2Eiw.gif)Natural Language Processing1889 stories·1551 saves](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a?source=post_page---read_next_recirc--81d67b0ee31a--------------------------------)
+
+[![Principal Component Analysis for ML](https://miro.medium.com/v2/resize:fill:48:48/1*swd_PY6vTCyPnsgBYoFZfA.png)![Time Series Analysis](https://miro.medium.com/v2/resize:fill:48:48/1*8sSAHftNwd_RNJ3k4VA0pA.png)![deep learning cheatsheet for beginner](https://miro.medium.com/v2/resize:fill:48:48/1*uNyD4yNMH-DnOel1wzxOOA.png)Practical Guides to Machine Learning10 stories·2168 saves](https://destingong.medium.com/list/practical-guides-to-machine-learning-a877c2a39884?source=post_page---read_next_recirc--81d67b0ee31a--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*vzu3JPzaq2EZKTZNY9BhLA.png)![AI-generated image of a cute tiny robot in the backdrop of ChatGPT’s logo](https://miro.medium.com/v2/resize:fill:48:48/1*lEmL62oZdrOOWIzAAFKiFg.jpeg)![](https://miro.medium.com/v2/resize:fill:48:48/1*i2zLIwC9mftamP1dbciCeQ.jpeg)ChatGPT21 stories·950 saves](https://medium.com/@m.wasalski/list/chatgpt-3742c7a4727d?source=post_page---read_next_recirc--81d67b0ee31a--------------------------------)
+
+![Two stochastic parrots sitting on a chain of large language models: LangChain](https://miro.medium.com/v2/resize:fit:679/1*4C54ZxHRM1dOlAvlvoEJZg@2x.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--81d67b0ee31a----0---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--81d67b0ee31a----0---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+by
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---read_next_recirc--81d67b0ee31a----0---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+## [Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered ApplicationsA LangChain tutorial to build anything with large language models in Python](/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c?source=post_page---read_next_recirc--81d67b0ee31a----0---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+Apr 25, 2023
+
+[4.4K31](/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c?source=post_page---read_next_recirc--81d67b0ee31a----0---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F95fc8898732c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fgetting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c&source=---read_next_recirc--81d67b0ee31a----0-----------------bookmark_preview----443f8914_667a_4883_8dd9_aefef114910e-------)
+
+![Agentic chuning offers near human-level performance in chunking](https://miro.medium.com/v2/resize:fit:679/1*wzK0hP8qqmrpv2ds6_R9uw.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--81d67b0ee31a----1---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--81d67b0ee31a----1---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+by
+
+[Thuwarakesh Murallie](https://thuwarakesh.medium.com/?source=post_page---read_next_recirc--81d67b0ee31a----1---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+## [How to Achieve Near Human-Level Performance in Chunking for RAGsThe costly yet powerful splitting technique for superior RAG retrieval](/agentic-chunking-for-rags-091beccd94b1?source=post_page---read_next_recirc--81d67b0ee31a----1---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+Aug 26, 2024
+
+[6446](/agentic-chunking-for-rags-091beccd94b1?source=post_page---read_next_recirc--81d67b0ee31a----1---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F091beccd94b1&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fagentic-chunking-for-rags-091beccd94b1&source=---read_next_recirc--81d67b0ee31a----1-----------------bookmark_preview----443f8914_667a_4883_8dd9_aefef114910e-------)
+
+![DSPy logo of puzzle pieces showing the DSPy modules Signature, Modules, Teleprompter, and the DSPy compiler prioritzed over prompting.](https://miro.medium.com/v2/resize:fit:679/1*hZoX1Q_rp9FyYwPJ4FlaUg@2x.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--81d67b0ee31a----2---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--81d67b0ee31a----2---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+by
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---read_next_recirc--81d67b0ee31a----2---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+## [Intro to DSPy: Goodbye Prompting, Hello Programming!How the DSPy framework solves the fragility problem in LLM-based applications by replacing prompting with programming and compiling](/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9?source=post_page---read_next_recirc--81d67b0ee31a----2---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+Feb 27, 2024
+
+[4.3K14](/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9?source=post_page---read_next_recirc--81d67b0ee31a----2---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4ca1c6ce3eb9&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9&source=---read_next_recirc--81d67b0ee31a----2-----------------bookmark_preview----443f8914_667a_4883_8dd9_aefef114910e-------)
+
+![RAG 101: Chunking Strategies](https://miro.medium.com/v2/resize:fit:679/1*4T9GoHUA2jZwlrATD_7vKw.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--81d67b0ee31a----3---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--81d67b0ee31a----3---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+by
+
+[Shanmukha Ranganath](https://memsranga.com/?source=post_page---read_next_recirc--81d67b0ee31a----3---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+## [RAG 101: Chunking StrategiesWhy, When, and How to chunk for enhanced RAG. Build intuition to develop chunking strategies.](/rag-101-chunking-strategies-fdc6f6c2aaec?source=post_page---read_next_recirc--81d67b0ee31a----3---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+Oct 5, 2024
+
+[5452](/rag-101-chunking-strategies-fdc6f6c2aaec?source=post_page---read_next_recirc--81d67b0ee31a----3---------------------443f8914_667a_4883_8dd9_aefef114910e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffdc6f6c2aaec&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Frag-101-chunking-strategies-fdc6f6c2aaec&source=---read_next_recirc--81d67b0ee31a----3-----------------bookmark_preview----443f8914_667a_4883_8dd9_aefef114910e-------)
+
+[See more recommendations](https://medium.com/?source=post_page---read_next_recirc--81d67b0ee31a--------------------------------)
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----81d67b0ee31a--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----81d67b0ee31a--------------------------------)
+
+[About](https://medium.com/about?autoplay=1&source=post_page-----81d67b0ee31a--------------------------------)
+
+[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----81d67b0ee31a--------------------------------)
+
+[Press](pressinquiries@medium.com?source=post_page-----81d67b0ee31a--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----81d67b0ee31a--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----81d67b0ee31a--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----81d67b0ee31a--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----81d67b0ee31a--------------------------------)
+
+[Teams](https://medium.com/business?source=post_page-----81d67b0ee31a--------------------------------)
+
+To make Medium work, we log user data. By using Medium, you agree to our [Privacy Policy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9), including cookie policy.

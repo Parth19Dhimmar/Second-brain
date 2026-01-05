@@ -1,0 +1,600 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FNannyML%2Fnannyml%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FNannyML%2Fnannyml%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=NannyML%2Fnannyml) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ NannyML ](/NannyML) / **[nannyml](/NannyML/nannyml) ** Public
+
+  * [ Notifications ](/login?return_to=%2FNannyML%2Fnannyml) You must be signed in to change notification settings
+  * [ Fork 149 ](/login?return_to=%2FNannyML%2Fnannyml)
+  * [ Star  2k ](/login?return_to=%2FNannyML%2Fnannyml)
+
+
+
+
+nannyml: post-deployment data science in python 
+
+[www.nannyml.com/](https://www.nannyml.com/ "https://www.nannyml.com/")
+
+### License
+
+[ Apache-2.0 license ](/NannyML/nannyml/blob/main/LICENSE)
+
+[ 2k stars ](/NannyML/nannyml/stargazers) [ 149 forks ](/NannyML/nannyml/forks) [ Branches ](/NannyML/nannyml/branches) [ Tags ](/NannyML/nannyml/tags) [ Activity ](/NannyML/nannyml/activity)
+
+[ Star  ](/login?return_to=%2FNannyML%2Fnannyml)
+
+[ Notifications ](/login?return_to=%2FNannyML%2Fnannyml) You must be signed in to change notification settings
+
+  * [ Code ](/NannyML/nannyml)
+  * [ Issues 8 ](/NannyML/nannyml/issues)
+  * [ Pull requests 0 ](/NannyML/nannyml/pulls)
+  * [ Discussions ](/NannyML/nannyml/discussions)
+  * [ Actions ](/NannyML/nannyml/actions)
+  * [ Projects 0 ](/NannyML/nannyml/projects)
+  * [ Security ](/NannyML/nannyml/security)
+  * [ Insights ](/NannyML/nannyml/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/NannyML/nannyml)
+  * [ Issues  ](/NannyML/nannyml/issues)
+  * [ Pull requests  ](/NannyML/nannyml/pulls)
+  * [ Discussions  ](/NannyML/nannyml/discussions)
+  * [ Actions  ](/NannyML/nannyml/actions)
+  * [ Projects  ](/NannyML/nannyml/projects)
+  * [ Security  ](/NannyML/nannyml/security)
+  * [ Insights  ](/NannyML/nannyml/pulse)
+
+
+
+# NannyML/nannyml
+
+main
+
+[**74** Branches](/NannyML/nannyml/branches)[**40** Tags](/NannyML/nannyml/tags)
+
+[](/NannyML/nannyml/branches)[](/NannyML/nannyml/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![nnansters](https://avatars.githubusercontent.com/u/94110348?v=4&size=40)](/nnansters)[nnansters](/NannyML/nannyml/commits?author=nnansters)[Bump version: 0.12.1 → 0.13.0](/NannyML/nannyml/commit/6c7f2e85c532e4a96507f8f3843f16989f1a9919)Jan 15, 2025[6c7f2e8](/NannyML/nannyml/commit/6c7f2e85c532e4a96507f8f3843f16989f1a9919) · Jan 15, 2025
+
+## History
+
+[1,271 Commits](/NannyML/nannyml/commits/main/)[](/NannyML/nannyml/commits/main/)  
+[.github](/NannyML/nannyml/tree/main/.github ".github")| [.github](/NannyML/nannyml/tree/main/.github ".github")| [Update actions workflows: drop 3.8 support, add 3.12 support.](/NannyML/nannyml/commit/cc510109b5a058a85cbbab53fc55e3556f13a953 "Update actions workflows: drop 3.8 support, add 3.12 support.")| Dec 18, 2024  
+[development](/NannyML/nannyml/tree/main/development "development")| [development](/NannyML/nannyml/tree/main/development "development")| [add NannyML profiling notebooks (](/NannyML/nannyml/commit/c98653401ff1c6735aa7e127abedab4489e9e2d9 "add NannyML profiling notebooks \(#396\)")[#396](https://github.com/NannyML/nannyml/pull/396)[)](/NannyML/nannyml/commit/c98653401ff1c6735aa7e127abedab4489e9e2d9 "add NannyML profiling notebooks \(#396\)")| Jun 6, 2024  
+[docs](/NannyML/nannyml/tree/main/docs "docs")| [docs](/NannyML/nannyml/tree/main/docs "docs")| [Merge branch 'NannyML:main' into main](/NannyML/nannyml/commit/8ad2cfd87d21503669824c0eb15af15c595ab6ce "Merge branch 'NannyML:main' into main")| Sep 6, 2024  
+[media](/NannyML/nannyml/tree/main/media "media")| [media](/NannyML/nannyml/tree/main/media "media")| [Add files via upload](/NannyML/nannyml/commit/8bb901aadc10d1a97057f25f5ce1684405be4b75 "Add files via upload
+GIF showcasing performance estimation in regression")| Nov 23, 2022  
+[nannyml](/NannyML/nannyml/tree/main/nannyml "nannyml")| [nannyml](/NannyML/nannyml/tree/main/nannyml "nannyml")| [Bump version: 0.12.1 → 0.13.0](/NannyML/nannyml/commit/6c7f2e85c532e4a96507f8f3843f16989f1a9919 "Bump version: 0.12.1 → 0.13.0")| Jan 15, 2025  
+[tests](/NannyML/nannyml/tree/main/tests "tests")| [tests](/NannyML/nannyml/tree/main/tests "tests")| [Revert numerical test changes...](/NannyML/nannyml/commit/9a8dcfc3efab70f0e85ae24ecc45899e30a96ffa "Revert numerical test changes...")| Jan 10, 2025  
+[.bumpversion.cfg](/NannyML/nannyml/blob/main/.bumpversion.cfg ".bumpversion.cfg")| [.bumpversion.cfg](/NannyML/nannyml/blob/main/.bumpversion.cfg ".bumpversion.cfg")| [Bump version: 0.12.1 → 0.13.0](/NannyML/nannyml/commit/6c7f2e85c532e4a96507f8f3843f16989f1a9919 "Bump version: 0.12.1 → 0.13.0")| Jan 15, 2025  
+[.dockerignore](/NannyML/nannyml/blob/main/.dockerignore ".dockerignore")| [.dockerignore](/NannyML/nannyml/blob/main/.dockerignore ".dockerignore")| [MVP+](/NannyML/nannyml/commit/34ee7d4f92563027b2707e89a4bac9a59c2f2ef0 "MVP+")| Aug 6, 2022  
+[.editorconfig](/NannyML/nannyml/blob/main/.editorconfig ".editorconfig")| [.editorconfig](/NannyML/nannyml/blob/main/.editorconfig ".editorconfig")| [initial commit](/NannyML/nannyml/commit/c34fdab107e572bdbea9d764202baf59b46c03f8 "initial commit")| Jan 26, 2022  
+[.gitignore](/NannyML/nannyml/blob/main/.gitignore ".gitignore")| [.gitignore](/NannyML/nannyml/blob/main/.gitignore ".gitignore")| [New Multivariate Drift Method: Classifier for Drift Detection (](/NannyML/nannyml/commit/3e11cd75e2904753847976eb5d2fc39a94dff4ac "New Multivariate Drift Method: Classifier for Drift Detection \(#355\)
+* adding cdd
+* flake8 and mypy fixes
+* expose calculator
+* filter categorical feature warnings
+* CDD draft doc
+* add cdd docs
+* doc update
+* py37 compatibility update
+* update docs
+* doc update
+* doc update
+* Break up the big chunk calculation block
+* Formatting
+---------
+Co-authored-by: Niels Nuyttens <niels@nannyml.com>")[#355](https://github.com/NannyML/nannyml/pull/355)[)](/NannyML/nannyml/commit/3e11cd75e2904753847976eb5d2fc39a94dff4ac "New Multivariate Drift Method: Classifier for Drift Detection \(#355\)
+* adding cdd
+* flake8 and mypy fixes
+* expose calculator
+* filter categorical feature warnings
+* CDD draft doc
+* add cdd docs
+* doc update
+* py37 compatibility update
+* update docs
+* doc update
+* doc update
+* Break up the big chunk calculation block
+* Formatting
+---------
+Co-authored-by: Niels Nuyttens <niels@nannyml.com>")| Feb 16, 2024  
+[.pre-commit-config.yaml](/NannyML/nannyml/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/NannyML/nannyml/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Feat/premium support (](/NannyML/nannyml/commit/b276a8f927eec5fda9ab784d78a5d1d740db2d50 "Feat/premium support \(#325\)
+* Support detection of AKS/EKS
+* Support detecting nannyML cloud
+* Add Runner support for the closed-source nannyml-premium package, including new calculators and estimators.
+* Linting fixes
+* Add types-requests to dev dependencies")[#325](https://github.com/NannyML/nannyml/pull/325)[)](/NannyML/nannyml/commit/b276a8f927eec5fda9ab784d78a5d1d740db2d50 "Feat/premium support \(#325\)
+* Support detection of AKS/EKS
+* Support detecting nannyML cloud
+* Add Runner support for the closed-source nannyml-premium package, including new calculators and estimators.
+* Linting fixes
+* Add types-requests to dev dependencies")| Sep 23, 2023  
+[.readthedocs.yaml](/NannyML/nannyml/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [.readthedocs.yaml](/NannyML/nannyml/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [Removed too much from readthedocs config](/NannyML/nannyml/commit/36965636f2533e55cfd48b4aa5d4a161231dbeb0 "Removed too much from readthedocs config")| May 20, 2022  
+[CHANGELOG.md](/NannyML/nannyml/blob/main/CHANGELOG.md "CHANGELOG.md")| [CHANGELOG.md](/NannyML/nannyml/blob/main/CHANGELOG.md "CHANGELOG.md")| [Updated CHANGELOG.md](/NannyML/nannyml/commit/48efd7ad28ebafeee807c85de3731ce66b75290a "Updated CHANGELOG.md")| Jan 15, 2025  
+[CONTRIBUTING.rst](/NannyML/nannyml/blob/main/CONTRIBUTING.rst "CONTRIBUTING.rst")| [CONTRIBUTING.rst](/NannyML/nannyml/blob/main/CONTRIBUTING.rst "CONTRIBUTING.rst")| [[skip ci] Update contributing guide](/NannyML/nannyml/commit/e6e39bf2adfe6323f6fe07c3aea1df80a956fa5d "\[skip ci\] Update contributing guide")| Jun 28, 2022  
+[Dockerfile](/NannyML/nannyml/blob/main/Dockerfile "Dockerfile")| [Dockerfile](/NannyML/nannyml/blob/main/Dockerfile "Dockerfile")| [add db optional dependency](/NannyML/nannyml/commit/4eb7c0cee527b519dbb41081bcb741741429564a "add db optional dependency")| Jul 31, 2024  
+[LICENSE](/NannyML/nannyml/blob/main/LICENSE "LICENSE")| [LICENSE](/NannyML/nannyml/blob/main/LICENSE "LICENSE")| [update readme](/NannyML/nannyml/commit/e49f979db64b65617978eacb77f4aa8b95630db8 "update readme")| May 9, 2022  
+[README.md](/NannyML/nannyml/blob/main/README.md "README.md")| [README.md](/NannyML/nannyml/blob/main/README.md "README.md")| [Bump version: 0.12.1 → 0.13.0](/NannyML/nannyml/commit/6c7f2e85c532e4a96507f8f3843f16989f1a9919 "Bump version: 0.12.1 → 0.13.0")| Jan 15, 2025  
+[makefile](/NannyML/nannyml/blob/main/makefile "makefile")| [makefile](/NannyML/nannyml/blob/main/makefile "makefile")| [[skip ci] small doc updates](/NannyML/nannyml/commit/8311c58a272e743367589e13fb5bf4a17b06d2c5 "\[skip ci\] small doc updates")| Sep 6, 2022  
+[poetry.lock](/NannyML/nannyml/blob/main/poetry.lock "poetry.lock")| [poetry.lock](/NannyML/nannyml/blob/main/poetry.lock "poetry.lock")| [Less restrictive upgrades](/NannyML/nannyml/commit/7fb4939113e29fd71ca0f92cd092aef8228d2c76 "Less restrictive upgrades")| Jan 10, 2025  
+[pyproject.toml](/NannyML/nannyml/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/NannyML/nannyml/blob/main/pyproject.toml "pyproject.toml")| [Bump version: 0.12.1 → 0.13.0](/NannyML/nannyml/commit/6c7f2e85c532e4a96507f8f3843f16989f1a9919 "Bump version: 0.12.1 → 0.13.0")| Jan 15, 2025  
+[setup.cfg](/NannyML/nannyml/blob/main/setup.cfg "setup.cfg")| [setup.cfg](/NannyML/nannyml/blob/main/setup.cfg "setup.cfg")| [Fix flake8 issues + use python 3.11 for linting](/NannyML/nannyml/commit/60f9fdf92df92d1b98101b841b681f17dcbcf238 "Fix flake8 issues + use python 3.11 for linting")| Dec 19, 2024  
+[setup.py](/NannyML/nannyml/blob/main/setup.py "setup.py")| [setup.py](/NannyML/nannyml/blob/main/setup.py "setup.py")| [Plotting overlay (](/NannyML/nannyml/commit/31be294c7ce4468f7b3029ece2b4d9d1d585b48e "Plotting overlay \(#184\)
+* Refactoring typing/result baseclass
+* WIP: typing rework
+* Introducing new way of looping over result items
+Signed-off-by: niels <niels@nannyml.com>
+* Result rework, comparison plots + tests
+* Refactor compare plots to use mixin
+* Add confidence bands to comparisons
+Signed-off-by: Niels Nuyttens <niels@nannyml.com>")[#184](https://github.com/NannyML/nannyml/pull/184)[)](/NannyML/nannyml/commit/31be294c7ce4468f7b3029ece2b4d9d1d585b48e "Plotting overlay \(#184\)
+* Refactoring typing/result baseclass
+* WIP: typing rework
+* Introducing new way of looping over result items
+Signed-off-by: niels <niels@nannyml.com>
+* Result rework, comparison plots + tests
+* Refactor compare plots to use mixin
+* Add confidence bands to comparisons
+Signed-off-by: Niels Nuyttens <niels@nannyml.com>")| Jan 26, 2023  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Apache-2.0 license](#)
+
+
+
+[![](https://raw.githubusercontent.com/NannyML/nannyml/main/media/thumbnail-4.png)](https://raw.githubusercontent.com/NannyML/nannyml/main/media/thumbnail-4.png)
+
+[ ![](https://camo.githubusercontent.com/740db2ac7ae1d126a119baff0e485b6a7400f627bd29c43cbf49c54595308a86/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f6e616e6e796d6c2e737667) ](https://pypi.org/project/nannyml/) [ ![](https://camo.githubusercontent.com/781fff3803e5a156b049254159d3b27a1798993288c2995af459ad006084c320/68747470733a2f2f616e61636f6e64612e6f72672f636f6e64612d666f7267652f6e616e6e796d6c2f6261646765732f76657273696f6e2e737667) ](https://anaconda.org/conda-forge/nannyml) [ ![](https://camo.githubusercontent.com/18b42bbcf442549e0f0ff82ef76f164007791f4f78395cd805209ea6eed17b3b/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f6e616e6e796d6c2e737667) ](https://pypi.org/project/nannyml/) [ ![](https://github.com/NannyML/nannyml/actions/workflows/dev.yml/badge.svg) ](https://github.com/nannyml/nannyml/actions/workflows/dev.yml) [ ![Documentation Status](https://camo.githubusercontent.com/e07cea0c107ec9772dcc2536aac8aeaccfbecdc1964364226b93a29734dcb64f/68747470733a2f2f72656164746865646f63732e6f72672f70726f6a656374732f6e616e6e796d6c2f62616467652f3f76657273696f6e3d6d61696e) ](https://nannyml.readthedocs.io/en/main/?badge=main) [![PyPI - License](https://camo.githubusercontent.com/508ef0d8677d2304f3f93faf9d5756847de691a52ea39843862c044f5a636cc3/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f6e616e6e796d6c3f636f6c6f723d677265656e)](https://camo.githubusercontent.com/508ef0d8677d2304f3f93faf9d5756847de691a52ea39843862c044f5a636cc3/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f6e616e6e796d6c3f636f6c6f723d677265656e) [ ![NannyML - OSS Python library for detecting silent ML model failure | Product Hunt](https://camo.githubusercontent.com/8eb81e204be0d2c343361493f79c84cd5f377151de364a40e642daafcec85b97/68747470733a2f2f6170692e70726f6475637468756e742e636f6d2f776964676574732f656d6265642d696d6167652f76312f746f702d706f73742d62616467652e7376673f706f73745f69643d333436343132267468656d653d6c6967687426706572696f643d6461696c79) ](https://www.producthunt.com/posts/nannyml?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-nannyml)
+
+**[Website](https://nannyml.com/) • [Docs](https://nannyml.readthedocs.io/en/stable/) • [Community Slack](https://join.slack.com/t/nannymlbeta/shared_invite/zt-16fvpeddz-HAvTsjNEyC9CE6JXbiM7BQ) **
+
+[![animated](https://github.com/NannyML/nannyml/raw/main/media/estimate-performance-regression.gif?raw=true)](https://github.com/NannyML/nannyml/blob/main/media/estimate-performance-regression.gif?raw=true) [ ![animated](https://github.com/NannyML/nannyml/raw/main/media/estimate-performance-regression.gif?raw=true) ](https://github.com/NannyML/nannyml/blob/main/media/estimate-performance-regression.gif?raw=true) [ ](https://github.com/NannyML/nannyml/blob/main/media/estimate-performance-regression.gif?raw=true)
+
+# 💡 What is NannyML?
+
+[](#-what-is-nannyml)
+
+NannyML is an open-source python library that allows you to **estimate post-deployment model performance** (without access to targets), detect data drift, and intelligently link data drift alerts back to changes in model performance. Built for data scientists, NannyML has an easy-to-use interface, interactive visualizations, is completely model-agnostic and currently supports all tabular use cases, classification and **regression**.
+
+The core contributors of NannyML have researched and developed multiple novel algorithms for estimating model performance: [confidence-based performance estimation (CBPE)](https://nannyml.readthedocs.io/en/stable/how_it_works/performance_estimation.html#confidence-based-performance-estimation-cbpe) and [direct loss estimation (DLE)](https://nannyml.readthedocs.io/en/stable/how_it_works/performance_estimation.html#direct-loss-estimation-dle). The nansters also invented a new approach to detect [multivariate data drift](https://nannyml.readthedocs.io/en/stable/how_it_works/multivariate_drift.html#data-reconstruction-with-pca) using PCA-based data reconstruction.
+
+If you like what we are working on, be sure to become a Nanster yourself, join our [community slack](https://join.slack.com/t/nannymlbeta/shared_invite/zt-16fvpeddz-HAvTsjNEyC9CE6JXbiM7BQ) [![](https://raw.githubusercontent.com/NannyML/nannyml/main/media/slack.png)](https://raw.githubusercontent.com/NannyML/nannyml/main/media/slack.png) and support us with a GitHub [![](https://raw.githubusercontent.com/NannyML/nannyml/main/media/github.png)](https://raw.githubusercontent.com/NannyML/nannyml/main/media/github.png) star ⭐.
+
+# ☔ Why use NannyML?
+
+[](#-why-use-nannyml)
+
+NannyML closes the loop with performance monitoring and post deployment data science, empowering data scientist to quickly understand and **automatically detect silent model failure**. By using NannyML, data scientists can finally maintain complete visibility and trust in their deployed machine learning models. Allowing you to have the following benefits:
+
+  * End sleepless nights caused by not knowing your model performance 😴
+  * Analyse data drift and model performance **over time**
+  * Discover the **root cause** to why your models are not performing as expected
+  * **No alert fatigue!** React only when necessary if model performance is impacted
+  * **Painless** setup in any environment
+
+
+
+# 🧠 GO DEEP
+
+[](#-go-deep)
+
+NannyML Resources | Description  
+---|---  
+☎️ **[NannyML 101](https://nannyml.readthedocs.io/en/stable/)** | New to NannyML? Start here!  
+🔮 **[Performance estimation](https://nannyml.readthedocs.io/en/stable/how_it_works/performance_estimation.html)** | How the magic works.  
+🌍 **[Real world example](https://nannyml.readthedocs.io/en/stable/examples/california_housing.html)** | Take a look at a real-world example of NannyML.  
+🔑 **[Key concepts](https://nannyml.readthedocs.io/en/stable/glossary.html)** | Glossary of key concepts we use.  
+🔬 **[Technical reference](https://nannyml.readthedocs.io/en/stable/nannyml/modules.html)** | Monitor the performance of your ML models.  
+🔎 **[Blog](https://www.nannyml.com/blog)** | Thoughts on post-deployment data science from the NannyML team.  
+📬 **[Newsletter](https://mailchi.mp/022c62281d13/postdeploymentnewsletter)** | All things post-deployment data science. Subscribe to see the latest papers and blogs.  
+💎 **[New in v0.13.0](https://github.com/NannyML/nannyml/releases/latest/)** | New features, bug fixes.  
+🧑‍💻 **[Contribute](https://github.com/NannyML/nannyml/blob/main/CONTRIBUTING.rst)** | How to contribute to the NannyML project and codebase.  
+[![](https://raw.githubusercontent.com/NannyML/nannyml/main/media/slack.png)](https://raw.githubusercontent.com/NannyML/nannyml/main/media/slack.png) **[Join slack](https://join.slack.com/t/nannymlbeta/shared_invite/zt-16fvpeddz-HAvTsjNEyC9CE6JXbiM7BQ)** | Need help with your specific use case? Say hi on slack!  
+  
+# 🔱 Features
+
+[](#-features)
+
+### 1. Performance estimation and monitoring
+
+[](#1-performance-estimation-and-monitoring)
+
+When the actual outcome of your deployed prediction models is delayed, or even when post-deployment target labels are completely absent, you can use NannyML's [CBPE-algorithm](https://nannyml.readthedocs.io/en/stable/how_it_works/performance_estimation.html#confidence-based-performance-estimation-cbpe) to **estimate model performance** for classification or NannyML's [DLE-algorithm](https://nannyml.readthedocs.io/en/stable/how_it_works/performance_estimation.html#direct-loss-estimation-dle) for regression. These algorithms provide you with any estimated metric you would like, i.e. ROC AUC or RSME. Rather than estimating the performance of future model predictions, CBPE and DLE estimate the expected model performance of the predictions made at inference time.
+
+[![](https://raw.githubusercontent.com/NannyML/nannyml/main/docs/_static/tutorials/performance_calculation/regression/tutorial-performance-calculation-regression-RMSE.svg)](https://raw.githubusercontent.com/NannyML/nannyml/main/docs/_static/tutorials/performance_calculation/regression/tutorial-performance-calculation-regression-RMSE.svg)
+
+NannyML can also **track the realised performance** of your machine learning model once targets are available.
+
+### 2. Data drift detection
+
+[](#2-data-drift-detection)
+
+To detect **multivariate feature drift** NannyML uses [PCA-based data reconstruction](https://nannyml.readthedocs.io/en/stable/how_it_works/multivariate_drift.html#data-reconstruction-with-pca). Changes in the resulting reconstruction error are monitored over time and data drift alerts are logged when the reconstruction error in a certain period exceeds a threshold. This threshold is calculated based on the reconstruction error observed in the reference period.
+
+[![](https://raw.githubusercontent.com/NannyML/nannyml/main/docs/_static/how-it-works/butterfly-multivariate-drift-pca.svg)](https://raw.githubusercontent.com/NannyML/nannyml/main/docs/_static/how-it-works/butterfly-multivariate-drift-pca.svg)
+
+NannyML utilises statistical tests to detect **univariate feature drift**. We have just added a bunch of new univariate tests including Jensen-Shannon Distance and L-Infinity Distance, check out the [comprehensive list](https://nannyml.readthedocs.io/en/stable/how_it_works/univariate_drift_detection.html#methods-for-continuous-features). The results of these tests are tracked over time, properly corrected to counteract multiplicity and overlayed on the temporal feature distributions. (It is also possible to visualise the test-statistics over time, to get a notion of the drift magnitude.)
+
+[![](https://raw.githubusercontent.com/NannyML/nannyml/main/docs/_static/drift-guide-joyplot-distance_from_office.svg)](https://raw.githubusercontent.com/NannyML/nannyml/main/docs/_static/drift-guide-joyplot-distance_from_office.svg)[![](/NannyML/nannyml/raw/main/docs/_static/drift-guide-stacked-salary_range.svg)](/NannyML/nannyml/blob/main/docs/_static/drift-guide-stacked-salary_range.svg)
+
+NannyML uses the same statistical tests to detected **model output drift**.
+
+[![](https://raw.githubusercontent.com/NannyML/nannyml/main/docs/_static/drift-guide-y_pred.svg)](https://raw.githubusercontent.com/NannyML/nannyml/main/docs/_static/drift-guide-y_pred.svg)
+
+**Target distribution drift** can also be monitored using the same statistical tests. Bear in mind that this operation requires the presence of actuals.
+
+[![](https://raw.githubusercontent.com/NannyML/nannyml/main/docs/_static/drift-guide-work_home_actual.svg)](https://raw.githubusercontent.com/NannyML/nannyml/main/docs/_static/drift-guide-work_home_actual.svg)
+
+### 3. Intelligent alerting
+
+[](#3-intelligent-alerting)
+
+Because NannyML can estimate performance, it is possible to weed out data drift alerts that do not impact expected performance, combatting alert fatigue. Besides linking data drift issues to drops in performance it is also possible to prioritise alerts according to other criteria using NannyML's Ranker.
+
+# 🚀 Getting started
+
+[](#-getting-started)
+
+### Install NannyML
+
+[](#install-nannyml)
+
+NannyML depends on [LightGBM](https://github.com/microsoft/LightGBM). This might require you to set install additional OS-specific binaries. You can follow the [official installation guide](https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html).
+
+From PyPI:
+
+```
+pip install nannyml
+```
+
+From Conda:
+
+```
+conda install -c conda-forge nannyml
+```
+
+Running via [Docker](https://hub.docker.com/r/nannyml/nannyml):
+
+```
+docker -v /local/config/dir/:/config/ run nannyml/nannyml nml run
+```
+
+**Here be dragons!** Use the latest development version of NannyML at your own risk:
+
+```
+python -m pip install git+https://github.com/NannyML/nannyml
+```
+
+#### Extras
+
+[](#extras)
+
+If you're using database connections to read model inputs/outputs or you're exporting monitoring results to a database, you'll need to include the optional `db` dependency. For example using `pip`:
+
+```
+pip install nannyml[db]
+```
+
+or using `poetry`
+
+```
+poetry install nannyml --all-extras
+```
+
+### Quick Start
+
+[](#quick-start)
+
+_The following snippet is based on our[latest release](https://github.com/NannyML/nannyml/releases/latest)_.
+
+```
+import nannyml as nml import pandas as pd from IPython.display import display # Load real-world data: reference_df, analysis_df, _ = nml.load_us_census_ma_employment_data() display(reference_df.head()) display(analysis_df.head()) # Choose a chunker or set a chunk size: chunk_size = 5000 # initialize, specify required data columns, fit estimator and estimate: estimator = nml.CBPE( problem_type='classification_binary', y_pred_proba='predicted_probability', y_pred='prediction', y_true='employed', metrics=['roc_auc'], chunk_size=chunk_size, ) estimator = estimator.fit(reference_df) estimated_performance = estimator.estimate(analysis_df) # Show results: figure = estimated_performance.plot() figure.show() # Define feature columns: features = ['AGEP', 'SCHL', 'MAR', 'RELP', 'DIS', 'ESP', 'CIT', 'MIG', 'MIL', 'ANC', 'NATIVITY', 'DEAR', 'DEYE', 'DREM', 'SEX', 'RAC1P'] # Initialize the object that will perform the Univariate Drift calculations: univariate_calculator = nml.UnivariateDriftCalculator( column_names=features, chunk_size=chunk_size ) univariate_calculator.fit(reference_df) univariate_drift = univariate_calculator.calculate(analysis_df) # Get features that drift the most with count-based ranker: alert_count_ranker = nml.AlertCountRanker() alert_count_ranked_features = alert_count_ranker.rank(univariate_drift) display(alert_count_ranked_features.head()) # Plot drift results for top 3 features: figure = univariate_drift.filter(column_names=['RELP','AGEP', 'SCHL']).plot() figure.show() # Compare drift of a selected feature with estimated performance uni_drift_AGEP_analysis = univariate_drift.filter(column_names=['AGEP'], period='analysis') figure = estimated_performance.compare(uni_drift_AGEP_analysis).plot() figure.show() # Plot distribution changes of the selected features: figure = univariate_drift.filter(period='analysis', column_names=['RELP','AGEP', 'SCHL']).plot(kind='distribution') figure.show() # Get target data, calculate, plot and compare realized performance with estimated performance: _, _, analysis_targets_df = nml.load_us_census_ma_employment_data() analysis_with_targets_df = pd.concat([analysis_df, analysis_targets_df], axis=1) display(analysis_with_targets_df.head()) performance_calculator = nml.PerformanceCalculator( problem_type='classification_binary', y_pred_proba='predicted_probability', y_pred='prediction', y_true='employed', metrics=['roc_auc'], chunk_size=chunk_size) performance_calculator.fit(reference_df) calculated_performance = performance_calculator.calculate(analysis_with_targets_df) figure = estimated_performance.filter(period='analysis').compare(calculated_performance).plot() figure.show()
+```
+
+# 📖 Documentation
+
+[](#-documentation)
+
+  * Performance monitoring 
+    * [Estimated performance](https://nannyml.readthedocs.io/en/main/tutorials/performance_estimation.html)
+    * [Realized performance](https://nannyml.readthedocs.io/en/main/tutorials/performance_calculation.html)
+  * Drift detection 
+    * [Multivariate feature drift](https://nannyml.readthedocs.io/en/main/tutorials/detecting_data_drift/multivariate_drift_detection.html)
+    * [Univariate feature drift](https://nannyml.readthedocs.io/en/main/tutorials/detecting_data_drift/univariate_drift_detection.html)
+
+
+
+# 🦸 Contributing and Community
+
+[](#-contributing-and-community)
+
+We want to build NannyML together with the community! The easiest to contribute at the moment is to propose new features or log bugs under [issues](https://github.com/NannyML/nannyml/issues). For more information, have a look at [how to contribute](/NannyML/nannyml/blob/main/CONTRIBUTING.rst).
+
+Thanks to all of our contributors!
+
+[![CoffiDev](https://avatars.githubusercontent.com/u/6456756?v=4&s=117)](https://github.com/CoffiDev)[![smetam](https://avatars.githubusercontent.com/u/17511767?v=4&s=117)](https://github.com/smetam)[![amrit110](https://avatars.githubusercontent.com/u/8986523?v=4&s=117)](https://github.com/amrit110)[![bgalvao](https://avatars.githubusercontent.com/u/17158288?v=4&s=117)](https://github.com/bgalvao)[![SoyGema](https://avatars.githubusercontent.com/u/24204714?v=4&s=117)](https://github.com/SoyGema)
+
+[![sebasmos](https://avatars.githubusercontent.com/u/31293221?v=4&s=117)](https://github.com/sebasmos)[![shezadkhan137](https://avatars.githubusercontent.com/u/1761188?v=4&s=117)](https://github.com/shezadkhan137)[![highstepper](https://avatars.githubusercontent.com/u/22987068?v=4&s=117)](https://github.com/highstepper)[![WojtekNML](https://avatars.githubusercontent.com/u/100422459?v=4&s=117)](https://github.com/WojtekNML)[![YYYasin19](https://avatars.githubusercontent.com/u/26421646?v=4&s=117)](https://github.com/YYYasin19)
+
+[![giodavoli](https://avatars.githubusercontent.com/u/79570860?v=4&s=117)](https://github.com/giodavoli)[![mireiar](https://avatars.githubusercontent.com/u/105557052?v=4&s=117)](https://github.com/mireiar)[![baskervilski](https://avatars.githubusercontent.com/u/7703701?v=4&s=117)](https://github.com/baskervilski)[![rfrenoy](https://avatars.githubusercontent.com/u/12834432?v=4&s=117)](https://github.com/rfrenoy)[![jrggementiza](https://avatars.githubusercontent.com/u/30363148?v=4&s=117)](https://github.com/jrggementiza)
+
+[![PieDude12](https://avatars.githubusercontent.com/u/86422883?v=4&s=117)](https://github.com/PieDude12)[![hakimelakhrass](https://avatars.githubusercontent.com/u/100148105?v=4&s=117)](https://github.com/hakimelakhrass)[![maciejbalawejder](https://avatars.githubusercontent.com/u/47450700?v=4&s=117)](https://github.com/maciejbalawejder)[![dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?v=4&s=117)](https://github.com/apps/dependabot)[![Dbhasin1](https://avatars.githubusercontent.com/u/56479884?v=4&s=117)](https://github.com/Dbhasin1)
+
+[![alexnanny](https://avatars.githubusercontent.com/u/124191512?v=4&s=117)](https://github.com/alexnanny)[![santiviquez](https://avatars.githubusercontent.com/u/10890881?v=4&s=117)](https://github.com/santiviquez)[![cartgr](https://avatars.githubusercontent.com/u/86645043?v=4&s=117)](https://github.com/cartgr)[![BobbuAbadeer](https://avatars.githubusercontent.com/u/94649276?v=4&s=117)](https://github.com/BobbuAbadeer)[![jnesfield](https://avatars.githubusercontent.com/u/23704688?v=4&s=117)](https://github.com/jnesfield)
+
+[![NeoKish](https://avatars.githubusercontent.com/u/66986430?v=4&s=117)](https://github.com/NeoKish)[![michael-nml](https://avatars.githubusercontent.com/u/124588413?v=4&s=117)](https://github.com/michael-nml)[![jakubnml](https://avatars.githubusercontent.com/u/100147443?v=4&s=117)](https://github.com/jakubnml)[![nikml](https://avatars.githubusercontent.com/u/89025229?v=4&s=117)](https://github.com/nikml)[![nnansters](https://avatars.githubusercontent.com/u/94110348?v=4&s=117)](https://github.com/nnansters)
+
+# 🙋 Get help
+
+[](#-get-help)
+
+The best place to ask for help is in the [community slack](https://join.slack.com/t/nannymlbeta/shared_invite/zt-16fvpeddz-HAvTsjNEyC9CE6JXbiM7BQ). Feel free to join and ask questions or raise issues. Someone will definitely respond to you.
+
+# 🥷 Stay updated
+
+[](#-stay-updated)
+
+If you want to stay up to date with recent changes to the NannyML library, you can subscribe to our [release notes](https://nannyml.substack.com). For thoughts on post-deployment data science from the NannyML team, feel free to visit our [blog](https://www.nannyml.com/blog). You can also sing up for our [newsletter](https://mailchi.mp/022c62281d13/postdeploymentnewsletter), which brings together the best papers, articles, news, and open-source libraries highlighting the ML challenges after deployment.
+
+# 📍 Roadmap
+
+[](#-roadmap)
+
+Curious what we are working on next? Have a look at our [roadmap](https://bit.ly/nannymlroadmap). If you have any questions or if you would like to see things prioritised in a different way, let us know!
+
+# 📝 Citing NannyML
+
+[](#-citing-nannyml)
+
+To cite NannyML in academic papers, please use the following BibTeX entry.
+
+### Version 0.13.0
+
+[](#version-0130)
+
+```
+` @misc{nannyml, title = {{N}anny{ML} (release 0.13.0)}, howpublished = {\url{https://github.com/NannyML/nannyml}}, month = mar, year = 2023, note = {NannyML, Belgium, OHL.}, key = {NannyML} } `
+```
+
+# 📄 License
+
+[](#-license)
+
+NannyML is distributed under an Apache License Version 2.0. A complete version can be found [here](/NannyML/nannyml/blob/main/LICENSE). All contributions will be distributed under this license.
+
+## About
+
+nannyml: post-deployment data science in python 
+
+[www.nannyml.com/](https://www.nannyml.com/ "https://www.nannyml.com/")
+
+### Topics
+
+[ visualization ](/topics/visualization "Topic: visualization") [ python ](/topics/python "Topic: python") [ data-science ](/topics/data-science "Topic: data-science") [ machine-learning ](/topics/machine-learning "Topic: machine-learning") [ monitoring ](/topics/monitoring "Topic: monitoring") [ deep-learning ](/topics/deep-learning "Topic: deep-learning") [ jupyter-notebook ](/topics/jupyter-notebook "Topic: jupyter-notebook") [ ml ](/topics/ml "Topic: ml") [ data-analysis ](/topics/data-analysis "Topic: data-analysis") [ machinelearning ](/topics/machinelearning "Topic: machinelearning") [ performance-monitoring ](/topics/performance-monitoring "Topic: performance-monitoring") [ performance-estimation ](/topics/performance-estimation "Topic: performance-estimation") [ mlops ](/topics/mlops "Topic: mlops") [ model-monitoring ](/topics/model-monitoring "Topic: model-monitoring") [ data-drift ](/topics/data-drift "Topic: data-drift") [ postdeploymentdatascience ](/topics/postdeploymentdatascience "Topic: postdeploymentdatascience")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+[ Activity](/NannyML/nannyml/activity)
+
+[ Custom properties](/NannyML/nannyml/custom-properties)
+
+### Stars
+
+[ **2k** stars](/NannyML/nannyml/stargazers)
+
+### Watchers
+
+[ **22** watching](/NannyML/nannyml/watchers)
+
+### Forks
+
+[ **149** forks](/NannyML/nannyml/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FNannyML%2Fnannyml&report=NannyML+%28user%29)
+
+##  [Releases 35](/NannyML/nannyml/releases)
+
+[ v0.13.0 Latest  Jan 14, 2025 ](/NannyML/nannyml/releases/tag/v0.13.0)
+
+[+ 34 releases](/NannyML/nannyml/releases)
+
+##  [Packages 0](/orgs/NannyML/packages?repo_name=nannyml)
+
+No packages published 
+
+##  [Contributors 32](/NannyML/nannyml/graphs/contributors)
+
+  * [ ![@nnansters](https://avatars.githubusercontent.com/u/94110348?s=64&v=4) ](https://github.com/nnansters)
+  * [ ![@nikml](https://avatars.githubusercontent.com/u/89025229?s=64&v=4) ](https://github.com/nikml)
+  * [ ![@jakubnml](https://avatars.githubusercontent.com/u/100147443?s=64&v=4) ](https://github.com/jakubnml)
+  * [ ![@michael-nml](https://avatars.githubusercontent.com/u/124588413?s=64&v=4) ](https://github.com/michael-nml)
+  * [ ![@NeoKish](https://avatars.githubusercontent.com/u/66986430?s=64&v=4) ](https://github.com/NeoKish)
+  * [ ![@jnesfield](https://avatars.githubusercontent.com/u/23704688?s=64&v=4) ](https://github.com/jnesfield)
+  * [ ![@cartgr](https://avatars.githubusercontent.com/u/86645043?s=64&v=4) ](https://github.com/cartgr)
+  * [ ![@BobbuAbadeer](https://avatars.githubusercontent.com/u/94649276?s=64&v=4) ](https://github.com/BobbuAbadeer)
+  * [ ![@santiviquez](https://avatars.githubusercontent.com/u/10890881?s=64&v=4) ](https://github.com/santiviquez)
+  * [ ![@alexnanny](https://avatars.githubusercontent.com/u/124191512?s=64&v=4) ](https://github.com/alexnanny)
+  * [ ![@Dbhasin1](https://avatars.githubusercontent.com/u/56479884?s=64&v=4) ](https://github.com/Dbhasin1)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@Duncan-Hunter](https://avatars.githubusercontent.com/u/35367438?s=64&v=4) ](https://github.com/Duncan-Hunter)
+  * [ ![@maciejbalawejder](https://avatars.githubusercontent.com/u/47450700?s=64&v=4) ](https://github.com/maciejbalawejder)
+
+
+
+[+ 18 contributors](/NannyML/nannyml/graphs/contributors)
+
+## Languages
+
+  * [ Python 95.7% ](/NannyML/nannyml/search?l=python)
+  * [ Jupyter Notebook 4.1% ](/NannyML/nannyml/search?l=jupyter-notebook)
+  * Other 0.2%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

@@ -1,0 +1,161 @@
+[![Hugging Face's logo](/front/assets/huggingface_logo-noborder.svg) Hugging Face](/)
+
+  * [ Models](/models)
+  * [ Datasets](/datasets)
+  * [ Spaces](/spaces)
+  * [ Posts](/posts)
+  * [ Docs](/docs)
+  * [ Enterprise](/enterprise)
+  * [Pricing](/pricing)
+  * [Log In](/login)
+  * [Sign Up](/join)
+
+
+
+![Maxime Labonne's picture](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png)
+
+![TFLOPS icon](/front/assets/hardware/gpu.png) 37.3 TFLOPS
+
+[ 319](/mlabonne/activity/community "Show contributions") [129](/mlabonne/activity/upvotes "Show upvotes") [817](/mlabonne/activity/likes "Show liked repositories")
+
+# Maxime Labonne PRO
+
+mlabonne
+
+Follow
+
+[![](/avatars/30ea0c7cc499d85078ac27b681805561.svg) larryzhang23's profile picture ](/larryzhang23)[![](/avatars/4934b5b64e4d5fb3b015acdccbdc901e.svg) Mospher's profile picture ](/Mospher)[![](https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/yrqDL5965TG8Gh5pTn55u.png) Zallme's profile picture ](/Zallme)
+
+3870 followers
+
+·
+
+76 following
+
+<https://mlabonne.github.io/blog>
+
+  * [maximelabonne](https://twitter.com/maximelabonne)
+  * [mlabonne](https://github.com/mlabonne)
+  * [maxime-labonne](https://www.linkedin.com/in/maxime-labonne)
+
+
+
+###  AI & ML interests
+
+Post-training, model editing, quantization
+
+### 
+
+Articles
+
+#### [The Large Language Model Course 6 days ago • 68](/blog/mlabonne/llm-course)
+
+#### [Decoding Strategies in Large Language Models Oct 29, 2024 • 39](/blog/mlabonne/decoding-strategies)
+
+#### [Fine-tune Llama 3.1 Ultra-Efficiently with Unsloth Jul 29, 2024 • 265](/blog/mlabonne/sft-llama3)
+
+#### [The Rise of Agentic Data Generation Jul 15, 2024 • 81](/blog/mlabonne/agentic-datagen)
+
+#### [Uncensor any LLM with abliteration Jun 13, 2024 • 397](/blog/mlabonne/abliteration)
+
+#### [Fine-tune Llama 3 with ORPO Apr 22, 2024 • 232](/blog/mlabonne/orpo-llama-3)
+
+#### [Create Mixtures of Experts with MergeKit Mar 28, 2024 • 12](/blog/mlabonne/frankenmoe)
+
+#### [Merge Large Language Models with mergekit Jan 9, 2024 • 89](/blog/mlabonne/merge-models)
+
+###  Organizations
+
+[![Blog-explorers's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/60a551a34ecc5d054c8ad93e/Ku5nM2bKq-8ZF3Jid1ocw.png)](/blog-explorers) [![Qwen's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/620760a26e3b7210c2ff1943/-s1gyJfvbE1RgO5iBeNOi.png)](/Qwen) [![ZeroGPU Explorers's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/5f17f0a0925b9863e28ad517/exBCcWH8McHg1hVQAtvN5.png)](/zero-gpu-explorers) [![Merge Crew's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/6033e34a9aa44495c80dd043/FlLD2t0N7xRbIKcCKAD2n.png)](/merge-crew) [![Social Post Explorers's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/5f17f0a0925b9863e28ad517/nxmdd6m86cxu55UZBlQeg.jpeg)](/social-post-explorers) [![Liquid AI's profile picture](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/lJeGmNS6KV4y34ERo0Aop.jpeg)](/LiquidAI) [![gg-tt's profile picture](https://www.gravatar.com/avatar/d9ad19d12faa4ee45715bcbe9497d67e?d=retro&size=100)](/gg-tt) [![rg-preview's profile picture](https://www.gravatar.com/avatar/ff23306033ed2641fa61f5846b78b2b5?d=retro&size=100)](/rg-preview)
+
+### 
+
+Posts 6
+
+[view post](/posts/mlabonne/342772024453392)
+
+Post
+
+2914
+
+🆕 LLM Course 2025 edition!I updated the LLM Scientist roadmap and added a ton of new information and references. It covers training, datasets, evaluation, quantization, and new trends like test-time compute scaling.The LLM Course has been incredibly popular (41.3k stars!) and I've been touched to receive many, many messages about how it helped people in their careers.I know how difficult this stuff can be, so I'm super proud of the impact it had. I want to keep updating it in 2025, especially with the LLM Engineer roadmap.Thanks everyone, hope you'll enjoy it!💻 LLM Course: <https://huggingface.co/blog/mlabonne/llm-course> […read more](/posts/mlabonne/342772024453392)
+
+[view post](/posts/mlabonne/879504439967163)
+
+Post
+
+18733
+
+Large models are surprisingly bad storytellers.I asked 8 LLMs to "Tell me a bedtime story about bears and waffles."Claude 3.5 Sonnet and GPT-4o gave me the worst stories: no conflict, no moral, zero creativity.In contrast, smaller models were quite creative and wrote stories involving talking waffle trees and bears ostracized for their love of waffles.Here you can see a comparison between Claude 3.5 Sonnet and NeuralDaredevil-8B-abliterated. They both start with a family of bears but quickly diverge in terms of personality, conflict, etc.I mapped it to the hero's journey to have some kind of framework. Prompt engineering can definitely help here, but it's still disappointing that the larger models don't create better stories right off the bat.Do you know why smaller models outperform the frontier models here? […read more](/posts/mlabonne/879504439967163)
+
+[View all posts](/mlabonne/activity/posts)
+
+### 
+
+Collections 10
+
+[🧠 Abliteration Uncensored models using abliteration. See this article for more information: huggingface.co/blog/mlabonne/abliteration ](/collections/mlabonne/abliteration-66bf9a0f9f88f7346cb9462f)
+
+  * [![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated Text Generation • Updated Sep 15, 2024 • 261k • 146  ](/mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated)
+  * [![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated-GGUF Updated Aug 4, 2024 • 12.9k • 128  ](/mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated-GGUF)
+  * [![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/Llama-3.1-70B-Instruct-lorablated Text Generation • Updated Aug 22, 2024 • 400 • 66  ](/mlabonne/Llama-3.1-70B-Instruct-lorablated)
+  * [![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/Llama-3.1-70B-Instruct-lorablated-GGUF Updated Aug 16, 2024 • 345 • 42  ](/mlabonne/Llama-3.1-70B-Instruct-lorablated-GGUF)
+
+[👿 Daredevil-8B Fine-tuned abliterated merge of the best Llama 3 8B model. Highest MMLU score in its category. ](/collections/mlabonne/daredevil-8b-6654ae6fc7ff1a0216743c6a)
+
+  * [![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/NeuralDaredevil-8B-abliterated Text Generation • Updated Aug 27, 2024 • 20.4k • 168  ](/mlabonne/NeuralDaredevil-8B-abliterated)
+  * [![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/Daredevil-8B-abliterated Text Generation • Updated Jul 8, 2024 • 8.83k • 34  ](/mlabonne/Daredevil-8B-abliterated)
+  * [![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/Daredevil-8B Text Generation • Updated 15 days ago • 212 • 36  ](/mlabonne/Daredevil-8B)
+  * [![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/NeuralLlama-3-8B-Instruct-abliterated Text Generation • Updated May 27, 2024 • 5.78k • 7  ](/mlabonne/NeuralLlama-3-8B-Instruct-abliterated)
+
+
+
+Expand 10 collections
+
+### 
+
+Papers 7
+
+[ arxiv:2410.08371 ![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.08371.png)](/papers/2410.08371) [ arxiv:2305.15016 ![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2305.15016.png)](/papers/2305.15016) [ arxiv:2304.01238 ![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2304.01238.png)](/papers/2304.01238) [ arxiv:2112.02417 ![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2112.02417.png)](/papers/2112.02417)
+
+Expand 7 papers
+
+### 
+
+spaces 19
+
+Sort: Recently updated 
+
+[ pinned Running  65 🌳 Model Family Tree ](/spaces/mlabonne/model-family-tree) [ pinned Running  185 🌖 Yet Another LLM Leaderboard ](/spaces/mlabonne/Yet_Another_LLM_Leaderboard) [ pinned Paused  71 ♾️ AutoMerger ](/spaces/mlabonne/AutoMerger) [ Running on CPU Upgrade 60 ♟️ Chess LLM ](/spaces/mlabonne/chessllm) [ Running on Zero 2 👥 TwinLlama-3.1-8B-DPO ](/spaces/mlabonne/TwinLlama-3.1-8B-DPO) [ Running on Zero 1 👥 TwinLlama-3.1-8B ](/spaces/mlabonne/TwinLlama-3.1-8B)
+
+Expand 19 spaces
+
+### 
+
+models 146
+
+Sort: Recently updated 
+
+[![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/Daredevil-8B Text Generation • Updated 15 days ago • 212 • 36  ](/mlabonne/Daredevil-8B)[![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/Qwerus-7B Updated 15 days ago • 21 • 1  ](/mlabonne/Qwerus-7B)[![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/llama-2-7b-guanaco Text Generation • Updated 24 days ago • 38 • 18  ](/mlabonne/llama-2-7b-guanaco)[![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/codellama-2-7b Updated Dec 16, 2024 • 15 • 4  ](/mlabonne/codellama-2-7b)[![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/dummy-llama-2 Text Generation • Updated Nov 17, 2024 • 735 • 8  ](/mlabonne/dummy-llama-2)[![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/Hermes-3-Llama-3.1-70B-lorablated Text Generation • Updated Oct 16, 2024 • 543 • 25  ](/mlabonne/Hermes-3-Llama-3.1-70B-lorablated)[![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/TwinLlama-3.1-8B-DPO-GGUF Updated Oct 6, 2024 • 13 • 2  ](/mlabonne/TwinLlama-3.1-8B-DPO-GGUF)[![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/TwinLlama-3.1-8B-DPO Text Generation • Updated Oct 6, 2024 • 202 • 8  ](/mlabonne/TwinLlama-3.1-8B-DPO)[![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/TwinLlama-3.1-8B-GGUF Updated Oct 6, 2024 • 47 • 2  ](/mlabonne/TwinLlama-3.1-8B-GGUF)[![](https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/JtUGAwVh_4cDEsjNcfpye.png) mlabonne/TwinLlama-3.1-8B Text Generation • Updated Oct 6, 2024 • 556 • 14  ](/mlabonne/TwinLlama-3.1-8B)
+
+Expand 146 models
+
+### 
+
+datasets 49
+
+Sort: Recently updated 
+
+#### [mlabonne/open-perfectblend Viewer • Updated 7 days ago • 1.42M • 105 • 46  ](/datasets/mlabonne/open-perfectblend)#### [mlabonne/smoltalk-semhashed Viewer • Updated 9 days ago • 861k • 82 • 6  ](/datasets/mlabonne/smoltalk-semhashed)#### [mlabonne/smoltalk-flat Viewer • Updated Nov 21, 2024 • 1.1M • 113 • 4  ](/datasets/mlabonne/smoltalk-flat)#### [mlabonne/orca-agentinstruct-1M-v1-cleaned Viewer • Updated Nov 18, 2024 • 1.05M • 255 • 53  ](/datasets/mlabonne/orca-agentinstruct-1M-v1-cleaned)#### [mlabonne/lmsys-arena-human-preference-55k-sharegpt Viewer • Updated Oct 18, 2024 • 57.4k • 749 • 7  ](/datasets/mlabonne/lmsys-arena-human-preference-55k-sharegpt)#### [mlabonne/orpo-dpo-mix-40k Viewer • Updated Oct 18, 2024 • 44.2k • 691 • 270  ](/datasets/mlabonne/orpo-dpo-mix-40k)#### [mlabonne/ultrachat_200k_sft Viewer • Updated Oct 13, 2024 • 208k • 78 • 1  ](/datasets/mlabonne/ultrachat_200k_sft)#### [mlabonne/orca-math-word-problems-80k Viewer • Updated Sep 23, 2024 • 80k • 56 • 4  ](/datasets/mlabonne/orca-math-word-problems-80k)#### [mlabonne/llmtwin-dpo Viewer • Updated Aug 30, 2024 • 1.63k • 88 • 1  ](/datasets/mlabonne/llmtwin-dpo)#### [mlabonne/llmtwin Viewer • Updated Aug 27, 2024 • 3.34k • 177 • 10  ](/datasets/mlabonne/llmtwin)
+
+Expand 49 datasets
+
+System theme 
+
+Company
+
+[TOS](/terms-of-service) [Privacy](/privacy) [About](/huggingface) [Jobs](https://apply.workable.com/huggingface/) [](/)
+
+Website
+
+[Models](/models) [Datasets](/datasets) [Spaces](/spaces) [Pricing](/pricing) [Docs](/docs)

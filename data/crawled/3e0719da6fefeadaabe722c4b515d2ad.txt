@@ -1,0 +1,400 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F59753cb44483&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderUser&source=---top_nav_layout_nav----------------------------------)
+
+Sign up
+
+[Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](/search?source=---top_nav_layout_nav----------------------------------)
+
+Sign up
+
+[Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![](https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png)
+
+Member-only story
+
+# Building a Multimodal LLM Application with PyMuPDF4LLM
+
+[![Benito Martin](https://miro.medium.com/v2/resize:fill:44:44/1*XcfvHkzJtTdRNxpyaw38vg.jpeg)](/@benitomartin?source=post_page---byline--59753cb44483--------------------------------)
+
+[Benito Martin](/@benitomartin?source=post_page---byline--59753cb44483--------------------------------)
+
+·
+
+[Follow](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fff277ca02eb5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&user=Benito+Martin&userId=ff277ca02eb5&source=post_page-ff277ca02eb5--byline--59753cb44483---------------------post_header-----------)
+
+10 min read
+
+·
+
+Sep 30, 2024
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F59753cb44483&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&user=Benito+Martin&userId=ff277ca02eb5&source=---header_actions--59753cb44483---------------------clap_footer-----------)
+
+873
+
+4
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F59753cb44483&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&source=---header_actions--59753cb44483---------------------bookmark_footer-----------)
+
+[Listen](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D59753cb44483&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&source=---header_actions--59753cb44483---------------------post_audio_button-----------)
+
+Share
+
+![](https://miro.medium.com/v2/resize:fit:700/1*3Vv7d7iPN0yAlt7wXhHLpg.png)
+
+Author: Benito Martin
+
+Extracting text from PDFs is a crucial and often challenging step in many AI, and LLM (Large Language Model) applications. High-quality text extraction plays a key role in improving downstream processes, such as tokenization, embedding creation, or indexing in a vector database, enhancing the overall performance of the application. [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/index.html) is a popular library for this task due to its simplicity, high speed, and reliable text extraction quality.
+
+In this blog, we will explore a recently launched free library by Artifex (the creators of PyMuPDF) called [PyMuPDF4LLM](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html). This new library is designed to simplify text extraction from PDFs and is specifically developed for LLM and Retrieval-Augmented Generation (RAG) applications. It offers two key formats:
+
+  * **pymupdf4llm.to_markdown()** : Extracts content in Markdown format.
+  * **pymupdf4llm.LlamaMarkdownReader()** : Extracts content as a LlamaIndex document object.
+
+
+
+We will focus on the _to_markdown,_ as it includes several hyperparameters that enable features such as image extraction, making it suitable for both text and multimodal applications.
+
+Let’s dive in!
+
+# Main **Features**
+
+The full set of hyperparameters can be found in the [API documentation](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/api.html#pymupdf4llm-api). While we’ll cover a…
+
+## 
+
+Create an account to read the full story.
+
+The author made this story available to Medium members only.If you’re new to Medium, create a new account to read this story on us.
+
+[Continue in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F59753cb44483&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderUser&%7Estage=regwall&source=-----59753cb44483---------------------post_regwall-----------)
+
+Or, continue in mobile web
+
+[Sign up with Google](//medium.com/m/connect/google?state=google-%7Chttps%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483%3Fsource%3D-----59753cb44483---------------------post_regwall-----------%26skipOnboarding%3D1%7Cregister&source=-----59753cb44483---------------------post_regwall-----------)
+
+[Sign up with Facebook](//medium.com/m/connect/facebook?state=facebook-%7Chttps%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483%3Fsource%3D-----59753cb44483---------------------post_regwall-----------%26skipOnboarding%3D1%7Cregister&source=-----59753cb44483---------------------post_regwall-----------)
+
+Sign up with email
+
+Already have an account? [Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&source=-----59753cb44483---------------------post_regwall-----------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F59753cb44483&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&user=Benito+Martin&userId=ff277ca02eb5&source=---footer_actions--59753cb44483---------------------clap_footer-----------)
+
+873
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F59753cb44483&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&user=Benito+Martin&userId=ff277ca02eb5&source=---footer_actions--59753cb44483---------------------clap_footer-----------)
+
+873
+
+4
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F59753cb44483&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&source=---footer_actions--59753cb44483---------------------bookmark_footer-----------)
+
+[![Benito Martin](https://miro.medium.com/v2/resize:fill:48:48/1*XcfvHkzJtTdRNxpyaw38vg.jpeg)](/@benitomartin?source=post_page---post_author_info--59753cb44483--------------------------------)
+
+[![Benito Martin](https://miro.medium.com/v2/resize:fill:64:64/1*XcfvHkzJtTdRNxpyaw38vg.jpeg)](/@benitomartin?source=post_page---post_author_info--59753cb44483--------------------------------)
+
+Follow
+
+## [Written by Benito Martin](/@benitomartin?source=post_page---post_author_info--59753cb44483--------------------------------)
+
+[296 Followers](/@benitomartin/followers?source=post_page---post_author_info--59753cb44483--------------------------------)
+
+·[11 Following](/@benitomartin/following?source=post_page---post_author_info--59753cb44483--------------------------------)
+
+😎 Passionate Data Scientist, AI & ML Engineer | 👉 Founder Martin Data Solutions | ☎️ Book a Consultation <https://martindatasol.com/consultation>
+
+Follow
+
+## Responses (4)
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--59753cb44483--------------------------------)
+
+[What are your thoughts?](/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&source=---post_responses--59753cb44483---------------------respond_sidebar-----------)
+
+Cancel
+
+Respond
+
+Respond
+
+Also publish to my profile
+
+[![Gabriel de Oliveira](https://miro.medium.com/v2/resize:fill:32:32/0*vCY9a6W7ZpSY_Yii.)](/@gabriel.barra?source=post_page---post_responses--59753cb44483----0----------------------------)
+
+[Gabriel de Oliveira](/@gabriel.barra?source=post_page---post_responses--59753cb44483----0----------------------------)
+
+[Oct 16, 2024](/@gabriel.barra/be-careful-with-pymupdf4llm-sometimes-it-fails-to-extract-data-from-native-pdfs-without-any-kind-1148669f4059?source=post_page---post_responses--59753cb44483----0----------------------------)
+
+```
+
+
+Be careful with pymupdf4llm, sometimes it fails to extract data from native PDFs without any kind of warning. I have tons of examples of this.
+
+
+```
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F1148669f4059&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gabriel.barra%2Fbe-careful-with-pymupdf4llm-sometimes-it-fails-to-extract-data-from-native-pdfs-without-any-kind-1148669f4059&user=Gabriel+de+Oliveira&userId=aac22d8064a7&source=---post_responses--1148669f4059----0-----------------respond_sidebar-----------)
+
+31
+
+Reply
+
+[![Arunkumar Venkatesan](https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png)](/@arunkumar.venkatesan_20571?source=post_page---post_responses--59753cb44483----1----------------------------)
+
+[Arunkumar Venkatesan](/@arunkumar.venkatesan_20571?source=post_page---post_responses--59753cb44483----1----------------------------)
+
+[Dec 2, 2024](/@arunkumar.venkatesan_20571/hi-benito-230a7993d469?source=post_page---post_responses--59753cb44483----1----------------------------)
+
+```
+
+
+Hi Benito,
+
+I have added some pdf docs using your approach. But I am not getting the approapriate results for the queries. Can you please help?
+
+Arun.
+
+
+```
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F230a7993d469&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40arunkumar.venkatesan_20571%2Fhi-benito-230a7993d469&user=Arunkumar+Venkatesan&userId=372d25ab182c&source=---post_responses--230a7993d469----1-----------------respond_sidebar-----------)
+
+18
+
+Reply
+
+[![Paul Iusztin](https://miro.medium.com/v2/resize:fill:32:32/1*r3Geug_sW6weKSvaqBJtAA.jpeg)](/@pauliusztin?source=post_page---post_responses--59753cb44483----2----------------------------)
+
+[Paul Iusztin](/@pauliusztin?source=post_page---post_responses--59753cb44483----2----------------------------)
+
+[Oct 31, 2024 (edited)](https://pauliusztin.medium.com/great-article-737ea853d3a1?source=post_page---post_responses--59753cb44483----2----------------------------)
+
+```
+
+
+Great article 🙏
+
+
+```
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F737ea853d3a1&operation=register&redirect=https%3A%2F%2Fpauliusztin.medium.com%2Fgreat-article-737ea853d3a1&user=Paul+Iusztin&userId=8323de62a1a1&source=---post_responses--737ea853d3a1----2-----------------respond_sidebar-----------)
+
+17
+
+1 reply
+
+Reply
+
+See all responses
+
+## More from Benito Martin
+
+![Building an End-to-end MLOps Project with Databricks](https://miro.medium.com/v2/resize:fit:679/0*CcsXPxvreg8S-uW7)
+
+[![Marvelous MLOps](https://miro.medium.com/v2/resize:fill:20:20/1*JeNXc653bVrJo7z17h3vPw.png)](https://medium.com/marvelous-mlops?source=post_page---author_recirc--59753cb44483----0---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+In
+
+[Marvelous MLOps](https://medium.com/marvelous-mlops?source=post_page---author_recirc--59753cb44483----0---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+by
+
+[Benito Martin](/@benitomartin?source=post_page---author_recirc--59753cb44483----0---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+## [Building an End-to-end MLOps Project with DatabricksLast October, I had the privilege of enrolling in the newly launched MLOps Course on Databricks, led by Maria Vechtomova and Başak Eskili…](/marvelous-mlops/building-an-end-to-end-mlops-project-with-databricks-8cd9a85cc3c0?source=post_page---author_recirc--59753cb44483----0---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+Dec 4, 2024
+
+[3271](/marvelous-mlops/building-an-end-to-end-mlops-project-with-databricks-8cd9a85cc3c0?source=post_page---author_recirc--59753cb44483----0---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8cd9a85cc3c0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmarvelous-mlops%2Fbuilding-an-end-to-end-mlops-project-with-databricks-8cd9a85cc3c0&source=---author_recirc--59753cb44483----0-----------------bookmark_preview----bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+![Balancing Accuracy and Speed with Qdrant Hyperparameters, Hydrid Search and Semantic Caching \(Part…](https://miro.medium.com/v2/resize:fit:679/1*GhDr2JKs7I-i-v9vBoSIJg.png)
+
+[![Benito Martin](https://miro.medium.com/v2/resize:fill:20:20/1*XcfvHkzJtTdRNxpyaw38vg.jpeg)](/@benitomartin?source=post_page---author_recirc--59753cb44483----1---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+[Benito Martin](/@benitomartin?source=post_page---author_recirc--59753cb44483----1---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+## [Balancing Accuracy and Speed with Qdrant Hyperparameters, Hydrid Search and Semantic Caching (Part…Author: Benito Martin](/@benitomartin/balancing-accuracy-and-speed-with-qdrant-hyperparameters-hydrid-search-and-semantic-caching-part-84b26037e594?source=post_page---author_recirc--59753cb44483----1---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+Nov 9, 2024
+
+[140](/@benitomartin/balancing-accuracy-and-speed-with-qdrant-hyperparameters-hydrid-search-and-semantic-caching-part-84b26037e594?source=post_page---author_recirc--59753cb44483----1---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F84b26037e594&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbalancing-accuracy-and-speed-with-qdrant-hyperparameters-hydrid-search-and-semantic-caching-part-84b26037e594&source=---author_recirc--59753cb44483----1-----------------bookmark_preview----bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+![Multimodal Bill Scan System with Claude 3 Sonnet, AWS CDK, Bedrock, DynamoDB](https://miro.medium.com/v2/resize:fit:679/1*FUST4p9Ig_mWzNh235Pyjg.png)
+
+[![Benito Martin](https://miro.medium.com/v2/resize:fill:20:20/1*XcfvHkzJtTdRNxpyaw38vg.jpeg)](/@benitomartin?source=post_page---author_recirc--59753cb44483----2---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+[Benito Martin](/@benitomartin?source=post_page---author_recirc--59753cb44483----2---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+## [Multimodal Bill Scan System with Claude 3 Sonnet, AWS CDK, Bedrock, DynamoDBScanning documents and extracting key information can now be accomplished with high accuracy using multimodal models like Claude 3 Sonnet…](/@benitomartin/multimodal-bill-scan-system-with-claude-3-sonnet-aws-cdk-bedrock-dynamodb-0f6d0b6d46f2?source=post_page---author_recirc--59753cb44483----2---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+Sep 24, 2024
+
+[651](/@benitomartin/multimodal-bill-scan-system-with-claude-3-sonnet-aws-cdk-bedrock-dynamodb-0f6d0b6d46f2?source=post_page---author_recirc--59753cb44483----2---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0f6d0b6d46f2&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fmultimodal-bill-scan-system-with-claude-3-sonnet-aws-cdk-bedrock-dynamodb-0f6d0b6d46f2&source=---author_recirc--59753cb44483----2-----------------bookmark_preview----bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+![Cooking with AI: Building a Smart Multimodal Recipe Recommender using Qdrant, LlamaIndex, and…](https://miro.medium.com/v2/resize:fit:679/1*F4MN4xUNP57KYgsG23LOyA.png)
+
+[![Benito Martin](https://miro.medium.com/v2/resize:fill:20:20/1*XcfvHkzJtTdRNxpyaw38vg.jpeg)](/@benitomartin?source=post_page---author_recirc--59753cb44483----3---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+[Benito Martin](/@benitomartin?source=post_page---author_recirc--59753cb44483----3---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+## [Cooking with AI: Building a Smart Multimodal Recipe Recommender using Qdrant, LlamaIndex, and…Are you feeling hungry and craving your favorite recipes? Imagine having a YouTube playlist filled with your top recipe videos, complete…](/@benitomartin/cooking-with-ai-building-a-smart-multimodal-recipe-recommender-using-qdrant-llamaindex-and-2d6d1fa6566c?source=post_page---author_recirc--59753cb44483----3---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+Jul 12, 2024
+
+[101](/@benitomartin/cooking-with-ai-building-a-smart-multimodal-recipe-recommender-using-qdrant-llamaindex-and-2d6d1fa6566c?source=post_page---author_recirc--59753cb44483----3---------------------bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2d6d1fa6566c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fcooking-with-ai-building-a-smart-multimodal-recipe-recommender-using-qdrant-llamaindex-and-2d6d1fa6566c&source=---author_recirc--59753cb44483----3-----------------bookmark_preview----bbd65bc1_a57c_4a98_b63b_2c7d3f999fc6-------)
+
+[See all from Benito Martin](/@benitomartin?source=post_page---author_recirc--59753cb44483--------------------------------)
+
+## Recommended from Medium
+
+![Table Extraction using LLMs: Unlocking Structured Data from Documents](https://miro.medium.com/v2/resize:fit:679/0*x5vwzIw2ZnQBDbfz.png)
+
+[![Artificial Intelligence in Plain English](https://miro.medium.com/v2/resize:fill:20:20/1*9zAmnK08gUCmZX7q0McVKw@2x.png)](https://medium.com/ai-in-plain-english?source=post_page---read_next_recirc--59753cb44483----0---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+In
+
+[Artificial Intelligence in Plain English](https://medium.com/ai-in-plain-english?source=post_page---read_next_recirc--59753cb44483----0---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+by
+
+[Sarayavalasaravikiran](/@sarayavalasaravikiran?source=post_page---read_next_recirc--59753cb44483----0---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+## [Table Extraction using LLMs: Unlocking Structured Data from DocumentsNanonets evaluates multiple LLM APIs for table extraction, comparing their performance and summarizing the challenges, advantages, and…](/ai-in-plain-english/table-extraction-using-llms-unlocking-structured-data-from-documents-50cf21c98509?source=post_page---read_next_recirc--59753cb44483----0---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+Dec 16, 2024
+
+[1281](/ai-in-plain-english/table-extraction-using-llms-unlocking-structured-data-from-documents-50cf21c98509?source=post_page---read_next_recirc--59753cb44483----0---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F50cf21c98509&operation=register&redirect=https%3A%2F%2Fai.plainenglish.io%2Ftable-extraction-using-llms-unlocking-structured-data-from-documents-50cf21c98509&source=---read_next_recirc--59753cb44483----0-----------------bookmark_preview----93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+![How to Build a Knowledge Graph in Minutes \(And Make It Enterprise-Ready\)](https://miro.medium.com/v2/resize:fit:679/0*g4x6_WGJEDaWUSmS)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://medium.com/towards-data-science?source=post_page---read_next_recirc--59753cb44483----1---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+In
+
+[Towards Data Science](https://medium.com/towards-data-science?source=post_page---read_next_recirc--59753cb44483----1---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+by
+
+[Thuwarakesh Murallie](/@thuwarakesh?source=post_page---read_next_recirc--59753cb44483----1---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+## [How to Build a Knowledge Graph in Minutes (And Make It Enterprise-Ready)I tried and failed creating one—but it was when LLMs were not a thing!](/towards-data-science/enterprise-ready-knowledge-graphs-96028d863e8c?source=post_page---read_next_recirc--59753cb44483----1---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+Jan 13
+
+[7946](/towards-data-science/enterprise-ready-knowledge-graphs-96028d863e8c?source=post_page---read_next_recirc--59753cb44483----1---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F96028d863e8c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fenterprise-ready-knowledge-graphs-96028d863e8c&source=---read_next_recirc--59753cb44483----1-----------------bookmark_preview----93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+## Lists
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*nVAk9E_TnPIK8Kv57PJruA.png)![](https://miro.medium.com/v2/resize:fill:48:48/1*790FdGYUonUX4X3IyQr1Og.png)![](https://miro.medium.com/v2/da:true/resize:fill:48:48/1*o1k0mQo3BuyIkmg-rI2Eiw.gif)Natural Language Processing1889 stories·1551 saves](/@AMGAS14/list/natural-language-processing-0a856388a93a?source=post_page---read_next_recirc--59753cb44483--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*era76EGCwdY2gWSFKutuSw.jpeg)![](https://miro.medium.com/v2/resize:fill:48:48/1*AiTJDz5wwQFiUCf_SrBOQA.jpeg)![A phone with a tweet on it describing a deepfake video of the Ukrainian president, with a labeled fake image in the background](https://miro.medium.com/v2/resize:fill:48:48/1*zjPggFS8yoRtFbAP9R_3lw.jpeg)AI Regulation6 stories·672 saves](/@MediumStaff/list/ai-regulation-dfa78dfd2438?source=post_page---read_next_recirc--59753cb44483--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*rex1OZ5_KcxK2QrsZr3Cgw.jpeg)![](https://miro.medium.com/v2/resize:fill:48:48/1*I2o9__q4g1dzbcH9XRqcRg.png)![](https://miro.medium.com/v2/resize:fill:48:48/0*F6q2BN7oddumBDGY.png)ChatGPT prompts 51 stories·2492 saves](/@nicholas.michael.janulewicz/list/chatgpt-prompts-b4c47b8e12ee?source=post_page---read_next_recirc--59753cb44483--------------------------------)
+
+[![](https://miro.medium.com/v2/da:true/resize:fill:48:48/0*M8Jq6btD0YsgaRM1)![](https://miro.medium.com/v2/resize:fill:48:48/1*rsp22rKwFDjiwwCcUly56Q.jpeg)![](https://miro.medium.com/v2/resize:fill:48:48/1*PNVLDmurJ5LoCjB9Ovdnpw.png)Generative AI Recommended Reading52 stories·1610 saves](https://tomsmith585.medium.com/list/generative-ai-recommended-reading-508b0743c247?source=post_page---read_next_recirc--59753cb44483--------------------------------)
+
+![You are an absolute moron for believing in the hype of “AI Agents”.](https://miro.medium.com/v2/resize:fit:679/1*ZGZHRi3VSgirewnjtto9hA.png)
+
+[![Austin Starks](https://miro.medium.com/v2/resize:fill:20:20/1*dfww62lW8x8sVZNbLx5aCA.jpeg)](/@austin-starks?source=post_page---read_next_recirc--59753cb44483----0---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+[Austin Starks](/@austin-starks?source=post_page---read_next_recirc--59753cb44483----0---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+## [You are an absolute moron for believing in the hype of “AI Agents”.All of my articles are 100% free to read. Non-members can read for free by clicking my friend link!](/@austin-starks/you-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e?source=post_page---read_next_recirc--59753cb44483----0---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+Jan 11
+
+[4.3K180](/@austin-starks/you-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e?source=post_page---read_next_recirc--59753cb44483----0---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc0f760e7e48e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40austin-starks%2Fyou-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e&source=---read_next_recirc--59753cb44483----0-----------------bookmark_preview----93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+![Building a 2 Billion Parameter LLM from Scratch Using Python](https://miro.medium.com/v2/resize:fit:679/1*r99Hq3YBd5FTTWLNYKKvPw.png)
+
+[![Level Up Coding](https://miro.medium.com/v2/resize:fill:20:20/1*5D9oYBd58pyjMkV_5-zXXQ.jpeg)](https://medium.com/gitconnected?source=post_page---read_next_recirc--59753cb44483----1---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+In
+
+[Level Up Coding](https://medium.com/gitconnected?source=post_page---read_next_recirc--59753cb44483----1---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+by
+
+[Fareed Khan](/@fareedkhandev?source=post_page---read_next_recirc--59753cb44483----1---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+## [Building a 2 Billion Parameter LLM from Scratch Using PythonIt starts making sense](/gitconnected/building-a-2-billion-parameter-llm-from-scratch-using-python-1325cb05d6fb?source=post_page---read_next_recirc--59753cb44483----1---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+6d ago
+
+[83710](/gitconnected/building-a-2-billion-parameter-llm-from-scratch-using-python-1325cb05d6fb?source=post_page---read_next_recirc--59753cb44483----1---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1325cb05d6fb&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fbuilding-a-2-billion-parameter-llm-from-scratch-using-python-1325cb05d6fb&source=---read_next_recirc--59753cb44483----1-----------------bookmark_preview----93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+![🚀 The Best RAG Frameworks for LLMs 2025: A Complete Comparison Guide 🧠✨”](https://miro.medium.com/v2/resize:fit:679/1*HkyEE2zqv-jnm0h1IGoi8g.png)
+
+[![Mahernaija](https://miro.medium.com/v2/resize:fill:20:20/1*_X4WvbwYytVNT4RnNdtZHA.jpeg)](/@mahernaija?source=post_page---read_next_recirc--59753cb44483----2---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+[Mahernaija](/@mahernaija?source=post_page---read_next_recirc--59753cb44483----2---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+## [🚀 The Best RAG Frameworks for LLMs 2025: A Complete Comparison Guide 🧠✨”🔍 Comparative Study of All RAG Frameworks](/@mahernaija/the-best-rag-frameworks-for-llms-2025-a-complete-comparison-guide-bfbc5e939685?source=post_page---read_next_recirc--59753cb44483----2---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+Dec 31, 2024
+
+[2431](/@mahernaija/the-best-rag-frameworks-for-llms-2025-a-complete-comparison-guide-bfbc5e939685?source=post_page---read_next_recirc--59753cb44483----2---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbfbc5e939685&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mahernaija%2Fthe-best-rag-frameworks-for-llms-2025-a-complete-comparison-guide-bfbc5e939685&source=---read_next_recirc--59753cb44483----2-----------------bookmark_preview----93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+![Ollama-OCR: Now Available as a Python Package!](https://miro.medium.com/v2/resize:fit:679/0*XK4Sr0m6wdOT13Um)
+
+[![Anoop Maurya](https://miro.medium.com/v2/resize:fill:20:20/1*GpLTfdPuDfw-8acfG4GhZg.jpeg)](/@mauryaanoop3?source=post_page---read_next_recirc--59753cb44483----3---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+[Anoop Maurya](/@mauryaanoop3?source=post_page---read_next_recirc--59753cb44483----3---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+## [Ollama-OCR: Now Available as a Python Package!Stuck behind a paywall? Read for Free!](/@mauryaanoop3/ollama-ocr-now-available-as-a-python-package-ff5e4240eb26?source=post_page---read_next_recirc--59753cb44483----3---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+Dec 2, 2024
+
+[2.2K14](/@mauryaanoop3/ollama-ocr-now-available-as-a-python-package-ff5e4240eb26?source=post_page---read_next_recirc--59753cb44483----3---------------------93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fff5e4240eb26&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mauryaanoop3%2Follama-ocr-now-available-as-a-python-package-ff5e4240eb26&source=---read_next_recirc--59753cb44483----3-----------------bookmark_preview----93efe439_4aea_4e75_b3fe_23fb470c87e2-------)
+
+[See more recommendations](/?source=post_page---read_next_recirc--59753cb44483--------------------------------)
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----59753cb44483--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----59753cb44483--------------------------------)
+
+[About](/about?autoplay=1&source=post_page-----59753cb44483--------------------------------)
+
+[Careers](/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----59753cb44483--------------------------------)
+
+[Press](pressinquiries@medium.com?source=post_page-----59753cb44483--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----59753cb44483--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----59753cb44483--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----59753cb44483--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----59753cb44483--------------------------------)
+
+[Teams](/business?source=post_page-----59753cb44483--------------------------------)
+
+To make Medium work, we log user data. By using Medium, you agree to our [Privacy Policy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9), including cookie policy.

@@ -1,0 +1,1245 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fsemantic-kernel%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fsemantic-kernel%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=microsoft%2Fsemantic-kernel) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ microsoft ](/microsoft) / **[semantic-kernel](/microsoft/semantic-kernel) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fmicrosoft%2Fsemantic-kernel) You must be signed in to change notification settings
+  * [ Fork 3.4k ](/login?return_to=%2Fmicrosoft%2Fsemantic-kernel)
+  * [ Star  22.7k ](/login?return_to=%2Fmicrosoft%2Fsemantic-kernel)
+
+
+
+
+Integrate cutting-edge LLM technology quickly and easily into your apps 
+
+[aka.ms/semantic-kernel](https://aka.ms/semantic-kernel "https://aka.ms/semantic-kernel")
+
+### License
+
+[ MIT license ](/microsoft/semantic-kernel/blob/main/LICENSE)
+
+[ 22.7k stars ](/microsoft/semantic-kernel/stargazers) [ 3.4k forks ](/microsoft/semantic-kernel/forks) [ Branches ](/microsoft/semantic-kernel/branches) [ Tags ](/microsoft/semantic-kernel/tags) [ Activity ](/microsoft/semantic-kernel/activity)
+
+[ Star  ](/login?return_to=%2Fmicrosoft%2Fsemantic-kernel)
+
+[ Notifications ](/login?return_to=%2Fmicrosoft%2Fsemantic-kernel) You must be signed in to change notification settings
+
+  * [ Code ](/microsoft/semantic-kernel)
+  * [ Issues 309 ](/microsoft/semantic-kernel/issues)
+  * [ Pull requests 19 ](/microsoft/semantic-kernel/pulls)
+  * [ Discussions ](/microsoft/semantic-kernel/discussions)
+  * [ Actions ](/microsoft/semantic-kernel/actions)
+  * [ Projects 1 ](/microsoft/semantic-kernel/projects)
+  * [ Security ](/microsoft/semantic-kernel/security)
+  * [ Insights ](/microsoft/semantic-kernel/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/microsoft/semantic-kernel)
+  * [ Issues  ](/microsoft/semantic-kernel/issues)
+  * [ Pull requests  ](/microsoft/semantic-kernel/pulls)
+  * [ Discussions  ](/microsoft/semantic-kernel/discussions)
+  * [ Actions  ](/microsoft/semantic-kernel/actions)
+  * [ Projects  ](/microsoft/semantic-kernel/projects)
+  * [ Security  ](/microsoft/semantic-kernel/security)
+  * [ Insights  ](/microsoft/semantic-kernel/pulse)
+
+
+
+# microsoft/semantic-kernel
+
+main
+
+[**24** Branches](/microsoft/semantic-kernel/branches)[**680** Tags](/microsoft/semantic-kernel/tags)
+
+[](/microsoft/semantic-kernel/branches)[](/microsoft/semantic-kernel/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![SergeyMenshykh](https://avatars.githubusercontent.com/u/68852919?v=4&size=40)](/SergeyMenshykh)[SergeyMenshykh](/microsoft/semantic-kernel/commits?author=SergeyMenshykh)[.Net: Function Calling Reliability ADR (](/microsoft/semantic-kernel/commit/d9adf37e0316488cb08d048e8d813d93a47ef1b7)[#10248](https://github.com/microsoft/semantic-kernel/pull/10248)[)](/microsoft/semantic-kernel/commit/d9adf37e0316488cb08d048e8d813d93a47ef1b7)Jan 22, 2025[d9adf37](/microsoft/semantic-kernel/commit/d9adf37e0316488cb08d048e8d813d93a47ef1b7) · Jan 22, 2025
+
+## History
+
+[3,900 Commits](/microsoft/semantic-kernel/commits/main/)[](/microsoft/semantic-kernel/commits/main/)  
+[.devcontainer](/microsoft/semantic-kernel/tree/main/.devcontainer ".devcontainer")| [.devcontainer](/microsoft/semantic-kernel/tree/main/.devcontainer ".devcontainer")| [Change version of .Net in dev container to 8 so it can run Polyglot n… (](/microsoft/semantic-kernel/commit/13a4b4e92cfb664df116f494aac97e7e3badfb49 "Change version of .Net in dev container to 8 so it can run Polyglot n… \(#4201\)
+…otebooks
+### Motivation and Context
+It using a dev container, we currently can't run Polyglot notebooks
+since they required .Net 8
+### Description
+Update .Net version in dev container from 7 to 8
+### Contribution Checklist
+- \[ \] The code builds clean without any errors or warnings
+- \[ \] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[ \] All unit tests pass, and I have added new tests where possible
+- \[ \] I didn't break anyone :smile:")| Dec 12, 2023  
+[.github](/microsoft/semantic-kernel/tree/main/.github ".github")| [.github](/microsoft/semantic-kernel/tree/main/.github ".github")| [Do not exclude entire README from spell checking (](/microsoft/semantic-kernel/commit/9a0d63b3f80bb9e987d81a9cf8d016f27ad2d445 "Do not exclude entire README from spell checking \(#10122\)
+### Motivation and Context
+Closes #9898
+### Description
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[ \] The code builds clean without any errors or warnings
+- \[ \] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[ \] All unit tests pass, and I have added new tests where possible
+- \[ \] I didn't break anyone :smile:")[#10122](https://github.com/microsoft/semantic-kernel/pull/10122)[)](/microsoft/semantic-kernel/commit/9a0d63b3f80bb9e987d81a9cf8d016f27ad2d445 "Do not exclude entire README from spell checking \(#10122\)
+### Motivation and Context
+Closes #9898
+### Description
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[ \] The code builds clean without any errors or warnings
+- \[ \] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[ \] All unit tests pass, and I have added new tests where possible
+- \[ \] I didn't break anyone :smile:")| Jan 8, 2025  
+[.vscode](/microsoft/semantic-kernel/tree/main/.vscode ".vscode")| [.vscode](/microsoft/semantic-kernel/tree/main/.vscode ".vscode")| [.Net: Processes with Dapr - Improving Demo with README (](/microsoft/semantic-kernel/commit/656159e492b5dc453cd39ed666633f52b198062e ".Net: Processes with Dapr - Improving Demo with README \(#9360\)
+### Description
+This PR adds the following:
+- A README file for the Processes with Dapr demo application to help
+explain how to run it and understand what is happening.
+- Cleans up naming of things within the demo and adds Console output to
+help follow execution of the process.
+- Improves tasks and launch config in VS Code and adds the Dapr
+extension as a recommended extension.
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[x\] The code builds clean without any errors or warnings
+- \[x\] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[x\] All unit tests pass, and I have added new tests where possible
+- \[x\] I didn't break anyone :smile:
+---------
+Co-authored-by: Ben Thomas <bentho@microsoft.com>")[#9360](https://github.com/microsoft/semantic-kernel/pull/9360)[)](/microsoft/semantic-kernel/commit/656159e492b5dc453cd39ed666633f52b198062e ".Net: Processes with Dapr - Improving Demo with README \(#9360\)
+### Description
+This PR adds the following:
+- A README file for the Processes with Dapr demo application to help
+explain how to run it and understand what is happening.
+- Cleans up naming of things within the demo and adds Console output to
+help follow execution of the process.
+- Improves tasks and launch config in VS Code and adds the Dapr
+extension as a recommended extension.
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[x\] The code builds clean without any errors or warnings
+- \[x\] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[x\] All unit tests pass, and I have added new tests where possible
+- \[x\] I didn't break anyone :smile:
+---------
+Co-authored-by: Ben Thomas <bentho@microsoft.com>")| Oct 21, 2024  
+[docs](/microsoft/semantic-kernel/tree/main/docs "docs")| [docs](/microsoft/semantic-kernel/tree/main/docs "docs")| [.Net: Function Calling Reliability ADR (](/microsoft/semantic-kernel/commit/d9adf37e0316488cb08d048e8d813d93a47ef1b7 ".Net: Function Calling Reliability ADR \(#10248\)
+The ADR describes issues that decrease function calling reliability and
+provides several options to improve it.")[#10248](https://github.com/microsoft/semantic-kernel/pull/10248)[)](/microsoft/semantic-kernel/commit/d9adf37e0316488cb08d048e8d813d93a47ef1b7 ".Net: Function Calling Reliability ADR \(#10248\)
+The ADR describes issues that decrease function calling reliability and
+provides several options to improve it.")| Jan 22, 2025  
+[dotnet](/microsoft/semantic-kernel/tree/main/dotnet "dotnet")| [dotnet](/microsoft/semantic-kernel/tree/main/dotnet "dotnet")| [.Net: Refactor shared integration tests to allow attribute based disa…](/microsoft/semantic-kernel/commit/9f0ee59b5f554ed85d75e803a1dac6b10333529f ".Net: Refactor shared integration tests to allow attribute based disable. \(#10236\)
+### Description
+- Moved and renamed pinecone xunit helpers a level up.
+- Added an attribute to allow all tests with VectorStoreFact / Theory in
+a class to be disabled, even ones in the base class
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[x\] The code builds clean without any errors or warnings
+- \[x\] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[x\] All unit tests pass, and I have added new tests where possible
+- \[x\] I didn't break anyone :smile:")| Jan 21, 2025  
+[java](/microsoft/semantic-kernel/tree/main/java "java")| [java](/microsoft/semantic-kernel/tree/main/java "java")| [Java: Migrate java code to new repository (](/microsoft/semantic-kernel/commit/d3172f8f3611a3eba0d02fd6840e3a8881652af8 "Java: Migrate java code to new repository \(#7460\)
+### Motivation and Context
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+ 1. Why is this change required?
+ 2. What problem does it solve?
+ 3. What scenario does it contribute to?
+ 4. If it fixes an open issue, please link to the issue here.
+-->
+### Description
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[ \] The code builds clean without any errors or warnings
+- \[ \] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[ \] All unit tests pass, and I have added new tests where possible
+- \[ \] I didn't break anyone :smile:
+Co-authored-by: Bruno Borges <brborges@microsoft.com>")[#7460](https://github.com/microsoft/semantic-kernel/pull/7460)[)](/microsoft/semantic-kernel/commit/d3172f8f3611a3eba0d02fd6840e3a8881652af8 "Java: Migrate java code to new repository \(#7460\)
+### Motivation and Context
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+ 1. Why is this change required?
+ 2. What problem does it solve?
+ 3. What scenario does it contribute to?
+ 4. If it fixes an open issue, please link to the issue here.
+-->
+### Description
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[ \] The code builds clean without any errors or warnings
+- \[ \] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[ \] All unit tests pass, and I have added new tests where possible
+- \[ \] I didn't break anyone :smile:
+Co-authored-by: Bruno Borges <brborges@microsoft.com>")| Jul 29, 2024  
+[prompt_template_samples](/microsoft/semantic-kernel/tree/main/prompt_template_samples "prompt_template_samples")| [prompt_template_samples](/microsoft/semantic-kernel/tree/main/prompt_template_samples "prompt_template_samples")| [.Net: New Azure AI Inference Connector (](/microsoft/semantic-kernel/commit/c11ab2981b42d4c8f4055cebb06edda563da5da3 ".Net: New Azure AI Inference Connector \(#7963\)
+# Motivation and Context
+This PR brings support for Azure AI Studio Model Catalogs also deployed
+thru GitHub Models, this Connector uses the `Azure AI Inference SDK`
+library client.
+Closes #3992 
+Closes #7958")[#7963](https://github.com/microsoft/semantic-kernel/pull/7963)[)](/microsoft/semantic-kernel/commit/c11ab2981b42d4c8f4055cebb06edda563da5da3 ".Net: New Azure AI Inference Connector \(#7963\)
+# Motivation and Context
+This PR brings support for Azure AI Studio Model Catalogs also deployed
+thru GitHub Models, this Connector uses the `Azure AI Inference SDK`
+library client.
+Closes #3992 
+Closes #7958")| Sep 10, 2024  
+[python](/microsoft/semantic-kernel/tree/main/python "python")| [python](/microsoft/semantic-kernel/tree/main/python "python")| [Python: Add agent invocation spans (](/microsoft/semantic-kernel/commit/6ecfdcfda92ec466e8a554bc9f022afb9e903cad "Python: Add agent invocation spans \(#10255\)
+### Motivation and Context
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+ 1. Why is this change required?
+ 2. What problem does it solve?
+ 3. What scenario does it contribute to?
+ 4. If it fixes an open issue, please link to the issue here.
+-->
+Address feature request:
+https://github.com/microsoft/semantic-kernel/issues/10174
+### Description
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+This pull request introduces a new decorator for tracing agent
+invocations and applies it to various methods in the
+`ChatCompletionAgent` and `OpenAIAssistantAgent` classes. Additionally,
+it includes new unit tests to ensure the decorator is correctly applied
+and functions as expected.
+### Key Changes:
+**Decorator Implementation:**
+* Added a new `trace_agent_invocation` decorator in
+`python/semantic_kernel/utils/telemetry/agent_diagnostics/decorators.py`
+to trace agent invocations using OpenTelemetry.
+**Decorator Application:**
+* Applied the `trace_agent_invocation` decorator to the `invoke` and
+`invoke_stream` methods in `ChatCompletionAgent`
+\(`python/semantic_kernel/agents/chat_completion/chat_completion_agent.py`\).
+\[\[1\]\]\(diffhunk://#diff-0f0a27c107368504c4347c88528b7b4234dcead1919005bcae13f5d16d6cf26dR19\)
+\[\[2\]\]\(diffhunk://#diff-0f0a27c107368504c4347c88528b7b4234dcead1919005bcae13f5d16d6cf26dR80\)
+\[\[3\]\]\(diffhunk://#diff-0f0a27c107368504c4347c88528b7b4234dcead1919005bcae13f5d16d6cf26dR134\)
+* Applied the `trace_agent_invocation` decorator to the `invoke` and
+`invoke_stream` methods in `OpenAIAssistantAgent`
+\(`python/semantic_kernel/agents/open_ai/open_ai_assistant_base.py`\).
+\[\[1\]\]\(diffhunk://#diff-70e75c57136d3a90d045af4b8d59fb8e8101251d7c5126458bb5d9e6c36556a4R46\)
+\[\[2\]\]\(diffhunk://#diff-70e75c57136d3a90d045af4b8d59fb8e8101251d7c5126458bb5d9e6c36556a4R608\)
+\[\[3\]\]\(diffhunk://#diff-70e75c57136d3a90d045af4b8d59fb8e8101251d7c5126458bb5d9e6c36556a4R861\)
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[x\] The code builds clean without any errors or warnings
+- \[x\] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[x\] All unit tests pass, and I have added new tests where possible
+- \[x\] I didn't break anyone :smile:
+---------
+Co-authored-by: Evan Mattson <35585003+moonbox3@users.noreply.github.com>")[#10255](https://github.com/microsoft/semantic-kernel/pull/10255)[)](/microsoft/semantic-kernel/commit/6ecfdcfda92ec466e8a554bc9f022afb9e903cad "Python: Add agent invocation spans \(#10255\)
+### Motivation and Context
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+ 1. Why is this change required?
+ 2. What problem does it solve?
+ 3. What scenario does it contribute to?
+ 4. If it fixes an open issue, please link to the issue here.
+-->
+Address feature request:
+https://github.com/microsoft/semantic-kernel/issues/10174
+### Description
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+This pull request introduces a new decorator for tracing agent
+invocations and applies it to various methods in the
+`ChatCompletionAgent` and `OpenAIAssistantAgent` classes. Additionally,
+it includes new unit tests to ensure the decorator is correctly applied
+and functions as expected.
+### Key Changes:
+**Decorator Implementation:**
+* Added a new `trace_agent_invocation` decorator in
+`python/semantic_kernel/utils/telemetry/agent_diagnostics/decorators.py`
+to trace agent invocations using OpenTelemetry.
+**Decorator Application:**
+* Applied the `trace_agent_invocation` decorator to the `invoke` and
+`invoke_stream` methods in `ChatCompletionAgent`
+\(`python/semantic_kernel/agents/chat_completion/chat_completion_agent.py`\).
+\[\[1\]\]\(diffhunk://#diff-0f0a27c107368504c4347c88528b7b4234dcead1919005bcae13f5d16d6cf26dR19\)
+\[\[2\]\]\(diffhunk://#diff-0f0a27c107368504c4347c88528b7b4234dcead1919005bcae13f5d16d6cf26dR80\)
+\[\[3\]\]\(diffhunk://#diff-0f0a27c107368504c4347c88528b7b4234dcead1919005bcae13f5d16d6cf26dR134\)
+* Applied the `trace_agent_invocation` decorator to the `invoke` and
+`invoke_stream` methods in `OpenAIAssistantAgent`
+\(`python/semantic_kernel/agents/open_ai/open_ai_assistant_base.py`\).
+\[\[1\]\]\(diffhunk://#diff-70e75c57136d3a90d045af4b8d59fb8e8101251d7c5126458bb5d9e6c36556a4R46\)
+\[\[2\]\]\(diffhunk://#diff-70e75c57136d3a90d045af4b8d59fb8e8101251d7c5126458bb5d9e6c36556a4R608\)
+\[\[3\]\]\(diffhunk://#diff-70e75c57136d3a90d045af4b8d59fb8e8101251d7c5126458bb5d9e6c36556a4R861\)
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[x\] The code builds clean without any errors or warnings
+- \[x\] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[x\] All unit tests pass, and I have added new tests where possible
+- \[x\] I didn't break anyone :smile:
+---------
+Co-authored-by: Evan Mattson <35585003+moonbox3@users.noreply.github.com>")| Jan 22, 2025  
+[.editorconfig](/microsoft/semantic-kernel/blob/main/.editorconfig ".editorconfig")| [.editorconfig](/microsoft/semantic-kernel/blob/main/.editorconfig ".editorconfig")| [.Net: Google Gemini - Adding response schema (Structured Outputs supp…](/microsoft/semantic-kernel/commit/a76229bfc2058028381a56ebe35bf73c507e1e2a ".Net: Google Gemini - Adding response schema \(Structured Outputs support\) \(#10135\)
+### Motivation and Context
+- Resolves #9501
+### Description
+Allow schema definition for the LLM response. Similar to `Structured
+Output` concept from OpenAI.")| Jan 10, 2025  
+[.gitattributes](/microsoft/semantic-kernel/blob/main/.gitattributes ".gitattributes")| [.gitattributes](/microsoft/semantic-kernel/blob/main/.gitattributes ".gitattributes")| [.Net: Fix build batch to align with Bash script (](/microsoft/semantic-kernel/commit/ff45d4bc9252312939e6df2058770d3ee2acb9ca ".Net: Fix build batch to align with Bash script \(#2813\)
+### Motivation and Context
+**Why is this change required? What problem does it solve?** Consistent
+developer experience across platforms.
+**What scenario does it contribute to?** Developing the .NET solution on
+Windows.
+### Description
+Steps to reproduce \(assuming a Windows host and `main` being at
+f159a0dfa01c43fa238bbd5f7c3ac22e433c0915, which was the case at the time
+of opening this PR\):
+  git clone https://github.com/microsoft/semantic-kernel.git
+  cd semantic-kernel
+  git checkout f159a0dfa01c43fa238bbd5f7c3ac22e433c0915
+  .\\dotnet\\build.cmd
+Expected the build to succeed, but instead the output is:
+  MSBuild version 17.7.3+8ec440e68 for .NET
+MSBUILD : error MSB1003: Specify a project or solution file. The current
+working directory does not contain a project or solution file.
+MSBUILD : error MSB1003: Specify a project or solution file. The current
+working directory does not contain a project or solution file.
+The PR fixes the problem by updating `build.cmd` to be consistent with
+`build.sh` in two ways:
+- The script changes the current directory to the .NET solution root
+- Tests are run via `build test` if the solution builds successfully via
+`dotnet build`. This is done via `&&`.
+The PR also updates `.gitattributes` to make sure that `*.cmd` files use
+the `CRLF`, as is conventional for EOL on Windows.
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[x\] The code builds clean without any errors or warnings
+- \[x\] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[x\] All unit tests pass, and I have added new tests where possible
+- \[x\] I didn't break anyone :smile:
+### Other Information
+`dotnet --info` says:
+  .NET SDK:
+   Version:  7.0.401
+   Commit:  eb26aacfec
+  
+  Runtime Environment:
+   OS Name:   Windows
+   OS Version: 10.0.22621
+   OS Platform: Windows
+   RID:     win10-x64
+   Base Path:  C:\\Program Files\\dotnet\\sdk\\7.0.401\\
+  
+  Host:
+   Version:   7.0.11
+   Architecture: x64
+   Commit:    ecb34f85ec
+  
+  .NET SDKs installed:
+   3.1.426 \[C:\\Program Files\\dotnet\\sdk\]
+   5.0.416 \[C:\\Program Files\\dotnet\\sdk\]
+   6.0.414 \[C:\\Program Files\\dotnet\\sdk\]
+   7.0.203 \[C:\\Program Files\\dotnet\\sdk\]
+   7.0.401 \[C:\\Program Files\\dotnet\\sdk\]
+  
+  .NET runtimes installed:
+Microsoft.AspNetCore.App 3.1.32 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.AspNetCore.App\]
+Microsoft.AspNetCore.App 5.0.17 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.AspNetCore.App\]
+Microsoft.AspNetCore.App 6.0.22 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.AspNetCore.App\]
+Microsoft.AspNetCore.App 7.0.5 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.AspNetCore.App\]
+Microsoft.AspNetCore.App 7.0.11 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.AspNetCore.App\]
+Microsoft.NETCore.App 3.1.32 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.NETCore.App\]
+Microsoft.NETCore.App 5.0.17 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.NETCore.App\]
+Microsoft.NETCore.App 6.0.22 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.NETCore.App\]
+Microsoft.NETCore.App 7.0.5 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.NETCore.App\]
+Microsoft.NETCore.App 7.0.11 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.NETCore.App\]
+Microsoft.WindowsDesktop.App 3.1.32 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\]
+Microsoft.WindowsDesktop.App 5.0.17 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\]
+Microsoft.WindowsDesktop.App 6.0.22 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\]
+Microsoft.WindowsDesktop.App 7.0.5 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\]
+Microsoft.WindowsDesktop.App 7.0.11 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\]
+  
+  Other architectures found:
+   x86  \[C:\\Program Files \(x86\)\\dotnet\]
+registered at
+\[HKLM\\SOFTWARE\\dotnet\\Setup\\InstalledVersions\\x86\\InstallLocation\]
+  
+  Environment variables:
+   Not set
+  
+  global.json file:
+   Not found
+  
+  Learn more:
+   https://aka.ms/dotnet/info
+  
+  Download .NET:
+   https://aka.ms/dotnet/download
+Co-authored-by: Shawn Callegari <36091529+shawncal@users.noreply.github.com>")[#2813](https://github.com/microsoft/semantic-kernel/pull/2813)[)](/microsoft/semantic-kernel/commit/ff45d4bc9252312939e6df2058770d3ee2acb9ca ".Net: Fix build batch to align with Bash script \(#2813\)
+### Motivation and Context
+**Why is this change required? What problem does it solve?** Consistent
+developer experience across platforms.
+**What scenario does it contribute to?** Developing the .NET solution on
+Windows.
+### Description
+Steps to reproduce \(assuming a Windows host and `main` being at
+f159a0dfa01c43fa238bbd5f7c3ac22e433c0915, which was the case at the time
+of opening this PR\):
+  git clone https://github.com/microsoft/semantic-kernel.git
+  cd semantic-kernel
+  git checkout f159a0dfa01c43fa238bbd5f7c3ac22e433c0915
+  .\\dotnet\\build.cmd
+Expected the build to succeed, but instead the output is:
+  MSBuild version 17.7.3+8ec440e68 for .NET
+MSBUILD : error MSB1003: Specify a project or solution file. The current
+working directory does not contain a project or solution file.
+MSBUILD : error MSB1003: Specify a project or solution file. The current
+working directory does not contain a project or solution file.
+The PR fixes the problem by updating `build.cmd` to be consistent with
+`build.sh` in two ways:
+- The script changes the current directory to the .NET solution root
+- Tests are run via `build test` if the solution builds successfully via
+`dotnet build`. This is done via `&&`.
+The PR also updates `.gitattributes` to make sure that `*.cmd` files use
+the `CRLF`, as is conventional for EOL on Windows.
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[x\] The code builds clean without any errors or warnings
+- \[x\] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[x\] All unit tests pass, and I have added new tests where possible
+- \[x\] I didn't break anyone :smile:
+### Other Information
+`dotnet --info` says:
+  .NET SDK:
+   Version:  7.0.401
+   Commit:  eb26aacfec
+  
+  Runtime Environment:
+   OS Name:   Windows
+   OS Version: 10.0.22621
+   OS Platform: Windows
+   RID:     win10-x64
+   Base Path:  C:\\Program Files\\dotnet\\sdk\\7.0.401\\
+  
+  Host:
+   Version:   7.0.11
+   Architecture: x64
+   Commit:    ecb34f85ec
+  
+  .NET SDKs installed:
+   3.1.426 \[C:\\Program Files\\dotnet\\sdk\]
+   5.0.416 \[C:\\Program Files\\dotnet\\sdk\]
+   6.0.414 \[C:\\Program Files\\dotnet\\sdk\]
+   7.0.203 \[C:\\Program Files\\dotnet\\sdk\]
+   7.0.401 \[C:\\Program Files\\dotnet\\sdk\]
+  
+  .NET runtimes installed:
+Microsoft.AspNetCore.App 3.1.32 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.AspNetCore.App\]
+Microsoft.AspNetCore.App 5.0.17 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.AspNetCore.App\]
+Microsoft.AspNetCore.App 6.0.22 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.AspNetCore.App\]
+Microsoft.AspNetCore.App 7.0.5 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.AspNetCore.App\]
+Microsoft.AspNetCore.App 7.0.11 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.AspNetCore.App\]
+Microsoft.NETCore.App 3.1.32 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.NETCore.App\]
+Microsoft.NETCore.App 5.0.17 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.NETCore.App\]
+Microsoft.NETCore.App 6.0.22 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.NETCore.App\]
+Microsoft.NETCore.App 7.0.5 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.NETCore.App\]
+Microsoft.NETCore.App 7.0.11 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.NETCore.App\]
+Microsoft.WindowsDesktop.App 3.1.32 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\]
+Microsoft.WindowsDesktop.App 5.0.17 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\]
+Microsoft.WindowsDesktop.App 6.0.22 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\]
+Microsoft.WindowsDesktop.App 7.0.5 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\]
+Microsoft.WindowsDesktop.App 7.0.11 \[C:\\Program
+Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\]
+  
+  Other architectures found:
+   x86  \[C:\\Program Files \(x86\)\\dotnet\]
+registered at
+\[HKLM\\SOFTWARE\\dotnet\\Setup\\InstalledVersions\\x86\\InstallLocation\]
+  
+  Environment variables:
+   Not set
+  
+  global.json file:
+   Not found
+  
+  Learn more:
+   https://aka.ms/dotnet/info
+  
+  Download .NET:
+   https://aka.ms/dotnet/download
+Co-authored-by: Shawn Callegari <36091529+shawncal@users.noreply.github.com>")| Sep 15, 2023  
+[.gitignore](/microsoft/semantic-kernel/blob/main/.gitignore ".gitignore")| [.gitignore](/microsoft/semantic-kernel/blob/main/.gitignore ".gitignore")| [.Net: chore/updates plugins (](/microsoft/semantic-kernel/commit/478e7649e93806953aa6be3e268619f609dc7bc1 ".Net: chore/updates plugins \(#9843\)
+this PR updates the generated descriptions for copilot agent plugins,
+depends on #9841 and #9840 to function properly
+closes #9771
+---------
+Signed-off-by: Vincent Biret <vibiret@microsoft.com>")[#9843](https://github.com/microsoft/semantic-kernel/pull/9843)[)](/microsoft/semantic-kernel/commit/478e7649e93806953aa6be3e268619f609dc7bc1 ".Net: chore/updates plugins \(#9843\)
+this PR updates the generated descriptions for copilot agent plugins,
+depends on #9841 and #9840 to function properly
+closes #9771
+---------
+Signed-off-by: Vincent Biret <vibiret@microsoft.com>")| Dec 6, 2024  
+[CODE_OF_CONDUCT.md](/microsoft/semantic-kernel/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/microsoft/semantic-kernel/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [First commit, let the journey begin!](/microsoft/semantic-kernel/commit/89fe9a9ce3bfaf3eecbc0ffe332037317a27ae80 "First commit, let the journey begin!")| Feb 25, 2023  
+[COMMUNITY.md](/microsoft/semantic-kernel/blob/main/COMMUNITY.md "COMMUNITY.md")| [COMMUNITY.md](/microsoft/semantic-kernel/blob/main/COMMUNITY.md "COMMUNITY.md")| [Update COMMUNITY.md (](/microsoft/semantic-kernel/commit/6d3497e1a2078f32f0c9ffb5cbf07bbd61a48ff2 "Update COMMUNITY.md \(#7568\)
+### Motivation and Context
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+ 1. Why is this change required?
+ 2. What problem does it solve?
+ 3. What scenario does it contribute to?
+ 4. If it fixes an open issue, please link to the issue here.
+-->
+### Description
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[ \] The code builds clean without any errors or warnings
+- \[ \] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[ \] All unit tests pass, and I have added new tests where possible
+- \[ \] I didn't break anyone :smile:
+---------
+Co-authored-by: Roger Barreto <19890735+RogerBarreto@users.noreply.github.com>
+Co-authored-by: Mark Wallace <127216156+markwallace-microsoft@users.noreply.github.com>")[#7568](https://github.com/microsoft/semantic-kernel/pull/7568)[)](/microsoft/semantic-kernel/commit/6d3497e1a2078f32f0c9ffb5cbf07bbd61a48ff2 "Update COMMUNITY.md \(#7568\)
+### Motivation and Context
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+ 1. Why is this change required?
+ 2. What problem does it solve?
+ 3. What scenario does it contribute to?
+ 4. If it fixes an open issue, please link to the issue here.
+-->
+### Description
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[ \] The code builds clean without any errors or warnings
+- \[ \] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[ \] All unit tests pass, and I have added new tests where possible
+- \[ \] I didn't break anyone :smile:
+---------
+Co-authored-by: Roger Barreto <19890735+RogerBarreto@users.noreply.github.com>
+Co-authored-by: Mark Wallace <127216156+markwallace-microsoft@users.noreply.github.com>")| Nov 28, 2024  
+[CONTRIBUTING.md](/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Update CONTRIBUTING.md (](/microsoft/semantic-kernel/commit/c8a7c6d134fff68e59dd8cc191e9a2fdc1d0937a "Update CONTRIBUTING.md \(#2503\)
+### Motivation and Context
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+ 1. Why is this change required?
+ Updating to support questions from community members on plugin hosting
+ 3. What problem does it solve?
+ Provides guidance on SK's repo and plugin
+ 5. What scenario does it contribute to?
+ Plugin and memory plugins created by the community
+ 7. If it fixes an open issue, please link to the issue here.
+-->
+### Description
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[x\] The code builds clean without any errors or warnings
+- \[x\] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[x\] All unit tests pass, and I have added new tests where possible
+- \[x\] I didn't break anyone :smile:
+---------
+Co-authored-by: Devis Lucato <dluc@users.noreply.github.com>
+Co-authored-by: Shawn Callegari <36091529+shawncal@users.noreply.github.com>
+Co-authored-by: Harleen Thind <39630244+hathind-ms@users.noreply.github.com>")[#2503](https://github.com/microsoft/semantic-kernel/pull/2503)[)](/microsoft/semantic-kernel/commit/c8a7c6d134fff68e59dd8cc191e9a2fdc1d0937a "Update CONTRIBUTING.md \(#2503\)
+### Motivation and Context
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+ 1. Why is this change required?
+ Updating to support questions from community members on plugin hosting
+ 3. What problem does it solve?
+ Provides guidance on SK's repo and plugin
+ 5. What scenario does it contribute to?
+ Plugin and memory plugins created by the community
+ 7. If it fixes an open issue, please link to the issue here.
+-->
+### Description
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[x\] The code builds clean without any errors or warnings
+- \[x\] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[x\] All unit tests pass, and I have added new tests where possible
+- \[x\] I didn't break anyone :smile:
+---------
+Co-authored-by: Devis Lucato <dluc@users.noreply.github.com>
+Co-authored-by: Shawn Callegari <36091529+shawncal@users.noreply.github.com>
+Co-authored-by: Harleen Thind <39630244+hathind-ms@users.noreply.github.com>")| Sep 4, 2023  
+[FEATURE_MATRIX.md](/microsoft/semantic-kernel/blob/main/FEATURE_MATRIX.md "FEATURE_MATRIX.md")| [FEATURE_MATRIX.md](/microsoft/semantic-kernel/blob/main/FEATURE_MATRIX.md "FEATURE_MATRIX.md")| [Create pointers to learn.microsoft.com (](/microsoft/semantic-kernel/commit/39395422b608de1f308e558da81d12004d19bc75 "Create pointers to learn.microsoft.com \(#2159\)
+### Motivation and Context
+To align docs, we should redirect developers to the documents on the
+official learn site.
+### Description
+- Create redirects for docs files in repo that point users to
+learn.microsoft.com.
+- Update readme links to point to learn.microsoft.com
+### Contribution Checklist
+- \[ \] The code builds clean without any errors or warnings
+- \[ \] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[ \] All unit tests pass, and I have added new tests where possible
+- \[ \] I didn't break anyone :smile:")[#2159](https://github.com/microsoft/semantic-kernel/pull/2159)[)](/microsoft/semantic-kernel/commit/39395422b608de1f308e558da81d12004d19bc75 "Create pointers to learn.microsoft.com \(#2159\)
+### Motivation and Context
+To align docs, we should redirect developers to the documents on the
+official learn site.
+### Description
+- Create redirects for docs files in repo that point users to
+learn.microsoft.com.
+- Update readme links to point to learn.microsoft.com
+### Contribution Checklist
+- \[ \] The code builds clean without any errors or warnings
+- \[ \] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[ \] All unit tests pass, and I have added new tests where possible
+- \[ \] I didn't break anyone :smile:")| Jul 26, 2023  
+[LICENSE](/microsoft/semantic-kernel/blob/main/LICENSE "LICENSE")| [LICENSE](/microsoft/semantic-kernel/blob/main/LICENSE "LICENSE")| [First commit, let the journey begin!](/microsoft/semantic-kernel/commit/89fe9a9ce3bfaf3eecbc0ffe332037317a27ae80 "First commit, let the journey begin!")| Feb 25, 2023  
+[README.md](/microsoft/semantic-kernel/blob/main/README.md "README.md")| [README.md](/microsoft/semantic-kernel/blob/main/README.md "README.md")| [Remove build Java badge from readme (](/microsoft/semantic-kernel/commit/934b2bb1a14bb1b1056655c4b25ecefbab27f4ff "Remove build Java badge from readme \(#7561\)")[#7561](https://github.com/microsoft/semantic-kernel/pull/7561)[)](/microsoft/semantic-kernel/commit/934b2bb1a14bb1b1056655c4b25ecefbab27f4ff "Remove build Java badge from readme \(#7561\)")| Dec 11, 2024  
+[SECURITY.md](/microsoft/semantic-kernel/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md](/microsoft/semantic-kernel/blob/main/SECURITY.md "SECURITY.md")| [Fix broken links (](/microsoft/semantic-kernel/commit/0cfbc8746dabb75ebe70767131a74bc3f154c046 "Fix broken links \(#4930\)
+### Motivation and Context
+There were broken links in the `SECURITY.md` markdown file that returned
+301s.
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+ 1. Why is this change required?
+ 2. What problem does it solve?
+ 3. What scenario does it contribute to?
+ 4. If it fixes an open issue, please link to the issue here.
+-->
+### Description
+This PR updates the links with the new, redirected/valid links.
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[X\] The code builds clean without any errors or warnings
+- \[X\] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[X\] All unit tests pass, and I have added new tests where possible
+- \[X\] I didn't break anyone :smile:")[#4930](https://github.com/microsoft/semantic-kernel/pull/4930)[)](/microsoft/semantic-kernel/commit/0cfbc8746dabb75ebe70767131a74bc3f154c046 "Fix broken links \(#4930\)
+### Motivation and Context
+There were broken links in the `SECURITY.md` markdown file that returned
+301s.
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+ 1. Why is this change required?
+ 2. What problem does it solve?
+ 3. What scenario does it contribute to?
+ 4. If it fixes an open issue, please link to the issue here.
+-->
+### Description
+This PR updates the links with the new, redirected/valid links.
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[X\] The code builds clean without any errors or warnings
+- \[X\] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[X\] All unit tests pass, and I have added new tests where possible
+- \[X\] I didn't break anyone :smile:")| Feb 8, 2024  
+[TRANSPARENCY_FAQS.md](/microsoft/semantic-kernel/blob/main/TRANSPARENCY_FAQS.md "TRANSPARENCY_FAQS.md")| [TRANSPARENCY_FAQS.md](/microsoft/semantic-kernel/blob/main/TRANSPARENCY_FAQS.md "TRANSPARENCY_FAQS.md")| [Update TRANSPARENCY_FAQS.md (](/microsoft/semantic-kernel/commit/5897e4c39a8afba07fb466f2380862cbb2745992 "Update TRANSPARENCY_FAQS.md \(#9198\)
+Updates from the RAI team on transparency documentation
+### Motivation and Context
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+ 1. Why is this change required?
+ 2. What problem does it solve?
+ 3. What scenario does it contribute to?
+ 4. If it fixes an open issue, please link to the issue here.
+-->
+### Description
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[ \] The code builds clean without any errors or warnings
+- \[ \] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[ \] All unit tests pass, and I have added new tests where possible
+- \[ \] I didn't break anyone :smile:
+---------
+Co-authored-by: Chris <66376200+crickman@users.noreply.github.com>")[#9198](https://github.com/microsoft/semantic-kernel/pull/9198)[)](/microsoft/semantic-kernel/commit/5897e4c39a8afba07fb466f2380862cbb2745992 "Update TRANSPARENCY_FAQS.md \(#9198\)
+Updates from the RAI team on transparency documentation
+### Motivation and Context
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+ 1. Why is this change required?
+ 2. What problem does it solve?
+ 3. What scenario does it contribute to?
+ 4. If it fixes an open issue, please link to the issue here.
+-->
+### Description
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+### Contribution Checklist
+<!-- Before submitting this PR, please make sure: -->
+- \[ \] The code builds clean without any errors or warnings
+- \[ \] The PR follows the \[SK Contribution
+Guidelines\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md\)
+and the \[pre-submission formatting
+script\]\(https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts\)
+raises no violations
+- \[ \] All unit tests pass, and I have added new tests where possible
+- \[ \] I didn't break anyone :smile:
+---------
+Co-authored-by: Chris <66376200+crickman@users.noreply.github.com>")| Oct 25, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+# Semantic Kernel
+
+[](#semantic-kernel)
+
+## Status
+
+[](#status)
+
+  * Python [![Python package](https://camo.githubusercontent.com/5bd2489464e65df25c82e01d5ff3f0c73aad4657158beb03fdeb62949e98b626/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f73656d616e7469632d6b65726e656c)](https://pypi.org/project/semantic-kernel/)
+  * .NET [![Nuget package](https://camo.githubusercontent.com/cb897a8c041d967db2ba16a18a3dadc31856b18f7c3da4963784d44733973a19/68747470733a2f2f696d672e736869656c64732e696f2f6e756765742f767072652f4d6963726f736f66742e53656d616e7469634b65726e656c)](https://www.nuget.org/packages/Microsoft.SemanticKernel/)[![dotnet Docker](https://github.com/microsoft/semantic-kernel/actions/workflows/dotnet-ci-docker.yml/badge.svg?branch=main)](https://github.com/microsoft/semantic-kernel/actions/workflows/dotnet-ci-docker.yml)[![dotnet Windows](https://github.com/microsoft/semantic-kernel/actions/workflows/dotnet-ci-windows.yml/badge.svg?branch=main)](https://github.com/microsoft/semantic-kernel/actions/workflows/dotnet-ci-windows.yml)
+
+
+
+## Overview
+
+[](#overview)
+
+[![License: MIT](https://camo.githubusercontent.com/c804d19932805c1b45c9d5b3fb5a4d2f96968124edce34f97b795a971592763e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6d6963726f736f66742f73656d616e7469632d6b65726e656c)](https://github.com/microsoft/semantic-kernel/blob/main/LICENSE) [![Discord](https://camo.githubusercontent.com/d9a10340bcf8c20defb30dba9681ac41b96d9cd93f827ad1fb1ed90d10cea8c9/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313036333135323434313831393934323932323f6c6162656c3d446973636f7264266c6f676f3d646973636f7264266c6f676f436f6c6f723d776869746526636f6c6f723d643832363739)](https://aka.ms/SKDiscord)
+
+[Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/) is an SDK that integrates Large Language Models (LLMs) like [OpenAI](https://platform.openai.com/docs/introduction), [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service), and [Hugging Face](https://huggingface.co/) with conventional programming languages like C#, Python, and Java. Semantic Kernel achieves this by allowing you to define [plugins](https://learn.microsoft.com/en-us/semantic-kernel/concepts/plugins) that can be chained together in just a [few lines of code](https://learn.microsoft.com/en-us/semantic-kernel/ai-orchestration/chaining-functions?tabs=Csharp#using-the-runasync-method-to-simplify-your-code).
+
+What makes Semantic Kernel _special_ , however, is its ability to _automatically_ orchestrate plugins with AI. With Semantic Kernel [planners](https://learn.microsoft.com/en-us/semantic-kernel/ai-orchestration/planner), you can ask an LLM to generate a plan that achieves a user's unique goal. Afterwards, Semantic Kernel will execute the plan for the user.
+
+It provides:
+
+  * abstractions for AI services (such as chat, text to images, audio to text, etc.) and memory stores
+  * implementations of those abstractions for services from [OpenAI](https://platform.openai.com/docs/introduction), [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service), [Hugging Face](https://huggingface.co/), local models, and more, and for a multitude of vector databases, such as those from [Chroma](https://docs.trychroma.com/getting-started), [Qdrant](https://qdrant.tech/), [Milvus](https://milvus.io/), and [Azure](https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search)
+  * a common representation for [plugins](https://learn.microsoft.com/en-us/semantic-kernel/ai-orchestration/plugins), which can then be orchestrated automatically by AI
+  * the ability to create such plugins from a multitude of sources, including from OpenAPI specifications, prompts, and arbitrary code written in the target language
+  * extensible support for prompt management and rendering, including built-in handling of common formats like Handlebars and Liquid
+  * and a wealth of functionality layered on top of these abstractions, such as filters for responsible AI, dependency injection integration, and more.
+
+
+
+Semantic Kernel is utilized by enterprises due to its flexibility, modularity and observability. Backed with security enhancing capabilities like telemetry support, and hooks and filters so you’ll feel confident you’re delivering responsible AI solutions at scale. Semantic Kernel was designed to be future proof, easily connecting your code to the latest AI models evolving with the technology as it advances. When new models are released, you’ll simply swap them out without needing to rewrite your entire codebase.
+
+#### Please star the repo to show your support for this project!
+
+[](#please-star-the-repo-to-show-your-support-for-this-project)
+
+[![Enterprise-ready](https://camo.githubusercontent.com/72bed019cc25e821a2ddec3db2c9e5923729397b642aadc95955061add10111f/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f656e74657270726973652d72656164792e706e67)](https://camo.githubusercontent.com/72bed019cc25e821a2ddec3db2c9e5923729397b642aadc95955061add10111f/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f656e74657270726973652d72656164792e706e67)
+
+## Getting started with Semantic Kernel
+
+[](#getting-started-with-semantic-kernel)
+
+The Semantic Kernel SDK is available in C#, Python, and Java. To get started, choose your preferred language below. See the [Feature Matrix](https://learn.microsoft.com/en-us/semantic-kernel/get-started/supported-languages) for a breakdown of feature parity between our currently supported languages.
+
+[![](https://user-images.githubusercontent.com/371009/230673036-fad1e8e6-5d48-49b1-a9c1-6f9834e0d165.png)](https://user-images.githubusercontent.com/371009/230673036-fad1e8e6-5d48-49b1-a9c1-6f9834e0d165.png) [Using Semantic Kernel in C#](/microsoft/semantic-kernel/blob/main/dotnet/README.md) |  [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [Using Semantic Kernel in Python](/microsoft/semantic-kernel/blob/main/python/README.md) |  [![Java logo](https://camo.githubusercontent.com/0d4a1f6377f0e8693de631a21733c9e81fc0b76451a2d8711dc248724ea3563f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e737667)](https://camo.githubusercontent.com/0d4a1f6377f0e8693de631a21733c9e81fc0b76451a2d8711dc248724ea3563f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e737667) [Using Semantic Kernel in Java](https://github.com/microsoft/semantic-kernel-java/blob/main/README.md)  
+---|---|---  
+  
+The quickest way to get started with the basics is to get an API key from either OpenAI or Azure OpenAI and to run one of the C#, Python, and Java console applications/scripts below.
+
+### For C#:
+
+[](#for-c)
+
+  1. Go to the Quick start page [here](https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide?pivots=programming-language-csharp) and follow the steps to dive in.
+  2. After Installing the SDK, we advise you follow the steps and code detailed to write your first console app. [![dotnetmap](https://camo.githubusercontent.com/bd52db213944d6fe48304ab9157a490b4a888f5b0959f60b069ff6162dcdda2d/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f646f746e65746d61702e706e67)](https://camo.githubusercontent.com/bd52db213944d6fe48304ab9157a490b4a888f5b0959f60b069ff6162dcdda2d/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f646f746e65746d61702e706e67)
+
+
+
+### For Python:
+
+[](#for-python)
+
+  1. Go to the Quick start page [here](https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide?pivots=programming-language-python) and follow the steps to dive in.
+  2. You'll need to ensure that you toggle to Python in the Choose a programming language table at the top of the page. [![pythonmap](https://camo.githubusercontent.com/38de147d60e8197d6ac9895159c81fe5441948f5b49e65d157b96d0403a386eb/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f707974686f6e6d61702e706e67)](https://camo.githubusercontent.com/38de147d60e8197d6ac9895159c81fe5441948f5b49e65d157b96d0403a386eb/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f707974686f6e6d61702e706e67)
+
+
+
+### For Java:
+
+[](#for-java)
+
+The Java code is in the [semantic-kernel-java](https://github.com/microsoft/semantic-kernel-java) repository. See [semantic-kernel-java build](https://github.com/microsoft/semantic-kernel-java/blob/main/BUILD.md) for instructions on how to build and run the Java code.
+
+Please file Java Semantic Kernel specific issues in the [semantic-kernel-java](https://github.com/microsoft/semantic-kernel-java) repository.
+
+## Learning how to use Semantic Kernel
+
+[](#learning-how-to-use-semantic-kernel)
+
+The fastest way to learn how to use Semantic Kernel is with our C# and Python Jupyter notebooks. These notebooks demonstrate how to use Semantic Kernel with code snippets that you can run with a push of a button.
+
+  * [Getting Started with C# notebook](/microsoft/semantic-kernel/blob/main/dotnet/notebooks/00-getting-started.ipynb)
+  * [Getting Started with Python notebook](/microsoft/semantic-kernel/blob/main/python/samples/getting_started/00-getting-started.ipynb)
+
+
+
+Once you've finished the getting started notebooks, you can then check out the main walkthroughs on our Learn site. Each sample comes with a completed C# and Python project that you can run locally.
+
+  1. 📖 [Getting Started](https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide)
+  2. 🔌 [Detailed Samples](https://learn.microsoft.com/en-us/semantic-kernel/get-started/detailed-samples)
+  3. 💡 [Concepts](https://learn.microsoft.com/en-us/semantic-kernel/concepts/kernel)
+
+
+
+Finally, refer to our API references for more details on the C# and Python APIs:
+
+  * [C# API reference](https://learn.microsoft.com/en-us/dotnet/api/microsoft.semantickernel?view=semantic-kernel-dotnet)
+  * [Python API reference](https://learn.microsoft.com/en-us/python/api/semantic-kernel/semantic_kernel?view=semantic-kernel-python)
+  * Java API reference (coming soon)
+
+
+
+## Visual Studio Code extension: design semantic functions with ease
+
+[](#visual-studio-code-extension-design-semantic-functions-with-ease)
+
+The Semantic Kernel extension for Visual Studio Code makes it easy to design and test semantic functions. The extension provides an interface for designing semantic functions and allows you to test them with the push of a button with your existing models and data.
+
+## Join the community
+
+[](#join-the-community)
+
+We welcome your contributions and suggestions to SK community! One of the easiest ways to participate is to engage in discussions in the GitHub repository. Bug reports and fixes are welcome!
+
+For new features, components, or extensions, please open an issue and discuss with us before sending a PR. This is to avoid rejection as we might be taking the core in a different direction, but also to consider the impact on the larger ecosystem.
+
+To learn more and get started:
+
+  * Read the [documentation](https://aka.ms/sk/learn)
+
+  * Learn how to [contribute](https://learn.microsoft.com/en-us/semantic-kernel/support/contributing) to the project
+
+  * Ask questions in the [GitHub discussions](https://github.com/microsoft/semantic-kernel/discussions)
+
+  * Ask questions in the [Discord community](https://aka.ms/SKDiscord)
+
+  * Attend [regular office hours and SK community events](/microsoft/semantic-kernel/blob/main/COMMUNITY.md)
+
+  * Follow the team on our [blog](https://aka.ms/sk/blog)
+
+
+
+
+## Contributor Wall of Fame
+
+[](#contributor-wall-of-fame)
+
+[![semantic-kernel contributors](https://camo.githubusercontent.com/1431a4ef294afe7826d889a7dba9556f0014daea43fa7dc740ded52c131e543f/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6d6963726f736f66742f73656d616e7469632d6b65726e656c)](https://github.com/microsoft/semantic-kernel/graphs/contributors)
+
+## Code of Conduct
+
+[](#code-of-conduct)
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments.
+
+## License
+
+[](#license)
+
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Licensed under the [MIT](/microsoft/semantic-kernel/blob/main/LICENSE) license.
+
+## About
+
+Integrate cutting-edge LLM technology quickly and easily into your apps 
+
+[aka.ms/semantic-kernel](https://aka.ms/semantic-kernel "https://aka.ms/semantic-kernel")
+
+### Topics
+
+[ sdk ](/topics/sdk "Topic: sdk") [ ai ](/topics/ai "Topic: ai") [ artificial-intelligence ](/topics/artificial-intelligence "Topic: artificial-intelligence") [ openai ](/topics/openai "Topic: openai") [ llm ](/topics/llm "Topic: llm")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/microsoft/semantic-kernel/activity)
+
+[ Custom properties](/microsoft/semantic-kernel/custom-properties)
+
+### Stars
+
+[ **22.7k** stars](/microsoft/semantic-kernel/stargazers)
+
+### Watchers
+
+[ **274** watching](/microsoft/semantic-kernel/watchers)
+
+### Forks
+
+[ **3.4k** forks](/microsoft/semantic-kernel/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fsemantic-kernel&report=microsoft+%28user%29)
+
+##  [Releases 165](/microsoft/semantic-kernel/releases)
+
+[ python-1.19.0 Latest  Jan 22, 2025 ](/microsoft/semantic-kernel/releases/tag/python-1.19.0)
+
+[+ 164 releases](/microsoft/semantic-kernel/releases)
+
+##  [Packages 43](/orgs/microsoft/packages?repo_name=semantic-kernel)
+
+  * [ Microsoft.SemanticKernel.Core ](/orgs/microsoft/packages/nuget/package/Microsoft.SemanticKernel.Core)
+  * [ Microsoft.SemanticKernel.Abstractions ](/orgs/microsoft/packages/nuget/package/Microsoft.SemanticKernel.Abstractions)
+  * [ Microsoft.SemanticKernel ](/orgs/microsoft/packages/nuget/package/Microsoft.SemanticKernel)
+
+
+
+[+ 40 packages](/orgs/microsoft/packages?repo_name=semantic-kernel)
+
+##  [Used by 970](/microsoft/semantic-kernel/network/dependents)
+
+[
+
+  * ![@JuhyunLee0](https://avatars.githubusercontent.com/u/152219307?s=64&v=4)
+  * ![@7homasjames](https://avatars.githubusercontent.com/u/118433299?s=64&v=4)
+  * ![@mateoperezrivera](https://avatars.githubusercontent.com/u/75545749?s=64&v=4)
+  * ![@rajesh-nitc](https://avatars.githubusercontent.com/u/44093301?s=64&v=4)
+  * ![@rutzsco](https://avatars.githubusercontent.com/u/50925884?s=64&v=4)
+  * ![@galaxyhm](https://avatars.githubusercontent.com/u/120346964?s=64&v=4)
+  * ![@OSSx10](https://avatars.githubusercontent.com/u/62358819?s=64&v=4)
+  * ![@guravvaishnavi02](https://avatars.githubusercontent.com/u/54536558?s=64&v=4)
+
++ 962  ](/microsoft/semantic-kernel/network/dependents)
+
+##  [Contributors 346](/microsoft/semantic-kernel/graphs/contributors)
+
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@markwallace-microsoft](https://avatars.githubusercontent.com/u/127216156?s=64&v=4) ](https://github.com/markwallace-microsoft)
+  * [ ![@dmytrostruk](https://avatars.githubusercontent.com/u/13853051?s=64&v=4) ](https://github.com/dmytrostruk)
+  * [ ![@moonbox3](https://avatars.githubusercontent.com/u/35585003?s=64&v=4) ](https://github.com/moonbox3)
+  * [ ![@shawncal](https://avatars.githubusercontent.com/u/36091529?s=64&v=4) ](https://github.com/shawncal)
+  * [ ![@RogerBarreto](https://avatars.githubusercontent.com/u/19890735?s=64&v=4) ](https://github.com/RogerBarreto)
+  * [ ![@stephentoub](https://avatars.githubusercontent.com/u/2642209?s=64&v=4) ](https://github.com/stephentoub)
+  * [ ![@SergeyMenshykh](https://avatars.githubusercontent.com/u/68852919?s=64&v=4) ](https://github.com/SergeyMenshykh)
+  * [ ![@eavanvalkenburg](https://avatars.githubusercontent.com/u/13749212?s=64&v=4) ](https://github.com/eavanvalkenburg)
+  * [ ![@johnoliver](https://avatars.githubusercontent.com/u/1615532?s=64&v=4) ](https://github.com/johnoliver)
+  * [ ![@lemillermicrosoft](https://avatars.githubusercontent.com/u/35783676?s=64&v=4) ](https://github.com/lemillermicrosoft)
+  * [ ![@crickman](https://avatars.githubusercontent.com/u/66376200?s=64&v=4) ](https://github.com/crickman)
+  * [ ![@dluc](https://avatars.githubusercontent.com/u/371009?s=64&v=4) ](https://github.com/dluc)
+  * [ ![@TaoChenOSU](https://avatars.githubusercontent.com/u/12570346?s=64&v=4) ](https://github.com/TaoChenOSU)
+
+
+
+[+ 332 contributors](/microsoft/semantic-kernel/graphs/contributors)
+
+## Languages
+
+  * [ C# 70.4% ](/microsoft/semantic-kernel/search?l=c%23)
+  * [ Python 27.4% ](/microsoft/semantic-kernel/search?l=python)
+  * [ Jupyter Notebook 2.1% ](/microsoft/semantic-kernel/search?l=jupyter-notebook)
+  * [ Handlebars 0.1% ](/microsoft/semantic-kernel/search?l=handlebars)
+  * [ PowerShell 0.0% ](/microsoft/semantic-kernel/search?l=powershell)
+  * [ Makefile 0.0% ](/microsoft/semantic-kernel/search?l=makefile)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

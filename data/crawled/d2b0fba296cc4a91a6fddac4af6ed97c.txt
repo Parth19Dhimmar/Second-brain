@@ -1,0 +1,671 @@
+![](https://cdn.prod.website-files.com/5f6353590bb01cacbcecfbac/61f958575ff62d320d46701e_closeicon.png)
+
+Scheduled upgrade from November 26, 07:00 UTC to November 26, 17:00 UTC
+
+Kindly note that during the maintenance window, app.hopsworks.ai will not be accessible.
+
+5
+
+[View the Changes](https://www.hopsworks.ai/news/hopsworks-4-0-breaking-changes)
+
+![](https://cdn.prod.website-files.com/5f6353590bb01cacbcecfbac/61f958575ff62d320d46701e_closeicon.png)
+
+Scheduled upgrade from November 26, 07:00 UTC to November 26, 17:00 UTC
+
+Kindly note that during the maintenance window, app.hopsworks.ai will not be accessible.
+
+5
+
+[View the Changes](https://www.hopsworks.ai/news/hopsworks-4-0-breaking-changes)
+
+Scheduled upgrade from November 26, 07:00 UTC to November 26, 17:00 UTC
+
+[Contact](/contact/main)[Login](https://app.hopsworks.ai)[![Github Mark](https://cdn.prod.website-files.com/5f6353590bb01cacbcecfbac/6418216a570b0da3d471661a_icons8-slack-new.svg)](https://join.slack.com/t/public-hopsworks/shared_invite/zt-1uf21vitz-rhHKNdIf8GEiOf1EJ6Wzsw)[![Github Mark](https://cdn.prod.website-files.com/5f6353590bb01cacbcecfbac/62261cde4669f63d3880938d_github.svg)](https://github.com/logicalclocks/hopsworks)[![linkedin logo](https://cdn.prod.website-files.com/5f6353590bb01cacbcecfbac/61926637aaba4d3968d7956d_linkedin.svg)](https://www.linkedin.com/company/hopsworks/)[![Twitter icon](https://cdn.prod.website-files.com/5f6353590bb01cacbcecfbac/66a346ea27ec6d7c0e354747_icons8-twitter%20\(1\).svg)](https://twitter.com/hopsworks)
+
+[![Untitled UI logotext](https://cdn.prod.website-files.com/5f6353590bb01cacbcecfbac/6202a13e7cafec5553703f6b_logo.svg)![Logo](https://cdn.prod.website-files.com/5f6353590bb01cacbcecfbac/666c3cc1cfc4741e6b2d9fe6_untitled-ui-logo.png)](/)
+
+Product
+
+Product
+
+[![](https://cdn.prod.website-files.com/5f6353590bb01cacbcecfbac/5fad49f715203ed9d66fc1b0_Hops%20Icon%20Green.png)Hopsworks EnterpriseFull edition of Hopsworks, high levels of SLAs and support.](/try)[IntegrationsLeverage your existing data sources and tools.](/integrations)[ExamplesGet up and running on new features and techniques.](/hopsworks-examples)[FAQAll you need to know about Hopsworks.](/frequently-asked-questions)
+
+Capabilities
+
+[Hopsworks On-PremisesManage everything securely within your data center.](https://www.hopsworks.ai/product-capabilities/feature-store-on-premises)[Performance & High AvailabilityHighest performance requirements in the industry.](https://www.hopsworks.ai/product-capabilities/operational-performance-and-high-availability)[Feature Engineering in PythonPython-first collaborative environment.](https://www.hopsworks.ai/product-capabilities/feature-engineering-in-python)[Other capabilitiesRead about our extended platform capabilities.](/product-capabilities)
+
+Solutions
+
+[Generative AICreate custom LLM-powered products & services.](/use-case/fine-tuning-llms-rag-for-genai)[Real-time Fraud DetectionCreate a real-time system to monitor transactions & patterns.](/use-case/realtime-fraud-detection)[Hopsworks Medical CopilotBoost provider productivity & enhance patient care.](https://www.hopscopilot.com/)[CustomersExplore how our customers leverage Hopsworks.](/customers)
+
+[Pricing](/pricing)[Blog](/blog)
+
+Resources
+
+[MLOps DictionaryComprehensive terminology guide for ML solutions.](/mlops-dictionary)[DocumentationDetailed information to help you effectively utilize Hopsworks.](https://docs.hopsworks.ai/latest/)[Research PapersDiscover how our research is driving innovation.](/research-papers)[CommunityJoin our community and get all your questions answered. ](https://community.hopsworks.ai/)
+
+[EventsOnline & Offline sessions and workshops. ](/events)[AcademyEverything about ML Systems, and the Hopsworks platform.](/academy)[Feature Store ComparisonIn-depth comparisons of feature stores highlighting key features.](https://www.hopsworks.ai/product-comparison/sagemaker)[FAQ: EU AI ActA complete guide to The EU AI Act.](/faq-eu-ai-act)
+
+Company
+
+[About usLearn more about our team. ](/about-us)[NewsThe latest industry news, updates and info.](/news)[Security & ComplianceRobust security and compliance with industry standards.](/security-compliance)
+
+[![](https://cdn.prod.website-files.com/5f6353590bb01cacbcecfbac/66a0b13c473a71304470c35a_oreilly_logo_mark_red.svg)Book](/lp/oreilly-book-building-ml-systems-with-a-feature-store)[Benchmarks](/index#performance)
+
+[// 5-minute Interviews](/blog-categories/5-minute-interviews)
+
+[// AI](/blog-categories/ai)
+
+[// Benchmark](/blog-categories/benchmark)
+
+[// Data Engineering](/blog-categories/data-engineering)
+
+[// Data Science](/blog-categories/data-science)
+
+[// Feature Store](/blog-categories/feature-stores)
+
+[// MLOps](/blog-categories/mlops)
+
+[// SIGMOD 2024](/blog-categories/sigmod-2024)
+
+[![Introducing the AI Lakehouse](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66d6c9970cfc8086e7e1046b_The%20AI%20Lakehouse.png)Feature StoreSeptember 2, 202430 minReadIntroducing the AI LakehouseWe describe the capabilities that need to be added to Lakehouse to make it an AI Lakehouse that can support building and operating AI-enabled batch and real-time applications as well LLM applications.Jim Dowling](/post/the-ai-lakehouse)
+
+[Migrating Hopsworks to KubernetesNearly a year ago, the Hopsworks team embarked on a journey to migrate its infrastructure to Kubernetes. In this article we describe three main pillars of our Kubernetes migration.Javier Cabrera](/post/migrating-hopsworks-to-kubernetes)
+
+[Modularity and Composability for AI Systems with AI Pipelines and Shared StorageWe present a unified software architecture for batch, real-time, and LLM AI systems that is based on a shared storage layer and a decomposition of machine learning pipelines. Jim Dowling](/post/modularity-and-composability-for-ai-systems-with-ai-pipelines-and-shared-storage)
+
+[GenAI comes to Hopsworks with Vector Similarity SearchHopsworks has added support for approximate nearest neighbor (ANN) indexing and vector similarity search for vector embeddings stored in its feature store. Kenneth Mak ](/post/genai-comes-to-hopsworks-with-vector-similarity-search)
+
+### // SIGMOD 2024
+
+A series of articles describing concepts and results from the [**SIGMOD 2024 research paper on the Hopsworks Feature Store**](https://www.hopsworks.ai/research-papers/the-hopsworks-feature-store-for-machine-learning)
+
+[View all posts](#)
+
+[![Modularity and Composability for AI Systems with AI Pipelines and Shared Storage](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/667acae0ae637d5bb9a72ea2_modularity%20%26%20composability.png)](/post/modularity-and-composability-for-ai-systems-with-ai-pipelines-and-shared-storage)[Feature StoreJune 25, 202425 minReadModularity and Composability for AI Systems with AI Pipelines and Shared StorageWe present a unified software architecture for batch, real-time, and LLM AI systems that is based on a shared storage layer and a decomposition of machine learning pipelines. ](/post/modularity-and-composability-for-ai-systems-with-ai-pipelines-and-shared-storage)
+
+Jim Dowling
+
+[![The Taxonomy for Data Transformations in AI Systems](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/668d97122ea716ed1633a7f7_PR%20Blog%202_Taxonomy.png)](/post/a-taxonomy-for-data-transformations-in-ai-systems)[Feature StoreJuly 1, 202430 minReadThe Taxonomy for Data Transformations in AI SystemsThis article introduces a taxonomy for data transformations in AI applications that is fundamental for any AI system that wants to reuse feature data in more than one model. ](/post/a-taxonomy-for-data-transformations-in-ai-systems)
+
+Manu Joseph
+
+[![The Journey from Star Schema to Snowflake Schema in the Feature Store](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66869f1f4f75a7d91c67775f_PR%20Blog%203_snowflake%20schema.png)](/post/the-journey-from-star-schema-to-snowflake-schema-in-the-feature-store)[Feature StoreJuly 8, 202414 minReadThe Journey from Star Schema to Snowflake Schema in the Feature StoreIn this article we introduce the snowflake schema data model for feature stores, and show how it helps you include more features to make better predictions ](/post/the-journey-from-star-schema-to-snowflake-schema-in-the-feature-store)
+
+Davit Bzhalava
+
+[![The Feature Store Makes Your Data Warehouse Easy to Use for AI](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/668bf0ab60826eb58e0d6af1_PR%20Blog%204_data%20warehouse.png)](/post/the-feature-store-makes-your-data-warehouse-easy-to-use-for-ai)[Feature StoreJuly 10, 202424 minReadThe Feature Store Makes Your Data Warehouse Easy to Use for AIIn this article, we cover the added value of a feature store over a data warehouse when managing offline data for AI. ](/post/the-feature-store-makes-your-data-warehouse-easy-to-use-for-ai)
+
+Jim Dowling
+
+[![From Lakehouse to AI Lakehouse with a Python-Native Query Engine](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/669fa7eaa10b0dd15c46ab80_Lakehouse%20PQE%20Blog.png)](/post/from-lakehouse-to-ai-lakehouse-with-a-python-native-query-engine)[Data EngineeringJuly 23, 20249 minReadFrom Lakehouse to AI Lakehouse with a Python-Native Query EngineRead how Hopsworks generates temporal queries from Python code, and how a native query engine built on Arrow can massively outperform JDBC/ODBC APIs.](/post/from-lakehouse-to-ai-lakehouse-with-a-python-native-query-engine)
+
+Jim Dowling
+
+[![RonDB: A Real-Time Database for Real-Time AI Systems](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66b207bd4cf6636717910f8b_Real%20time%20Database%20Blog.png)](/post/rondb-a-real-time-database-for-real-time-ai-systems)[SIGMOD 2024July 25, 20248 minReadRonDB: A Real-Time Database for Real-Time AI SystemsLearn more about how Hopsworks (RonDB) outperforms AWS Sagemaker and GCP Vertex in latency for real-time AI databases, based on a peer-reviewed SIGMOD 2024 benchmark.](/post/rondb-a-real-time-database-for-real-time-ai-systems)
+
+Mikael Ronström
+
+[![Reproducible Data for the AI Lakehouse](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66b1d5bb06a34c527b352841_reproducible%20data.png)](/post/reproducible-data-for-the-ai-lakehouse)[SIGMOD 2024August 6, 202413 minReadReproducible Data for the AI LakehouseWe present how Hopsworks leverages its time-travel capabilities for feature groups to support reproducible creation of training datasets using metadata.](/post/reproducible-data-for-the-ai-lakehouse)
+
+Jim Dowling
+
+Slide 2 of 7.
+
+## Explore by Category
+
+[SIGMOD 2024](/blog-categories/sigmod-2024)
+
+[AI](/blog-categories/ai)
+
+[5-minute Interviews](/blog-categories/5-minute-interviews)
+
+[Benchmark](/blog-categories/benchmark)
+
+[Data Science](/blog-categories/data-science)
+
+[Data Engineering](/blog-categories/data-engineering)
+
+[![Amazon FSx for NetApp ONTAP interoperability test in a Hopsworks 4.x Deployment](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6777a9f7b803f755bcb9aec0_netapp.png)](/post/amazon-fsx-for-netapp-ontap-interoperability-test-in-a-hopsworks-4-x-deployment)[BenchmarkJanuary 3, 202523 minReadAmazon FSx for NetApp ONTAP interoperability test in a Hopsworks 4.x DeploymentBy following this tutorial, you can evaluate the interoperability between Hopsworks 4.x and Amazon FSx for NetApp ONTAP](/post/amazon-fsx-for-netapp-ontap-interoperability-test-in-a-hopsworks-4-x-deployment)
+
+Javier Cabrera
+
+[![Breaking Down FSI Regulations for AI in 2025](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/675fe310a23998da10110fbb_FSI%20regulations.png)](/post/breaking-down-fsi-regulations-for-ai-in-2025)[AIDecember 13, 202419 minReadBreaking Down FSI Regulations for AI in 2025This blog explores how Hopsworks can support FSIs in addressing key regulations, including DORA, AMLA, PSD3, and more. ](/post/breaking-down-fsi-regulations-for-ai-in-2025)
+
+Rik Van Bruggen
+
+### // Latest Posts
+
+[![How AI Will Redefine Retail in 2025](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/677f9c450ce2d25e39b3485a_retail%20ai.png)](/post/how-ai-will-redefine-retail-in-2025)[AIJanuary 9, 20258 minReadHow AI Will Redefine Retail in 2025In this blog post, we wanted to share a less technical, more business-level perspective on AI in retail and how retailers can adapt to a changing e-commerce landscape in 2025. ](/post/how-ai-will-redefine-retail-in-2025)
+
+Rik Van Bruggen
+
+[![Amazon FSx for NetApp ONTAP interoperability test in a Hopsworks 4.x Deployment](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6777a9f7b803f755bcb9aec0_netapp.png)](/post/amazon-fsx-for-netapp-ontap-interoperability-test-in-a-hopsworks-4-x-deployment)[BenchmarkJanuary 3, 202523 minReadAmazon FSx for NetApp ONTAP interoperability test in a Hopsworks 4.x DeploymentBy following this tutorial, you can evaluate the interoperability between Hopsworks 4.x and Amazon FSx for NetApp ONTAP](/post/amazon-fsx-for-netapp-ontap-interoperability-test-in-a-hopsworks-4-x-deployment)
+
+Javier Cabrera
+
+[![Breaking Down FSI Regulations for AI in 2025](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/675fe310a23998da10110fbb_FSI%20regulations.png)](/post/breaking-down-fsi-regulations-for-ai-in-2025)[AIDecember 13, 202419 minReadBreaking Down FSI Regulations for AI in 2025This blog explores how Hopsworks can support FSIs in addressing key regulations, including DORA, AMLA, PSD3, and more. ](/post/breaking-down-fsi-regulations-for-ai-in-2025)
+
+Rik Van Bruggen
+
+### // Feature Store
+
+[![](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64d9dab74eb40a787c6b7c5e_why%20copy.jpg)](/post/why-do-you-need-a-feature-store)[Feature StoreAugust 11, 202320 minReadWhy Do You Need a Feature Store? Discover the power of feature stores in modern machine learning systems and how they bridge the gap between model development and production. ](/post/why-do-you-need-a-feature-store)
+
+Lex Avstreikh
+
+[![](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65113a725a93dc40f6d74c85_duckdb_thumbnail.png)](/post/python-centric-feature-service-with-arrowflight-and-duckdb)[Feature StoreAugust 9, 202313 minReadFaster reading from the Lakehouse to Python with DuckDB/ArrowFlightIn this article, we outline how we leveraged ArrowFlight with DuckDB to build a new service that massively improves the performance of Python clients reading from lakehouse data in the Feature Store](/post/python-centric-feature-service-with-arrowflight-and-duckdb)
+
+Till Döhmen
+
+[![](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/61bb72f4fbcc74f4c86eb3f8_61b8aed0674af6312e2c05b2_missingdatalayer.jpg)](/post/feature-store-the-missing-data-layer-in-ml-pipelines)[Feature StoreFebruary 2, 202330 minReadFeature Store: The missing data layer for Machine Learning pipelines?In this blog, we discuss the state-of-the-art in data management and machine learning pipelines (within the wider field of MLOps) and present the first open-source feature store, Hopsworks.](/post/feature-store-the-missing-data-layer-in-ml-pipelines)
+
+Jim Dowling
+
+[View More](https://www.hopsworks.ai/blog-categories/feature-stores)
+
+### // MLOps
+
+[![From MLOps to ML Systems with Feature/Training/Inference Pipelines](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65019f581267ff943c3931a6_mlops%20to%20ml%20systems_thumbnail.png)](/post/mlops-to-ml-systems-with-fti-pipelines)[MLOpsSeptember 13, 202325 minReadFrom MLOps to ML Systems with Feature/Training/Inference PipelinesWe explain a new framework for ML systems as three independent ML pipelines: feature pipelines, training pipelines, and inference pipelines, creating a unified MLOps architecture.](/post/mlops-to-ml-systems-with-fti-pipelines)
+
+Jim Dowling
+
+[![MLOps vs. DevOps: Best Practices, Challenges and Differences](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64d355fb6ba1878a9afd9066_Mlops%20Devops%20Blog.png)](/post/mlops-vs-devops-best-practices-challenges-and-differences)[MLOpsJuly 11, 202317ReadMLOps vs. DevOps: Best Practices, Challenges and DifferencesExplore the convergence of MLOps and DevOps. Learn about their purposes, differences, and areas of integration and discover best practices, challenges, and their future potential. ](/post/mlops-vs-devops-best-practices-challenges-and-differences)
+
+Prithivee Ramalingam
+
+[![MLOps Wars: Versioned Feature Data with a Lakehouse](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/628cc10d7188da434fe09a13_MLOPS%20Wars%20Blog.png)](/post/mlops-wars-versioned-feature-data-with-a-lakehouse)[MLOpsAugust 3, 202112 minReadMLOps Wars: Versioned Feature Data with a LakehouseWith support to Apache Hudi, the Hopsworks Feature Store offers lakehouse capabilities to improve automated feature pipelines and training pipelines (MLOps).](/post/mlops-wars-versioned-feature-data-with-a-lakehouse)
+
+Davit Bzhalava
+
+[View More](https://www.hopsworks.ai/blog-categories/mlops)
+
+### // Data Engineering
+
+[![Pandas2 and Polars for Feature Engineering](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/652709e8e9ee4bd6e7245f2d_pandas%26polars_thumbnail.png)](/post/pandas2-and-polars-for-feature-engineering)[Data EngineeringNovember 6, 202320 minReadPandas2 and Polars for Feature EngineeringWe review Python libraries, such as Pandas, Pandas2 and Polars, for Feature Engineering, evaluate their performance and explore how they power machine learning use cases. ](/post/pandas2-and-polars-for-feature-engineering)
+
+Haziqa Sajid
+
+[![Feature Engineering with Apache Airflow](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64d3a7213fc689589547090e_airflow.png)](/post/feature-engineering-with-apache-airflow)[Data EngineeringSeptember 4, 202318 minReadFeature Engineering with Apache AirflowUnlock the power of Apache Airflow in the context of feature engineering. We will delve into building a feature pipeline using Airflow, focusing on two tasks: feature binning and aggregations.](/post/feature-engineering-with-apache-airflow)
+
+Prithivee Ramalingam
+
+[![Building Feature Pipelines with Apache Flink](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64d35592dae4e9246fb7c106_Apache%20Flink%20blog.png)](/post/building-feature-pipelines-with-apache-flink)[Data EngineeringJune 21, 20238 minReadBuilding Feature Pipelines with Apache FlinkFind out how to use Flink to compute real-time features and make them available to online models within seconds using Hopsworks. ](/post/building-feature-pipelines-with-apache-flink)
+
+Fabio Buso
+
+[View More](https://www.hopsworks.ai/blog-categories/data-engineering)
+
+### // Data Science
+
+[![Facebook Prophet for Time-Series Machine Learning](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/651eac8c99616d72197da06a_facebook%20prophet_thumbnail.png)](/post/facebook-prophet-for-time-series-machine-learning)[Data ScienceOctober 5, 202317minReadFacebook Prophet for Time-Series Machine LearningTime-series data consists of records in chronological order and is crucial for forecasting trends and patterns. In this blog, we take a look at how to use Facebook Prophet for time-series forecasting.](/post/facebook-prophet-for-time-series-machine-learning)
+
+Kais Laribi 
+
+[![Elasticsearch is dead, long live Open Distro for Elasticsearch](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/61e697708af5d9c46a0395a6_DFS.png)](/post/open-distro-for-elasticsearch-dynamic-support-hopsworks)[Data ScienceJanuary 14, 202113 minReadElasticsearch is dead, long live Open Distro for ElasticsearchIn this blog, we describe how we leverage the authentication and authorization support in Open Distro for Elasticsearch to make elasticsearch a project-based multi-tenant service in Hopsworks.](/post/open-distro-for-elasticsearch-dynamic-support-hopsworks)
+
+Mahmoud Ismail
+
+[![Deep Learning for Anti-Money Laundering with a feature store](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/61b9d4f49a1b41665ee189ef_005%20\(1\).png)](/post/ai-deep-learning-for-fraud-and-aml)[Data ScienceNovember 27, 201918 minReadDeep Learning for Anti-Money Laundering with a feature storeDeep learning is now the state-of-the-art technique for identifying financial transactions suspected of money laundering. It delivers a lower number of false positives and with higher accuracy.](/post/ai-deep-learning-for-fraud-and-aml)
+
+Jim Dowling
+
+[View More](https://www.hopsworks.ai/blog-categories/data-science)
+
+### // 5-minute Interviews
+
+[![5-minute interview Tales Marra](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66ffe16434403e12ef589291_5-min%20interviews%20\(1\).png)](/post/5-minute-interview-tales-marra-assessfirst)[5-minute InterviewsOctober 4, 20245 minRead5-minute interview Tales MarraNext up in our lineup is Tales Marra, Machine Learning Engineer at AssessFirst. ](/post/5-minute-interview-tales-marra-assessfirst)
+
+Hopsworks Team
+
+[![5-minute interview Niels Naglé and Joop Snijder](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66f6a05da8e52f53288eb8d1_5-min%20interviews%20\(1\).png)](/post/5-minute-interview-niels-nagle-and-joop-snijder-info-support)[5-minute InterviewsSeptember 27, 20245 min Read5-minute interview Niels Naglé and Joop SnijderThis week Rik met with Niels Naglé, Area Lead Data & AI at Info Support, and Joop Snijder, CTO at Aigency, for a quick chat. ](/post/5-minute-interview-niels-nagle-and-joop-snijder-info-support)
+
+Hopsworks Team
+
+[![5-minute interview David Colls](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66d8618ae791fd129c5d1a30_5-min%20interviews%20\(1\).png)](/post/5-minute-interview-with-david-colls-nextdata)[5-minute InterviewsSeptember 4, 20246 minRead5-minute interview David CollsJoin Rik as he chats with David Colls, Founding Data Scientist at Nextdata, about Data & AI, the evolution of machine learning, and effective tech practices.](/post/5-minute-interview-with-david-colls-nextdata)
+
+Hopsworks Team
+
+[View More](https://www.hopsworks.ai/blog-categories/5-minute-interviews)
+
+### // All Categories
+
+[![How AI Will Redefine Retail in 2025](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/677f9c450ce2d25e39b3485a_retail%20ai.png)](/post/how-ai-will-redefine-retail-in-2025)[AIJanuary 9, 20258 minReadHow AI Will Redefine Retail in 2025In this blog post, we wanted to share a less technical, more business-level perspective on AI in retail and how retailers can adapt to a changing e-commerce landscape in 2025. ](/post/how-ai-will-redefine-retail-in-2025)
+
+Rik Van Bruggen
+
+[![Amazon FSx for NetApp ONTAP interoperability test in a Hopsworks 4.x Deployment](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6777a9f7b803f755bcb9aec0_netapp.png)](/post/amazon-fsx-for-netapp-ontap-interoperability-test-in-a-hopsworks-4-x-deployment)[BenchmarkJanuary 3, 202523 minReadAmazon FSx for NetApp ONTAP interoperability test in a Hopsworks 4.x DeploymentBy following this tutorial, you can evaluate the interoperability between Hopsworks 4.x and Amazon FSx for NetApp ONTAP](/post/amazon-fsx-for-netapp-ontap-interoperability-test-in-a-hopsworks-4-x-deployment)
+
+Javier Cabrera
+
+[![Breaking Down FSI Regulations for AI in 2025](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/675fe310a23998da10110fbb_FSI%20regulations.png)](/post/breaking-down-fsi-regulations-for-ai-in-2025)[AIDecember 13, 202419 minReadBreaking Down FSI Regulations for AI in 2025This blog explores how Hopsworks can support FSIs in addressing key regulations, including DORA, AMLA, PSD3, and more. ](/post/breaking-down-fsi-regulations-for-ai-in-2025)
+
+Rik Van Bruggen
+
+[![Hopsworks PKI: The Unseen Hero](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6757f688e7e67c915a6abd08_Hopsworks%20PKI.png)](/post/hopsworks-pki-the-unseen-hero)[Feature StoreDecember 9, 202416 minReadHopsworks PKI: The Unseen HeroIn this article we explore how our Public Key Infrastructure has changed over the years coming to its current form, a Kubernetes first-class citizen. ](/post/hopsworks-pki-the-unseen-hero)
+
+Antonios Kouzoupis
+
+[![Air-gapped Installations in Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/673c9f546015f6cf7d115de0_air%20gapped.png)](/post/air-gapped-installations-in-hopsworks)[Data EngineeringNovember 19, 202416 minReadAir-gapped Installations in HopsworksIn this tutorial, we walk you through how we install air-gapped environments in Hopsworks and how we extended this process to test air-gapped installations as well.](/post/air-gapped-installations-in-hopsworks)
+
+Javier Cabrera
+
+[![Migrating Hopsworks to Kubernetes](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/67163b4a1b6ac639d242a23a_Hopsworks%20to%20Kubernetes.png)](/post/migrating-hopsworks-to-kubernetes)[Feature StoreOctober 21, 202412 minReadMigrating Hopsworks to KubernetesNearly a year ago, the Hopsworks team embarked on a journey to migrate its infrastructure to Kubernetes. In this article we describe three main pillars of our Kubernetes migration.](/post/migrating-hopsworks-to-kubernetes)
+
+Javier Cabrera
+
+[![A Year of Insights with the MLOps & LLMOps Dictionary](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66f65ada28726b20f5cb3b5f_dictionary%20thumbnail.png)](/post/a-year-of-insights-with-the-mlops-llmops-dictionary)[MLOpsSeptember 26, 202410 minReadA Year of Insights with the MLOps & LLMOps DictionaryIn this blog post, we have selected the 25 most-read dictionary entries from the MLOps and LLMOps Dictionary to highlight key trends and lessons in AI.](/post/a-year-of-insights-with-the-mlops-llmops-dictionary)
+
+Carolin Svenberg 
+
+[![Introducing the AI Lakehouse](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66d6c9970cfc8086e7e1046b_The%20AI%20Lakehouse.png)](/post/the-ai-lakehouse)[Feature StoreSeptember 2, 202430 minReadIntroducing the AI LakehouseWe describe the capabilities that need to be added to Lakehouse to make it an AI Lakehouse that can support building and operating AI-enabled batch and real-time applications as well LLM applications.](/post/the-ai-lakehouse)
+
+Jim Dowling
+
+[![Reproducible Data for the AI Lakehouse](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66b1d5bb06a34c527b352841_reproducible%20data.png)](/post/reproducible-data-for-the-ai-lakehouse)[SIGMOD 2024August 6, 202413 minReadReproducible Data for the AI LakehouseWe present how Hopsworks leverages its time-travel capabilities for feature groups to support reproducible creation of training datasets using metadata.](/post/reproducible-data-for-the-ai-lakehouse)
+
+Jim Dowling
+
+[![RonDB: A Real-Time Database for Real-Time AI Systems](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66b207bd4cf6636717910f8b_Real%20time%20Database%20Blog.png)](/post/rondb-a-real-time-database-for-real-time-ai-systems)[SIGMOD 2024July 25, 20248 minReadRonDB: A Real-Time Database for Real-Time AI SystemsLearn more about how Hopsworks (RonDB) outperforms AWS Sagemaker and GCP Vertex in latency for real-time AI databases, based on a peer-reviewed SIGMOD 2024 benchmark.](/post/rondb-a-real-time-database-for-real-time-ai-systems)
+
+Mikael Ronström
+
+[![From Lakehouse to AI Lakehouse with a Python-Native Query Engine](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/669fa7eaa10b0dd15c46ab80_Lakehouse%20PQE%20Blog.png)](/post/from-lakehouse-to-ai-lakehouse-with-a-python-native-query-engine)[Data EngineeringJuly 23, 20249 minReadFrom Lakehouse to AI Lakehouse with a Python-Native Query EngineRead how Hopsworks generates temporal queries from Python code, and how a native query engine built on Arrow can massively outperform JDBC/ODBC APIs.](/post/from-lakehouse-to-ai-lakehouse-with-a-python-native-query-engine)
+
+Jim Dowling
+
+[![The Feature Store Makes Your Data Warehouse Easy to Use for AI](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/668bf0ab60826eb58e0d6af1_PR%20Blog%204_data%20warehouse.png)](/post/the-feature-store-makes-your-data-warehouse-easy-to-use-for-ai)[Feature StoreJuly 10, 202424 minReadThe Feature Store Makes Your Data Warehouse Easy to Use for AIIn this article, we cover the added value of a feature store over a data warehouse when managing offline data for AI. ](/post/the-feature-store-makes-your-data-warehouse-easy-to-use-for-ai)
+
+Jim Dowling
+
+[![The Journey from Star Schema to Snowflake Schema in the Feature Store](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66869f1f4f75a7d91c67775f_PR%20Blog%203_snowflake%20schema.png)](/post/the-journey-from-star-schema-to-snowflake-schema-in-the-feature-store)[Feature StoreJuly 8, 202414 minReadThe Journey from Star Schema to Snowflake Schema in the Feature StoreIn this article we introduce the snowflake schema data model for feature stores, and show how it helps you include more features to make better predictions ](/post/the-journey-from-star-schema-to-snowflake-schema-in-the-feature-store)
+
+Davit Bzhalava
+
+[![The Taxonomy for Data Transformations in AI Systems](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/668d97122ea716ed1633a7f7_PR%20Blog%202_Taxonomy.png)](/post/a-taxonomy-for-data-transformations-in-ai-systems)[Feature StoreJuly 1, 202430 minReadThe Taxonomy for Data Transformations in AI SystemsThis article introduces a taxonomy for data transformations in AI applications that is fundamental for any AI system that wants to reuse feature data in more than one model. ](/post/a-taxonomy-for-data-transformations-in-ai-systems)
+
+Manu Joseph
+
+[![Modularity and Composability for AI Systems with AI Pipelines and Shared Storage](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/667acae0ae637d5bb9a72ea2_modularity%20%26%20composability.png)](/post/modularity-and-composability-for-ai-systems-with-ai-pipelines-and-shared-storage)[Feature StoreJune 25, 202425 minReadModularity and Composability for AI Systems with AI Pipelines and Shared StorageWe present a unified software architecture for batch, real-time, and LLM AI systems that is based on a shared storage layer and a decomposition of machine learning pipelines. ](/post/modularity-and-composability-for-ai-systems-with-ai-pipelines-and-shared-storage)
+
+Jim Dowling
+
+[![Building a Cheque Fraud Detection and Explanation AI System using a fine-tuned LLM](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/663dcc9e88ea5f92535220cf_Makerspace%20cheque%20fraud.png)](/post/building-a-cheque-fraud-detection-and-explanation-ai-system-using-a-fine-tuned-llm)[Data EngineeringMay 13, 202410 minReadBuilding a Cheque Fraud Detection and Explanation AI System using a fine-tuned LLMThe third edition of the LLM Makerspace dived into an example of an LLM system for detecting check fraud.](/post/building-a-cheque-fraud-detection-and-explanation-ai-system-using-a-fine-tuned-llm)
+
+Jim Dowling
+
+[![Feature Pipelines in Production with Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6630f43b3472fc184b558f94_feature%20pipelines.png)](/post/feature-pipelines-in-production-with-hopsworks)[MLOpsApril 30, 20243 minReadFeature Pipelines in Production with HopsworksIn this post, we will look at how to put feature pipelines into production using Hopsworks. ](/post/feature-pipelines-in-production-with-hopsworks)
+
+Fabio Buso
+
+[![Build your Value Case for Feature Store Implementations](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6628b049bd8bd1759cec38c7_value%20case%20v2.png)](/post/build-your-value-case-for-feature-store-implementations)[AIApril 24, 20249 minReadBuild your Value Case for Feature Store ImplementationsWe explore how to develop a compelling value case that quantify the benefits and costs associated with implementing a feature store.](/post/build-your-value-case-for-feature-store-implementations)
+
+Rik Van Bruggen
+
+[![Job Scheduling & Orchestration using Hopsworks and Airflow](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/661f828bcf5d65c8431cb023_orchestration.png)](/post/job-scheduling-orchestration-using-hopsworks-and-airflow)[Data EngineeringApril 17, 202410 minReadJob Scheduling & Orchestration using Hopsworks and AirflowThis article covers the different aspects of Job Scheduling in Hopsworks including how simple jobs can be scheduled through the Hopsworks UI by non-technical users](/post/job-scheduling-orchestration-using-hopsworks-and-airflow)
+
+Ehsan Heydari
+
+[![Build Your Own Private PDF Search Tool ](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66447bbb6d7e1ff8947d02c1_Makerspace%20blogs%20pdfai.png)](/post/build-your-own-pdf-ai-using-both-rag-and-fine-tuning-in-one-platform)[Data EngineeringApril 11, 20246 minReadBuild Your Own Private PDF Search Tool A summary from our LLM Makerspace event where we built our own PDF Search Tool using RAG and fine-tuning in one platform. Follow along the journey to build a LLM application from scratch. ](/post/build-your-own-pdf-ai-using-both-rag-and-fine-tuning-in-one-platform)
+
+Jim Dowling
+
+[![Build Vs Buy: For Machine Learning/AI Feature Stores](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66168d151c36e53c9c40b93a_build%20vs%20buy.png)](/post/build-versus-buy-machine-learning)[AIApril 10, 202417 minReadBuild Vs Buy: For Machine Learning/AI Feature StoresOn the decision of building versus buying a feature store there are strategic and technical components to consider as it impacts both cost and technological debt.](/post/build-versus-buy-machine-learning)
+
+Rik Van Bruggen
+
+[![Unlocking the Power of Function Calling with LLMs](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6617d0fd1c284b69172c8478_Makerspace%20blogs.png)](/post/unlocking-the-power-of-function-calling-with-llms)[Data EngineeringApril 2, 20247 minReadUnlocking the Power of Function Calling with LLMsThis is a summary of our latest LLM Makerspace event where we pulled back the curtain on a exciting paradigm in AI – function calling with LLMs.](/post/unlocking-the-power-of-function-calling-with-llms)
+
+Jim Dowling
+
+[![Doubling Down on Open Source: How RonDB Upholds the Principles Redis Left Behind](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/66014ad6f7a779228f92f926_RonDB%20vs%20Redis.png)](/post/doubling-down-on-open-source-how-rondb-upholds-the-principles-redis-left-behind)[Feature StoreMarch 25, 20249 minReadDoubling Down on Open Source: How RonDB Upholds the Principles Redis Left BehindRedis will no longer be open source. Our own project, RonDB, will continue being open source in order to uphold the principles that keeps the technology advancing. ](/post/doubling-down-on-open-source-how-rondb-upholds-the-principles-redis-left-behind)
+
+Mikael Ronström
+
+[![The Enterprise Journey to introducing a Software Factory for AI Systems](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6613cabcbb4ee391296e4978_software%20factory.png)](/post/the-enterprise-journey-to-introducing-a-software-factory-for-ai-systems)[AIMarch 21, 202419 minReadThe Enterprise Journey to introducing a Software Factory for AI SystemsIn this article we describe the software factory approach to building and maintaining AI systems.](/post/the-enterprise-journey-to-introducing-a-software-factory-for-ai-systems)
+
+Jim Dowling
+
+[![GenAI comes to Hopsworks with Vector Similarity Search](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65f838173d7ea02b2b9d8c66_vector%20similairty%20search.png)](/post/genai-comes-to-hopsworks-with-vector-similarity-search)[Feature StoreMarch 20, 20248 minReadGenAI comes to Hopsworks with Vector Similarity SearchHopsworks has added support for approximate nearest neighbor (ANN) indexing and vector similarity search for vector embeddings stored in its feature store. ](/post/genai-comes-to-hopsworks-with-vector-similarity-search)
+
+Kenneth Mak 
+
+[![Delta Lake comes to Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65e7352423a296a8a2cf90a1_delta%20lake.png)](/post/delta-lake-comes-to-hopsworks)[Feature StoreMarch 5, 20248 minReadDelta Lake comes to HopsworksHopsworks has added support for Delta Lake to accelerate our mission to build the Python-Native Data for AI platform. ](/post/delta-lake-comes-to-hopsworks)
+
+Jim Dowling
+
+[![Federated Data with the Hopsworks Feature Query Service](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65cf5ee3c3dbaa97a035cb49_query%20service.png)](/post/federated-data-with-the-hopsworks-feature-query-service)[Feature StoreFebruary 14, 202414 minReadFederated Data with the Hopsworks Feature Query ServiceA tutorial of the Hopsworks Feature Query Service which efficiently queries and joins features from multiple platforms such as Snowflake, BigQuery and Hopsworks without data any duplication.](/post/federated-data-with-the-hopsworks-feature-query-service)
+
+Steffen Grohsschmiedt
+
+[![5 Machine Learning Myths Debunked](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65c348c2c06bb9ba20fe540c_ml%20myth%203.png)](/post/5-machine-learning-myths-debunked)[MLOpsFebruary 6, 20249 minRead5 Machine Learning Myths DebunkedThe rapid development pace in AI is the cause for a lot of misconceptions surrounding ML and MLOps. In this post we debunk a few common myths about MLOps, LLMs and machine learning in production. ](/post/5-machine-learning-myths-debunked)
+
+Carolin Svenberg 
+
+[![F.A.I.R. Principles in Data for AI](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65bbc47fd2c5f8bdf2a09d5d_fair.png)](/post/fair-principles-in-data-for-ai)[Data ScienceFebruary 1, 20249 minReadF.A.I.R. Principles in Data for AIAt Hopsworks the F.A.I.R principles have been a cornerstone of our approach in designing a platform for managing machine learning data and infrastructure. ](/post/fair-principles-in-data-for-ai)
+
+Lex Avstreikh
+
+[![Common Error Messages in Pandas](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65ae4ba61b3e0b423831dd3d_errors%20pandas.png)](/post/common-error-messages-in-pandas)[Data ScienceJanuary 18, 202420 minReadCommon Error Messages in PandasWe go through the most common errors messages in Pandas and offer solutions to these errors as well as provide efficiency tips for Pandas code.](/post/common-error-messages-in-pandas)
+
+Haziqa Sajid
+
+[![Multi-Region High Availability Comes to Feature Stores](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65f319435c8ec1a9dacb1e15_HA%20part%202.png)](/post/multi-region-high-availability-comes-to-feature-stores-part-2)[Feature StoreJanuary 16, 202413 minReadMulti-Region High Availability Comes to Feature StoresFollowing our previous blog, we expand on the architecture to fit a Tier 1 classification where all components of Hopsworks are replicated in a different geographical region. ](/post/multi-region-high-availability-comes-to-feature-stores-part-2)
+
+Antonios Kouzoupis
+
+[![Feature Store Benchmark Comparison: Hopsworks and Feast](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/658599385be1ffd71dcb0e21_feature%20store%20benchmarks.png)](/post/feature-store-benchmark-comparison-hopsworks-and-feast)[BenchmarkDecember 22, 202315minReadFeature Store Benchmark Comparison: Hopsworks and FeastA comparison of the online feature serving performance for Hopsworks and Feast feature stores, contrasting the approaches to building a feature store.](/post/feature-store-benchmark-comparison-hopsworks-and-feast)
+
+Dhananjay Mukhedkar
+
+[![The Guardrails for High Risk AI Required by the EU AI Act](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65816c47c8bb5c198f11a318_EU%20AI%20part%202.png)](/post/the-guardrails-for-high-risk-ai-required-by-the-eu-ai-act)[AIDecember 19, 202313ReadThe Guardrails for High Risk AI Required by the EU AI ActAs a continuation to our last blog on the EU AI Act, this blog explores the implications of how Hopsworks machine learning systems can address the act's requirements for high risk AI applications.](/post/the-guardrails-for-high-risk-ai-required-by-the-eu-ai-act)
+
+Rik Van Bruggen
+
+[![Multi-Region High Availability Comes to Feature Stores](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65a658a00f2c2063eba79913_HA%20part%201.png)](/post/multi-region-high-availability-comes-to-feature-stores)[MLOpsDecember 18, 202314 minReadMulti-Region High Availability Comes to Feature StoresLearn how Hopsworks achieves high availability for the Online and Offline Feature Store and a Metadata layer, making it an operational ML system both for on-premise and cloud infrastructure. ](/post/multi-region-high-availability-comes-to-feature-stores)
+
+Antonios Kouzoupis
+
+[![High Risk AI in the EU AI Act ](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65797453a920f69c57852e7d_EU%20AI%20Act%2023.png)](/post/high-risk-ai-in-the-eu-ai-act)[AIDecember 13, 20239 minReadHigh Risk AI in the EU AI Act What is the corporate and societal significance of the EU AI Act and how does it impact organizations with high risk AI systems? ](/post/high-risk-ai-in-the-eu-ai-act)
+
+Rik Van Bruggen
+
+[![From BI to AI: A Data-Driven Journey](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6578600892cbaf1d0142e6d0_Bi%20to%20AI%20Blog.png)](/post/from-bi-to-ai-a-data-driven-journey)[AIDecember 8, 20238 minReadFrom BI to AI: A Data-Driven JourneyData is evolving from traditional Business Intelligence to Artificial Intelligence and Machine Learning for predictive analytics, creating new requirements for how businesses operationalises.](/post/from-bi-to-ai-a-data-driven-journey)
+
+Rik Van Bruggen
+
+[![Feature Engineering with DBT for Data Warehouses](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65703bfc6cc493cb5888a340_feature%20engineering%20with%20dbt_thumbnail.png)](/post/feature-engineering-with-dbt-for-data-warehouses)[Data EngineeringNovember 30, 202320 minReadFeature Engineering with DBT for Data WarehousesRead about the advantages of using DBT for data warehouses and how it's positioned as a preferred solution for many data analytics and engineering teams.](/post/feature-engineering-with-dbt-for-data-warehouses)
+
+Kais Laribi 
+
+[![What is MLOps?](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65648999d04c1ff190699f6e_What%20is%20MLOps%20blog.png)](/post/what-is-mlops)[MLOpsNovember 27, 202320 minReadWhat is MLOps?This blog explores MLOps principles, with a focus on versioning, and provides a practical example using Hopsworks for both data and model versioning. ](/post/what-is-mlops)
+
+Haziqa Sajid
+
+[![Pandas2 and Polars for Feature Engineering](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/652709e8e9ee4bd6e7245f2d_pandas%26polars_thumbnail.png)](/post/pandas2-and-polars-for-feature-engineering)[Data EngineeringNovember 6, 202320 minReadPandas2 and Polars for Feature EngineeringWe review Python libraries, such as Pandas, Pandas2 and Polars, for Feature Engineering, evaluate their performance and explore how they power machine learning use cases. ](/post/pandas2-and-polars-for-feature-engineering)
+
+Haziqa Sajid
+
+[![How to Build a Python Environment with Custom Docker Commands](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/653902a4e3c0de023af32e87_PythonEnvironment_thumbnail.png)](/post/how-to-build-a-python-environment-with-custom-docker-commands)[Feature StoreOctober 26, 20238 minReadHow to Build a Python Environment with Custom Docker CommandsWith the latest version of Hopsworks we introduce new capabilities such as running custom bash commands and a improved UI which shows you the history of the python environment. ](/post/how-to-build-a-python-environment-with-custom-docker-commands)
+
+Gibson Chikafa
+
+[![Machine Learning Embeddings as Features for Models](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/652fa0827a2f054fc4f5d726_ML%20embeddings_thumbnail.png)](/post/machine-learning-embeddings-as-features-for-models)[Data EngineeringOctober 9, 202313 minReadMachine Learning Embeddings as Features for ModelsDelve into the profound implications of machine learning embeddings, their diverse applications, and their crucial role in reshaping the way we interact with data.](/post/machine-learning-embeddings-as-features-for-models)
+
+Prithivee Ramalingam
+
+[![Facebook Prophet for Time-Series Machine Learning](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/651eac8c99616d72197da06a_facebook%20prophet_thumbnail.png)](/post/facebook-prophet-for-time-series-machine-learning)[Data ScienceOctober 5, 202317minReadFacebook Prophet for Time-Series Machine LearningTime-series data consists of records in chronological order and is crucial for forecasting trends and patterns. In this blog, we take a look at how to use Facebook Prophet for time-series forecasting.](/post/facebook-prophet-for-time-series-machine-learning)
+
+Kais Laribi 
+
+[![Bring Your Own Kafka Cluster to Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6516dbba2c0b331bc39da36b_thumbnail_byok.png)](/post/bring-your-own-kafka-cluster)[Feature StoreSeptember 25, 202310 minReadBring Your Own Kafka Cluster to HopsworksA tutorial of how to use our latest Bring Your Own Kafka (BYOK) capability in Hopsworks. It allows you to connect your existing Kafka clusters to your Hopsworks cluster.](/post/bring-your-own-kafka-cluster)
+
+Ralfs Zangis
+
+[![From MLOps to ML Systems with Feature/Training/Inference Pipelines](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65019f581267ff943c3931a6_mlops%20to%20ml%20systems_thumbnail.png)](/post/mlops-to-ml-systems-with-fti-pipelines)[MLOpsSeptember 13, 202325 minReadFrom MLOps to ML Systems with Feature/Training/Inference PipelinesWe explain a new framework for ML systems as three independent ML pipelines: feature pipelines, training pipelines, and inference pipelines, creating a unified MLOps architecture.](/post/mlops-to-ml-systems-with-fti-pipelines)
+
+Jim Dowling
+
+[![Feature Engineering with Apache Airflow](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64d3a7213fc689589547090e_airflow.png)](/post/feature-engineering-with-apache-airflow)[Data EngineeringSeptember 4, 202318 minReadFeature Engineering with Apache AirflowUnlock the power of Apache Airflow in the context of feature engineering. We will delve into building a feature pipeline using Airflow, focusing on two tasks: feature binning and aggregations.](/post/feature-engineering-with-apache-airflow)
+
+Prithivee Ramalingam
+
+[![Automated Feature Engineering with FeatureTools](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64d9eb5716ab472d0a7b7bc4_Featuretools%20thumbnail.png)](/post/automated-feature-engineering-with-featuretools)[Data EngineeringAugust 23, 202313 minReadAutomated Feature Engineering with FeatureToolsAn ML model’s ability to learn and read data patterns largely depend on feature quality. With frameworks such as FeatureTools ML practitioners can automate the feature engineering process.](/post/automated-feature-engineering-with-featuretools)
+
+Haziqa Sajid
+
+[![Why Do You Need a Feature Store? ](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64d9dab74eb40a787c6b7c5e_why%20copy.jpg)](/post/why-do-you-need-a-feature-store)[Feature StoreAugust 11, 202320 minReadWhy Do You Need a Feature Store? Discover the power of feature stores in modern machine learning systems and how they bridge the gap between model development and production. ](/post/why-do-you-need-a-feature-store)
+
+Lex Avstreikh
+
+[![Faster reading from the Lakehouse to Python with DuckDB/ArrowFlight](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/65113a725a93dc40f6d74c85_duckdb_thumbnail.png)](/post/python-centric-feature-service-with-arrowflight-and-duckdb)[Feature StoreAugust 9, 202313 minReadFaster reading from the Lakehouse to Python with DuckDB/ArrowFlightIn this article, we outline how we leveraged ArrowFlight with DuckDB to build a new service that massively improves the performance of Python clients reading from lakehouse data in the Feature Store](/post/python-centric-feature-service-with-arrowflight-and-duckdb)
+
+Till Döhmen
+
+[![MLOps vs. DevOps: Best Practices, Challenges and Differences](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64d355fb6ba1878a9afd9066_Mlops%20Devops%20Blog.png)](/post/mlops-vs-devops-best-practices-challenges-and-differences)[MLOpsJuly 11, 202317ReadMLOps vs. DevOps: Best Practices, Challenges and DifferencesExplore the convergence of MLOps and DevOps. Learn about their purposes, differences, and areas of integration and discover best practices, challenges, and their future potential. ](/post/mlops-vs-devops-best-practices-challenges-and-differences)
+
+Prithivee Ramalingam
+
+[![Building Feature Pipelines with Apache Flink](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64d35592dae4e9246fb7c106_Apache%20Flink%20blog.png)](/post/building-feature-pipelines-with-apache-flink)[Data EngineeringJune 21, 20238 minReadBuilding Feature Pipelines with Apache FlinkFind out how to use Flink to compute real-time features and make them available to online models within seconds using Hopsworks. ](/post/building-feature-pipelines-with-apache-flink)
+
+Fabio Buso
+
+[![Feature Engineering for Categorical Features with Pandas](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64d354fcd29f6c64ab26eb92_Feature%20Engineering%20Blog.png)](/post/feature-engineering-for-categorical-features-with-pandas)[Data EngineeringJune 20, 202310 minReadFeature Engineering for Categorical Features with PandasExplore the power of feature engineering for categorical features using Pandas. Learn essential techniques for handling categorical variables, and creating new features.](/post/feature-engineering-for-categorical-features-with-pandas)
+
+Prithivee Ramalingam
+
+[![Hopsworks meets SOC2 Type II standards for data security and privacy](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6447ea626aa4aa2d0c97e786_SOC%202%20Certification%2000.png)](/post/hopsworks-meets-soc2-type-ii-standards-for-data-security)[AIApril 25, 20232 minReadHopsworks meets SOC2 Type II standards for data security and privacyHopsworks has successfully completed the AICPA Service Organization Control (SOC) 2 Type II audit.](/post/hopsworks-meets-soc2-type-ii-standards-for-data-security)
+
+Carolin Svenberg 
+
+[![Hopsworks receives ISO 27001 Certification for Data Security](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64887cd64eb0d2a378319466_ISO%20Certification.png)](/post/hopsworks-receives-iso-27001-certification-for-data-security)[AIApril 4, 20232 minReadHopsworks receives ISO 27001 Certification for Data SecurityHopsworks has received an ISO 27001 certification, the globally recognized standard for establishing, implementing, maintaining, and continually improving an information security management system.](/post/hopsworks-receives-iso-27001-certification-for-data-security)
+
+Carolin Svenberg 
+
+[![ROI of Feature Stores](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63aacdf3e93ff87bc5913656_ROI%20Feature%20Stores%20Blog.png)](/post/roi-of-feature-stores)[Feature StoreMarch 1, 20237 minReadROI of Feature StoresThis blog analyses the cost-benefits of Feature Stores for Machine Learning and estimates your return on investment with our Feature Store ROI Calculator.](/post/roi-of-feature-stores)
+
+Jim Dowling
+
+[![Feature Store: The missing data layer for Machine Learning pipelines?](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/61bb72f4fbcc74f4c86eb3f8_61b8aed0674af6312e2c05b2_missingdatalayer.jpg)](/post/feature-store-the-missing-data-layer-in-ml-pipelines)[Feature StoreFebruary 2, 202330 minReadFeature Store: The missing data layer for Machine Learning pipelines?In this blog, we discuss the state-of-the-art in data management and machine learning pipelines (within the wider field of MLOps) and present the first open-source feature store, Hopsworks.](/post/feature-store-the-missing-data-layer-in-ml-pipelines)
+
+Jim Dowling
+
+[![Hopsworks 3.1 Product Updates: Feature Store & UI Improvements ](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63dbadc63f7ca98a8a34b3bd_Hopsworks%203.1.png)](/post/hopsworks-3-1-product-updates)[February 2, 20234 minReadHopsworks 3.1 Product Updates: Feature Store & UI Improvements Read about Hopsworks 3.1 and the new improvements in the feature store (time-series splits for training data, support for managing thousands of models), stability and user-interface.](/post/hopsworks-3-1-product-updates)
+
+Jim Dowling
+
+[![Optimize your MLOps Workflow with a Feature Store CI/CD and Github Actions](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/639add1f7195743d82f44ed0_CI_CD%20Blog.png)](/post/optimize-your-mlops-workflow-with-a-feature-store-ci-cd-and-github-actions)[MLOpsDecember 9, 202212 minReadOptimize your MLOps Workflow with a Feature Store CI/CD and Github ActionsIn this blog we present an end to end Git based workflow to test and deploy feature engineering, model training and inference pipelines. ](/post/optimize-your-mlops-workflow-with-a-feature-store-ci-cd-and-github-actions)
+
+Fabio Buso
+
+[![Data Validation for Enterprise AI: Using Great Expectations with Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64d3575bfdbcc0984ed69ade_great%20expectations%20blog.png)](/post/data-validation-for-enterprise-ai-using-great-expectations-with-hopsworks)[MLOpsSeptember 21, 202210 minReadData Validation for Enterprise AI: Using Great Expectations with HopsworksLearn more about how Hopsworks stores both data and validation artifacts, enabling easy monitoring on the Feature Group UI page.](/post/data-validation-for-enterprise-ai-using-great-expectations-with-hopsworks)
+
+Victor Jouffrey
+
+[![How to use external data stores as an offline feature store in Hopsworks with Connector API](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6322eb50fc669956a18e9c55_Connector%20API_Blog%20Visual.png)](/post/external-data-stores-in-hopsworks-with-connector-api)[Data EngineeringSeptember 15, 20229 minReadHow to use external data stores as an offline feature store in Hopsworks with Connector APIIn this blog, we introduce Hopsworks Connector API that is used to mount a table in an external data source as an external feature group in Hopsworks. ](/post/external-data-stores-in-hopsworks-with-connector-api)
+
+Dhananjay Mukhedkar
+
+[![Great Models Require Great MLOps: Using Weights & Biases with Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63188873e12953561c68a8d3_Weights%20%26%20Biases.png)](/post/using-weights-biases-with-hopsworks)[MLOpsSeptember 7, 202215 minReadGreat Models Require Great MLOps: Using Weights & Biases with HopsworksDiscover how you can easily make the journey from ML models to putting prediction services in production by choosing best-of-breed technologies.](/post/using-weights-biases-with-hopsworks)
+
+Moritz Meister
+
+[![From Pandas to Features to Models to Predictions - A deep dive into the Hopsworks APIs](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6304d17d1bc96863f1833bed_pandatomodelstofeatures%20copy.jpg)](/post/a-deep-dive-into-the-hopsworks-apis)[Data EngineeringAugust 23, 202220 minReadFrom Pandas to Features to Models to Predictions - A deep dive into the Hopsworks APIsLearn how the Hopsworks feature store APIs work and what it takes to go from a Pandas DataFrame to features used by models for both training and inference.](/post/a-deep-dive-into-the-hopsworks-apis)
+
+Fabio Buso
+
+[![Introducing the Serverless Feature Store](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/62e7aead44765eaa5c619446_Serverless%20Blog.png)](/post/introducing-the-serverless-feature-store)[Feature StoreAugust 3, 20227 minReadIntroducing the Serverless Feature StoreHopsworks Serverless is the first serverless feature store for ML, allowing you to manage features and models seamlessly without worrying about scaling, configuration or management of servers.](/post/introducing-the-serverless-feature-store)
+
+Jim Dowling
+
+[![Hopsworks 3.0: The Python-Centric Feature Store](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/64d357d7f496d4ce9b950450_Python%20Centric%20Blog.gif)](/post/the-python-centric-feature-store)[Feature StoreJuly 26, 20229 minReadHopsworks 3.0: The Python-Centric Feature StoreHopsworks is the first feature store to extend its support from the traditional Big Data platforms to the Pandas-sized data realm, where Python reigns supreme. A new Python API is also provided.](/post/the-python-centric-feature-store)
+
+Jim Dowling
+
+[![Hopsworks 3.0 - Connecting Python to the Modern Data Stack](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/62d9652fd44fb789460094f5_1200-630%20copy.jpg)](/post/hopsworks-3-0-connecting-python-to-the-modern-data-stack)[Feature StoreJuly 20, 20227 minReadHopsworks 3.0 - Connecting Python to the Modern Data StackHopsworks 3.0 is a new release focused on best-in-class Python support, Feature Views unifying Offline and Online read APIs to the Feature Store, Great Expectations support, KServe and a Model serving](/post/hopsworks-3-0-connecting-python-to-the-modern-data-stack)
+
+Jim Dowling
+
+[![A Spark Join Operator for Point-in-Time Correct Joins](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/62bd5d438fd011e6686e59f5_Spark%20Join%20Blog.png)](/post/a-spark-join-operator-for-point-in-time-correct-joins)[BenchmarkJune 30, 202210 minReadA Spark Join Operator for Point-in-Time Correct JoinsIn this blog post we showcase the results of a study that examined point-in-time join optimization using Apache Spark in Hopsworks. ](/post/a-spark-join-operator-for-point-in-time-correct-joins)
+
+Axel Pettersson 
+
+[![The EU AI Act: Time to Govern your AI or Turn it off](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/62b445273bb6c3d2a4b67854_EU%20AI%20ActBlog%20Thumbnail.png)](/post/the-eu-ai-act-time-to-govern-your-ai-or-turn-it-off)[AIJune 23, 202210 minReadThe EU AI Act: Time to Govern your AI or Turn it offAn introduction to the EU AI Act and how Feature Stores provide a great solution to the obligations imposed by the regulation.](/post/the-eu-ai-act-time-to-govern-your-ai-or-turn-it-off)
+
+Geoff Burne
+
+[![Feature Types for Machine Learning](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6290d72018708f098cfd1abf_featuretypes.png)](/post/feature-types-for-machine-learning)[Feature StoreMay 27, 202215 minReadFeature Types for Machine LearningProgrammers know data types, but what is a feature type to a programmer new to machine learning, given no mainstream programming language has native support for them?](/post/feature-types-for-machine-learning)
+
+Jim Dowling
+
+[![Testing feature logic, transformations, and feature pipelines with pytest](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/62692b2da3a7260f0d57e36d_testing%20blog2.png)](/post/testing-feature-logic-transformations-and-feature-pipelines-with-pytest)[Data EngineeringApril 26, 202217 minReadTesting feature logic, transformations, and feature pipelines with pytestOperational machine learning requires the offline and online testing of both features and models. In this article, we show you how to design, build, and run test for features.](/post/testing-feature-logic-transformations-and-feature-pipelines-with-pytest)
+
+Jim Dowling
+
+[![Hopsworks 2.5 Product Updates: Collaboration & Scalability](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6222098a11278365a58434d6_Blog%20Hops%202.5.png)](/post/hopsworks-2-5-product-updates)[March 4, 20223 minReadHopsworks 2.5 Product Updates: Collaboration & ScalabilityWe go through the new features and developments in Hopsworks 2.5 that will benefit open-source users and customers alike.](/post/hopsworks-2-5-product-updates)
+
+Fabio Buso
+
+[![Model analysis on the What-If framework for TensorFlow on Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/61e6717ebeb28447092d1030_WIF.png)](/post/model-analysis-what-if-framework-for-tensorflow)[MLOpsJanuary 17, 20225 minReadModel analysis on the What-If framework for TensorFlow on HopsworksWe introduce how to use the What-If Tool as a Jupyter plugin on Hopsworks to build better machine learning models by making it easier to ask counterfactual questions about your model’s behaviour.](/post/model-analysis-what-if-framework-for-tensorflow)
+
+Anastasiia Andriievska 
+
+[![How to Transform Snowflake Data into Features with Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/637647a53a162c90114c1d6b_Snowflake%20Data%20Into%20Features.png)](/post/how-to-transform-snowflake-data-into-features-with-hopsworks)[Feature StoreDecember 7, 20218 minReadHow to Transform Snowflake Data into Features with HopsworksLearn how to connect Hopsworks to Snowflake and create features and make them available both offline in Snowflake and online in Hopsworks.](/post/how-to-transform-snowflake-data-into-features-with-hopsworks)
+
+Fabio Buso
+
+[![Show me the code; how we linked notebooks to features](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/62221f7492811211efc66440_Show%20me%20the%20code%20Blog.png)](/post/show-me-the-code-how-we-linked-notebooks-to-features)[Data EngineeringNovember 23, 20213 minReadShow me the code; how we linked notebooks to featuresWe are introducing a new feature in Hopsworks UI - feature code preview - ability to view the notebook used to create a Feature Group or Training Dataset.](/post/show-me-the-code-how-we-linked-notebooks-to-features)
+
+Jim Dowling
+
+[![Receiving Alerts in Slack/Email/PagerDuty from Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/637f7a009eebc51282fb86ea_Receiving%20Alerts%20Blog_.png)](/post/receiving-alerts-in-slack-email-pagerduty-from-hopsworks-support-for-managing-your-feature-store)[Feature StoreNovember 12, 20216 minReadReceiving Alerts in Slack/Email/PagerDuty from HopsworksLearn how to set up customized alerts in Hopsworks for different events that are triggered as part of the ingestion pipeline.](/post/receiving-alerts-in-slack-email-pagerduty-from-hopsworks-support-for-managing-your-feature-store)
+
+Ermias Gebremeskel
+
+[![End-to-end Deep Learning Pipelines with Earth Observation Data in Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6380d0bc1484f157d512b6f7_Extreme%20Earth%20Blog.png)](/post/end-to-end-deep-learning-pipelines-with-earth-observation-data-in-hopsworks)[Data EngineeringOctober 8, 202110 minReadEnd-to-end Deep Learning Pipelines with Earth Observation Data in HopsworksIn this blog post we demonstrate how to build such a pipeline with real-world data in order to develop an iceberg classification model.](/post/end-to-end-deep-learning-pipelines-with-earth-observation-data-in-hopsworks)
+
+Theofilos Kakantousis
+
+[![Using an External Python Kafka Client to Interact with a Hopsworks Cluster](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63a56c868cfe910550c1c6fc_Guest%20Python%20Kafka%20Blog.png)](/post/using-an-external-python-kafka-client-to-interact-with-a-hopsworks-cluster)[MLOpsSeptember 27, 202118 minReadUsing an External Python Kafka Client to Interact with a Hopsworks ClusterLearn how to publish (write) and subscribe to (read) streams of events and how to interact with the schema registry and use Avro for data serialization.](/post/using-an-external-python-kafka-client-to-interact-with-a-hopsworks-cluster)
+
+Ahmad Al-Shishtawy
+
+[![MLOps Wars: Versioned Feature Data with a Lakehouse](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/628cc10d7188da434fe09a13_MLOPS%20Wars%20Blog.png)](/post/mlops-wars-versioned-feature-data-with-a-lakehouse)[MLOpsAugust 3, 202112 minReadMLOps Wars: Versioned Feature Data with a LakehouseWith support to Apache Hudi, the Hopsworks Feature Store offers lakehouse capabilities to improve automated feature pipelines and training pipelines (MLOps).](/post/mlops-wars-versioned-feature-data-with-a-lakehouse)
+
+Davit Bzhalava
+
+[![AI Software Architecture for Copernicus Data with Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63a56d1785e33d7aa02f1fff_Copernicus%20Data%20Blog.png)](/post/ai-software-architecture-for-copernicus-data-with-hopsworks)[Data EngineeringJuly 12, 202110 minReadAI Software Architecture for Copernicus Data with HopsworksHopsworks brings support for scale-out AI with the ExtremeEarth project which focuses on the most concerning issues of food security and sea mapping.](/post/ai-software-architecture-for-copernicus-data-with-hopsworks)
+
+Theofilos Kakantousis
+
+[![Hopsworks Online Feature Store: Fast Access to Feature Data for AI Applications](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/6286332cf1f4378d630dea76_fast%20access%20features.jpg)](/post/hopsworks-online-feature-store-fast-access-to-feature-data-for-ai-applications)[Feature StoreJune 17, 202112 minReadHopsworks Online Feature Store: Fast Access to Feature Data for AI ApplicationsRead about how the Hopsworks Feature Store abstracts away the complexity of a dual database system, unifying feature access for online and batch applications. ](/post/hopsworks-online-feature-store-fast-access-to-feature-data-for-ai-applications)
+
+Moritz Meister
+
+[![How to build ML models with fastai and Jupyter in Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63aaaa8ef3af997b9065b714_How%20to%20build%20ML%20Models%20Blog.png)](/post/how-to-build-ml-models-with-fastai-and-jupyter-in-hopsworks)[Data EngineeringJune 4, 20216 minReadHow to build ML models with fastai and Jupyter in HopsworksThis tutorial gives an overview of how to work with Jupyter on the platform and train a state-of-the-art ML model using the fastai python library.](/post/how-to-build-ml-models-with-fastai-and-jupyter-in-hopsworks)
+
+Robin Andersson 
+
+[![Scalable metadata: the new breed of file systems \(em\)powering big data companies](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63761d7bf7db427f0b5175d9_Scalable%20Metadada.png)](/post/scalable-metadata-the-new-breed-of-file-systems)[BenchmarkMay 31, 202120 minReadScalable metadata: the new breed of file systems (em)powering big data companiesHopsFS is an open-source scaleout metadata file system, but its primary use case is not Exabyte storage, rather customizable consistent metadata.](/post/scalable-metadata-the-new-breed-of-file-systems)
+
+Jim Dowling
+
+[![Distributed ML Experiments on Databricks with Maggy](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63a57fa35752eb80df04abd0_Distributed%20ML%20Experiments%20Blog.png)](/post/distributed-ml-experiments-on-databricks-with-maggy)[MLOpsMay 13, 202110 minReadDistributed ML Experiments on Databricks with MaggyLearn how to train a ML model in a distributed fashion without reformatting our code on Databricks with Maggy, open source tool available on Hopsworks.](/post/distributed-ml-experiments-on-databricks-with-maggy)
+
+Riccardo Grigoletto
+
+[![How to manage Python libraries in Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63a5af136c31f26b2423a7a5_Python%20Libraries%20Blog.png)](/post/how-to-manage-python-libraries-in-hopsworks)[MLOpsMay 12, 20214 minReadHow to manage Python libraries in HopsworksThis tutorial will show an overview of how to install and manage Python libraries in the platform.](/post/how-to-manage-python-libraries-in-hopsworks)
+
+Robin Andersson 
+
+[![From 100 to ZeRO: PyTorch and DeepSpeed ZeRO on any Spark Cluster with Maggy](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63a5ae6a68385c781aa1cf7e_DeepSpeed%20ZeRO%20Blog.png)](/post/pytorch-and-deepspeed-zero-on-any-spark-cluster-with-maggy)[MLOpsApril 27, 20217 minReadFrom 100 to ZeRO: PyTorch and DeepSpeed ZeRO on any Spark Cluster with MaggyUse open-source Maggy to write and debug PyTorch code on your local machine and run the code at scale without changing a single line in your program.](/post/pytorch-and-deepspeed-zero-on-any-spark-cluster-with-maggy)
+
+Moritz Meister
+
+[![Beyond Brainless AI with a Feature Store](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63a5b57c6ccbdbe2a360ec7d_Brainless%20AI%20Blog.png)](/post/beyond-brainless-ai-with-a-feature-store)[MLOpsApril 27, 202110 minReadBeyond Brainless AI with a Feature StoreEvolve your models from stateless AI to Total Recall AI with the help of a Feature Store. ](/post/beyond-brainless-ai-with-a-feature-store)
+
+Jim Dowling
+
+[![Detecting Financial Fraud Using GANs at Swedbank with Hopsworks and NVIDIA GPUs](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/638dc7c4ce20b724edd9d773_Nvidia%20Blog.png)](/post/detecting-financial-fraud-using-gans-at-swedbank-with-hopsworks-and-nvidia-gpus)[Feature StoreMarch 26, 202115 minReadDetecting Financial Fraud Using GANs at Swedbank with Hopsworks and NVIDIA GPUsRecently, one of Sweden’s largest banks trained generative adversarial neural networks (GANs) using NVIDIA GPUs as part of its fraud and money-laundering prevention strategy.](/post/detecting-financial-fraud-using-gans-at-swedbank-with-hopsworks-and-nvidia-gpus)
+
+Jim Dowling
+
+[![AI/ML needs a Key-Value store, and Redis is not up to it](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/61eace23ecf46e36f195d5d1_REDIS.png)](/post/ai-ml-needs-a-key-value-store-and-redis-is-not-up-to-it)[BenchmarkFebruary 26, 202112 minReadAI/ML needs a Key-Value store, and Redis is not up to itSeeing how Redis is a popular open-source feature store with features significantly similar to RonDB, we compared the innards of RonDB’s multithreading architecture to the commercial Redis products. ](/post/ai-ml-needs-a-key-value-store-and-redis-is-not-up-to-it)
+
+Mikael Ronström
+
+[![How to engineer and use Features in Azure ML Studio with the Hopsworks Feature Store](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63aab17fc753bd66885fdf6e_Azure%20Ml%20Studio%20Blog.png)](/post/how-to-engineer-and-use-features-in-azure-ml-studio-with-hopsworks)[Feature StoreFebruary 25, 20218 minReadHow to engineer and use Features in Azure ML Studio with the Hopsworks Feature StoreLearn how to design and ingest features, browse existing features, create training datasets as DataFrames or as files on Azure Blob storage.](/post/how-to-engineer-and-use-features-in-azure-ml-studio-with-hopsworks)
+
+Moritz Meister
+
+[![How to transform Amazon Redshift data into features with Hopsworks Feature Store](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63aabe5fcefc0ff23bdbe0aa_Amazon%20Redshift%20Blog.png)](/post/how-to-transform-amazon-redshift-data-into-features-with-hopsworks)[Feature StoreFebruary 9, 20219 minReadHow to transform Amazon Redshift data into features with Hopsworks Feature StoreConnect the Hopsworks Feature Store to Amazon Redshift to transform your data into features to train models and make predictions.](/post/how-to-transform-amazon-redshift-data-into-features-with-hopsworks)
+
+Ermias Gebremeskel
+
+[![Elasticsearch is dead, long live Open Distro for Elasticsearch](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/61e697708af5d9c46a0395a6_DFS.png)](/post/open-distro-for-elasticsearch-dynamic-support-hopsworks)[Data ScienceJanuary 14, 202113 minReadElasticsearch is dead, long live Open Distro for ElasticsearchIn this blog, we describe how we leverage the authentication and authorization support in Open Distro for Elasticsearch to make elasticsearch a project-based multi-tenant service in Hopsworks.](/post/open-distro-for-elasticsearch-dynamic-support-hopsworks)
+
+Mahmoud Ismail
+
+[![HopsFS file system: 100X Times Faster than AWS S3](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/61b8ded75115481bbce78769_faster%20file%20system.jpg)](/post/faster-than-aws-s3)[BenchmarkNovember 19, 202013 minReadHopsFS file system: 100X Times Faster than AWS S3Many developers believe S3 is the "end of file system history". It is impossible to build a file/object storage system on AWS that can compete with S3 on cost. But what if you could build on top of S3](/post/faster-than-aws-s3)
+
+Mahmoud Ismail
+
+[![Feature Store for MLOps? Feature reuse means JOINs](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/637614127359609170ae02f8_FS%20for%20MLOps.png)](/post/feature-store-for-mlops-feature-reuse-means-joins)[Feature StoreOctober 23, 20207 minReadFeature Store for MLOps? Feature reuse means JOINsUse JOINs for feature reuse to save on infrastructure and the number of feature pipelines needed to maintain models in production.](/post/feature-store-for-mlops-feature-reuse-means-joins)
+
+Jim Dowling
+
+[![ML Engineer Guide: Feature Store vs Data Warehouse](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/61b9d4ec9a1b41068de189e7_005%20copy.png)](/post/feature-store-vs-data-warehouse)[Feature StoreOctober 8, 202013 minReadML Engineer Guide: Feature Store vs Data Warehouse The feature store is a data warehouse of features for machine learning (ML). Architecturally, it differs from the traditional data warehouse in that it is a dual-database.](/post/feature-store-vs-data-warehouse)
+
+Jim Dowling
+
+[![One Function is All you Need: Machine Learning Experiments with Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63aac419fdf77f36ae64b4c9_ML%20Experiments%20Blog.png)](/post/machine-learning-experiments-with-hopsworks)[MLOpsSeptember 30, 202016 minReadOne Function is All you Need: Machine Learning Experiments with HopsworksHopsworks supports machine learning experiments to track and distribute ML for free and with a built-in TensorBoard.](/post/machine-learning-experiments-with-hopsworks)
+
+Robin Andersson 
+
+[![How we secure your data with Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/627e76114c646d8045325fbc_Secure%20Data.png)](/post/how-we-secure-your-data-with-hopsworks)[Feature StoreJuly 16, 202015 minReadHow we secure your data with HopsworksIntegrate with third-party security standards and take advantage from our project-based multi-tenancy model to host data in one single shared cluster.](/post/how-we-secure-your-data-with-hopsworks)
+
+Jim Dowling
+
+[![Beyond Self-Driving Cars](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/61b9d4d855a43b5e6738c5d4_005%20copy%202.png)](/post/beyond-self-driving-cars)[Feature StoreJuly 1, 202011 minReadBeyond Self-Driving CarsThis blog introduces the feature store as a new element in automotive machine learning (ML) systems and as a new data science tool and process for building and deploying better Machine learning models](/post/beyond-self-driving-cars)
+
+Remco Frijling
+
+[![Unifying Single-host and Distributed Machine Learning with Maggy](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63aaf3feb59544f38c6f6b16_Single%20Host%20Blog.png)](/post/unifying-single-host-and-distributed-machine-learning)[MLOpsJune 26, 202015 minReadUnifying Single-host and Distributed Machine Learning with MaggyTry out Maggy for hyperparameter optimization or ablation studies now on Hopsworks.ai to access a new way of writing machine learning applications.](/post/unifying-single-host-and-distributed-machine-learning)
+
+Moritz Meister
+
+[![Manage your own Feature Store on Kubeflow with Hopsworks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63aafc9e90b0ca94cbe67c6e_Feature%20Store%20Kubeflow%20Blog.png)](/post/manage-your-own-feature-store-on-kubeflow-with-hopsworks)[Feature StoreJune 15, 20204 minReadManage your own Feature Store on Kubeflow with HopsworksLearn how to integrate Kubeflow with Hopsworks and take advantage of its Feature Store and scale-out deep learning capabilities.](/post/manage-your-own-feature-store-on-kubeflow-with-hopsworks)
+
+Jim Dowling
+
+[![How to build your own Feature Store](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/61b9c937c78d17c9fa856bcd_How%20to%20build%20your%20own%20feature%20store%20-%20Blog.png)](/post/how-to-build-your-own-feature-store)[Feature StoreMay 26, 202013 minReadHow to build your own Feature StoreWe have many conversations with companies and organizations who are deciding between building their own feature store and buying one. We thought we would share our experience of building one.](/post/how-to-build-your-own-feature-store)
+
+Jim Dowling
+
+[![Hopsworks Feature Store for AWS SageMaker](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63ab01b12e85b39b11aa791c_Feature%20Store%20for%20AWS%20Blog.png)](/post/hopsworks-feature-store-for-aws-sagemaker)[Feature StoreMay 18, 20209 minReadHopsworks Feature Store for AWS SageMakerIntegrate AWS SageMaker with Hopsworks to manage, discover and use features for creating training datasets and for serving features to operational models.](/post/hopsworks-feature-store-for-aws-sagemaker)
+
+Fabio Buso
+
+[![Hopsworks Feature Store for Databricks](https://cdn.prod.website-files.com/618399cd49d125734c8dec95/63ab0826dd12797e14cebaec_Feature%20Store%20for%20Databricks%20Blog.png)](/post/hopsworks-feature-store-for-databricks)[Feature StoreApril 23, 202011 minReadHopsworks Feature Store for DatabricksThis blog introduces the Hopsworks Feature Store for Databricks, and how it can accelerate and govern your model development and operations on Databricks.](/post/hopsworks-feature-store-for-databricks)
+
+Fabio Buso
+
+[![Untitled UI logotext](https://cdn.prod.website-files.com/5f6353590bb01cacbcecfbac/630e3413d3fafa0f79c52da2_hopsworks-logo%202022_white.svg)![Logo](https://cdn.prod.website-files.com/5f6353590bb01cacbcecfbac/666c3cc1cfc4741e6b2d9fe6_untitled-ui-logo.png)The AI Lakehouse](#)
+
+Product
+
+[Hopsworks Enterprise](/try)[Capabilities](/product-capabilities)[Integrations](/integrations)[Examples](/hopsworks-examples)[Pricing](/pricing)[App Status](https://hopsworks.statuspage.io/)[FAQ](/frequently-asked-questions)
+
+Solutions
+
+[Generative AI](/use-case/fine-tuning-llms-rag-for-genai)[Real-time Fraud Detection ](/use-case/realtime-fraud-detection)[Hopsworks Medical Copilot](https://www.hopscopilot.com/)[Customers](/customers)
+
+Resources
+
+[Blog](/blog)[MLOps Dictionary](/mlops-dictionary)[Events](/events)[Documentation](https://docs.hopsworks.ai/latest/)[Academy](/academy)[Research Papers](/research-papers)[Feature Store Comparison](https://www.hopsworks.ai/product-comparison/sagemaker)[Community](https://community.hopsworks.ai/)[FAQ: EU AI Act](/faq-eu-ai-act)
+
+Company
+
+[About us](/about-us)[News](/news)[Security & Compliance](/security-compliance)
+
+Join our newsletter
+
+**Receive the latest product updates, upcoming events, and industry news.**
+
+© Hopsworks 2024. All rights reserved. Various trademarks held by their respective owners.
+
+[](https://join.slack.com/t/public-hopsworks/shared_invite/zt-1uf21vitz-rhHKNdIf8GEiOf1EJ6Wzsw)[](https://github.com/logicalclocks/hopsworks)[](https://www.linkedin.com/company/hopsworks/)[](https://twitter.com/hopsworks)[](https://www.youtube.com/@hopsworks)
+
+×
+
+## Notice
+
+We and selected third parties use cookies or similar technologies for technical purposes and, with your consent, for other purposes as specified in the [cookie policy](https://www.iubenda.com/privacy-policy/90800199/cookie-policy?an=no&s_ck=false&newmarkup=yes). 
+
+Use the “Accept” button to consent. Use the “Reject” button or close this notice to continue without accepting.
+
+Press again to continue 0/2
+
+Learn more and customize
+
+RejectAccept

@@ -1,0 +1,664 @@
+[Skip to main content](#main)
+
+[![]()](/)
+
+[Login](https://accounts.cloud.databricks.com/)
+
+[![]()](/)
+
+  * Why Databricks 
+
+    *       * Discover
+
+        * [For Executives](/why-databricks/executives)
+        * [For Startups ](/product/startups)
+        * [Lakehouse Architecture ](/product/data-lakehouse)
+        * [Mosaic Research](/research/mosaic)
+
+      * Customers
+
+        * [Featured Stories](/customers)
+        * [See All Customers](/customers/all)
+
+      * Partners
+
+        * [Cloud ProvidersDatabricks on AWS, Azure, and GCP](/company/partners/cloud-partners)
+        * [Consulting & System IntegratorsExperts to build, deploy and migrate to Databricks](/company/partners/consulting-and-si)
+        * [Technology PartnersConnect your existing tools to your Lakehouse](/company/partners/technology-partner-program)
+        * [C&SI Partner ProgramBuild, deploy or migrate to the Lakehouse](/company/partners/consulting-and-si/candsi-partner-program)
+        * [Data PartnersAccess the ecosystem of data consumers](/company/partners/data-partner-program)
+        * [Partner SolutionsFind custom industry and migration solutions](/company/partners/consulting-and-si/partner-solutions)
+        * [Built on DatabricksBuild, market and grow your business](/company/partners/built-on-partner-program)
+
+  * Product 
+
+    *       * Databricks Platform
+
+        * [Platform OverviewA unified platform for data, analytics and AI](/product/data-intelligence-platform)
+        * [Data ManagementData reliability, security and performance](/product/delta-lake-on-databricks)
+        * [SharingAn open, secure, zero-copy sharing for all data](/product/delta-sharing)
+        * [Data WarehousingServerless data warehouse for SQL analytics](/product/databricks-sql)
+        * [GovernanceUnified governance for all data, analytics and AI assets](/product/unity-catalog)
+        * [Real-Time AnalyticsReal-time analytics, AI and applications made simple](/product/data-streaming)
+        * [Artificial IntelligenceBuild and deploy ML and GenAI applications](/product/artificial-intelligence)
+        * [Data EngineeringETL and orchestration for batch and streaming data](/solutions/data-engineering)
+        * [Business IntelligenceIntelligent analytics for real-world data](https://www.databricks.com/product/ai-bi)
+        * [Data ScienceCollaborative data science at scale](/product/data-science)
+
+      * Integrations and Data
+
+        * [MarketplaceOpen marketplace for data, analytics and AI](/product/marketplace)
+        * [IDE IntegrationsBuild on the Lakehouse in your favorite IDE](/product/data-science/ide-integrations)
+        * [Partner ConnectDiscover and integrate with the Databricks ecosystem](/partnerconnect)
+
+      * Pricing
+
+        * [Databricks PricingExplore product pricing, DBUs and more](/product/pricing)
+        * [Cost CalculatorEstimate your compute costs on any cloud](/product/pricing/product-pricing/instance-types)
+
+      * Open Source
+
+        * [Open Source TechnologiesLearn more about the innovations behind the platform](/product/open-source)
+
+  * Solutions 
+
+    *       * Databricks for Industries
+
+        * [Communications](/solutions/industries/communications)
+        * [Media and Entertainment](/solutions/industries/media-and-entertainment)
+        * [Financial Services](/solutions/industries/financial-services)
+        * [Public Sector](/solutions/industries/public-sector)
+        * [Healthcare & Life Sciences](/solutions/industries/healthcare-and-life-sciences)
+        * [Retail](/solutions/industries/retail-industry-solutions)
+        * [Manufacturing](/solutions/industries/manufacturing-industry-solutions)
+        * [See All Industries](/solutions)
+
+      * Cross Industry Solutions
+
+        * [Customer Data Platform](/solutions/industries/customer-experience)
+        * [Cyber Security](/solutions/industries/cybersecurity)
+
+      * Migration & Deployment
+
+        * [Data Migration](/solutions/migration)
+        * [Professional Services](/professional-services)
+
+      * Solution Accelerators
+
+        * [Explore AcceleratorsMove faster toward outcomes that matter](/solutions/accelerators)
+
+  * Resources 
+
+    *       * Training and Certification
+
+        * [Learning OverviewHub for training, certification, events and more](/learn)
+        * [Training OverviewDiscover curriculum tailored to your needs](https://www.databricks.com/learn/training/home)
+        * [Databricks AcademySign in to the Databricks learning platform](https://www.databricks.com/learn/training/login)
+        * [CertificationGain recognition and differentiation](https://www.databricks.com/learn/training/certification)
+        * [University AllianceWant to teach Databricks? See how.](/university)
+
+      * Events
+
+        * [Data + AI Summit](https://www.databricks.com/dataaisummit)
+        * [Data + AI World Tour](/dataaisummit/worldtour)
+        * [Data Intelligence Days](/lp/data-intelligence-days)
+        * [Event Calendar](/events)
+
+      * Blog and Podcasts
+
+        * [Databricks BlogExplore news, product announcements, and more](/blog)
+        * [Databricks Mosaic Research BlogDiscover the latest in our Gen AI research](/blog/category/generative-ai/mosaic-research)
+        * [Data Brew PodcastLet’s talk data!](/discover/data-brew)
+        * [Champions of Data + AI PodcastInsights from data leaders powering innovation](/discover/champions-of-data-and-ai)
+
+      * Get Help
+
+        * [Customer Support](https://www.databricks.com/support)
+        * [Documentation](https://docs.databricks.com/en/index.html)
+        * [Community](https://community.databricks.com/s/)
+
+      * Dive Deep
+
+        * [Resource Center](/resources)
+        * [Demo Center](/resources/demos)
+
+  * About 
+
+    *       * Company
+
+        * [Who We Are](/company/about-us)
+        * [Our Team](/company/leadership-team)
+        * [Databricks Ventures](/databricks-ventures)
+        * [Contact Us](/company/contact)
+
+      * Careers
+
+        * [Working at Databricks](/company/careers)
+        * [Open Jobs](/company/careers/open-positions)
+
+      * Press
+
+        * [Awards and Recognition](/company/awards-and-recognition)
+        * [Newsroom](/company/newsroom)
+
+      * Security and Trust
+
+        * [Security and Trust](/trust)
+
+
+
+
+  * Ready to get started?
+
+  * [Get a Demo](/resources/demos)
+
+
+
+  * [Login](https://accounts.cloud.databricks.com/)
+  * [Contact Us](/company/contact)
+  * [Try Databricks](/try-databricks)
+
+
+
+# 
+
+Unity Catalog
+
+### Unified and open governance for data and AI
+
+[Get started](/try-databricks?itm_data=demos-try-workflows-trial#account "Get started")[Watch demo](https://www.databricks.com/resources/demos/videos/data-governance/unity-catalog-overview "Watch demo")
+
+[![](https://www.databricks.com/sites/default/files/2024-11/eb-data-and-ai-governance.png?v=1730740909) Simplify data and AI governance at scale Build an effective governance strategy. Read now](/resources/ebook/data-analytics-and-ai-governance?itm_data=product-unity-catalog-pc-may24)
+
+Databricks Unity Catalog is the industry’s only unified and open governance solution for data and AI, built into the Databricks Data Intelligence Platform. With Unity Catalog, organizations can seamlessly govern both structured and unstructured data in any format, as well as machine learning models, notebooks, dashboards and files across any cloud or platform. Data scientists, analysts and engineers can securely discover, access and collaborate on trusted data and AI assets across platforms, leveraging AI to boost productivity and unlock the full potential of the lakehouse environment. This unified and open approach to governance promotes interoperability and accelerates data and AI initiatives while simplifying regulatory compliance.
+
+### “Databricks Unity Catalog is now an integral part of the PepsiCo Data Foundation, our centralized global system that consolidates over 6 petabytes of data worldwide. It streamlines the onboarding process for more than 1,500 active users and enables unified data discovery for our 30+ digital product teams across the globe, supporting both business intelligence and artificial intelligence applications.”
+
+— Bhaskar Palit, Senior Director, Data and Analytics
+
+[Learn more](/blog/how-pepsico-established-enterprise-grade-data-intelligence-platform-powered-databricks-unity)
+
+![pepsico](https://www.databricks.com/sites/default/files/2024-06/pepsico-customer-image.png?v=1717761445)
+
+### “Unity Catalog distills permissioning into its important pieces by removing the complexity introduced by IAM policies and other data control platforms, allowing us to focus on what is important to our business use case.”
+
+— Joseph Kesting, Software Engineer
+
+[Learn more](/customers/block/unity-catalog)
+
+![Block](https://www.databricks.com/sites/default/files/2023-06/Block.png?v=1687639080)
+
+### “Unity Catalog has enabled us to centralize our data governance, providing robust security features and streamlined compliance processes. This centralization reduced the complexities associated with managing permissions across disparate systems and helped ensure that only authorized personnel had access to sensitive data, which is crucial for adhering to stringent data protection laws, including GDPR.”
+
+— Michael Ewins, Director of Engineering
+
+[Learn more](/blog/data-destinations-how-skyscanner-optimizes-traveler-experiences-databricks-unity-catalog)
+
+![Skyscanner](https://www.databricks.com/sites/default/files/2024-06/skyscanner-customer-image.png?v=1717760942)
+
+### “With Unity Catalog, we are centralizing data catalog and access management across various teams and workspaces, which has simplified governance.”
+
+— Venkatesh Sivasubramanian, Senior Director, Big Data
+
+[Learn more](/customers/rivian)
+
+![Rivian](https://www.databricks.com/sites/default/files/2023-06/Rivian.png?v=1687639181)
+
+### “Distributing data governance through Databricks Unity Catalog transformed Akamai’s approach to managing and governing data. With Unity Catalog, we are now managing and governing over 6 petabytes of data with fine-grained access controls on rows and columns.”
+
+— Gilad Asulin, Big Data Team Leader
+
+[Learn more](https://medium.com/@agilad_3118/how-akamai-leverages-databricks-unity-catalog-for-distributed-data-governance-d1eda1c5851)
+
+![Akamai](https://www.databricks.com/sites/default/files/2023-06/Akamai.png?v=1687639211)
+
+![PepsiCo logo](https://www.databricks.com/sites/default/files/2024-06/logo-color-pepsico.svg?v=1717720292)
+
+![block](https://www.databricks.com/sites/default/files/2023-09/logo-color-block-image.png?v=1724434337)
+
+![Skyscanner](https://www.databricks.com/sites/default/files/2024-06/logo-color-skyscanner.svg?v=1724667400)
+
+![Rivian logo](https://www.databricks.com/sites/default/files/2023-03/logo-color-rivian.svg?v=1678822598)
+
+![Akamai](https://www.databricks.com/sites/default/files/2023-03/akamai-logo.svg?v=1724432005)
+
+![UC](https://www.databricks.com/sites/default/files/2023-06/unity-catalog1.png?v=1687797543)
+
+### Unified visibility into data and AI
+
+Easily discover and classify both structured and unstructured data in any format, including machine learning models, notebooks, dashboards and files across all cloud platforms. Seamlessly manage, govern and query data from external databases and data warehouses like MySQL, PostgreSQL, Amazon Redshift, Snowflake, Azure SQL, Azure Synapse, Google BigQuery and catalogs such as HMS and AWS Glue in one place. Accelerate your data and AI initiatives with a single point of access for data exploration. Improve productivity with intelligent search, discovery and automatically generated data insights and documentation.
+
+![Single permission model for data and AI](https://www.databricks.com/sites/default/files/2024-06/uc-image-02.png?v=1717757695)
+
+### Single permission model for data and AI
+
+Simplify access management with a unified interface to define access policies on data and AI assets and consistently apply and audit these policies on any cloud or data platform. Securely access data from other computing platforms using open interfaces, with consistent permissions managed in one place. Enhance security with fine-grained control on rows and columns, while efficiently managing access through low-code attribute-based access policies that scale seamlessly.
+
+![A dashboard displaying data and graphs.](https://www.databricks.com/sites/default/files/2023-06/unity-catalog-3.png?v=1703004975)
+
+### AI-powered monitoring and observability
+
+Harness the power of AI to automate monitoring, diagnose errors and uphold data and ML model quality. Benefit from proactive alerts that automatically detect personally identifiable information (PII) data, track model drift, and effectively resolve issues within your data and AI pipelines to maintain accuracy and integrity. Streamline debugging, root cause analysis, and impact assessment with automated column-level data lineage. Gain comprehensive observability into your data and AI with operational intelligence utilizing built-in system tables for billing, auditing, lineage and more.
+
+![Open accessibility](https://www.databricks.com/sites/default/files/2024-06/uc-image-04.png?v=1717759484)
+
+### Open accessibility
+
+Securely access your data and AI assets from any compute engine using open APIs and standard interfaces. Share data and AI assets across clouds, regions and platforms with open source Delta Sharing. Securely collaborate with anyone, anywhere to unlock new revenue streams and drive business value, without relying on proprietary formats, complex ETL processes or costly data replication.
+
+## Here's more to explore
+
+[![](https://www.databricks.com/sites/default/files/2024-03/2023-05-wb-introducing-generative-ai-ty-tn-362x190-2x.png?v=1711095832)TrainingGenerative AI FundamentalsStart now](/resources/learn/training/generative-ai-fundamentals?itm_data=cro-fpd-target-360)[![](https://www.databricks.com/sites/default/files/2023-11/2023-04-lakehouse-fundamentals-build-your-skill-ty-tn-362x190-2x.png?v=1700688856)TrainingLakehouse FundamentalsStart now](/resources/learn/training/lakehouse-fundamentals?itm_data=cro-fpd-target-360)[![](https://www.databricks.com/sites/default/files/2024-10/2022-09-Databricks-on-Azure-3-part-training-series-TY-TN-360x188-2x.jpg?v=1729099703)TrainingFree Azure Databricks TrainingWatch now](/resources/webinar/azure-databricks-free-training-series?itm_data=cro-fpd-target-360)
+
+## Here's more to explore
+
+[![](https://www.databricks.com/sites/default/files/2024-03/2023-05-wb-introducing-generative-ai-ty-tn-362x190-2x.png?v=1711095832)TrainingGenerative AI FundamentalsStart now](/resources/learn/training/generative-ai-fundamentals?itm_data=cro-fpd-target-360)[![](https://www.databricks.com/sites/default/files/2023-11/2023-04-lakehouse-fundamentals-build-your-skill-ty-tn-362x190-2x.png?v=1700688856)TrainingLakehouse FundamentalsStart now](/resources/learn/training/lakehouse-fundamentals?itm_data=cro-fpd-target-360)[![](https://www.databricks.com/sites/default/files/2024-07/2024-07-eb-big-book-of-data-engineering-3rd-ed-ty-tn-360x188-2x.png?v=1721029189)eBookBig Book of Data EngineeringRead now](/resources/ebook/big-book-of-data-engineering?itm_data=cro-fpd-target-360)
+
+## Resources
+
+[![](https://www.databricks.com/sites/default/files/2023-10/2023-10-eb-data-and-ai-governance-ad-1200x628.png?v=1702986485)eBookA Comprehensive Guide to Data and AI GovernanceRead now](https://www.databricks.com/resources/ebook/data-analytics-and-ai-governance)[![](https://www.databricks.com/sites/default/files/2023-06/2022-06-EB-New-Approach-to-Data-Sharing-Ad-1200x628.png?v=1687654866)eBookA New Approach to Data SharingRead now](https://www.databricks.com/resources/ebook/a-new-approach-to-data-sharing)[![](https://www.databricks.com/sites/default/files/2024-04/2024-02-wp-databricks-ai-security-framework-cover-ty-tn-360x188-2x.png?v=1712042992)WhitepaperDatabricks AI Security FrameworkRead now](/resources/whitepaper/databricks-ai-security-framework-dasf)
+
+## Integrations
+
+Unity Catalog works with your existing data catalogs, data storage systems and governance solutions so you can leverage your existing investments and build a future-proof governance model without expensive migration costs.
+
+## Resources
+
+[![ebook: A Comprehensive Guide to Data and AI Governance](https://www.databricks.com/sites/default/files/2023-10/2023-10-eb-data-and-ai-governance-ad-1200x628.png)eBookA Comprehensive Guide to Data and AI Governance Read now](https://www.databricks.com/resources/ebook/data-analytics-and-ai-governance)
+
+[![eBook: A New Approach to Data Sharing](https://www.databricks.com/sites/default/files/2023-06/2022-06-EB-New-Approach-to-Data-Sharing-Ad-1200x628.png)eBookA New Approach to Data Sharing Read now](https://www.databricks.com/resources/ebook/a-new-approach-to-data-sharing)
+
+[![Databricks AI Security Framework](https://www.databricks.com/sites/default/files/2024-04/2024-02-wp-databricks-ai-security-framework-cover-ty-tn-360x188-2x.png)WhitepaperDatabricks AI Security Framework Read now](/resources/whitepaper/databricks-ai-security-framework-dasf)
+
+### Featured Talks
+
+[[Keynote] Evolving Data Governance With Unity Catalog Presented by Matei Zaharia at Data + AI Summit 2024](https://www.youtube.com/watch?v=lZbmBAxa3O4&list=PLTPXxbhUt-YXh57uL3QUQiKLwTf39IoT1&index=17)
+
+[What’s New in Unity Catalog - With Live Demos](https://youtu.be/vnznr18oGfI)
+
+[Technical Deep Dive for Practitioners: Databricks Unity Catalog from A-Z](https://www.youtube.com/watch?v=iMGG1Ng7sy4)
+
+[Introducing Unity Catalog Open Source: Unified Governance and Interoperability for Data + AI ](https://youtu.be/COnxxM0gJmw)
+
+[Attribute-Based Access Controls in Unity Catalog - Building a Scalable Access Management Framework](https://www.youtube.com/watch?v=KufwTp7MQD4)
+
+[Lakehouse Federation: Discover, Query and Govern Any Data with Unity Catalog](https://www.youtube.com/watch?v=xGImEGpw0uE)
+
+[Lakehouse Monitoring GA: Profiling, Diagnosing, and Enforcing Data Quality with Intelligence](https://www.youtube.com/watch?v=aDBPoKyA0DQ)
+
+[Upgrading to Unity Catalog With Ease, Using UCX](https://www.youtube.com/watch?v=pmW9jOFE0qI)
+
+### Blogs
+
+[What’s New with Databricks Unity Catalog at Data + AI Summit 2024](https://www.databricks.com/blog/whats-new-databricks-unity-catalog-data-ai-summit-2024)
+
+[Open Sourcing Unity Catalog](https://www.databricks.com/blog/open-sourcing-unity-catalog)
+
+[What’s New with Data Sharing and Collaboration](https://www.databricks.com/blog/whats-new-data-sharing-and-collaboration)
+
+[Unity Catalog Lakeguard: Industry-first and only data governance for multi-user Apache Spark™ clusters](https://www.databricks.com/blog/unity-catalog-lakeguard-industry-first-and-only-data-governance-multi-user-apachetm-spark)
+
+[Introducing Lakehouse Federation Capabilities in Unity Catalog](https://www.databricks.com/blog/introducing-lakehouse-federation-capabilities-unity-catalog)
+
+[Built-In Governance for Your Databricks Workspace](https://www.databricks.com/blog/built-governance-your-databricks-workspace)
+
+### Getting Started
+
+[AWS Documentation](https://docs.databricks.com/data-governance/unity-catalog/index.html)
+
+[Azure Documentation](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/)
+
+[GCP Documentation](https://docs.gcp.databricks.com/data-governance/unity-catalog/index.html)
+
+## Ready to get started?
+
+[Try Databricks for free](/try-databricks)
+
+[![databricks logo](https://www.databricks.com/sites/default/files/2023-08/databricks-default.png?v=1712162038)](https://www.databricks.com/)
+
+Why Databricks
+
+Discover
+
+  * [For Executives](/why-databricks/executives)
+  * [For Startups](/product/startups)
+  * [Lakehouse Architecture](/product/data-lakehouse)
+  * [Mosaic Research](/research/mosaic)
+
+
+
+Customers
+
+  * [Featured](https://www.databricks.com/customers)
+  * [See All](/customers/all)
+
+
+
+Partners
+
+  * [Cloud Providers](/company/partners/cloud-partners)
+  * [Technology Partners](/company/partners/technology-partner-program)
+  * [Data Partners](/company/partners/data-partner-program)
+  * [Built on Databricks](/company/partners/built-on-partner-program)
+  * [Consulting & System Integrators](/company/partners/consulting-and-si)
+  * [C&SI Partner Program](/company/partners/consulting-and-si/candsi-partner-program)
+  * [Partner Solutions](/company/partners/consulting-and-si/partner-solutions)
+
+
+
+Why Databricks
+
+Discover
+
+  * [For Executives](/why-databricks/executives)
+  * [For Startups](/product/startups)
+  * [Lakehouse Architecture](/product/data-lakehouse)
+  * [Mosaic Research](/research/mosaic)
+
+
+
+Customers
+
+  * [Featured](https://www.databricks.com/customers)
+  * [See All](/customers/all)
+
+
+
+Partners
+
+  * [Cloud Providers](/company/partners/cloud-partners)
+  * [Technology Partners](/company/partners/technology-partner-program)
+  * [Data Partners](/company/partners/data-partner-program)
+  * [Built on Databricks](/company/partners/built-on-partner-program)
+  * [Consulting & System Integrators](/company/partners/consulting-and-si)
+  * [C&SI Partner Program](/company/partners/consulting-and-si/candsi-partner-program)
+  * [Partner Solutions](/company/partners/consulting-and-si/partner-solutions)
+
+
+
+Product
+
+Databricks Platform
+
+  * [Platform Overview](/product/data-intelligence-platform)
+  * [Sharing](/product/delta-sharing)
+  * [Governance](/product/unity-catalog)
+  * [Artificial Intelligence](/product/artificial-intelligence)
+  * [Business Intelligence](https://www.databricks.com/product/ai-bi)
+  * [Data Management](/product/delta-lake-on-databricks)
+  * [Data Warehousing](/product/databricks-sql)
+  * [Real-Time Analytics](/product/data-streaming)
+  * [Data Engineering](/solutions/data-engineering)
+  * [Data Science](/product/data-science)
+
+
+
+Pricing
+
+  * [Pricing Overview](/product/pricing)
+  * [Pricing Calculator](/product/pricing/product-pricing/instance-types)
+
+
+
+[Open Source](/product/open-source)
+
+Integrations and Data
+
+  * [Marketplace](/product/marketplace)
+  * [IDE Integrations](/product/data-science/ide-integrations)
+  * [Partner Connect](/partnerconnect)
+
+
+
+Product
+
+Databricks Platform
+
+  * [Platform Overview](/product/data-intelligence-platform)
+  * [Sharing](/product/delta-sharing)
+  * [Governance](/product/unity-catalog)
+  * [Artificial Intelligence](/product/artificial-intelligence)
+  * [Business Intelligence](https://www.databricks.com/product/ai-bi)
+  * [Data Management](/product/delta-lake-on-databricks)
+  * [Data Warehousing](/product/databricks-sql)
+  * [Real-Time Analytics](/product/data-streaming)
+  * [Data Engineering](/solutions/data-engineering)
+  * [Data Science](/product/data-science)
+
+
+
+Pricing
+
+  * [Pricing Overview](/product/pricing)
+  * [Pricing Calculator](/product/pricing/product-pricing/instance-types)
+
+
+
+Open Source
+
+Integrations and Data
+
+  * [Marketplace](/product/marketplace)
+  * [IDE Integrations](/product/data-science/ide-integrations)
+  * [Partner Connect](/partnerconnect)
+
+
+
+Solutions
+
+Databricks For Industries
+
+  * [Communications](/solutions/industries/communications)
+  * [Financial Services](/solutions/industries/financial-services)
+  * [Healthcare and Life Sciences](/solutions/industries/healthcare-and-life-sciences)
+  * [Manufacturing](/solutions/industries/manufacturing-industry-solutions)
+  * [Media and Entertainment](/solutions/industries/media-and-entertainment)
+  * [Public Sector](/solutions/industries/federal-government)
+  * [Retail](/solutions/industries/retail-industry-solutions)
+  * [View All](/solutions)
+
+
+
+Cross Industry Solutions
+
+  * [Customer Data Platform](/solutions/industries/customer-experience)
+  * [Cyber Security](/solutions/industries/cybersecurity)
+
+
+
+[Data Migration](/solutions/migration)
+
+[Professional Services](/professional-services)
+
+[Solution Accelerators](/solutions/accelerators)
+
+Solutions
+
+Databricks For Industries
+
+  * [Communications](/solutions/industries/communications)
+  * [Financial Services](/solutions/industries/financial-services)
+  * [Healthcare and Life Sciences](/solutions/industries/healthcare-and-life-sciences)
+  * [Manufacturing](/solutions/industries/manufacturing-industry-solutions)
+  * [Media and Entertainment](/solutions/industries/media-and-entertainment)
+  * [Public Sector](/solutions/industries/federal-government)
+  * [Retail](/solutions/industries/retail-industry-solutions)
+  * [View All](/solutions)
+
+
+
+Cross Industry Solutions
+
+  * [Customer Data Platform](/solutions/industries/customer-experience)
+  * [Cyber Security](/solutions/industries/cybersecurity)
+
+
+
+Data Migration
+
+Professional Services
+
+Solution Accelerators
+
+Resources
+
+[Documentation](https://docs.databricks.com/en/index.html)
+
+[Customer Support](https://www.databricks.com/support)
+
+[Community](https://community.databricks.com/)
+
+Training and Certification
+
+  * [Learning Overview](/learn)
+  * [Training Overview](/learn/training/home)
+  * [Certification](https://www.databricks.com/learn/training/certification)
+  * [University Alliance](/university)
+  * [Databricks Academy Login](https://www.databricks.com/learn/training/login)
+
+
+
+Events
+
+  * [Data + AI Summit](/dataaisummit)
+  * [Data + AI World Tour](/dataaisummit/worldtour)
+  * [Data Intelligence Days](/lp/data-intelligence-days)
+  * [Full Calendar](/events)
+
+
+
+Blog and Podcasts
+
+  * [Databricks Blog](/blog)
+  * [Databricks Mosaic Research Blog](https://www.databricks.com/blog/category/generative-ai/mosaic-research)
+  * [Data Brew Podcast](/discover/data-brew)
+  * [Champions of Data & AI Podcast](/discover/champions-of-data-and-ai)
+
+
+
+Resources
+
+Documentation
+
+Customer Support
+
+Community
+
+Training and Certification
+
+  * [Learning Overview](/learn)
+  * [Training Overview](/learn/training/home)
+  * [Certification](https://www.databricks.com/learn/training/certification)
+  * [University Alliance](/university)
+  * [Databricks Academy Login](https://www.databricks.com/learn/training/login)
+
+
+
+Events
+
+  * [Data + AI Summit](/dataaisummit)
+  * [Data + AI World Tour](/dataaisummit/worldtour)
+  * [Data Intelligence Days](/lp/data-intelligence-days)
+  * [Full Calendar](/events)
+
+
+
+Blog and Podcasts
+
+  * [Databricks Blog](/blog)
+  * [Databricks Mosaic Research Blog](https://www.databricks.com/blog/category/generative-ai/mosaic-research)
+  * [Data Brew Podcast](/discover/data-brew)
+  * [Champions of Data & AI Podcast](/discover/champions-of-data-and-ai)
+
+
+
+About
+
+Company
+
+  * [Who We Are](/company/about-us)
+  * [Our Team](/company/leadership-team)
+  * [Databricks Ventures](/databricks-ventures)
+  * [Contact Us](/company/contact)
+
+
+
+Careers
+
+  * [Open Jobs](/company/careers/open-positions)
+  * [Working at Databricks](/company/careers)
+
+
+
+Press
+
+  * [Awards and Recognition](/company/awards-and-recognition)
+  * [Newsroom](/company/newsroom)
+
+
+
+[Security and Trust](/trust)
+
+About
+
+Company
+
+  * [Who We Are](/company/about-us)
+  * [Our Team](/company/leadership-team)
+  * [Databricks Ventures](/databricks-ventures)
+  * [Contact Us](/company/contact)
+
+
+
+Careers
+
+  * [Open Jobs](/company/careers/open-positions)
+  * [Working at Databricks](/company/careers)
+
+
+
+Press
+
+  * [Awards and Recognition](/company/awards-and-recognition)
+  * [Newsroom](/company/newsroom)
+
+
+
+Security and Trust
+
+[![databricks logo](https://www.databricks.com/sites/default/files/2023-08/databricks-default.png?v=1712162038)](https://www.databricks.com/)
+
+Databricks Inc. 160 Spear Street, 15th Floor San Francisco, CA 94105 1-866-330-0121
+
+  * [](https://www.linkedin.com/company/databricks)
+  * [](https://www.facebook.com/pages/Databricks/560203607379694)
+  * [](https://twitter.com/databricks)
+  * [](https://www.databricks.com/feed)
+  * [](https://www.glassdoor.com/Overview/Working-at-Databricks-EI_IE954734.11,21.htm)
+  * [](https://www.youtube.com/@Databricks)
+
+
+
+![](https://www.databricks.com/sites/default/files/2021/02/telco-icon-2.png?v=1715274112)
+
+[See Careers at Databricks](https://www.databricks.com/company/careers)
+
+  * [](https://www.linkedin.com/company/databricks)
+  * [](https://www.facebook.com/pages/Databricks/560203607379694)
+  * [](https://twitter.com/databricks)
+  * [](https://www.databricks.com/feed)
+  * [](https://www.glassdoor.com/Overview/Working-at-Databricks-EI_IE954734.11,21.htm)
+  * [](https://www.youtube.com/@Databricks)
+
+
+
+© Databricks 2025. All rights reserved. Apache, Apache Spark, Spark and the Spark logo are trademarks of the [Apache Software Foundation.](https://www.apache.org/)
+
+  * [Privacy Notice](https://www.databricks.com/legal/privacynotice)
+  * |[Terms of Use](https://www.databricks.com/terms-of-use)
+  * |[Modern Slavery Statement](https://www.databricks.com/legal/modern-slavery-policy-statement)
+  * |[California Privacy](https://www.databricks.com/legal/supplemental-privacy-notice-california-residents)
+  * |[Your Privacy Choices](#yourprivacychoices)
+  * ![](https://www.databricks.com/sites/default/files/2022-12/gpcicon_small.png)
+
+

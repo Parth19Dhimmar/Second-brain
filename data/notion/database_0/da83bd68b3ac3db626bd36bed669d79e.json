@@ -1,0 +1,42 @@
+{
+    "id": "da83bd68b3ac3db626bd36bed669d79e",
+    "metadata": {
+        "id": "da83bd68b3ac3db626bd36bed669d79e",
+        "url": "https://www.notion.so/Document-preprocessing-e-g-HTML-PDF-da83bd68b3ac3db626bd36bed669d79e",
+        "title": "Document preprocessing (e.g., HTML, PDF)",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "eb1fb8b43d99a031219ff1775b226129",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n\t[https://python.langchain.com/docs/how_to/document_loader_pdf/#use-of-multimodal-models](https://python.langchain.com/docs/how_to/document_loader_pdf/#use-of-multimodal-models)\n\t[https://blog.vespa.ai/the-rise-of-vision-driven-document-retrieval-for-rag/](https://blog.vespa.ai/the-rise-of-vision-driven-document-retrieval-for-rag/)\n\t[https://readmedium.com/en/https:/levelup.gitconnected.com/comparing-6-frameworks-for-rule-based-pdf-parsing-f9e7ca5b6cc9](https://readmedium.com/en/https:/levelup.gitconnected.com/comparing-6-frameworks-for-rule-based-pdf-parsing-f9e7ca5b6cc9)\n\n# Models\n\n\t# PDFs\n\t\n\t[https://huggingface.co/vidore/colpali-v1.2](https://huggingface.co/vidore/colpali-v1.2)\n\t[https://huggingface.co/google/paligemma-3b-mix-448](https://huggingface.co/google/paligemma-3b-mix-448)\n\t[https://huggingface.co/mistralai/Pixtral-12B-2409](https://huggingface.co/mistralai/Pixtral-12B-2409)\n\t\n\t# HTML\n\t\n\t[https://huggingface.co/jinaai/ReaderLM-v2](https://huggingface.co/jinaai/ReaderLM-v2)\n\n# Resources [Science]\n\n# Tools\n\n\t# APIs (low code)\n\t\n\t[https://github.com/mendableai/firecrawl](https://github.com/mendableai/firecrawl)\n\t[https://unstructured.io/](https://unstructured.io/)\n\t[https://docs.cloud.llamaindex.ai/llamaparse/getting_started](https://docs.cloud.llamaindex.ai/llamaparse/getting_started)\n\t\n\t# Python packages (code)\n\t\n\t[https://github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)\n\t[https://github.com/DS4SD/docling](https://github.com/DS4SD/docling)\n\t[https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)\n\t[https://pypdf2.readthedocs.io/en/3.x/](https://pypdf2.readthedocs.io/en/3.x/)\n\t[https://github.com/Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)\n\t\n\t[https://github.com/VikParuchuri/marker](https://github.com/VikParuchuri/marker)\n\t[https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html)\n\t[https://github.com/camelot-dev/camelot](https://github.com/camelot-dev/camelot)\n\t\n\t# No-code:\n\t\n\t[https://azure.microsoft.com/en-gb/products/ai-services/ai-document-intelligence](https://azure.microsoft.com/en-gb/products/ai-services/ai-document-intelligence)\n\t\n\t# Enterprise ready\n\t\n\t[https://github.com/NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://github.com/DS4SD/docling/",
+        "https://huggingface.co/jinaai/ReaderLM-v2/",
+        "https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html/",
+        "https://github.com/camelot-dev/camelot/",
+        "https://pypdf2.readthedocs.io/en/3.x/",
+        "https://github.com/Unstructured-IO/unstructured/",
+        "https://github.com/mendableai/firecrawl/",
+        "https://github.com/NVIDIA/nv-ingest/",
+        "https://huggingface.co/google/paligemma-3b-mix-448/",
+        "https://github.com/microsoft/markitdown/",
+        "https://python.langchain.com/docs/how_to/document_loader_pdf/#use-of-multimodal-models/",
+        "https://unstructured.io/",
+        "https://github.com/unclecode/crawl4ai/",
+        "https://huggingface.co/vidore/colpali-v1.2/",
+        "https://docs.cloud.llamaindex.ai/llamaparse/getting_started/",
+        "https://readmedium.com/en/https:/levelup.gitconnected.com/comparing-6-frameworks-for-rule-based-pdf-parsing-f9e7ca5b6cc9/",
+        "https://azure.microsoft.com/en-gb/products/ai-services/ai-document-intelligence/",
+        "https://blog.vespa.ai/the-rise-of-vision-driven-document-retrieval-for-rag/",
+        "https://huggingface.co/mistralai/Pixtral-12B-2409/",
+        "https://github.com/VikParuchuri/marker/"
+    ]
+}

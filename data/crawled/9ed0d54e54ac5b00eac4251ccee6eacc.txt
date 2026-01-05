@@ -1,0 +1,143 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F2a82e2073d10&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav----------------------------------)
+
+Sign up
+
+[Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Faiguys%2Ftextgrad-controlling-llm-behavior-via-text-2a82e2073d10&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](/search?source=---top_nav_layout_nav----------------------------------)
+
+Sign up
+
+[Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Faiguys%2Ftextgrad-controlling-llm-behavior-via-text-2a82e2073d10&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![](https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png)
+
+Member-only story
+
+# TextGrad: Improving Prompting Using AutoGrad
+
+[![Vishal Rajput](https://miro.medium.com/v2/resize:fill:44:44/1*_SakCsysMdqdt--RikCQnw.jpeg)](/@vishal-ai?source=post_page---byline--2a82e2073d10--------------------------------)
+
+[![AIGuys](https://miro.medium.com/v2/resize:fill:24:24/1*Ga9k_bhbMPfyhDP9_zSIyQ.png)](https://medium.com/aiguys?source=post_page---byline--2a82e2073d10--------------------------------)
+
+[Vishal Rajput](/@vishal-ai?source=post_page---byline--2a82e2073d10--------------------------------)
+
+·
+
+[Follow](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F9003acebe0b5&operation=register&redirect=https%3A%2F%2Fmedium.com%2Faiguys%2Ftextgrad-controlling-llm-behavior-via-text-2a82e2073d10&user=Vishal+Rajput&userId=9003acebe0b5&source=post_page-9003acebe0b5--byline--2a82e2073d10---------------------post_header-----------)
+
+Published in
+
+[AIGuys](https://medium.com/aiguys?source=post_page---byline--2a82e2073d10--------------------------------)
+
+·
+
+10 min read
+
+·
+
+Jun 19, 2024
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Faiguys%2F2a82e2073d10&operation=register&redirect=https%3A%2F%2Fmedium.com%2Faiguys%2Ftextgrad-controlling-llm-behavior-via-text-2a82e2073d10&user=Vishal+Rajput&userId=9003acebe0b5&source=---header_actions--2a82e2073d10---------------------clap_footer-----------)
+
+--
+
+4
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2a82e2073d10&operation=register&redirect=https%3A%2F%2Fmedium.com%2Faiguys%2Ftextgrad-controlling-llm-behavior-via-text-2a82e2073d10&source=---header_actions--2a82e2073d10---------------------bookmark_footer-----------)
+
+Share
+
+Last year researchers from Stanford released [**DSPy**](/aiguys/prompt-engineering-is-dead-dspy-is-new-paradigm-for-prompting-c80ba3fc4896), a framework for automatic self prompting, this framework replaces the tedious task of writing human prompts that are often sub-optimal. DSPy was the biggest breakthrough in the LLM space after RAG (Retrieval Augmented Generation). Now these amazing researchers are back with **TextGrad**. It is a powerful framework performing automatic “differentiation” via text.
+
+**TextGrad backpropagates textual feedback provided by LLMs to improve individual components of a compound AI system.** In this framework, LLMs provide rich, general, natural language suggestions to optimize variables in computation graphs, ranging from code snippets to molecular structures. TextGrad showed effectiveness and generality across a diverse range of applications, from question-answering and molecule optimization to radiotherapy treatment planning. So, without further ado, let's go deeper into this awesome paper.
+
+I would highly recommend checking out our DSPy blog before we go further into TextGrad.
+
+## [Prompt Engineering Is Dead: DSPy Is New Paradigm For PromptingDSPy Paradigm: Let’s program — not prompt — LLMsmedium.com](/aiguys/prompt-engineering-is-dead-dspy-is-new-paradigm-for-prompting-c80ba3fc4896?source=post_page-----2a82e2073d10--------------------------------)
+
+Other prompting blogs: [**Self-Rewarding Language Model**](/aiguys/self-rewarding-language-model-4ee23ba67cf4), [**Promptbreeder: Prompting LLMs in a Better Way**](/aiguys/promptbreeder-prompting-llm-in-a-better-way-ddd2fc0a1bc2), and [**Giving self-reflection capabilities to LLMs**](/aiguys/giving-self-reflection-capabilities-to-llms-f8a086423e77)
+
+## Topics Covered
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Faiguys%2F2a82e2073d10&operation=register&redirect=https%3A%2F%2Fmedium.com%2Faiguys%2Ftextgrad-controlling-llm-behavior-via-text-2a82e2073d10&user=Vishal+Rajput&userId=9003acebe0b5&source=---footer_actions--2a82e2073d10---------------------clap_footer-----------)
+
+--
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Faiguys%2F2a82e2073d10&operation=register&redirect=https%3A%2F%2Fmedium.com%2Faiguys%2Ftextgrad-controlling-llm-behavior-via-text-2a82e2073d10&user=Vishal+Rajput&userId=9003acebe0b5&source=---footer_actions--2a82e2073d10---------------------clap_footer-----------)
+
+--
+
+4
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2a82e2073d10&operation=register&redirect=https%3A%2F%2Fmedium.com%2Faiguys%2Ftextgrad-controlling-llm-behavior-via-text-2a82e2073d10&source=---footer_actions--2a82e2073d10---------------------bookmark_footer-----------)
+
+[![AIGuys](https://miro.medium.com/v2/resize:fill:48:48/1*Ga9k_bhbMPfyhDP9_zSIyQ.png)](https://medium.com/aiguys?source=post_page---post_publication_info--2a82e2073d10--------------------------------)
+
+[![AIGuys](https://miro.medium.com/v2/resize:fill:64:64/1*Ga9k_bhbMPfyhDP9_zSIyQ.png)](https://medium.com/aiguys?source=post_page---post_publication_info--2a82e2073d10--------------------------------)
+
+Follow
+
+## [Published in AIGuys](https://medium.com/aiguys?source=post_page---post_publication_info--2a82e2073d10--------------------------------)
+
+[3.1K Followers](/aiguys/followers?source=post_page---post_publication_info--2a82e2073d10--------------------------------)
+
+·[Last published 8 hours ago](/aiguys/understanding-agnetic-frameworks-b598199c0633?source=post_page---post_publication_info--2a82e2073d10--------------------------------)
+
+Deflating the AI hype and bringing real research and insights on the latest SOTA AI research papers. We at AIGuys believe in quality over quantity and are always looking to create more nuanced and detail oriented content.
+
+Follow
+
+[![Vishal Rajput](https://miro.medium.com/v2/resize:fill:48:48/1*_SakCsysMdqdt--RikCQnw.jpeg)](/@vishal-ai?source=post_page---post_author_info--2a82e2073d10--------------------------------)
+
+[![Vishal Rajput](https://miro.medium.com/v2/resize:fill:64:64/1*_SakCsysMdqdt--RikCQnw.jpeg)](/@vishal-ai?source=post_page---post_author_info--2a82e2073d10--------------------------------)
+
+Follow
+
+## [Written by Vishal Rajput](/@vishal-ai?source=post_page---post_author_info--2a82e2073d10--------------------------------)
+
+[18.9K Followers](/@vishal-ai/followers?source=post_page---post_author_info--2a82e2073d10--------------------------------)
+
+·[93 Following](/@vishal-ai/following?source=post_page---post_author_info--2a82e2073d10--------------------------------)
+
+3x🏆Top writer in AI | AI Book 📓: <https://rb.gy/xc8m46> | LinkedIn +: <https://www.linkedin.com/in/vishal-rajput-999164122/> | 𝕏: <https://x.com/RealAIGuys>
+
+Follow
+
+## Responses (4)
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--2a82e2073d10--------------------------------)
+
+[What are your thoughts?](/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Faiguys%2Ftextgrad-controlling-llm-behavior-via-text-2a82e2073d10&source=---post_responses--2a82e2073d10---------------------respond_sidebar-----------)
+
+Also publish to my profile
+
+Respond
+
+Respond
+
+See all responses
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----2a82e2073d10--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----2a82e2073d10--------------------------------)
+
+[About](/about?autoplay=1&source=post_page-----2a82e2073d10--------------------------------)
+
+[Careers](/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----2a82e2073d10--------------------------------)
+
+[Press](pressinquiries@medium.com?source=post_page-----2a82e2073d10--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----2a82e2073d10--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----2a82e2073d10--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----2a82e2073d10--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----2a82e2073d10--------------------------------)
+
+[Teams](/business?source=post_page-----2a82e2073d10--------------------------------)

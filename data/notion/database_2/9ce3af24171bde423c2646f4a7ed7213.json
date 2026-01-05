@@ -1,0 +1,26 @@
+{
+    "id": "9ce3af24171bde423c2646f4a7ed7213",
+    "metadata": {
+        "id": "9ce3af24171bde423c2646f4a7ed7213",
+        "url": "https://www.notion.so/Databases-9ce3af24171bde423c2646f4a7ed7213",
+        "title": "📙 Databases",
+        "properties": {
+            "Type": "Node"
+        }
+    },
+    "parent_metadata": {
+        "id": "1bcdfbd4ab8aa23b96cdbf6dfccf3f56",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Key Value\n\n\t[https://www.rondb.com/](https://www.rondb.com/)\n\n# NoSQL\n\n\t[https://aerospike.com/](https://aerospike.com/)\n\n# Local \n\n\t[https://duckdb.org/](https://duckdb.org/)\n\t[https://www.sqlite.org/](https://www.sqlite.org/)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://www.sqlite.org/",
+        "https://duckdb.org/",
+        "https://aerospike.com/",
+        "https://www.rondb.com/"
+    ]
+}

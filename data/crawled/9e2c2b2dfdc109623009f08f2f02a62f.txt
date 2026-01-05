@@ -1,0 +1,501 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fmarkitdown%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fmarkitdown%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=microsoft%2Fmarkitdown) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ microsoft ](/microsoft) / **[markitdown](/microsoft/markitdown) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fmicrosoft%2Fmarkitdown) You must be signed in to change notification settings
+  * [ Fork 1.6k ](/login?return_to=%2Fmicrosoft%2Fmarkitdown)
+  * [ Star  35.3k ](/login?return_to=%2Fmicrosoft%2Fmarkitdown)
+
+
+
+
+Python tool for converting files and office documents to Markdown. 
+
+### License
+
+[ MIT license ](/microsoft/markitdown/blob/main/LICENSE)
+
+[ 35.3k stars ](/microsoft/markitdown/stargazers) [ 1.6k forks ](/microsoft/markitdown/forks) [ Branches ](/microsoft/markitdown/branches) [ Tags ](/microsoft/markitdown/tags) [ Activity ](/microsoft/markitdown/activity)
+
+[ Star  ](/login?return_to=%2Fmicrosoft%2Fmarkitdown)
+
+[ Notifications ](/login?return_to=%2Fmicrosoft%2Fmarkitdown) You must be signed in to change notification settings
+
+  * [ Code ](/microsoft/markitdown)
+  * [ Issues 117 ](/microsoft/markitdown/issues)
+  * [ Pull requests 44 ](/microsoft/markitdown/pulls)
+  * [ Discussions ](/microsoft/markitdown/discussions)
+  * [ Actions ](/microsoft/markitdown/actions)
+  * [ Projects 0 ](/microsoft/markitdown/projects)
+  * [ Security ](/microsoft/markitdown/security)
+  * [ Insights ](/microsoft/markitdown/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/microsoft/markitdown)
+  * [ Issues  ](/microsoft/markitdown/issues)
+  * [ Pull requests  ](/microsoft/markitdown/pulls)
+  * [ Discussions  ](/microsoft/markitdown/discussions)
+  * [ Actions  ](/microsoft/markitdown/actions)
+  * [ Projects  ](/microsoft/markitdown/projects)
+  * [ Security  ](/microsoft/markitdown/security)
+  * [ Insights  ](/microsoft/markitdown/pulse)
+
+
+
+# microsoft/markitdown
+
+main
+
+[**4** Branches](/microsoft/markitdown/branches)[**2** Tags](/microsoft/markitdown/tags)
+
+[](/microsoft/markitdown/branches)[](/microsoft/markitdown/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![afourney](https://avatars.githubusercontent.com/u/4017093?v=4&size=40)](/afourney)[afourney](/microsoft/markitdown/commits?author=afourney)[Set exiftool path explicitly. (](/microsoft/markitdown/commit/f58a864951da6c720d3e10987371133c67db296a)[#267](https://github.com/microsoft/markitdown/pull/267)[)](/microsoft/markitdown/commit/f58a864951da6c720d3e10987371133c67db296a)Jan 6, 2025[f58a864](/microsoft/markitdown/commit/f58a864951da6c720d3e10987371133c67db296a) · Jan 6, 2025
+
+## History
+
+[195 Commits](/microsoft/markitdown/commits/main/)[](/microsoft/markitdown/commits/main/)  
+[.devcontainer](/microsoft/markitdown/tree/main/.devcontainer ".devcontainer")| [.devcontainer](/microsoft/markitdown/tree/main/.devcontainer ".devcontainer")| [feat: enable Git support in devcontainer (](/microsoft/markitdown/commit/f94d09990ef6ccb9d7d94800dbec4b5068504055 "feat: enable Git support in devcontainer \(#136\)
+Co-authored-by: gagb <gagb@users.noreply.github.com>")[#136](https://github.com/microsoft/markitdown/pull/136)[)](/microsoft/markitdown/commit/f94d09990ef6ccb9d7d94800dbec4b5068504055 "feat: enable Git support in devcontainer \(#136\)
+Co-authored-by: gagb <gagb@users.noreply.github.com>")| Dec 21, 2024  
+[.github](/microsoft/markitdown/tree/main/.github ".github")| [.github](/microsoft/markitdown/tree/main/.github ".github")| [Bump actions/setup-python from 2 to 5 (](/microsoft/markitdown/commit/73161982fff4bf6755e706496e4d090f4cafe77c "Bump actions/setup-python from 2 to 5 \(#179\)
+Bumps \[actions/setup-python\]\(https://github.com/actions/setup-python\) from 2 to 5.
+- \[Release notes\]\(https://github.com/actions/setup-python/releases\)
+- \[Commits\]\(https://github.com/actions/setup-python/compare/v2...v5\)
+---
+updated-dependencies:
+- dependency-name: actions/setup-python
+ dependency-type: direct:production
+ update-type: version-update:semver-major
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>
+Co-authored-by: afourney <adamfo@microsoft.com>")[#179](https://github.com/microsoft/markitdown/pull/179)[)](/microsoft/markitdown/commit/73161982fff4bf6755e706496e4d090f4cafe77c "Bump actions/setup-python from 2 to 5 \(#179\)
+Bumps \[actions/setup-python\]\(https://github.com/actions/setup-python\) from 2 to 5.
+- \[Release notes\]\(https://github.com/actions/setup-python/releases\)
+- \[Commits\]\(https://github.com/actions/setup-python/compare/v2...v5\)
+---
+updated-dependencies:
+- dependency-name: actions/setup-python
+ dependency-type: direct:production
+ update-type: version-update:semver-major
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>
+Co-authored-by: afourney <adamfo@microsoft.com>")| Dec 21, 2024  
+[src/markitdown](/microsoft/markitdown/tree/main/src/markitdown "This path skips through empty directories")| [src/markitdown](/microsoft/markitdown/tree/main/src/markitdown "This path skips through empty directories")| [Set exiftool path explicitly. (](/microsoft/markitdown/commit/f58a864951da6c720d3e10987371133c67db296a "Set exiftool path explicitly. \(#267\)")[#267](https://github.com/microsoft/markitdown/pull/267)[)](/microsoft/markitdown/commit/f58a864951da6c720d3e10987371133c67db296a "Set exiftool path explicitly. \(#267\)")| Jan 6, 2025  
+[tests](/microsoft/markitdown/tree/main/tests "tests")| [tests](/microsoft/markitdown/tree/main/tests "tests")| [Set exiftool path explicitly. (](/microsoft/markitdown/commit/f58a864951da6c720d3e10987371133c67db296a "Set exiftool path explicitly. \(#267\)")[#267](https://github.com/microsoft/markitdown/pull/267)[)](/microsoft/markitdown/commit/f58a864951da6c720d3e10987371133c67db296a "Set exiftool path explicitly. \(#267\)")| Jan 6, 2025  
+[.dockerignore](/microsoft/markitdown/blob/main/.dockerignore ".dockerignore")| [.dockerignore](/microsoft/markitdown/blob/main/.dockerignore ".dockerignore")| [Added Docker Image for using markitdown in a sandboxed environment](/microsoft/markitdown/commit/013b022427d274d4b61ed0d6bef9cefe59ccb375 "Added Docker Image for using markitdown in a sandboxed environment")| Dec 16, 2024  
+[.gitattributes](/microsoft/markitdown/blob/main/.gitattributes ".gitattributes")| [.gitattributes](/microsoft/markitdown/blob/main/.gitattributes ".gitattributes")| [Create .gitattributes](/microsoft/markitdown/commit/3548c96dd36836b148d4d376e4c55fdeba5a6343 "Create .gitattributes
+Mark test files as linguist-vendored")| Dec 16, 2024  
+[.gitignore](/microsoft/markitdown/blob/main/.gitignore ".gitignore")| [.gitignore](/microsoft/markitdown/blob/main/.gitignore ".gitignore")| [Merge branch 'main' into update_commandline_help](/microsoft/markitdown/commit/6f3c762526b87894d3859eb6df0341f0571a6e2a "Merge branch 'main' into update_commandline_help")| Dec 19, 2024  
+[.pre-commit-config.yaml](/microsoft/markitdown/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/microsoft/markitdown/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Initial commit.](/microsoft/markitdown/commit/f20c964f990fbdf14408e8f3876b68b3f2ea8eb0 "Initial commit.")| Nov 13, 2024  
+[CODE_OF_CONDUCT.md](/microsoft/markitdown/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/microsoft/markitdown/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md committed](/microsoft/markitdown/commit/1e22c8e989399b56c0df95a002bdaafbad45fe39 "CODE_OF_CONDUCT.md committed")| Nov 13, 2024  
+[Dockerfile](/microsoft/markitdown/blob/main/Dockerfile "Dockerfile")| [Dockerfile](/microsoft/markitdown/blob/main/Dockerfile "Dockerfile")| [feat: enable Git support in devcontainer (](/microsoft/markitdown/commit/f94d09990ef6ccb9d7d94800dbec4b5068504055 "feat: enable Git support in devcontainer \(#136\)
+Co-authored-by: gagb <gagb@users.noreply.github.com>")[#136](https://github.com/microsoft/markitdown/pull/136)[)](/microsoft/markitdown/commit/f94d09990ef6ccb9d7d94800dbec4b5068504055 "feat: enable Git support in devcontainer \(#136\)
+Co-authored-by: gagb <gagb@users.noreply.github.com>")| Dec 21, 2024  
+[LICENSE](/microsoft/markitdown/blob/main/LICENSE "LICENSE")| [LICENSE](/microsoft/markitdown/blob/main/LICENSE "LICENSE")| [LICENSE committed](/microsoft/markitdown/commit/bc978beb97767d44fa2c965dc18d4989d67ccacd "LICENSE committed")| Nov 13, 2024  
+[README.md](/microsoft/markitdown/blob/main/README.md "README.md")| [README.md](/microsoft/markitdown/blob/main/README.md "README.md")| [Removed the holiday away message from README.md (](/microsoft/markitdown/commit/265aea2edf31bf1b022992e59f0ade1e54903aee "Removed the holiday away message from README.md \(#266\)")[#266](https://github.com/microsoft/markitdown/pull/266)[)](/microsoft/markitdown/commit/265aea2edf31bf1b022992e59f0ade1e54903aee "Removed the holiday away message from README.md \(#266\)")| Jan 6, 2025  
+[SECURITY.md](/microsoft/markitdown/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md](/microsoft/markitdown/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md committed](/microsoft/markitdown/commit/9bc7e2bed3c62d332dff8b53dc28423a675fe818 "SECURITY.md committed")| Nov 13, 2024  
+[SUPPORT.md](/microsoft/markitdown/blob/main/SUPPORT.md "SUPPORT.md")| [SUPPORT.md](/microsoft/markitdown/blob/main/SUPPORT.md "SUPPORT.md")| [SUPPORT.md committed](/microsoft/markitdown/commit/67fec846183b381dadf5e083b2bfb7e305b63596 "SUPPORT.md committed")| Nov 13, 2024  
+[pyproject.toml](/microsoft/markitdown/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/microsoft/markitdown/blob/main/pyproject.toml "pyproject.toml")| [Feature/ Add xls support (](/microsoft/markitdown/commit/08ed32869eae01d0b7c39944a092b90221f81ae6 "Feature/ Add xls support \(#169\)
+* add xlrd
+* add xls converter with tests")[#169](https://github.com/microsoft/markitdown/pull/169)[)](/microsoft/markitdown/commit/08ed32869eae01d0b7c39944a092b90221f81ae6 "Feature/ Add xls support \(#169\)
+* add xlrd
+* add xls converter with tests")| Jan 3, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+# MarkItDown
+
+[](#markitdown)
+
+[![PyPI](https://camo.githubusercontent.com/dc0da41c73f99c7f5844824f7b1f162a234d34d9d91862138c3d5d635a6caf05/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f6d61726b6974646f776e2e737667)](https://pypi.org/project/markitdown/) [![PyPI - Downloads](https://camo.githubusercontent.com/f0fc71dd711009ab40f97028f91deb005628d978f2ee6b85721c0382177d0de2/68747470733a2f2f696d672e736869656c64732e696f2f707970692f64642f6d61726b6974646f776e)](https://camo.githubusercontent.com/f0fc71dd711009ab40f97028f91deb005628d978f2ee6b85721c0382177d0de2/68747470733a2f2f696d672e736869656c64732e696f2f707970692f64642f6d61726b6974646f776e) [![Built by AutoGen Team](https://camo.githubusercontent.com/8ae6370b68c34b66768191de769f8cc1995cdf9133678230a30e9b6b090cb131/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275696c7425323062792d4175746f47656e2532305465616d2d626c7565)](https://github.com/microsoft/autogen)
+
+MarkItDown is a utility for converting various files to Markdown (e.g., for indexing, text analysis, etc). It supports:
+
+  * PDF
+  * PowerPoint
+  * Word
+  * Excel
+  * Images (EXIF metadata and OCR)
+  * Audio (EXIF metadata and speech transcription)
+  * HTML
+  * Text-based formats (CSV, JSON, XML)
+  * ZIP files (iterates over contents)
+
+
+
+To install MarkItDown, use pip: `pip install markitdown`. Alternatively, you can install it from the source: `pip install -e .`
+
+## Usage
+
+[](#usage)
+
+### Command-Line
+
+[](#command-line)
+
+```
+markitdown path-to-file.pdf > document.md
+```
+
+Or use `-o` to specify the output file:
+
+```
+markitdown path-to-file.pdf -o document.md
+```
+
+You can also pipe content:
+
+```
+cat path-to-file.pdf | markitdown
+```
+
+### Python API
+
+[](#python-api)
+
+Basic usage in Python:
+
+```
+from markitdown import MarkItDown md = MarkItDown() result = md.convert("test.xlsx") print(result.text_content)
+```
+
+To use Large Language Models for image descriptions, provide `llm_client` and `llm_model`:
+
+```
+from markitdown import MarkItDown from openai import OpenAI client = OpenAI() md = MarkItDown(llm_client=client, llm_model="gpt-4o") result = md.convert("example.jpg") print(result.text_content)
+```
+
+### Docker
+
+[](#docker)
+
+```
+docker build -t markitdown:latest . docker run --rm -i markitdown:latest < ~/your-file.pdf > output.md
+```
+
+Batch Processing Multiple Files
+
+This example shows how to convert multiple files to markdown format in a single run. The script processes all supported files in a directory and creates corresponding markdown files.
+
+```
+from markitdown import MarkItDown from openai import OpenAI import os client = OpenAI(api_key="your-api-key-here") md = MarkItDown(llm_client=client, llm_model="gpt-4o-2024-11-20") supported_extensions = ('.pptx', '.docx', '.pdf', '.jpg', '.jpeg', '.png') files_to_convert = [f for f in os.listdir('.') if f.lower().endswith(supported_extensions)] for file in files_to_convert: print(f"\nConverting {file}...") try: md_file = os.path.splitext(file)[0] + '.md' result = md.convert(file) with open(md_file, 'w') as f: f.write(result.text_content) print(f"Successfully converted {file} to {md_file}") except Exception as e: print(f"Error converting {file}: {str(e)}") print("\nAll conversions completed!")
+```
+
+  1. Place the script in the same directory as your files
+  2. Install required packages: like openai
+  3. Run script `bash python convert.py `
+
+
+
+Note that original files will remain unchanged and new markdown files are created with the same base name.
+
+## Contributing
+
+[](#contributing)
+
+This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit <https://cla.opensource.microsoft.com>.
+
+When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments.
+
+### How to Contribute
+
+[](#how-to-contribute)
+
+You can help by looking at issues or helping review PRs. Any issue or PR is welcome, but we have also marked some as 'open for contribution' and 'open for reviewing' to help facilitate community contributions. These are ofcourse just suggestions and you are welcome to contribute in any way you like.
+
+All | Especially Needs Help from Community  
+---|---  
+**Issues** | [All Issues](https://github.com/microsoft/markitdown/issues) | [Issues open for contribution](https://github.com/microsoft/markitdown/issues?q=is%3Aissue+is%3Aopen+label%3A%22open+for+contribution%22)  
+**PRs** | [All PRs](https://github.com/microsoft/markitdown/pulls) | [PRs open for reviewing](https://github.com/microsoft/markitdown/pulls?q=is%3Apr+is%3Aopen+label%3A%22open+for+reviewing%22)  
+  
+### Running Tests and Checks
+
+[](#running-tests-and-checks)
+
+  * Install `hatch` in your environment and run tests:
+
+```
+pip install hatch # Other ways of installing hatch: https://hatch.pypa.io/dev/install/ hatch shell hatch test
+```
+
+(Alternative) Use the Devcontainer which has all the dependencies installed:
+
+```
+# Reopen the project in Devcontainer and run: hatch test
+```
+
+  * Run pre-commit checks before submitting a PR: `pre-commit run --all-files`
+
+
+
+
+## Trademarks
+
+[](#trademarks)
+
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general). Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+## About
+
+Python tool for converting files and office documents to Markdown. 
+
+### Topics
+
+[ markdown ](/topics/markdown "Topic: markdown") [ pdf ](/topics/pdf "Topic: pdf") [ openai ](/topics/openai "Topic: openai") [ microsoft-office ](/topics/microsoft-office "Topic: microsoft-office") [ autogen ](/topics/autogen "Topic: autogen") [ langchain ](/topics/langchain "Topic: langchain") [ autogen-extension ](/topics/autogen-extension "Topic: autogen-extension")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/microsoft/markitdown/activity)
+
+[ Custom properties](/microsoft/markitdown/custom-properties)
+
+### Stars
+
+[ **35.3k** stars](/microsoft/markitdown/stargazers)
+
+### Watchers
+
+[ **131** watching](/microsoft/markitdown/watchers)
+
+### Forks
+
+[ **1.6k** forks](/microsoft/markitdown/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fmarkitdown&report=microsoft+%28user%29)
+
+##  [Releases](/microsoft/markitdown/releases)
+
+[ 2 tags ](/microsoft/markitdown/tags)
+
+##  [Packages 0](/orgs/microsoft/packages?repo_name=markitdown)
+
+No packages published 
+
+##  [Used by 286](/microsoft/markitdown/network/dependents)
+
+[
+
+  * ![@speters9](https://avatars.githubusercontent.com/u/130873059?s=64&v=4)
+  * ![@MCP-Mirror](https://avatars.githubusercontent.com/u/192820360?s=64&v=4)
+  * ![@MCP-Mirror](https://avatars.githubusercontent.com/u/192820360?s=64&v=4)
+  * ![@gishnucodes](https://avatars.githubusercontent.com/u/142046825?s=64&v=4)
+  * ![@jhoetter](https://avatars.githubusercontent.com/u/62521561?s=64&v=4)
+  * ![@chadrwalters](https://avatars.githubusercontent.com/u/6431199?s=64&v=4)
+  * ![@Hiep264](https://avatars.githubusercontent.com/u/129298066?s=64&v=4)
+  * ![@feiwangai](https://avatars.githubusercontent.com/u/178465635?s=64&v=4)
+
++ 278  ](/microsoft/markitdown/network/dependents)
+
+##  [Contributors 32](/microsoft/markitdown/graphs/contributors)
+
+  * [ ![@gagb](https://avatars.githubusercontent.com/u/13227607?s=64&v=4) ](https://github.com/gagb)
+  * [ ![@afourney](https://avatars.githubusercontent.com/u/4017093?s=64&v=4) ](https://github.com/afourney)
+  * [ ![@sugatoray](https://avatars.githubusercontent.com/u/10201242?s=64&v=4) ](https://github.com/sugatoray)
+  * [ ![@PetrAPConsulting](https://avatars.githubusercontent.com/u/173082609?s=64&v=4) ](https://github.com/PetrAPConsulting)
+  * [ ![@l-lumin](https://avatars.githubusercontent.com/u/71011125?s=64&v=4) ](https://github.com/l-lumin)
+  * [ ![@Josh-XT](https://avatars.githubusercontent.com/u/102809327?s=64&v=4) ](https://github.com/Josh-XT)
+  * [ ![@Soulter](https://avatars.githubusercontent.com/u/37870767?s=64&v=4) ](https://github.com/Soulter)
+  * [ ![@microsoftopensource](https://avatars.githubusercontent.com/u/22527892?s=64&v=4) ](https://github.com/microsoftopensource)
+  * [ ![@AumGupta](https://avatars.githubusercontent.com/u/86357151?s=64&v=4) ](https://github.com/AumGupta)
+  * [ ![@simonw](https://avatars.githubusercontent.com/u/9599?s=64&v=4) ](https://github.com/simonw)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@madduci](https://avatars.githubusercontent.com/u/371042?s=64&v=4) ](https://github.com/madduci)
+  * [ ![@VillePuuska](https://avatars.githubusercontent.com/u/40150442?s=64&v=4) ](https://github.com/VillePuuska)
+  * [ ![@SH4DOW4RE](https://avatars.githubusercontent.com/u/57642007?s=64&v=4) ](https://github.com/SH4DOW4RE)
+
+
+
+[+ 18 contributors](/microsoft/markitdown/graphs/contributors)
+
+## Languages
+
+  * [ Python 99.4% ](/microsoft/markitdown/search?l=python)
+  * [ Dockerfile 0.6% ](/microsoft/markitdown/search?l=dockerfile)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

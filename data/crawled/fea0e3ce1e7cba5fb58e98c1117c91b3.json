@@ -1,0 +1,24 @@
+{
+    "id": "fea0e3ce1e7cba5fb58e98c1117c91b3",
+    "metadata": {
+        "id": "fea0e3ce1e7cba5fb58e98c1117c91b3",
+        "url": "https://www.notion.so/Merging-fea0e3ce1e7cba5fb58e98c1117c91b3",
+        "title": "Merging",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "69f633f89930c7d4001f5e49b191fd4c",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n\t[https://towardsdatascience.com/create-mixtures-of-experts-with-mergekit-11b318c99562](https://towardsdatascience.com/create-mixtures-of-experts-with-mergekit-11b318c99562)\n\n# Resources [Science]\n\n# Tools\n\n\t[https://github.com/arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://towardsdatascience.com/create-mixtures-of-experts-with-mergekit-11b318c99562/",
+        "https://github.com/arcee-ai/mergekit/"
+    ]
+}

@@ -1,0 +1,845 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fembeddings-benchmark%2Fmteb%2Ftree%2Fmain%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fembeddings-benchmark%2Fmteb%2Ftree%2Fmain%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=embeddings-benchmark%2Fmteb) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ embeddings-benchmark ](/embeddings-benchmark) / **[mteb](/embeddings-benchmark/mteb) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fembeddings-benchmark%2Fmteb) You must be signed in to change notification settings
+  * [ Fork 308 ](/login?return_to=%2Fembeddings-benchmark%2Fmteb)
+  * [ Star  2.1k ](/login?return_to=%2Fembeddings-benchmark%2Fmteb)
+
+
+
+
+MTEB: Massive Text Embedding Benchmark 
+
+[arxiv.org/abs/2210.07316](https://arxiv.org/abs/2210.07316 "https://arxiv.org/abs/2210.07316")
+
+### License
+
+[ Apache-2.0 license ](/embeddings-benchmark/mteb/blob/main/LICENSE)
+
+[ 2.1k stars ](/embeddings-benchmark/mteb/stargazers) [ 308 forks ](/embeddings-benchmark/mteb/forks) [ Branches ](/embeddings-benchmark/mteb/branches) [ Tags ](/embeddings-benchmark/mteb/tags) [ Activity ](/embeddings-benchmark/mteb/activity)
+
+[ Star  ](/login?return_to=%2Fembeddings-benchmark%2Fmteb)
+
+[ Notifications ](/login?return_to=%2Fembeddings-benchmark%2Fmteb) You must be signed in to change notification settings
+
+  * [ Code ](/embeddings-benchmark/mteb)
+  * [ Issues 161 ](/embeddings-benchmark/mteb/issues)
+  * [ Pull requests 25 ](/embeddings-benchmark/mteb/pulls)
+  * [ Discussions ](/embeddings-benchmark/mteb/discussions)
+  * [ Actions ](/embeddings-benchmark/mteb/actions)
+  * [ Security ](/embeddings-benchmark/mteb/security)
+  * [ Insights ](/embeddings-benchmark/mteb/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/embeddings-benchmark/mteb)
+  * [ Issues  ](/embeddings-benchmark/mteb/issues)
+  * [ Pull requests  ](/embeddings-benchmark/mteb/pulls)
+  * [ Discussions  ](/embeddings-benchmark/mteb/discussions)
+  * [ Actions  ](/embeddings-benchmark/mteb/actions)
+  * [ Security  ](/embeddings-benchmark/mteb/security)
+  * [ Insights  ](/embeddings-benchmark/mteb/pulse)
+
+
+
+# embeddings-benchmark/mteb
+
+main
+
+[**36** Branches](/embeddings-benchmark/mteb/branches)[**435** Tags](/embeddings-benchmark/mteb/tags)
+
+[](/embeddings-benchmark/mteb/branches)[](/embeddings-benchmark/mteb/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+## History
+
+[2,505 Commits](/embeddings-benchmark/mteb/commits/main/)[](/embeddings-benchmark/mteb/commits/main/)  
+[.github](/embeddings-benchmark/mteb/tree/main/.github ".github")| [.github](/embeddings-benchmark/mteb/tree/main/.github ".github")| [doc: update pr template (](/embeddings-benchmark/mteb/commit/95714d06da6a06969e92526262d57f718e840c21 "doc: update pr template \(#1871\)
+* doc: update pr template
+* group testing & add: do not delete
+---------
+Co-authored-by: sam021313 <40773225+sam021313@users.noreply.github.com>")[#1871](https://github.com/embeddings-benchmark/mteb/pull/1871)[)](/embeddings-benchmark/mteb/commit/95714d06da6a06969e92526262d57f718e840c21 "doc: update pr template \(#1871\)
+* doc: update pr template
+* group testing & add: do not delete
+---------
+Co-authored-by: sam021313 <40773225+sam021313@users.noreply.github.com>")| Jan 26, 2025  
+[.vscode](/embeddings-benchmark/mteb/tree/main/.vscode ".vscode")| [.vscode](/embeddings-benchmark/mteb/tree/main/.vscode ".vscode")| [dev: add ruff as suggested extension (](/embeddings-benchmark/mteb/commit/b08913f8616c580f8bbb15bfa808549e2b74912a "dev: add ruff as suggested extension \(#274\)")[#274](https://github.com/embeddings-benchmark/mteb/pull/274)[)](/embeddings-benchmark/mteb/commit/b08913f8616c580f8bbb15bfa808549e2b74912a "dev: add ruff as suggested extension \(#274\)")| Mar 21, 2024  
+[docs](/embeddings-benchmark/mteb/tree/main/docs "docs")| [docs](/embeddings-benchmark/mteb/tree/main/docs "docs")| [Update tasks table](/embeddings-benchmark/mteb/commit/57db0f9492928c4653d37b1699cb86223c894517 "Update tasks table")| Feb 1, 2025  
+[mteb](/embeddings-benchmark/mteb/tree/main/mteb "mteb")| [mteb](/embeddings-benchmark/mteb/tree/main/mteb "mteb")| [misc: add bgev1 models (](/embeddings-benchmark/mteb/commit/e16acf8c7239eb2be9633b3df5fcd9a96b21a52a "misc: add bgev1 models \(#1928\)
+* add bgev1 models
+* add bge-*-en
+* fix naming")[#1928](https://github.com/embeddings-benchmark/mteb/pull/1928)[)](/embeddings-benchmark/mteb/commit/e16acf8c7239eb2be9633b3df5fcd9a96b21a52a "misc: add bgev1 models \(#1928\)
+* add bgev1 models
+* add bge-*-en
+* fix naming")| Feb 4, 2025  
+[scripts](/embeddings-benchmark/mteb/tree/main/scripts "scripts")| [scripts](/embeddings-benchmark/mteb/tree/main/scripts "scripts")| [fix: Add reported annotation and re-added public_training_data (](/embeddings-benchmark/mteb/commit/a7a8144a6964641614c7d407e43c75ab5b7c40ca "fix: Add reported annotation and re-added public_training_data \(#1846\)
+* fix: Add additional dataset annotations
+* fix: readded public training data
+* update voyage annotations")[#1846](https://github.com/embeddings-benchmark/mteb/pull/1846)[)](/embeddings-benchmark/mteb/commit/a7a8144a6964641614c7d407e43c75ab5b7c40ca "fix: Add reported annotation and re-added public_training_data \(#1846\)
+* fix: Add additional dataset annotations
+* fix: readded public training data
+* update voyage annotations")| Jan 21, 2025  
+[tests](/embeddings-benchmark/mteb/tree/main/tests "tests")| [tests](/embeddings-benchmark/mteb/tree/main/tests "tests")| [Feat: Add FaMTEB (Farsi/Persian Text Embedding Benchmark) (](/embeddings-benchmark/mteb/commit/f3404b4b13377431c6d251926f13e338bc9f9b65 "Feat: Add FaMTEB \(Farsi/Persian Text Embedding Benchmark\) \(#1843\)
+* Add Summary Retrieval Task
+* Add FaMTEBClassification
+* Add FaMTEBClustering
+* Add FaMTEBPairClassification
+* Add FaMTEBRetrieval and BEIRFA and FaMTEBSTS
+* Add FaMTEBSummaryRetrieval
+* Add FaMTEB to benchmarks
+* fix benchmark names
+* temporary fix metadata
+* Fix dataset revisions
+* Update SummaryRetrievalEvaluator.py
+* Update task files
+* Update task files
+* add data domain and subtask description
+* Update AbsTaskSummaryRetrieval and FaMTEBSummaryRetrieval
+* Update AbsTaskSummaryRetrieval
+* Add mock task
+* Update AbsTaskSummaryRetrieval
+* Update AbsTaskSummaryRetrieval
+* make lint
+* Refactor SummaryRetrieval to subclass BitextMining
+* Add aggregated datasets
+---------
+Co-authored-by: mehran <mehan.sarmadi16@gmail.com>
+Co-authored-by: e.zeinivand <zeinivand@ymail.com>
+Co-authored-by: Erfun76 <59398902+Erfun76@users.noreply.github.com>")[#1843](https://github.com/embeddings-benchmark/mteb/pull/1843)[)](/embeddings-benchmark/mteb/commit/f3404b4b13377431c6d251926f13e338bc9f9b65 "Feat: Add FaMTEB \(Farsi/Persian Text Embedding Benchmark\) \(#1843\)
+* Add Summary Retrieval Task
+* Add FaMTEBClassification
+* Add FaMTEBClustering
+* Add FaMTEBPairClassification
+* Add FaMTEBRetrieval and BEIRFA and FaMTEBSTS
+* Add FaMTEBSummaryRetrieval
+* Add FaMTEB to benchmarks
+* fix benchmark names
+* temporary fix metadata
+* Fix dataset revisions
+* Update SummaryRetrievalEvaluator.py
+* Update task files
+* Update task files
+* add data domain and subtask description
+* Update AbsTaskSummaryRetrieval and FaMTEBSummaryRetrieval
+* Update AbsTaskSummaryRetrieval
+* Add mock task
+* Update AbsTaskSummaryRetrieval
+* Update AbsTaskSummaryRetrieval
+* make lint
+* Refactor SummaryRetrieval to subclass BitextMining
+* Add aggregated datasets
+---------
+Co-authored-by: mehran <mehan.sarmadi16@gmail.com>
+Co-authored-by: e.zeinivand <zeinivand@ymail.com>
+Co-authored-by: Erfun76 <59398902+Erfun76@users.noreply.github.com>")| Jan 30, 2025  
+[.gitignore](/embeddings-benchmark/mteb/blob/main/.gitignore ".gitignore")| [.gitignore](/embeddings-benchmark/mteb/blob/main/.gitignore ".gitignore")| [fix: Allow aggregated tasks within benchmarks (](/embeddings-benchmark/mteb/commit/8fb59a49b00e7932abec42c045c1cc068c7eba41 "fix: Allow aggregated tasks within benchmarks \(#1771\)
+* fix: Allow aggregated tasks within benchmarks
+Fixes #1231
+* feat: Update task filtering, fixing bug on MTEB
+- Updated task filtering adding exclusive_language_filter and hf_subset
+- fix bug in MTEB where cross-lingual splits were included
+- added missing language filtering to MTEB\(europe, beta\) and MTEB\(indic, beta\)
+The following code outlines the problems:
+```py
+import mteb
+from mteb.benchmarks import MTEB_ENG_CLASSIC
+task = \[t for t in MTEB_ENG_CLASSIC.tasks if t.metadata.name == "STS22"\]\[0\]
+# was eq. to:
+task = mteb.get_task\("STS22", languages=\["eng"\]\)
+task.hf_subsets
+# correct filtering to English datasets:
+# \['en', 'de-en', 'es-en', 'pl-en', 'zh-en'\]
+# However it should be:
+# \['en'\]
+# with the changes it is:
+task = \[t for t in MTEB_ENG_CLASSIC.tasks if t.metadata.name == "STS22"\]\[0\]
+task.hf_subsets
+# \['en'\]
+# eq. to
+task = mteb.get_task\("STS22", hf_subsets=\["en"\]\)
+# which you can also obtain using the exclusive_language_filter \(though not if there was multiple english splits\):
+task = mteb.get_task\("STS22", languages=\["eng"\], exclusive_language_filter=True\)
+```
+* format
+* remove "en-ext" from AmazonCounterfactualClassification
+* fixed mteb\(deu\)
+* fix: simplify in a few areas
+* wip
+* tmp
+* sav
+* Allow aggregated tasks within benchmarks
+Fixes #1231
+* ensure correct formatting of eval_langs
+* ignore aggregate dataset
+* clean up dummy cases
+* add to mteb\(eng, classic\)
+* format
+* clean up
+* Allow aggregated tasks within benchmarks
+Fixes #1231
+* added fixed from comments
+* fix merge
+* format
+* Updated task type
+* Added minor fix for dummy tasks")[#1771](https://github.com/embeddings-benchmark/mteb/pull/1771)[)](/embeddings-benchmark/mteb/commit/8fb59a49b00e7932abec42c045c1cc068c7eba41 "fix: Allow aggregated tasks within benchmarks \(#1771\)
+* fix: Allow aggregated tasks within benchmarks
+Fixes #1231
+* feat: Update task filtering, fixing bug on MTEB
+- Updated task filtering adding exclusive_language_filter and hf_subset
+- fix bug in MTEB where cross-lingual splits were included
+- added missing language filtering to MTEB\(europe, beta\) and MTEB\(indic, beta\)
+The following code outlines the problems:
+```py
+import mteb
+from mteb.benchmarks import MTEB_ENG_CLASSIC
+task = \[t for t in MTEB_ENG_CLASSIC.tasks if t.metadata.name == "STS22"\]\[0\]
+# was eq. to:
+task = mteb.get_task\("STS22", languages=\["eng"\]\)
+task.hf_subsets
+# correct filtering to English datasets:
+# \['en', 'de-en', 'es-en', 'pl-en', 'zh-en'\]
+# However it should be:
+# \['en'\]
+# with the changes it is:
+task = \[t for t in MTEB_ENG_CLASSIC.tasks if t.metadata.name == "STS22"\]\[0\]
+task.hf_subsets
+# \['en'\]
+# eq. to
+task = mteb.get_task\("STS22", hf_subsets=\["en"\]\)
+# which you can also obtain using the exclusive_language_filter \(though not if there was multiple english splits\):
+task = mteb.get_task\("STS22", languages=\["eng"\], exclusive_language_filter=True\)
+```
+* format
+* remove "en-ext" from AmazonCounterfactualClassification
+* fixed mteb\(deu\)
+* fix: simplify in a few areas
+* wip
+* tmp
+* sav
+* Allow aggregated tasks within benchmarks
+Fixes #1231
+* ensure correct formatting of eval_langs
+* ignore aggregate dataset
+* clean up dummy cases
+* add to mteb\(eng, classic\)
+* format
+* clean up
+* Allow aggregated tasks within benchmarks
+Fixes #1231
+* added fixed from comments
+* fix merge
+* format
+* Updated task type
+* Added minor fix for dummy tasks")| Jan 29, 2025  
+[CONTRIBUTING.md](/embeddings-benchmark/mteb/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/embeddings-benchmark/mteb/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [chore: move and update contributing.md (](/embeddings-benchmark/mteb/commit/bc6a1e3f1dea2c7a95d8cdd9ff297687cc37a0aa "chore: move and update contributing.md \(#372\)
+chore: delete contributing.md")[#372](https://github.com/embeddings-benchmark/mteb/pull/372)[)](/embeddings-benchmark/mteb/commit/bc6a1e3f1dea2c7a95d8cdd9ff297687cc37a0aa "chore: move and update contributing.md \(#372\)
+chore: delete contributing.md")| Apr 15, 2024  
+[LICENSE](/embeddings-benchmark/mteb/blob/main/LICENSE "LICENSE")| [LICENSE](/embeddings-benchmark/mteb/blob/main/LICENSE "LICENSE")| [Initial commit](/embeddings-benchmark/mteb/commit/7841bca7daeea0473b4cfdfe37f0a290feba6b8f "Initial commit")| Apr 5, 2022  
+[Makefile](/embeddings-benchmark/mteb/blob/main/Makefile "Makefile")| [Makefile](/embeddings-benchmark/mteb/blob/main/Makefile "Makefile")| [ci: only return 1 model_name per file (](/embeddings-benchmark/mteb/commit/d7a77918cc0e8b8f03cbbe5199e8a0fe58e429d9 "ci: only return 1 model_name per file \(#1818\)
+* only return 1 model_name per file
+* fix args parse
+* revert test change")[#1818](https://github.com/embeddings-benchmark/mteb/pull/1818)[)](/embeddings-benchmark/mteb/commit/d7a77918cc0e8b8f03cbbe5199e8a0fe58e429d9 "ci: only return 1 model_name per file \(#1818\)
+* only return 1 model_name per file
+* fix args parse
+* revert test change")| Jan 16, 2025  
+[README.md](/embeddings-benchmark/mteb/blob/main/README.md "README.md")| [README.md](/embeddings-benchmark/mteb/blob/main/README.md "README.md")| [Docs: update docs according to current state (](/embeddings-benchmark/mteb/commit/7e5d6c81daa2512b1c257e645cd0de122184acc0 "Docs: update docs according to current state \(#1870\)
+* update docs
+* Apply suggestions from code review
+Co-authored-by: Isaac Chung <chungisaac1217@gmail.com>
+* update readme
+* Update README.md
+Co-authored-by: Isaac Chung <chungisaac1217@gmail.com>
+---------
+Co-authored-by: Isaac Chung <chungisaac1217@gmail.com>")[#1870](https://github.com/embeddings-benchmark/mteb/pull/1870)[)](/embeddings-benchmark/mteb/commit/7e5d6c81daa2512b1c257e645cd0de122184acc0 "Docs: update docs according to current state \(#1870\)
+* update docs
+* Apply suggestions from code review
+Co-authored-by: Isaac Chung <chungisaac1217@gmail.com>
+* update readme
+* Update README.md
+Co-authored-by: Isaac Chung <chungisaac1217@gmail.com>
+---------
+Co-authored-by: Isaac Chung <chungisaac1217@gmail.com>")| Jan 30, 2025  
+[pyproject.toml](/embeddings-benchmark/mteb/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/embeddings-benchmark/mteb/blob/main/pyproject.toml "pyproject.toml")| [1.31.8](/embeddings-benchmark/mteb/commit/dba7a952e39a8d4a53aab967d761354ae030ca54 "1.31.8
+Automatically generated by python-semantic-release")| Feb 1, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Apache-2.0 license](#)
+
+
+
+# Massive Text Embedding Benchmark
+
+[](#massive-text-embedding-benchmark)
+
+[ ![GitHub release](https://camo.githubusercontent.com/5ec7e5c5dd1cb65f654d92d33109e34d9612fb5f967eb56f7eba4cc6f32bca66/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f656d62656464696e67732d62656e63686d61726b2f6d7465622e737667) ](https://github.com/embeddings-benchmark/mteb/releases) [ ![GitHub release](https://camo.githubusercontent.com/dc9fa2f56733c2cc015ab9d121a9d7f4d2640d894ef1528357fa1aa7b062b87a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61725869762d323330352e31343235312d6233316231622e737667) ](https://arxiv.org/abs/2210.07316) [ ![License](https://camo.githubusercontent.com/aefc99c88c51aa25c569c471d94c57bc0deac5686cf563fdc43610944fd80424/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f656d62656464696e67732d62656e63686d61726b2f6d7465622e7376673f636f6c6f723d677265656e) ](https://github.com/embeddings-benchmark/mteb/blob/master/LICENSE) [ ![Downloads](https://camo.githubusercontent.com/17caa95b33d78f9658e545f6980a308b0c227aa130456dbd4e4c76a8d9e0880c/68747470733a2f2f7374617469632e706570792e746563682f706572736f6e616c697a65642d62616467652f6d7465623f706572696f643d746f74616c26756e6974733d696e7465726e6174696f6e616c5f73797374656d266c6566745f636f6c6f723d677265792672696768745f636f6c6f723d6f72616e6765266c6566745f746578743d446f776e6c6f616473) ](https://pepy.tech/project/mteb)
+
+[Installation](#installation) | [Usage](#usage-documentation) | [Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) | [Documentation](#documentation) | [Citing](#citing)
+
+[](#------------installation---------usage---------leaderboard---------documentation---------citing----)
+
+###  [![](/embeddings-benchmark/mteb/raw/main/docs/images/hf_logo.png)](https://huggingface.co/spaces/mteb/leaderboard)
+
+[](#----)
+
+## Installation
+
+[](#installation)
+
+```
+pip install mteb
+```
+
+## Example Usage
+
+[](#example-usage)
+
+  * Using a Python script:
+
+
+
+```
+import mteb from sentence_transformers import SentenceTransformer # Define the sentence-transformers model name model_name = "average_word_embeddings_komninos" model = mteb.get_model(model_name) # if the model is not implemented in MTEB it will be eq. to SentenceTransformer(model_name) tasks = mteb.get_tasks(tasks=["Banking77Classification"]) evaluation = mteb.MTEB(tasks=tasks) results = evaluation.run(model, output_folder=f"results/{model_name}")
+```
+
+Running SentenceTransformer model with prompts 
+
+Prompts can be passed to the SentenceTransformer model using the `prompts` parameter. The following code shows how to use prompts with SentenceTransformer:
+
+```
+from sentence_transformers import SentenceTransformer model = SentenceTransformer("average_word_embeddings_komninos", prompts={"query": "Query:", "passage": "Passage:"}) evaluation = mteb.MTEB(tasks=tasks)
+```
+
+In prompts the key can be:
+
+  1. Prompt types (`passage`, `query`) - they will be used in reranking and retrieval tasks
+  2. Task type - these prompts will be used in all tasks of the given type 
+    1. `BitextMining`
+    2. `Classification`
+    3. `MultilabelClassification`
+    4. `Clustering`
+    5. `PairClassification`
+    6. `Reranking`
+    7. `Retrieval`
+    8. `STS`
+    9. `Summarization`
+    10. `InstructionRetrieval`
+  3. Pair of task type and prompt type like `Retrival-query` - these prompts will be used in all classification tasks
+  4. Task name - these prompts will be used in the specific task
+  5. Pair of task name and prompt type like `NFCorpus-query` - these prompts will be used in the specific task
+
+
+
+  * Using CLI
+
+
+
+```
+mteb available_tasks mteb run -m sentence-transformers/all-MiniLM-L6-v2 \ -t Banking77Classification \ --verbosity 3 # if nothing is specified default to saving the results in the results/{model_name} folder
+```
+
+  * Using multiple GPUs in parallel can be done by just having a custom encode function that distributes the inputs to multiple GPUs like e.g. [here](https://github.com/microsoft/unilm/blob/b60c741f746877293bb85eed6806736fc8fa0ffd/e5/mteb_eval.py#L60) or [here](https://github.com/ContextualAI/gritlm/blob/09d8630f0c95ac6a456354bcb6f964d7b9b6a609/gritlm/gritlm.py#L75).
+
+
+
+## Usage Documentation
+
+[](#usage-documentation)
+
+Click on each section below to see the details.
+
+Task selection 
+
+### Task selection
+
+[](#task-selection)
+
+Tasks can be selected by providing the list of datasets, but also
+
+  * by their task (e.g. "Clustering" or "Classification")
+
+
+
+```
+tasks = mteb.get_tasks(task_types=["Clustering", "Retrieval"]) # Only select clustering and retrieval tasks
+```
+
+  * by their categories e.g. "s2s" (sentence to sentence) or "p2p" (paragraph to paragraph)
+
+
+
+```
+tasks = mteb.get_tasks(categories=["s2s", "p2p"]) # Only select sentence2sentence and paragraph2paragraph datasets
+```
+
+  * by their languages
+
+
+
+```
+tasks = mteb.get_tasks(languages=["eng", "deu"]) # Only select datasets which contain "eng" or "deu" (iso 639-3 codes)
+```
+
+You can also specify which languages to load for multilingual/cross-lingual tasks like below:
+
+```
+import mteb tasks = [ mteb.get_task("AmazonReviewsClassification", languages = ["eng", "fra"]), mteb.get_task("BUCCBitextMining", languages = ["deu"]), # all subsets containing "deu" ] # or you can select specific huggingface subsets like this: from mteb.tasks import AmazonReviewsClassification, BUCCBitextMining evaluation = mteb.MTEB(tasks=[ AmazonReviewsClassification(hf_subsets=["en", "fr"]) # Only load "en" and "fr" subsets of Amazon Reviews BUCCBitextMining(hf_subsets=["de-en"]), # Only load "de-en" subset of BUCC ]) # for an example of a HF subset see "Subset" in the dataset viewer at: https://huggingface.co/datasets/mteb/bucc-bitext-mining
+```
+
+Running a benchmark 
+
+### Running a Benchmark
+
+[](#running-a-benchmark)
+
+`mteb` comes with a set of predefined benchmarks. These can be fetched using `get_benchmark` and run in a similar fashion to other sets of tasks. For instance to select the 56 English datasets that form the "Overall MTEB English leaderboard":
+
+```
+import mteb benchmark = mteb.get_benchmark("MTEB(eng, classic)") evaluation = mteb.MTEB(tasks=benchmark)
+```
+
+The benchmark specified not only a list of tasks, but also what splits and language to run on. To get an overview of all available benchmarks simply run:
+
+```
+import mteb benchmarks = mteb.get_benchmarks()
+```
+
+Generally we use the naming scheme for benchmarks `MTEB(*)`, where the "*" denotes the target of the benchmark. In the case of a language, we use the three-letter language code. For large groups of languages, we use the group notation, e.g., `MTEB(Scandinavian)` for Scandinavian languages. External benchmarks implemented in MTEB like `CoIR` use their original name. When using a benchmark from MTEB please cite `mteb` along with the citations of the benchmark which you can access using:
+
+```
+benchmark.citation
+```
+
+Passing in `encode` arguments 
+
+### Passing in `encode` arguments
+
+[](#passing-in-encode-arguments)
+
+To pass in arguments to the model's `encode` function, you can use the encode keyword arguments (`encode_kwargs`):
+
+```
+evaluation.run(model, encode_kwargs={"batch_size": 32})
+```
+
+Selecting evaluation split 
+
+### Selecting evaluation split
+
+[](#selecting-evaluation-split)
+
+You can evaluate only on `test` splits of all tasks by doing the following:
+
+```
+evaluation.run(model, eval_splits=["test"])
+```
+
+Note that the public leaderboard uses the test splits for all datasets except MSMARCO, where the "dev" split is used.
+
+Selecting evaluation subset 
+
+### Selecting evaluation subset
+
+[](#selecting-evaluation-subset)
+
+You can evaluate only on selected subsets. For example, if you want to evaluate only the `subset_name_to_run` subset of all tasks, do the following:
+
+```
+evaluation.run(model, eval_subsets=["subset_name_to_run"])
+```
+
+Monolingual tasks have `default` subset, other tasks have subsets that are specific to the dataset.
+
+Using a custom model 
+
+### Using a custom model
+
+[](#using-a-custom-model)
+
+Models should implement the following interface, implementing an `encode` function taking as inputs a list of sentences, and returning a list of embeddings (embeddings can be `np.array`, `torch.tensor`, etc.). For inspiration, you can look at the [mteb/mtebscripts repo](https://github.com/embeddings-benchmark/mtebscripts) used for running diverse models via SLURM scripts for the paper.
+
+```
+import mteb from mteb.encoder_interface import PromptType import numpy as np class CustomModel: def encode( self, sentences: list[str], task_name: str, prompt_type: PromptType | None = None, **kwargs, ) -> np.ndarray: """Encodes the given sentences using the encoder. Args: sentences: The sentences to encode. task_name: The name of the task. prompt_type: The prompt type to use. **kwargs: Additional arguments to pass to the encoder. Returns: The encoded sentences. """ pass model = CustomModel() tasks = mteb.get_tasks(tasks=["Banking77Classification"]) evaluation = MTEB(tasks=tasks) evaluation.run(model)
+```
+
+Evaluating on a custom dataset 
+
+### Evaluating on a custom dataset
+
+[](#evaluating-on-a-custom-dataset)
+
+To evaluate on a custom task, you can run the following code on your custom task. See [how to add a new task](/embeddings-benchmark/mteb/blob/main/docs/adding_a_dataset.md), for how to create a new task in MTEB.
+
+```
+from mteb import MTEB from mteb.abstasks.AbsTaskReranking import AbsTaskReranking from sentence_transformers import SentenceTransformer class MyCustomTask(AbsTaskReranking): ... model = SentenceTransformer("average_word_embeddings_komninos") evaluation = MTEB(tasks=[MyCustomTask()]) evaluation.run(model)
+```
+
+Using a cross encoder for reranking
+
+### Using a cross encoder for reranking
+
+[](#using-a-cross-encoder-for-reranking)
+
+To use a cross encoder for reranking, you can directly use a CrossEncoder from SentenceTransformers. The following code shows a two-stage run with the second stage reading results saved from the first stage.
+
+```
+from mteb import MTEB import mteb from sentence_transformers import CrossEncoder, SentenceTransformer cross_encoder = CrossEncoder("cross-encoder/ms-marco-TinyBERT-L-2-v2") dual_encoder = SentenceTransformer("all-MiniLM-L6-v2") tasks = mteb.get_tasks(tasks=["NFCorpus"], languages=["eng"]) subset = "default" # subset name used in the NFCorpus dataset eval_splits = ["test"] evaluation = MTEB(tasks=tasks) evaluation.run( dual_encoder, eval_splits=eval_splits, save_predictions=True, output_folder="results/stage1", ) evaluation.run( cross_encoder, eval_splits=eval_splits, top_k=5, save_predictions=True, output_folder="results/stage2", previous_results=f"results/stage1/NFCorpus_{subset}_predictions.json", )
+```
+
+Late Interaction (ColBERT) 
+
+### Using Late Interaction models for retrieval
+
+[](#using-late-interaction-models-for-retrieval)
+
+```
+from mteb import MTEB import mteb colbert = mteb.get_model("colbert-ir/colbertv2.0") tasks = mteb.get_tasks(tasks=["NFCorpus"], languages=["eng"]) eval_splits = ["test"] evaluation = MTEB(tasks=tasks) evaluation.run( colbert, eval_splits=eval_splits, corpus_chunk_size=500, )
+```
+
+This implementation employs the MaxSim operation to compute the similarity between sentences. While MaxSim provides high-quality results, it processes a larger number of embeddings, potentially leading to increased resource usage. To manage resource consumption, consider lowering the `corpus_chunk_size` parameter.
+
+Saving retrieval task predictions 
+
+### Saving retrieval task predictions
+
+[](#saving-retrieval-task-predictions)
+
+To save the predictions from a retrieval task, add the `--save_predictions` flag in the CLI or set `save_predictions=True` in the run method. The filename will be in the "{task_name}_{subset}_predictions.json" format.
+
+Python:
+
+```
+from mteb import MTEB import mteb from sentence_transformers import SentenceTransformer model = SentenceTransformer("all-MiniLM-L6-v2") tasks = mteb.get_tasks(tasks=["NFCorpus"], languages=["eng"]) evaluation = MTEB(tasks=tasks) evaluation.run( model, eval_splits=["test"], save_predictions=True, output_folder="results", )
+```
+
+CLI:
+
+```
+mteb run -t NFCorpus -m all-MiniLM-L6-v2 --output_folder results --save_predictions
+```
+
+Fetching result from the results repository 
+
+### Fetching results from the results repository
+
+[](#fetching-results-from-the-results-repository)
+
+Multiple models have already been run on tasks available within MTEB. These results are available results [repository](https://github.com/embeddings-benchmark/results).
+
+To make the results more easily accessible, we have designed custom functionality for retrieving from the repository. For instance, if you are selecting the best model for your French and English retrieval task on legal documents you could fetch the relevant tasks and create a dataframe of the results using the following code:
+
+```
+import mteb from mteb.task_selection import results_to_dataframe tasks = mteb.get_tasks( task_types=["Retrieval"], languages=["eng", "fra"], domains=["Legal"] ) model_names = [ "GritLM/GritLM-7B", "intfloat/multilingual-e5-small", "intfloat/multilingual-e5-base", "intfloat/multilingual-e5-large", ] models = [mteb.get_model_meta(name) for name in model_names] results = mteb.load_results(models=models, tasks=tasks) df = results_to_dataframe(results)
+```
+
+Annotate Contamination in the training data of a model 
+
+### Annotate Contamination
+
+[](#annotate-contamination)
+
+have your found contamination in the training data of a model? Please let us know, either by opening an issue or ideally by submitting a PR annotatig the training datasets of the model:
+
+```
+model_w_contamination = ModelMeta( name = "model-with-contamination" ... training_datasets: {"ArguAna": # name of dataset within MTEB ["test"]} # the splits that have been trained on ... )
+```
+
+Caching Embeddings To Re-Use Them 
+
+### Caching Embeddings To Re-Use Them
+
+[](#caching-embeddings-to-re-use-them)
+
+There are times you may want to cache the embeddings so you can re-use them. This may be true if you have multiple query sets for the same corpus (e.g. Wikipedia) or are doing some optimization over the queries (e.g. prompting, other experiments). You can setup a cache by using a simple wrapper, which will save the cache per task in the `cache_embeddings/{task_name}` folder:
+
+```
+# define your task and model above as normal ... # wrap the model with the cache wrapper from mteb.models.cache_wrapper import CachedEmbeddingWrapper model_with_cached_emb = CachedEmbeddingWrapper(model, cache_path='path_to_cache_dir') # run as normal evaluation.run(model, ...) 
+```
+
+## Documentation
+
+[](#documentation)
+
+Documentation  
+---  
+📋 [Tasks](/embeddings-benchmark/mteb/blob/main/docs/tasks.md) | Overview of available tasks  
+📐 [Benchmarks](/embeddings-benchmark/mteb/blob/main/docs/benchmarks.md) | Overview of available benchmarks  
+📈 [Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) | The interactive leaderboard of the benchmark  
+🤖 [Adding a model](/embeddings-benchmark/mteb/blob/main/docs/adding_a_model.md) | Information related to how to submit a model to MTEB and to the leaderboard  
+👩‍🔬 [Reproducible workflows](/embeddings-benchmark/mteb/blob/main/docs/reproducible_workflow.md) | Information related to how to reproduce and create reproducible workflows with MTEB  
+👩‍💻 [Adding a dataset](/embeddings-benchmark/mteb/blob/main/docs/adding_a_dataset.md) | How to add a new task/dataset to MTEB  
+👩‍💻 [Adding a benchmark](/embeddings-benchmark/mteb/blob/main/docs/adding_a_benchmark.md) | How to add a new benchmark to MTEB and to the leaderboard  
+🤝 [Contributing](/embeddings-benchmark/mteb/blob/main/CONTRIBUTING.md) | How to contribute to MTEB and set it up for development  
+🌐 [MMTEB](/embeddings-benchmark/mteb/blob/main/docs/mmteb/readme.md) | An open-source effort to extend MTEB to cover a broad set of languages  
+  
+## Citing
+
+[](#citing)
+
+MTEB was introduced in "[MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316)", feel free to cite:
+
+```
+@article{muennighoff2022mteb, doi = {10.48550/ARXIV.2210.07316}, url = {https://arxiv.org/abs/2210.07316}, author = {Muennighoff, Niklas and Tazi, Nouamane and Magne, Lo{\"\i}c and Reimers, Nils}, title = {MTEB: Massive Text Embedding Benchmark}, publisher = {arXiv}, journal={arXiv preprint arXiv:2210.07316}, year = {2022} }
+```
+
+You may also want to read and cite the amazing work that has extended MTEB & integrated new datasets:
+
+  * Shitao Xiao, Zheng Liu, Peitian Zhang, Niklas Muennighoff. "[C-Pack: Packaged Resources To Advance General Chinese Embedding](https://arxiv.org/abs/2309.07597)" arXiv 2023
+  * Michael Günther, Jackmin Ong, Isabelle Mohr, Alaeddine Abdessalem, Tanguy Abel, Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, Maximilian Werk, Nan Wang, Han Xiao. "[Jina Embeddings 2: 8192-Token General-Purpose Text Embeddings for Long Documents](https://arxiv.org/abs/2310.19923)" arXiv 2023
+  * Silvan Wehrli, Bert Arnrich, Christopher Irrgang. "[German Text Embedding Clustering Benchmark](https://arxiv.org/abs/2401.02709)" arXiv 2024
+  * Orion Weller, Benjamin Chang, Sean MacAvaney, Kyle Lo, Arman Cohan, Benjamin Van Durme, Dawn Lawrie, Luca Soldaini. "[FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions](https://arxiv.org/abs/2403.15246)" arXiv 2024
+  * Dawei Zhu, Liang Wang, Nan Yang, Yifan Song, Wenhao Wu, Furu Wei, Sujian Li. "[LongEmbed: Extending Embedding Models for Long Context Retrieval](https://arxiv.org/abs/2404.12096)" arXiv 2024
+  * Kenneth Enevoldsen, Márton Kardos, Niklas Muennighoff, Kristoffer Laigaard Nielbo. "[The Scandinavian Embedding Benchmarks: Comprehensive Assessment of Multilingual and Monolingual Text Embedding](https://arxiv.org/abs/2406.02396)" arXiv 2024
+  * Ali Shiraee Kasmaee, Mohammad Khodadad, Mohammad Arshi Saloot, Nick Sherck, Stephen Dokas, Hamidreza Mahyar, Soheila Samiee. "[ChemTEB: Chemical Text Embedding Benchmark, an Overview of Embedding Models Performance & Efficiency on a Specific Domain](https://arxiv.org/abs/2412.00532)" arXiv 2024
+
+
+
+For works that have used MTEB for benchmarking, you can find them on the [leaderboard](https://huggingface.co/spaces/mteb/leaderboard).
+
+## About
+
+MTEB: Massive Text Embedding Benchmark 
+
+[arxiv.org/abs/2210.07316](https://arxiv.org/abs/2210.07316 "https://arxiv.org/abs/2210.07316")
+
+### Topics
+
+[ benchmark ](/topics/benchmark "Topic: benchmark") [ information-retrieval ](/topics/information-retrieval "Topic: information-retrieval") [ retrieval ](/topics/retrieval "Topic: retrieval") [ text-classification ](/topics/text-classification "Topic: text-classification") [ clustering ](/topics/clustering "Topic: clustering") [ sts ](/topics/sts "Topic: sts") [ semantic-search ](/topics/semantic-search "Topic: semantic-search") [ reranking ](/topics/reranking "Topic: reranking") [ text-embedding ](/topics/text-embedding "Topic: text-embedding") [ sgpt ](/topics/sgpt "Topic: sgpt") [ neural-search ](/topics/neural-search "Topic: neural-search") [ sentence-transformers ](/topics/sentence-transformers "Topic: sentence-transformers") [ sbert ](/topics/sbert "Topic: sbert") [ multilingual-nlp ](/topics/multilingual-nlp "Topic: multilingual-nlp") [ bitext-mining ](/topics/bitext-mining "Topic: bitext-mining")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+[ Activity](/embeddings-benchmark/mteb/activity)
+
+[ Custom properties](/embeddings-benchmark/mteb/custom-properties)
+
+### Stars
+
+[ **2.1k** stars](/embeddings-benchmark/mteb/stargazers)
+
+### Watchers
+
+[ **16** watching](/embeddings-benchmark/mteb/watchers)
+
+### Forks
+
+[ **308** forks](/embeddings-benchmark/mteb/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fembeddings-benchmark%2Fmteb&report=embeddings-benchmark+%28user%29)
+
+##  [Releases 432](/embeddings-benchmark/mteb/releases)
+
+[ 1.31.8 Latest  Feb 1, 2025 ](/embeddings-benchmark/mteb/releases/tag/1.31.8)
+
+[+ 431 releases](/embeddings-benchmark/mteb/releases)
+
+##  [Packages 0](/orgs/embeddings-benchmark/packages?repo_name=mteb)
+
+No packages published 
+
+##  [Used by 308](/embeddings-benchmark/mteb/network/dependents)
+
+[
+
+  * ![@ruandocini](https://avatars.githubusercontent.com/u/57142259?s=64&v=4)
+  * ![@Achyuthgopi156](https://avatars.githubusercontent.com/u/72077967?s=64&v=4)
+  * ![@KennethEnevoldsen](https://avatars.githubusercontent.com/u/23721977?s=64&v=4)
+  * ![@deepakmeenax](https://avatars.githubusercontent.com/u/55993229?s=64&v=4)
+  * ![@AspadaX](https://avatars.githubusercontent.com/u/34500975?s=64&v=4)
+  * ![@Pioneer-wxh](https://avatars.githubusercontent.com/u/151451952?s=64&v=4)
+  * ![@nguyenvanhoangphuc](https://avatars.githubusercontent.com/u/83715016?s=64&v=4)
+  * ![@dcastellnieves](https://avatars.githubusercontent.com/u/119002252?s=64&v=4)
+
++ 300  ](/embeddings-benchmark/mteb/network/dependents)
+
+##  [Contributors 136](/embeddings-benchmark/mteb/graphs/contributors)
+
+  * [ ![@github-actions\[bot\]](https://avatars.githubusercontent.com/in/15368?s=64&v=4) ](https://github.com/apps/github-actions)
+  * [ ![@KennethEnevoldsen](https://avatars.githubusercontent.com/u/23721977?s=64&v=4) ](https://github.com/KennethEnevoldsen)
+  * [ ![@Muennighoff](https://avatars.githubusercontent.com/u/62820084?s=64&v=4) ](https://github.com/Muennighoff)
+  * [ ![@NouamaneTazi](https://avatars.githubusercontent.com/u/29777165?s=64&v=4) ](https://github.com/NouamaneTazi)
+  * [ ![@isaac-chung](https://avatars.githubusercontent.com/u/48971969?s=64&v=4) ](https://github.com/isaac-chung)
+  * [ ![@Samoed](https://avatars.githubusercontent.com/u/36135455?s=64&v=4) ](https://github.com/Samoed)
+  * [ ![@loicmagne](https://avatars.githubusercontent.com/u/53355258?s=64&v=4) ](https://github.com/loicmagne)
+  * [ ![@x-tabdeveloping](https://avatars.githubusercontent.com/u/13087737?s=64&v=4) ](https://github.com/x-tabdeveloping)
+  * [ ![@imenelydiaker](https://avatars.githubusercontent.com/u/33312980?s=64&v=4) ](https://github.com/imenelydiaker)
+  * [ ![@awinml](https://avatars.githubusercontent.com/u/97467100?s=64&v=4) ](https://github.com/awinml)
+  * [ ![@dokato](https://avatars.githubusercontent.com/u/4547289?s=64&v=4) ](https://github.com/dokato)
+  * [ ![@MartinBernstorff](https://avatars.githubusercontent.com/u/8526086?s=64&v=4) ](https://github.com/MartinBernstorff)
+  * [ ![@orionw](https://avatars.githubusercontent.com/u/31665361?s=64&v=4) ](https://github.com/orionw)
+
+
+
+[+ 122 contributors](/embeddings-benchmark/mteb/graphs/contributors)
+
+## Languages
+
+  * [ Jupyter Notebook 63.9% ](/embeddings-benchmark/mteb/search?l=jupyter-notebook)
+  * [ Python 36.1% ](/embeddings-benchmark/mteb/search?l=python)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

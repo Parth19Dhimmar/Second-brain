@@ -1,0 +1,14 @@
+parameters:
+  mongo_collection_name: scored_documents
+  fetch_limit: 1000
+  load_dataset_id: Parth19Dhimmar/second_brain_summary_dataset
+  summarization_max_characters: 256
+  summarization_model: ollama/llama2
+  val_split_ratio: 0.1
+  test_split_ratio: 0.1
+  max_workers: 10
+  mock: False
+  min_document_length: 50
+  min_quality_score: 0.2
+  augmentation_loops: 3
+  output_dir: data/

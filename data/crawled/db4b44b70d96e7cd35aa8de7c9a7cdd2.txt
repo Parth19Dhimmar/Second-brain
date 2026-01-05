@@ -1,0 +1,361 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fnotebooks%2Fblob%2Fmain%2Fsagemaker%2F27_deploy_large_language_models%2Fsagemaker-notebook.ipynb%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fnotebooks%2Fblob%2Fmain%2Fsagemaker%2F27_deploy_large_language_models%2Fsagemaker-notebook.ipynb%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=huggingface%2Fnotebooks) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ huggingface ](/huggingface) / **[notebooks](/huggingface/notebooks) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fhuggingface%2Fnotebooks) You must be signed in to change notification settings
+  * [ Fork 1.6k ](/login?return_to=%2Fhuggingface%2Fnotebooks)
+  * [ Star  3.8k ](/login?return_to=%2Fhuggingface%2Fnotebooks)
+
+
+
+
+  * [ Code ](/huggingface/notebooks)
+  * [ Issues 130 ](/huggingface/notebooks/issues)
+  * [ Pull requests 65 ](/huggingface/notebooks/pulls)
+  * [ Actions ](/huggingface/notebooks/actions)
+  * [ Projects 0 ](/huggingface/notebooks/projects)
+  * [ Security ](/huggingface/notebooks/security)
+  * [ Insights ](/huggingface/notebooks/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/huggingface/notebooks)
+  * [ Issues  ](/huggingface/notebooks/issues)
+  * [ Pull requests  ](/huggingface/notebooks/pulls)
+  * [ Actions  ](/huggingface/notebooks/actions)
+  * [ Projects  ](/huggingface/notebooks/projects)
+  * [ Security  ](/huggingface/notebooks/security)
+  * [ Insights  ](/huggingface/notebooks/pulse)
+
+
+
+## Files
+
+main
+
+  * .github
+
+  * course
+
+  * datasets-server_doc
+
+  * datasets_doc
+
+  * diffusers
+
+  * diffusers_doc
+
+  * examples
+
+  * huggingface_hub
+
+  * longform-qa
+
+  * peft
+
+  * peft_docs
+
+  * safetensors_doc
+
+  * sagemaker
+
+    * 01_getting_started_pytorch
+
+    * 02_getting_started_tensorflow
+
+    * 03_distributed_training_data_parallelism
+
+    * 04_distributed_training_model_parallelism
+
+    * 05_spot_instances
+
+    * 06_sagemaker_metrics
+
+    * 07_tensorflow_distributed_training_data_parallelism
+
+    * 08_distributed_summarization_bart_t5
+
+    * 09_image_classification_vision_transformer
+
+    * 10_deploy_model_from_s3
+
+    * 11_deploy_model_from_hf_hub
+
+    * 12_batch_transform_inference
+
+    * 13_deploy_and_autoscaling_transformers
+
+    * 14_train_and_push_to_hub
+
+    * 15_training_compiler
+
+    * 16_async_inference_hf_hub
+
+    * 17_custom_inference_script
+
+    * 18_inferentia_inference
+
+    * 19_serverless_inference
+
+    * 20_automatic_speech_recognition_inference
+
+    * 21_image_segmantation
+
+    * 22_accelerate_sagemaker_examples
+
+    * 23_stable_diffusion_inference
+
+    * 24_train_bloom_peft_lora
+
+    * 25_pytorch_fsdp_model_parallelism
+
+    * 26_document_ai_donut
+
+    * 27_deploy_large_language_models
+
+      * assets
+
+      * sagemaker-notebook.ipynb
+
+    * 28_train_llms_with_qlora
+
+    * 29_deploy_llms_on_inferentia2
+
+    * 30_evaluate_llms_with_lighteval
+
+    * 31_deploy_embedding_models
+
+    * 32_train_deploy_embedding_models
+
+    * README.md
+
+  * setfit_doc
+
+  * transformers_doc
+
+  * utils
+
+  * .gitignore
+
+  * LICENSE
+
+  * Makefile
+
+  * README.md
+
+
+
+
+## Breadcrumbs
+
+  1. [notebooks](/huggingface/notebooks/tree/main)
+  2. /[sagemaker](/huggingface/notebooks/tree/main/sagemaker)
+  3. /[27_deploy_large_language_models](/huggingface/notebooks/tree/main/sagemaker/27_deploy_large_language_models)
+
+
+
+/
+
+# sagemaker-notebook.ipynb
+
+Copy path
+
+Blame
+
+Blame
+
+## Latest commit
+
+[![ParagEkbote](https://avatars.githubusercontent.com/u/69567729?v=4&size=40)](/ParagEkbote)[ParagEkbote](/huggingface/notebooks/commits?author=ParagEkbote)
+
+[Typo Fixes (](/huggingface/notebooks/commit/80c5df02f4bcc5cd261202c37c2f1b57ba49ef40)[#530](https://github.com/huggingface/notebooks/pull/530)[)](/huggingface/notebooks/commit/80c5df02f4bcc5cd261202c37c2f1b57ba49ef40)
+
+Nov 19, 2024
+
+[80c5df0](/huggingface/notebooks/commit/80c5df02f4bcc5cd261202c37c2f1b57ba49ef40) · Nov 19, 2024
+
+## History
+
+[History](/huggingface/notebooks/commits/main/sagemaker/27_deploy_large_language_models/sagemaker-notebook.ipynb)
+
+[](/huggingface/notebooks/commits/main/sagemaker/27_deploy_large_language_models/sagemaker-notebook.ipynb)
+
+512 lines (512 loc) · 20.1 KB
+
+## Breadcrumbs
+
+  1. [notebooks](/huggingface/notebooks/tree/main)
+  2. /[sagemaker](/huggingface/notebooks/tree/main/sagemaker)
+  3. /[27_deploy_large_language_models](/huggingface/notebooks/tree/main/sagemaker/27_deploy_large_language_models)
+
+
+
+/
+
+# sagemaker-notebook.ipynb
+
+Top
+
+## File metadata and controls
+
+  * Preview
+
+  * Code
+
+  * Blame
+
+
+
+
+512 lines (512 loc) · 20.1 KB
+
+[Raw](https://github.com/huggingface/notebooks/raw/refs/heads/main/sagemaker/27_deploy_large_language_models/sagemaker-notebook.ipynb)
+
+LoadingViewer requires iframe.
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

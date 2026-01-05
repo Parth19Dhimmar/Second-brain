@@ -1,0 +1,337 @@
+•
+
+NaN / NaN
+
+•
+
+NaN / NaN
+
+Play (k) 
+
+Back  [ ](/ "YouTube Home") RO 
+
+Skip navigation
+
+Search 
+
+Search 
+
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DZPX3W77h_1E%2526t%253D1s%25252F&hl=en-GB&ec=65620)
+
+[ ](/ "YouTube Home") RO 
+
+How to evaluate an LLM-powered RAG application automatically.
+
+Search
+
+Watch Later
+
+Share
+
+Copy link
+
+Info
+
+Shopping
+
+Tap to unmute
+
+2x
+
+If playback doesn't begin shortly, try restarting your device.
+
+•
+
+Up next
+
+LiveUpcoming
+
+CancelPlay now
+
+[Underfitted](https://www.youtube.com/channel/UCgLxmJ8xER7Y7sywMN5SfWg)
+
+Subscribe
+
+Subscribed
+
+I tell stories about Artificial Intelligence. 
+
+[Building a RAG application from scratch using Python, LangChain, and the OpenAI API1:12:39](https://www.youtube.com/watch?v=BrsocJb-fAo)
+
+You're signed out
+
+Videos that you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+CancelConfirm
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+0:00
+
+[](https://www.youtube.com/watch?v=RWo4GDTZIsE "Next \(SHIFT+n\)")
+
+0:00 / 50:41•Watch full videoLive
+
+•
+
+•
+
+Scroll for details
+
+#  How to evaluate an LLM-powered RAG application automatically.
+
+[![](https://yt3.ggpht.com/1cVn49vmOmQpzhP1XCkbbCB3x3HjGDAzL7dxEKtf4uBqCvJm5n1Fr6YwByRXndLnT9tfiu_r=s48-c-k-c0x00ffffff-no-rj)](/@underfitted)
+
+[Underfitted](/@underfitted)
+
+Underfitted 
+
+49.6K subscribers
+
+<__slot-el>
+
+Subscribe
+
+<__slot-el>
+
+Subscribed
+
+1.2K
+
+Share
+
+Download
+
+Download 
+
+Save
+
+26K views9 months ago
+
+26,795 views • 26 Mar 2024 
+
+Show less 
+
+Source code of this example: [https://github.com/svpino/llm/tree/ma...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkFJNFVjTVR0UERqdXE5Xy0tYVRyNG1wYmNmd3xBQ3Jtc0trRmRsZXNob0RZQTUtYW5rN2lpNm81NVI5WkRQbGFDaW1DWVE3TkhaWFlyT0JnS1FyMWlRc2pCVHdzdmhTRWFLUlJydnB6Sy1LM1duMTF2aTJ4QWhETEVDRkc1b1RfaldBRGZWQnd0dVJfNF9NOWZKZw&q=https%3A%2F%2Fgithub.com%2Fsvpino%2Fllm%2Ftree%2Fmain%2Fevaluation&v=ZPX3W77h_1E)…...more 
+
+...more 
+
+Transcript
+
+Follow along using the transcript.
+
+Show transcript
+
+### [Underfitted 49.6K subscribers  ](/@underfitted)
+
+[Videos](/channel/UCgLxmJ8xER7Y7sywMN5SfWg/videos)
+
+[About](/channel/UCgLxmJ8xER7Y7sywMN5SfWg/about)
+
+[Videos](/channel/UCgLxmJ8xER7Y7sywMN5SfWg/videos)[About](/channel/UCgLxmJ8xER7Y7sywMN5SfWg/about)[Twitter](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbEVKT2NZWENKVHR0b2IzVjFaa0xHSmJWaFRwZ3xBQ3Jtc0tuQVNUdXZFbms3Qmx6cHltdnBjcXl6TkJwcUZMbnBtVWN2VzVjN0lKVnprX2J6bkhld3lCX3Ffb1VZVlJLVHQ3dHJtTFdmaGpSSmdKX0FWUElIMEcxZGNIOHRsdVBjOEx0SXRfc0pEeERVR1U1LTNTSQ&q=https%3A%2F%2Ftwitter.com%2Fsvpino)
+
+[ 1:12:39 1:12:39  ](/watch?v=BrsocJb-fAo) [ Building a RAG application from scratch using Python, LangChain, and the OpenAI API by Underfitted ](/watch?v=BrsocJb-fAo)
+
+Show less 
+
+# How to evaluate an LLM-powered RAG application automatically.
+
+26,795 views26K views
+
+26 Mar 2024
+
+1.2K
+
+Share
+
+Download
+
+Download 
+
+Save
+
+##  Comments 67
+
+Top comments  Newest first 
+
+##  In this video
+
+Transcript
+
+##  Description
+
+How to evaluate an LLM-powered RAG application automatically.
+
+1.2KLikes
+
+26,795Views
+
+26 Mar2024
+
+Source code of this example: [https://github.com/svpino/llm/tree/ma...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1hQZ3lyUFpmb1pyclZVM1dKWG1LckVVVnRFQXxBQ3Jtc0tscFBVUzI2cWtxWUlXNUhObW5MUUpXVDlQMHQzbkYxbWxoc0RVTXNKTzhlRWRJRzBFbXA5Ym53Y3QwXzdOVlJpZ1FuSDU0TGF4cGpoNmhHSnlJTzZ2dk9jRjdMeDl4WVNZMDR4WTlRTGMxdklmcGl2VQ&q=https%3A%2F%2Fgithub.com%2Fsvpino%2Fllm%2Ftree%2Fmain%2Fevaluation&v=ZPX3W77h_1E) Giskard library: [https://github.com/Giskard-AI/giskard](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGJvVW5iZ3lIa2JqTnF4UmtxNDhfZ3k3LUt4Z3xBQ3Jtc0tuOUdKT2ZCdTlRSDFSYzJCNXdtMVV1TlBYTDljYUQybVFmNTBKYlFfTVVyN3FadFlkWm9YQXhmODA1cTVpSFI0M3NTaWh3cEN1MWJ5YkdSSXE0MU52WXVoX1hRY3ZZTzJ6TG1IVm1HUjU3WkNqVTRabw&q=https%3A%2F%2Fgithub.com%2FGiskard-AI%2Fgiskard&v=ZPX3W77h_1E) I teach a live, interactive program that'll help you build production-ready machine learning systems from the ground up. Check it out here: [https://www.ml.school](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVlZWS1ENmlLYXJzbHVSMTBDWjVrMEdwR0JlUXxBQ3Jtc0ttSnNLa3l5eXFFOE9zVlBBMS1Qck5GSTU4c2QtY1FNaFR0OXM0NEpXUmlZOUl4TDVRNGJhMkhhMlluZlJVTWY1MGpnTmdlQlM4elZmb1AxcnZSSGxpaWM5YzEyNnhMQzlCaFk4ZlNiRXNtTy1nejBEOA&q=https%3A%2F%2Fwww.ml.school%2F&v=ZPX3W77h_1E) To keep up with the content I create: • Twitter/X: [ / svpino ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXJmcmZxYW45cHpNZEJ5WEJOd3NLbG9vT08wUXxBQ3Jtc0tuOUJyenZHZkZ5S3ZvVm1NY3UwMzRPRjRYZ2dVOGI0TXg3OHVZak4yRnBaUlQ5NzJSV19VNkI0TlpvZTRYUEJsWk1KRXFuc3piTy0xRXlhZXQ2YmM5WmpJWV8wdnBudV8tbFU1QVc0M1RNV1kxSXh3aw&q=https%3A%2F%2Fwww.twitter.com%2Fsvpino&v=ZPX3W77h_1E) • LinkedIn: [ / svpino ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHNqcE10dGpKZzFpYTJUNC0zbENwMk10T2FHQXxBQ3Jtc0trRmt6U3EyVS1MX1dxYkpaV3VKMjRLRjd1YVk1Zk92bEVYbWlIaFVlREM1cFFqX2VlUk1wZkZ1UlNVNzJGa2VjMEozMl9WelZLY2M1Y3B1Qzk3cXBlWmxuZjlSbnVIb002MHpKa2kwTzJMd0xhN2RxVQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsvpino&v=ZPX3W77h_1E)
+
+Show less ...more
+
+Source code of this example: [https://github.com/svpino/llm/tree/ma...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1hQZ3lyUFpmb1pyclZVM1dKWG1LckVVVnRFQXxBQ3Jtc0tscFBVUzI2cWtxWUlXNUhObW5MUUpXVDlQMHQzbkYxbWxoc0RVTXNKTzhlRWRJRzBFbXA5Ym53Y3QwXzdOVlJpZ1FuSDU0TGF4cGpoNmhHSnlJTzZ2dk9jRjdMeDl4WVNZMDR4WTlRTGMxdklmcGl2VQ&q=https%3A%2F%2Fgithub.com%2Fsvpino%2Fllm%2Ftree%2Fmain%2Fevaluation&v=ZPX3W77h_1E) Giskard library: [https://github.com/Giskard-AI/giskard](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGJvVW5iZ3lIa2JqTnF4UmtxNDhfZ3k3LUt4Z3xBQ3Jtc0tuOUdKT2ZCdTlRSDFSYzJCNXdtMVV1TlBYTDljYUQybVFmNTBKYlFfTVVyN3FadFlkWm9YQXhmODA1cTVpSFI0M3NTaWh3cEN1MWJ5YkdSSXE0MU52WXVoX1hRY3ZZTzJ6TG1IVm1HUjU3WkNqVTRabw&q=https%3A%2F%2Fgithub.com%2FGiskard-AI%2Fgiskard&v=ZPX3W77h_1E) I teach a live, interactive program that'll help you build production-ready machine learning systems from the ground up. Check it out here: [https://www.ml.school](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVlZWS1ENmlLYXJzbHVSMTBDWjVrMEdwR0JlUXxBQ3Jtc0ttSnNLa3l5eXFFOE9zVlBBMS1Qck5GSTU4c2QtY1FNaFR0OXM0NEpXUmlZOUl4TDVRNGJhMkhhMlluZlJVTWY1MGpnTmdlQlM4elZmb1AxcnZSSGxpaWM5YzEyNnhMQzlCaFk4ZlNiRXNtTy1nejBEOA&q=https%3A%2F%2Fwww.ml.school%2F&v=ZPX3W77h_1E) To keep up with the content I create: • Twitter/X: [ / svpino ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXJmcmZxYW45cHpNZEJ5WEJOd3NLbG9vT08wUXxBQ3Jtc0tuOUJyenZHZkZ5S3ZvVm1NY3UwMzRPRjRYZ2dVOGI0TXg3OHVZak4yRnBaUlQ5NzJSV19VNkI0TlpvZTRYUEJsWk1KRXFuc3piTy0xRXlhZXQ2YmM5WmpJWV8wdnBudV8tbFU1QVc0M1RNV1kxSXh3aw&q=https%3A%2F%2Fwww.twitter.com%2Fsvpino&v=ZPX3W77h_1E) • LinkedIn: [ / svpino ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHNqcE10dGpKZzFpYTJUNC0zbENwMk10T2FHQXxBQ3Jtc0trRmt6U3EyVS1MX1dxYkpaV3VKMjRLRjd1YVk1Zk92bEVYbWlIaFVlREM1cFFqX2VlUk1wZkZ1UlNVNzJGa2VjMEozMl9WelZLY2M1Y3B1Qzk3cXBlWmxuZjlSbnVIb002MHpKa2kwTzJMd0xhN2RxVQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsvpino&v=ZPX3W77h_1E)…...more 
+
+...more Show less 
+
+Transcript
+
+Follow along using the transcript.
+
+Show transcript
+
+### [Underfitted 49.6K subscribers  ](/@underfitted)
+
+[Videos](/channel/UCgLxmJ8xER7Y7sywMN5SfWg/videos)
+
+[About](/channel/UCgLxmJ8xER7Y7sywMN5SfWg/about)
+
+[Videos](/channel/UCgLxmJ8xER7Y7sywMN5SfWg/videos)[About](/channel/UCgLxmJ8xER7Y7sywMN5SfWg/about)[Twitter](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbEVKT2NZWENKVHR0b2IzVjFaa0xHSmJWaFRwZ3xBQ3Jtc0tuQVNUdXZFbms3Qmx6cHltdnBjcXl6TkJwcUZMbnBtVWN2VzVjN0lKVnprX2J6bkhld3lCX3Ffb1VZVlJLVHQ3dHJtTFdmaGpSSmdKX0FWUElIMEcxZGNIOHRsdVBjOEx0SXRfc0pEeERVR1U1LTNTSQ&q=https%3A%2F%2Ftwitter.com%2Fsvpino)
+
+[ 1:12:39 1:12:39  ](/watch?v=BrsocJb-fAo) [ Building a RAG application from scratch using Python, LangChain, and the OpenAI API by Underfitted ](/watch?v=BrsocJb-fAo)
+
+##  Transcript
+
+NaN / NaN
+
+[ ![](https://i.ytimg.com/vi/RWo4GDTZIsE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBUrSVsQcKiJVVH8l_tYHxGzQk1mg) 40:52 40:52 Now playing ](/watch?v=RWo4GDTZIsE)
+
+### [ Step by step no-code RAG application using Langflow.  Underfitted Underfitted  • • 31K views 8 months ago ](/watch?v=RWo4GDTZIsE)
+
+[ ![](https://i.ytimg.com/vi/2CIIQ5KZWUM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBe0vysSx-3ffjjMYGoB4MdAls75g) 33:50 33:50 Now playing ](/watch?v=2CIIQ5KZWUM)
+
+### [ Evaluating LLM-based Applications  Databricks Databricks  • • 30K views 1 year ago ](/watch?v=2CIIQ5KZWUM)
+
+[ ![](https://i.ytimg.com/vi/jfKfPfyJRdk/hqdefault.jpg?v=665dffb9&sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAPQlls0D-iIDsUxXGtm2b3tP1KLg) Now playing ](/watch?v=jfKfPfyJRdk)
+
+### [ lofi hip hop radio 📚 beats to relax/study to  Lofi Girl Lofi Girl  Verified  • • 24K watching LIVE ](/watch?v=jfKfPfyJRdk)
+
+[ ![](https://i.ytimg.com/vi/q9MD_hU2Yd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBtXGYXSLuLtBckY7ZFDKCmbjn50w) 50:10 50:10 Now playing ](/watch?v=q9MD_hU2Yd8)
+
+### [ A gentle introduction to RAG (using open-source models)  Underfitted Underfitted  • • 14K views 5 months ago ](/watch?v=q9MD_hU2Yd8)
+
+[ ![](https://i.ytimg.com/vi/2ReYkiz2Jyc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCIlOG6w8qp5Ircon2Lt2A6z80p9g) 1:16:55 1:16:55 Now playing ](/watch?v=2ReYkiz2Jyc)
+
+### [ Evaluating RAG Pipelines With Ragas  David Hundley David Hundley  • • 797 views Streamed 6 months ago ](/watch?v=2ReYkiz2Jyc)
+
+[ ![](https://i.ytimg.com/vi/iqzjBbW_X-E/hqdefault.jpg?v=66e176a3&sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC_xu-DSvQZazcxyXPZB2emyFf7ug) Now playing ](/watch?v=iqzjBbW_X-E)
+
+### [ Music for Work — Deep Focus Mix for Programming, Coding  Chill Music Lab Chill Music Lab  Verified  • • 210 watching LIVE ](/watch?v=iqzjBbW_X-E)
+
+[ ![](https://i.ytimg.com/vi/tx5OapbK-8A/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBOp2Kn6riFBoz0VqGKAPTuWnhYlg) 24:27 24:27 Now playing ](/watch?v=tx5OapbK-8A)
+
+### [ How to Build Effective AI Agents (without the hype)  Dave Ebbelaar Dave Ebbelaar  Verified  • • 45K views 1 day ago New ](/watch?v=tx5OapbK-8A)
+
+[ ![](https://i.ytimg.com/vi/BrsocJb-fAo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBvy58cnZfpetjAtpZA6DHUHDm0TA) 1:12:39 1:12:39 Now playing ](/watch?v=BrsocJb-fAo)
+
+### [ Building a RAG application from scratch using Python, LangChain, and the OpenAI API  Underfitted Underfitted  • • 88K views 10 months ago ](/watch?v=BrsocJb-fAo)
+
+[ ![](https://i.ytimg.com/vi/cRz0BWkuwHg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCwlcDc4RWfnMDCC1lSMV4s-rDWhw) 10:43 10:43 Now playing ](/watch?v=cRz0BWkuwHg)
+
+### [ Key Metrics and Evaluation Methods for RAG  What's AI by Louis-François Bouchard What's AI by Louis-François Bouchard  • • 1.7K views 2 months ago ](/watch?v=cRz0BWkuwHg)
+
+[ ![](https://i.ytimg.com/vi/sgEJ4sOwboM/hqdefault.jpg?v=627b9148&sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDHQsIRfMkO4-JdJ9_38mJ8A2PV3w) Now playing ](/watch?v=sgEJ4sOwboM)
+
+### [ Chillout 2025 24/7 Live Radio • Summer Tropical House & Deep House Chill Music Mix by We Are Diamond  We Are Diamond We Are Diamond  • • 1.7K watching LIVE ](/watch?v=sgEJ4sOwboM)
+
+[ ![](https://i.ytimg.com/vi/HRvyei7vFSM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLANXbW62BlxcE6InvWA5Bkf2vdszg) 53:15 53:15 Now playing ](/watch?v=HRvyei7vFSM)
+
+### [ Building a RAG application using open-source models (Asking questions from a PDF using Llama2)  Underfitted Underfitted  • • 93K views 10 months ago ](/watch?v=HRvyei7vFSM)
+
+[ 48:46 48:46 Now playing ](/watch?v=GOwiu2gA4BY)
+
+### [ Securing AI Apps with the OWASP Top Ten for Large Language Models  RSA Conference RSA Conference  Verified  • • 1.2K views 7 months ago ](/watch?v=GOwiu2gA4BY)
+
+[ 51:44 51:44 Now playing ](/watch?v=GikIJpUv6oo)
+
+### [ How to train a model to generate image embeddings from scratch  Underfitted Underfitted  • • 14K views 7 months ago ](/watch?v=GikIJpUv6oo)
+
+[ Now playing ](/watch?v=D4gm0xA6t9c)
+
+### [ Music for Work — Limitless Productivity Radio  Chill Music Lab Chill Music Lab  Verified  • • 619 watching LIVE ](/watch?v=D4gm0xA6t9c)
+
+[ 6:36 6:36 Now playing ](/watch?v=T-D1OfcDW1M)
+
+### [ What is Retrieval-Augmented Generation (RAG)?  IBM Technology IBM Technology  Verified  • • 883K views 1 year ago ](/watch?v=T-D1OfcDW1M)
+
+[ 1:44:31 1:44:31 Now playing ](/watch?v=9vM4p9NN0Ts)
+
+### [ Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)  Stanford Online Stanford Online  Verified  • • 759K views 4 months ago ](/watch?v=9vM4p9NN0Ts)
+
+[ 1:02:12 1:02:12 Now playing ](/watch?v=0pnEUAwoDP0)
+
+### [ How to Build, Evaluate, and Iterate on LLM Agents  DeepLearningAI DeepLearningAI  • • 42K views Streamed 1 year ago ](/watch?v=0pnEUAwoDP0)
+
+[ 44:59 44:59 Now playing ](/watch?v=cpLi-82koFM)
+
+### [ Why are vector databases so FAST?  Underfitted Underfitted  • • 20K views 7 months ago ](/watch?v=cpLi-82koFM)
+
+[ 19:42 19:42 Now playing ](/watch?v=-_52DIIOsCE)
+
+### [ AI Agent Evaluation with RAGAS  James Briggs James Briggs  • • 18K views 9 months ago ](/watch?v=-_52DIIOsCE)
+
+[ 37:10 37:10 Now playing ](/watch?v=zVttVCQvACQ)
+
+### [ Building an AI assistant that listens and sees the world (Step by step tutorial)  Underfitted Underfitted  • • 17K views 7 months ago ](/watch?v=zVttVCQvACQ)
+
+Show more
+
+Saving your choice
+
+An error occurred while saving your choice. Try again.
+
+A Google company
+
+en-GB
+
+Afrikaans Azərbaycan Bahasa Indonesia Bahasa Malaysia Bosanski Català Čeština Dansk Deutsch Eesti English (India) English (UK) English (US) Español (España) Español (Latinoamérica) Español (US) Euskara Filipino Français Français (Canada) Galego Hrvatski IsiZulu Íslenska Italiano Kiswahili Latviešu valoda Lietuvių Magyar Nederlands Norsk O‘zbek Polski Português Português (Brasil) Română Shqip Slovenčina Slovenščina Srpski Suomi Svenska Tiếng Việt Türkçe Беларуская Български Кыргызча Қазақ Тілі Македонски Монгол Русский Српски Українська Ελληνικά Հայերեն עברית اردو العربية فارسی नेपाली मराठी हिन्दी অসমীয়া বাংলা ਪੰਜਾਬੀ ગુજરાતી ଓଡ଼ିଆ தமிழ் తెలుగు ಕನ್ನಡ മലയാളം සිංහල ภาษาไทย ລາວ ဗမာ ქართული አማርኛ ខ្មែរ 中文 (简体) 中文 (繁體) 中文 (香港) 日本語 한국어
+
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DZPX3W77h_1E%2526t%253D1s%25252F&hl=en-GB)
+
+Sign in 
+
+##  Before you continue to YouTube
+
+We use [cookies](https://policies.google.com/technologies/cookies?hl=en-GB) and data to
+
+  * Deliver and maintain Google services
+
+  * Track outages and protect against spam, fraud and abuse
+
+  * Measure audience engagement and site statistics to understand how our services are used and enhance the quality of those services
+
+
+
+
+If you choose to 'Accept all', we will also use cookies and data to
+
+  * Develop and improve new services
+
+  * Deliver and measure the effectiveness of ads
+
+  * Show personalised content, depending on your settings
+
+  * Show personalised ads, depending on your settings
+
+
+
+
+If you choose to 'Reject all', we will not use cookies for these additional purposes.
+
+Non-personalised content and ads are influenced by things like the content that you’re currently viewing and your location (ad serving is based on general location). Personalised content and ads can also include things like video recommendations, a customised YouTube homepage and tailored ads based on past activity, like the videos that you watch and the things that you search for on YouTube. We also use cookies and data to tailor the experience to be age-appropriate, if relevant.
+
+Select 'More options' to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+Reject all
+
+Accept all
+
+[More options](https://consent.youtube.com/d?continue=https://www.youtube.com/watch%3Fv%3DZPX3W77h_1E%26t%3D1s%252F%26cbrd%3D1&gl=RO&m=0&pc=yt&cm=2&hl=en-GB&src=2)
+
+[Privacy Policy](https://policies.google.com/privacy?hl=en-GB) • [Terms of Service](https://policies.google.com/terms?hl=en-GB)

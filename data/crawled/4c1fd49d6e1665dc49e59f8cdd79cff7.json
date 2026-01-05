@@ -1,0 +1,34 @@
+{
+    "id": "4c1fd49d6e1665dc49e59f8cdd79cff7",
+    "metadata": {
+        "id": "4c1fd49d6e1665dc49e59f8cdd79cff7",
+        "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-roles.html/",
+        "title": "Amazon Web Services Documentation",
+        "properties": {
+            "description": null,
+            "keywords": null,
+            "author": null
+        }
+    },
+    "parent_metadata": {
+        "id": "7f594ee2ea3bb8bdfe34a41eb3c88b4c",
+        "url": "https://www.notion.so/SageMaker-7f594ee2ea3bb8bdfe34a41eb3c88b4c",
+        "title": "SageMaker",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "content": "## Select your cookie preferences\n\nWe use essential cookies and similar tools that are necessary to provide our site and services. We use performance cookies to collect anonymous statistics, so we can understand how customers use our site and make improvements. Essential cookies cannot be deactivated, but you can choose â€œCustomizeâ€ or â€œDeclineâ€ to decline performance cookies. If you agree, AWS and approved third parties will also use cookies to provide useful site features, remember your preferences, and display relevant content, including relevant advertising. To accept or decline all non-essential cookies, choose â€œAcceptâ€ or â€œDecline.â€ To make more detailed choices, choose â€œCustomize.â€\n\nAcceptDeclineCustomize\n\n## Customize cookie preferences\n\nWe use cookies and similar tools (collectively, \"cookies\") for the following purposes.\n\n### Essential\n\nEssential cookies are necessary to provide our site and services and cannot be deactivated. They are usually set in response to your actions on the site, such as setting your privacy preferences, signing in, or filling in forms. \n\n### Performance\n\nPerformance cookies provide anonymous statistics about how customers navigate our site so we can improve site experience and performance. Approved third parties may perform analytics on our behalf, but they cannot use the data for their own purposes.\n\nAllow performance category\n\nAllowed\n\n### Functional\n\nFunctional cookies help us provide useful site features, remember your preferences, and display relevant content. Approved third parties may set these cookies to provide certain site features. If you do not allow these cookies, then some or all of these services may not function properly.\n\nAllow functional category\n\nAllowed\n\n### Advertising\n\nAdvertising cookies may be set through our site by us or our advertising partners and help us deliver relevant marketing content. If you do not allow these cookies, you will experience less relevant advertising.\n\nAllow advertising category\n\nAllowed\n\nBlocking some types of cookies may impact your experience of our sites. You may review and change your choices at any time by selecting Cookie preferences in the footer of this site. We and selected third-parties use cookies or similar technologies as specified in theÂ [AWS Cookie Notice](https://aws.amazon.com/legal/cookies/).\n\nCancelSave preferences\n\n## Unable to save cookie preferences\n\nWe will only store essential cookies at this time, because we were unable to save your cookie preferences.If you want to change your cookie preferences, try again later using the link in the AWS console footer, or contact support if the problem persists.\n\nDismiss\n\n[![Amazon Web Services](/assets/r/images/aws_logo_dark.png)](https://aws.amazon.com)\n\n[Contact Us](https://aws.amazon.com/contact-us/?cmpid=docs_headercta_contactus)\n\n# Looking for Something?\n\nWe're sorry. The web address you entered is not a functioning page on our site. Try one of the following links to find the information you're looking for: \n\n  * [Amazon Web Services Home Page](http://aws.amazon.com): Product information for all our web services. \n  * [Resource Center](http://aws.amazon.com/resources): Documentation, code samples, and other resources for building applications on Amazon Web Services. \n\n\n\n-The Amazon Web Services Documentation Team\n\n[Privacy](https://aws.amazon.com/privacy)[Site terms](https://aws.amazon.com/terms)[Cookie preferences](#)\n\nÂ© 2025, Amazon Web Services, Inc. or its affiliates. All rights reserved.\n",
+    "content_quality_score": 0.3,
+    "summary": null,
+    "child_urls": [
+        "https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-roles.html/",
+        "https://aws.amazon.com/legal/cookies/",
+        "https://aws.amazon.com",
+        "https://aws.amazon.com/contact-us/?cmpid=docs_headercta_contactus",
+        "http://aws.amazon.com",
+        "http://aws.amazon.com/resources",
+        "https://aws.amazon.com/privacy",
+        "https://aws.amazon.com/terms"
+    ]
+}

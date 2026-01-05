@@ -1,0 +1,70 @@
+{
+    "id": "b90c4c0f3852f25e533eee2bcb35b9a8",
+    "metadata": {
+        "id": "b90c4c0f3852f25e533eee2bcb35b9a8",
+        "url": "https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/",
+        "title": "Advanced Retrieval for AI with Chroma - DeepLearning.AI",
+        "properties": {
+            "description": "Master advanced retrieval techniques to enhance result relevancy. Identify poor query results. Fine-tune your embeddings with user feedback.",
+            "keywords": null,
+            "author": null,
+            "og:locale": "en_US",
+            "og:url": "https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/",
+            "og:type": "website",
+            "og:title": "Advanced Retrieval for AI with Chroma",
+            "og:description": "Master advanced retrieval techniques to enhance result relevancy. Identify poor query results. Fine-tune your embeddings with user feedback.",
+            "og:image": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/12/DeepLearning_ChromaDB_Banner_2070x1080.png",
+            "og:image:width": "2070",
+            "og:image:height": "1080",
+            "twitter:creator": "@deeplearningai_",
+            "twitter:site": "@deeplearningai_",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Advanced Retrieval for AI with Chroma - DeepLearning.AI",
+            "twitter:description": "Master advanced retrieval techniques to enhance result relevancy. Identify poor query results. Fine-tune your embeddings with user feedback."
+        }
+    },
+    "parent_metadata": {
+        "id": "6dec83651f13fd03f6a48fe96a9c001d",
+        "url": "https://www.notion.so/RAG-6dec83651f13fd03f6a48fe96a9c001d",
+        "title": "RAG",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ]
+        }
+    },
+    "content": "[](/)\n\n  * [Explore Courses](/courses/)\n  * [AI Newsletter](/the-batch/)\n    * [The Batch](/the-batch/)\n    * [Andrew's Letter](/the-batch/tag/letters/)\n    * [Data Points](/the-batch/tag/data-points/)\n    * [ML Research](/the-batch/tag/research/)\n    * [Blog](/blog/)\n  * [Community](/community/)\n    * [Forum](https://community.deeplearning.ai/)\n    * [Events](/events/)\n    * [Ambassadors](/ambassador/)\n    * [Ambassador Spotlight](/blog/category/ambassador-spotlight/)\n  * [Resources](/resources/)\n  * [Company](/about/)\n    * [About](/about/)\n    * [Careers](/careers/)\n    * [Contact](/contact/)\n\n[Start Learning](https://bit.ly/3RB9T8a)\n\n  * [Overview](#overview)\n  * [Course Outline](#course-outline)\n  * [Instructors](#instructors)\n\n\n\n![](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F12%2FMain_graphic_ChromaDB_2070x1080.png&w=1080&q=75)\n\n  * [All Courses](/courses/)\n  * [Short Courses](/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses)\n  * Advanced Retrieval for AI with Chroma\n\n\n\nShort CourseIntermediate 53 Minutes\n\n# Advanced Retrieval for AI with Chroma\n\nInstructor: Anton Troynikov\n\n[![Chroma](https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/12/chroma_logotype.png)](https://www.trychroma.com/)\n\n[Enroll for Free](https://learn.deeplearning.ai/advanced-retrieval-for-ai)\n\n  * [All Courses](/courses/)\n  * [Short Courses](/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses)\n  * Advanced Retrieval for AI with Chroma\n\n\n\n![](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F12%2FYouTube-Thumbnails-15.png&w=3840&q=75)\n\n  * Intermediate\n  * 53 Minutes\n  * 7 Video Lessons\n  * 5 Code Examples\n  * Instructor: Anton Troynikov\n  *     * ![Chroma](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F01%2FChroma.png&w=48&q=75)\nChroma\n\n\n\n## What you'll learn\n\n  * Learn to recognize when queries are producing poor results.\n\n  * Learn to use a large language model (LLM) to improve your queries.\n\n  * Learn to fine-tune your embeddings with user feedback.\n\n\n\n\n## About this course\n\nInformation Retrieval (IR) and Retrieval Augmented Generation (RAG) are only effective if the information retrieved from a database as a result of a query is relevant to the query and its application. \n\nToo often, queries return semantically similar results but don’t answer the question posed. They may also return irrelevant material which can distract the LLM from the correct results. \n\nThis course teaches advanced retrieval techniques to improve the relevancy of retrieved results.\n\nThe techniques covered include: \n\n  * Query Expansion: Expanding user queries improves information retrieval by including related concepts and keywords. Utilizing an LLM makes this traditional technique even more effective. Another form of expansion has the LLM suggest a possible answer to the query which is then included in the query.\n  * Cross-encoder reranking: Reranking retrieval results to select the results most relevant to your query improves your results.\n  * Training and utilizing Embedding Adapters: Adding an adapter layer to reshape embeddings can improve retrieval by emphasizing elements relevant to your application. \n\n\n\n## Who should join?\n\nAnyone who has intermediate Python knowledge and wants to learn advanced retrieval techniques for retrieving data from their vector database.\n\n## Course Outline\n\n7 Lessons・5 Code Examples\n\n  * Introduction\n\nVideo・3 mins\n\n  * Overview of embeddings-based retrieval\n\nVideo with code examples・12 mins\n\n  * Pitfalls of retrieval - when simple vector search fails\n\nVideo with code examples・11 mins\n\n  * Query Expansion\n\nVideo with code examples・9 mins\n\n  * Cross-encoder re-ranking\n\nVideo with code examples・6 mins\n\n  * Embedding adaptors\n\nVideo with code examples・8 mins\n\n  * Other Techniques\n\nVideo・1 mins\n\n\n\n\n## Instructor\n\n![Anton Troynikov](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F12%2FChroma-founder.jpg&w=256&q=75)\n\n### Anton Troynikov\n\nCo-founder, Chroma\n\n  * [](https://twitter.com/atroyn)\n\n\n\n## Advanced Retrieval for AI with Chroma\n\n  * Intermediate\n  * 53 Minutes\n  * 7 Video Lessons\n  * 5 Code Examples\n  * Instructor: Anton Troynikov\n  *     * ![Chroma](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F01%2FChroma.png&w=48&q=75)\nChroma\n\n\n\n[Enroll for Free](https://learn.deeplearning.ai/advanced-retrieval-for-ai)\n\nCourse access is free for a limited time during the DeepLearning.AI learning platform beta!\n\n[Enroll for Free](https://learn.deeplearning.ai/advanced-retrieval-for-ai)\n\n## Want to learn more about Generative AI?\n\nKeep learning with updates on curated AI news, courses, and events, as well as Andrew’s thoughts from DeepLearning.AI! \n\nFirst name*\n\nLast name*\n\nEmail*\n\nWhere do you live?*\n\nPlease SelectAfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandColombiaComorosCongo - BrazzavilleCongo - KinshasaCook IslandsCosta RicaCroatiaCubaCyprusCzech RepublicCôte d’IvoireDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuamGuatemalaGuineaGuinea-BissauGuyanaHaitiHondurasHong Kong SAR ChinaHungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacau SAR ChinaMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMauritaniaMauritiusMexicoMicronesiaMidway IslandsMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmar [Burma]NamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorth KoreaNorwayOmanPakistanPalauPanamaPapua New GuineaParaguayPeople's Democratic Republic of YemenPeruPhilippinesPolandPortugalPuerto RicoQatarRomaniaRussiaRwandaSaint BarthélemySaint Kitts and NevisSaint LuciaSaint MartinSaint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSaudi ArabiaSenegalSerbiaSerbia and MontenegroSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth KoreaSpainSri LankaSudanSurinameSwazilandSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsU.S. Minor Outlying IslandsU.S. Miscellaneous Pacific IslandsU.S. Virgin IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamYemenZambiaZimbabwe\n\n  * I want to get the latest news, courses, and workshops and events announcements*\n\n\n\n[Enroll for Free](https://learn.deeplearning.ai/advanced-retrieval-for-ai)\n\n  * [Courses](/courses/)\n  * [The Batch](/the-batch/)\n  * [Community](/community/)\n  * [Careers](/careers/)\n  * [About](/about/)\n\n\n\n[](https://www.facebook.com/1027125564106325)[](https://www.instagram.com/deeplearningai)[](http://twitter.com/deeplearningai)[](https://www.linkedin.com/company/18246783)[](https://www.youtube.com/c/Deeplearningai)\n",
+    "content_quality_score": 0.8,
+    "summary": null,
+    "child_urls": [
+        "https://www.deeplearning.ai/",
+        "https://www.deeplearning.ai/courses/",
+        "https://www.deeplearning.ai/the-batch/",
+        "https://www.deeplearning.ai/the-batch/tag/letters/",
+        "https://www.deeplearning.ai/the-batch/tag/data-points/",
+        "https://www.deeplearning.ai/the-batch/tag/research/",
+        "https://www.deeplearning.ai/blog/",
+        "https://www.deeplearning.ai/community/",
+        "https://www.deeplearning.ai/events/",
+        "https://www.deeplearning.ai/ambassador/",
+        "https://www.deeplearning.ai/blog/category/ambassador-spotlight/",
+        "https://www.deeplearning.ai/resources/",
+        "https://www.deeplearning.ai/about/",
+        "https://www.deeplearning.ai/careers/",
+        "https://www.deeplearning.ai/contact/",
+        "https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/#overview",
+        "https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/#course-outline",
+        "https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/#instructors",
+        "https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses",
+        "https://community.deeplearning.ai/",
+        "https://bit.ly/3RB9T8a",
+        "https://www.trychroma.com/",
+        "https://learn.deeplearning.ai/advanced-retrieval-for-ai",
+        "https://twitter.com/atroyn",
+        "https://www.facebook.com/1027125564106325",
+        "https://www.instagram.com/deeplearningai",
+        "http://twitter.com/deeplearningai",
+        "https://www.linkedin.com/company/18246783",
+        "https://www.youtube.com/c/Deeplearningai"
+    ]
+}

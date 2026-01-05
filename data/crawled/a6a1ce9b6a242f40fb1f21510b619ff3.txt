@@ -1,0 +1,223 @@
+[Skip to main content](#main)
+
+[](/)
+
+  * Research
+  * Products
+  * [Safety](/safety/)
+  * Company
+
+
+
+Techniques for training large neural networks | OpenAI
+
+  * [No parallelism](#no-parallelism)
+  * [Data parallelism](#data-parallelism)
+  * [Pipeline parallelism](#pipeline-parallelism)
+  * [Tensor parallelism](#tensor-parallelism)
+  * [Mixture-of-Experts (MoE)](#mixture-of-experts-moe)
+  * [Other memory saving designs](#other-memory-saving-designs)
+
+
+
+June 9, 2022
+
+# Techniques for training large neural networks
+
+![Techniques For Training Large Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
+
+Large neural networks are at the core of many recent advances in AI, but training them is a difficult engineering and research challenge which requires orchestrating a cluster of GPUs to perform a single synchronized calculation.
+
+Large neural networks are at the core of many recent advances in AI, but training them is a difficult engineering and research challenge which requires orchestrating a cluster of GPUs to perform a single synchronized calculation. As cluster and model sizes have grown, machine learning practitioners have developed an increasing variety of techniques to parallelize model training over many GPUs. At first glance, understanding these parallelism techniques may seem daunting, but with only a few assumptions about the structure of the computation these techniques become much more clear—at that point, you’re just shuttling around opaque bits from A to B like a network switch shuttles around packets.
+
+## No parallelism
+
+Error: Loading chunk 51577 failed. (error: https://openai.com/_next/static/chunks/221e729c.9a35d483cadad0a5.js)
+
+Training a neural network is an iterative process. In every iteration, we do a pass forward through a model’s [layers⁠(opens in a new window)](https://developer.nvidia.com/blog/deep-learning-nutshell-core-concepts/#layer) to compute an output for each training example in a batch of data. Then another pass proceeds [backward⁠(opens in a new window)](https://youtu.be/Ilg3gGewQ5U) through the layers, propagating how much each parameter affects the final output by computing a [gradient⁠(opens in a new window)](https://youtu.be/IHZwWFHWa-w) with respect to each parameter. The average gradient for the batch, the parameters, and some per-parameter optimization state is passed to an optimization algorithm, such as [Adam⁠(opens in a new window)](https://arxiv.org/abs/1412.6980), which computes the next iteration’s parameters (which should have slightly better performance on your data) and new per-parameter optimization state. As the training iterates over batches of data, the model evolves to produce increasingly accurate outputs.
+
+Various parallelism techniques slice this training process across different dimensions, including:
+
+  * Data parallelism—run different subsets of the batch on different GPUs;
+
+  * Pipeline parallelism—run different layers of the model on different GPUs;
+
+  * Tensor parallelism—break up the math for a single operation such as a matrix multiplication to be split across GPUs;
+
+  * Mixture-of-Experts—process each example by only a fraction of each layer.
+
+
+
+
+(In this post, we’ll assume that you are using GPUs to train your neural networks, but the same ideas apply to those using any other [neural network accelerator⁠(opens in a new window)](https://www.synopsys.com/ai/what-is-an-ai-accelerator.html).)
+
+## Data parallelism
+
+ _Data Parallel_ training means copying the same parameters to multiple GPUs (often called “workers”) and assigning different examples to each to be processed simultaneously. Data parallelism alone still requires that your model fits into a single GPU’s memory, but lets you utilize the compute of many GPUs at the cost of storing many duplicate copies of your parameters. That being said, there are strategies to increase the effective RAM available to your GPU, such as temporarily offloading parameters to CPU memory between usages.
+
+As each data parallel worker updates its copy of the parameters, they need to coordinate to ensure that each worker continues to have similar parameters. The simplest approach is to introduce blocking communication between workers: (1) independently compute the gradient on each worker; (2) [average the gradients across workers⁠(opens in a new window)](https://tech.preferred.jp/en/blog/technologies-behind-distributed-deep-learning-allreduce/); and (3) independently compute the same new parameters on each worker. Step (2) is a blocking average which requires transferring quite a lot of data (proportional to the number of workers times the size of your parameters), which can hurt your training throughput. There are various [asynchronous synchronization schemes⁠(opens in a new window)](https://arxiv.org/abs/1106.5730) to remove this overhead, but they hurt learning efficiency; in practice, people generally stick with the synchronous approach.
+
+## Pipeline parallelism
+
+With  _Pipeline Parallel_ training, we partition sequential chunks of the model across GPUs. Each GPU holds only a fraction of parameters, and thus the same model consumes proportionally less memory per GPU.
+
+It’s straightforward to split a large model into chunks of consecutive layers. However, there’s a sequential dependency between inputs and outputs of layers, so a naive implementation can lead to a large amount of idle time while a worker waits for outputs from the previous machine to be used as its inputs. These waiting time chunks are known as “bubbles,” wasting the computation that could be done by the idling machines.
+
+Error: Loading chunk 51577 failed. (error: https://openai.com/_next/static/chunks/221e729c.9a35d483cadad0a5.js)
+
+We can reuse the ideas from data parallelism to reduce the cost of the bubble by having each worker only process a subset of data elements at one time, allowing us to cleverly overlap new computation with wait time. The core idea is to split one batch into multiple microbatches; each microbatch should be proportionally faster to process and each worker begins working on the next microbatch as soon as it’s available, thus expediting the pipeline execution. With enough microbatches the workers can be utilized most of the time with a minimal bubble at the beginning and end of the step. Gradients are averaged across microbatches, and updates to the parameters happen only once all microbatches have been completed.
+
+The number of workers that the model is split over is commonly known as  _pipeline depth_.
+
+During the forward pass, workers only need to send the output (called activations) of its chunk of layers to the next worker; during the backward pass, it only sends the gradients on those activations to the previous worker. There’s a big design space of how to schedule these passes and how to aggregate the gradients across microbatches. [GPipe⁠(opens in a new window)](https://arxiv.org/abs/1811.06965) has each worker process forward and backward passes consecutively and then aggregates gradients from multiple microbatches synchronously at the end. [PipeDream⁠(opens in a new window)](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf) instead schedules each worker to alternatively process forward and backward passes.
+
+Error: Loading chunk 51577 failed. (error: https://openai.com/_next/static/chunks/221e729c.9a35d483cadad0a5.js)
+
+## Tensor parallelism
+
+Pipeline parallelism splits a model “vertically” by layer. It’s also possible to “horizontally” split certain operations within a layer, which is usually called  _Tensor Parallel_ training. For many modern models (such as the [Transformer⁠(opens in a new window)](https://jalammar.github.io/illustrated-transformer/)), the computation bottleneck is multiplying an activation batch matrix with a large weight matrix. [Matrix multiplication⁠(opens in a new window)](https://en.wikipedia.org/wiki/Matrix_multiplication) can be thought of as dot products between pairs of rows and columns; it’s possible to compute independent dot products on different GPUs, or to compute parts of each dot product on different GPUs and sum up the results. With either strategy, we can slice the weight matrix into even-sized “shards”, host each shard on a different GPU, and use that shard to compute the relevant part of the overall matrix product before later communicating to combine the results.
+
+One example is [Megatron-LM⁠(opens in a new window)](https://nv-adlr.github.io/MegatronLM), which parallelizes matrix multiplications within the Transformer’s self-attention and MLP layers. [PTD-P⁠(opens in a new window)](https://arxiv.org/abs/2104.04473) uses tensor, data, and pipeline parallelism; its pipeline schedule assigns multiple non-consecutive layers to each device, reducing bubble overhead at the cost of more network communication.
+
+Sometimes the input to the network can be parallelized across a dimension with a high degree of parallel computation relative to cross-communication. [Sequence parallelism⁠(opens in a new window)](https://arxiv.org/abs/2205.05198) is one such idea, where an input sequence is split across time into multiple sub-examples, proportionally decreasing peak memory consumption by allowing the computation to proceed with more granularly-sized examples.
+
+## Mixture-of-Experts (MoE)
+
+With the [Mixture-of-Experts (MoE)⁠(opens in a new window)](https://arxiv.org/abs/1701.06538) approach, only a fraction of the network is used to compute the output for any one input. One example approach is to have many sets of weights and the network can choose which set to use via a gating mechanism at inference time. This enables many more parameters without increased computation cost. Each set of weights is referred to as “experts,” in the hope that the network will learn to assign specialized computation and skills to each expert. Different experts can be hosted on different GPUs, providing a clear way to scale up the number of GPUs used for a model.
+
+![Illustration of a mixture-of-experts \(MoE\) layer. Only 2 out of the n experts are selected by the gating network. \(Image adapted from: Shazeer et al., 2017\)](https://images.ctfassets.net/kftzwdyauwt9/cb1a6327-67de-4d07-408086e8e33b/e24e8be0f14f8285430ef975c2279c97/moe.svg?w=3840&q=90)
+
+Illustration of a mixture-of-experts (MoE) layer. Only 2 out of the  _n_ experts are selected by the gating network. (Image adapted from: [Shazeer et al., 2017⁠(opens in a new window)](https://arxiv.org/abs/1701.06538))
+
+[GShard⁠(opens in a new window)](https://arxiv.org/abs/2006.16668) scales an MoE Transformer up to 600 billion parameters with a scheme where only the MoE layers are split across multiple TPU devices and other layers are fully duplicated. [Switch Transformer⁠(opens in a new window)](https://arxiv.org/abs/2101.03961) scales model size to trillions of parameters with even higher sparsity by routing one input to a single expert.
+
+## Other memory saving designs
+
+There are many other computational strategies to make training increasingly large neural networks more tractable. For example:
+
+  * To compute the gradient, you need to have saved the original activations, which can consume a lot of device RAM. [ _Checkpointing_ ⁠(opens in a new window)](https://arxiv.org/abs/1604.06174) (also known as activation recomputation) stores any subset of activations, and recomputes the intermediate ones just-in-time during the backward pass. This saves a lot of memory at the computational cost of at most one additional full forward pass. One can also continually trade off between compute and memory cost by [selective activation recomputation⁠(opens in a new window)](https://arxiv.org/abs/2205.05198), which is checkpointing subsets of the activations that are relatively more expensive to store but cheaper to compute.
+
+  * [_Mixed Precision Training_ ⁠(opens in a new window)](https://arxiv.org/abs/1710.03740) is to train models using lower-precision numbers (most commonly [FP16⁠(opens in a new window)](https://en.wikipedia.org/wiki/Half-precision_floating-point_format)). Modern accelerators can reach much higher FLOP counts with lower-precision numbers, and you also save on device RAM. With proper care, the resulting model can lose almost no accuracy.
+
+  * _Offloading_ is to temporarily offload unused data to the CPU or amongst different devices and later read it back when needed. Naive implementations will slow down training a lot, but sophisticated implementations will pre-fetch data so that the device never needs to wait on it. One implementation of this idea is [ZeRO⁠(opens in a new window)](https://arxiv.org/abs/1910.02054) which splits the parameters, gradients, and optimizer states across all available hardware and materializes them as needed.
+
+  * _Memory Efficient Optimizers_ have been proposed to reduce the memory footprint of the running state maintained by the optimizer, such as [Adafactor⁠(opens in a new window)](https://arxiv.org/abs/1804.04235).
+
+  * _Compression_ also can be used for storing intermediate results in the network. For example, [Gist⁠(opens in a new window)](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/fiddle-gist-isca18.pdf) compresses activations that are saved for the backward pass; [DALL·E⁠](/index/dall-e/) compresses the gradients before synchronizing them.
+
+
+
+
+At OpenAI, we are training and improving large models from the underlying infrastructure all the way to deploying them for real-world problems. If you’d like to put the ideas from this post into practice—especially relevant for our Scaling and Applied Research teams—we’re [hiring⁠](/careers/research-engineer/)!
+
+  * [Conclusion](/news/research/?tags=research-conclusion)
+  * [Compute](/news/research/?tags=topic-compute)
+  * [Software engineering](/news/research/?tags=topic-software-engineering)
+
+
+
+## Authors
+
+[Lilian Weng](/news/?author=lilian-weng#results), [Greg Brockman](/news/?author=greg-brockman#results)
+
+## Acknowledgments
+
+Thanks to Nikolas Tezak, Sam Altman, Daniel Gackle, Ilya Sutskever, and Steven Adler for feedback on drafts. Thanks to Justin Jay Wang, Bianca Martin, and Steve Dowling for communications and design.
+
+## Related articles
+
+[View all research articles](/news/research/)
+
+[Jul 28, 2021Jul 28, 2021Jul 28, 2021Introducing Triton: Open-source GPU programming for neural networksIntroducing Triton: Open-source GPU programming for neural networksIntroducing Triton: Open-source GPU programming for neural networks![Introducing Triton Open Source Gpu Programming For Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/cdce1ebd-19a2-4848-a08ec8c44e18/55b924fc6628318148b7c5c4902551e7/image-18.webp?w=3840&q=90&fm=webp)](/index/triton/)
+
+[Jan 25, 2021Jan 25, 2021Jan 25, 2021Scaling Kubernetes to 7,500 nodesScaling Kubernetes to 7,500 nodesScaling Kubernetes to 7,500 nodes![Scaling Kubernetes To 7 500 Nodes](https://images.ctfassets.net/kftzwdyauwt9/84745f0a-d786-4066-99f031ec2cb2/be1d8d7357f9f5bc35970e058f42c8d0/image-25.webp?w=3840&q=90&fm=webp)](/index/scaling-kubernetes-to-7500-nodes/)
+
+[May 5, 2020May 5, 2020May 5, 2020AI and efficiencyAI and efficiencyAI and efficiency![AI And Efficiency](https://images.ctfassets.net/kftzwdyauwt9/e5cba1f8-883b-4961-dca6f726f936/be1a627ab2f509a68b91b8a7ef29f610/image_128.png?w=3840&q=90&fm=webp)](/index/ai-and-efficiency/)
+
+Our research
+
+  * [Overview](/research/)
+  * [Index](/news/research/)
+
+
+
+Latest advancements
+
+  * [OpenAI o1](/index/learning-to-reason-with-llms/)
+  * [OpenAI o1-mini](/index/openai-o1-mini-advancing-cost-efficient-reasoning/)
+  * [GPT-4](/index/gpt-4/)
+  * [GPT-4o mini](/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
+  * [DALL·E 3](/index/dall-e-3/)
+  * [Sora](/index/sora/)
+
+
+
+ChatGPT
+
+  * [For Everyone](/chatgpt/overview/)
+  * [For Teams](/chatgpt/team/)
+  * [For Enterprises](/chatgpt/enterprise/)
+  * [ChatGPT login(opens in a new window)](https://chatgpt.com/)
+  * [Download](/chatgpt/download/)
+
+
+
+API
+
+  * [Platform overview](/api/)
+  * [Pricing](/api/pricing/)
+  * [Documentation(opens in a new window)](https://platform.openai.com/docs/introduction)
+  * [API login(opens in a new window)](https://platform.openai.com/)
+
+
+
+Explore more
+
+  * [OpenAI for business](/business/)
+  * [Stories](/news/stories/)
+
+
+
+Safety overview
+
+  * [Safety overview](/safety/)
+
+
+
+Company
+
+  * [About us](/about/)
+  * [News](/news/)
+  * [Our Charter](/charter/)
+  * [Security](/security-and-privacy/)
+  * [Residency](/residency/)
+  * [Careers](/careers/)
+
+
+
+Terms & policies
+
+  * [Terms of use](/policies/terms-of-use/)
+  * [Privacy policy](/policies/privacy-policy/)
+  * [Brand guidelines](/brand/)
+  * [Other policies ](/policies/)
+
+
+
+English (US)
+
+English (US)Japanese
+
+OpenAI © 2015–2025Manage Cookies
+
+[(opens in a new window)](https://x.com/OpenAI)[(opens in a new window)](https://www.youtube.com/OpenAI)[(opens in a new window)](https://www.linkedin.com/company/openai)[(opens in a new window)](https://github.com/openai)[(opens in a new window)](https://www.instagram.com/openai/?hl=en)[(opens in a new window)](https://www.tiktok.com/@openai?lang=en)[(opens in a new window)](https://discord.gg/openai)
+
+English (US)
+
+English (US)Japanese
+
+We use cookies and similar technologies to deliver, maintain, improve our services and for security purposes.
+
+Check our [Cookie Policy](/policies/cookie-policy/) for details. Click 'Accept all' to let OpenAI and partners use cookies for these purposes. Click 'Reject non-essential' to say no to cookies, except those that are strictly necessary.
+
+Accept allReject non-essential

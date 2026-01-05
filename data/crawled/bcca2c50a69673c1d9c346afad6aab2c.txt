@@ -1,0 +1,593 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Favr2002%2Fsagemaker%2Fblob%2Ffeat%2Fsagemaker-processing-job%2Fpipeline.py%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Favr2002%2Fsagemaker%2Fblob%2Ffeat%2Fsagemaker-processing-job%2Fpipeline.py%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=avr2002%2Fsagemaker) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ avr2002 ](/avr2002) / **[sagemaker](/avr2002/sagemaker) ** Public
+
+  * [ Notifications ](/login?return_to=%2Favr2002%2Fsagemaker) You must be signed in to change notification settings
+  * [ Fork 0 ](/login?return_to=%2Favr2002%2Fsagemaker)
+  * [ Star  0 ](/login?return_to=%2Favr2002%2Fsagemaker)
+
+
+
+
+  * [ Code ](/avr2002/sagemaker/tree/feat/sagemaker-processing-job)
+  * [ Issues 0 ](/avr2002/sagemaker/issues)
+  * [ Pull requests 0 ](/avr2002/sagemaker/pulls)
+  * [ Actions ](/avr2002/sagemaker/actions)
+  * [ Projects 0 ](/avr2002/sagemaker/projects)
+  * [ Security ](/avr2002/sagemaker/security)
+  * [ Insights ](/avr2002/sagemaker/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/avr2002/sagemaker/tree/feat/sagemaker-processing-job)
+  * [ Issues  ](/avr2002/sagemaker/issues)
+  * [ Pull requests  ](/avr2002/sagemaker/pulls)
+  * [ Actions  ](/avr2002/sagemaker/actions)
+  * [ Projects  ](/avr2002/sagemaker/projects)
+  * [ Security  ](/avr2002/sagemaker/security)
+  * [ Insights  ](/avr2002/sagemaker/pulse)
+
+
+
+## Files
+
+feat/sagemaker-processing-job
+
+  * .vscode
+
+  * data
+
+  * notebooks
+
+  * src
+
+  * .dockerignore
+
+  * .gitignore
+
+  * .pre-commit-config.yaml
+
+  * Dockerfile
+
+  * Makefile
+
+  * README.md
+
+  * docker-compose.yaml
+
+  * pipeline.py
+
+  * pyproject.toml
+
+  * requirements.txt
+
+  * run.sh
+
+  * uv.lock
+
+
+
+
+## Breadcrumbs
+
+  1. [sagemaker](/avr2002/sagemaker/tree/feat/sagemaker-processing-job)
+
+
+
+/
+
+# pipeline.py
+
+Copy path
+
+Blame
+
+Blame
+
+## Latest commit
+
+[![avr2002](https://avatars.githubusercontent.com/u/82011740?v=4&size=40)](/avr2002)[avr2002](/avr2002/sagemaker/commits?author=avr2002)
+
+[trying to run processing job using docker container: Getting permissi…](/avr2002/sagemaker/commit/cdc430e9ad51bd8fe8b33d77f424c9bc5d316212)
+
+Jan 22, 2025
+
+[cdc430e](/avr2002/sagemaker/commit/cdc430e9ad51bd8fe8b33d77f424c9bc5d316212) · Jan 22, 2025
+
+## History
+
+[History](/avr2002/sagemaker/commits/feat/sagemaker-processing-job/pipeline.py)
+
+[](/avr2002/sagemaker/commits/feat/sagemaker-processing-job/pipeline.py)
+
+156 lines (130 loc) · 4.87 KB
+
+## Breadcrumbs
+
+  1. [sagemaker](/avr2002/sagemaker/tree/feat/sagemaker-processing-job)
+
+
+
+/
+
+# pipeline.py
+
+Top
+
+## File metadata and controls
+
+  * Code
+
+  * Blame
+
+
+
+
+156 lines (130 loc) · 4.87 KB
+
+[Raw](https://github.com/avr2002/sagemaker/raw/refs/heads/feat/sagemaker-processing-job/pipeline.py)
+
+103
+
+import os import platform from pathlib import Path import boto3 from dotenv import load_dotenv # from sagemaker.local import LocalSession from sagemaker.processing import ( # FrameworkProcessor, ProcessingInput, ProcessingOutput, Processor, ) # from sagemaker.sklearn.processing import SKLearnProcessor from sagemaker.workflow.parameters import ParameterString from sagemaker.workflow.pipeline import Pipeline from sagemaker.workflow.pipeline_context import ( LocalPipelineSession, PipelineSession, ) from sagemaker.workflow.pipeline_definition_config import PipelineDefinitionConfig from sagemaker.workflow.steps import ( CacheConfig, ProcessingStep, ) from penguins.consts import ( BUCKET, LOCAL_MODE, S3_LOCATION, SAGEMAKER_EXECUTION_ROLE, SAGEMAKER_PROCESSING_DIR, ) # from sagemaker.sklearn.estimator import SKLearn load_dotenv() # Constants THIS_DIR: Path = Path(__file__).resolve().parent SOURCE_DIR: str = str(THIS_DIR / "src") # Get the architecture of the local machine architecture = platform.machine() IS_ARM64_ARCHITECTURE = architecture == "arm64" def get_ecr_image_uri(repository_name, region="ap-south-1"): client = boto3.client("ecr", region_name=region) response = client.describe_repositories() for repo in response["repositories"]: if repo["repositoryName"] == repository_name: return repo["repositoryUri"] raise ValueError(f"Repository {repository_name} not found in {region}.") REPOSITORY_NAME = "processing-job" ECR_IMAGE_URI = get_ecr_image_uri(REPOSITORY_NAME) # Sagemaker Session Setup pipeline_session: LocalPipelineSession | PipelineSession = ( LocalPipelineSession(default_bucket=BUCKET) if LOCAL_MODE else PipelineSession(default_bucket=BUCKET) ) if isinstance(pipeline_session, LocalPipelineSession): pipeline_session.config = {"local": {"local_code": True}} config = { "session": pipeline_session, "instance_type": "local" if LOCAL_MODE else "ml.m5.xlarge", "image": "sagemaker-tensorflow-toolkit-local" if LOCAL_MODE and IS_ARM64_ARCHITECTURE else None, "framework_version": "2.12", "py_version": "py310", } # Parameters pipeline_definition_config = PipelineDefinitionConfig(use_custom_job_prefix=True) dataset_location = ParameterString(name="dataset_location", default_value=f"{S3_LOCATION}/data") processor: Processor = Processor( image_uri=ECR_IMAGE_URI, role=SAGEMAKER_EXECUTION_ROLE, instance_count=1, instance_type=config["instance_type"], sagemaker_session=config["session"], env={ "S3_BUCKET_NAME": os.environ["S3_BUCKET_NAME"], "SAGEMAKER_EXECUTION_ROLE": os.environ["SAGEMAKER_EXECUTION_ROLE"], "LOCAL_MODE": os.environ["LOCAL_MODE"], "AWS_REGION": "ap-south-1", "AWS_DEFAULT_REGION": "ap-south-1", }, ) # Enable caching in Processing Step cache_config: CacheConfig = CacheConfig(enable_caching=True, expire_after="15d") # Define the processing step preprocessing_step = ProcessingStep( name="preprocess-data", step_args=processor.run( inputs=[ProcessingInput(source=dataset_location, destination=f"{str(SAGEMAKER_PROCESSING_DIR)}/input")], outputs=[ ProcessingOutput( output_name="train", source=f"{str(SAGEMAKER_PROCESSING_DIR)}/train", destination=f"{S3_LOCATION}/preprocessing/train", ), ProcessingOutput( output_name="validation", source=f"{str(SAGEMAKER_PROCESSING_DIR)}/validation", destination=f"{S3_LOCATION}/preprocessing/validation", ), ProcessingOutput( output_name="test", source=f"{str(SAGEMAKER_PROCESSING_DIR)}/test", destination=f"{S3_LOCATION}/preprocessing/test", ), ProcessingOutput( output_name="model", source=f"{str(SAGEMAKER_PROCESSING_DIR)}/model", destination=f"{S3_LOCATION}/preprocessing/model", ), ProcessingOutput( output_name="train-baseline", source=f"{str(SAGEMAKER_PROCESSING_DIR)}/train-baseline", destination=f"{S3_LOCATION}/preprocessing/train-baseline", ), ProcessingOutput( output_name="test-baseline", source=f"{str(SAGEMAKER_PROCESSING_DIR)}/test-baseline", destination=f"{S3_LOCATION}/preprocessing/test-baseline", ), ], ), cache_config=cache_config, ) # Pipeline Definition pipeline: Pipeline = Pipeline( name="penguins-preprocessing-pipeline", parameters=[dataset_location], steps=[preprocessing_step], pipeline_definition_config=pipeline_definition_config, sagemaker_session=config["session"], ) pipeline.upsert(role_arn=SAGEMAKER_EXECUTION_ROLE) if __name__ == "__main__": pipeline.start()
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67
+
+68
+
+69
+
+70
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76
+
+77
+
+78
+
+79
+
+80
+
+81
+
+82
+
+83
+
+84
+
+85
+
+86
+
+87
+
+88
+
+89
+
+90
+
+91
+
+92
+
+93
+
+94
+
+95
+
+96
+
+97
+
+98
+
+99
+
+100
+
+101
+
+102
+
+103
+
+104
+
+105
+
+106
+
+107
+
+108
+
+109
+
+110
+
+111
+
+112
+
+113
+
+114
+
+115
+
+116
+
+117
+
+118
+
+119
+
+120
+
+121
+
+122
+
+123
+
+124
+
+125
+
+126
+
+127
+
+128
+
+129
+
+130
+
+131
+
+132
+
+133
+
+134
+
+135
+
+136
+
+137
+
+138
+
+139
+
+140
+
+141
+
+142
+
+143
+
+144
+
+145
+
+146
+
+147
+
+148
+
+149
+
+150
+
+151
+
+152
+
+153
+
+154
+
+155
+
+156
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 
+
+While the code is focused, press Alt+F1 for a menu of operations.

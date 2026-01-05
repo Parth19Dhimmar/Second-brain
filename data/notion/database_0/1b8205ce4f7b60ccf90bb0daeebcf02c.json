@@ -1,0 +1,23 @@
+{
+    "id": "1b8205ce4f7b60ccf90bb0daeebcf02c",
+    "metadata": {
+        "id": "1b8205ce4f7b60ccf90bb0daeebcf02c",
+        "url": "https://www.notion.so/Platforms-systems-1b8205ce4f7b60ccf90bb0daeebcf02c",
+        "title": "Platforms & systems",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "ab8ac5be126aaebb1b1ecf580dcedacb",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Articles\n\n\t- [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html), by Chip Huyen",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://huyenchip.com/2024/07/25/genai-platform.html/"
+    ]
+}

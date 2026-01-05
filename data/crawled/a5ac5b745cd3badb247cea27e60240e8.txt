@@ -1,0 +1,666 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ffastapi%2Ftyper%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ffastapi%2Ftyper%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=fastapi%2Ftyper) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ fastapi ](/fastapi) / **[typer](/fastapi/typer) ** Public
+
+  * [ Sponsor  ](/sponsors/tiangolo)
+  * [ Notifications ](/login?return_to=%2Ffastapi%2Ftyper) You must be signed in to change notification settings
+  * [ Fork 693 ](/login?return_to=%2Ffastapi%2Ftyper)
+  * [ Star  16.2k ](/login?return_to=%2Ffastapi%2Ftyper)
+
+
+
+
+Typer, build great CLIs. Easy to code. Based on Python type hints. 
+
+[typer.tiangolo.com/](https://typer.tiangolo.com/ "https://typer.tiangolo.com/")
+
+### License
+
+[ MIT license ](/fastapi/typer/blob/master/LICENSE)
+
+[ 16.2k stars ](/fastapi/typer/stargazers) [ 693 forks ](/fastapi/typer/forks) [ Branches ](/fastapi/typer/branches) [ Tags ](/fastapi/typer/tags) [ Activity ](/fastapi/typer/activity)
+
+[ Star  ](/login?return_to=%2Ffastapi%2Ftyper)
+
+[ Notifications ](/login?return_to=%2Ffastapi%2Ftyper) You must be signed in to change notification settings
+
+  * [ Code ](/fastapi/typer)
+  * [ Issues 117 ](/fastapi/typer/issues)
+  * [ Pull requests 58 ](/fastapi/typer/pulls)
+  * [ Discussions ](/fastapi/typer/discussions)
+  * [ Actions ](/fastapi/typer/actions)
+  * [ Projects 0 ](/fastapi/typer/projects)
+  * [ Security ](/fastapi/typer/security)
+  * [ Insights ](/fastapi/typer/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/fastapi/typer)
+  * [ Issues  ](/fastapi/typer/issues)
+  * [ Pull requests  ](/fastapi/typer/pulls)
+  * [ Discussions  ](/fastapi/typer/discussions)
+  * [ Actions  ](/fastapi/typer/actions)
+  * [ Projects  ](/fastapi/typer/projects)
+  * [ Security  ](/fastapi/typer/security)
+  * [ Insights  ](/fastapi/typer/pulse)
+
+
+
+# fastapi/typer
+
+master
+
+[**5** Branches](/fastapi/typer/branches)[**44** Tags](/fastapi/typer/tags)
+
+[](/fastapi/typer/branches)[](/fastapi/typer/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+![author](https://github.githubassets.com/images/gravatars/gravatar-user-420.png?size=40)github-actions[📝 Update release notes](/fastapi/typer/commit/c49d366465a660fcf3ef91c7fdaade23ad4595b3)Jan 20, 2025[c49d366](/fastapi/typer/commit/c49d366465a660fcf3ef91c7fdaade23ad4595b3) · Jan 20, 2025
+
+## History
+
+[909 Commits](/fastapi/typer/commits/master/)[](/fastapi/typer/commits/master/)  
+[.github](/fastapi/typer/tree/master/.github ".github")| [.github](/fastapi/typer/tree/master/.github ".github")| [💚 Fix test matrix for Python 3.7 (](/fastapi/typer/commit/11760ea61e47ca712acaa90f1ed6010ffe52b0c9 "💚 Fix test matrix for Python 3.7 \(#1116\)")[#1116](https://github.com/fastapi/typer/pull/1116)[)](/fastapi/typer/commit/11760ea61e47ca712acaa90f1ed6010ffe52b0c9 "💚 Fix test matrix for Python 3.7 \(#1116\)")| Jan 8, 2025  
+[data](/fastapi/typer/tree/master/data "data")| [data](/fastapi/typer/tree/master/data "data")| [🔧 Update members (](/fastapi/typer/commit/47534b753e27a6deac236032d297be95efb0af14 "🔧 Update members \(#1078\)")[#1078](https://github.com/fastapi/typer/pull/1078)[)](/fastapi/typer/commit/47534b753e27a6deac236032d297be95efb0af14 "🔧 Update members \(#1078\)")| Dec 4, 2024  
+[docs](/fastapi/typer/tree/master/docs "docs")| [docs](/fastapi/typer/tree/master/docs "docs")| [📝 Update release notes](/fastapi/typer/commit/c49d366465a660fcf3ef91c7fdaade23ad4595b3 "📝 Update release notes
+\[skip ci\]")| Jan 20, 2025  
+[docs_src](/fastapi/typer/tree/master/docs_src "docs_src")| [docs_src](/fastapi/typer/tree/master/docs_src "docs_src")| [📝 Fix minor inconsistencies and typos in tutorial (](/fastapi/typer/commit/dbc335b0824b952c70278cccb5dbcf774cdba9b5 "📝 Fix minor inconsistencies and typos in tutorial \(#1067\)")[#1067](https://github.com/fastapi/typer/pull/1067)[)](/fastapi/typer/commit/dbc335b0824b952c70278cccb5dbcf774cdba9b5 "📝 Fix minor inconsistencies and typos in tutorial \(#1067\)")| Dec 4, 2024  
+[scripts](/fastapi/typer/tree/master/scripts "scripts")| [scripts](/fastapi/typer/tree/master/scripts "scripts")| [🔨 Update deploy docs preview script (](/fastapi/typer/commit/b9f220572dfff33753ea5860ede016812c7691d7 "🔨 Update deploy docs preview script \(#1079\)")[#1079](https://github.com/fastapi/typer/pull/1079)[)](/fastapi/typer/commit/b9f220572dfff33753ea5860ede016812c7691d7 "🔨 Update deploy docs preview script \(#1079\)")| Dec 4, 2024  
+[tests](/fastapi/typer/tree/master/tests "tests")| [tests](/fastapi/typer/tree/master/tests "tests")| [🚚 Rename test to corner-cases to make it more explicit (](/fastapi/typer/commit/6eba265fcd2c070d580af8a626f8950454bf041e "🚚 Rename test to corner-cases to make it more explicit \(#1083\)")[#1083](https://github.com/fastapi/typer/pull/1083)[)](/fastapi/typer/commit/6eba265fcd2c070d580af8a626f8950454bf041e "🚚 Rename test to corner-cases to make it more explicit \(#1083\)")| Dec 4, 2024  
+[typer-cli](/fastapi/typer/tree/master/typer-cli "typer-cli")| [typer-cli](/fastapi/typer/tree/master/typer-cli "typer-cli")| [📝 Update docs links, from tiangolo to new fastapi org (](/fastapi/typer/commit/e3be56b51cf5cd17fb70e4f0c95bc66154280d88 "📝 Update docs links, from tiangolo to new fastapi org \(#919\)")[#919](https://github.com/fastapi/typer/pull/919)[)](/fastapi/typer/commit/e3be56b51cf5cd17fb70e4f0c95bc66154280d88 "📝 Update docs links, from tiangolo to new fastapi org \(#919\)")| Aug 10, 2024  
+[typer](/fastapi/typer/tree/master/typer "typer")| [typer](/fastapi/typer/tree/master/typer "typer")| [🔖 Release version 0.15.1](/fastapi/typer/commit/0b89650d1e694f5c936836c9b768d8c023413cf2 "🔖 Release version 0.15.1")| Dec 4, 2024  
+[.gitignore](/fastapi/typer/blob/master/.gitignore ".gitignore")| [.gitignore](/fastapi/typer/blob/master/.gitignore ".gitignore")| [🙈 Remove extra line in .gitignore (](/fastapi/typer/commit/5d15ea66dced76d554c9fbb9925e1be1026f1466 "🙈 Remove extra line in .gitignore \(#936\)")[#936](https://github.com/fastapi/typer/pull/936)[)](/fastapi/typer/commit/5d15ea66dced76d554c9fbb9925e1be1026f1466 "🙈 Remove extra line in .gitignore \(#936\)")| Aug 18, 2024  
+[.pre-commit-config.yaml](/fastapi/typer/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/fastapi/typer/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [⬆ [pre-commit.ci] pre-commit autoupdate (](/fastapi/typer/commit/eba47e04272319d3921f3b454eead4bfb27f532c "⬆ \[pre-commit.ci\] pre-commit autoupdate \(#1109\)
+updates:
+- \[github.com/astral-sh/ruff-pre-commit: v0.8.4 → v0.8.6\]\(https://github.com/astral-sh/ruff-pre-commit/compare/v0.8.4...v0.8.6\)
+Co-authored-by: pre-commit-ci\[bot\] <66853113+pre-commit-ci\[bot\]@users.noreply.github.com>")[#1109](https://github.com/fastapi/typer/pull/1109)[)](/fastapi/typer/commit/eba47e04272319d3921f3b454eead4bfb27f532c "⬆ \[pre-commit.ci\] pre-commit autoupdate \(#1109\)
+updates:
+- \[github.com/astral-sh/ruff-pre-commit: v0.8.4 → v0.8.6\]\(https://github.com/astral-sh/ruff-pre-commit/compare/v0.8.4...v0.8.6\)
+Co-authored-by: pre-commit-ci\[bot\] <66853113+pre-commit-ci\[bot\]@users.noreply.github.com>")| Jan 7, 2025  
+[CITATION.cff](/fastapi/typer/blob/master/CITATION.cff "CITATION.cff")| [CITATION.cff](/fastapi/typer/blob/master/CITATION.cff "CITATION.cff")| [📝 Update docs links, from tiangolo to new fastapi org (](/fastapi/typer/commit/e3be56b51cf5cd17fb70e4f0c95bc66154280d88 "📝 Update docs links, from tiangolo to new fastapi org \(#919\)")[#919](https://github.com/fastapi/typer/pull/919)[)](/fastapi/typer/commit/e3be56b51cf5cd17fb70e4f0c95bc66154280d88 "📝 Update docs links, from tiangolo to new fastapi org \(#919\)")| Aug 10, 2024  
+[CONTRIBUTING.md](/fastapi/typer/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/fastapi/typer/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")| [📝 Add README and CONTRIBUTING](/fastapi/typer/commit/ddbf033d2c75106586c50ae73659fe7f12057ad9 ":memo: Add README and CONTRIBUTING")| Dec 24, 2019  
+[LICENSE](/fastapi/typer/blob/master/LICENSE "LICENSE")| [LICENSE](/fastapi/typer/blob/master/LICENSE "LICENSE")| [🎉 First commit, Typer scaffolding](/fastapi/typer/commit/0cfc112b0f6264510d93583e4870c690df2c3d52 ":tada: First commit, Typer scaffolding")| Dec 20, 2019  
+[README.md](/fastapi/typer/blob/master/README.md "README.md")| [README.md](/fastapi/typer/blob/master/README.md "README.md")| [📝 Add docs for virtual environments, environment variables, and updat…](/fastapi/typer/commit/73b969862e47cb3802876633779cd2df3cb8223b "📝 Add docs for virtual environments, environment variables, and update contributing \(#946\)")| Aug 23, 2024  
+[SECURITY.md](/fastapi/typer/blob/master/SECURITY.md "SECURITY.md")| [SECURITY.md](/fastapi/typer/blob/master/SECURITY.md "SECURITY.md")| [📝 Add Security policy (](/fastapi/typer/commit/386eface81eda548b14781214e42bc621683d3de "📝 Add Security policy \(#324\)")[#324](https://github.com/fastapi/typer/pull/324)[)](/fastapi/typer/commit/386eface81eda548b14781214e42bc621683d3de "📝 Add Security policy \(#324\)")| Aug 30, 2021  
+[mkdocs.insiders.yml](/fastapi/typer/blob/master/mkdocs.insiders.yml "mkdocs.insiders.yml")| [mkdocs.insiders.yml](/fastapi/typer/blob/master/mkdocs.insiders.yml "mkdocs.insiders.yml")| [🔧 Update MkDocs previews (](/fastapi/typer/commit/604d698044a52438240d644df571c7a23c04dce2 "🔧 Update MkDocs previews \(#916\)")[#916](https://github.com/fastapi/typer/pull/916)[)](/fastapi/typer/commit/604d698044a52438240d644df571c7a23c04dce2 "🔧 Update MkDocs previews \(#916\)")| Aug 9, 2024  
+[mkdocs.maybe-insiders.yml](/fastapi/typer/blob/master/mkdocs.maybe-insiders.yml "mkdocs.maybe-insiders.yml")| [mkdocs.maybe-insiders.yml](/fastapi/typer/blob/master/mkdocs.maybe-insiders.yml "mkdocs.maybe-insiders.yml")| [🔧 Update MkDocs configs and docs build setup (](/fastapi/typer/commit/0f4b07f38571b4c43da78007ef105d3afa7be597 "🔧 Update MkDocs configs and docs build setup \(#900\)")[#900](https://github.com/fastapi/typer/pull/900)[)](/fastapi/typer/commit/0f4b07f38571b4c43da78007ef105d3afa7be597 "🔧 Update MkDocs configs and docs build setup \(#900\)")| Aug 3, 2024  
+[mkdocs.no-insiders.yml](/fastapi/typer/blob/master/mkdocs.no-insiders.yml "mkdocs.no-insiders.yml")| [mkdocs.no-insiders.yml](/fastapi/typer/blob/master/mkdocs.no-insiders.yml "mkdocs.no-insiders.yml")| [🔧 Update MkDocs configs and docs build setup (](/fastapi/typer/commit/0f4b07f38571b4c43da78007ef105d3afa7be597 "🔧 Update MkDocs configs and docs build setup \(#900\)")[#900](https://github.com/fastapi/typer/pull/900)[)](/fastapi/typer/commit/0f4b07f38571b4c43da78007ef105d3afa7be597 "🔧 Update MkDocs configs and docs build setup \(#900\)")| Aug 3, 2024  
+[mkdocs.yml](/fastapi/typer/blob/master/mkdocs.yml "mkdocs.yml")| [mkdocs.yml](/fastapi/typer/blob/master/mkdocs.yml "mkdocs.yml")| [✨ Add support for extending typer apps without passing a name, add co…](/fastapi/typer/commit/2681205191b4e0323ff19fb4347e8ce832536bbf "✨ Add support for extending typer apps without passing a name, add commands to the top level \(#1037\)
+Co-authored-by: pre-commit-ci\[bot\] <66853113+pre-commit-ci\[bot\]@users.noreply.github.com>
+Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>")| Dec 3, 2024  
+[pdm_build.py](/fastapi/typer/blob/master/pdm_build.py "pdm_build.py")| [pdm_build.py](/fastapi/typer/blob/master/pdm_build.py "pdm_build.py")| [🐛 Fix broken installation when upgrading from `typer <0.12.0` to `typ…](/fastapi/typer/commit/05ffb24386cfa6cd23fa5f18b9eb233cd363e309 "🐛 Fix broken installation when upgrading from `typer <0.12.0` to `typer >=0.12.0`, make `typer` independent of `typer-slim`, include `typer` command in `typer` package \(#791\)")| Apr 5, 2024  
+[pyproject.toml](/fastapi/typer/blob/master/pyproject.toml "pyproject.toml")| [pyproject.toml](/fastapi/typer/blob/master/pyproject.toml "pyproject.toml")| [🗑️ Deprecate `shell_complete` and continue to use `autocompletion` fo…](/fastapi/typer/commit/d8e56e275f63446e7d455efc83095ec4d711114d "🗑️ Deprecate `shell_complete` and continue to use `autocompletion` for CLI parameters \(#974\)
+Co-authored-by: pre-commit-ci\[bot\] <66853113+pre-commit-ci\[bot\]@users.noreply.github.com>
+Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>")| Dec 4, 2024  
+[requirements-docs-insiders.txt](/fastapi/typer/blob/master/requirements-docs-insiders.txt "requirements-docs-insiders.txt")| [requirements-docs-insiders.txt](/fastapi/typer/blob/master/requirements-docs-insiders.txt "requirements-docs-insiders.txt")| [👷 Upgrade build docs configs (](/fastapi/typer/commit/5b82463a9d84379103d5d1db780c67411cf4026c "👷 Upgrade build docs configs \(#914\)")[#914](https://github.com/fastapi/typer/pull/914)[)](/fastapi/typer/commit/5b82463a9d84379103d5d1db780c67411cf4026c "👷 Upgrade build docs configs \(#914\)")| Aug 9, 2024  
+[requirements-docs.txt](/fastapi/typer/blob/master/requirements-docs.txt "requirements-docs.txt")| [requirements-docs.txt](/fastapi/typer/blob/master/requirements-docs.txt "requirements-docs.txt")| [⬆ Bump mkdocs-material from 9.5.49 to 9.5.50 (](/fastapi/typer/commit/5ba00deed44ad4dc9d8517e0b5804fd45c16491b "⬆ Bump mkdocs-material from 9.5.49 to 9.5.50 \(#1129\)
+Bumps \[mkdocs-material\]\(https://github.com/squidfunk/mkdocs-material\) from 9.5.49 to 9.5.50.
+- \[Release notes\]\(https://github.com/squidfunk/mkdocs-material/releases\)
+- \[Changelog\]\(https://github.com/squidfunk/mkdocs-material/blob/master/CHANGELOG\)
+- \[Commits\]\(https://github.com/squidfunk/mkdocs-material/compare/9.5.49...9.5.50\)
+---
+updated-dependencies:
+- dependency-name: mkdocs-material
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")[#1129](https://github.com/fastapi/typer/pull/1129)[)](/fastapi/typer/commit/5ba00deed44ad4dc9d8517e0b5804fd45c16491b "⬆ Bump mkdocs-material from 9.5.49 to 9.5.50 \(#1129\)
+Bumps \[mkdocs-material\]\(https://github.com/squidfunk/mkdocs-material\) from 9.5.49 to 9.5.50.
+- \[Release notes\]\(https://github.com/squidfunk/mkdocs-material/releases\)
+- \[Changelog\]\(https://github.com/squidfunk/mkdocs-material/blob/master/CHANGELOG\)
+- \[Commits\]\(https://github.com/squidfunk/mkdocs-material/compare/9.5.49...9.5.50\)
+---
+updated-dependencies:
+- dependency-name: mkdocs-material
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")| Jan 20, 2025  
+[requirements-github-actions.txt](/fastapi/typer/blob/master/requirements-github-actions.txt "requirements-github-actions.txt")| [requirements-github-actions.txt](/fastapi/typer/blob/master/requirements-github-actions.txt "requirements-github-actions.txt")| [⬆ Update httpx requirement from <0.28.0,>=0.27.0 to >=0.27.0,<0.29.0 (](/fastapi/typer/commit/9ece54dbff301d66367662e754ad2422bfc699a8 "⬆ Update httpx requirement from <0.28.0,>=0.27.0 to >=0.27.0,<0.29.0 \(#1065\)
+Updates the requirements on \[httpx\]\(https://github.com/encode/httpx\) to permit the latest version.
+- \[Release notes\]\(https://github.com/encode/httpx/releases\)
+- \[Changelog\]\(https://github.com/encode/httpx/blob/master/CHANGELOG.md\)
+- \[Commits\]\(https://github.com/encode/httpx/compare/0.27.0...0.28.0\)
+---
+updated-dependencies:
+- dependency-name: httpx
+ dependency-type: direct:production
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")[#…](https://github.com/fastapi/typer/pull/1065)| Dec 4, 2024  
+[requirements-tests.txt](/fastapi/typer/blob/master/requirements-tests.txt "requirements-tests.txt")| [requirements-tests.txt](/fastapi/typer/blob/master/requirements-tests.txt "requirements-tests.txt")| [⬆ Bump ruff from 0.8.4 to 0.8.6 (](/fastapi/typer/commit/395f75484e89b10608e57ab780a2e85554c8aab2 "⬆ Bump ruff from 0.8.4 to 0.8.6 \(#1107\)
+Bumps \[ruff\]\(https://github.com/astral-sh/ruff\) from 0.8.4 to 0.8.6.
+- \[Release notes\]\(https://github.com/astral-sh/ruff/releases\)
+- \[Changelog\]\(https://github.com/astral-sh/ruff/blob/main/CHANGELOG.md\)
+- \[Commits\]\(https://github.com/astral-sh/ruff/compare/0.8.4...0.8.6\)
+---
+updated-dependencies:
+- dependency-name: ruff
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")[#1107](https://github.com/fastapi/typer/pull/1107)[)](/fastapi/typer/commit/395f75484e89b10608e57ab780a2e85554c8aab2 "⬆ Bump ruff from 0.8.4 to 0.8.6 \(#1107\)
+Bumps \[ruff\]\(https://github.com/astral-sh/ruff\) from 0.8.4 to 0.8.6.
+- \[Release notes\]\(https://github.com/astral-sh/ruff/releases\)
+- \[Changelog\]\(https://github.com/astral-sh/ruff/blob/main/CHANGELOG.md\)
+- \[Commits\]\(https://github.com/astral-sh/ruff/compare/0.8.4...0.8.6\)
+---
+updated-dependencies:
+- dependency-name: ruff
+ dependency-type: direct:production
+ update-type: version-update:semver-patch
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")| Jan 7, 2025  
+[requirements.txt](/fastapi/typer/blob/master/requirements.txt "requirements.txt")| [requirements.txt](/fastapi/typer/blob/master/requirements.txt "requirements.txt")| [⬆ Update pre-commit requirement from <4.0.0,>=2.17.0 to >=2.17.0,<5.0…](/fastapi/typer/commit/3f6eb666b41d4f40b892eb4504cacbf082b60221 "⬆ Update pre-commit requirement from <4.0.0,>=2.17.0 to >=2.17.0,<5.0.0 \(#1012\)
+Updates the requirements on \[pre-commit\]\(https://github.com/pre-commit/pre-commit\) to permit the latest version.
+- \[Release notes\]\(https://github.com/pre-commit/pre-commit/releases\)
+- \[Changelog\]\(https://github.com/pre-commit/pre-commit/blob/main/CHANGELOG.md\)
+- \[Commits\]\(https://github.com/pre-commit/pre-commit/compare/v2.17.0...v4.0.0\)
+---
+updated-dependencies:
+- dependency-name: pre-commit
+ dependency-type: direct:production
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")| Oct 25, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+[![Typer](https://camo.githubusercontent.com/609a3743c9896530a37b1395feb583bcdc2a80a2830c2e8b45e7ecb143ef8e25/68747470733a2f2f74797065722e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d6d617267696e2d766563746f722e737667236f6e6c792d6c69676874)](https://typer.tiangolo.com)
+
+_Typer, build great CLIs. Easy to code. Based on Python type hints._
+
+[ ![Test](https://github.com/fastapi/typer/workflows/Test/badge.svg) ](https://github.com/fastapi/typer/actions?query=workflow%3ATest) [ ![Publish](https://github.com/fastapi/typer/workflows/Publish/badge.svg) ](https://github.com/fastapi/typer/actions?query=workflow%3APublish) [ ![Coverage](https://camo.githubusercontent.com/a896e31e49af8051e4da4bc5db82144c20d501ebc8da13bb53c44dbcac9e74cc/68747470733a2f2f636f7665726167652d62616467652e73616d75656c636f6c76696e2e776f726b6572732e6465762f666173746170692f74797065722e737667) ](https://coverage-badge.samuelcolvin.workers.dev/redirect/fastapi/typer)[ ![Package version](https://camo.githubusercontent.com/848f5fcdb0500e49751daa875e944ec43918849fafdfec97c4a2920fca604fdb/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f74797065723f636f6c6f723d253233333444303538266c6162656c3d707970692532307061636b616765) ](https://pypi.org/project/typer)
+
+**Documentation** : [](https://typer.tiangolo.com)<https://typer.tiangolo.com>
+
+**Source Code** : [](https://github.com/fastapi/typer)<https://github.com/fastapi/typer>
+
+Typer is a library for building CLI applications that users will **love using** and developers will **love creating**. Based on Python type hints.
+
+It's also a command line tool to run scripts, automatically converting them to CLI applications.
+
+The key features are:
+
+  * **Intuitive to write** : Great editor support. Completion everywhere. Less time debugging. Designed to be easy to use and learn. Less time reading docs.
+  * **Easy to use** : It's easy to use for the final users. Automatic help, and automatic completion for all shells.
+  * **Short** : Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
+  * **Start simple** : The simplest example adds only 2 lines of code to your app: **1 import, 1 function call**.
+  * **Grow large** : Grow in complexity as much as you want, create arbitrarily complex trees of commands and groups of subcommands, with options and arguments.
+  * **Run scripts** : Typer includes a `typer` command/program that you can use to run scripts, automatically converting them to CLIs, even if they don't use Typer internally.
+
+
+
+## FastAPI of CLIs
+
+[](#fastapi-of-clis)
+
+**Typer** is [FastAPI](https://fastapi.tiangolo.com)'s little sibling, it's the FastAPI of CLIs.
+
+## Installation
+
+[](#installation)
+
+Create and activate a [virtual environment](https://typer.tiangolo.com/virtual-environments/) and then install **Typer** :
+
+```
+$ pip install typer ---> 100% Successfully installed typer rich shellingham
+```
+
+## Example
+
+[](#example)
+
+### The absolute minimum
+
+[](#the-absolute-minimum)
+
+  * Create a file `main.py` with:
+
+
+
+```
+def main(name: str): print(f"Hello {name}")
+```
+
+This script doesn't even use Typer internally. But you can use the `typer` command to run it as a CLI application.
+
+### Run it
+
+[](#run-it)
+
+Run your application with the `typer` command:
+
+```
+// Run your application $ typer main.py run // You get a nice error, you are missing NAME Usage: typer [PATH_OR_MODULE] run [OPTIONS] NAME Try 'typer [PATH_OR_MODULE] run --help' for help. ╭─ Error ───────────────────────────────────────────╮ │ Missing argument 'NAME'. │ ╰───────────────────────────────────────────────────╯ // You get a --help for free $ typer main.py run --help Usage: typer [PATH_OR_MODULE] run [OPTIONS] NAME Run the provided Typer app. ╭─ Arguments ───────────────────────────────────────╮ │ * name TEXT [default: None] [required] | ╰───────────────────────────────────────────────────╯ ╭─ Options ─────────────────────────────────────────╮ │ --help Show this message and exit. │ ╰───────────────────────────────────────────────────╯ // Now pass the NAME argument $ typer main.py run Camila Hello Camila // It works! 🎉
+```
+
+This is the simplest use case, not even using Typer internally, but it can already be quite useful for simple scripts.
+
+**Note** : auto-completion works when you create a Python package and run it with `--install-completion` or when you use the `typer` command.
+
+## Use Typer in your code
+
+[](#use-typer-in-your-code)
+
+Now let's start using Typer in your own code, update `main.py` with:
+
+```
+import typer def main(name: str): print(f"Hello {name}") if __name__ == "__main__": typer.run(main)
+```
+
+Now you could run it with Python directly:
+
+```
+// Run your application $ python main.py // You get a nice error, you are missing NAME Usage: main.py [OPTIONS] NAME Try 'main.py --help' for help. ╭─ Error ───────────────────────────────────────────╮ │ Missing argument 'NAME'. │ ╰───────────────────────────────────────────────────╯ // You get a --help for free $ python main.py --help Usage: main.py [OPTIONS] NAME ╭─ Arguments ───────────────────────────────────────╮ │ * name TEXT [default: None] [required] | ╰───────────────────────────────────────────────────╯ ╭─ Options ─────────────────────────────────────────╮ │ --help Show this message and exit. │ ╰───────────────────────────────────────────────────╯ // Now pass the NAME argument $ python main.py Camila Hello Camila // It works! 🎉
+```
+
+**Note** : you can also call this same script with the `typer` command, but you don't need to.
+
+## Example upgrade
+
+[](#example-upgrade)
+
+This was the simplest example possible.
+
+Now let's see one a bit more complex.
+
+### An example with two subcommands
+
+[](#an-example-with-two-subcommands)
+
+Modify the file `main.py`.
+
+Create a `typer.Typer()` app, and create two subcommands with their parameters.
+
+```
+import typer app = typer.Typer() @app.command() def hello(name: str): print(f"Hello {name}") @app.command() def goodbye(name: str, formal: bool = False): if formal: print(f"Goodbye Ms. {name}. Have a good day.") else: print(f"Bye {name}!") if __name__ == "__main__": app()
+```
+
+And that will:
+
+  * Explicitly create a `typer.Typer` app. 
+    * The previous `typer.run` actually creates one implicitly for you.
+  * Add two subcommands with `@app.command()`.
+  * Execute the `app()` itself, as if it was a function (instead of `typer.run`).
+
+
+
+### Run the upgraded example
+
+[](#run-the-upgraded-example)
+
+Check the new help:
+
+```
+$ python main.py --help Usage: main.py [OPTIONS] COMMAND [ARGS]... ╭─ Options ─────────────────────────────────────────╮ │ --install-completion Install completion │ │ for the current │ │ shell. │ │ --show-completion Show completion for │ │ the current shell, │ │ to copy it or │ │ customize the │ │ installation. │ │ --help Show this message │ │ and exit. │ ╰───────────────────────────────────────────────────╯ ╭─ Commands ────────────────────────────────────────╮ │ goodbye │ │ hello │ ╰───────────────────────────────────────────────────╯ // When you create a package you get ✨ auto-completion ✨ for free, installed with --install-completion // You have 2 subcommands (the 2 functions): goodbye and hello
+```
+
+Now check the help for the `hello` command:
+
+```
+$ python main.py hello --help Usage: main.py hello [OPTIONS] NAME ╭─ Arguments ───────────────────────────────────────╮ │ * name TEXT [default: None] [required] │ ╰───────────────────────────────────────────────────╯ ╭─ Options ─────────────────────────────────────────╮ │ --help Show this message and exit. │ ╰───────────────────────────────────────────────────╯
+```
+
+And now check the help for the `goodbye` command:
+
+```
+$ python main.py goodbye --help Usage: main.py goodbye [OPTIONS] NAME ╭─ Arguments ───────────────────────────────────────╮ │ * name TEXT [default: None] [required] │ ╰───────────────────────────────────────────────────╯ ╭─ Options ─────────────────────────────────────────╮ │ --formal --no-formal [default: no-formal] │ │ --help Show this message │ │ and exit. │ ╰───────────────────────────────────────────────────╯ // Automatic --formal and --no-formal for the bool option 🎉
+```
+
+Now you can try out the new command line application:
+
+```
+// Use it with the hello command $ python main.py hello Camila Hello Camila // And with the goodbye command $ python main.py goodbye Camila Bye Camila! // And with --formal $ python main.py goodbye --formal Camila Goodbye Ms. Camila. Have a good day.
+```
+
+### Recap
+
+[](#recap)
+
+In summary, you declare **once** the types of parameters (_CLI arguments_ and _CLI options_) as function parameters.
+
+You do that with standard modern Python types.
+
+You don't have to learn a new syntax, the methods or classes of a specific library, etc.
+
+Just standard **Python**.
+
+For example, for an `int`:
+
+```
+total: int
+```
+
+or for a `bool` flag:
+
+```
+force: bool
+```
+
+And similarly for **files** , **paths** , **enums** (choices), etc. And there are tools to create **groups of subcommands** , add metadata, extra **validation** , etc.
+
+**You get** : great editor support, including **completion** and **type checks** everywhere.
+
+**Your users get** : automatic **`--help`** , **auto-completion** in their terminal (Bash, Zsh, Fish, PowerShell) when they install your package or when using the `typer` command.
+
+For a more complete example including more features, see the [Tutorial - User Guide](https://typer.tiangolo.com/tutorial/).
+
+## Dependencies
+
+[](#dependencies)
+
+**Typer** stands on the shoulders of a giant. Its only internal required dependency is [Click](https://click.palletsprojects.com/).
+
+By default it also comes with extra standard dependencies:
+
+  * [`rich`](https://rich.readthedocs.io/en/stable/index.html): to show nicely formatted errors automatically.
+  * [`shellingham`](https://github.com/sarugaku/shellingham): to automatically detect the current shell when installing completion. 
+    * With `shellingham` you can just use `--install-completion`.
+    * Without `shellingham`, you have to pass the name of the shell to install completion for, e.g. `--install-completion bash`.
+
+
+
+### `typer-slim`
+
+[](#typer-slim)
+
+If you don't want the extra standard optional dependencies, install `typer-slim` instead.
+
+When you install with:
+
+```
+pip install typer
+```
+
+...it includes the same code and dependencies as:
+
+```
+pip install "typer-slim[standard]"
+```
+
+The `standard` extra dependencies are `rich` and `shellingham`.
+
+**Note** : The `typer` command is only included in the `typer` package.
+
+## License
+
+[](#license)
+
+This project is licensed under the terms of the MIT license.
+
+## About
+
+Typer, build great CLIs. Easy to code. Based on Python type hints. 
+
+[typer.tiangolo.com/](https://typer.tiangolo.com/ "https://typer.tiangolo.com/")
+
+### Topics
+
+[ python ](/topics/python "Topic: python") [ shell ](/topics/shell "Topic: shell") [ cli ](/topics/cli "Topic: cli") [ terminal ](/topics/terminal "Topic: terminal") [ python3 ](/topics/python3 "Topic: python3") [ click ](/topics/click "Topic: click") [ typer ](/topics/typer "Topic: typer") [ typehints ](/topics/typehints "Topic: typehints")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+### Citation
+
+Cite this repository 
+
+Loading
+
+Something went wrong. 
+
+[ Activity](/fastapi/typer/activity)
+
+[ Custom properties](/fastapi/typer/custom-properties)
+
+### Stars
+
+[ **16.2k** stars](/fastapi/typer/stargazers)
+
+### Watchers
+
+[ **79** watching](/fastapi/typer/watchers)
+
+### Forks
+
+[ **693** forks](/fastapi/typer/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Ffastapi%2Ftyper&report=fastapi+%28user%29)
+
+##  [Releases 44](/fastapi/typer/releases)
+
+[ 0.15.1 Latest  Dec 4, 2024 ](/fastapi/typer/releases/tag/0.15.1)
+
+[+ 43 releases](/fastapi/typer/releases)
+
+## Sponsor this project
+
+[ ![@tiangolo](https://avatars.githubusercontent.com/u/1326112?s=64&v=4) ](/tiangolo) [ **tiangolo** Sebastián Ramírez ](/tiangolo)
+
+[ Sponsor  ](/sponsors/tiangolo)
+
+[Learn more about GitHub Sponsors](/sponsors)
+
+##  [Packages 0](/orgs/fastapi/packages?repo_name=typer)
+
+No packages published 
+
+##  [Used by 156k](/fastapi/typer/network/dependents)
+
+[
+
+  * ![@kunpai](https://avatars.githubusercontent.com/u/62979320?s=64&v=4)
+  * ![@tebinraouf](https://avatars.githubusercontent.com/u/23642967?s=64&v=4)
+  * ![@keunyop](https://avatars.githubusercontent.com/u/3814234?s=64&v=4)
+  * ![@Git-Hub-Chris](https://avatars.githubusercontent.com/u/153604499?s=64&v=4)
+  * ![@ethanfuerst](https://avatars.githubusercontent.com/u/34084535?s=64&v=4)
+  * ![@prtkmhn](https://avatars.githubusercontent.com/u/20372226?s=64&v=4)
+  * ![@change-challenge](https://avatars.githubusercontent.com/u/59588256?s=64&v=4)
+  * ![@sid-newby](https://avatars.githubusercontent.com/u/10550908?s=64&v=4)
+
++ 155,696  ](/fastapi/typer/network/dependents)
+
+##  [Contributors 77](/fastapi/typer/graphs/contributors)
+
+  * [ ![@tiangolo](https://avatars.githubusercontent.com/u/1326112?s=64&v=4) ](https://github.com/tiangolo)
+  * [ ![@svlandeg](https://avatars.githubusercontent.com/u/8796347?s=64&v=4) ](https://github.com/svlandeg)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@pre-commit-ci\[bot\]](https://avatars.githubusercontent.com/in/68672?s=64&v=4) ](https://github.com/apps/pre-commit-ci)
+  * [ ![@patrick91](https://avatars.githubusercontent.com/u/667029?s=64&v=4) ](https://github.com/patrick91)
+  * [ ![@ivantodorovich](https://avatars.githubusercontent.com/u/1914185?s=64&v=4) ](https://github.com/ivantodorovich)
+  * [ ![@mrcartoonster](https://avatars.githubusercontent.com/u/8596846?s=64&v=4) ](https://github.com/mrcartoonster)
+  * [ ![@mariacamilagl](https://avatars.githubusercontent.com/u/11489395?s=64&v=4) ](https://github.com/mariacamilagl)
+  * [ ![@paulo-raca](https://avatars.githubusercontent.com/u/1072660?s=64&v=4) ](https://github.com/paulo-raca)
+  * [ ![@theMarix](https://avatars.githubusercontent.com/u/1125055?s=64&v=4) ](https://github.com/theMarix)
+  * [ ![@victorphoenix3](https://avatars.githubusercontent.com/u/48182195?s=64&v=4) ](https://github.com/victorphoenix3)
+  * [ ![@davidbgk](https://avatars.githubusercontent.com/u/3556?s=64&v=4) ](https://github.com/davidbgk)
+  * [ ![@ssbarnea](https://avatars.githubusercontent.com/u/102495?s=64&v=4) ](https://github.com/ssbarnea)
+
+
+
+[+ 63 contributors](/fastapi/typer/graphs/contributors)
+
+## Languages
+
+  * [ Python 99.6% ](/fastapi/typer/search?l=python)
+  * Other 0.4%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

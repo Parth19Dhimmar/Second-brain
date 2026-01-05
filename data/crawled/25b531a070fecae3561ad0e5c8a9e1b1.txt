@@ -1,0 +1,329 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fopenai%2Fopenai-cookbook%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fopenai%2Fopenai-cookbook%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=openai%2Fopenai-cookbook) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ openai ](/openai) / **[openai-cookbook](/openai/openai-cookbook) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fopenai%2Fopenai-cookbook) You must be signed in to change notification settings
+  * [ Fork 9.8k ](/login?return_to=%2Fopenai%2Fopenai-cookbook)
+  * [ Star  61.3k ](/login?return_to=%2Fopenai%2Fopenai-cookbook)
+
+
+
+
+Examples and guides for using the OpenAI API 
+
+[cookbook.openai.com](https://cookbook.openai.com "https://cookbook.openai.com")
+
+### License
+
+[ MIT license ](/openai/openai-cookbook/blob/main/LICENSE)
+
+[ 61.3k stars ](/openai/openai-cookbook/stargazers) [ 9.8k forks ](/openai/openai-cookbook/forks) [ Branches ](/openai/openai-cookbook/branches) [ Tags ](/openai/openai-cookbook/tags) [ Activity ](/openai/openai-cookbook/activity)
+
+[ Star  ](/login?return_to=%2Fopenai%2Fopenai-cookbook)
+
+[ Notifications ](/login?return_to=%2Fopenai%2Fopenai-cookbook) You must be signed in to change notification settings
+
+  * [ Code ](/openai/openai-cookbook)
+  * [ Issues 30 ](/openai/openai-cookbook/issues)
+  * [ Pull requests 24 ](/openai/openai-cookbook/pulls)
+  * [ Actions ](/openai/openai-cookbook/actions)
+  * [ Security ](/openai/openai-cookbook/security)
+  * [ Insights ](/openai/openai-cookbook/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/openai/openai-cookbook)
+  * [ Issues  ](/openai/openai-cookbook/issues)
+  * [ Pull requests  ](/openai/openai-cookbook/pulls)
+  * [ Actions  ](/openai/openai-cookbook/actions)
+  * [ Security  ](/openai/openai-cookbook/security)
+  * [ Insights  ](/openai/openai-cookbook/pulse)
+
+
+
+# openai/openai-cookbook
+
+main
+
+[**47** Branches](/openai/openai-cookbook/branches)[**0** Tags](/openai/openai-cookbook/tags)
+
+[](/openai/openai-cookbook/branches)[](/openai/openai-cookbook/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+![dylanjcastillo](https://avatars.githubusercontent.com/u/7218756?v=4&size=40)![teomusatoiu](https://avatars.githubusercontent.com/u/156829031?v=4&size=40)[dylanjcastillo](/openai/openai-cookbook/commits?author=dylanjcastillo)and[teomusatoiu](/openai/openai-cookbook/commits?author=teomusatoiu)[Change order of justification key in eval schema (](/openai/openai-cookbook/commit/b59673c9cade5fab128e2d481c17d924ee26967a)[#1619](https://github.com/openai/openai-cookbook/pull/1619)[)](/openai/openai-cookbook/commit/b59673c9cade5fab128e2d481c17d924ee26967a)Jan 21, 2025[b59673c](/openai/openai-cookbook/commit/b59673c9cade5fab128e2d481c17d924ee26967a) · Jan 21, 2025
+
+## History
+
+[1,002 Commits](/openai/openai-cookbook/commits/main/)[](/openai/openai-cookbook/commits/main/)  
+[.github](/openai/openai-cookbook/tree/main/.github ".github")| [.github](/openai/openai-cookbook/tree/main/.github ".github")| [Update authors.yaml and regsitry.yaml url value in pull request templ…](/openai/openai-cookbook/commit/bcbb505a4adc605cac1f370409a62b2036d94d08 "Update authors.yaml and regsitry.yaml url value in pull request template. \(#865\)")| Nov 27, 2023  
+[articles](/openai/openai-cookbook/tree/main/articles "articles")| [articles](/openai/openai-cookbook/tree/main/articles "articles")| [Add ZenML LLMops resource boris shared (](/openai/openai-cookbook/commit/5a96b995d4cf074126f4fd988c993c000929f790 "Add ZenML LLMops resource boris shared \(#1589\)")[#1589](https://github.com/openai/openai-cookbook/pull/1589)[)](/openai/openai-cookbook/commit/5a96b995d4cf074126f4fd988c993c000929f790 "Add ZenML LLMops resource boris shared \(#1589\)")| Dec 3, 2024  
+[examples](/openai/openai-cookbook/tree/main/examples "examples")| [examples](/openai/openai-cookbook/tree/main/examples "examples")| [Change order of justification key in eval schema (](/openai/openai-cookbook/commit/b59673c9cade5fab128e2d481c17d924ee26967a "Change order of justification key in eval schema \(#1619\)
+Co-authored-by: Teo Musatoiu <156829031+teomusatoiu@users.noreply.github.com>")[#1619](https://github.com/openai/openai-cookbook/pull/1619)[)](/openai/openai-cookbook/commit/b59673c9cade5fab128e2d481c17d924ee26967a "Change order of justification key in eval schema \(#1619\)
+Co-authored-by: Teo Musatoiu <156829031+teomusatoiu@users.noreply.github.com>")| Jan 21, 2025  
+[images](/openai/openai-cookbook/tree/main/images "images")| [images](/openai/openai-cookbook/tree/main/images "images")| [Add example of how to leverage OpenAI reasoning models to SDLC for co…](/openai/openai-cookbook/commit/630ac96cfebb073e64b95cf94d2596dc133f191a "Add example of how to leverage OpenAI reasoning models to SDLC for code quality and security checks. \(#1610\)")| Jan 13, 2025  
+[.gitignore](/openai/openai-cookbook/blob/main/.gitignore ".gitignore")| [.gitignore](/openai/openai-cookbook/blob/main/.gitignore ".gitignore")| [.gitignore symlinks to lib64 (](/openai/openai-cookbook/commit/94fb71e171c6ef8faad29f76a9bd4b565a6f3f6c ".gitignore symlinks to lib64 \(#1162\)
+Signed-off-by: Alexander Veit <alexander.veit@gmx.net>
+Co-authored-by: Shyamal H Anadkat <shyamal@openai.com>")[#1162](https://github.com/openai/openai-cookbook/pull/1162)[)](/openai/openai-cookbook/commit/94fb71e171c6ef8faad29f76a9bd4b565a6f3f6c ".gitignore symlinks to lib64 \(#1162\)
+Signed-off-by: Alexander Veit <alexander.veit@gmx.net>
+Co-authored-by: Shyamal H Anadkat <shyamal@openai.com>")| Apr 28, 2024  
+[CONTRIBUTING.md](/openai/openai-cookbook/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/openai/openai-cookbook/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Add conciseness metric to rubric. (](/openai/openai-cookbook/commit/2bd7585bc83834e85a1cd62b9ca7de948085698c "Add conciseness metric to rubric. \(#925\)
+Co-authored-by: Will DePue <will@depue.net>")[#925](https://github.com/openai/openai-cookbook/pull/925)[)](/openai/openai-cookbook/commit/2bd7585bc83834e85a1cd62b9ca7de948085698c "Add conciseness metric to rubric. \(#925\)
+Co-authored-by: Will DePue <will@depue.net>")| Dec 19, 2023  
+[LICENSE](/openai/openai-cookbook/blob/main/LICENSE "LICENSE")| [LICENSE](/openai/openai-cookbook/blob/main/LICENSE "LICENSE")| [Create LICENSE (](/openai/openai-cookbook/commit/47c816e6afbb7bb5696187ab0f754a27fa41b20f "Create LICENSE \(#136\)")[#136](https://github.com/openai/openai-cookbook/pull/136)[)](/openai/openai-cookbook/commit/47c816e6afbb7bb5696187ab0f754a27fa41b20f "Create LICENSE \(#136\)")| Feb 16, 2023  
+[README.md](/openai/openai-cookbook/blob/main/README.md "README.md")| [README.md](/openai/openai-cookbook/blob/main/README.md "README.md")| [Instructions for OPENAI_API_KEY as env var and in IDEs (](/openai/openai-cookbook/commit/60998aabbed0f8027332896876c48f7c74f1008b "Instructions for OPENAI_API_KEY as env var and in IDEs \(#1042\)")[#1042](https://github.com/openai/openai-cookbook/pull/1042)[)](/openai/openai-cookbook/commit/60998aabbed0f8027332896876c48f7c74f1008b "Instructions for OPENAI_API_KEY as env var and in IDEs \(#1042\)")| Mar 28, 2024  
+[authors.yaml](/openai/openai-cookbook/blob/main/authors.yaml "authors.yaml")| [authors.yaml](/openai/openai-cookbook/blob/main/authors.yaml "authors.yaml")| [Adding consumption usage API CB to repo (](/openai/openai-cookbook/commit/f689f7d963d97b930dfce8645a9decd8e7a526ba "Adding consumption usage API CB to repo \(#1631\)")[#1631](https://github.com/openai/openai-cookbook/pull/1631)[)](/openai/openai-cookbook/commit/f689f7d963d97b930dfce8645a9decd8e7a526ba "Adding consumption usage API CB to repo \(#1631\)")| Jan 15, 2025  
+[registry.yaml](/openai/openai-cookbook/blob/main/registry.yaml "registry.yaml")| [registry.yaml](/openai/openai-cookbook/blob/main/registry.yaml "registry.yaml")| [Update registry.yaml (](/openai/openai-cookbook/commit/863c84e94d378768f40dad34318a55f341f028ac "Update registry.yaml \(#1634\)")[#1634](https://github.com/openai/openai-cookbook/pull/1634)[)](/openai/openai-cookbook/commit/863c84e94d378768f40dad34318a55f341f028ac "Update registry.yaml \(#1634\)")| Jan 21, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [MIT license](#)
+
+
+
+[ ![OpenAI Cookbook Logo](/openai/openai-cookbook/raw/main/images/openai-cookbook.png) ](https://cookbook.openai.com)
+
+> ✨ Navigate at [cookbook.openai.com](https://cookbook.openai.com)
+
+Example code and guides for accomplishing common tasks with the [OpenAI API](https://platform.openai.com/docs/introduction). To run these examples, you'll need an OpenAI account and associated API key ([create a free account here](https://beta.openai.com/signup)). Set an environment variable called `OPENAI_API_KEY` with your API key. Alternatively, in most IDEs such as Visual Studio Code, you can create an `.env` file at the root of your repo containing `OPENAI_API_KEY=<your API key>`, which will be picked up by the notebooks.
+
+Most code examples are written in Python, though the concepts can be applied in any language.
+
+For other useful tools, guides and courses, check out these [related resources from around the web](https://cookbook.openai.com/related_resources).
+
+## Contributing
+
+[](#contributing)
+
+The OpenAI Cookbook is a community-driven resource. Whether you're submitting an idea, fixing a typo, adding a new guide, or improving an existing one, your contributions are greatly appreciated!
+
+Before contributing, read through the existing issues and pull requests to see if someone else is already working on something similar. That way you can avoid duplicating efforts.
+
+If there are examples or guides you'd like to see, feel free to suggest them on the [issues page](https://github.com/openai/openai-cookbook/issues).
+
+If you'd like to contribute new content, make sure to read through our [contribution guidelines](/openai/openai-cookbook/blob/main/CONTRIBUTING.md). We welcome high-quality submissions of new examples and guides, as long as they meet our criteria and fit within the scope of the cookbook.
+
+The contents of this repo are automatically rendered into [cookbook.openai.com](https://cookbook.openai.com) based on [registry.yaml](/openai/openai-cookbook/blob/main/registry.yaml).
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=468576060&machine=basicLinux32gb&location=EastUs)
+
+## About
+
+Examples and guides for using the OpenAI API 
+
+[cookbook.openai.com](https://cookbook.openai.com "https://cookbook.openai.com")
+
+### Topics
+
+[ openai ](/topics/openai "Topic: openai") [ openai-api ](/topics/openai-api "Topic: openai-api") [ gpt-4 ](/topics/gpt-4 "Topic: gpt-4") [ chatgpt ](/topics/chatgpt "Topic: chatgpt")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+[ Activity](/openai/openai-cookbook/activity)
+
+[ Custom properties](/openai/openai-cookbook/custom-properties)
+
+### Stars
+
+[ **61.3k** stars](/openai/openai-cookbook/stargazers)
+
+### Watchers
+
+[ **903** watching](/openai/openai-cookbook/watchers)
+
+### Forks
+
+[ **9.8k** forks](/openai/openai-cookbook/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fopenai%2Fopenai-cookbook&report=openai+%28user%29)
+
+##  [Contributors 264](/openai/openai-cookbook/graphs/contributors)
+
+  * [ ![@ted-at-openai](https://avatars.githubusercontent.com/u/95656834?s=64&v=4) ](https://github.com/ted-at-openai)
+  * [ ![@simonpfish](https://avatars.githubusercontent.com/u/8716950?s=64&v=4) ](https://github.com/simonpfish)
+  * [ ![@colin-openai](https://avatars.githubusercontent.com/u/119888926?s=64&v=4) ](https://github.com/colin-openai)
+  * [ ![@logankilpatrick](https://avatars.githubusercontent.com/u/35577566?s=64&v=4) ](https://github.com/logankilpatrick)
+  * [ ![@shyamal-anadkat](https://avatars.githubusercontent.com/u/12115186?s=64&v=4) ](https://github.com/shyamal-anadkat)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@pap-openai](https://avatars.githubusercontent.com/u/174109416?s=64&v=4) ](https://github.com/pap-openai)
+  * [ ![@liuliuOD](https://avatars.githubusercontent.com/u/44393673?s=64&v=4) ](https://github.com/liuliuOD)
+  * [ ![@teomusatoiu](https://avatars.githubusercontent.com/u/156829031?s=64&v=4) ](https://github.com/teomusatoiu)
+  * [ ![@aaronwilkowitz-openai](https://avatars.githubusercontent.com/u/157151487?s=64&v=4) ](https://github.com/aaronwilkowitz-openai)
+  * [ ![@eltociear](https://avatars.githubusercontent.com/u/22633385?s=64&v=4) ](https://github.com/eltociear)
+  * [ ![@isafulf](https://avatars.githubusercontent.com/u/51974293?s=64&v=4) ](https://github.com/isafulf)
+  * [ ![@katia-openai](https://avatars.githubusercontent.com/u/152395277?s=64&v=4) ](https://github.com/katia-openai)
+  * [ ![@jhills20](https://avatars.githubusercontent.com/u/70035505?s=64&v=4) ](https://github.com/jhills20)
+
+
+
+[+ 250 contributors](/openai/openai-cookbook/graphs/contributors)
+
+## Languages
+
+  * [ MDX 100.0% ](/openai/openai-cookbook/search?l=mdx)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

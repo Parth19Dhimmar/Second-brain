@@ -1,0 +1,30 @@
+{
+    "id": "1f7ebcea995eb77eba38dd988e0e387d",
+    "metadata": {
+        "id": "1f7ebcea995eb77eba38dd988e0e387d",
+        "url": "https://www.notion.so/CDC-1f7ebcea995eb77eba38dd988e0e387d",
+        "title": "CDC",
+        "properties": {
+            "Created": {
+                "id": "KHP_",
+                "type": "created_time",
+                "created_time": "2024-03-14T16:26:00.000Z"
+            },
+            "Tags": []
+        }
+    },
+    "parent_metadata": {
+        "id": "ccef9464a9fdfeacff1ba6408aedb5ec",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Articles\n\n\t- [Keeping your retrieval stack up to date with Change Data Capture](https://superlinked.com/vectorhub/12-data-modality#kAGPz), Superlinked\n\t- [Qlik: Change Data Capture](https://www.qlik.com/us/change-data-capture/cdc-change-data-capture), Qlik\n\t- [What is Change Data Capture?](https://www.confluent.io/en-gb/learn/change-data-capture/), Confluent",
+    "content_quality_score": 0.2,
+    "summary": null,
+    "child_urls": [
+        "https://www.confluent.io/en-gb/learn/change-data-capture/",
+        "https://www.qlik.com/us/change-data-capture/cdc-change-data-capture/",
+        "https://superlinked.com/vectorhub/12-data-modality#kAGPz/"
+    ]
+}

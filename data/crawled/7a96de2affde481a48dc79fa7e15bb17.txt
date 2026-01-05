@@ -1,0 +1,133 @@
+[![Common Crawl Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg)](/)
+
+  * The Data
+
+[Overview](/overview)[Web Graphs](/web-graphs)[Latest Crawl](/latest-crawl)[Crawl Stats](https://commoncrawl.github.io/cc-crawl-statistics/)[Graph Stats](https://commoncrawl.github.io/cc-webgraph-statistics/)[Errata](/errata)
+
+  * Resources
+
+[Get Started](/get-started)[Blog](/blog)[Examples](/examples)[Use Cases](/use-cases)[CCBot](/ccbot)[Infra Status](https://status.commoncrawl.org)[FAQ](/faq)
+
+  * Community
+
+[Research Papers](/research-papers)[Mailing List Archive](https://groups.google.com/g/common-crawl)[Hugging Face](https://huggingface.co/commoncrawl)[Discord](https://discord.gg/njaVFh7avF)[Collaborators](/collaborators)
+
+  * About
+
+[Team](/team)[Jobs](/jobs)[Mission](/mission)[Impact](/impact)[Privacy Policy](/privacy-policy)[Terms of Use](/terms-of-use)
+
+  * Search
+
+  * [Contact Us](/contact-us)
+
+
+
+# Common Crawl maintains a free, open repository of web crawl data that can be used by anyone.
+
+# Common Crawl is a 501(c)(3) non–profit founded in 2007.‍We make wholesale extraction, transformation and analysis of open web data accessible to researchers.
+
+[Overview](/overview)
+
+## Over 250 billion pages spanning 18 years.
+
+## Free and open corpus since 2007.
+
+## Cited in over 10,000 research papers.
+
+## 3–5 billion new pages added each month.
+
+### Featured Papers:
+
+#### [Research on Free Expression OnlineJeffrey Knockel, Jakub Dalek, Noura Aljizawi, Mohamed Ahmed, Levi Meletti, and Justin LauBanned Books: Analysis of Censorship on Amazon.com](https://citizenlab.ca/2024/11/analysis-of-censorship-on-amazon-com/)
+
+#### [Improved Trade-Offs Between Data Quality and Quantity for Long-Horizon Model TrainingDan Su, Kezhi Kong, Ying Lin, Joseph Jennings, Brandon Norick, Markus Kliegl, Mostofa Patwary, Mohammad Shoeybi, Bryan CatanzaroNemotron-CC: Transforming Common Crawl into a Refined Long-Horizon Pretraining Dataset](https://arxiv.org/abs/2412.02595)
+
+#### [Analyzing the Australian Web with Web Graphs: Harmonic Centrality at the Domain LevelXian Gong, Paul X. McCarthy, Marian-Andrei Rizoiu, Paolo BoldiHarmony in the Australian Domain Space](https://arxiv.org/pdf/2404.10006)
+
+#### [The Dangers of Hijacked HyperlinksKevin Saric, Felix Savins, Gowri Sankar Ramachandran, Raja Jurdak, Surya NepalHyperlink Hijacking: Exploiting Erroneous URL Links to Phantom Domains](https://dl.acm.org/doi/10.1145/3589334.3645510)
+
+#### [Enhancing Computational AnalysisZhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya GuoDeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+
+#### [Computation and LanguageAsier Gutiérrez-Fandiño, David Pérez-Fernández, Jordi Armengol-Estapé, David Griol, Zoraida CallejasesCorpius: A Massive Spanish Crawling Corpus](https://arxiv.org/abs/2206.15147)
+
+#### [The Web as a Graph (Master's Thesis)Marius Løvold Jørgensen, UiT Norges Arktiske Universitet BacklinkDB: A Purpose-Built Backlink Database Management System](https://munin.uit.no/handle/10037/28861)
+
+#### [Internet Security: Phishing WebsitesAsadullah Safi, Satwinder SinghA Systematic Literature Review on Phishing Website Detection Techniques](https://doi.org/10.1016/j.jksuci.2023.01.004)
+
+[More on Google Scholar](https://scholar.google.com/scholar?q=common+crawl)[Curated BibTeX Dataset](https://github.com/commoncrawl/cc-citations/)
+
+### Latest Blog Post:
+
+[![Host- and Domain-Level Web Graphs October, November, and December 2024](https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64e632beacaeb117d55bf82c_graphs.webp)](/blog/host--and-domain-level-web-graphs-october-november-and-december-2024)
+
+[Web Graphs](#)### [Host- and Domain-Level Web Graphs October, November, and December 2024](/blog/host--and-domain-level-web-graphs-october-november-and-december-2024)
+
+We are pleased to announce a new release of host-level and domain-level Web Graphs based on the crawls of October, November, and December 2024. The crawls used to generate the graphs were CC-MAIN-2024-42, CC-MAIN-2024-46, and CC-MAIN-2024-51.
+
+![Thom is Principal Technologist at the Common Crawl Foundation.](https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6525482ffaaa06f071baaf93_thom_vaughan.webp)
+
+Thom Vaughan
+
+Thom is Principal Technologist at the Common Crawl Foundation.
+
+[![Common Crawl Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg)](/)
+
+## The Data
+
+### [Overview](/overview)
+
+### [Web Graphs](/web-graphs)
+
+### [Latest Crawl](/latest-crawl)
+
+### [Crawl Stats](https://commoncrawl.github.io/cc-crawl-statistics/)
+
+### [Graph Stats](https://commoncrawl.github.io/cc-webgraph-statistics/)
+
+### [Errata](/errata)
+
+## Resources
+
+### [Get Started](/get-started)
+
+### [Blog](/blog)
+
+### [Examples](/examples)
+
+### [Use Cases](/use-cases)
+
+### [CCBot](/ccbot)
+
+### [Infra Status](https://status.commoncrawl.org)
+
+### [FAQ](/faq)
+
+## Community
+
+### [Research Papers](/research-papers)
+
+### [Mailing List Archive](https://groups.google.com/g/common-crawl)
+
+### [Hugging Face](https://huggingface.co/commoncrawl)
+
+### [Discord](https://discord.gg/njaVFh7avF)
+
+### [Collaborators](/collaborators)
+
+## About
+
+### [Team](/team)
+
+### [Jobs](/jobs)
+
+### [Mission](/mission)
+
+### [Impact](/impact)
+
+### [Privacy Policy](/privacy-policy)
+
+### [Terms of Use](/terms-of-use)
+
+[![Twitter Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg)](https://x.com/commoncrawl)[![LinkedIn Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20\(1\).svg)](https://www.linkedin.com/company/common-crawl/)[![LinkedIn Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg)](https://discord.gg/njaVFh7avF)
+
+© 2025 Common Crawl

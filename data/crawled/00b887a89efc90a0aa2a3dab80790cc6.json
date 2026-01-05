@@ -1,0 +1,25 @@
+{
+    "id": "00b887a89efc90a0aa2a3dab80790cc6",
+    "metadata": {
+        "id": "00b887a89efc90a0aa2a3dab80790cc6",
+        "url": "https://www.notion.so/Ranking-00b887a89efc90a0aa2a3dab80790cc6",
+        "title": "Ranking",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ]
+        }
+    },
+    "parent_metadata": {
+        "id": "cfca9598b9ce231f04570a8cceefc34d",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n\t[https://towardsdatascience.com/learning-to-rank-a-complete-guide-to-ranking-using-machine-learning-4c9688d370d4](https://towardsdatascience.com/learning-to-rank-a-complete-guide-to-ranking-using-machine-learning-4c9688d370d4)\n\n# Resources [Science]\n\n# Tools",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://towardsdatascience.com/learning-to-rank-a-complete-guide-to-ranking-using-machine-learning-4c9688d370d4/"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "cb4dde374bd6dfad1a7ae24f279ca69a",
+    "metadata": {
+        "id": "cb4dde374bd6dfad1a7ae24f279ca69a",
+        "url": "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf/",
+        "title": "Error 404 (Not Found)!!1",
+        "properties": {
+            "description": null,
+            "keywords": null,
+            "author": null
+        }
+    },
+    "parent_metadata": {
+        "id": "ab35a4a4bba7e472ab4ce4ad178a2e8d",
+        "url": "https://www.notion.so/RecSys-Two-tower-architecture-ab35a4a4bba7e472ab4ce4ad178a2e8d",
+        "title": "RecSys: Two-tower architecture",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ]
+        }
+    },
+    "content": "[](//www.google.com/)\n\n**404.** That’s an error.\n\nThe requested URL `/media/research.google.com/en//pubs/archive/45530.pdf/` was not found on this server. That’s all we know.\n",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://www.google.com/"
+    ]
+}

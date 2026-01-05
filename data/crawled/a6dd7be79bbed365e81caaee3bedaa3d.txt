@@ -1,0 +1,37 @@
+[![Hugging Face's logo](/front/assets/huggingface_logo-noborder.svg) Hugging Face](/)
+
+  * [ Models](/models)
+  * [ Datasets](/datasets)
+  * [ Spaces](/spaces)
+  * [ Posts](/posts)
+  * [ Docs](/docs)
+  * [ Enterprise](/enterprise)
+  * [Pricing](/pricing)
+  * [Log In](/login)
+  * [Sign Up](/join)
+
+
+
+#  Documentations 
+
+[ Hub Host Git-based models, datasets and Spaces on the Hugging Face Hub. ](/docs/hub) [ Transformers State-of-the-art ML for Pytorch, TensorFlow, and JAX. ](/docs/transformers) [ Diffusers State-of-the-art diffusion models for image and audio generation in PyTorch. ](/docs/diffusers) [ Datasets Access and share datasets for computer vision, audio, and NLP tasks. ](/docs/datasets) [ Gradio Build machine learning demos and other web apps, in just a few lines of Python. ](https://www.gradio.app/docs/) [ Hub Python Library Client library for the HF Hub: manage repositories from your Python runtime. ](/docs/huggingface_hub) [ Huggingface.js A collection of JS libraries to interact with Hugging Face, with TS types included. ](/docs/huggingface.js) [ Transformers.js State-of-the-art Machine Learning for the web. Run Transformers directly in your browser, with no need for a server. ](/docs/transformers.js) [ Inference API (serverless) Experiment with over 200k models easily using the serverless tier of Inference Endpoints. ](/docs/api-inference) [ Inference Endpoints (dedicated) Easily deploy models to production on dedicated, fully managed infrastructure. ](/docs/inference-endpoints) [ PEFT Parameter efficient finetuning methods for large models. ](/docs/peft) [ Accelerate Easily train and use PyTorch models with multi-GPU, TPU, mixed-precision. ](/docs/accelerate) [ Optimum Fast training and inference of HF Transformers with easy to use hardware optimization tools. ](/docs/optimum) [ AWS Trainium & Inferentia Train and Deploy Transformers & Diffusers with AWS Trainium and AWS Inferentia via Optimum. ](/docs/optimum-neuron) [ Tokenizers Fast tokenizers, optimized for both research and production. ](/docs/tokenizers) [ Evaluate Evaluate and report model performance easier and more standardized. ](/docs/evaluate) [ Tasks All things about ML tasks: demos, use cases, models, datasets, and more! ](/tasks) [ Dataset viewer API to access the contents, metadata and basic statistics of all Hugging Face Hub datasets. ](/docs/dataset-viewer) [ TRL Train transformer language models with reinforcement learning. ](/docs/trl) [ Amazon SageMaker Train and Deploy Transformer models with Amazon SageMaker and Hugging Face DLCs. ](/docs/sagemaker) [ timm State-of-the-art computer vision models, layers, optimizers, training/evaluation, and utilities. ](/docs/timm) [ Safetensors Simple, safe way to store and distribute neural networks weights safely and quickly. ](/docs/safetensors) [ Text Generation Inference Toolkit to serve Large Language Models. ](/docs/text-generation-inference) [ AutoTrain AutoTrain API and UI. ](/docs/autotrain) [ Text Embeddings Inference Toolkit to serve Text Embedding Models. ](/docs/text-embeddings-inference) [ Competitions Create your own competitions on Hugging Face. ](/docs/competitions) [ Bitsandbytes Toolkit to optimize and quantize models. ](/docs/bitsandbytes) [ Sentence Transformers Multilingual Sentence & Image Embeddings ](https://sbert.net/) [ Google Cloud Train and Deploy Transformer models with Hugging Face DLCs on Google Cloud. ](/docs/google-cloud) [ Google TPUs Deploy models on Google TPUs via Optimum. ](/docs/optimum-tpu) [ Chat UI Open source chat frontend, powers the HuggingChat app. ](/docs/chat-ui) [ Leaderboards Create your own Leaderboards on Hugging Face. ](/docs/leaderboards) [ Lighteval Your all-in-one toolkit for evaluating LLMs across multiple backends. ](/docs/lighteval) [ Argilla Collaboration tool for AI engineers and domain experts who need to build high quality datasets. ](https://argilla-io.github.io/argilla/) [ Distilabel The framework for synthetic data generation and AI feedback. ](https://distilabel.argilla.io/) [ Hugging Face Generative AI Services (HUGS) Optimized, zero-configuration inference microservices designed to simplify and accelerate the development of AI applications with open models ](/docs/hugs) [ smolagents Barebones library for agents. Agents write python code to call tools and orchestrate other agents. ](/docs/smolagents)
+
+## Community
+
+  * [ Blog ](/blog)
+  * [ Learn ](/learn)
+  * [ Discord ](/join/discord)
+  * [ Forum ](https://discuss.huggingface.co/)
+  * [ Github ](https://github.com/huggingface)
+
+
+
+System theme 
+
+Company
+
+[TOS](/terms-of-service) [Privacy](/privacy) [About](/huggingface) [Jobs](https://apply.workable.com/huggingface/) [](/)
+
+Website
+
+[Models](/models) [Datasets](/datasets) [Spaces](/spaces) [Pricing](/pricing) [Docs](/docs)

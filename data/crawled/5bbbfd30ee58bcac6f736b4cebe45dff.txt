@@ -1,0 +1,745 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F4de1464a9930&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](https://medium.com/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](https://medium.com/search?source=---top_nav_layout_nav----------------------------------)
+
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)
+
+Top highlight
+
+# Advanced Retrieval-Augmented Generation: From Theory to LlamaIndex Implementation
+
+## How to address limitations of naive RAG pipelines by implementing targeted advanced RAG techniques in Python
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:88:88/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---byline--4de1464a9930--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:48:48/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---byline--4de1464a9930--------------------------------)
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---byline--4de1464a9930--------------------------------)
+
+·
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F3a38da70d8dc&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&user=Leonie+Monigatti&userId=3a38da70d8dc&source=post_page-3a38da70d8dc--byline--4de1464a9930---------------------post_header-----------)
+
+Published in
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---byline--4de1464a9930--------------------------------)
+
+·
+
+10 min read
+
+·
+
+Feb 19, 2024
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F4de1464a9930&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&user=Leonie+Monigatti&userId=3a38da70d8dc&source=---header_actions--4de1464a9930---------------------clap_footer-----------)
+
+1.8K
+
+13
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4de1464a9930&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&source=---header_actions--4de1464a9930---------------------bookmark_footer-----------)
+
+[Listen](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D4de1464a9930&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&source=---header_actions--4de1464a9930---------------------post_audio_button-----------)
+
+Share
+
+![Advanced Retrieval-Augmented Generation \(RAG\) implements pre-retrieval, retrieval, and post-retrieval optimizations to a naive RAG pipeline](https://miro.medium.com/v2/resize:fit:700/1*8z-QRadKewNmos0J_4TNAQ.png)
+
+Difference between Naive and Advanced RAG (Image by the author, inspired by [1])
+
+A recent survey on [Retrieval-Augmented Generation (RAG)](https://medium.com/towards-data-science/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2) [1] summarized three recently evolved paradigms:
+
+  * Naive RAG,
+  * advanced RAG, and
+  * modular RAG.
+
+
+
+The advanced RAG paradigm comprises of a set of techniques targeted at addressing known limitations of naive RAG. This article first discusses these techniques, which can be categorized into _pre-retrieval, retrieval, and post-retrieval optimizations_.
+
+In the second half, you will learn how to implement a naive RAG pipeline using [Llamaindex](https://www.llamaindex.ai/) in Python, which will then be enhanced to an advanced RAG pipeline with a selection of the following advanced RAG techniques:
+
+  * [Pre-retrieval optimization: Sentence window retrieval](#c968)
+  * [Retrieval optimization: Hybrid search](#3275)
+  * [Post-retrieval optimization: Re-ranking](#c1e2)
+
+
+
+This article focuses on the **advanced RAG paradigm** and its implementation. If you are unfamiliar with the fundamentals of RAG, you can catch up on it here:
+
+## [Retrieval-Augmented Generation (RAG): From Theory to LangChain ImplementationFrom the theory of the original academic paper to its Python implementation with OpenAI, Weaviate, and LangChaintowardsdatascience.com](/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2?source=post_page-----4de1464a9930--------------------------------)
+
+# What is Advanced RAG
+
+With the recent advancements in the RAG domain, advanced RAG has evolved as a new paradigm with targeted enhancements to address some of the limitations of the naive RAG paradigm. As summarized in a recent survey [1], advanced RAG techniques can be categorized into pre-retrieval, retrieval, and post-retrieval optimizations.
+
+![Advanced Retrieval-Augmented Generation \(RAG\) implements pre-retrieval, retrieval, and post-retrieval optimizations to a naive RAG pipeline](https://miro.medium.com/v2/resize:fit:700/1*6bTQeYn9814yAgLor2EFrQ.png)
+
+Difference between Naive and Advanced RAG (Image by the author, inspired by [1])
+
+# Pre-retrieval optimization
+
+Pre-retrieval optimizations focus on data indexing optimizations as well as query optimizations. Data indexing optimization techniques aim to store the data in a way that helps you improve retrieval efficiency, such as [1]:
+
+  * **Sliding window** uses an overlap between chunks and is one of the simplest techniques.
+  * **Enhancing data granularity** applies data cleaning techniques, such as removing irrelevant information, confirming factual accuracy, updating outdated information, etc.
+  * **Adding metadata** , such as dates, purposes, or chapters, for filtering purposes.
+  * **Optimizing index structures** involves different strategies to index data, such as adjusting the chunk sizes or using multi-indexing strategies. One technique we will implement in this article is sentence window retrieval, which embeds single sentences for retrieval and replaces them with a larger text window at inference time.
+
+
+
+![Sentence window retrieval embeds and indexes the document by single sentences but also stored a window of context around the senteces as metadata.](https://miro.medium.com/v2/resize:fit:700/1*pbU5KBqYWhx0GOeNRMiPoA.png)
+
+Sentence window retrieval
+
+Additionally, pre-retrieval techniques aren’t limited to data indexing and can cover **techniques at inference time** , such as query routing, query rewriting, and query expansion.
+
+# Retrieval optimization
+
+The retrieval stage aims to identify the most relevant context. Usually, the retrieval is based on vector search, which calculates the semantic similarity between the query and the indexed data. Thus, the majority of retrieval optimization techniques revolve around the embedding models [1]:
+
+  * **Fine-tuning embedding models** customizes embedding models to domain-specific contexts, especially for domains with evolving or rare terms. For example, `BAAI/bge-small-en `is a high-performance embedding model that can be fine-tuned (see[ Fine-tuning guide](https://betterprogramming.pub/fine-tuning-your-embedding-model-to-maximize-relevance-retrieval-in-rag-pipeline-2ea3fa231149))
+  * **Dynamic Embedding** adapts to the context in which words are used, unlike static embedding, which uses a single vector for each word. For example, OpenAI’s `embeddings-ada-02` is a sophisticated dynamic embedding model that captures contextual understanding. [1]
+
+
+
+There are also other retrieval techniques besides vector search, such as hybrid search, which often refers to the concept of combining vector search with keyword-based search. This retrieval technique is beneficial if your retrieval requires exact keyword matches.
+
+## [Improving Retrieval Performance in RAG Pipelines with Hybrid SearchHow to find more relevant search results by combining traditional keyword-based search with modern vector searchtowardsdatascience.com](/improving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5?source=post_page-----4de1464a9930--------------------------------)
+
+# Post-retrieval optimization
+
+Additional processing of the retrieved context can help address issues such as exceeding the context window limit or introducing noise, thus hindering the focus on crucial information. Post-retrieval optimization techniques summarized in the RAG survey [1] are:
+
+  * **Prompt compression** reduces the overall prompt length by removing irrelevant and highlighting important context.
+  * **Re-ranking** uses machine learning models to recalculate the relevance scores of the retrieved contexts.
+
+
+
+![Re-ranking recalculates the relevance scores based on the query after the retrieval and only sends the top n to the context window of the LLM](https://miro.medium.com/v2/resize:fit:700/1*owudWLuoXhqeLjStCsnDiw.png)
+
+Re-ranking
+
+For additional ideas on how to improve the performance of your RAG pipeline to make it production-ready, continue reading here:
+
+## [A Guide on 12 Tuning Strategies for Production-Ready RAG ApplicationsHow to improve the performance of your Retrieval-Augmented Generation (RAG) pipeline with these “hyperparameters” and…towardsdatascience.com](/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439?source=post_page-----4de1464a9930--------------------------------)
+
+# Prerequisites
+
+This section discusses the required packages and API keys to follow along in this article.
+
+## Required Packages
+
+This article will guide you through implementing a naive and an advanced RAG pipeline using [LlamaIndex](https://www.llamaindex.ai/) in Python.
+
+```
+pip install llama-index
+```
+
+In this article, we will be using [LlamaIndex ](https://blog.llamaindex.ai/llamaindex-v0-10-838e735948f8)`[v0.10](https://blog.llamaindex.ai/llamaindex-v0-10-838e735948f8)`. If you are upgrading from an older LlamaIndex version, you need to run the following commands to install and run LlamaIndex properly:
+
+```
+pip uninstall llama-indexpip install llama-index --upgrade --no-cache-dir --force-reinstall
+```
+
+LlamaIndex offers an option to store vector embeddings locally in JSON files for persistent storage, which is great for quickly prototyping an idea. However, we will use a vector database for persistent storage since advanced RAG techniques aim for production-ready applications.
+
+Since we will need metadata storage and hybrid search capabilities in addition to storing the vector embeddings, we will use the open source vector database [Weaviate](http://weaviate.io) (`v3.26.2`), which supports these features.
+
+```
+pip install weaviate-client llama-index-vector-stores-weaviate
+```
+
+## API Keys
+
+We will be using Weaviate embedded, which you can use for free without registering for an API key. However, this tutorial uses an embedding model and LLM from [OpenAI](https://openai.com/), for which you will need an OpenAI API key. To obtain one, you need an OpenAI account and then “Create new secret key” under [API keys](https://platform.openai.com/account/api-keys).
+
+Next, create a local `.env` file in your root directory and define your API keys in it:
+
+```
+OPENAI_API_KEY="<YOUR_OPENAI_API_KEY>"
+```
+
+Afterwards, you can load your API keys with the following code:
+
+```
+# !pip install python-dotenvimport osfrom dotenv import load_dotenv,find_dotenvload_dotenv(find_dotenv())
+```
+
+# Implementing Naive RAG with LlamaIndex
+
+This section discusses how to implement a naive RAG pipeline using LlamaIndex. You can find the entire naive RAG pipeline in this [Jupyter Notebook](https://github.com/weaviate/recipes/blob/main/integrations/llamaindex/retrieval-augmented-generation/naive_rag.ipynb). For the implementation using LangChain, you can continue in [this article (naive RAG pipeline using LangChain](https://medium.com/towards-data-science/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2)).
+
+## Step 1: Define the embedding model and LLM
+
+First, you can define an embedding model and LLM in a global settings object. Doing this means you don’t have to specify the models explicitly in the code again.
+
+  * Embedding model: used to generate vector embeddings for the document chunks and the query.
+  * LLM: used to generate an answer based on the user query and the relevant context.
+
+```
+from llama_index.embeddings.openai import OpenAIEmbeddingfrom llama_index.llms.openai import OpenAIfrom llama_index.core.settings import SettingsSettings.llm = OpenAI(model="gpt-3.5-turbo", temperature=0.1)Settings.embed_model = OpenAIEmbedding()
+```
+
+## Step 2: Load data
+
+Next, you will create a local directory named `data` in your root directory and download some example data from the [LlamaIndex GitHub repository](https://github.com/run-llama/llama_index) (MIT license).
+
+```
+!mkdir -p 'data'!wget '<https://raw.githubusercontent.com/run-llama/llama_index/main/docs/examples/data/paul_graham/paul_graham_essay.txt>' -O 'data/paul_graham_essay.txt'
+```
+
+Afterward, you can load the data for further processing:
+
+```
+from llama_index.core import SimpleDirectoryReader# Load datadocuments = SimpleDirectoryReader( input_files=["./data/paul_graham_essay.txt"]).load_data()
+```
+
+## Step 3: Chunk documents into nodes
+
+As the entire document is too large to fit into the context window of the LLM, you will need to partition it into smaller text chunks, which are called `Nodes` in LlamaIndex. You can parse the loaded documents into nodes using the `SimpleNodeParser` with a defined chunk size of 1024.
+
+```
+from llama_index.core.node_parser import SimpleNodeParsernode_parser = SimpleNodeParser.from_defaults(chunk_size=1024)# Extract nodes from documentsnodes = node_parser.get_nodes_from_documents(documents)
+```
+
+## Step 4: Build index
+
+Next, you will build the index that stores all the external knowledge in [Weaviate](https://weaviate.io/), an open source vector database.
+
+First, you will need to connect to a Weaviate instance. In this case, we’re using [Weaviate Embedded](https://weaviate.io/developers/weaviate/installation/embedded), which allows you to experiment in Notebooks for free without an API key. For a production-ready solution, deploying Weaviate yourself, e.g., [via Docker](https://weaviate.io/developers/weaviate/installation/docker-compose) or utilizing a [managed service](https://weaviate.io/developers/weaviate/installation/weaviate-cloud-services), is recommended.
+
+```
+import weaviate# Connect to your Weaviate instanceclient = weaviate.Client( embedded_options=weaviate.embedded.EmbeddedOptions(), )
+```
+
+Next, you will build a `VectorStoreIndex` from the Weaviate client to store your data in and interact with.
+
+```
+from llama_index.core import VectorStoreIndex, StorageContextfrom llama_index.vector_stores.weaviate import WeaviateVectorStoreindex_name = "MyExternalContext"# Construct vector storevector_store = WeaviateVectorStore( weaviate_client = client, index_name = index_name)# Set up the storage for the embeddingsstorage_context = StorageContext.from_defaults(vector_store=vector_store)# Setup the index# build VectorStoreIndex that takes care of chunking documents# and encoding chunks to embeddings for future retrievalindex = VectorStoreIndex( nodes, storage_context = storage_context,)
+```
+
+## Step 5: Setup query engine
+
+Lastly, you will set up the index as the query engine.
+
+```
+# The QueryEngine class is equipped with the generator# and facilitates the retrieval and generation stepsquery_engine = index.as_query_engine()
+```
+
+## Step 6: Run a naive RAG query on your data
+
+Now, you can run a naive RAG query on your data, as shown below:
+
+```
+# Run your naive RAG queryresponse = query_engine.query( "What happened at Interleaf?")
+```
+
+# Implementing Advanced RAG with LlamaIndex
+
+In this section, we will cover some simple adjustments you can make to turn the above naive RAG pipeline into an advanced one. This walkthrough will cover the following selection of advanced RAG techniques:
+
+  * [Pre-retrieval optimization: Sentence window retrieval](#c968)
+  * [Retrieval optimization: Hybrid search](#3275)
+  * [Post-retrieval optimization: Re-ranking](#c1e2)
+
+
+
+As we will only cover the modifications here, you can find the [full end-to-end advanced RAG pipeline in this Jupyter Notebook](https://github.com/weaviate/recipes/blob/main/integrations/llamaindex/retrieval-augmented-generation/advanced_rag.ipynb).
+
+# Indexing optimization example: Sentence window retrieval
+
+For the [sentence window retrieval technique](https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/MetadataReplacementDemo.html), you need to make two adjustments: First, you must adjust how you store and post-process your data. Instead of the `SimpleNodeParser`, we will use the `SentenceWindowNodeParser`.
+
+```
+from llama_index.core.node_parser import SentenceWindowNodeParser# create the sentence window node parser w/ default settingsnode_parser = SentenceWindowNodeParser.from_defaults( window_size=3, window_metadata_key="window", original_text_metadata_key="original_text",)
+```
+
+The `SentenceWindowNodeParser` does two things:
+
+  1. It separates the document into single sentences, which will be embedded.
+  2. For each sentence, it creates a context window. If you specify a `window_size = 3`, the resulting window will be three sentences long, starting at the previous sentence of the embedded sentence and spanning the sentence after. The window will be stored as metadata.
+
+
+
+During retrieval, the sentence that most closely matches the query is returned. After retrieval, you need to replace the sentence with the entire window from the metadata by defining a `MetadataReplacementPostProcessor` and using it in the list of `node_postprocessors`.
+
+```
+from llama_index.core.postprocessor import MetadataReplacementPostProcessor# The target key defaults to `window` to match the node_parser's defaultpostproc = MetadataReplacementPostProcessor( target_metadata_key="window")...query_engine = index.as_query_engine( node_postprocessors = [postproc],)
+```
+
+# Retrieval optimization example: Hybrid search
+
+Implementing a hybrid search in LlamaIndex is as easy as two parameter changes to the `query_engine` if the underlying vector database supports hybrid search queries. The `alpha` parameter specifies the weighting between vector search and keyword-based search, where `alpha=0` means keyword-based search and `alpha=1` means pure vector search.
+
+```
+query_engine = index.as_query_engine( ..., vector_store_query_mode="hybrid", alpha=0.5, ...)
+```
+
+# Post-retrieval optimization example: Re-ranking
+
+Adding a reranker to your advanced RAG pipeline only takes three simple steps:
+
+  1. First, define a reranker model. Here, we are using the `[BAAI/bge-reranker-base](https://huggingface.co/BAAI/bge-reranker-base)`[from Hugging Face](https://huggingface.co/BAAI/bge-reranker-base).
+  2. In the query engine, add the reranker model to the list of `node_postprocessors`.
+  3. Increase the `similarity_top_k` in the query engine to retrieve more context passages, which can be reduced to `top_n` after reranking.
+
+```
+# !pip install torch sentence-transformersfrom llama_index.core.postprocessor import SentenceTransformerRerank# Define reranker modelrerank = SentenceTransformerRerank( top_n = 2, model = "BAAI/bge-reranker-base")...# Add reranker to query enginequery_engine = index.as_query_engine( similarity_top_k = 6, ..., node_postprocessors = [rerank], ...,)
+```
+
+There are many more different techniques within the advanced RAG paradigm. If you are interested in further implementations, I recommend the following two resources:
+
+## [Building and Evaluating Advanced RAG ApplicationsLearn methods like sentence-window retrieval and auto-merging retrieval, improving your RAG pipeline's performance…www.deeplearning.ai](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/?source=post_page-----4de1464a9930--------------------------------)
+
+## [Advanced RAG 01: Small-to-Big RetrievalChild-Parent RecursiveRetriever and Sentence Window Retrieval with LlamaIndextowardsdatascience.com](/advanced-rag-01-small-to-big-retrieval-172181b396d4?source=post_page-----4de1464a9930--------------------------------)
+
+# Summary
+
+This article covered the concept of advanced RAG, which covers a set of techniques to address the limitations of the naive RAG paradigm. After an overview of advanced RAG techniques, which can be categorized into pre-retrieval, retrieval, and post-retrieval techniques, this article implemented a naive and advanced RAG pipeline using LlamaIndex for orchestration.
+
+The RAG pipeline components were language models from [OpenAI](https://openai.com/), a reranker model from [BAAI](https://www.baai.ac.cn/english.html) hosted on [Hugging Face](https://huggingface.co/), and a [Weaviate](https://weaviate.io/) vector database.
+
+We implemented the following selection of techniques using LlamaIndex in Python:
+
+  * [Pre-retrieval optimization: Sentence window retrieval](#c968)
+  * [Retrieval optimization: Hybrid search](#3275)
+  * [Post-retrieval optimization: Re-ranking](#c1e2)
+
+
+
+You can find the Jupyter Notebooks containing the full end-to-end pipelines here:
+
+  * [Naive RAG in LlamaIndex](https://github.com/weaviate/recipes/blob/main/integrations/llamaindex/retrieval-augmented-generation/naive_rag.ipynb)
+  * [Advanced RAG in LlamaIndex](https://github.com/weaviate/recipes/blob/main/integrations/llamaindex/retrieval-augmented-generation/advanced_rag.ipynb)
+
+
+
+# Enjoyed This Story?
+
+[_Subscribe for free_](https://medium.com/subscribe/@iamleonie) _to get notified when I publish a new story._
+
+## [Get an email whenever Leonie Monigatti publishes.Get an email whenever Leonie Monigatti publishes. By signing up, you will create a Medium account if you don't already…medium.com](https://medium.com/@iamleonie/subscribe?source=post_page-----4de1464a9930--------------------------------)
+
+ _Find me on_[ _LinkedIn_](https://www.linkedin.com/in/804250ab/),[_Twitter_](https://twitter.com/helloiamleonie) _, and_[ _Kaggle_](https://www.kaggle.com/iamleonie) _!_
+
+# Disclaimer
+
+I am a Developer Advocate at Weaviate at the time of this writing.
+
+# References
+
+## Literature
+
+[1] Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., … & Wang, H. (2023). Retrieval-augmented generation for large language models: A survey. [_arXiv preprint arXiv:2312.10997_](https://arxiv.org/pdf/2312.10997.pdf).
+
+## Images
+
+If not otherwise stated, all images are created by the author.
+
+![](https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)
+
+## Sign up to discover human stories that deepen your understanding of the world.
+
+## Free
+
+Distraction-free reading. No ads.
+
+Organize your knowledge with lists and highlights.
+
+Tell your story. Find your audience.
+
+[Sign up for free](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&source=---post_footer_upsell--4de1464a9930---------------------lo_non_moc_upsell-----------)
+
+## Membership
+
+Read member-only stories
+
+Support writers you read most
+
+Earn money for your writing
+
+Listen to audio narrations
+
+Read offline with the Medium app
+
+[Try for $5/month](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplans&source=---post_footer_upsell--4de1464a9930---------------------lo_non_moc_upsell-----------)
+
+[Data Science](https://medium.com/tag/data-science?source=post_page-----4de1464a9930--------------------------------)
+
+[Machine Learning](https://medium.com/tag/machine-learning?source=post_page-----4de1464a9930--------------------------------)
+
+[Artificial Intelligence](https://medium.com/tag/artificial-intelligence?source=post_page-----4de1464a9930--------------------------------)
+
+[Programming](https://medium.com/tag/programming?source=post_page-----4de1464a9930--------------------------------)
+
+[Editors Pick](https://medium.com/tag/editors-pick?source=post_page-----4de1464a9930--------------------------------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F4de1464a9930&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&user=Leonie+Monigatti&userId=3a38da70d8dc&source=---footer_actions--4de1464a9930---------------------clap_footer-----------)
+
+1.8K
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F4de1464a9930&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&user=Leonie+Monigatti&userId=3a38da70d8dc&source=---footer_actions--4de1464a9930---------------------clap_footer-----------)
+
+1.8K
+
+13
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4de1464a9930&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&source=---footer_actions--4de1464a9930---------------------bookmark_footer-----------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:96:96/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--4de1464a9930--------------------------------)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:128:128/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---post_publication_info--4de1464a9930--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--4de1464a9930---------------------follow_profile-----------)
+
+## [Published in Towards Data Science](https://towardsdatascience.com/?source=post_page---post_publication_info--4de1464a9930--------------------------------)
+
+[793K Followers](/followers?source=post_page---post_publication_info--4de1464a9930--------------------------------)
+
+·[Last published 3 hours ago](/detecting-hallucination-in-rag-ecaf251a6633?source=post_page---post_publication_info--4de1464a9930--------------------------------)
+
+Your home for data science and AI. The world’s leading publication for data science, data analytics, data engineering, machine learning, and artificial intelligence professionals.
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Ftowards-data-science&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&collection=Towards+Data+Science&collectionId=7f60cf5620c9&source=post_page---post_publication_info--4de1464a9930---------------------follow_profile-----------)
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:96:96/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---post_author_info--4de1464a9930--------------------------------)
+
+[![Leonie Monigatti](https://miro.medium.com/v2/resize:fill:128:128/1*TTIl4oynrJyfIkLbC6fumA.png)](https://medium.com/@iamleonie?source=post_page---post_author_info--4de1464a9930--------------------------------)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F3a38da70d8dc&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&user=Leonie+Monigatti&userId=3a38da70d8dc&source=post_page-3a38da70d8dc--post_author_info--4de1464a9930---------------------follow_profile-----------)
+
+## [Written by Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---post_author_info--4de1464a9930--------------------------------)
+
+[33K Followers](https://medium.com/@iamleonie/followers?source=post_page---post_author_info--4de1464a9930--------------------------------)
+
+·[183 Following](https://medium.com/@iamleonie/following?source=post_page---post_author_info--4de1464a9930--------------------------------)
+
+Developer Advocate @ Weaviate. Follow for practical data science guides - whether you're a data scientist or not. [linkedin.com/in/804250ab](http://linkedin.com/in/804250ab)
+
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F3a38da70d8dc&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&user=Leonie+Monigatti&userId=3a38da70d8dc&source=post_page-3a38da70d8dc--post_author_info--4de1464a9930---------------------follow_profile-----------)
+
+## Responses (13)
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--4de1464a9930--------------------------------)
+
+[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930&source=---post_responses--4de1464a9930---------------------respond_sidebar-----------)
+
+Cancel
+
+Respond
+
+Respond
+
+Also publish to my profile
+
+[![Daniel Warfield](https://miro.medium.com/v2/resize:fill:32:32/1*YaEyucgUXLb6TwSFW-ucXg.jpeg)](https://medium.com/@danielwarfield1?source=post_page---post_responses--4de1464a9930----0----------------------------)
+
+[Daniel Warfield](https://medium.com/@danielwarfield1?source=post_page---post_responses--4de1464a9930----0----------------------------)
+
+[Feb 20, 2024](https://medium.com/@danielwarfield1/fabulous-work-as-always-638756cdc96b?source=post_page---post_responses--4de1464a9930----0----------------------------)
+
+```
+
+
+Fabulous work, as always.
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F638756cdc96b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40danielwarfield1%2Ffabulous-work-as-always-638756cdc96b&user=Daniel+Warfield&userId=bdc4072cbfdc&source=---post_responses--638756cdc96b----0-----------------respond_sidebar-----------)
+
+20
+
+Reply
+
+[![Daily Blogs](https://miro.medium.com/v2/resize:fill:32:32/1*SEMjnpgWgc6J2SezznGmTg.jpeg)](https://medium.com/@pereiradomnic44?source=post_page---post_responses--4de1464a9930----1----------------------------)
+
+[Daily Blogs](https://medium.com/@pereiradomnic44?source=post_page---post_responses--4de1464a9930----1----------------------------)
+
+[Feb 20, 2024](https://medium.com/@pereiradomnic44/good-information-31d053b4821f?source=post_page---post_responses--4de1464a9930----1----------------------------)
+
+```
+
+
+Good information
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F31d053b4821f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40pereiradomnic44%2Fgood-information-31d053b4821f&user=Daily+Blogs&userId=4e2f0ca0ef28&source=---post_responses--31d053b4821f----1-----------------respond_sidebar-----------)
+
+21
+
+Reply
+
+[![David Hundley](https://miro.medium.com/v2/resize:fill:32:32/1*jhm8zA0VcRvYzRXIM4EJJg@2x.jpeg)](https://dkhundley.medium.com/?source=post_page---post_responses--4de1464a9930----2----------------------------)
+
+[David Hundley](https://dkhundley.medium.com/?source=post_page---post_responses--4de1464a9930----2----------------------------)
+
+[Feb 19, 2024](https://dkhundley.medium.com/great-read-well-done-3d4dda9d8070?source=post_page---post_responses--4de1464a9930----2----------------------------)
+
+```
+
+
+Great read! Well done.
+
+
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F3d4dda9d8070&operation=register&redirect=https%3A%2F%2Fdkhundley.medium.com%2Fgreat-read-well-done-3d4dda9d8070&user=David+Hundley&userId=82498630db6&source=---post_responses--3d4dda9d8070----2-----------------respond_sidebar-----------)
+
+22
+
+Reply
+
+See all responses
+
+## More from Leonie Monigatti and Towards Data Science
+
+![Stylized performance dashboard for Retrieval-Augmented Generation](https://miro.medium.com/v2/resize:fit:679/1*t8v_0ztDLfkLB0fvHHc9pw.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--4de1464a9930----0---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--4de1464a9930----0---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+by
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---author_recirc--4de1464a9930----0---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+## [Evaluating RAG Applications with RAGAsA framework with metrics and LLM-generated data to evaluate the performance of your Retrieval-Augmented Generation pipeline](/evaluating-rag-applications-with-ragas-81d67b0ee31a?source=post_page---author_recirc--4de1464a9930----0---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+Dec 13, 2023
+
+[1.6K9](/evaluating-rag-applications-with-ragas-81d67b0ee31a?source=post_page---author_recirc--4de1464a9930----0---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F81d67b0ee31a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fevaluating-rag-applications-with-ragas-81d67b0ee31a&source=---author_recirc--4de1464a9930----0-----------------bookmark_preview----1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+![Water Cooler Small Talk: Benford’s Law](https://miro.medium.com/v2/resize:fit:679/1*78Ka1EjSEBJgOrVy-H19sg.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--4de1464a9930----1---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--4de1464a9930----1---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+by
+
+[Maria Mouschoutzi, PhD](https://medium.com/@m.mouschoutzi?source=post_page---author_recirc--4de1464a9930----1---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+## [Water Cooler Small Talk: Benford’s LawA look into the strange first digit distribution of naturally occurring datasets](/water-cooler-small-talk-benfords-law-a1c12419e773?source=post_page---author_recirc--4de1464a9930----1---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+4d ago
+
+[4905](/water-cooler-small-talk-benfords-law-a1c12419e773?source=post_page---author_recirc--4de1464a9930----1---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa1c12419e773&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fwater-cooler-small-talk-benfords-law-a1c12419e773&source=---author_recirc--4de1464a9930----1-----------------bookmark_preview----1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+![The Death of Human-Written Code Tutorials in the ChatGPT Era … Or Not?](https://miro.medium.com/v2/resize:fit:679/1*hWM4ARagwBgwA9KRytIt6A.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--4de1464a9930----2---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--4de1464a9930----2---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+by
+
+[Murtaza Ali](https://murtaza5152-ali.medium.com/?source=post_page---author_recirc--4de1464a9930----2---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+## [The Death of Human-Written Code Tutorials in the ChatGPT Era … Or Not?An argument in favor of human-written coding tutorials in the new age of LLMs.](/the-death-of-human-written-code-tutorials-in-the-chatgpt-era-or-not-9a437a58a0b2?source=post_page---author_recirc--4de1464a9930----2---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+4d ago
+
+[634](/the-death-of-human-written-code-tutorials-in-the-chatgpt-era-or-not-9a437a58a0b2?source=post_page---author_recirc--4de1464a9930----2---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9a437a58a0b2&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fthe-death-of-human-written-code-tutorials-in-the-chatgpt-era-or-not-9a437a58a0b2&source=---author_recirc--4de1464a9930----2-----------------bookmark_preview----1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+![DSPy logo of puzzle pieces showing the DSPy modules Signature, Modules, Teleprompter, and the DSPy compiler prioritzed over prompting.](https://miro.medium.com/v2/resize:fit:679/1*hZoX1Q_rp9FyYwPJ4FlaUg@2x.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---author_recirc--4de1464a9930----3---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--4de1464a9930----3---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+by
+
+[Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---author_recirc--4de1464a9930----3---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+## [Intro to DSPy: Goodbye Prompting, Hello Programming!How the DSPy framework solves the fragility problem in LLM-based applications by replacing prompting with programming and compiling](/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9?source=post_page---author_recirc--4de1464a9930----3---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+Feb 27, 2024
+
+[4.3K14](/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9?source=post_page---author_recirc--4de1464a9930----3---------------------1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4ca1c6ce3eb9&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9&source=---author_recirc--4de1464a9930----3-----------------bookmark_preview----1ace53ca_726f_43d4_bddc_a86050fab70a-------)
+
+[See all from Leonie Monigatti](https://medium.com/@iamleonie?source=post_page---author_recirc--4de1464a9930--------------------------------)
+
+[See all from Towards Data Science](https://towardsdatascience.com/?source=post_page---author_recirc--4de1464a9930--------------------------------)
+
+## Recommended from Medium
+
+![Cache-Augmented Generation \(CAG\) Is Here To Replace RAG](https://miro.medium.com/v2/resize:fit:679/0*tPYuvWIPbMwbb5w-)
+
+[![Level Up Coding](https://miro.medium.com/v2/resize:fill:20:20/1*5D9oYBd58pyjMkV_5-zXXQ.jpeg)](https://levelup.gitconnected.com/?source=post_page---read_next_recirc--4de1464a9930----0---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+In
+
+[Level Up Coding](https://levelup.gitconnected.com/?source=post_page---read_next_recirc--4de1464a9930----0---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+by
+
+[Dr. Ashish Bamania](https://bamania-ashish.medium.com/?source=post_page---read_next_recirc--4de1464a9930----0---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+## [Cache-Augmented Generation (CAG) Is Here To Replace RAGA deep dive into how a novel technique called Cache-Augmented Generation (CAG) works and reduces/ eliminates the need for RAG.](https://levelup.gitconnected.com/cache-augmented-generation-cag-is-here-to-replace-rag-3d25c52360b2?source=post_page---read_next_recirc--4de1464a9930----0---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+Jan 10
+
+[2509](https://levelup.gitconnected.com/cache-augmented-generation-cag-is-here-to-replace-rag-3d25c52360b2?source=post_page---read_next_recirc--4de1464a9930----0---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3d25c52360b2&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fcache-augmented-generation-cag-is-here-to-replace-rag-3d25c52360b2&source=---read_next_recirc--4de1464a9930----0-----------------bookmark_preview----c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+![Advanced RAG: Query Augmentation for Next-Level Search using LlamaIndex🦙](https://miro.medium.com/v2/resize:fit:679/1*2mlluIXS05R7a03CvwxW4g.png)
+
+[![Akash Mathur](https://miro.medium.com/v2/resize:fill:20:20/1*eD5Xy7puiDthVIoiOnSJEQ.jpeg)](https://akash-mathur.medium.com/?source=post_page---read_next_recirc--4de1464a9930----1---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+[Akash Mathur](https://akash-mathur.medium.com/?source=post_page---read_next_recirc--4de1464a9930----1---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+## [Advanced RAG: Query Augmentation for Next-Level Search using LlamaIndex🦙Using Open Source LLM Zephyr-7b-alpha and BGE Embeddings bge-large-en-v1.5](https://akash-mathur.medium.com/advanced-rag-query-augmentation-for-next-level-search-using-llamaindex-d362fed7ecc3?source=post_page---read_next_recirc--4de1464a9930----1---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+Jan 18, 2024
+
+[8693](https://akash-mathur.medium.com/advanced-rag-query-augmentation-for-next-level-search-using-llamaindex-d362fed7ecc3?source=post_page---read_next_recirc--4de1464a9930----1---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd362fed7ecc3&operation=register&redirect=https%3A%2F%2Fakash-mathur.medium.com%2Fadvanced-rag-query-augmentation-for-next-level-search-using-llamaindex-d362fed7ecc3&source=---read_next_recirc--4de1464a9930----1-----------------bookmark_preview----c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+## Lists
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/0*r4yjMpEmqzHCUvWC.jpg)![](https://miro.medium.com/v2/resize:fill:48:48/1*bv2KUVNLi2sFNjBTdoBmWw.png)![](https://miro.medium.com/v2/resize:fill:48:48/0*zsngbTOmFCy6sUCx.jpeg)Predictive Modeling w/ Python20 stories·1787 saves](https://medium.com/@ben.putney/list/predictive-modeling-w-python-e3668ea008e1?source=post_page---read_next_recirc--4de1464a9930--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*nVAk9E_TnPIK8Kv57PJruA.png)![](https://miro.medium.com/v2/resize:fill:48:48/1*790FdGYUonUX4X3IyQr1Og.png)![](https://miro.medium.com/v2/da:true/resize:fill:48:48/1*o1k0mQo3BuyIkmg-rI2Eiw.gif)Natural Language Processing1889 stories·1547 saves](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a?source=post_page---read_next_recirc--4de1464a9930--------------------------------)
+
+[![Principal Component Analysis for ML](https://miro.medium.com/v2/resize:fill:48:48/1*swd_PY6vTCyPnsgBYoFZfA.png)![Time Series Analysis](https://miro.medium.com/v2/resize:fill:48:48/1*8sSAHftNwd_RNJ3k4VA0pA.png)![deep learning cheatsheet for beginner](https://miro.medium.com/v2/resize:fill:48:48/1*uNyD4yNMH-DnOel1wzxOOA.png)Practical Guides to Machine Learning10 stories·2162 saves](https://destingong.medium.com/list/practical-guides-to-machine-learning-a877c2a39884?source=post_page---read_next_recirc--4de1464a9930--------------------------------)
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*rex1OZ5_KcxK2QrsZr3Cgw.jpeg)![](https://miro.medium.com/v2/resize:fill:48:48/1*I2o9__q4g1dzbcH9XRqcRg.png)![](https://miro.medium.com/v2/resize:fill:48:48/0*F6q2BN7oddumBDGY.png)ChatGPT prompts 51 stories·2487 saves](https://medium.com/@nicholas.michael.janulewicz/list/chatgpt-prompts-b4c47b8e12ee?source=post_page---read_next_recirc--4de1464a9930--------------------------------)
+
+![Agentic chuning offers near human-level performance in chunking](https://miro.medium.com/v2/resize:fit:679/1*wzK0hP8qqmrpv2ds6_R9uw.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--4de1464a9930----0---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--4de1464a9930----0---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+by
+
+[Thuwarakesh Murallie](https://thuwarakesh.medium.com/?source=post_page---read_next_recirc--4de1464a9930----0---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+## [How to Achieve Near Human-Level Performance in Chunking for RAGsThe costly yet powerful splitting technique for superior RAG retrieval](/agentic-chunking-for-rags-091beccd94b1?source=post_page---read_next_recirc--4de1464a9930----0---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+Aug 26, 2024
+
+[6406](/agentic-chunking-for-rags-091beccd94b1?source=post_page---read_next_recirc--4de1464a9930----0---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F091beccd94b1&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fagentic-chunking-for-rags-091beccd94b1&source=---read_next_recirc--4de1464a9930----0-----------------bookmark_preview----c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+![Advanced RAG 11: Query Classification and Refinement](https://miro.medium.com/v2/resize:fit:679/1*c-6YY9rmiJyu_3V-5Fsp_w.png)
+
+[![AI Advances](https://miro.medium.com/v2/resize:fill:20:20/1*R8zEd59FDf0l8Re94ImV0Q.png)](https://ai.gopubby.com/?source=post_page---read_next_recirc--4de1464a9930----1---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+In
+
+[AI Advances](https://ai.gopubby.com/?source=post_page---read_next_recirc--4de1464a9930----1---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+by
+
+[Florian June](https://medium.com/@florian_algo?source=post_page---read_next_recirc--4de1464a9930----1---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+## [Advanced RAG 11: Query Classification and RefinementPriciples, Code Explanation and Insights about Adaptive-RAG and RQ-RAG](https://ai.gopubby.com/advanced-rag-11-query-classification-and-refinement-2aec79f4140b?source=post_page---read_next_recirc--4de1464a9930----1---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+May 12, 2024
+
+[4872](https://ai.gopubby.com/advanced-rag-11-query-classification-and-refinement-2aec79f4140b?source=post_page---read_next_recirc--4de1464a9930----1---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2aec79f4140b&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fadvanced-rag-11-query-classification-and-refinement-2aec79f4140b&source=---read_next_recirc--4de1464a9930----1-----------------bookmark_preview----c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+![Automating Hyperparameter Tuning with LlamaIndex](https://miro.medium.com/v2/resize:fit:679/1*cCIp_Ds7ZUJ7suY-RZTeKw.png)
+
+[![Level Up Coding](https://miro.medium.com/v2/resize:fill:20:20/1*5D9oYBd58pyjMkV_5-zXXQ.jpeg)](https://levelup.gitconnected.com/?source=post_page---read_next_recirc--4de1464a9930----2---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+In
+
+[Level Up Coding](https://levelup.gitconnected.com/?source=post_page---read_next_recirc--4de1464a9930----2---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+by
+
+[Wenqi Glantz](https://medium.com/@wenqiglantz?source=post_page---read_next_recirc--4de1464a9930----2---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+## [Automating Hyperparameter Tuning with LlamaIndexExploring ParamTuner for RAG pipelines](https://levelup.gitconnected.com/automating-hyperparameter-tuning-with-llamaindex-72fdd68e3b90?source=post_page---read_next_recirc--4de1464a9930----2---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+Nov 20, 2023
+
+[3053](https://levelup.gitconnected.com/automating-hyperparameter-tuning-with-llamaindex-72fdd68e3b90?source=post_page---read_next_recirc--4de1464a9930----2---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F72fdd68e3b90&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fautomating-hyperparameter-tuning-with-llamaindex-72fdd68e3b90&source=---read_next_recirc--4de1464a9930----2-----------------bookmark_preview----c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+![A Practitioners Guide to Retrieval Augmented Generation \(RAG\)](https://miro.medium.com/v2/resize:fit:679/1*LW4rHcu4PuTucP-VoPyTjg.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://towardsdatascience.com/?source=post_page---read_next_recirc--4de1464a9930----3---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+In
+
+[Towards Data Science](https://towardsdatascience.com/?source=post_page---read_next_recirc--4de1464a9930----3---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+by
+
+[Cameron R. Wolfe, Ph.D.](https://wolfecameron.medium.com/?source=post_page---read_next_recirc--4de1464a9930----3---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+## [A Practitioners Guide to Retrieval Augmented Generation (RAG)How basic techniques can be used to build powerful applications with LLMs…](/a-practitioners-guide-to-retrieval-augmented-generation-rag-36fd38786a84?source=post_page---read_next_recirc--4de1464a9930----3---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+Mar 26, 2024
+
+[6266](/a-practitioners-guide-to-retrieval-augmented-generation-rag-36fd38786a84?source=post_page---read_next_recirc--4de1464a9930----3---------------------c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F36fd38786a84&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fa-practitioners-guide-to-retrieval-augmented-generation-rag-36fd38786a84&source=---read_next_recirc--4de1464a9930----3-----------------bookmark_preview----c5deae91_741e_4ded_bbc2_c75e9334a99e-------)
+
+[See more recommendations](https://medium.com/?source=post_page---read_next_recirc--4de1464a9930--------------------------------)
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----4de1464a9930--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----4de1464a9930--------------------------------)
+
+[About](https://medium.com/about?autoplay=1&source=post_page-----4de1464a9930--------------------------------)
+
+[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----4de1464a9930--------------------------------)
+
+[Press](pressinquiries@medium.com?source=post_page-----4de1464a9930--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----4de1464a9930--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----4de1464a9930--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----4de1464a9930--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----4de1464a9930--------------------------------)
+
+[Teams](https://medium.com/business?source=post_page-----4de1464a9930--------------------------------)
+
+To make Medium work, we log user data. By using Medium, you agree to our [Privacy Policy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9), including cookie policy.

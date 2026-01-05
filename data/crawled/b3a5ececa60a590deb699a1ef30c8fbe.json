@@ -1,0 +1,73 @@
+{
+    "id": "b3a5ececa60a590deb699a1ef30c8fbe",
+    "metadata": {
+        "id": "b3a5ececa60a590deb699a1ef30c8fbe",
+        "url": "https://www.philschmid.de/",
+        "title": "Philschmid",
+        "properties": {
+            "description": "Personal Blog of Philipp Schmid Technical Lead and LLM at Hugging Face. Learn how to use the latest AI and Cloud Technologies from fine-tuning LLMs with RLHF to deploying them in production.",
+            "keywords": null,
+            "author": "Philipp Schmid",
+            "og:title": "Philschmid",
+            "og:description": "Personal Blog of Philipp Schmid Technical Lead and LLM at Hugging Face. Learn how to use the latest AI and Cloud Technologies from fine-tuning LLMs with RLHF to deploying them in production.",
+            "og:url": "https://www.philschmid.de",
+            "og:image": "https://www.philschmid.de/api/og?title=Philschmid",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "Philschmid",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Philschmid",
+            "twitter:description": "Personal Blog of Philipp Schmid Technical Lead and LLM at Hugging Face. Learn how to use the latest AI and Cloud Technologies from fine-tuning LLMs with RLHF to deploying them in production.",
+            "twitter:image": "https://www.philschmid.de/api/og?title=Philschmid"
+        }
+    },
+    "parent_metadata": {
+        "id": "a69a1adfa2babd3dcafeade691a12da9",
+        "url": "https://www.notion.so/Sources-a69a1adfa2babd3dcafeade691a12da9",
+        "title": "Sources",
+        "properties": {
+            "Type": "Node"
+        }
+    },
+    "content": "[![logo](/_next/image?url=%2Fstatic%2Flogo.png&w=48&q=75)Philschmid](/)\n\nSearch`⌘k`\n\n[Blog](/)[Projects](/projects)[Newsletter](/cloud-attention)[About Me](/philipp-schmid)Toggle Menu\n\n# Index\n\n## 2025 January\n\n### [Bite: How Deepseek R1 was trainedJanuary 17, 2025 — Bite, Deepseek, Reinforcement Learning, Reasoning](/deepseek-r1)### [How to use Anthropic MCP Server with open LLMs, OpenAI or Google GeminiJanuary 17, 2025 — Agents, Anthropic, OpenAI, Gemini](/mcp-example-llama)\n\n## 2024 December\n\n### [Fine-tune classifier with ModernBERT in 2025December 25, 2024 — Open Source, HuggingFace, Bert, Guide](/fine-tune-modern-bert-in-2025)### [How to fine-tune open LLMs in 2025 with Hugging FaceDecember 20, 2024 — Open Source, HuggingFace, LLM, Guide](/fine-tune-llms-in-2025)### [Deploy QwQ-32B-Preview the best open Reasoning Model on AWS with Hugging FaceDecember 3, 2024 — Qwen, HuggingFace, LLM, SageMaker](/sagemaker-deploy-qwq)\n\n## 2024 October\n\n### [Deploy Llama 3.2 Vision on Amazon SageMakerOctober 17, 2024 — HuggingFace, LLM, SageMaker, GenerativeAI](/sagemaker-llama32-vision)\n\n## 2024 September\n\n### [How to Fine-Tune Multimodal Models or VLMs with Hugging Face TRLSeptember 30, 2024 — HuggingFace, LLMs, Fine-Tuning, Multimodal](/fine-tune-multimodal-llms-with-trl)### [Evaluate open LLMs with Vertex AI and GeminiSeptember 24, 2024 — HuggingFace, LLMs, Evaluation, Google Cloud](/evaluate-llm-with-gemini)### [Evaluate LLMs using Evaluation Harness and Hugging Face TGI/vLLMSeptember 19, 2024 — HuggingFace, LLMs, Evaluation, Llama 3](/evaluate-llms-with-lm-eval-and-tgi-vllm)\n\n## 2024 August\n\n### [Deploy open LLMs with Terraform and Amazon SageMakerAugust 5, 2024 — HuggingFace, SageMaker, Llama 3, Terraform](/terraform-llm-sagemaker)\n\n## 2024 July\n\n### [LLM Evaluation doesn't need to be complicatedJuly 11, 2024 — GenerativeAI, HuggingFace, LLM, Evaluation](/llm-evaluation)\n\n## 2024 June\n\n### [Evaluating Open LLMs with MixEval: The Closest Benchmark to LMSYS Chatbot ArenaJune 28, 2024 — HuggingFace, LLMs, Evaluation](/evaluate-llm-mixeval)### [Train and Deploy open Embedding Models on Amazon SageMakerJune 25, 2024 — HuggingFace, SageMaker, Embeddings](/sagemaker-train-deploy-embedding-models)### [Deploy Mixtral 8x7B on AWS Inferentia2 with Hugging Face OptimumJune 18, 2024 — HuggingFace, SageMaker, Inferentia2, LLM](/inferentia2-mixtral-8x7b)### [Fine-tune Llama 3 with PyTorch FSDP and Q-Lora on Amazon SageMakerJune 11, 2024 — HuggingFace, SageMaker, Llama 3](/sagemaker-train-deploy-llama3)\n\n  * [1](/?page=1)\n  * [2](/?page=2)\n  * [3](/?page=3)\n  * [4](/?page=4)\n  * [5](/?page=5)\n  * [6](/?page=6)\n  * [7](/?page=7)\n  * [8](/?page=8)\n  * [9](/?page=9)\n  * [10](/?page=10)\n  * [Next](/?page=2)\n\n\n\n[Philipp Schmid © 2025](/philipp-schmid)[Imprint](/imprint)[RSS Feed](/rss)\n\ntheme\n\nMail[Twitter](https://twitter.com/_philschmid)[LinkedIn](https://www.linkedin.com/in/philipp-schmid-a6a2bb196/)[GitHub](https://github.com/philschmid)\n",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://www.philschmid.de/",
+        "https://www.philschmid.de/projects",
+        "https://www.philschmid.de/cloud-attention",
+        "https://www.philschmid.de/philipp-schmid",
+        "https://www.philschmid.de/deepseek-r1",
+        "https://www.philschmid.de/mcp-example-llama",
+        "https://www.philschmid.de/fine-tune-modern-bert-in-2025",
+        "https://www.philschmid.de/fine-tune-llms-in-2025",
+        "https://www.philschmid.de/sagemaker-deploy-qwq",
+        "https://www.philschmid.de/sagemaker-llama32-vision",
+        "https://www.philschmid.de/fine-tune-multimodal-llms-with-trl",
+        "https://www.philschmid.de/evaluate-llm-with-gemini",
+        "https://www.philschmid.de/evaluate-llms-with-lm-eval-and-tgi-vllm",
+        "https://www.philschmid.de/terraform-llm-sagemaker",
+        "https://www.philschmid.de/llm-evaluation",
+        "https://www.philschmid.de/evaluate-llm-mixeval",
+        "https://www.philschmid.de/sagemaker-train-deploy-embedding-models",
+        "https://www.philschmid.de/inferentia2-mixtral-8x7b",
+        "https://www.philschmid.de/sagemaker-train-deploy-llama3",
+        "https://www.philschmid.de/?page=1",
+        "https://www.philschmid.de/?page=2",
+        "https://www.philschmid.de/?page=3",
+        "https://www.philschmid.de/?page=4",
+        "https://www.philschmid.de/?page=5",
+        "https://www.philschmid.de/?page=6",
+        "https://www.philschmid.de/?page=7",
+        "https://www.philschmid.de/?page=8",
+        "https://www.philschmid.de/?page=9",
+        "https://www.philschmid.de/?page=10",
+        "https://www.philschmid.de/imprint",
+        "https://www.philschmid.de/rss",
+        "mailto:schmidphilipp1995@gmail.com",
+        "https://twitter.com/_philschmid",
+        "https://www.linkedin.com/in/philipp-schmid-a6a2bb196/",
+        "https://github.com/philschmid"
+    ]
+}

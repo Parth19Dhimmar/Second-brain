@@ -1,0 +1,29 @@
+{
+    "id": "cb899ec899ebbbadbcb90c8aebbeb762",
+    "metadata": {
+        "id": "cb899ec899ebbbadbcb90c8aebbeb762",
+        "url": "https://www.notion.so/Caching-cb899ec899ebbbadbcb90c8aebbeb762",
+        "title": "Caching",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ],
+            "Language": "Python",
+            "Created": {
+                "id": "tmas",
+                "type": "created_time",
+                "created_time": "2025-02-03T07:20:00.000Z"
+            }
+        }
+    },
+    "parent_metadata": {
+        "id": "a705ef065062f53db5bf2eefbf1aacd4",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Notes\n\n\n\n<child_page>\n# With joblib Memory\n\nRepeated computations can slow down data preprocessing and feature engineering in machine learning. Using joblib.Memory, you can cache function outputs and avoid redundant calculations, improving efficiency.\n\nWhy This Works\nThis works by caching the results of expensive function calls to avoid redundant computations. Outputs are stored on disk and reused for identical inputs, saving time and resources. It scales well with large datasets and parameter variations, automatically invalidating outdated caches when code changes. This reduces the overhead of repeated tasks, speeding up iterative workflows and improving overall efficiency in machine learning pipelines.\n---\n\n```\nfrom joblib import Memory\n\nmemory = Memory('cache_dir')\n\n@memory.cache\ndef expensive_function(x):\n    return sum(range(x))\n````\n</child_page>\n\n\n---\n\n# Resources [Community]\n\n# Resources [Science]\n\n# Tools",
+    "content_quality_score": 0.8,
+    "summary": null,
+    "child_urls": []
+}

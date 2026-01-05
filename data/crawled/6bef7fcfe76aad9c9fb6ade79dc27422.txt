@@ -1,0 +1,599 @@
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including **professional and job ads**) on and off LinkedIn. Learn more in our [Cookie Policy](https://www.linkedin.com/legal/cookie-policy).
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your [settings](https://www.linkedin.com/mypreferences/g/guest-cookies).
+
+Accept  Reject 
+
+Agree & Join LinkedIn 
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy). 
+
+[ Skip to main content ](#main-content) [ LinkedIn ](/?trk=public_post_nav-header-logo)
+
+  * [ Articles  ](https://www.linkedin.com/pulse/topics/home/?trk=public_post_guest_nav_menu_articles)
+  * [ People  ](https://www.linkedin.com/pub/dir/+/+?trk=public_post_guest_nav_menu_people)
+  * [ Learning  ](https://www.linkedin.com/learning/search?trk=public_post_guest_nav_menu_learning)
+  * [ Jobs  ](https://www.linkedin.com/jobs/search?trk=public_post_guest_nav_menu_jobs)
+  * [ Games  ](https://www.linkedin.com/games?trk=public_post_guest_nav_menu_games)
+  * [ Get the app  ](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_nav_upsell&trk=public_post_guest_nav_menu_windows)
+
+
+
+[ Join now ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_nav-header-join) [ Sign in ](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&fromSignIn=true&trk=public_post_nav-header-signin)
+
+#  Maxime Labonne’s Post
+
+[ ![View profile for Maxime Labonne, graphic](https://media.licdn.com/dms/image/v2/D5603AQHumprP2CM84g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718316587360?e=2147483647&v=beta&t=890DNv4tqs6m-0qthi5poIxwVSs_b_Tr-BUetdu2AMg) ](https://uk.linkedin.com/in/maxime-labonne?trk=public_post_feed-actor-image)
+
+[ Maxime Labonne ](https://uk.linkedin.com/in/maxime-labonne?trk=public_post_feed-actor-name)
+
+Head of Post-Training @ Liquid AI 
+
+1mo 
+
+  * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+
+
+🔧 The term "fine-tuning" includes completely different categories, with different objectives. 1️⃣ General-purpose fine-tuning corresponds to the instruct models produced by LLM providers. This approach is used both at [Liquid AI](https://www.linkedin.com/company/liquid-ai-inc?trk=public_post-text) and by organizations like Meta that release open-weight models. Here, the objective is to build a general-purpose AI assistant that can do most tasks. Because we have a super broad objective, this often requires over 1M samples just for supervised fine-tuning. 2️⃣ Domain-specific fine-tuning targets domains like finance, law, medicine, specific languages, etc. The goal is slightly similar to general-purpose fine-tuning but within a defined category. This type of fine-tuning often benefits from continual pre-training (CPT) if your domain is poorly represented in the pre-training data. This type of fine-tuning tends to disappear because base models are getting better and better. However, it is still useful for niche domains and rare languages. You can see an example of a pipeline with CPT and model merging to create a strong domain-specific LLM. ↓ 3️⃣ Task-specific fine-tuning is defined by its narrow scope, like summarization, information extraction, etc. This is quite popular with small models. With the right dataset, you reach the performance of frontier LLMs using cheap and fast models for your use case. It requires more tinkering but this can also build interesting technical moats. Because of the narrow focus, this also requires a lot fewer samples than the other types of fine-tuning. If you use fine-tuning in your daily job, I'm super interested in knowing more about your use cases. This is not an influencer trick to get comments, I'm genuinely trying to update my view of the FT landscape. :))
+
+  * ![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D4E22AQETdLKo-f8llw/feedshare-shrink_800/feedshare-shrink_800/0/1732706958821?e=2147483647&v=beta&t=svTM_5v2qa0uo10XrgP92QO6vuKrCAWVRvj5SdoFbrQ)
+  * ![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D4E22AQGZwGFNaGZZqw/feedshare-shrink_800/feedshare-shrink_800/0/1732706958804?e=2147483647&v=beta&t=6O69WnHR4K7idZaAwWq5vHwnH5M-UcnbliVbfqh7QvM)
+
+
+
+[ 254  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_social-actions-reactions) [ 15 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment-cta)
+
+Share 
+
+  * Copy
+  * LinkedIn
+  * Facebook
+  * Twitter
+
+
+
+[ ](https://nl.linkedin.com/in/refat-ametov?trk=public_post_comment_actor-image)
+
+[ Refat Ametov ](https://nl.linkedin.com/in/refat-ametov?trk=public_post_comment_actor-name)
+
+Driving Business Automation & AI Integration | Co-founder of Devstark and SpreadSimple | Stoic Mindset
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+I’ve worked on task-specific fine-tuning for summarization, and you’re spot on about the value of smaller datasets and technical moats. What’s your take on combining task-specific fine-tuning with retrieval-augmented generation for specialized use cases?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reply) [ 3 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reactions) 4 Reactions 
+
+[ ](https://www.linkedin.com/in/allen-roush-27721011b?trk=public_post_comment_actor-image)
+
+[ Allen Roush ](https://www.linkedin.com/in/allen-roush-27721011b?trk=public_post_comment_actor-name)
+
+Senior AI Researcher - Specialize in LLM, NLP, Argument Mining, and Generative Art
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+And it just gets even more complicated when we bring up all the various parameter efficient techniques for fine tuning, or the same-same but different techniques like representation/attention engineering (I.e control vectors, golden gate Claude, etc) When folks just say “fine tuning” I’m like “what do you really mean? Lora DPO? SFT but freezing all but the last n layers? Which is it!
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reply) [ 6 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reactions) 7 Reactions 
+
+[ ](https://de.linkedin.com/in/hasan-ayhan?trk=public_post_comment_actor-image)
+
+[ Hasan Ayhan ](https://de.linkedin.com/in/hasan-ayhan?trk=public_post_comment_actor-name)
+
+Senior Research Scientist, Generative AI at Cerence AI. | ASR | Machine Learning | Deep Learning | AI | Large Language Models (LLM)
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+I've been working mostly on task-specific finetuning. However I have some questions regarding the illustration: It seems the CPT and preference finetuning is being done on the base open source model and then merged with the instruct open source model? Any reason for this specific setup? What is the task / objective at hand?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reply) 1 Reaction 
+
+[ ](https://it.linkedin.com/in/fabio-matricardi-29354835?trk=public_post_comment_actor-image)
+
+[ fabio matricardi ](https://it.linkedin.com/in/fabio-matricardi-29354835?trk=public_post_comment_actor-name)
+
+Senior Control System Engineer and System Integrator at Key-Solution Srl
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+I want to fine tune 4x70M pythia-deduped into truthful RAG, summarization, chat, topic/table of content. And then become a MoE certainties: smol-talk dataset possible challenges: what tokenizer to be used
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reply) 1 Reaction 
+
+[ ](https://www.linkedin.com/in/richardshoemake?trk=public_post_comment_actor-image)
+
+[ Richard Shoemake ](https://www.linkedin.com/in/richardshoemake?trk=public_post_comment_actor-name)
+
+AI Architect / Engineer / AI Author / Patented Inventor
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Fine-tuning still makes a significant difference, even for SOTA models. One use case I've recently encountered is scoring text according to arbitrary criteria. It involves an initial human-curated dataset and possibly augmenting that with AI-generated datasets. 
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reply) [ 3 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reactions) 4 Reactions 
+
+[ ](https://fr.linkedin.com/in/stephane-masson-96a4603?trk=public_post_comment_actor-image)
+
+[ Stephane Masson ](https://fr.linkedin.com/in/stephane-masson-96a4603?trk=public_post_comment_actor-name) 1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+We are enhancing our text-to-data conversion process, specifically focusing on the third use case above. This involves fine-tuning models to better interpret the contextual information in our prompts, ultimately improving the quality and performance of the generated code
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reply) [ 2 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reactions) 3 Reactions 
+
+[ ](https://www.linkedin.com/in/svonava?trk=public_post_comment_actor-image)
+
+[ Daniel Svonava ](https://www.linkedin.com/in/svonava?trk=public_post_comment_actor-name)
+
+Vector Compute @ Superlinked | xYouTube
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+How do you manage the data requirements for general-purpose fine-tuning, especially when needing over 1M supervised samples?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reply) 1 Reaction 
+
+[ ](https://fr.linkedin.com/in/paleundeu?trk=public_post_comment_actor-image)
+
+[ Pierre Ange Leundeu ](https://fr.linkedin.com/in/paleundeu?trk=public_post_comment_actor-name)
+
+AWS ML x Data Engineer @devoteam
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+[N'bouyaa KASSINGA](https://fr.linkedin.com/in/n-bouyaa-kassinga-818a02169/en?trk=public_post_comment-text)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reactions) 2 Reactions 
+
+[ ](https://in.linkedin.com/in/haqsaiful?trk=public_post_comment_actor-image)
+
+[ Saiful Haq ](https://in.linkedin.com/in/haqsaiful?trk=public_post_comment_actor-name)
+
+AI/ML Research Lead at Hyperbots Inc (Founding Member) | Ex-Eaton | PhD Student at IIT Bombay
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Hi [Maxime Labonne](https://uk.linkedin.com/in/maxime-labonne?trk=public_post_comment-text)! I fine-tune on an average one LLM/VLM per day on small domain specific finance data. Would love to connect with you and learn more.
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reply) [ 4 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_comment_reactions) 5 Reactions 
+
+[ See more comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_see-more-comments)
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_feed-cta-banner-cta)
+
+##  More Relevant Posts 
+
+  * [](https://www.linkedin.com/posts/tonyreilly_apple-engineers-show-how-flimsy-ai-reasoning-activity-7252282972777672704-WLvK)
+
+[ ](https://uk.linkedin.com/in/tonyreilly?trk=public_post_feed-actor-image)
+
+[ Tony Reilly ](https://uk.linkedin.com/in/tonyreilly?trk=public_post_feed-actor-name)
+
+Shaping & Leading IT Enabled Global Business Transformation Programmes 
+
+3mo  Edited 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ftonyreilly_apple-engineers-show-how-flimsy-ai-reasoning-activity-7252282972777672704-WLvK&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Where is the tipping point, where Business Users should NOT trust GenAI ? One of the key assumptions behind the development of GenAI applications for business use, is that the Large Language Models (LLM) that underpin all GenAI applications are capable of genuine logical reasoning, that is equal too or exceeds human capabilities. The latest research (see below) indicates that this assumption is not correct. Instead, current LLMs attempt to replicate the reasoning steps observed in their training data. So, let's put this finding into a real world context: 1. Does this really matter, if we can still obtain actionable business insights from the use of GenAI applications with current LLMs? 2. At what point does the difference between 'genuine logical reasoning' & a type of 'pseudo-logical reasoning', show a difference in a business use case rather than data science use case ? I.e. where is the tipping point where Business Users should not trust GenAI?
+
+## [ Apple Engineers Show How Flimsy AI ‘Reasoning’ Can Be  wired.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ewired%2Ecom%2Fstory%2Fapple-ai-llm-reasoning-research%2F&urlhash=XnrA&trk=public_post_feed-article-content)
+
+[ 5  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ftonyreilly_apple-engineers-show-how-flimsy-ai-reasoning-activity-7252282972777672704-WLvK&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ftonyreilly_apple-engineers-show-how-flimsy-ai-reasoning-activity-7252282972777672704-WLvK&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ftonyreilly_apple-engineers-show-how-flimsy-ai-reasoning-activity-7252282972777672704-WLvK&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ftonyreilly_apple-engineers-show-how-flimsy-ai-reasoning-activity-7252282972777672704-WLvK&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/terezijasemenski_ai-ml-llm-activity-7259594903502934016-pxlL)
+
+[ ](https://hr.linkedin.com/in/terezijasemenski?trk=public_post_feed-actor-image)
+
+[ Terezija Semenski ](https://hr.linkedin.com/in/terezijasemenski?trk=public_post_feed-actor-name)
+
+LinkedIn [in]structor | I help people master Machine Learning fundamentals 50% faster | Founder @ Stack labs d.o.o. ♦ Corporate Trainer | 
+
+2mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fterezijasemenski_ai-ml-llm-activity-7259594903502934016-pxlL&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+What is 𝐑𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥-𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧 (𝐑𝐀𝐆)? Imagine this: you’re asking the model something complex, and instead of just digging through what it learned months (or even years!) ago, it actually goes out, finds the freshest info, and brings it right back to you in its answer. That’s Retrieval-Augmented Generation (RAG) in action. RAG is like an AI with a search engine built in. Instead of winging it with just its trained data, it actively pulls in real-time facts from external sources and combines them with its own insights. The result? You get a response that’s not only coherent but packed with relevant, up-to-date information. How it works? 1. Query encoding: When a user inputs a question, it’s encoded into a format that a search engine or database can process. The encoding turns the question into a vector or "embedding". 2. Retrieval phase: The retriever component then “searches” within an external database or document repository for relevant information. This step is critical as it brings in fresh, factual data, unlike traditional models that rely solely on pre-trained knowledge. The retrieved documents, often ranked by relevance, provide context for the response. 3. Generation phase: The embedding model takes both the initial query and the retrieved information. It compares these numeric values to vectors in a machine-readable index of an available knowledge base. Then it finds a match or multiple matches and retrieves the related data, converts it to words, and passes it back to the LLm. 4. Response generation: With retrieved data, LLM combines the retrieved words and crafts response as an answer to the user. Pros and Cons ➕ Pros: real-time access, improved accuracy, reduced hallucination, transparency ➖ Cons: complex implementation, increased latency, resource-intensive, dependency on data quality [#ai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#ml](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fml&trk=public_post-text) [#llm](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post-text) [#rag](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frag&trk=public_post-text) [#techwithterezija](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftechwithterezija&trk=public_post-text)
+
+[ 17  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fterezijasemenski_ai-ml-llm-activity-7259594903502934016-pxlL&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fterezijasemenski_ai-ml-llm-activity-7259594903502934016-pxlL&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fterezijasemenski_ai-ml-llm-activity-7259594903502934016-pxlL&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fterezijasemenski_ai-ml-llm-activity-7259594903502934016-pxlL&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/mauro-couto-de-paiva_the-pdf-extraction-revolution-why-pymupdf4llm-activity-7265668935000215552-JWxp)
+
+[ ](https://br.linkedin.com/in/mauro-couto-de-paiva/en?trk=public_post_feed-actor-image)
+
+[ Mauro Couto de Paiva ](https://br.linkedin.com/in/mauro-couto-de-paiva/en?trk=public_post_feed-actor-name)
+
+.NET | C# | Python | JavaScript | HTML | CSS | SQL | MongoDB | Xamarin | React Native 
+
+2mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmauro-couto-de-paiva_the-pdf-extraction-revolution-why-pymupdf4llm-activity-7265668935000215552-JWxp&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+“It’s called PymuPDF4llm, and let me tell you, it’s a game-changer. Think of it as the ultimate PDF extraction ninja, designed specifically for large language models (LLMs). It’s like having a superpowered Swiss Army knife that can easily tackle any PDF, leaving you with the clean, structured data your AI projects crave.“ Read “The PDF Extraction Revolution: Why PymuPDF4llm is Your New Best Friend (and LlamaParse is Crying)“ by Richardson Gunde on Medium: [https://lnkd.in/dixhC7-X](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdixhC7-X&urlhash=Mbhp&trk=public_post-text)
+
+## [ The PDF Extraction Revolution: Why PymuPDF4llm is Your New Best Friend (and LlamaParse is Crying)  ai.gopubby.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fai%2Egopubby%2Ecom%2Fthe-pdf-extraction-revolution-why-pymupdf4llm-is-your-new-best-friend-and-llamaparse-is-crying-e57882dee7f8&urlhash=_NuU&trk=public_post_feed-article-content)
+
+[ 2  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmauro-couto-de-paiva_the-pdf-extraction-revolution-why-pymupdf4llm-activity-7265668935000215552-JWxp&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmauro-couto-de-paiva_the-pdf-extraction-revolution-why-pymupdf4llm-activity-7265668935000215552-JWxp&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmauro-couto-de-paiva_the-pdf-extraction-revolution-why-pymupdf4llm-activity-7265668935000215552-JWxp&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmauro-couto-de-paiva_the-pdf-extraction-revolution-why-pymupdf4llm-activity-7265668935000215552-JWxp&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/luca-vinciguerra-34b8aaa9_the-pdf-extraction-revolution-why-pymupdf4llm-activity-7271081881641590785-3Dny)
+
+[ ](https://it.linkedin.com/in/luca-vinciguerra-34b8aaa9?trk=public_post_feed-actor-image)
+
+[ Luca Vinciguerra ](https://it.linkedin.com/in/luca-vinciguerra-34b8aaa9?trk=public_post_feed-actor-name)
+
+Product Management | NLP/ML Engineer @Almawave Spa || RedHotCyber member 
+
+1mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fluca-vinciguerra-34b8aaa9_the-pdf-extraction-revolution-why-pymupdf4llm-activity-7271081881641590785-3Dny&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+“It’s called PymuPDF4llm, and let me tell you, it’s a game-changer. Think of it as the ultimate PDF extraction ninja, designed specifically for large language models (LLMs). It’s like having a superpowered Swiss Army knife that can easily tackle any PDF, leaving you with the clean, structured data your AI projects crave.“ Read “The PDF Extraction Revolution: Why PymuPDF4llm is Your New Best Friend (and LlamaParse is Crying)“ by Richardson Gunde on Medium: [https://lnkd.in/g7q_w3uZ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg7q_w3uZ&urlhash=p6GS&trk=public_post-text)
+
+## [ The PDF Extraction Revolution: Why PymuPDF4llm is Your New Best Friend (and LlamaParse is Crying)  ai.gopubby.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fai%2Egopubby%2Ecom%2Fthe-pdf-extraction-revolution-why-pymupdf4llm-is-your-new-best-friend-and-llamaparse-is-crying-e57882dee7f8&urlhash=_NuU&trk=public_post_feed-article-content)
+
+[ 7  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fluca-vinciguerra-34b8aaa9_the-pdf-extraction-revolution-why-pymupdf4llm-activity-7271081881641590785-3Dny&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fluca-vinciguerra-34b8aaa9_the-pdf-extraction-revolution-why-pymupdf4llm-activity-7271081881641590785-3Dny&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fluca-vinciguerra-34b8aaa9_the-pdf-extraction-revolution-why-pymupdf4llm-activity-7271081881641590785-3Dny&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fluca-vinciguerra-34b8aaa9_the-pdf-extraction-revolution-why-pymupdf4llm-activity-7271081881641590785-3Dny&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/derekychang_gpt-4os-regression-we-recently-noticed-activity-7227552753605091328-Z4JJ)
+
+[ ](https://www.linkedin.com/in/derekychang?trk=public_post_feed-actor-image)
+
+[ Derek Chang ](https://www.linkedin.com/in/derekychang?trk=public_post_feed-actor-name)
+
+Builder @ Waii.ai 
+
+5mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fderekychang_gpt-4os-regression-we-recently-noticed-activity-7227552753605091328-Z4JJ&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+GPT-4o's Regression: We recently noticed a significant regression in GPT-4o's guardrail capability, starting last week. Here's what you need to know if you are using GPT-4o…
+
+[ ](https://www.linkedin.com/in/wangdatan?trk=public_post_reshare_feed-actor-image)
+
+[ Wangda Tan ](https://www.linkedin.com/in/wangdatan?trk=public_post_reshare_feed-actor-name)
+
+Co-founder of Waii, Ex-Snowflake, Ex-Cloudera 
+
+5mo  Edited 
+
+GPT-4o's Regression: Recent Findings 🎢 We recently noticed a significant regression in GPT-4o's guardrail capability, starting last week. Here's what you need to know if you are using GPT-4o: Our Testing Process 🕵️♂️ We consistently evaluate LLMs' many abilities related to agentic workflows to power data analytics systems, including reasoning and guardrails (to block queries about data not present in a given database schema), along with many others. For guardrails, we evaluate their ability to block out-of-scope or inappropriate queries (such as requests for employee data when the database only contains orders and products). The system should say, "Sorry, I can't answer that" instead of returning a made-up query. The Results 📊 - GPT-4-turbo: Blocked 90% of out-of-scope queries. (But it's more than 2x slower and more expensive than GPT-4o). - GPT-4o-2024-05-13 (the current GPT-4o): Only blocked 30%, down from a previous GPT-4o 70-80% based on our evaluation history. - GPT-4o-2024-08-06: Blocked 80% out-of-scope queries. Action Taken 🔄 - We're updating Waii's default LLM to GPT-4o-2024-08-06 for improved accuracy and safety. - We added a step to our agent step to reach a 100% blocking ratio for out-of-scope queries. Key Takeaways 🧠 - Consistent measurement is crucial. - Regular monitoring helps catch regressions early. - Even flagship AI models can have significant performance fluctuations! Have you observed similar issues? How do you monitor your AI systems? I'd like to hear your thoughts (please comment below). [#gpt4](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgpt4&trk=public_post_reshare-text), [#openai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fopenai&trk=public_post_reshare-text), [#ai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post_reshare-text), [#text2sql](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftext2sql&trk=public_post_reshare-text)
+
+[ 6  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fderekychang_gpt-4os-regression-we-recently-noticed-activity-7227552753605091328-Z4JJ&trk=public_post_social-actions-reactions) [ 1 Comment ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fderekychang_gpt-4os-regression-we-recently-noticed-activity-7227552753605091328-Z4JJ&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fderekychang_gpt-4os-regression-we-recently-noticed-activity-7227552753605091328-Z4JJ&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fderekychang_gpt-4os-regression-we-recently-noticed-activity-7227552753605091328-Z4JJ&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fderekychang_gpt-4os-regression-we-recently-noticed-activity-7227552753605091328-Z4JJ&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/terezijasemenski_ai-machinelearning-ml-activity-7269028310330851328-uT23)
+
+[ ](https://hr.linkedin.com/in/terezijasemenski?trk=public_post_feed-actor-image)
+
+[ Terezija Semenski ](https://hr.linkedin.com/in/terezijasemenski?trk=public_post_feed-actor-name)
+
+LinkedIn [in]structor | I help people master Machine Learning fundamentals 50% faster | Founder @ Stack labs d.o.o. ♦ Corporate Trainer | 
+
+1mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fterezijasemenski_ai-machinelearning-ml-activity-7269028310330851328-uT23&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+What is 𝐑𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥-𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧 (𝐑𝐀𝐆)? Imagine this: you’re asking the model something complex, and instead of just digging through what it learned months (or even years!) ago, it goes out, finds the freshest info, and brings it right back to you in its answer. That’s Retrieval-Augmented Generation (RAG) in action. RAG is like an AI with a search engine built in. Instead of winging it with just its trained data, it actively pulls in real-time facts from external sources and combines them with its own insights. The result? You get a response that’s not only coherent but packed with relevant, up-to-date information. How it works? 1. Query encoding: When a user inputs a question, it’s encoded into a format that a search engine or database can process. The encoding turns the question into a vector or "embedding". 2. Retrieval phase: The retriever component then “searches” within an external database or document repository for relevant information. This step is critical as it brings in fresh, factual data, unlike traditional models that rely solely on pre-trained knowledge. The retrieved documents, often ranked by relevance, provide context for the response. 3. Generation phase: The embedding model takes both the initial query and the retrieved information. It compares these numeric values to vectors in a machine-readable index of an available knowledge base. Then it finds a match or multiple matches and retrieves the related data, converts it to words, and passes it back to the LLm. 4. Response generation: With retrieved data, LLM combines the retrieved words and crafts response as an answer to the user. Pros and Cons ➕ Pros: real-time access, improved accuracy, reduced hallucination, transparency ➖ Cons: complex implementation, increased latency, resource-intensive, dependency on data quality ——— ♻️ Repost to inspire your network 🖱️ Follow me, [Terezija](https://hr.linkedin.com/in/terezijasemenski?trk=public_post-text) for daily posts [#ai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#machinelearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post-text) [#ml](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fml&trk=public_post-text) [#llm](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post-text) [#rag](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frag&trk=public_post-text) [#techwithterezija](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftechwithterezija&trk=public_post-text)
+
+[ 11  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fterezijasemenski_ai-machinelearning-ml-activity-7269028310330851328-uT23&trk=public_post_social-actions-reactions) [ 2 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fterezijasemenski_ai-machinelearning-ml-activity-7269028310330851328-uT23&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fterezijasemenski_ai-machinelearning-ml-activity-7269028310330851328-uT23&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fterezijasemenski_ai-machinelearning-ml-activity-7269028310330851328-uT23&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fterezijasemenski_ai-machinelearning-ml-activity-7269028310330851328-uT23&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/sarthakrastogi_ai-rag-llms-activity-7242867452051648512-gS1_)
+
+[ ](https://in.linkedin.com/in/sarthakrastogi?trk=public_post_feed-actor-image)
+
+[ Sarthak Rastogi ](https://in.linkedin.com/in/sarthakrastogi?trk=public_post_feed-actor-name) Sarthak Rastogi is an Influencer
+
+AI engineer experienced in agents, advanced RAG, LLMs and software engineering | Prev: ML research in multiple labs 
+
+4mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsarthakrastogi_ai-rag-llms-activity-7242867452051648512-gS1_&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+If your RAG pipeline is giving you incorrect answers on numerical data, [Google](https://www.linkedin.com/company/google?trk=public_post-text) has a fresh solution you can try, called Retrieval Interleaved Generation (RIG). Here’s how it works: RIG fine-tunes an LLM so that it generates 2 responses: 1. Statistical values answering the user’s question (these are called Generated-SVs). 2. A natural language query to fetch data from Data Commons, which is a repo of public stats from the UN, CDC, etc. Then these queries are converted into structured data queries to fetch statistical variables, places, attributes etc. from Data Commons. These fetched values are called Ground-Truth-SVs. The retrieved ground-truth values from Data Commons are then outputted alongside the LLM's original outputs. This lets you easily fact-check outputs with trusted data. You can easily try out RIG in this Colab notebook: [https://lnkd.in/gSYdg8hx](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgSYdg8hx&urlhash=A8yu&trk=public_post-text) [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#RAG](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frag&trk=public_post-text) [#LLMs](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllms&trk=public_post-text)
+
+[ 89  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsarthakrastogi_ai-rag-llms-activity-7242867452051648512-gS1_&trk=public_post_social-actions-reactions) [ 6 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsarthakrastogi_ai-rag-llms-activity-7242867452051648512-gS1_&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsarthakrastogi_ai-rag-llms-activity-7242867452051648512-gS1_&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsarthakrastogi_ai-rag-llms-activity-7242867452051648512-gS1_&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsarthakrastogi_ai-rag-llms-activity-7242867452051648512-gS1_&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/wangdatan_gpt4-openai-ai-activity-7227489621453025280-h0t4)
+
+[ ](https://www.linkedin.com/in/wangdatan?trk=public_post_feed-actor-image)
+
+[ Wangda Tan ](https://www.linkedin.com/in/wangdatan?trk=public_post_feed-actor-name)
+
+Co-founder of Waii, Ex-Snowflake, Ex-Cloudera 
+
+5mo  Edited 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fwangdatan_gpt4-openai-ai-activity-7227489621453025280-h0t4&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+GPT-4o's Regression: Recent Findings 🎢 We recently noticed a significant regression in GPT-4o's guardrail capability, starting last week. Here's what you need to know if you are using GPT-4o: Our Testing Process 🕵️♂️ We consistently evaluate LLMs' many abilities related to agentic workflows to power data analytics systems, including reasoning and guardrails (to block queries about data not present in a given database schema), along with many others. For guardrails, we evaluate their ability to block out-of-scope or inappropriate queries (such as requests for employee data when the database only contains orders and products). The system should say, "Sorry, I can't answer that" instead of returning a made-up query. The Results 📊 - GPT-4-turbo: Blocked 90% of out-of-scope queries. (But it's more than 2x slower and more expensive than GPT-4o). - GPT-4o-2024-05-13 (the current GPT-4o): Only blocked 30%, down from a previous GPT-4o 70-80% based on our evaluation history. - GPT-4o-2024-08-06: Blocked 80% out-of-scope queries. Action Taken 🔄 - We're updating Waii's default LLM to GPT-4o-2024-08-06 for improved accuracy and safety. - We added a step to our agent step to reach a 100% blocking ratio for out-of-scope queries. Key Takeaways 🧠 - Consistent measurement is crucial. - Regular monitoring helps catch regressions early. - Even flagship AI models can have significant performance fluctuations! Have you observed similar issues? How do you monitor your AI systems? I'd like to hear your thoughts (please comment below). [#gpt4](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgpt4&trk=public_post-text), [#openai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fopenai&trk=public_post-text), [#ai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text), [#text2sql](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftext2sql&trk=public_post-text)
+
+[ 34  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fwangdatan_gpt4-openai-ai-activity-7227489621453025280-h0t4&trk=public_post_social-actions-reactions) [ 2 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fwangdatan_gpt4-openai-ai-activity-7227489621453025280-h0t4&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fwangdatan_gpt4-openai-ai-activity-7227489621453025280-h0t4&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fwangdatan_gpt4-openai-ai-activity-7227489621453025280-h0t4&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fwangdatan_gpt4-openai-ai-activity-7227489621453025280-h0t4&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/mattstockton_long-context-windows-in-llms-give-you-the-activity-7229163176729194499-yALP)
+
+[ ](https://www.linkedin.com/in/mattstockton?trk=public_post_feed-actor-image)
+
+[ Matt Stockton ](https://www.linkedin.com/in/mattstockton?trk=public_post_feed-actor-name)
+
+Delivering Practical Data, AI, and LLM Solutions for Real Business Impact | Founder, PragmaNexus LLC 
+
+5mo  Edited 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmattstockton_long-context-windows-in-llms-give-you-the-activity-7229163176729194499-yALP&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Long context windows in LLMs give you the ability to work with huge amounts of unstructured data with limited data pre-processing. Theoretically, Google's recent Gemini model is capable of handling the entire text of the Harry Potter series in a single prompt. Wild stuff. Here's a detailed post about how I experimented with long context windows, and some more info below if you don't want to click into the post: [https://lnkd.in/eFBqW9pt](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeFBqW9pt&urlhash=K6JT&trk=public_post-text) Are you or your company trying to build something that could use some AI / LLM expertise? I'd love to hear from you. I'm open to Fractional CTO roles, co-founder roles, and AI / LLM consulting roles starting in September. ___________________________ I used long context windows to help me analyze small cap company annual report pdfs. Without any pre-processing, I had the Gemini model rank investment opportunities using 1000 pages of unstructured PDF reports. Check out the YouTube video: [https://lnkd.in/eJZehqRm](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeJZehqRm&urlhash=FHGG&trk=public_post-text), and the steps I took in the post above. I also highlight how you can use multiple LLM tools to solve your problem, you don't have to choose just one. Also, if you don't know what prompts to use, the LLM can help you with that too - you can ask it to help you build your prompts! Here are the basic steps I took: 1. Used Claude Anthropic to give me a set of criteria to screen for small cap stocks. It gave me 5 attributes to use. 2. Used the [FinViz.com](https://www.linkedin.com/redir/redirect?url=http%3A%2F%2FFinViz%2Ecom&urlhash=ihAq&trk=public_post-text) screening tool to find 10 stocks to analyze 3. Downloaded the annual report PDFs from [AnnualReports.com](https://www.linkedin.com/redir/redirect?url=http%3A%2F%2FAnnualReports%2Ecom&urlhash=jVsw&trk=public_post-text) 4. Used ChatGPT to generate a prompt for analyzing the PDFs 5. Posted all of the PDFs, along with the prompt from step 4, into Google AI Studio (Gemini) The attached image is a snapshot of the result from Gemini. Amazing to be able to do this for free and in less than 30 minutes. What are you building and learning? Where do you need help? Send me a note, I'd love to hear from you.
+
+    * ![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D4E22AQFkkfmtPBd8Hw/feedshare-shrink_800/feedshare-shrink_800/0/1723566811856?e=2147483647&v=beta&t=quHM_C2tV_4kaKK6ike9RcKImkrxM0tZM2qinTtiAqs)
+
+[ ![](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) ![](https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu) 6  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmattstockton_long-context-windows-in-llms-give-you-the-activity-7229163176729194499-yALP&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmattstockton_long-context-windows-in-llms-give-you-the-activity-7229163176729194499-yALP&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmattstockton_long-context-windows-in-llms-give-you-the-activity-7229163176729194499-yALP&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmattstockton_long-context-windows-in-llms-give-you-the-activity-7229163176729194499-yALP&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/martechrichard_fine-tune-llama-32-for-powerful-performance-activity-7249995053949943808-Gg0d)
+
+[ ![View organization page for MarTechRichard, graphic](https://media.licdn.com/dms/image/v2/D4E0BAQE2k-KJ2kaRew/company-logo_100_100/company-logo_100_100/0/1725270054807/martechrichard_logo?e=2147483647&v=beta&t=Utd0SOXT4yyo3TXrt4BTt6zRRMc8--xGhhwtb2ji4uA) ](https://www.linkedin.com/company/martechrichard?trk=public_post_feed-actor-image)
+
+[ MarTechRichard ](https://www.linkedin.com/company/martechrichard?trk=public_post_feed-actor-name)
+
+11 followers 
+
+3mo  Edited 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmartechrichard_fine-tune-llama-32-for-powerful-performance-activity-7249995053949943808-Gg0d&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Unlock the potential of AI with fine-tuning! 🎯 Discover how to harness Llama 3.2 for targeted applications in your industry. 🚀 By running it locally and customizing it with domain-specific data, businesses can significantly enhance AI performance! Tailoring models like Llama 3.2 boosts accuracy and relevance in areas like customer service and marketing. 📈 Don't miss out on this game-changing strategy for staying competitive! Interested in learning more about fine-tuning for your business? 📞 Reach us on email: [mtr@martechrichard.com](https://www.linkedin.com/redir/redirect?url=mailto%3Amtr%40martechrichard%2Ecom&urlhash=wxNN&trk=public_post-text) or DM us on LinkedIn! And don't forget to follow our page for the latest insights! Learn more here 👉 [Towards Data Science]([https://lnkd.in/ey82mPN8](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fey82mPN8&urlhash=svHl&trk=public_post-text)) [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post-text) [#Llama3](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllama3&trk=public_post-text) [#BusinessInnovation](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fbusinessinnovation&trk=public_post-text) [#FineTuning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ffinetuning&trk=public_post-text)
+
+[ ![Optimize Llama 3.2 for Enhanced Performance in Specific Industries](https://media.licdn.com/dms/image/v2/D4E10AQETdcDrBj00pw/image-shrink_800/image-shrink_800/0/1728533519501?e=2147483647&v=beta&t=NNT1-obAeIiVyML8Bf6IEiX9SqP6ULd8dV3AIMSVZ_4) Optimize Llama 3.2 for Enhanced Performance in Specific Industries  towardsdatascience.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Ftowardsdatascience%2Ecom%2Ffine-tune-llama-3-2-for-powerful-performance-in-targeted-domains-8c4fccef93dd&urlhash=L699&trk=public_post_feed-article-content)
+
+[ ![](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) 1  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmartechrichard_fine-tune-llama-32-for-powerful-performance-activity-7249995053949943808-Gg0d&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmartechrichard_fine-tune-llama-32-for-powerful-performance-activity-7249995053949943808-Gg0d&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmartechrichard_fine-tune-llama-32-for-powerful-performance-activity-7249995053949943808-Gg0d&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmartechrichard_fine-tune-llama-32-for-powerful-performance-activity-7249995053949943808-Gg0d&trk=public_post_feed-cta-banner-cta)
+
+
+
+
+![](https://media.licdn.com/dms/image/v2/D4E16AQGBKup7y06VCg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1732445108193?e=2147483647&v=beta&t=JKLxmZvg9A_MM4cwXFR68L5tSGkQvVesRGMTza8qJiY)
+
+![Maxime Labonne](https://media.licdn.com/dms/image/v2/D5603AQHumprP2CM84g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718316587360?e=2147483647&v=beta&t=olI_U6oMC7SRR0R2thw40AVO1XDR3adNi6AdaxL_RRA)
+
+51,704 followers 
+
+  * [ 298 Posts ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fmaxime-labonne%2Frecent-activity%2F&trk=public_post_follow-posts)
+
+
+
+[ View Profile ](https://uk.linkedin.com/in/maxime-labonne?trk=public_post_follow-view-profile) [ Follow ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A7267499732669796352&trk=public_post_follow)
+
+##  Explore topics 
+
+  * [ Sales ](https://www.linkedin.com/pulse/topics/sales-s5/)
+  * [ Marketing ](https://www.linkedin.com/pulse/topics/marketing-s2461/)
+  * [ IT Services ](https://www.linkedin.com/pulse/topics/it-services-s57547/)
+  * [ Business Administration ](https://www.linkedin.com/pulse/topics/business-administration-s50111/)
+  * [ HR Management ](https://www.linkedin.com/pulse/topics/hr-management-s50359/)
+  * [ Engineering ](https://www.linkedin.com/pulse/topics/engineering-s166/)
+  * [ Soft Skills ](https://www.linkedin.com/pulse/topics/soft-skills-s2976/)
+  * [ See All ](https://www.linkedin.com/pulse/topics/home/)
+
+
+
+  * LinkedIn © 2025
+  * [ About ](https://about.linkedin.com?trk=d_public_post_footer-about)
+  * [ Accessibility ](https://www.linkedin.com/accessibility?trk=d_public_post_footer-accessibility)
+  * [ User Agreement ](https://www.linkedin.com/legal/user-agreement?trk=d_public_post_footer-user-agreement)
+  * [ Privacy Policy ](https://www.linkedin.com/legal/privacy-policy?trk=d_public_post_footer-privacy-policy)
+  * [ Cookie Policy ](https://www.linkedin.com/legal/cookie-policy?trk=d_public_post_footer-cookie-policy)
+  * [ Copyright Policy ](https://www.linkedin.com/legal/copyright-policy?trk=d_public_post_footer-copyright-policy)
+  * [ Brand Policy ](https://brand.linkedin.com/policies?trk=d_public_post_footer-brand-policy)
+  * [ Guest Controls ](https://www.linkedin.com/psettings/guest-controls?trk=d_public_post_footer-guest-controls)
+  * [ Community Guidelines ](https://www.linkedin.com/legal/professional-community-policies?trk=d_public_post_footer-community-guide)
+  *     * العربية (Arabic) 
+    * বাংলা (Bangla) 
+    * Čeština (Czech) 
+    * Dansk (Danish) 
+    * Deutsch (German) 
+    * Ελληνικά (Greek) 
+    * **English (English)**
+    * Español (Spanish) 
+    * فارسی (Persian) 
+    * Suomi (Finnish) 
+    * Français (French) 
+    * हिंदी (Hindi) 
+    * Magyar (Hungarian) 
+    * Bahasa Indonesia (Indonesian) 
+    * Italiano (Italian) 
+    * עברית (Hebrew) 
+    * 日本語 (Japanese) 
+    * 한국어 (Korean) 
+    * मराठी (Marathi) 
+    * Bahasa Malaysia (Malay) 
+    * Nederlands (Dutch) 
+    * Norsk (Norwegian) 
+    * ਪੰਜਾਬੀ (Punjabi) 
+    * Polski (Polish) 
+    * Português (Portuguese) 
+    * Română (Romanian) 
+    * Русский (Russian) 
+    * Svenska (Swedish) 
+    * తెలుగు (Telugu) 
+    * ภาษาไทย (Thai) 
+    * Tagalog (Tagalog) 
+    * Türkçe (Turkish) 
+    * Українська (Ukrainian) 
+    * Tiếng Việt (Vietnamese) 
+    * 简体中文 (Chinese (Simplified)) 
+    * 正體中文 (Chinese (Traditional)) 
+Language 
+
+
+
+
+LinkedIn 
+
+Never miss a beat on the app 
+
+Don’t have the app? Get it in the Microsoft Store. 
+
+[ Open the app ](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell_post2)
+
+![](https://static.licdn.com/aero-v1/sc/h/5k9cgtx8rhoyqkcxfoncu1svl)
+
+##  Sign in to view more content 
+
+Create your free account or sign in to continue your search 
+
+Sign in 
+
+##  Welcome back 
+
+Email or phone 
+
+Password 
+
+Show
+
+[Forgot password?](https://www.linkedin.com/uas/request-password-reset?trk=public_post_contextual-sign-in-modal_sign-in-modal_forgot_password) Sign in 
+
+or 
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy). 
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_contextual-sign-in-modal_sign-in-modal_join-link)
+
+or 
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE&trk=public_post_contextual-sign-in-modal_join-link)
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy). 

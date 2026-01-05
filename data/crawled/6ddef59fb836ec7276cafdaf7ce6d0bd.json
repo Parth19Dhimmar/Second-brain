@@ -1,0 +1,23 @@
+{
+    "id": "6ddef59fb836ec7276cafdaf7ce6d0bd",
+    "metadata": {
+        "id": "6ddef59fb836ec7276cafdaf7ce6d0bd",
+        "url": "https://www.notion.so/Text-to-Image-6ddef59fb836ec7276cafdaf7ce6d0bd",
+        "title": "Text-to-Image",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "04128d0edfc69fd5433bad54da8ed247",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Papers\n\n\t- [Google - DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242)",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://arxiv.org/abs/2208.12242/"
+    ]
+}

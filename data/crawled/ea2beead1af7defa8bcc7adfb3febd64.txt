@@ -1,0 +1,458 @@
+This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.
+
+If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
+
+AcceptDecline
+
+[Join us for a Dagster Deep Dive with MotherDuck - Jan 14](https://lp.dagster.io/deep-dive-shift-left-motherduck)
+
+[![Dagster logo](/images/misc/dagster_logo_primary.svg)](/)
+
+[Products](/platform)[Dagster+](/plus)[Pricing](/pricing)[Community](/community)[Learn](https://docs.dagster.io)
+
+[Join us on Slack](/slack)
+
+[![Check out Dagster on Github](/images/community_icons/github.svg)Check out Dagster on Github](https://github.com/dagster-io/dagster)
+
+[Sign In](https://dagster.cloud)
+
+[Get Started](https://dagster.cloud/signup)
+
+[Request a Demo](/request-a-demo)
+
+[Platform](/platform)[- Integrations](/integrations)[- Implementation Partners](/partners)[Dagster+](/plus)[- Pricing](/pricing)[- Dagster+ Pro](/enterprise)[- Request a Demo](/request-a-demo)[Blog](/blog)[Community](/community)[Events](/events)[Docs](https://docs.dagster.io)[Dagster University](https://courses.dagster.io/)[Sign in](https://dagster.cloud)[Request a Demo](/request-a-demo)
+
+# Data engineering doesn't need to be a drag
+
+Ship data pipelines quickly and confidently with the modern data orchestrator built for data engineers building data platforms.
+
+[Search the docsPress `⌘` and `K` to searchTry Dagster+ For Free](//dagster.cloud/signup)[Request a Demo](/request-a-demo)
+
+## Loved by data platform engineers at fast-growing companies
+
+[Read our users' success stories](/blog?category=Case%20Study)
+
+![Dagster user logo for Bayer.](/images/clients/logo-bayer-charcoal.svg)![Dagster user logo for Braves.](/images/clients/logo-braves-charcoal.svg)![Dagster user logo for Flexport.](/images/clients/logo-flexport-charcoal.svg)![Dagster user logo for Shell.](/images/clients/logo-shell-charcoal.svg)![Dagster user logo for Magenta.](/images/clients/logo-magenta-charcoal.svg)![Dagster user logo for Vanta.](/images/clients/logo-vanta-charcoal.svg)![Dagster user logo for Wellfound.](/images/clients/logo-wellfound-charcoal.svg)![Dagster user logo for Whatnot.](/images/clients/logo-whatnot-charcoal.svg)
+
+![Dagster user logo for Bayer.](/images/clients/logo-bayer-charcoal.svg)![Dagster user logo for Braves.](/images/clients/logo-braves-charcoal.svg)![Dagster user logo for Flexport.](/images/clients/logo-flexport-charcoal.svg)![Dagster user logo for Shell.](/images/clients/logo-shell-charcoal.svg)![Dagster user logo for Magenta.](/images/clients/logo-magenta-charcoal.svg)![Dagster user logo for Vanta.](/images/clients/logo-vanta-charcoal.svg)![Dagster user logo for Wellfound.](/images/clients/logo-wellfound-charcoal.svg)![Dagster user logo for Whatnot.](/images/clients/logo-whatnot-charcoal.svg)
+
+## Dagster is your data platform
+
+Write pipelines with code
+
+dbt-native orchestration
+
+Task-based workflows
+
+import dagster as dg
+
+@dg.asset(kinds={"python"})
+
+def country_populations() -> dict:
+
+return {
+
+"North America": {"USA": 330},
+
+"Europe": {"France": 67, "Germany": 84},
+
+"Asia": {"Japan": 125},
+
+}
+
+@dg.asset(kinds={"python"})
+
+def continent_change_model(country_populations: dict) -> dict:
+
+return {
+
+"North America": 1.2,
+
+"Europe": 0.8,
+
+"Asia": 1.5
+
+}
+
+@dg.asset(kinds={"python"})
+
+def continent_stats(country_populations: dict, continent_change_model: dict) -> dict:
+
+stats = dict()
+
+for continent, populations in country_populations.items():
+
+stats[continent] = {
+
+"growth_rate": continent_change_model.get(continent, 0),
+
+"population": sum(populations.values()),
+
+}
+
+return stats
+
+Materialize All
+
+Materializing an asset launches a run and saves the results to persistent storage. Trigger materializations right from any asset graph.
+
+continent_change_model
+
+No description
+
+Materialized[Dec 17, 5:02 PM](/runs/39f8212f-dd00-4bfd-814e-42cf5cba2575?focusedTime=1734472942254&selection=continent_change_model&logs=step%3Acontinent_change_model)
+
+Python
+
+continent_stats
+
+No description
+
+Materialized[Dec 17, 5:02 PM](/runs/39f8212f-dd00-4bfd-814e-42cf5cba2575?focusedTime=1734472943140&selection=continent_stats&logs=step%3Acontinent_stats)
+
+Python
+
+country_populations
+
+No description
+
+Materialized[Dec 17, 5:02 PM](/runs/39f8212f-dd00-4bfd-814e-42cf5cba2575?focusedTime=1734472941341&selection=country_populations&logs=step%3Acountry_populations)
+
+Python
+
+![]()
+
+from dagster import dg
+
+from dagster_dbt import dbt_assets, DbtCliResource, DbtProject
+
+my_project = DbtProject(
+
+project_dir="./my_dbt_project"
+
+)
+
+@dbt_assets(manifest=my_project.manifest_path)
+
+def my_dbt_assets(context: dg.AssetExecutionContext, dbt: DbtCliResource):
+
+yield from dbt.cli(["build"], context=context).stream()
+
+Materialize All
+
+Materializing an asset launches a run and saves the results to persistent storage. Trigger materializations right from any asset graph.
+
+company_perf
+
+dbt model company_perf
+
+Never materialized
+
+dbt
+
+DuckDB
+
+company_stats
+
+dbt model company_stats
+
+Never materialized
+
+dbt
+
+DuckDB
+
+daily_order_summary
+
+dbt model daily_order_summary
+
+Never materialized
+
+dbt
+
+DuckDB
+
+order_stats
+
+dbt model order_stats
+
+Never materialized
+
+dbt
+
+DuckDB
+
+orders_augmented
+
+dbt model orders_augmented
+
+Never materialized
+
+dbt
+
+DuckDB
+
+orders_cleaned
+
+Cleaned version of raw orders data
+
+Never materialized
+
+dbt
+
+DuckDB
+
+users_cleaned
+
+Raw users data with test accounts removed
+
+Never materialized
+
+dbt
+
+DuckDB
+
+orders
+
+No description
+
+–
+
+users
+
+No description
+
+–
+
+![]()
+
+import dagster as dg
+
+from dagster_snowflake import snowflake_resource
+
+from dagster_slack import slack_resource
+
+@dg.asset(kinds={"snowflake"})
+
+def stale_tables(snowflake):
+
+results = snowflake.execute_query(
+
+"select table_name from tables where days_since_accessed > 30"
+
+)
+
+return [row[0] for row in results]
+
+@dg.asset(kinds={"python"})
+
+def notify_slack(stale_tables, slack):
+
+message = "Stale tables:" + ", ".join(stale_tables)
+
+slack.chat_postMessage(channel="#data", text=message)
+
+defs = dg.Definitions(
+
+assets=[stale_tables, notify_slack],
+
+resources={
+
+"snowflake": snowflake_resource,
+
+"slack": slack_resource
+
+}
+
+)
+
+Materialize All
+
+Materializing an asset launches a run and saves the results to persistent storage. Trigger materializations right from any asset graph.
+
+notify_slack
+
+No description
+
+Materialized[Dec 18, 11:58 AM](/runs/703dc395-81f5-4a32-8a32-477e1f678770?focusedTime=1734541137704&selection=notify_slack&logs=step%3Anotify_slack)
+
+Python
+
+stale_tables
+
+No description
+
+Materialized[Dec 18, 11:58 AM](/runs/703dc395-81f5-4a32-8a32-477e1f678770?focusedTime=1734541136678&selection=stale_tables&logs=step%3Astale_tables)
+
+Snowflake
+
+![]()
+
+## A single pane of glass for your data platform
+
+Develop and test pipelines
+
+Data quality and freshness
+
+Rich metadata and observability
+
+End-to-end datalineage
+
+![](/_next/image?url=%2Fdagit-screens%2Ftimeline.png&w=3840&q=75)
+
+Developer and test pipelines with code, and see them come to life in the Dagster UI. Build locally and ship confidently.
+
+![](/_next/image?url=%2Fdagit-screens%2Fruns.png&w=3840&q=75)
+
+Monitor data quality and freshness across your data platform. If you can write it in Python, you can test it with Dagster.
+
+![](/_next/image?url=%2Fdagit-screens%2Fassets.png&w=3840&q=75)
+
+No more guesswork.
+
+Understand your data platform with rich metadata and observability. Full data and column-level lineage, a powerful data catalog, custom metadata, logging, cost-insights and more.
+
+![](/_next/image?url=%2Fdagit-screens%2Flineage.png&w=3840&q=75)
+
+Get true end-to-end data lineage.
+
+Lineage doesn't stop in your database. From ingestion to BI, fully understand your data platform.
+
+Dagster+
+
+Data engineers can have nice things too.
+
+## Dagster+ is the only orchestration platform that puts developer experience first, with fully serverless or hybrid deployments, cost insights, a rich data catalog, and branching deploments for easy testing.
+
+## Dagster+ puts your data at the center of your platform, to go beyond what legacy orchestrators offer.
+
+[Try it free for 30 days](//dagster.cloud/signup)
+
+## Join data teams at high-growth startups and Fortune 500 companies in building with Dagster
+
+“Dagster has been instrumental in empowering our development team to deliver insights at 20x the velocity compared to the past. From Idea inception to Insight is down to 2 days vs 6+ months before.”
+
+Gu Xie
+
+![Logo for Group1001](images/misc/logo-group1001.svg)
+
+“Dagster Insights has been an invaluable tool for our team. Being able to easily track Snowflake costs associated with our dbt models has helped us identify optimization opportunities and reduce our Snowflake costs.”
+
+Timothée Vandeput
+
+Data Engineer
+
+![Logo for BRP](images/misc/logo-brp.svg)
+
+“Dagster is the single pane of glass that our team uses to not only launch and monitor jobs, but also to surface visibility into data quality, track asset metadata and lineage, manage testing environments, and even track costs associated with Dagster and the external services that it manages.”
+
+Zachary Romer
+
+![Logo for Empirico](images/misc/logo-empirico.svg)
+
+“Somebody magically built the thing I had been envisioning and wanted, and now it's there and I can use it.”
+
+David Farnan-Williams
+
+Lead Machine Learning Engineer
+
+![Logo for Coterra](images/misc/logo_coterra.svg)
+
+“Being able to visualize and test changes using branch deployments has enabled our data team to ship faster”
+
+Aaron Fullerton
+
+![Logo for Charlie Health](images/misc/logo-charlie_health.svg)
+
+“Dagster brings software engineering best practices to a data team that supports a sprawling organization with minimal footprint.”
+
+Emmanuel Fuentes
+
+![Logo for Whatnot](images/misc/logo-whatnot.svg)
+
+### [Integrates with everything in your data stack](/integrations)
+
+[See all our integrations](/integrations)
+
+Dagster comes out of the box with integrations for all the tools you already use, and makes it easy to connect with new tools.
+
+![Dagster integration logo for snowflake.](images/logos/integrations/snowflake.svg)
+
+![Dagster integration logo for aws.](images/logos/integrations/aws.svg)
+
+![Dagster integration logo for azure.](images/logos/integrations/azure.svg)
+
+![Dagster integration logo for gcp.](images/logos/integrations/gcp.svg)
+
+![Dagster integration logo for spark.](images/logos/integrations/spark.svg)
+
+![Dagster integration logo for k8s.](images/logos/integrations/k8s.svg)
+
+![Dagster integration logo for dbt.](images/logos/integrations/dbt.svg)
+
+![Dagster integration logo for dask.](images/logos/integrations/dask.svg)
+
+![Dagster integration logo for datadog.](images/logos/integrations/datadog.svg)
+
+![Dagster integration logo for jupyter.](images/logos/integrations/jupyter.svg)
+
+![Dagster integration logo for gx.](images/logos/integrations/gx.svg)
+
+![Dagster integration logo for papermill.png.](_next/image?url=/images/logos/integrations/papermill.png&w=3840&q=75)
+
+### Latest posts
+
+[See all](/blog)
+
+[![](/_next/image?url=%2Fposts%2Fdata-platform-week-2024%2Fdata-platform-week-min.jpg&w=3840&q=50)17 Dec 2024Data Platform Week 2024The future of data platforms are composable, unified, and leveraged![]()![Alex Noonan](/_next/image?url=%2Fteam%2FAlex%20Noonan.jpg&w=96&q=75)
+
+Name
+    Alex Noonan
+Handle
+    @noonan](/blog/data-platform-week-2024)[![](/_next/image?url=%2Fposts%2Finteractive-debugging-with-dagster-and-docker%2Fdocker-debugging.png&w=3840&q=50)2 Dec 2024Interactive Debugging With Dagster and DockerStep-by-step guide to debugging Dagster code directly in Docker, bridging the gap between development and deployment.![]()![Gianfranco Demarco](/_next/image?url=%2Feditors%2Fgianfranco-demarco.jpg&w=96&q=75)
+
+Name
+    Gianfranco Demarco
+Handle
+    @gianfranco](/blog/interactive-debugging-with-dagster-and-docker)[![](/_next/image?url=%2Fposts%2Fdagster-sigma%2Fdagster-sigma-cover-min.jpg&w=3840&q=50)14 Nov 2024Bridging Business Intelligence and Data Orchestration with Dagster + SigmaBreak down the silos between data engineering and BI tools![]()![Brandon Phillips](/_next/image?url=%2Feditors%2Fbrandonphillips.jpg&w=96&q=75)
+
+Name
+    Brandon Phillips
+Handle](/blog/dagster-sigma)
+
+![The Dagster Labs Data Orchestration Company Logo](/images/dagster_labs_logo.svg)
+
+[Join us on Slack](/slack)
+
+#### Resources
+
+[Platform Overview](/platform)[Integrations](/integrations)[Docs](https://docs.dagster.io)[Blog](/blog)[Learning Center](/learn)[Forrester TEI Study](/forrester-tei-report)[Data Engineering Glossary](/glossary)[Changelog](https://docs.dagster.io/changelog)[Dagster Vs. Others](/vs)
+
+#### Dagster+
+
+[About](/plus)[Dagster+ Pro](/enterprise)[Pricing](/pricing)[Status](https://dagstercloud.statuspage.io)[Support](/support)[Request a Demo](/request-a-demo)
+
+#### Community
+
+[Community Overview](/community)[Implementation Partners](/partners)[Upcoming Events](/community#events)
+
+[![Check out Dagster on Github](/images/community_icons/github.svg)](https://github.com/dagster-io/dagster)[![Check out Dagster on Twitter / X](/images/community_icons/twitter.svg)](https://twitter.com/dagster)[![Check out Dagster on LinkedIn](/images/community_icons/linkedin.svg)](https://www.linkedin.com/company/dagsterlabs/)[![Check out Dagster on Stack Overflow](/images/community_icons/stack_overflow.svg)](https://stackoverflow.com/questions/tagged/dagster)[![Check out the Dagster YouTube channel](/images/community_icons/youtube.svg)](https://www.youtube.com/channel/UCfLnv9X8jyHTe6gJ4hVBo9Q/videos)[![Dagster RSS feed icon](/images/misc/icon-rss.svg)](/rss.xml)
+
+#### Company
+
+[ Careers ](/careers)[Brand Assets](/brand)[Contact](/contact)
+
+#### ![Icon for the Dagster Newsletter](/images/misc/icon-newsletter.svg)Get updates delivered to your inbox
+
+Submit
+
+Dagster is an open-source project maintained by Dagster Labs.
+
+Copyright © 2025 Elementl, Inc. d.b.a. Dagster Labs. All rights reserved.
+
+[Cookie Settings](#)[Privacy Policy](/privacy)[Terms of Service](/terms)[Security](/security)
+
+This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
+
+![](https://bat.bing.com/action/0?ti=343107175&Ver=2&mid=2f8b6a9b-b3cf-4c56-9ef4-cd62b1500b3e&bo=1&sid=2c7c3950d74d11ef88237d4c5ac2d2db&vid=2c7c8170d74d11efb54b210e9d0dcbd0&vids=1&msclkid=N&uach=pv%3D10.0&pi=918639831&lg=en-GB&sw=1920&sh=1080&sc=24&nwd=1&tl=Dagster%20%7C%20The%20modern%20data%20orchestrator%20for%20data%20engineers%20building%20data%20platforms&p=https%3A%2F%2Fdagster.io%2F&r=&lt=1145&evt=pageLoad&sv=1&cdb=AQAQ&rn=68437)
+  *[⌘]: Command

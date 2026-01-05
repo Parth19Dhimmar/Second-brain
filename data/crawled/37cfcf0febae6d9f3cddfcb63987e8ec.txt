@@ -1,0 +1,456 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ffacebookresearch%2Ffaiss%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ffacebookresearch%2Ffaiss%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=facebookresearch%2Ffaiss) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ facebookresearch ](/facebookresearch) / **[faiss](/facebookresearch/faiss) ** Public
+
+  * [ Notifications ](/login?return_to=%2Ffacebookresearch%2Ffaiss) You must be signed in to change notification settings
+  * [ Fork 3.7k ](/login?return_to=%2Ffacebookresearch%2Ffaiss)
+  * [ Star  32.5k ](/login?return_to=%2Ffacebookresearch%2Ffaiss)
+
+
+
+
+A library for efficient similarity search and clustering of dense vectors. 
+
+[faiss.ai](https://faiss.ai "https://faiss.ai")
+
+### License
+
+[ MIT license ](/facebookresearch/faiss/blob/main/LICENSE)
+
+[ 32.5k stars ](/facebookresearch/faiss/stargazers) [ 3.7k forks ](/facebookresearch/faiss/forks) [ Branches ](/facebookresearch/faiss/branches) [ Tags ](/facebookresearch/faiss/tags) [ Activity ](/facebookresearch/faiss/activity)
+
+[ Star  ](/login?return_to=%2Ffacebookresearch%2Ffaiss)
+
+[ Notifications ](/login?return_to=%2Ffacebookresearch%2Ffaiss) You must be signed in to change notification settings
+
+  * [ Code ](/facebookresearch/faiss)
+  * [ Issues 221 ](/facebookresearch/faiss/issues)
+  * [ Pull requests 31 ](/facebookresearch/faiss/pulls)
+  * [ Discussions ](/facebookresearch/faiss/discussions)
+  * [ Actions ](/facebookresearch/faiss/actions)
+  * [ Projects 1 ](/facebookresearch/faiss/projects)
+  * [ Wiki ](/facebookresearch/faiss/wiki)
+  * [ Security ](/facebookresearch/faiss/security)
+  * [ Insights ](/facebookresearch/faiss/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/facebookresearch/faiss)
+  * [ Issues  ](/facebookresearch/faiss/issues)
+  * [ Pull requests  ](/facebookresearch/faiss/pulls)
+  * [ Discussions  ](/facebookresearch/faiss/discussions)
+  * [ Actions  ](/facebookresearch/faiss/actions)
+  * [ Projects  ](/facebookresearch/faiss/projects)
+  * [ Wiki  ](/facebookresearch/faiss/wiki)
+  * [ Security  ](/facebookresearch/faiss/security)
+  * [ Insights  ](/facebookresearch/faiss/pulse)
+
+
+
+# facebookresearch/faiss
+
+main
+
+[**15** Branches](/facebookresearch/faiss/branches)[**21** Tags](/facebookresearch/faiss/tags)
+
+[](/facebookresearch/faiss/branches)[](/facebookresearch/faiss/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+![junjieqi](https://avatars.githubusercontent.com/u/8333898?v=4&size=40)![facebook-github-bot](https://avatars.githubusercontent.com/u/6422482?v=4&size=40)[junjieqi](/facebookresearch/faiss/commits?author=junjieqi)and[facebook-github-bot](/facebookresearch/faiss/commits?author=facebook-github-bot)[add test to cover GPU (](/facebookresearch/faiss/commit/3f3d18d2e7821356a8ad9105a236a6230a720528)[#4130](https://github.com/facebookresearch/faiss/pull/4130)[)](/facebookresearch/faiss/commit/3f3d18d2e7821356a8ad9105a236a6230a720528)Jan 21, 2025[3f3d18d](/facebookresearch/faiss/commit/3f3d18d2e7821356a8ad9105a236a6230a720528) · Jan 21, 2025
+
+## History
+
+[1,364 Commits](/facebookresearch/faiss/commits/main/)[](/facebookresearch/faiss/commits/main/)  
+[.github](/facebookresearch/faiss/tree/main/.github ".github")| [.github](/facebookresearch/faiss/tree/main/.github ".github")  
+[benchs](/facebookresearch/faiss/tree/main/benchs "benchs")| [benchs](/facebookresearch/faiss/tree/main/benchs "benchs")  
+[c_api](/facebookresearch/faiss/tree/main/c_api "c_api")| [c_api](/facebookresearch/faiss/tree/main/c_api "c_api")  
+[cmake](/facebookresearch/faiss/tree/main/cmake "cmake")| [cmake](/facebookresearch/faiss/tree/main/cmake "cmake")  
+[conda](/facebookresearch/faiss/tree/main/conda "conda")| [conda](/facebookresearch/faiss/tree/main/conda "conda")  
+[contrib](/facebookresearch/faiss/tree/main/contrib "contrib")| [contrib](/facebookresearch/faiss/tree/main/contrib "contrib")  
+[demos](/facebookresearch/faiss/tree/main/demos "demos")| [demos](/facebookresearch/faiss/tree/main/demos "demos")  
+[faiss](/facebookresearch/faiss/tree/main/faiss "faiss")| [faiss](/facebookresearch/faiss/tree/main/faiss "faiss")  
+[misc](/facebookresearch/faiss/tree/main/misc "misc")| [misc](/facebookresearch/faiss/tree/main/misc "misc")  
+[perf_tests](/facebookresearch/faiss/tree/main/perf_tests "perf_tests")| [perf_tests](/facebookresearch/faiss/tree/main/perf_tests "perf_tests")  
+[tests](/facebookresearch/faiss/tree/main/tests "tests")| [tests](/facebookresearch/faiss/tree/main/tests "tests")  
+[tutorial](/facebookresearch/faiss/tree/main/tutorial "tutorial")| [tutorial](/facebookresearch/faiss/tree/main/tutorial "tutorial")  
+[.clang-format](/facebookresearch/faiss/blob/main/.clang-format ".clang-format")| [.clang-format](/facebookresearch/faiss/blob/main/.clang-format ".clang-format")  
+[.dockerignore](/facebookresearch/faiss/blob/main/.dockerignore ".dockerignore")| [.dockerignore](/facebookresearch/faiss/blob/main/.dockerignore ".dockerignore")  
+[.gitignore](/facebookresearch/faiss/blob/main/.gitignore ".gitignore")| [.gitignore](/facebookresearch/faiss/blob/main/.gitignore ".gitignore")  
+[CHANGELOG.md](/facebookresearch/faiss/blob/main/CHANGELOG.md "CHANGELOG.md")| [CHANGELOG.md](/facebookresearch/faiss/blob/main/CHANGELOG.md "CHANGELOG.md")  
+[CMakeLists.txt](/facebookresearch/faiss/blob/main/CMakeLists.txt "CMakeLists.txt")| [CMakeLists.txt](/facebookresearch/faiss/blob/main/CMakeLists.txt "CMakeLists.txt")  
+[CODE_OF_CONDUCT.md](/facebookresearch/faiss/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/facebookresearch/faiss/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")  
+[CONTRIBUTING.md](/facebookresearch/faiss/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/facebookresearch/faiss/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")  
+[Doxyfile](/facebookresearch/faiss/blob/main/Doxyfile "Doxyfile")| [Doxyfile](/facebookresearch/faiss/blob/main/Doxyfile "Doxyfile")  
+[INSTALL.md](/facebookresearch/faiss/blob/main/INSTALL.md "INSTALL.md")| [INSTALL.md](/facebookresearch/faiss/blob/main/INSTALL.md "INSTALL.md")  
+[LICENSE](/facebookresearch/faiss/blob/main/LICENSE "LICENSE")| [LICENSE](/facebookresearch/faiss/blob/main/LICENSE "LICENSE")  
+[README.md](/facebookresearch/faiss/blob/main/README.md "README.md")| [README.md](/facebookresearch/faiss/blob/main/README.md "README.md")  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+# Faiss
+
+[](#faiss)
+
+Faiss is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy. Some of the most useful algorithms are implemented on the GPU. It is developed primarily at Meta's [Fundamental AI Research](https://ai.facebook.com/) group.
+
+## News
+
+[](#news)
+
+See [CHANGELOG.md](/facebookresearch/faiss/blob/main/CHANGELOG.md) for detailed information about latest features.
+
+## Introduction
+
+[](#introduction)
+
+Faiss contains several methods for similarity search. It assumes that the instances are represented as vectors and are identified by an integer, and that the vectors can be compared with L2 (Euclidean) distances or dot products. Vectors that are similar to a query vector are those that have the lowest L2 distance or the highest dot product with the query vector. It also supports cosine similarity, since this is a dot product on normalized vectors.
+
+Some of the methods, like those based on binary vectors and compact quantization codes, solely use a compressed representation of the vectors and do not require to keep the original vectors. This generally comes at the cost of a less precise search but these methods can scale to billions of vectors in main memory on a single server. Other methods, like HNSW and NSG add an indexing structure on top of the raw vectors to make searching more efficient.
+
+The GPU implementation can accept input from either CPU or GPU memory. On a server with GPUs, the GPU indexes can be used a drop-in replacement for the CPU indexes (e.g., replace `IndexFlatL2` with `GpuIndexFlatL2`) and copies to/from GPU memory are handled automatically. Results will be faster however if both input and output remain resident on the GPU. Both single and multi-GPU usage is supported.
+
+## Installing
+
+[](#installing)
+
+Faiss comes with precompiled libraries for Anaconda in Python, see [faiss-cpu](https://anaconda.org/pytorch/faiss-cpu), [faiss-gpu](https://anaconda.org/pytorch/faiss-gpu) and [faiss-gpu-cuvs](https://anaconda.org/pytorch/faiss-gpu-cuvs). The library is mostly implemented in C++, the only dependency is a [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) implementation. Optional GPU support is provided via CUDA or AMD ROCm, and the Python interface is also optional. The backend GPU implementations of NVIDIA [cuVS](https://github.com/rapidsai/cuvs) can also be enabled optionally. It compiles with cmake. See [INSTALL.md](/facebookresearch/faiss/blob/main/INSTALL.md) for details.
+
+## How Faiss works
+
+[](#how-faiss-works)
+
+Faiss is built around an index type that stores a set of vectors, and provides a function to search in them with L2 and/or dot product vector comparison. Some index types are simple baselines, such as exact search. Most of the available indexing structures correspond to various trade-offs with respect to
+
+  * search time
+  * search quality
+  * memory used per index vector
+  * training time
+  * adding time
+  * need for external data for unsupervised training
+
+
+
+The optional GPU implementation provides what is likely (as of March 2017) the fastest exact and approximate (compressed-domain) nearest neighbor search implementation for high-dimensional vectors, fastest Lloyd's k-means, and fastest small k-selection algorithm known. [The implementation is detailed here](https://arxiv.org/abs/1702.08734).
+
+## Full documentation of Faiss
+
+[](#full-documentation-of-faiss)
+
+The following are entry points for documentation:
+
+  * the full documentation can be found on the [wiki page](http://github.com/facebookresearch/faiss/wiki), including a [tutorial](https://github.com/facebookresearch/faiss/wiki/Getting-started), a [FAQ](https://github.com/facebookresearch/faiss/wiki/FAQ) and a [troubleshooting section](https://github.com/facebookresearch/faiss/wiki/Troubleshooting)
+  * the [doxygen documentation](https://faiss.ai/) gives per-class information extracted from code comments
+  * to reproduce results from our research papers, [Polysemous codes](https://arxiv.org/abs/1609.01882) and [Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734), refer to the [benchmarks README](/facebookresearch/faiss/blob/main/benchs/README.md). For [ Link and code: Fast indexing with graphs and compact regression codes](https://arxiv.org/abs/1804.09996), see the [link_and_code README](/facebookresearch/faiss/blob/main/benchs/link_and_code)
+
+
+
+## Authors
+
+[](#authors)
+
+The main authors of Faiss are:
+
+  * [Hervé Jégou](https://github.com/jegou) initiated the Faiss project and wrote its first implementation
+  * [Matthijs Douze](https://github.com/mdouze) implemented most of the CPU Faiss
+  * [Jeff Johnson](https://github.com/wickedfoo) implemented all of the GPU Faiss
+  * [Lucas Hosseini](https://github.com/beauby) implemented the binary indexes and the build system
+  * [Chengqi Deng](https://github.com/KinglittleQ) implemented NSG, NNdescent and much of the additive quantization code.
+  * [Alexandr Guzhva](https://github.com/alexanderguzhva) many optimizations: SIMD, memory allocation and layout, fast decoding kernels for vector codecs, etc.
+  * [Gergely Szilvasy](https://github.com/algoriddle) build system, benchmarking framework.
+
+
+
+## Reference
+
+[](#reference)
+
+References to cite when you use Faiss in a research paper:
+
+```
+`@article{douze2024faiss, title={The Faiss library}, author={Matthijs Douze and Alexandr Guzhva and Chengqi Deng and Jeff Johnson and Gergely Szilvasy and Pierre-Emmanuel Mazaré and Maria Lomeli and Lucas Hosseini and Hervé Jégou}, year={2024}, eprint={2401.08281}, archivePrefix={arXiv}, primaryClass={cs.LG} } `
+```
+
+For the GPU version of Faiss, please cite:
+
+```
+`@article{johnson2019billion, title={Billion-scale similarity search with {GPUs}}, author={Johnson, Jeff and Douze, Matthijs and J{\'e}gou, Herv{\'e}}, journal={IEEE Transactions on Big Data}, volume={7}, number={3}, pages={535--547}, year={2019}, publisher={IEEE} } `
+```
+
+## Join the Faiss community
+
+[](#join-the-faiss-community)
+
+For public discussion of Faiss or for questions, there is a Facebook group at <https://www.facebook.com/groups/faissusers/>
+
+We monitor the [issues page](http://github.com/facebookresearch/faiss/issues) of the repository. You can report bugs, ask questions, etc.
+
+## Legal
+
+[](#legal)
+
+Faiss is MIT-licensed, refer to the [LICENSE file](https://github.com/facebookresearch/faiss/blob/main/LICENSE) in the top level directory.
+
+Copyright © Meta Platforms, Inc.
+
+## About
+
+A library for efficient similarity search and clustering of dense vectors. 
+
+[faiss.ai](https://faiss.ai "https://faiss.ai")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/facebookresearch/faiss/activity)
+
+[ Custom properties](/facebookresearch/faiss/custom-properties)
+
+### Stars
+
+[ **32.5k** stars](/facebookresearch/faiss/stargazers)
+
+### Watchers
+
+[ **479** watching](/facebookresearch/faiss/watchers)
+
+### Forks
+
+[ **3.7k** forks](/facebookresearch/faiss/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Ffacebookresearch%2Ffaiss&report=facebookresearch+%28user%29)
+
+##  [Releases 17](/facebookresearch/faiss/releases)
+
+[ v1.9.0 Latest  Oct 4, 2024 ](/facebookresearch/faiss/releases/tag/v1.9.0)
+
+[+ 16 releases](/facebookresearch/faiss/releases)
+
+##  [Packages 0](/orgs/facebookresearch/packages?repo_name=faiss)
+
+No packages published 
+
+##  [Used by 4.3k](/facebookresearch/faiss/network/dependents)
+
+[
+
+  * ![@XYGaoG](https://avatars.githubusercontent.com/u/116497769?s=64&v=4)
+  * ![@BootCamp-Team2](https://avatars.githubusercontent.com/u/193212693?s=64&v=4)
+  * ![@LuisCa-Cyber](https://avatars.githubusercontent.com/u/185565803?s=64&v=4)
+  * ![@anubhavagr](https://avatars.githubusercontent.com/u/56795892?s=64&v=4)
+  * ![@BigRabit12138](https://avatars.githubusercontent.com/u/132724597?s=64&v=4)
+  * ![@itsAwalden95](https://avatars.githubusercontent.com/u/144739228?s=64&v=4)
+  * ![@Soujatya1](https://avatars.githubusercontent.com/u/179989017?s=64&v=4)
+  * ![@guravvaishnavi02](https://avatars.githubusercontent.com/u/54536558?s=64&v=4)
+
++ 4,284  ](/facebookresearch/faiss/network/dependents)
+
+##  [Contributors 170](/facebookresearch/faiss/graphs/contributors)
+
+  * [ ![@facebook-github-bot](https://avatars.githubusercontent.com/u/6422482?s=64&v=4) ](https://github.com/facebook-github-bot)
+  * [ ![@beauby](https://avatars.githubusercontent.com/u/2215778?s=64&v=4) ](https://github.com/beauby)
+  * [ ![@mdouze](https://avatars.githubusercontent.com/u/25364969?s=64&v=4) ](https://github.com/mdouze)
+  * [ ![@wickedfoo](https://avatars.githubusercontent.com/u/1911637?s=64&v=4) ](https://github.com/wickedfoo)
+  * [ ![@r-barnes](https://avatars.githubusercontent.com/u/3118036?s=64&v=4) ](https://github.com/r-barnes)
+  * [ ![@algoriddle](https://avatars.githubusercontent.com/u/1299134?s=64&v=4) ](https://github.com/algoriddle)
+  * [ ![@ramilbakhshyiev](https://avatars.githubusercontent.com/u/7597197?s=64&v=4) ](https://github.com/ramilbakhshyiev)
+  * [ ![@alexanderguzhva](https://avatars.githubusercontent.com/u/10901481?s=64&v=4) ](https://github.com/alexanderguzhva)
+  * [ ![@KinglittleQ](https://avatars.githubusercontent.com/u/26847868?s=64&v=4) ](https://github.com/KinglittleQ)
+  * [ ![@mengdilin](https://avatars.githubusercontent.com/u/2306593?s=64&v=4) ](https://github.com/mengdilin)
+  * [ ![@h-vetinari](https://avatars.githubusercontent.com/u/33685575?s=64&v=4) ](https://github.com/h-vetinari)
+  * [ ![@junjieqi](https://avatars.githubusercontent.com/u/8333898?s=64&v=4) ](https://github.com/junjieqi)
+  * [ ![@Enet4](https://avatars.githubusercontent.com/u/4738426?s=64&v=4) ](https://github.com/Enet4)
+  * [ ![@kuarora](https://avatars.githubusercontent.com/u/3833985?s=64&v=4) ](https://github.com/kuarora)
+
+
+
+[+ 156 contributors](/facebookresearch/faiss/graphs/contributors)
+
+## Languages
+
+  * [ C++ 59.5% ](/facebookresearch/faiss/search?l=c%2B%2B)
+  * [ Python 19.6% ](/facebookresearch/faiss/search?l=python)
+  * [ Cuda 17.0% ](/facebookresearch/faiss/search?l=cuda)
+  * [ C 1.7% ](/facebookresearch/faiss/search?l=c)
+  * [ CMake 1.2% ](/facebookresearch/faiss/search?l=cmake)
+  * [ Shell 0.6% ](/facebookresearch/faiss/search?l=shell)
+  * Other 0.4%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

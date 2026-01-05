@@ -1,0 +1,23 @@
+{
+    "id": "ffbe77a7be18a1eaa3e37ee2dcdd0edd",
+    "metadata": {
+        "id": "ffbe77a7be18a1eaa3e37ee2dcdd0edd",
+        "url": "https://www.notion.so/Evaluating-RAG-ffbe77a7be18a1eaa3e37ee2dcdd0edd",
+        "title": "Evaluating RAG",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ]
+        }
+    },
+    "parent_metadata": {
+        "id": "9ab8b6d6fc1c3cbed488bf73f6e66fc1",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Notes\n\n\n\n<child_page>\n# Main Evaluation Methods\n\n- Using LLM-judges for AnswerRelevancy, Hallucination, Moderation, Recall and Precision\n- Visualizing embeddings\n- Comparing KNN vs. ANN methods to see how reliable ANN is\n- Using recommender and ranking metrics such as Normalized Discounted Cumulative Gain (NDCG)\n</child_page>\n\n\n\n---\n\n# Resources [Community]\n\n\t\n\n# Resources [Science]\n\n# Tools",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": []
+}

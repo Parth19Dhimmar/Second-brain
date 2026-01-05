@@ -1,0 +1,1049 @@
+# [eugeneyan](/)
+
+  * [Start Here](/start-here/ "Start Here")
+  * [Writing](/writing/ "Writing")
+  * [Speaking](/speaking/ "Speaking")
+  * [Prototyping](/prototyping/ "Prototyping")
+  * [About](/about/ "About")
+
+
+
+# Posts: ML, RecSys, LLMs, Engineering
+
+[all](/tag/) [machinelearning](/tag/machinelearning/) [career](/tag/career/) [datascience](/tag/datascience/) [engineering](/tag/engineering/) [production](/tag/production/) [learning](/tag/learning/) [🔥](/tag/🔥/) [llm](/tag/llm/) [python](/tag/python/) [productivity](/tag/productivity/) [leadership](/tag/leadership/) [recsys](/tag/recsys/) [🛠](/tag/🛠/) [life](/tag/life/) [deeplearning](/tag/deeplearning/) [writing](/tag/writing/) [misc](/tag/misc/) [omscs](/tag/omscs/) [teardown](/tag/teardown/) [mechanism](/tag/mechanism/) [survey](/tag/survey/) [lazada](/tag/lazada/) [🩷](/tag/🩷/) [📬](/tag/📬/) [til](/tag/til/) [eval](/tag/eval/) [ai](/tag/ai/) [nlp](/tag/nlp/) [agile](/tag/agile/) [spark](/tag/spark/)
+
+[ ![](/assets/icon-search.svg)Search](/search/ "Search")
+
+#### [Building AI Reading Club: Features & Behind the Scenes](/writing/aireadingclub/ "Building AI Reading Club: Features & Behind the Scenes")
+
+Exploring how an AI-powered reading experience could look like.
+
+12 Jan 2025 · 10 min · [llm](/tag/llm/) [learning](/tag/learning/) [🛠](/tag/🛠/) [🩷](/tag/🩷/)
+
+#### [2024 Year in Review](/writing/2024-review/ "2024 Year in Review")
+
+A peaceful year of steady progress on my craft and health.
+
+22 Dec 2024 · 6 min · [life](/tag/life/) [career](/tag/career/)
+
+#### [A Spark of the Anti-AI Butlerian Jihad (on Bluesky)](/writing/anti/ "A Spark of the Anti-AI Butlerian Jihad \(on Bluesky\)")
+
+How the sharing of 1M Bluesky posts uncovered the strong anti-AI sentiment on Bluesky.
+
+08 Dec 2024 · 7 min · [llm](/tag/llm/) [ai](/tag/ai/) [misc](/tag/misc/)
+
+#### [Seemingly Paradoxical Rules of Writing](/writing/paradox/ "Seemingly Paradoxical Rules of Writing")
+
+With regard to writing, there are many rules and also no rules at all.
+
+01 Dec 2024 · 2 min · [writing](/tag/writing/) [🩷](/tag/🩷/)
+
+#### [How to Run a Weekly Paper Club (and Build a Learning Community)](/writing/paper-club/ "How to Run a Weekly Paper Club \(and Build a Learning Community\)")
+
+Benefits of running a weekly paper club, how to start one, and how to read and facilitate papers.
+
+24 Nov 2024 · 6 min · [learning](/tag/learning/) [productivity](/tag/productivity/) [mechanism](/tag/mechanism/)
+
+#### [My Minimal MacBook Pro Setup Guide](/writing/mac-setup/ "My Minimal MacBook Pro Setup Guide")
+
+Setting up my new MacBook Pro from scratch
+
+17 Nov 2024 · 5 min · [engineering](/tag/engineering/) [misc](/tag/misc/)
+
+#### [39 Lessons on Building ML Systems, Scaling, Execution, and More](/writing/conf-lessons/ "39 Lessons on Building ML Systems, Scaling, Execution, and More")
+
+ML systems, production & scaling, execution & collaboration, building for users, conference etiquette.
+
+03 Nov 2024 · 10 min · [machinelearning](/tag/machinelearning/) [engineering](/tag/engineering/) [production](/tag/production/) [leadership](/tag/leadership/)
+
+#### [AlignEval: Building an App to Make Evals Easy, Fun, and Automated](/writing/aligneval/ "AlignEval: Building an App to Make Evals Easy, Fun, and Automated")
+
+Look at and label your data, build and evaluate your LLM-evaluator, and optimize it against your labels.
+
+27 Oct 2024 · 13 min · [llm](/tag/llm/) [eval](/tag/eval/) [learning](/tag/learning/) [🛠](/tag/🛠/) [🩷](/tag/🩷/)
+
+#### [Building the Same App Using Various Web Frameworks](/writing/web-frameworks/ "Building the Same App Using Various Web Frameworks")
+
+FastAPI, FastHTML, Next.js, SvelteKit, and thoughts on how coding assistants influence builders' choices.
+
+08 Sep 2024 · 8 min · [learning](/tag/learning/) [engineering](/tag/engineering/) [python](/tag/python/) [🛠](/tag/🛠/) [🔥](/tag/🔥/)
+
+#### [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](/writing/llm-evaluators/ "Evaluating the Effectiveness of LLM-Evaluators \(aka LLM-as-Judge\)")
+
+Use cases, techniques, alignment, finetuning, and critiques against LLM-evaluators.
+
+18 Aug 2024 · 49 min · [llm](/tag/llm/) [eval](/tag/eval/) [production](/tag/production/) [🔥](/tag/🔥/)
+
+#### [How to Interview and Hire ML/AI Engineers](/writing/how-to-interview/ "How to Interview and Hire ML/AI Engineers")
+
+What to interview for, how to structure the phone screen, interview loop, and debrief, and a few tips.
+
+07 Jul 2024 · 21 min · [machinelearning](/tag/machinelearning/) [career](/tag/career/) [leadership](/tag/leadership/) [🔥](/tag/🔥/)
+
+#### [Prompting Fundamentals and How to Apply them Effectively](/writing/prompting/ "Prompting Fundamentals and How to Apply them Effectively")
+
+Structured input/output, prefilling, n-shots prompting, chain-of-thought, reducing hallucinations, etc.
+
+26 May 2024 · 17 min · [llm](/tag/llm/) [production](/tag/production/) [🔥](/tag/🔥/)
+
+#### [What We've Learned From A Year of Building with LLMs](/writing/llm-lessons/ "What We've Learned From A Year of Building with LLMs")
+
+From the tactical nuts & bolts to the operational day-to-day to the long-term business strategy.
+
+12 May 2024 · 1 min · [llm](/tag/llm/) [engineering](/tag/engineering/) [production](/tag/production/) [leadership](/tag/leadership/) [🔥](/tag/🔥/)
+
+#### [Building an AI Coach to Help Tame My Monkey Mind](/writing/ai-coach/ "Building an AI Coach to Help Tame My Monkey Mind")
+
+Building an AI coach with speech-to-text, text-to-speech, an LLM, and a virtual number.
+
+07 Apr 2024 · 4 min · [llm](/tag/llm/) [ai](/tag/ai/) [life](/tag/life/) [🛠](/tag/🛠/)
+
+#### [Task-Specific LLM Evals that Do & Don't Work](/writing/evals/ "Task-Specific LLM Evals that Do & Don't Work")
+
+Evals for classification, summarization, translation, copyright regurgitation, and toxicity.
+
+31 Mar 2024 · 33 min · [llm](/tag/llm/) [eval](/tag/eval/) [machinelearning](/tag/machinelearning/)
+
+#### [Don't Mock Machine Learning Models In Unit Tests](/writing/unit-testing-ml/ "Don't Mock Machine Learning Models In Unit Tests")
+
+How unit testing machine learning code differs from typical software practices
+
+25 Feb 2024 · 6 min · [machinelearning](/tag/machinelearning/) [engineering](/tag/engineering/) [python](/tag/python/)
+
+#### [How to Generate and Use Synthetic Data for Finetuning](/writing/synthetic/ "How to Generate and Use Synthetic Data for Finetuning")
+
+Overcoming the bottleneck of human annotations in instruction-tuning, preference-tuning, and pretraining.
+
+11 Feb 2024 · 42 min · [llm](/tag/llm/) [survey](/tag/survey/)
+
+#### [Language Modeling Reading List (to Start Your Paper Club)](/writing/llm-reading-list/ "Language Modeling Reading List \(to Start Your Paper Club\)")
+
+Some fundamental papers and a one-sentence summary for each; start your own paper club!
+
+07 Jan 2024 · 6 min · [llm](/tag/llm/) [learning](/tag/learning/)
+
+#### [2023 Year in Review](/writing/2023-review/ "2023 Year in Review")
+
+An expanded charter, lots of writing and speaking, and finally learning to snowboard.
+
+31 Dec 2023 · 8 min · [life](/tag/life/) [career](/tag/career/)
+
+#### [Push Notifications: What to Push, What Not to Push, and How Often](/writing/push/ "Push Notifications: What to Push, What Not to Push, and How Often")
+
+Sending helpful & engaging pushes, filtering annoying pushes, and finding the frequency sweet spot.
+
+24 Dec 2023 · 18 min · [teardown](/tag/teardown/) [recsys](/tag/recsys/) [machinelearning](/tag/machinelearning/) [production](/tag/production/)
+
+#### [Out-of-Domain Finetuning to Bootstrap Hallucination Detection](/writing/finetuning/ "Out-of-Domain Finetuning to Bootstrap Hallucination Detection")
+
+How to use open-source, permissive-use data and collect less labeled samples for our tasks.
+
+05 Nov 2023 · 12 min · [llm](/tag/llm/) [eval](/tag/eval/) [machinelearning](/tag/machinelearning/) [python](/tag/python/)
+
+#### [Reflections on AI Engineer Summit 2023](/writing/aieng-reflections/ "Reflections on AI Engineer Summit 2023")
+
+The biggest deployment challenges, backward compatibility, multi-modality, and SF work ethic.
+
+15 Oct 2023 · 7 min · [llm](/tag/llm/) [ai](/tag/ai/) [misc](/tag/misc/)
+
+#### [Evaluation & Hallucination Detection for Abstractive Summaries](/writing/abstractive/ "Evaluation & Hallucination Detection for Abstractive Summaries")
+
+Reference, context, and preference-based metrics, self-consistency, and catching hallucinations.
+
+03 Sep 2023 · 23 min · [llm](/tag/llm/) [eval](/tag/eval/) [survey](/tag/survey/)
+
+#### [How to Match LLM Patterns to Problems](/writing/llm-problems/ "How to Match LLM Patterns to Problems")
+
+Distinguishing problems with external vs. internal LLMs, and data vs non-data patterns
+
+13 Aug 2023 · 6 min · [llm](/tag/llm/) [production](/tag/production/)
+
+#### [Patterns for Building LLM-based Systems & Products](/writing/llm-patterns/ "Patterns for Building LLM-based Systems & Products")
+
+Evals, RAG, fine-tuning, caching, guardrails, defensive UX, and collecting user feedback.
+
+30 Jul 2023 · 66 min · [llm](/tag/llm/) [engineering](/tag/engineering/) [production](/tag/production/) [🔥](/tag/🔥/)
+
+#### [Obsidian-Copilot: An Assistant for Writing & Reflecting](/writing/obsidian-copilot/ "Obsidian-Copilot: An Assistant for Writing & Reflecting")
+
+Writing drafts via retrieval-augmented generation. Also reflecting on the week's journal entries.
+
+11 Jun 2023 · 6 min · [llm](/tag/llm/) [engineering](/tag/engineering/) [🛠](/tag/🛠/)
+
+#### [Some Intuition on Attention and the Transformer](/writing/attention/ "Some Intuition on Attention and the Transformer")
+
+What's the big deal, intuition on query-key-value vectors, multiple heads, multiple layers, and more.
+
+21 May 2023 · 8 min · [deeplearning](/tag/deeplearning/) [nlp](/tag/nlp/) [llm](/tag/llm/) [🔥](/tag/🔥/)
+
+#### [Open-LLMs - A list of LLMs for Commercial Use](/writing/open-llms/ "Open-LLMs - A list of LLMs for Commercial Use")
+
+It started with a question that had no clear answer, and led to eight PRs from the community.
+
+07 May 2023 · 1 min · [llm](/tag/llm/) [misc](/tag/misc/)
+
+#### [Interacting with LLMs with Minimal Chat](/writing/llm-ux/ "Interacting with LLMs with Minimal Chat")
+
+Should chat be the main UX for LLMs? I don't think so and believe we can do better.
+
+30 Apr 2023 · 3 min · [llm](/tag/llm/) [misc](/tag/misc/) [🛠](/tag/🛠/)
+
+#### [More Design Patterns For Machine Learning Systems](/writing/more-patterns/ "More Design Patterns For Machine Learning Systems")
+
+9 patterns including HITL, hard mining, reframing, cascade, data flywheel, business rules layer, and more.
+
+23 Apr 2023 · 20 min · [machinelearning](/tag/machinelearning/) [engineering](/tag/engineering/) [production](/tag/production/) [recsys](/tag/recsys/)
+
+#### [Raspberry-LLM - Making My Raspberry Pico a Little Smarter](/writing/raspberry-llm/ "Raspberry-LLM - Making My Raspberry Pico a Little Smarter")
+
+Generating Dr. Seuss headlines, fake WSJ quotes, HackerNews troll comments, and more.
+
+16 Apr 2023 · 2 min · [llm](/tag/llm/) [🛠](/tag/🛠/)
+
+#### [Experimenting with LLMs to Research, Reflect, and Plan](/writing/llm-experiments/ "Experimenting with LLMs to Research, Reflect, and Plan")
+
+Also, shortcomings in document retrieval and how to overcome them with search & recsys techniques.
+
+09 Apr 2023 · 14 min · [llm](/tag/llm/) [deeplearning](/tag/deeplearning/) [learning](/tag/learning/) [🛠](/tag/🛠/) [🔥](/tag/🔥/)
+
+#### [LLM-powered Biographies](/writing/llm-bio/ "LLM-powered Biographies")
+
+Asking LLMs to generate biographies to get a sense of how they memorize and regurgitate.
+
+19 Mar 2023 · 11 min · [llm](/tag/llm/) [misc](/tag/misc/)
+
+#### [How to Write Data Labeling/Annotation Guidelines](/writing/labeling-guidelines/ "How to Write Data Labeling/Annotation Guidelines")
+
+Writing good instructions to achieve high precision and throughput.
+
+12 Mar 2023 · 6 min · [machinelearning](/tag/machinelearning/) [mechanism](/tag/mechanism/)
+
+#### [Content Moderation & Fraud Detection - Patterns in Industry](/writing/content-moderation/ "Content Moderation & Fraud Detection - Patterns in Industry")
+
+Collecting ground truth, data augmentation, cascading heuristics and models, and more.
+
+26 Feb 2023 · 16 min · [teardown](/tag/teardown/) [machinelearning](/tag/machinelearning/) [production](/tag/production/)
+
+#### [Mechanisms for Effective Technical Teams](/writing/mechanisms-for-teams/ "Mechanisms for Effective Technical Teams")
+
+End of week debrief, weekly business review, monthly learning sessions, and quarter review.
+
+05 Feb 2023 · 7 min · [mechanism](/tag/mechanism/) [leadership](/tag/leadership/)
+
+#### [Mechanisms for Effective Machine Learning Projects](/writing/mechanisms-for-projects/ "Mechanisms for Effective Machine Learning Projects")
+
+Pilot & copilot, literature review, methodology review, and timeboxing.
+
+22 Jan 2023 · 7 min · [mechanism](/tag/mechanism/) [machinelearning](/tag/machinelearning/) [productivity](/tag/productivity/)
+
+#### [Goodbye Roam Research, Hello Obsidian](/writing/roam-to-obsidian/ "Goodbye Roam Research, Hello Obsidian")
+
+How to migrate and sync notes & images across devices
+
+15 Jan 2023 · 2 min · [til](/tag/til/) [productivity](/tag/productivity/)
+
+#### [What To Do If Dependency Teams Can’t Help](/writing/getting-help/ "What To Do If Dependency Teams Can’t Help")
+
+Seeking first to understand, earning trust, and preparing for away team work.
+
+08 Jan 2023 · 3 min · [leadership](/tag/leadership/) [misc](/tag/misc/)
+
+#### [2022 in Review & 2023 Goals](/writing/2022-in-review/ "2022 in Review & 2023 Goals")
+
+Travelled, wrote, and learned a lot, L5 -> L6, gave a keynote at RecSyS, and started a meetup.
+
+24 Dec 2022 · 8 min · [life](/tag/life/) [career](/tag/career/)
+
+#### [Autoencoders and Diffusers: A Brief Comparison](/writing/autoencoders-vs-diffusers/ "Autoencoders and Diffusers: A Brief Comparison")
+
+A quick overview of variational and denoising autoencoders and comparing them to diffusers.
+
+11 Dec 2022 · 3 min · [deeplearning](/tag/deeplearning/)
+
+#### [Text-to-Image: Diffusion, Text Conditioning, Guidance, Latent Space](/writing/text-to-image/ "Text-to-Image: Diffusion, Text Conditioning, Guidance, Latent Space")
+
+The fundamentals of text-to-image generation, relevant papers, and experimenting with DDPM.
+
+27 Nov 2022 · 19 min · [deeplearning](/tag/deeplearning/) [nlp](/tag/nlp/) [survey](/tag/survey/)
+
+#### [RecSys 2022: Recap, Favorite Papers, and Lessons](/writing/recsys2022/ "RecSys 2022: Recap, Favorite Papers, and Lessons")
+
+My three favorite papers, 17 paper summaries, and ML and non-ML lessons.
+
+02 Oct 2022 · 14 min · [recsys](/tag/recsys/) [engineering](/tag/engineering/) [production](/tag/production/)
+
+#### [Writing Robust Tests for Data & Machine Learning Pipelines](/writing/testing-pipelines/ "Writing Robust Tests for Data & Machine Learning Pipelines")
+
+Or why I should write fewer integration tests.
+
+04 Sep 2022 · 19 min · [engineering](/tag/engineering/) [machinelearning](/tag/machinelearning/) [production](/tag/production/) [🩷](/tag/🩷/)
+
+#### [Simplicity is An Advantage but Sadly Complexity Sells Better](/writing/simplicity/ "Simplicity is An Advantage but Sadly Complexity Sells Better")
+
+Pushing back on the cult of complexity.
+
+14 Aug 2022 · 10 min · [machinelearning](/tag/machinelearning/) [engineering](/tag/engineering/) [production](/tag/production/) [🔥](/tag/🔥/)
+
+#### [Uncommon Uses of Python in Commonly Used Libraries](/writing/uncommon-python/ "Uncommon Uses of Python in Commonly Used Libraries")
+
+Some off-the-beaten uses of Python learned from reading libraries.
+
+31 Jul 2022 · 10 min · [python](/tag/python/) [engineering](/tag/engineering/) [🔥](/tag/🔥/)
+
+#### [Why You Should Write Weekly 15-5s](/writing/15-5/ "Why You Should Write Weekly 15-5s")
+
+15 minutes a week to document your work, increase visibility, and earn trust.
+
+26 Jun 2022 · 4 min · [mechanism](/tag/mechanism/) [productivity](/tag/productivity/) [career](/tag/career/)
+
+#### [Design Patterns in Machine Learning Code and Systems](/writing/design-patterns/ "Design Patterns in Machine Learning Code and Systems")
+
+Understanding and spotting patterns to use code and components as intended.
+
+12 Jun 2022 · 13 min · [machinelearning](/tag/machinelearning/) [engineering](/tag/engineering/) [python](/tag/python/) [🔥](/tag/🔥/)
+
+#### [What I Wish I Knew About Onboarding Effectively](/writing/onboarding/ "What I Wish I Knew About Onboarding Effectively")
+
+Mindset, 100-day plan, and balancing learning and taking action to earn trust.
+
+22 May 2022 · 11 min · [mechanism](/tag/mechanism/) [career](/tag/career/)
+
+#### [Bandits for Recommender Systems](/writing/bandits/ "Bandits for Recommender Systems")
+
+Industry examples, exploration strategies, warm-starting, off-policy evaluation, and more.
+
+08 May 2022 · 14 min · [teardown](/tag/teardown/) [recsys](/tag/recsys/) [machinelearning](/tag/machinelearning/)
+
+#### [How to Measure and Mitigate Position Bias](/writing/position-bias/ "How to Measure and Mitigate Position Bias")
+
+Introducing randomness and/or learning from inherent randomness to mitigate position bias.
+
+17 Apr 2022 · 7 min · [recsys](/tag/recsys/)
+
+#### [Counterfactual Evaluation for Recommendation Systems](/writing/counterfactual-evaluation/ "Counterfactual Evaluation for Recommendation Systems")
+
+Thinking about recsys as interventional vs. observational, and inverse propensity scoring.
+
+10 Apr 2022 · 8 min · [recsys](/tag/recsys/) [eval](/tag/eval/) [machinelearning](/tag/machinelearning/)
+
+#### [Traversing High-Level Intent and Low-Level Requirements](/writing/intent-vs-requirements/ "Traversing High-Level Intent and Low-Level Requirements")
+
+How they differ and why they work better in different situations.
+
+20 Mar 2022 · 7 min · [engineering](/tag/engineering/) [productivity](/tag/productivity/) [misc](/tag/misc/)
+
+#### [Data Science Project Quick-Start](/writing/project-quick-start/ "Data Science Project Quick-Start")
+
+Hard-won lessons on how to start data science projects effectively.
+
+06 Mar 2022 · 7 min · [datascience](/tag/datascience/) [engineering](/tag/engineering/) [productivity](/tag/productivity/)
+
+#### [Mailbag: How to Define a Data Team's Vision and Roadmap](/writing/becoming-a-data-leader/ "Mailbag: How to Define a Data Team's Vision and Roadmap")
+
+I'm heading into a team lead role and would like to define the vision and roadmap.
+
+18 Feb 2022 · 3 min · [leadership](/tag/leadership/) [datascience](/tag/datascience/) [career](/tag/career/) [📬](/tag/📬/)
+
+#### [Red Flags to Look Out for When Joining a Data Team](/writing/red-flags/ "Red Flags to Look Out for When Joining a Data Team")
+
+What to consider for in terms of data, roadmap, role, manager, tooling, etc.
+
+13 Feb 2022 · 8 min · [datascience](/tag/datascience/) [machinelearning](/tag/machinelearning/) [career](/tag/career/) [🔥](/tag/🔥/)
+
+#### [How to Keep Learning about Machine Learning](/writing/how-to-keep-learning/ "How to Keep Learning about Machine Learning")
+
+Beyond getting that starting role, how does one continue growing in the field?
+
+19 Jan 2022 · 6 min · [learning](/tag/learning/) [career](/tag/career/) [machinelearning](/tag/machinelearning/)
+
+#### [2021 Year in Review](/writing/2021-year-in-review/ "2021 Year in Review")
+
+Met most of my goals, adopted a puppy, and built ApplyingML.com.
+
+28 Nov 2021 · 7 min · [productivity](/tag/productivity/) [life](/tag/life/)
+
+#### [Informal Mentors Grew into ApplyingML.com!](/writing/applyingml/ "Informal Mentors Grew into ApplyingML.com!")
+
+More than two dozen interviews with ML Practitioners sharing their stories and advice
+
+25 Nov 2021 · 1 min · [machinelearning](/tag/machinelearning/) [career](/tag/career/) [🛠](/tag/🛠/)
+
+#### [5 Lessons I Learned from Writing Online (Guest post by Susan Shu)](/writing/what-i-learned-from-writing-online-susan-shu/ "5 Lessons I Learned from Writing Online \(Guest post by Susan Shu\)")
+
+Susan shares 5 lessons she gained from writing online in public over the past year.
+
+07 Nov 2021 · 6 min · [writing](/tag/writing/)
+
+#### [What I Learned from Writing Online - For Fellow Non-Writers](/writing/what-i-learned-from-writing-online/ "What I Learned from Writing Online - For Fellow Non-Writers")
+
+Write before you're ready, write for yourself, quantity over quality, and a few other lessons.
+
+17 Oct 2021 · 7 min · [writing](/tag/writing/)
+
+#### [RecSys 2021 - Papers and Talks to Chew on](/writing/recsys2021/ "RecSys 2021 - Papers and Talks to Chew on")
+
+Simple baselines, ideas, tech stacks, and packages to try.
+
+03 Oct 2021 · 5 min · [recsys](/tag/recsys/) [deeplearning](/tag/deeplearning/) [production](/tag/production/) [survey](/tag/survey/)
+
+#### [The First Rule of Machine Learning: Start without Machine Learning](/writing/first-rule-of-ml/ "The First Rule of Machine Learning: Start without Machine Learning")
+
+Why this is the first rule, some baseline heuristics, and when to move on to machine learning.
+
+19 Sep 2021 · 8 min · [machinelearning](/tag/machinelearning/) [career](/tag/career/) [🔥](/tag/🔥/)
+
+#### [Reinforcement Learning for Recommendations and Search](/writing/reinforcement-learning-for-recsys-and-search/ "Reinforcement Learning for Recommendations and Search")
+
+Focusing on long-term rewards, exploration, and frequently updated item.
+
+05 Sep 2021 · 13 min · [teardown](/tag/teardown/) [recsys](/tag/recsys/) [deeplearning](/tag/deeplearning/)
+
+#### [Bootstrapping Labels via ___ Supervision & Human-In-The-Loop](/writing/bootstrapping-data-labels/ "Bootstrapping Labels via ___ Supervision & Human-In-The-Loop")
+
+How to generate labels from scratch with semi, active, and weakly supervised learning.
+
+01 Aug 2021 · 12 min · [teardown](/tag/teardown/) [machinelearning](/tag/machinelearning/)
+
+#### [Mailbag: How to Bootstrap Labels for Relevant Docs in Search](/writing/mailbag-bootstrap-relevant-docs/ "Mailbag: How to Bootstrap Labels for Relevant Docs in Search")
+
+Building semantic search; how to calculate recall when relevant documents are unknown.
+
+20 Jul 2021 · 1 min · [machinelearning](/tag/machinelearning/) [📬](/tag/📬/)
+
+#### [Influencing without Authority for Data Scientists](/writing/influencing-without-authority/ "Influencing without Authority for Data Scientists")
+
+Show them the data, the Socratic method, earning trust, and more.
+
+04 Jul 2021 · 9 min · [leadership](/tag/leadership/) [career](/tag/career/)
+
+#### [System Design for Recommendations and Search](/writing/system-design-for-discovery/ "System Design for Recommendations and Search")
+
+Breaking it into offline vs. online environments, and candidate retrieval vs. ranking steps.
+
+27 Jun 2021 · 13 min · [teardown](/tag/teardown/) [production](/tag/production/) [engineering](/tag/engineering/) [recsys](/tag/recsys/) [🔥](/tag/🔥/)
+
+#### [Patterns for Personalization in Recommendations and Search](/writing/patterns-for-personalization/ "Patterns for Personalization in Recommendations and Search")
+
+A whirlwind tour of bandits, embedding+MLP, sequences, graph, and user embeddings.
+
+13 Jun 2021 · 25 min · [teardown](/tag/teardown/) [recsys](/tag/recsys/) [machinelearning](/tag/machinelearning/) [deeplearning](/tag/deeplearning/)
+
+#### [The Metagame of Applying Machine Learning](/writing/machine-learning-metagame/ "The Metagame of Applying Machine Learning")
+
+How to go from knowing machine learning to applying it at work to drive impact.
+
+02 May 2021 · 12 min · [machinelearning](/tag/machinelearning/) [career](/tag/career/) [🩷](/tag/🩷/)
+
+#### [Search: Query Matching via Lexical, Graph, and Embedding Methods](/writing/search-query-matching/ "Search: Query Matching via Lexical, Graph, and Embedding Methods")
+
+An overview and comparison of the various approaches, with examples from industry search systems.
+
+25 Apr 2021 · 21 min · [teardown](/tag/teardown/) [machinelearning](/tag/machinelearning/) [production](/tag/production/) [🔥](/tag/🔥/)
+
+#### [My Impostor Syndrome Stories (Guest Post by Susan Shu)](/writing/imposter-syndrome-susan/ "My Impostor Syndrome Stories \(Guest Post by Susan Shu\)")
+
+Even high achieving individuals experience impostor syndrome; here's how Susan learned to manage it.
+
+18 Apr 2021 · 8 min · [career](/tag/career/) [life](/tag/life/) [learning](/tag/learning/)
+
+#### [How to Live with Chronic Imposter Syndrome](/writing/imposter-syndrome/ "How to Live with Chronic Imposter Syndrome")
+
+More education, achievements, and awards don't shoo away imposter syndrome. Here's what might help.
+
+11 Apr 2021 · 9 min · [career](/tag/career/) [life](/tag/life/) [learning](/tag/learning/)
+
+#### [Planning Your Career: Values and Superpowers](/writing/values-and-superpowers/ "Planning Your Career: Values and Superpowers")
+
+What do you deeply care about? What do you excel at? Build a career out of that.
+
+04 Apr 2021 · 11 min · [career](/tag/career/) [life](/tag/life/)
+
+#### [Choosing Problems in Data Science and Machine Learning](/writing/how-to-choose-problems/ "Choosing Problems in Data Science and Machine Learning")
+
+Short vs. long-term gain, incremental vs. disruptive innovation, and resume-driven development.
+
+21 Mar 2021 · 12 min · [datascience](/tag/datascience/) [machinelearning](/tag/machinelearning/) [leadership](/tag/leadership/)
+
+#### [Seven Habits that Shaped My Last Decade](/writing/seven-habits-that-shaped-my-decade/ "Seven Habits that Shaped My Last Decade")
+
+I wish I started sooner. All have improved my life and several have compounding effects.
+
+14 Mar 2021 · 15 min · [life](/tag/life/) [misc](/tag/misc/)
+
+#### [How to Write Design Docs for Machine Learning Systems](/writing/ml-design-docs/ "How to Write Design Docs for Machine Learning Systems")
+
+Pointers to think through your methodology and implementation, and the review process.
+
+07 Mar 2021 · 15 min · [writing](/tag/writing/) [machinelearning](/tag/machinelearning/) [engineering](/tag/engineering/)
+
+#### [How to Write Better with The Why, What, How Framework](/writing/writing-docs-why-what-how/ "How to Write Better with The Why, What, How Framework")
+
+Three documents I write (one-pager, design doc, after-action review) and how I structure them.
+
+28 Feb 2021 · 10 min · [writing](/tag/writing/) [engineering](/tag/engineering/) [productivity](/tag/productivity/) [🩷](/tag/🩷/) [🔥](/tag/🔥/)
+
+#### [Feature Stores: A Hierarchy of Needs](/writing/feature-stores/ "Feature Stores: A Hierarchy of Needs")
+
+Access, serving, integrity, convenience, autopilot; use what you need.
+
+21 Feb 2021 · 19 min · [teardown](/tag/teardown/) [machinelearning](/tag/machinelearning/) [engineering](/tag/engineering/) [🔥](/tag/🔥/)
+
+#### [How to Win a Data Hackathon (Hacklytics 2021)](/writing/how-to-win-data-hackathon/ "How to Win a Data Hackathon \(Hacklytics 2021\)")
+
+What the top teams did to win the 36-hour data hackathon. No, not machine learning.
+
+14 Feb 2021 · 6 min · [datascience](/tag/datascience/) [engineering](/tag/engineering/) [misc](/tag/misc/)
+
+#### [Growing and Running Your Data Science Team](/writing/data-science-teams/ "Growing and Running Your Data Science Team")
+
+What I learned about hiring and training, and fostering innovation, discipline, and camaraderie.
+
+31 Jan 2021 · 16 min · [leadership](/tag/leadership/) [datascience](/tag/datascience/)
+
+#### [You Don't Really Need Another MOOC](/writing/you-dont-need-another-mooc/ "You Don't Really Need Another MOOC")
+
+Stop procrastinating, go off the happy path, learn just-in-time, and get your hands dirty.
+
+24 Jan 2021 · 9 min · [learning](/tag/learning/) [🔥](/tag/🔥/)
+
+#### [Mailbag: How to Get Experienced DS Resume Noticed by Recruiters?](/writing/mailbag-resume-for-experienced-ds/ "Mailbag: How to Get Experienced DS Resume Noticed by Recruiters?")
+
+How to increase the chances of getting called up by recruiters?
+
+16 Jan 2021 · 5 min · [career](/tag/career/) [datascience](/tag/datascience/) [📬](/tag/📬/)
+
+#### [Real-time Machine Learning For Recommendations](/writing/real-time-recommendations/ "Real-time Machine Learning For Recommendations")
+
+Why real-time? How have China & US companies built them? How to design & build an MVP?
+
+10 Jan 2021 · 21 min · [teardown](/tag/teardown/) [machinelearning](/tag/machinelearning/) [recsys](/tag/recsys/) [production](/tag/production/) [🔥](/tag/🔥/)
+
+#### [2021 Roadmap: Sharing, Helping, and Living More](/writing/2021-roadmap/ "2021 Roadmap: Sharing, Helping, and Living More")
+
+A public roadmap to track and share my progress; nothing mission or work-related.
+
+03 Jan 2021 · 4 min · [productivity](/tag/productivity/) [life](/tag/life/)
+
+#### [2020 Retrospective: New Country, New Role, New Habit](/writing/retrospective-2020/ "2020 Retrospective: New Country, New Role, New Habit")
+
+Wrapping up 2020 with writing and site statistics, graphs, and a word cloud.
+
+20 Dec 2020 · 8 min · [productivity](/tag/productivity/) [life](/tag/life/)
+
+#### [Catch the Flying Daggers](/writing/flying-dagger/ "Catch the Flying Daggers")
+
+A short story on flying daggers and life's challenges.
+
+11 Dec 2020 · 2 min · [learning](/tag/learning/) [life](/tag/life/)
+
+#### [How I’m Reflecting on 2020 and Planning for 2021](/writing/how-i-reflect-and-plan/ "How I’m Reflecting on 2020 and Planning for 2021")
+
+Time to clear the cache, evaluate existing processes, and start new threads.
+
+06 Dec 2020 · 4 min · [productivity](/tag/productivity/) [life](/tag/life/)
+
+#### [Alexey Grigorev on His Career, Data Science, and Writing](/writing/informal-mentors-alexey-grigorev/ "Alexey Grigorev on His Career, Data Science, and Writing")
+
+How he switched from engineering to data science, what "senior" means, and how writing helps.
+
+29 Nov 2020 · 23 min · [career](/tag/career/) [writing](/tag/writing/)
+
+#### [Mailbag: What's the Architecture for your Blog?](/writing/mailbag-blog-architecture/ "Mailbag: What's the Architecture for your Blog?")
+
+How did you set up your site and what's an easy way to replicate it?
+
+24 Nov 2020 · 1 min · [misc](/tag/misc/) [📬](/tag/📬/)
+
+#### [What Machine Learning Can Teach Us About Life - 7 Lessons](/writing/life-lessons-from-machine-learning/ "What Machine Learning Can Teach Us About Life - 7 Lessons")
+
+Data cleaning, transfer learning, overfitting, ensembling, and more.
+
+22 Nov 2020 · 11 min · [machinelearning](/tag/machinelearning/) [career](/tag/career/) [life](/tag/life/)
+
+#### [How to Prevent or Deal with a Data Science Role or Title Mismatch](/writing/role-title-mismatch/ "How to Prevent or Deal with a Data Science Role or Title Mismatch")
+
+Interview questions you should ask and how to evolve your job scope.
+
+15 Nov 2020 · 8 min · [datascience](/tag/datascience/) [career](/tag/career/)
+
+#### [Applied / Research Scientist, ML Engineer: What’s the Difference?](/writing/data-science-roles/ "Applied / Research Scientist, ML Engineer: What’s the Difference?")
+
+A personal take on their deliverables and skills, and what it means for the industry and your team.
+
+08 Nov 2020 · 11 min · [datascience](/tag/datascience/) [machinelearning](/tag/machinelearning/) [engineering](/tag/engineering/) [career](/tag/career/)
+
+#### [Chip Huyen on Her Career, Writing, and Machine Learning](/writing/informal-mentors-chip-huyen/ "Chip Huyen on Her Career, Writing, and Machine Learning")
+
+Setbacks she faced, overcoming them, and how writing changed her life.
+
+01 Nov 2020 · 11 min · [career](/tag/career/) [machinelearning](/tag/machinelearning/) [writing](/tag/writing/)
+
+#### [Data Discovery Platforms and Their Open Source Solutions](/writing/data-discovery-platforms/ "Data Discovery Platforms and Their Open Source Solutions")
+
+What questions do they answer? How do they compare? What open-source solutions are available?
+
+25 Oct 2020 · 16 min · [teardown](/tag/teardown/) [datascience](/tag/datascience/) [engineering](/tag/engineering/) [🔥](/tag/🔥/)
+
+#### [Why I switched from Netlify back to GitHub Pages](/writing/netlify-back-to-github-pages/ "Why I switched from Netlify back to GitHub Pages")
+
+DNS server snafus led to email & security issues. Also, limited free build minutes monthly.
+
+21 Oct 2020 · 3 min · [misc](/tag/misc/)
+
+#### [Why Have a Data Science Portfolio and What It Shows](/writing/data-science-portfolio-how-why-what/ "Why Have a Data Science Portfolio and What It Shows")
+
+Not 'How to build a data science portfolio', but 'Whys' and 'Whats'.
+
+18 Oct 2020 · 15 min · [datascience](/tag/datascience/) [learning](/tag/learning/) [career](/tag/career/)
+
+#### [How to Install Google Scalable Nearest Neighbors (ScaNN) on Mac](/writing/how-to-install-scann-on-mac/ "How to Install Google Scalable Nearest Neighbors \(ScaNN\) on Mac")
+
+Step-by-step walkthrough on the environment, compilers, and installation for ScaNN.
+
+14 Oct 2020 · 3 min · [python](/tag/python/) [machinelearning](/tag/machinelearning/) [til](/tag/til/)
+
+#### [How Prototyping Can Help You to Get Buy-In](/writing/prototyping-to-get-buy-in/ "How Prototyping Can Help You to Get Buy-In")
+
+Building prototypes helped get buy-in when roadmaps & design docs failed.
+
+11 Oct 2020 · 7 min · [productivity](/tag/productivity/)
+
+#### [Is Writing as Important as Coding?](/writing/writing-and-coding/ "Is Writing as Important as Coding?")
+
+As careers grow, how does the balance between writing & coding change? Hear from 4 tech leaders.
+
+04 Oct 2020 · 13 min · [writing](/tag/writing/) [career](/tag/career/) [leadership](/tag/leadership/)
+
+#### [RecSys 2020: Takeaways and Notable Papers](/writing/recsys2020/ "RecSys 2020: Takeaways and Notable Papers")
+
+Emphasis on bias, more sequential models & bandits, robust offline evaluation, and recsys in the wild.
+
+27 Sep 2020 · 16 min · [recsys](/tag/recsys/) [deeplearning](/tag/deeplearning/) [production](/tag/production/) [survey](/tag/survey/)
+
+#### [Appreciating the Present](/writing/present/ "Appreciating the Present")
+
+What if the alternative was nothingness?
+
+26 Sep 2020 · 1 min · [life](/tag/life/)
+
+#### [Routines and Tools to Optimize My Day (Guest Post by Susan Shu)](/writing/favorite-productivity-coffee-routines-habits/ "Routines and Tools to Optimize My Day \(Guest Post by Susan Shu\)")
+
+For years I've refined my routines and found tools to manage my time. Here I share it with readers.
+
+20 Sep 2020 · 16 min · [productivity](/tag/productivity/)
+
+#### [How to Accomplish More with Less - Useful Tools & Routines](/writing/how-to-accomplish-more-with-less/ "How to Accomplish More with Less - Useful Tools & Routines")
+
+My tools for organization and creation, autopilot routines, and Maker's schedule
+
+13 Sep 2020 · 11 min · [productivity](/tag/productivity/)
+
+#### [Migrating Site Comments to Utterances](/writing/migrating-to-utterances/ "Migrating Site Comments to Utterances")
+
+A step-by-step of how to migrate from json comments to Utterances.
+
+07 Sep 2020 · 1 min · [til](/tag/til/) [python](/tag/python/)
+
+#### [How to Test Machine Learning Code and Systems](/writing/testing-ml/ "How to Test Machine Learning Code and Systems")
+
+Checking for correct implementation, expected learned behaviour, and satisfactory performance.
+
+06 Sep 2020 · 14 min · [machinelearning](/tag/machinelearning/) [engineering](/tag/engineering/) [python](/tag/python/)
+
+#### [Mailbag: Parsing Fields from PDFs—When to Use Machine Learning?](/writing/mailbag-pdf-fields/ "Mailbag: Parsing Fields from PDFs—When to Use Machine Learning?")
+
+Should I switch from a regex-based to ML-based solution on my application?
+
+04 Sep 2020 · 4 min · [machinelearning](/tag/machinelearning/) [📬](/tag/📬/)
+
+#### [How Reading Papers Helps You Be a More Effective Data Scientist](/writing/why-read-papers/ "How Reading Papers Helps You Be a More Effective Data Scientist")
+
+Why read papers, what papers to read, and how to read them.
+
+30 Aug 2020 · 6 min · [learning](/tag/learning/)
+
+#### [Mailbag: I'm Now a Senior DS—How should I Approach this?](/writing/mailbag-senior-ds/ "Mailbag: I'm Now a Senior DS—How should I Approach this?")
+
+Becoming a senior after three years and dealing with imposter syndrome.
+
+27 Aug 2020 · 2 min · [career](/tag/career/) [datascience](/tag/datascience/) [📬](/tag/📬/)
+
+#### [Embrace Beginner's Mind; Avoid The Wrong Way To Be An Expert](/writing/beginners-mind/ "Embrace Beginner's Mind; Avoid The Wrong Way To Be An Expert")
+
+How not to become an expert beginner and to progress through beginner, intermediate, and so on.
+
+23 Aug 2020 · 11 min · [learning](/tag/learning/) [career](/tag/career/)
+
+#### [NLP for Supervised Learning - A Brief Survey](/writing/nlp-supervised-learning-survey/ "NLP for Supervised Learning - A Brief Survey")
+
+Examining the broad strokes of NLP progress and comparing between models
+
+16 Aug 2020 · 23 min · [nlp](/tag/nlp/) [deeplearning](/tag/deeplearning/) [survey](/tag/survey/)
+
+#### [Unpopular Opinion: Data Scientists Should be More End-to-End](/writing/end-to-end-data-science/ "Unpopular Opinion: Data Scientists Should be More End-to-End")
+
+Why (and why not) be more end-to-end, how to, and Stitch Fix and Netflix's experience
+
+09 Aug 2020 · 17 min · [datascience](/tag/datascience/) [machinelearning](/tag/machinelearning/) [leadership](/tag/leadership/) [🔥](/tag/🔥/)
+
+#### [Adding a Checkbox & Download Button to a FastAPI-HTML app](/writing/fastapi-html-checkbox-download/ "Adding a Checkbox & Download Button to a FastAPI-HTML app")
+
+Updating our FastAPI app to let users select options and download results.
+
+05 Aug 2020 · 3 min · [engineering](/tag/engineering/) [python](/tag/python/) [til](/tag/til/)
+
+#### [What I Did Not Learn About Writing In School](/writing/what-i-did-not-learn-about-writing-in-school/ "What I Did Not Learn About Writing In School")
+
+Surprising lessons I picked up from the best books, essays, and videos on writing non-fiction.
+
+02 Aug 2020 · 11 min · [learning](/tag/learning/) [writing](/tag/writing/) [🩷](/tag/🩷/)
+
+#### [Georgia Tech's OMSCS FAQ (based on my experience)](/writing/georgia-tech-omscs-faq/ "Georgia Tech's OMSCS FAQ \(based on my experience\)")
+
+Why OMSCS? How can I get accepted? How much time needed? Did it help your career? And more...
+
+26 Jul 2020 · 15 min · [learning](/tag/learning/) [omscs](/tag/omscs/) [🔥](/tag/🔥/)
+
+#### [How to Set Up a HTML App with FastAPI, Jinja, Forms & Templates](/writing/how-to-set-up-html-app-with-fastapi-jinja-forms-templates/ "How to Set Up a HTML App with FastAPI, Jinja, Forms & Templates")
+
+I couldn't find any guides on serving HTML with FastAPI, thus I wrote this to plug the hole on the internet.
+
+23 Jul 2020 · 3 min · [engineering](/tag/engineering/) [python](/tag/python/) [til](/tag/til/) [🔥](/tag/🔥/)
+
+#### [Why You Need to Follow Up After Your Data Science Project](/writing/why-you-need-to-follow-up-after-your-data-science-project/ "Why You Need to Follow Up After Your Data Science Project")
+
+Ever revisit a project & replicate the results the first time round? Me neither. Thus I adopted these habits.
+
+19 Jul 2020 · 12 min · [mechanism](/tag/mechanism/) [datascience](/tag/datascience/) [productivity](/tag/productivity/)
+
+#### [What I Do During A Data Science Project To Deliver Success](/writing/what-i-do-during-a-data-science-project-to-ensure-success/ "What I Do During A Data Science Project To Deliver Success")
+
+It's not enough to have a good strategy and plan. Execution is just as important.
+
+12 Jul 2020 · 7 min · [mechanism](/tag/mechanism/) [datascience](/tag/datascience/) [productivity](/tag/productivity/)
+
+#### [How to Update a GitHub Profile README Automatically](/writing/how-to-update-github-profile-readme-automatically/ "How to Update a GitHub Profile README Automatically")
+
+I wanted to add my recent writing to my GitHub Profile README but was too lazy to do manual updates.
+
+11 Jul 2020 · 3 min · [engineering](/tag/engineering/) [python](/tag/python/) [til](/tag/til/)
+
+#### [The 85% Rule: When Giving It Your 100% Gets You Less than 85%](/writing/when-giving-your-100-gets-you-less-than-85/ "The 85% Rule: When Giving It Your 100% Gets You Less than 85%")
+
+I thought giving it my all led to maximum outcomes; then I learnt about the 85% rule.
+
+09 Jul 2020 · 2 min · [productivity](/tag/productivity/) [life](/tag/life/) [🩷](/tag/🩷/)
+
+#### [My Notes From Spark+AI Summit 2020 (Application-Specific Talks)](/writing/notes-from-sparkai-summit-application-specific/ "My Notes From Spark+AI Summit 2020 \(Application-Specific Talks\)")
+
+Part II of the previous write-up, this time on applications and frameworks of Spark in production
+
+05 Jul 2020 · 15 min · [machinelearning](/tag/machinelearning/) [deeplearning](/tag/deeplearning/) [spark](/tag/spark/) [production](/tag/production/) [survey](/tag/survey/)
+
+#### [My Notes From Spark+AI Summit 2020 (Application-Agnostic Talks)](/writing/notes-from-sparkai-summit-application-agnostic/ "My Notes From Spark+AI Summit 2020 \(Application-Agnostic Talks\)")
+
+Sharing my notes & practical knowledge from the conference for people who don't have the time.
+
+28 Jun 2020 · 11 min · [machinelearning](/tag/machinelearning/) [deeplearning](/tag/deeplearning/) [spark](/tag/spark/) [survey](/tag/survey/)
+
+#### [How to Set Up a Python Project For Automation and Collaboration](/writing/setting-up-python-project-for-automation-and-collaboration/ "How to Set Up a Python Project For Automation and Collaboration")
+
+After this article, we'll have a workflow of tests and checks that run automatically with each git push.
+
+21 Jun 2020 · 20 min · [engineering](/tag/engineering/) [production](/tag/production/) [python](/tag/python/) [productivity](/tag/productivity/) [🔥](/tag/🔥/)
+
+#### [Mailbag: Qns on the Intersection of Data Science and Business](/writing/mailbag-ds-requirements/ "Mailbag: Qns on the Intersection of Data Science and Business")
+
+Does DS have business requirements? When does it make sense to split DS and DE??
+
+21 Jun 2020 · 3 min · [datascience](/tag/datascience/) [📬](/tag/📬/)
+
+#### [Why Are My Airflow Jobs Running “One Day Late”?](/writing/why-airflow-jobs-one-day-late/ "Why Are My Airflow Jobs Running “One Day Late”?")
+
+A curious discussion made me realize my expert blind spot. And no, Airflow is not late.
+
+17 Jun 2020 · 3 min · [engineering](/tag/engineering/) [production](/tag/production/) [til](/tag/til/)
+
+#### [What I Do Before a Data Science Project to Ensure Success](/writing/what-i-do-before-a-data-science-project-to-ensure-success/ "What I Do Before a Data Science Project to Ensure Success")
+
+Haste makes waste. Diving into a data science problem may not be the fastest route to getting it done.
+
+15 Jun 2020 · 12 min · [mechanism](/tag/mechanism/) [datascience](/tag/datascience/) [productivity](/tag/productivity/)
+
+#### [What I Love about Scrum for Data Science](/writing/what-i-love-about-scrum-for-data-science/ "What I Love about Scrum for Data Science")
+
+Initially, I didn't like it. But over time, it grew on me. Here's why.
+
+07 Jun 2020 · 10 min · [mechanism](/tag/mechanism/) [agile](/tag/agile/) [leadership](/tag/leadership/) [datascience](/tag/datascience/)
+
+#### [How to Apply Crocker's Law for Feedback and Growth](/writing/how-to-apply-crockers-law-for-feedback-and-growth/ "How to Apply Crocker's Law for Feedback and Growth")
+
+Crocker's Law, cognitive dissonance, and how to receive (uncomfortable) feedback better.
+
+31 May 2020 · 8 min · [learning](/tag/learning/) [career](/tag/career/)
+
+#### [A Practical Guide to Maintaining Machine Learning in Production](/writing/practical-guide-to-maintaining-machine-learning/ "A Practical Guide to Maintaining Machine Learning in Production")
+
+Can maintaining machine learning in production be easier? I go through some practical tips.
+
+25 May 2020 · 16 min · [machinelearning](/tag/machinelearning/) [engineering](/tag/engineering/) [production](/tag/production/)
+
+#### [6 Little-Known Challenges After Deploying Machine Learning](/writing/challenges-after-deploying-machine-learning/ "6 Little-Known Challenges After Deploying Machine Learning")
+
+I thought deploying machine learning was hard. Then I had to maintain multiple systems in prod.
+
+18 May 2020 · 14 min · [machinelearning](/tag/machinelearning/) [engineering](/tag/engineering/) [production](/tag/production/)
+
+#### [How to Write: Advice from David Perell and Sahil Lavingia](/writing/how-to-write-david-x-sahil/ "How to Write: Advice from David Perell and Sahil Lavingia")
+
+An expansion of my Twitter thread that went viral.
+
+09 May 2020 · 4 min · [writing](/tag/writing/)
+
+#### [A Hackathon Where the Dinkiest Idea Won. Why?](/writing/evaluating-ideas-at-a-hackathon/ "A Hackathon Where the Dinkiest Idea Won. Why?")
+
+What I Learnt about evaluating ideas from first-hand participation in a hackathon.
+
+03 May 2020 · 7 min · [datascience](/tag/datascience/) [lazada](/tag/lazada/)
+
+#### [Serendipity: Accuracy’s Unpopular Best Friend in Recommenders](/writing/serendipity-and-accuracy-in-recommender-systems/ "Serendipity: Accuracy’s Unpopular Best Friend in Recommenders")
+
+What I learned about measuring diversity, novelty, surprise, and serendipity from 10+ papers.
+
+26 Apr 2020 · 11 min · [recsys](/tag/recsys/) [survey](/tag/survey/)
+
+#### [How to Give a Kick-Ass Data Science Talk](/writing/how-to-give-a-kick-ass-data-science-talk/ "How to Give a Kick-Ass Data Science Talk")
+
+Why you should give a talk and some tips from five years of speaking and hosting meet-ups.
+
+18 Apr 2020 · 7 min · [datascience](/tag/datascience/) [writing](/tag/writing/)
+
+#### [Commando, Soldier, Police and Your Career Choices](/writing/commando-soldier-police-and-your-career/ "Commando, Soldier, Police and Your Career Choices")
+
+Should I join a start-up? Which offer should I accept? A simple metaphor to guide your decisions.
+
+12 Apr 2020 · 6 min · [career](/tag/career/)
+
+#### [Stop Taking Regular Notes; Use a Zettelkasten Instead](/writing/note-taking-zettelkasten/ "Stop Taking Regular Notes; Use a Zettelkasten Instead")
+
+Using a Zettelkasten helps you make connections between notes, improving learning and memory.
+
+05 Apr 2020 · 6 min · [writing](/tag/writing/) [learning](/tag/learning/) [productivity](/tag/productivity/) [🔥](/tag/🔥/)
+
+#### [Writing is Learning: How I Learned an Easier Way to Write](/writing/reading-note-taking-writing/ "Writing is Learning: How I Learned an Easier Way to Write")
+
+Writing begins before actually writing; it's a cycle of reading -> note-taking -> writing.
+
+28 Mar 2020 · 7 min · [writing](/tag/writing/) [learning](/tag/learning/)
+
+#### [Simpler Experimentation with Jupyter, Papermill, and MLflow](/writing/experimentation-workflow-with-jupyter-papermill-mlflow/ "Simpler Experimentation with Jupyter, Papermill, and MLflow")
+
+Automate your experimentation workflow to minimize effort and iterate faster.
+
+15 Mar 2020 · 6 min · [productivity](/tag/productivity/) [python](/tag/python/)
+
+#### [My Journey from Psych Grad to Leading Data Science at Lazada](/writing/psych-grad-to-data-science-lead/ "My Journey from Psych Grad to Leading Data Science at Lazada")
+
+How hard work, many failures, and a bit of luck got me into the field and up the ladder.
+
+27 Feb 2020 · 12 min · [career](/tag/career/) [lazada](/tag/lazada/) [🔥](/tag/🔥/)
+
+#### [Beating the Baseline Recommender with Graph & NLP in Pytorch](/writing/recommender-systems-graph-and-nlp-pytorch/ "Beating the Baseline Recommender with Graph & NLP in Pytorch")
+
+Beating the baseline using Graph & NLP techniques on PyTorch, AUC improvement of ~21% (Part 2 of 2).
+
+13 Jan 2020 · 17 min · [recsys](/tag/recsys/) [deeplearning](/tag/deeplearning/) [nlp](/tag/nlp/) [python](/tag/python/) [🛠](/tag/🛠/)
+
+#### [Building a Strong Baseline Recommender in PyTorch, on a Laptop](/writing/recommender-systems-baseline-pytorch/ "Building a Strong Baseline Recommender in PyTorch, on a Laptop")
+
+Building a baseline recsys based on data scraped off Amazon. Warning - Lots of charts! (Part 1 of 2).
+
+06 Jan 2020 · 14 min · [recsys](/tag/recsys/) [deeplearning](/tag/deeplearning/) [python](/tag/python/) [🛠](/tag/🛠/)
+
+#### [OMSCS CS6200 (Introduction to OS) Review and Tips](/writing/omscs-cs6200-introduction-to-operating-systems/ "OMSCS CS6200 \(Introduction to OS\) Review and Tips")
+
+OMSCS CS6200 (Introduction to OS) - Moving data from one process to another, multi-threaded.
+
+15 Dec 2019 · 7 min · [omscs](/tag/omscs/) [learning](/tag/learning/) [engineering](/tag/engineering/)
+
+#### [OMSCS CS6750 (Human Computer Interaction) Review and Tips](/writing/omscs-cs6750-human-computer-interaction/ "OMSCS CS6750 \(Human Computer Interaction\) Review and Tips")
+
+OMSCS CS6750 (Human Computer Interaction) - You are not your user! Or how to build great products.
+
+03 Sep 2019 · 8 min · [omscs](/tag/omscs/) [learning](/tag/learning/)
+
+#### [Goodbye Wordpress, Hello Jekyll!](/writing/goodbye-wordpress-hello-jekyll "Goodbye Wordpress, Hello Jekyll!")
+
+Moving off wordpress and hosting for free on GitHub. And gaining full customization!
+
+25 Aug 2019 · 1 min · [misc](/tag/misc/)
+
+#### [OMSCS CS6440 (Intro to Health Informatics) Review and Tips](/writing/omscs-cs6440-intro-to-health-informatics/ "OMSCS CS6440 \(Intro to Health Informatics\) Review and Tips")
+
+OMSCS CS6440 (Intro to Health Informatics) - A primer on key tech and standards in healthtech.
+
+04 Aug 2019 · 7 min · [omscs](/tag/omscs/) [learning](/tag/learning/)
+
+#### [OMSCS CS7646 (Machine Learning for Trading) Review and Tips](/writing/omscs-cs7646-machine-learning-for-trading/ "OMSCS CS7646 \(Machine Learning for Trading\) Review and Tips")
+
+OMSCS CS7646 (Machine Learning for Trading) - Don't sell your house to trade algorithmically.
+
+11 May 2019 · 9 min · [omscs](/tag/omscs/) [learning](/tag/learning/) [machinelearning](/tag/machinelearning/) [python](/tag/python/)
+
+#### [What does a Data Scientist really do?](/writing/what-does-a-data-scientist-really-do/ "What does a Data Scientist really do?")
+
+No, you don't need a PhD or 10+ years of experience.
+
+30 Apr 2019 · 8 min · [career](/tag/career/) [datascience](/tag/datascience/)
+
+#### [Data Science and Agile (Frameworks for Effectiveness)](/writing/data-science-and-agile-frameworks-for-effectiveness/ "Data Science and Agile \(Frameworks for Effectiveness\)")
+
+Taking the best from agile and modifying it to fit the data science process (Part 2 of 2).
+
+02 Feb 2019 · 14 min · [mechanism](/tag/mechanism/) [agile](/tag/agile/) [datascience](/tag/datascience/) [productivity](/tag/productivity/)
+
+#### [Data Science and Agile (What Works, and What Doesn't)](/writing/data-science-and-agile-what-works-and-what-doesnt/ "Data Science and Agile \(What Works, and What Doesn't\)")
+
+A deeper look into the strengths and weaknesses of Agile in Data Science projects (Part 1 of 2).
+
+26 Jan 2019 · 13 min · [agile](/tag/agile/) [datascience](/tag/datascience/) [productivity](/tag/productivity/) [🔥](/tag/🔥/)
+
+#### [OMSCS CS6601 (Artificial Intelligence) Review and Tips](/writing/omscs-cs6601-artificial-intelligence/ "OMSCS CS6601 \(Artificial Intelligence\) Review and Tips")
+
+OMSCS CS6601 (Artificial Intelligence) - First, start with the simplest solution, and then add intelligence.
+
+20 Dec 2018 · 8 min · [omscs](/tag/omscs/) [learning](/tag/learning/) [machinelearning](/tag/machinelearning/) [python](/tag/python/)
+
+#### [OMSCS CS6460 (Education Technology) Review and Tips](/writing/omscs-cs6460-education-technology/ "OMSCS CS6460 \(Education Technology\) Review and Tips")
+
+OMSCS CS6460 (Education Technology) - How to scale education widely through technology.
+
+25 Aug 2018 · 9 min · [omscs](/tag/omscs/) [learning](/tag/learning/)
+
+#### [OMSCS CS7642 (Reinforcement Learning) Review and Tips](/writing/omscs-cs7642-reinforcement-learning/ "OMSCS CS7642 \(Reinforcement Learning\) Review and Tips")
+
+OMSCS CS7642 (Reinforcement Learning) - Landing rockets (fun!) via deep Q-Learning (and its variants).
+
+30 Jul 2018 · 6 min · [omscs](/tag/omscs/) [learning](/tag/learning/) [deeplearning](/tag/deeplearning/) [python](/tag/python/)
+
+#### [Building a Strong Data Science Team Culture](/writing/building-a-strong-data-science-team-culture/ "Building a Strong Data Science Team Culture")
+
+Culture >> Hierarchy, Process, Bureaucracy.
+
+12 May 2018 · 5 min · [leadership](/tag/leadership/) [datascience](/tag/datascience/) [lazada](/tag/lazada/)
+
+#### [OMSCS CS7641 (Machine Learning) Review and Tips](/writing/omscs-cs7641-machine-learning/ "OMSCS CS7641 \(Machine Learning\) Review and Tips")
+
+OMSCS CS7641 (Machine Learning) - Revisiting the fundamentals and learning new techniques.
+
+27 Dec 2017 · 4 min · [omscs](/tag/omscs/) [learning](/tag/learning/) [machinelearning](/tag/machinelearning/) [python](/tag/python/)
+
+#### [My first 100 days as Data Science Lead](/writing/my-first-100-days-as-data-science-lead/ "My first 100 days as Data Science Lead")
+
+How being a Lead / Manager is different from being an individual contributor.
+
+25 Sep 2017 · 5 min · [leadership](/tag/leadership/) [datascience](/tag/datascience/) [lazada](/tag/lazada/)
+
+#### [OMSCS CS6300 (Software Development Process) Review and Tips](/writing/omscs-cs6300-software-development-process/ "OMSCS CS6300 \(Software Development Process\) Review and Tips")
+
+OMSCS CS6300 (Software Development Process) - Java and collaboratively developing an Android app.
+
+13 Aug 2017 · 5 min · [omscs](/tag/omscs/) [learning](/tag/learning/) [engineering](/tag/engineering/)
+
+#### [How to get started in Data Science](/writing/how-to-get-started-in-data-science/ "How to get started in Data Science")
+
+Tools and skills to pick up, and how to practice them.
+
+25 Jun 2017 · 9 min · [datascience](/tag/datascience/) [learning](/tag/learning/) [career](/tag/career/)
+
+#### [OMSCS CS6476 (Computer Vision) Review and Tips](/writing/omscs-cs6476-computer-vision/ "OMSCS CS6476 \(Computer Vision\) Review and Tips")
+
+OMSCS CS6476 Computer Vision - Performing computer vision tasks with ONLY numpy.
+
+15 May 2017 · 5 min · [omscs](/tag/omscs/) [learning](/tag/learning/) [deeplearning](/tag/deeplearning/) [python](/tag/python/)
+
+#### [One way to help a data science team innovate successfully](/writing/one-way-to-help-a-data-science-team-succeed/ "One way to help a data science team innovate successfully")
+
+If things are not failing, you're not innovating enough. - Elon Musk
+
+19 Feb 2017 · 3 min · [leadership](/tag/leadership/) [datascience](/tag/datascience/) [lazada](/tag/lazada/)
+
+#### [Product Categorization API Part 3: Creating an API](/writing/product-categorization-api-part-3-creating-an-api/ "Product Categorization API Part 3: Creating an API")
+
+Or how to put machine learning models into production.
+
+13 Feb 2017 · 8 min · [machinelearning](/tag/machinelearning/) [production](/tag/production/) [python](/tag/python/) [🛠](/tag/🛠/)
+
+#### [Image search is now live!](/writing/image-search-is-now-live/ "Image search is now live!")
+
+A web app to find similar products based on image.
+
+14 Jan 2017 · 4 min · [deeplearning](/tag/deeplearning/) [python](/tag/python/) [production](/tag/production/) [🛠](/tag/🛠/)
+
+#### [Product Classification API Part 2: Data Preparation](/writing/product-categorization-api-part-2-data-preparation/ "Product Classification API Part 2: Data Preparation")
+
+Cleaning up text and messing with ascii (urgh!)
+
+11 Dec 2016 · 8 min · [machinelearning](/tag/machinelearning/) [python](/tag/python/) [🛠](/tag/🛠/)
+
+#### [Image classification API is now live!](/writing/image-categorization-is-now-live/ "Image classification API is now live!")
+
+A simple web app to classify fashion images into Amazon categories.
+
+27 Nov 2016 · 2 min · [deeplearning](/tag/deeplearning/) [python](/tag/python/) [production](/tag/production/) [🛠](/tag/🛠/)
+
+#### [I'm going back to school](/writing/im-going-back-to-school/ "I'm going back to school")
+
+Got accepted into Georgia Tech's Computer Science Masters!
+
+02 Nov 2016 · 5 min · [omscs](/tag/omscs/) [learning](/tag/learning/)
+
+#### [SortMySkills is now live!](/writing/sortmyskills-is-now-live/ "SortMySkills is now live!")
+
+A card sorting game to discover youl passion by identifying skills you like and dislike.
+
+23 Oct 2016 · 4 min · [misc](/tag/misc/) [🛠](/tag/🛠/)
+
+#### [Product Classification API Part 1: Data Acquisition](/writing/product-categorization-api-part-1-data-acquisition-and-formatting/ "Product Classification API Part 1: Data Acquisition")
+
+Parsing json and formatting product titles and categories.
+
+11 Oct 2016 · 9 min · [machinelearning](/tag/machinelearning/) [python](/tag/python/) [🛠](/tag/🛠/)
+
+#### [Thoughts on Functional Programming in Scala Course (Coursera)](/writing/thoughts-on-functional-programming-in-scala-course-coursera/ "Thoughts on Functional Programming in Scala Course \(Coursera\)")
+
+Learning Scala from Martin Odersky, father of Scala.
+
+31 Jul 2016 · 4 min · [learning](/tag/learning/)
+
+#### [First post!](/writing/first-post/ "First post!")
+
+Time to start writing.
+
+06 Jul 2016 · 1 min · [misc](/tag/misc/)
+
+#### [DataKind Singapore’s Latest Project Accelerator](/writing/datakind-sg-project-accelerator/ "DataKind Singapore’s Latest Project Accelerator")
+
+Guest post of how DataKind SG worked with NGOs to frame their problems and suggests solutions
+
+17 Sep 2015 · 8 min · [datascience](/tag/datascience/)
+
+
+
+
+**198** [posts](/writing/), **29** [talks](/speaking), **17** [prototypes](/prototyping/), **390,221** words, and countless hours.
+
+Join **9,800+** readers getting updates on machine learning, RecSys, LLMs, and engineering.
+
+Get email updates
+
+  * ![](/assets/bluesky.svg) [Bluesky](https://bsky.app/profile/eugeneyan.bsky.social "Bluesky")
+  * ![](/assets/icon-twitter.svg) [Twitter](https://twitter.com/eugeneyan "Twitter")
+  * ![](/assets/icon-linkedin.svg) [LinkedIn](https://www.linkedin.com/in/eugeneyan/ "Linkedin")
+  * ![](/assets/icon-github.svg) [GitHub](https://github.com/eugeneyan/ "GitHub")
+
+
+
+Eugene Yan designs, builds, and operates machine learning systems that serve customers at scale. He's currently a Senior Applied Scientist at Amazon. Previously, he led machine learning at Lazada (acquired by Alibaba) and a Healthtech Series A. He [writes](/writing/) & [speaks](/speaking/) about machine learning, recommenders, LLMs, and engineering at [eugeneyan.com](https://eugeneyan.com/) and [ApplyingML.com](https://applyingml.com/). 
+
+© Eugene Yan 2015 - 2025 • [Feedback](/site-feedback/) • [RSS](/rss/)

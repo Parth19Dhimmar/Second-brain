@@ -1,0 +1,23 @@
+{
+    "id": "dcfbbed172c2edf9c38af9978ace7fce",
+    "metadata": {
+        "id": "dcfbbed172c2edf9c38af9978ace7fce",
+        "url": "https://www.notion.so/Distributed-Computing-dcfbbed172c2edf9c38af9978ace7fce",
+        "title": "Distributed Computing",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "53dd39b46d1eef5fcee7fbceca28aaf9",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Articles\n\n\t- [Build and Scale a Powerful Query Engine with LlamaIndex and Ray](https://www.llamaindex.ai/blog/build-and-scale-a-powerful-query-engine-with-llamaindex-and-ray-bfb456404bc4)",
+    "content_quality_score": 0.2,
+    "summary": null,
+    "child_urls": [
+        "https://www.llamaindex.ai/blog/build-and-scale-a-powerful-query-engine-with-llamaindex-and-ray-bfb456404bc4/"
+    ]
+}

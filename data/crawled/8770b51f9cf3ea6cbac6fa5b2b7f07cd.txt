@@ -1,0 +1,243 @@
+[ ![TensorFlow](https://www.gstatic.com/devrel-devsite/prod/vda41147226ae308b24384f785d31d739107d2716272d99cd11c490ff3892954d/tensorflow/images/lockup.svg) ](/)
+
+[ Install ](https://www.tensorflow.org/install) [ Learn ](https://www.tensorflow.org/learn) [](#)
+
+  * [ Introduction  New to TensorFlow?  ](https://www.tensorflow.org/learn)
+  * [ Tutorials  Learn how to use TensorFlow with end-to-end examples  ](https://www.tensorflow.org/tutorials)
+  * [ Guide  Learn framework concepts and components  ](https://www.tensorflow.org/guide)
+  * [ Learn ML  Educational resources to master your path with TensorFlow  ](https://www.tensorflow.org/resources/learn-ml)
+
+
+
+[ API ](https://www.tensorflow.org/api) [](#)
+
+  * [ TensorFlow (v2.16.1)  ](https://www.tensorflow.org/api/stable)
+  * [ Versions…  ](https://www.tensorflow.org/versions)
+
+
+
+  * [ TensorFlow.js  ](https://js.tensorflow.org/api/latest/)
+  * [ TensorFlow Lite  ](https://www.tensorflow.org/lite/api_docs)
+  * [ TFX  ](https://www.tensorflow.org/tfx/api_docs)
+
+
+
+[ Resources ](https://www.tensorflow.org/resources) [](#)
+
+  * LIBRARIES
+  * [ TensorFlow.js  Develop web ML applications in JavaScript  ](https://www.tensorflow.org/js)
+  * [ TensorFlow Lite  Deploy ML on mobile, microcontrollers and other edge devices  ](https://www.tensorflow.org/lite)
+  * [ TFX  Build production ML pipelines  ](https://www.tensorflow.org/tfx)
+  * [ All libraries  Create advanced models and extend TensorFlow  ](https://www.tensorflow.org/resources/libraries-extensions)
+
+
+
+  * RESOURCES
+  * [ Models & datasets  Pre-trained models and datasets built by Google and the community  ](https://www.tensorflow.org/resources/models-datasets)
+  * [ Tools  Tools to support and accelerate TensorFlow workflows  ](https://www.tensorflow.org/resources/tools)
+  * [ Responsible AI  Resources for every stage of the ML workflow  ](https://www.tensorflow.org/responsible_ai)
+  * [ Recommendation systems  Build recommendation systems with open source tools  ](https://www.tensorflow.org/resources/recommendation-systems)
+
+
+
+[ Community ](https://www.tensorflow.org/community) [](#)
+
+  * [ Groups  User groups, interest groups and mailing lists  ](https://www.tensorflow.org/community/groups)
+  * [ Contribute  Guide for contributing to code and documentation  ](https://www.tensorflow.org/community/contribute)
+  * [ Blog  Stay up to date with all things TensorFlow  ](https://blog.tensorflow.org/)
+  * [ Forum  Discussion platform for the TensorFlow community  ](https://discuss.tensorflow.org)
+
+
+
+[ Why TensorFlow ](https://www.tensorflow.org/about) [](#)
+
+  * [ About  ](https://www.tensorflow.org/about)
+  * [ Case studies  ](https://www.tensorflow.org/about/case-studies)
+
+
+
+`/`
+
+  * English
+  * Español
+  * Español – América Latina
+  * Français
+  * Indonesia
+  * Italiano
+  * Polski
+  * Português
+  * Português – Brasil
+  * Tiếng Việt
+  * Türkçe
+  * Русский
+  * עברית
+  * العربيّة
+  * فارسی
+  * हिंदी
+  * বাংলা
+  * ภาษาไทย
+  * 中文 – 简体
+  * 中文 – 繁體
+  * 日本語
+  * 한국어
+
+[ GitHub ](//github.com/tensorflow) Sign in
+
+  * [ Recommenders ](https://www.tensorflow.org/recommenders)
+
+
+
+A library for building recommender system models. 
+
+[ Overview ](https://www.tensorflow.org/recommenders) [ Guide & Tutorials ](https://www.tensorflow.org/recommenders/examples/quickstart) [ API ](https://www.tensorflow.org/recommenders/api_docs/python/tfrs/all_symbols)
+
+[ ![TensorFlow](https://www.gstatic.com/devrel-devsite/prod/vda41147226ae308b24384f785d31d739107d2716272d99cd11c490ff3892954d/tensorflow/images/lockup.svg) ](/)
+
+  * [ Install  ](/install)
+  * [ Learn  ](/learn)
+    * More 
+  * [ API  ](/api)
+    * More 
+  * [ Resources  ](/resources)
+    * More 
+    * [ Overview  ](/recommenders)
+    * [ Guide & Tutorials  ](/recommenders/examples/quickstart)
+    * [ API  ](/recommenders/api_docs/python/tfrs/all_symbols)
+  * [ Community  ](/community)
+    * More 
+  * [ Why TensorFlow  ](/about)
+    * More 
+  * [ GitHub  ](//github.com/tensorflow)
+
+
+
+  * [ Introduction  ](/learn)
+  * [ Tutorials  ](/tutorials)
+  * [ Guide  ](/guide)
+  * [ Learn ML  ](/resources/learn-ml)
+
+
+  * [ TensorFlow (v2.16.1)  ](/api/stable)
+  * [ Versions…  ](/versions)
+  * [ TensorFlow.js  ](https://js.tensorflow.org/api/latest/)
+  * [ TensorFlow Lite  ](/lite/api_docs)
+  * [ TFX  ](/tfx/api_docs)
+
+
+  * LIBRARIES 
+  * [ TensorFlow.js  ](/js)
+  * [ TensorFlow Lite  ](/lite)
+  * [ TFX  ](/tfx)
+  * [ All libraries  ](/resources/libraries-extensions)
+  * RESOURCES 
+  * [ Models & datasets  ](/resources/models-datasets)
+  * [ Tools  ](/resources/tools)
+  * [ Responsible AI  ](/responsible_ai)
+  * [ Recommendation systems  ](/resources/recommendation-systems)
+
+
+  * [ Groups  ](/community/groups)
+  * [ Contribute  ](/community/contribute)
+  * [ Blog  ](https://blog.tensorflow.org/)
+  * [ Forum  ](https://discuss.tensorflow.org)
+
+
+  * [ About  ](/about)
+  * [ Case studies  ](/about/case-studies)
+
+
+
+  * [ TensorFlow ](https://www.tensorflow.org/)
+  * [ Resources ](https://www.tensorflow.org/resources)
+  * [ Recommenders ](https://www.tensorflow.org/recommenders)
+
+
+
+Stay organized with collections  Save and categorize content based on your preferences. 
+
+##  TensorFlow Recommenders 
+
+```
+importtensorflow_datasetsastfds importtensorflow_recommendersastfrs # Load data on movie ratings. ratings = tfds.load("movielens/100k-ratings", split="train") movies = tfds.load("movielens/100k-movies", split="train") # Build flexible representation models. user_model = tf.keras.Sequential([...]) movie_model = tf.keras.Sequential([...]) # Define your objectives. task = tfrs.tasks.Retrieval(metrics=tfrs.metrics.FactorizedTopK( movies.batch(128).map(movie_model) ) ) # Create a retrieval model. model = MovielensModel(user_model, movie_model, task) model.compile(optimizer=tf.keras.optimizers.Adagrad(0.5)) # Train. model.fit(ratings.batch(4096), epochs=3) # Set up retrieval using trained representations. index = tfrs.layers.ann.BruteForce(model.user_model) index.index_from_dataset( movies.batch(100).map(lambda title: (title, model.movie_model(title))) ) # Get recommendations. _, titles = index(np.array(["42"])) print(f"Recommendations for user 42: {titles[0,:3]}")
+``` [Run in a Notebook](https://colab.research.google.com/github/tensorflow/recommenders/blob/main/docs/examples/quickstart.ipynb)
+
+TensorFlow Recommenders (TFRS) is a library for building recommender system models. It helps with the full workflow of building a recommender system: data preparation, model formulation, training, evaluation, and deployment. It's built on Keras and aims to have a gentle learning curve while still giving you the flexibility to build complex models. TFRS makes it possible to: 
+
+  * Build and evaluate flexible recommendation retrieval models.
+  * Freely incorporate item, user, and [ context information](https://www.tensorflow.org/recommenders/examples/featurization) into recommendation models.
+  * Train [multi-task models](https://www.tensorflow.org/recommenders/examples/multitask/) that jointly optimize multiple recommendation objectives.
+
+TFRS is open source and available [on Github](https://github.com/tensorflow/recommenders). To learn more, see the [tutorial on how to build a movie recommender system](https://www.tensorflow.org/recommenders/examples/basic_retrieval), or check the [ API docs](https://www.tensorflow.org/recommenders/api_docs/python/tfrs) for the API reference. 
+
+###  [ Introduction to TensorFlow Recommenders ](https://www.youtube.com/watch?v=jz0-satrmrA&list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz&index=4)
+
+[Watch the introduction video](https://www.youtube.com/watch?v=jz0-satrmrA&list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz&index=4) [Watch the video series](https://goo.gle/3Bi8NUS)
+
+[ ![](https://www.tensorflow.org/static/resources/images/google-research-card-16x9.png) ](https://blog.tensorflow.org/2020/11/tensorflow-recommenders-scalable-retrieval-feature-interaction-modelling.html)
+
+###  [ TensorFlow Recommenders: Scalable retrieval and feature interaction modelling ](https://blog.tensorflow.org/2020/11/tensorflow-recommenders-scalable-retrieval-feature-interaction-modelling.html)
+
+[Read on TensorFlow blog](https://blog.tensorflow.org/2020/11/tensorflow-recommenders-scalable-retrieval-feature-interaction-modelling.html)
+
+[ ![](https://www.tensorflow.org/static/resources/images/tf-logo-card-16x9.png) ](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html)
+
+###  [ Introducing TensorFlow Recommenders ](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html)
+
+[Read on TensorFlow blog](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html)
+
+[ ![](https://www.tensorflow.org/static/resources/images/github-card-16x9.png) ](https://github.com/tensorflow/recommenders)
+
+###  [ TensorFlow Recommenders on GitHub ](https://github.com/tensorflow/recommenders)
+
+[View on GitHub](https://github.com/tensorflow/recommenders)
+
+[[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],[],[],[]] 
+
+  * ### Stay connected
+
+    * [ Blog ](//blog.tensorflow.org)
+    * [ Forum ](//discuss.tensorflow.org)
+    * [ GitHub ](//github.com/tensorflow/)
+    * [ Twitter ](//twitter.com/tensorflow)
+    * [ YouTube ](//youtube.com/tensorflow)
+  * ### Support
+
+    * [ Issue tracker ](//github.com/tensorflow/tensorflow/issues)
+    * [ Release notes ](//github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+    * [ Stack Overflow ](//stackoverflow.com/questions/tagged/tensorflow)
+    * [ Brand guidelines ](/extras/tensorflow_brand_guidelines.pdf)
+    * [ Cite TensorFlow ](/about/bib)
+
+
+
+  * [ Terms ](//policies.google.com/terms)
+  * [ Privacy ](//policies.google.com/privacy)
+  * [ Manage cookies ](#)
+  * Sign up for the TensorFlow newsletter [ Subscribe ](//www.tensorflow.org/subscribe)
+
+
+
+  * English
+  * Español
+  * Español – América Latina
+  * Français
+  * Indonesia
+  * Italiano
+  * Polski
+  * Português
+  * Português – Brasil
+  * Tiếng Việt
+  * Türkçe
+  * Русский
+  * עברית
+  * العربيّة
+  * فارسی
+  * हिंदी
+  * বাংলা
+  * ภาษาไทย
+  * 中文 – 简体
+  * 中文 – 繁體
+  * 日本語
+  * 한국어
+
+

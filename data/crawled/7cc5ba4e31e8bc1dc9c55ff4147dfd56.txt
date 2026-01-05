@@ -1,0 +1,555 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Faws%2Famazon-sagemaker-examples%2Fblob%2Fmain%2Fintroduction_to_amazon_algorithms%2Fjumpstart-foundation-models%2Fllama-2-chat-completion.ipynb%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Faws%2Famazon-sagemaker-examples%2Fblob%2Fmain%2Fintroduction_to_amazon_algorithms%2Fjumpstart-foundation-models%2Fllama-2-chat-completion.ipynb%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=aws%2Famazon-sagemaker-examples) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ aws ](/aws) / **[amazon-sagemaker-examples](/aws/amazon-sagemaker-examples) ** Public
+
+  * [ Notifications ](/login?return_to=%2Faws%2Famazon-sagemaker-examples) You must be signed in to change notification settings
+  * [ Fork 6.8k ](/login?return_to=%2Faws%2Famazon-sagemaker-examples)
+  * [ Star  10.2k ](/login?return_to=%2Faws%2Famazon-sagemaker-examples)
+
+
+
+
+  * [ Code ](/aws/amazon-sagemaker-examples/tree/main)
+  * [ Issues 713 ](/aws/amazon-sagemaker-examples/issues)
+  * [ Pull requests 121 ](/aws/amazon-sagemaker-examples/pulls)
+  * [ Discussions ](/aws/amazon-sagemaker-examples/discussions)
+  * [ Actions ](/aws/amazon-sagemaker-examples/actions)
+  * [ Projects 0 ](/aws/amazon-sagemaker-examples/projects)
+  * [ Security ](/aws/amazon-sagemaker-examples/security)
+  * [ Insights ](/aws/amazon-sagemaker-examples/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/aws/amazon-sagemaker-examples/tree/main)
+  * [ Issues  ](/aws/amazon-sagemaker-examples/issues)
+  * [ Pull requests  ](/aws/amazon-sagemaker-examples/pulls)
+  * [ Discussions  ](/aws/amazon-sagemaker-examples/discussions)
+  * [ Actions  ](/aws/amazon-sagemaker-examples/actions)
+  * [ Projects  ](/aws/amazon-sagemaker-examples/projects)
+  * [ Security  ](/aws/amazon-sagemaker-examples/security)
+  * [ Insights  ](/aws/amazon-sagemaker-examples/pulse)
+
+
+
+## Files
+
+main
+
+  * .github
+
+  * _static
+
+  * _templates
+
+  * advanced_functionality
+
+  * async-inference
+
+  * autopilot
+
+  * aws_marketplace
+
+  * aws_sagemaker_studio
+
+  * boto3
+
+  * code_snippets
+
+  * contrib
+
+  * end_to_end
+
+  * frameworks
+
+  * ground_truth_labeling_jobs
+
+  * hyperparameter_tuning
+
+  * inference
+
+  * ingest_data
+
+  * introduction_to_amazon_algorithms
+
+    * autogluon_tabular
+
+    * blazingtext_word2vec_text8
+
+    * deepar_electricity
+
+    * factorization_machines_mnist
+
+    * forecasting_services_comparison
+
+    * image_classification_tensorflow
+
+    * ipinsights_login
+
+    * jumpstart-foundation-models
+
+      * aws-trainium-inferentia-finetuning-deployment
+
+      * question_answering_retrieval_augmented_generation
+
+      * text-generation-benchmarking
+
+      * README.md
+
+      * automatic-speech-recognition.ipynb
+
+      * bloom-z-176b-few-shot-and-zero-shot-learning.ipynb
+
+      * code-llama-fine-tuning-evaluate-human-eval.ipynb
+
+      * domain-adaption-finetuning-gpt-j-6b.ipynb
+
+      * falcon-7b-instruction-domain-adaptation-finetuning.ipynb
+
+      * gemma-fine-tuning.ipynb
+
+      * image-generation-stable-diffusion.ipynb
+
+      * instruction-fine-tuning-flan-t5.ipynb
+
+      * jumpstart-text-generation-inference.ipynb
+
+      * llama-2-chat-completion.ipynb
+
+      * llama-2-finetuning.ipynb
+
+      * llama-2-text-completion.ipynb
+
+      * llama-3-finetuning.ipynb
+
+      * llama-3-text-completion.ipynb
+
+      * llama-guard-text-moderation.ipynb
+
+      * mistral-7b-instruction-domain-adaptation-finetuning.ipynb
+
+      * text-generation-chatbot.ipynb
+
+      * text-generation-falcon.ipynb
+
+      * text-generation-few-shot-learning.ipynb
+
+      * text-generation-open-llama.ipynb
+
+      * text2text-generation-Batch-Transform.ipynb
+
+      * text2text-generation-bloomz.ipynb
+
+      * text2text-generation-flan-t5-ul2.ipynb
+
+      * text2text-generation-flan-t5.ipynb
+
+    * jumpstart_alexatm20b
+
+    * jumpstart_image_classification
+
+    * jumpstart_image_embedding
+
+    * jumpstart_inpainting
+
+    * jumpstart_instance_segmentation
+
+    * jumpstart_machine_translation
+
+    * jumpstart_named_entity_recognition
+
+    * jumpstart_object_detection
+
+    * jumpstart_question_answering
+
+    * jumpstart_regression_free_training
+
+    * jumpstart_semantic_segmentation
+
+    * jumpstart_sentence_pair_classification
+
+    * jumpstart_text_classification
+
+    * jumpstart_text_embedding
+
+    * jumpstart_text_generation
+
+    * jumpstart_text_summarization
+
+    * jumpstart_text_to_image
+
+    * jumpstart_upscaling
+
+    * jumpstart_zstc
+
+    * k_nearest_neighbors_covtype
+
+    * lda_topic_modeling
+
+    * lightgbm_catboost_tabular
+
+    * linear_learner_abalone
+
+    * linear_learner_mnist
+
+    * ntm_synthetic
+
+    * object2vec_sentence_similarity
+
+    * object_detection_birds
+
+    * object_detection_tensorflow
+
+    * pca_mnist
+
+    * random_cut_forest
+
+    * semantic_segmentation_pascalvoc
+
+    * seq2seq_translation_en-de
+
+    * tabtransformer_tabular
+
+    * xgboost_abalone
+
+    * xgboost_mnist
+
+    * README.md
+
+    * index.rst
+
+  * introduction_to_applying_machine_learning
+
+  * licenses
+
+  * ml-lifecycle
+
+  * model-governance
+
+  * multi-model-endpoints
+
+  * prep_data
+
+  * r_examples
+
+  * reinforcement_learning
+
+  * sagemaker-clarify
+
+  * sagemaker-datawrangler
+
+  * sagemaker-debugger
+
+  * sagemaker-experiments
+
+  * sagemaker-featurestore
+
+  * sagemaker-fundamentals
+
+  * sagemaker-geospatial
+
+  * sagemaker-inference-deployment-guardrails
+
+  * sagemaker-inference-recommender
+
+  * sagemaker-jumpstart
+
+  * sagemaker-lineage
+
+  * sagemaker-mlflow
+
+  * sagemaker-notebook-jobs
+
+  * sagemaker-pipeline-compare-model-versions
+
+  * sagemaker-pipeline-multi-model
+
+  * sagemaker-pipeline-parameterization
+
+  * sagemaker-pipelines
+
+  * sagemaker-python-sdk
+
+  * sagemaker-remote-function
+
+  * sagemaker-script-mode
+
+  * sagemaker-shadow-variant
+
+  * sagemaker-spark
+
+  * sagemaker-training-compiler
+
+  * sagemaker-triton
+
+  * sagemaker_batch_transform
+
+  * sagemaker_endpoints
+
+  * sagemaker_model_governance
+
+  * sagemaker_model_monitor
+
+  * sagemaker_neo_compilation_jobs
+
+  * sagemaker_processing
+
+  * scientific_details_of_algorithms
+
+  * serverless-inference
+
+  * step-functions-data-science-sdk
+
+  * synthetic_data
+
+  * training
+
+  * use-cases
+
+  * utils
+
+  * .gitignore
+
+  * .readthedocs.yml
+
+  * CODEOWNERS
+
+  * CONTRIBUTING.md
+
+  * LICENSE.txt
+
+  * Makefile
+
+  * NOTICE
+
+  * README.md
+
+  * conf.py
+
+  * config.json
+
+  * environment.yml
+
+  * index.rst
+
+  * intro.rst
+
+  * make.bat
+
+  * tox.ini
+
+
+
+
+## Breadcrumbs
+
+  1. [amazon-sagemaker-examples](/aws/amazon-sagemaker-examples/tree/main)
+  2. /[introduction_to_amazon_algorithms](/aws/amazon-sagemaker-examples/tree/main/introduction_to_amazon_algorithms)
+  3. /[jumpstart-foundation-models](/aws/amazon-sagemaker-examples/tree/main/introduction_to_amazon_algorithms/jumpstart-foundation-models)
+
+
+
+/
+
+# llama-2-chat-completion.ipynb
+
+Copy path
+
+Blame
+
+Blame
+
+## Latest commit
+
+[![zhaoqizqwang](https://avatars.githubusercontent.com/u/52220743?v=4&size=40)](/zhaoqizqwang)[zhaoqizqwang](/aws/amazon-sagemaker-examples/commits?author=zhaoqizqwang)
+
+[Fix bugs in most viewed examples (](/aws/amazon-sagemaker-examples/commit/c3ce68a9ef9fc527c88b081c1466f18a4ed99530)[#4663](https://github.com/aws/amazon-sagemaker-examples/pull/4663)[)](/aws/amazon-sagemaker-examples/commit/c3ce68a9ef9fc527c88b081c1466f18a4ed99530)
+
+May 25, 2024
+
+[c3ce68a](/aws/amazon-sagemaker-examples/commit/c3ce68a9ef9fc527c88b081c1466f18a4ed99530) · May 25, 2024
+
+## History
+
+[History](/aws/amazon-sagemaker-examples/commits/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/llama-2-chat-completion.ipynb)
+
+[](/aws/amazon-sagemaker-examples/commits/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/llama-2-chat-completion.ipynb)
+
+1524 lines (1524 loc) · 56 KB
+
+## Breadcrumbs
+
+  1. [amazon-sagemaker-examples](/aws/amazon-sagemaker-examples/tree/main)
+  2. /[introduction_to_amazon_algorithms](/aws/amazon-sagemaker-examples/tree/main/introduction_to_amazon_algorithms)
+  3. /[jumpstart-foundation-models](/aws/amazon-sagemaker-examples/tree/main/introduction_to_amazon_algorithms/jumpstart-foundation-models)
+
+
+
+/
+
+# llama-2-chat-completion.ipynb
+
+Top
+
+## File metadata and controls
+
+  * Preview
+
+  * Code
+
+  * Blame
+
+
+
+
+1524 lines (1524 loc) · 56 KB
+
+[Raw](https://github.com/aws/amazon-sagemaker-examples/raw/refs/heads/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/llama-2-chat-completion.ipynb)
+
+LoadingViewer requires iframe.
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

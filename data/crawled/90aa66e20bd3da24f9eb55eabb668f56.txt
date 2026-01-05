@@ -1,0 +1,398 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fpre-commit%2Fpre-commit%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fpre-commit%2Fpre-commit%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=pre-commit%2Fpre-commit) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ pre-commit ](/pre-commit) / **[pre-commit](/pre-commit/pre-commit) ** Public
+
+  * Sponsor
+
+#  Sponsor pre-commit/pre-commit 
+
+##### GitHub Sponsors
+
+[Learn more about Sponsors](/sponsors)
+
+[ ![@asottile](https://avatars.githubusercontent.com/u/1810591?s=80&v=4) ](/asottile)
+
+[ asottile ](/asottile)
+
+[ asottile ](/asottile)
+
+[ Sponsor  ](/sponsors/asottile)
+
+##### External links
+
+![open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg)
+
+[opencollective.com/**pre-commit**](https://opencollective.com/pre-commit)
+
+![tidelift](https://github.githubassets.com/assets/tidelift-8cea37dea8fc.svg)
+
+[tidelift.com/funding/github/**pypi/pre-commit**](https://tidelift.com/funding/github/pypi/pre-commit)
+
+[Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository). 
+
+[Report abuse](/contact/report-abuse?report=pre-commit%2Fpre-commit+%28Repository+Funding+Links%29)
+
+  * [ Notifications ](/login?return_to=%2Fpre-commit%2Fpre-commit) You must be signed in to change notification settings
+  * [ Fork 837 ](/login?return_to=%2Fpre-commit%2Fpre-commit)
+  * [ Star  13.3k ](/login?return_to=%2Fpre-commit%2Fpre-commit)
+
+
+
+
+A framework for managing and maintaining multi-language pre-commit hooks. 
+
+[pre-commit.com](https://pre-commit.com "https://pre-commit.com")
+
+### License
+
+[ MIT license ](/pre-commit/pre-commit/blob/main/LICENSE)
+
+[ 13.3k stars ](/pre-commit/pre-commit/stargazers) [ 837 forks ](/pre-commit/pre-commit/forks) [ Branches ](/pre-commit/pre-commit/branches) [ Tags ](/pre-commit/pre-commit/tags) [ Activity ](/pre-commit/pre-commit/activity)
+
+[ Star  ](/login?return_to=%2Fpre-commit%2Fpre-commit)
+
+[ Notifications ](/login?return_to=%2Fpre-commit%2Fpre-commit) You must be signed in to change notification settings
+
+  * [ Code ](/pre-commit/pre-commit)
+  * [ Issues 21 ](/pre-commit/pre-commit/issues)
+  * [ Pull requests 9 ](/pre-commit/pre-commit/pulls)
+  * [ Actions ](/pre-commit/pre-commit/actions)
+  * [ Security ](/pre-commit/pre-commit/security)
+  * [ Insights ](/pre-commit/pre-commit/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/pre-commit/pre-commit)
+  * [ Issues  ](/pre-commit/pre-commit/issues)
+  * [ Pull requests  ](/pre-commit/pre-commit/pulls)
+  * [ Actions  ](/pre-commit/pre-commit/actions)
+  * [ Security  ](/pre-commit/pre-commit/security)
+  * [ Insights  ](/pre-commit/pre-commit/pulse)
+
+
+
+# pre-commit/pre-commit
+
+main
+
+[**3** Branches](/pre-commit/pre-commit/branches)[**198** Tags](/pre-commit/pre-commit/tags)
+
+[](/pre-commit/pre-commit/branches)[](/pre-commit/pre-commit/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![asottile](https://avatars.githubusercontent.com/u/1810591?v=4&size=40)](/asottile)[asottile](/pre-commit/pre-commit/commits?author=asottile)[Merge pull request](/pre-commit/pre-commit/commit/804c853d8f1b5692bbbeb221dcbcd59cea461118) [#3390](https://github.com/pre-commit/pre-commit/pull/3390) [from pre-commit/pre-commit-ci-update-config](/pre-commit/pre-commit/commit/804c853d8f1b5692bbbeb221dcbcd59cea461118)Jan 21, 2025[804c853](/pre-commit/pre-commit/commit/804c853d8f1b5692bbbeb221dcbcd59cea461118) · Jan 21, 2025
+
+## History
+
+[2,733 Commits](/pre-commit/pre-commit/commits/main/)[](/pre-commit/pre-commit/commits/main/)  
+[.github](/pre-commit/pre-commit/tree/main/.github ".github")| [.github](/pre-commit/pre-commit/tree/main/.github ".github")| [install r on ubuntu runners](/pre-commit/pre-commit/commit/77edad8455e88b403e055d2692c9545085cf3edb "install r on ubuntu runners
+this was removed in ubuntu-24.04 github actions runner")| Dec 28, 2024  
+[pre_commit](/pre-commit/pre-commit/tree/main/pre_commit "pre_commit")| [pre_commit](/pre-commit/pre-commit/tree/main/pre_commit "pre_commit")| [fix: ensure env patch is applied for vanilla emulation](/pre-commit/pre-commit/commit/c2c061cf63e00a3ff8c88a9054c47e96a36f2daa "fix: ensure env patch is applied for vanilla emulation
+otherwise, installing the hooks when RENV_USER env variable is set \(e.g. in RStudio with renv project\) will result in executing the installation script in the wrong renv")| Jan 20, 2025  
+[testing](/pre-commit/pre-commit/tree/main/testing "testing")| [testing](/pre-commit/pre-commit/tree/main/testing "testing")| [remove unused type ignore](/pre-commit/pre-commit/commit/0de4c8028a95c1a7dfd57e772ec11ce3a71834cc "remove unused type ignore")| Oct 22, 2024  
+[tests](/pre-commit/pre-commit/tree/main/tests "tests")| [tests](/pre-commit/pre-commit/tree/main/tests "tests")| [fix: ensure env patch is applied for vanilla emulation](/pre-commit/pre-commit/commit/c2c061cf63e00a3ff8c88a9054c47e96a36f2daa "fix: ensure env patch is applied for vanilla emulation
+otherwise, installing the hooks when RENV_USER env variable is set \(e.g. in RStudio with renv project\) will result in executing the installation script in the wrong renv")| Jan 20, 2025  
+[.gitignore](/pre-commit/pre-commit/blob/main/.gitignore ".gitignore")| [.gitignore](/pre-commit/pre-commit/blob/main/.gitignore ".gitignore")| [remove unneeded gitignore lines](/pre-commit/pre-commit/commit/a85df8027b09bda436b4bba5154ae3bc474f6ceb "remove unneeded gitignore lines
+- coverage-html: coverage>=6.2 writes a .gitignore file
+- mypy_cache: mypy>=0.770 writes a .gitignore file
+- pytest_cache: pytest>=3.8.1 writes a .gitignore file
+- venv: virtualenv>=20.0.21 writes a .gitignore file
+Committed via https://github.com/asottile/all-repos")| Mar 14, 2022  
+[.pre-commit-config.yaml](/pre-commit/pre-commit/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/pre-commit/pre-commit/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [[pre-commit.ci] pre-commit autoupdate](/pre-commit/pre-commit/commit/edd0002e4312dc62fc8a236a3b4dc08d1012555d "\[pre-commit.ci\] pre-commit autoupdate
+updates:
+- \[github.com/hhatto/autopep8: v2.3.1 → v2.3.2\]\(https://github.com/hhatto/autopep8/compare/v2.3.1...v2.3.2\)")| Jan 21, 2025  
+[.pre-commit-hooks.yaml](/pre-commit/pre-commit/blob/main/.pre-commit-hooks.yaml ".pre-commit-hooks.yaml")| [.pre-commit-hooks.yaml](/pre-commit/pre-commit/blob/main/.pre-commit-hooks.yaml ".pre-commit-hooks.yaml")| [deprecate pre-commit-validate-{config,manifest}](/pre-commit/pre-commit/commit/777ffdd692b81db2432feccf8de16a6407a1d12a "deprecate pre-commit-validate-{config,manifest}")| Apr 25, 2022  
+[CHANGELOG.md](/pre-commit/pre-commit/blob/main/CHANGELOG.md "CHANGELOG.md")| [CHANGELOG.md](/pre-commit/pre-commit/blob/main/CHANGELOG.md "CHANGELOG.md")| [v4.1.0](/pre-commit/pre-commit/commit/b152e922ef11a97efe22ca7dc4f90011f0d1711c "v4.1.0")| Jan 20, 2025  
+[CONTRIBUTING.md](/pre-commit/pre-commit/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/pre-commit/pre-commit/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [fix typo in CONTRIBUTING.md](/pre-commit/pre-commit/commit/1803db979f86ab3e1df8194f40f0177413f0fbb3 "fix typo in CONTRIBUTING.md")| Aug 14, 2023  
+[LICENSE](/pre-commit/pre-commit/blob/main/LICENSE "LICENSE")| [LICENSE](/pre-commit/pre-commit/blob/main/LICENSE "LICENSE")| [MIT](/pre-commit/pre-commit/commit/5549eb6614b222ca66336e330f68700f26e0ad37 "MIT")| Jun 5, 2014  
+[README.md](/pre-commit/pre-commit/blob/main/README.md "README.md")| [README.md](/pre-commit/pre-commit/blob/main/README.md "README.md")| [azure pipelines -> github actions](/pre-commit/pre-commit/commit/887c5e1142ea9022407e85e7319bec3a403e1572 "azure pipelines -> github actions")| Dec 30, 2022  
+[requirements-dev.txt](/pre-commit/pre-commit/blob/main/requirements-dev.txt "requirements-dev.txt")| [requirements-dev.txt](/pre-commit/pre-commit/blob/main/requirements-dev.txt "requirements-dev.txt")| [always use #!/bin/sh on windows](/pre-commit/pre-commit/commit/e3dc3f7934b206a1de16dc6800f9ae02ee73dd11 "always use #!/bin/sh on windows")| Jan 5, 2022  
+[setup.cfg](/pre-commit/pre-commit/blob/main/setup.cfg "setup.cfg")| [setup.cfg](/pre-commit/pre-commit/blob/main/setup.cfg "setup.cfg")| [v4.1.0](/pre-commit/pre-commit/commit/b152e922ef11a97efe22ca7dc4f90011f0d1711c "v4.1.0")| Jan 20, 2025  
+[setup.py](/pre-commit/pre-commit/blob/main/setup.py "setup.py")| [setup.py](/pre-commit/pre-commit/blob/main/setup.py "setup.py")| [drop python 3.6 support](/pre-commit/pre-commit/commit/04de6a2e57ffed4660918f8f480eaf50f98e3c94 "drop python 3.6 support
+python 3.6 reached end of life on 2021-12-23")| Jan 19, 2022  
+[tox.ini](/pre-commit/pre-commit/blob/main/tox.ini "tox.ini")| [tox.ini](/pre-commit/pre-commit/blob/main/tox.ini "tox.ini")| [show 20 slowest durations in CI](/pre-commit/pre-commit/commit/8ab9747b339df5bfbf0b7ebb7ebd1885ad6baabd "show 20 slowest durations in CI")| Mar 9, 2023  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+[![build status](https://github.com/pre-commit/pre-commit/actions/workflows/main.yml/badge.svg)](https://github.com/pre-commit/pre-commit/actions/workflows/main.yml) [![pre-commit.ci status](https://camo.githubusercontent.com/05cfd6595997cfd039867b64feab707cd5917b54c5100d052fb0a25710f2bbce/68747470733a2f2f726573756c74732e7072652d636f6d6d69742e63692f62616467652f6769746875622f7072652d636f6d6d69742f7072652d636f6d6d69742f6d61696e2e737667)](https://results.pre-commit.ci/latest/github/pre-commit/pre-commit/main)
+
+## pre-commit
+
+[](#pre-commit)
+
+A framework for managing and maintaining multi-language pre-commit hooks.
+
+For more information see: <https://pre-commit.com/>
+
+## About
+
+A framework for managing and maintaining multi-language pre-commit hooks. 
+
+[pre-commit.com](https://pre-commit.com "https://pre-commit.com")
+
+### Topics
+
+[ refactoring ](/topics/refactoring "Topic: refactoring") [ python ](/topics/python "Topic: python") [ git ](/topics/git "Topic: git") [ linter ](/topics/linter "Topic: linter") [ pre-commit ](/topics/pre-commit "Topic: pre-commit")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/pre-commit/pre-commit/activity)
+
+[ Custom properties](/pre-commit/pre-commit/custom-properties)
+
+### Stars
+
+[ **13.3k** stars](/pre-commit/pre-commit/stargazers)
+
+### Watchers
+
+[ **91** watching](/pre-commit/pre-commit/watchers)
+
+### Forks
+
+[ **837** forks](/pre-commit/pre-commit/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fpre-commit%2Fpre-commit&report=pre-commit+%28user%29)
+
+##  [Releases 111](/pre-commit/pre-commit/releases)
+
+[ pre-commit v4.1.0 Latest  Jan 20, 2025 ](/pre-commit/pre-commit/releases/tag/v4.1.0)
+
+[+ 110 releases](/pre-commit/pre-commit/releases)
+
+## Sponsor this project
+
+  * [ ![@asottile](https://avatars.githubusercontent.com/u/1810591?s=64&v=4) ](/asottile) [ **asottile** Anthony Sottile ](/asottile) [ ](/sponsors/asottile)
+
+
+  * ![open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg) [opencollective.com/**pre-commit**](https://opencollective.com/pre-commit)
+  * ![tidelift](https://github.githubassets.com/assets/tidelift-8cea37dea8fc.svg) [tidelift.com/funding/github/**pypi/pre-commit**](https://tidelift.com/funding/github/pypi/pre-commit)
+
+
+
+[Learn more about GitHub Sponsors](/sponsors)
+
+##  [Packages 0](/orgs/pre-commit/packages?repo_name=pre-commit)
+
+No packages published 
+
+##  [Used by 212k](/pre-commit/pre-commit/network/dependents)
+
+[
+
+  * ![@Ad-closeNN](https://avatars.githubusercontent.com/u/103355026?s=64&v=4)
+  * ![@ironbars](https://avatars.githubusercontent.com/u/15959720?s=64&v=4)
+  * ![@videommmu](https://avatars.githubusercontent.com/u/196011024?s=64&v=4)
+  * ![@secureonelabs](https://avatars.githubusercontent.com/u/24754242?s=64&v=4)
+  * ![@secureonelabs](https://avatars.githubusercontent.com/u/24754242?s=64&v=4)
+  * ![@ravindub-xep](https://avatars.githubusercontent.com/u/180145577?s=64&v=4)
+  * ![@Uchiha-Itachi0](https://avatars.githubusercontent.com/u/86482181?s=64&v=4)
+  * ![@Tejas163](https://avatars.githubusercontent.com/u/32892292?s=64&v=4)
+
++ 211,846  ](/pre-commit/pre-commit/network/dependents)
+
+##  [Contributors 132](/pre-commit/pre-commit/graphs/contributors)
+
+  * [ ![@asottile](https://avatars.githubusercontent.com/u/1810591?s=64&v=4) ](https://github.com/asottile)
+  * [ ![@pre-commit-ci\[bot\]](https://avatars.githubusercontent.com/in/68672?s=64&v=4) ](https://github.com/apps/pre-commit-ci)
+  * [ ![@struys](https://avatars.githubusercontent.com/u/232692?s=64&v=4) ](https://github.com/struys)
+  * [ ![@geieredgar](https://avatars.githubusercontent.com/u/7457961?s=64&v=4) ](https://github.com/geieredgar)
+  * [ ![@lorenzwalthert](https://avatars.githubusercontent.com/u/10477073?s=64&v=4) ](https://github.com/lorenzwalthert)
+  * [ ![@chriskuehl](https://avatars.githubusercontent.com/u/665269?s=64&v=4) ](https://github.com/chriskuehl)
+  * [ ![@scop](https://avatars.githubusercontent.com/u/109152?s=64&v=4) ](https://github.com/scop)
+  * [ ![@DanielChabrowski](https://avatars.githubusercontent.com/u/10281628?s=64&v=4) ](https://github.com/DanielChabrowski)
+  * [ ![@georgeyk](https://avatars.githubusercontent.com/u/247603?s=64&v=4) ](https://github.com/georgeyk)
+  * [ ![@expobrain](https://avatars.githubusercontent.com/u/2404909?s=64&v=4) ](https://github.com/expobrain)
+  * [ ![@yoavcaspi](https://avatars.githubusercontent.com/u/13052962?s=64&v=4) ](https://github.com/yoavcaspi)
+  * [ ![@tdeo](https://avatars.githubusercontent.com/u/6230277?s=64&v=4) ](https://github.com/tdeo)
+  * [ ![@paulhfischer](https://avatars.githubusercontent.com/u/70564747?s=64&v=4) ](https://github.com/paulhfischer)
+  * [ ![@m-rsha](https://avatars.githubusercontent.com/u/46257533?s=64&v=4) ](https://github.com/m-rsha)
+
+
+
+[+ 118 contributors](/pre-commit/pre-commit/graphs/contributors)
+
+## Languages
+
+  * [ Python 97.3% ](/pre-commit/pre-commit/search?l=python)
+  * [ R 2.1% ](/pre-commit/pre-commit/search?l=r)
+  * [ Shell 0.5% ](/pre-commit/pre-commit/search?l=shell)
+  * [ Dockerfile 0.1% ](/pre-commit/pre-commit/search?l=dockerfile)
+  * [ Lua 0.0% ](/pre-commit/pre-commit/search?l=lua)
+  * [ Ruby 0.0% ](/pre-commit/pre-commit/search?l=ruby)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

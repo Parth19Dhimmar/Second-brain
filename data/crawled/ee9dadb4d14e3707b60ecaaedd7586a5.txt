@@ -1,0 +1,15 @@
+# Leaderboards and Benchmarks
+
+	- [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+	- [https://github.com/embeddings-benchmark/mteb/tree/main](https://github.com/embeddings-benchmark/mteb/tree/main)
+	-
+
+# Articles
+
+	- [Embeddings [by Open AI]](https://platform.openai.com/docs/guides/embeddings)
+	-
+
+# Tools
+
+	[https://github.com/qdrant/fastembed](https://github.com/qdrant/fastembed)
+	[https://github.com/UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)

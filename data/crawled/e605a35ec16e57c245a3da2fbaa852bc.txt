@@ -1,0 +1,637 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Ftext-generation-inference%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Ftext-generation-inference%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=huggingface%2Ftext-generation-inference) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ huggingface ](/huggingface) / **[text-generation-inference](/huggingface/text-generation-inference) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fhuggingface%2Ftext-generation-inference) You must be signed in to change notification settings
+  * [ Fork 1.1k ](/login?return_to=%2Fhuggingface%2Ftext-generation-inference)
+  * [ Star  9.6k ](/login?return_to=%2Fhuggingface%2Ftext-generation-inference)
+
+
+
+
+Large Language Model Text Generation Inference 
+
+[hf.co/docs/text-generation-inference](http://hf.co/docs/text-generation-inference "http://hf.co/docs/text-generation-inference")
+
+### License
+
+[ Apache-2.0 license ](/huggingface/text-generation-inference/blob/main/LICENSE)
+
+[ 9.6k stars ](/huggingface/text-generation-inference/stargazers) [ 1.1k forks ](/huggingface/text-generation-inference/forks) [ Branches ](/huggingface/text-generation-inference/branches) [ Tags ](/huggingface/text-generation-inference/tags) [ Activity ](/huggingface/text-generation-inference/activity)
+
+[ Star  ](/login?return_to=%2Fhuggingface%2Ftext-generation-inference)
+
+[ Notifications ](/login?return_to=%2Fhuggingface%2Ftext-generation-inference) You must be signed in to change notification settings
+
+  * [ Code ](/huggingface/text-generation-inference)
+  * [ Issues 180 ](/huggingface/text-generation-inference/issues)
+  * [ Pull requests 12 ](/huggingface/text-generation-inference/pulls)
+  * [ Discussions ](/huggingface/text-generation-inference/discussions)
+  * [ Actions ](/huggingface/text-generation-inference/actions)
+  * [ Security ](/huggingface/text-generation-inference/security)
+  * [ Insights ](/huggingface/text-generation-inference/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/huggingface/text-generation-inference)
+  * [ Issues  ](/huggingface/text-generation-inference/issues)
+  * [ Pull requests  ](/huggingface/text-generation-inference/pulls)
+  * [ Discussions  ](/huggingface/text-generation-inference/discussions)
+  * [ Actions  ](/huggingface/text-generation-inference/actions)
+  * [ Security  ](/huggingface/text-generation-inference/security)
+  * [ Insights  ](/huggingface/text-generation-inference/pulse)
+
+
+
+# huggingface/text-generation-inference
+
+main
+
+[**192** Branches](/huggingface/text-generation-inference/branches)[**52** Tags](/huggingface/text-generation-inference/tags)
+
+[](/huggingface/text-generation-inference/branches)[](/huggingface/text-generation-inference/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+## History
+
+[1,222 Commits](/huggingface/text-generation-inference/commits/main/)[](/huggingface/text-generation-inference/commits/main/)  
+[.github](/huggingface/text-generation-inference/tree/main/.github ".github")| [.github](/huggingface/text-generation-inference/tree/main/.github ".github")  
+[assets](/huggingface/text-generation-inference/tree/main/assets "assets")| [assets](/huggingface/text-generation-inference/tree/main/assets "assets")  
+[backends](/huggingface/text-generation-inference/tree/main/backends "backends")| [backends](/huggingface/text-generation-inference/tree/main/backends "backends")  
+[benchmark](/huggingface/text-generation-inference/tree/main/benchmark "benchmark")| [benchmark](/huggingface/text-generation-inference/tree/main/benchmark "benchmark")  
+[clients/python](/huggingface/text-generation-inference/tree/main/clients/python "This path skips through empty directories")| [clients/python](/huggingface/text-generation-inference/tree/main/clients/python "This path skips through empty directories")  
+[docs](/huggingface/text-generation-inference/tree/main/docs "docs")| [docs](/huggingface/text-generation-inference/tree/main/docs "docs")  
+[integration-tests](/huggingface/text-generation-inference/tree/main/integration-tests "integration-tests")| [integration-tests](/huggingface/text-generation-inference/tree/main/integration-tests "integration-tests")  
+[launcher](/huggingface/text-generation-inference/tree/main/launcher "launcher")| [launcher](/huggingface/text-generation-inference/tree/main/launcher "launcher")  
+[load_tests](/huggingface/text-generation-inference/tree/main/load_tests "load_tests")| [load_tests](/huggingface/text-generation-inference/tree/main/load_tests "load_tests")  
+[nix](/huggingface/text-generation-inference/tree/main/nix "nix")| [nix](/huggingface/text-generation-inference/tree/main/nix "nix")  
+[proto](/huggingface/text-generation-inference/tree/main/proto "proto")| [proto](/huggingface/text-generation-inference/tree/main/proto "proto")  
+[router](/huggingface/text-generation-inference/tree/main/router "router")| [router](/huggingface/text-generation-inference/tree/main/router "router")  
+[server](/huggingface/text-generation-inference/tree/main/server "server")| [server](/huggingface/text-generation-inference/tree/main/server "server")  
+[.dockerignore](/huggingface/text-generation-inference/blob/main/.dockerignore ".dockerignore")| [.dockerignore](/huggingface/text-generation-inference/blob/main/.dockerignore ".dockerignore")  
+[.gitignore](/huggingface/text-generation-inference/blob/main/.gitignore ".gitignore")| [.gitignore](/huggingface/text-generation-inference/blob/main/.gitignore ".gitignore")  
+[.pre-commit-config.yaml](/huggingface/text-generation-inference/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/huggingface/text-generation-inference/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")  
+[.redocly.lint-ignore.yaml](/huggingface/text-generation-inference/blob/main/.redocly.lint-ignore.yaml ".redocly.lint-ignore.yaml")| [.redocly.lint-ignore.yaml](/huggingface/text-generation-inference/blob/main/.redocly.lint-ignore.yaml ".redocly.lint-ignore.yaml")  
+[CODE_OF_CONDUCT.md](/huggingface/text-generation-inference/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/huggingface/text-generation-inference/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")  
+[CONTRIBUTING.md](/huggingface/text-generation-inference/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/huggingface/text-generation-inference/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")  
+[Cargo.lock](/huggingface/text-generation-inference/blob/main/Cargo.lock "Cargo.lock")| [Cargo.lock](/huggingface/text-generation-inference/blob/main/Cargo.lock "Cargo.lock")  
+[Cargo.toml](/huggingface/text-generation-inference/blob/main/Cargo.toml "Cargo.toml")| [Cargo.toml](/huggingface/text-generation-inference/blob/main/Cargo.toml "Cargo.toml")  
+[Dockerfile](/huggingface/text-generation-inference/blob/main/Dockerfile "Dockerfile")| [Dockerfile](/huggingface/text-generation-inference/blob/main/Dockerfile "Dockerfile")  
+[Dockerfile.nix](/huggingface/text-generation-inference/blob/main/Dockerfile.nix "Dockerfile.nix")| [Dockerfile.nix](/huggingface/text-generation-inference/blob/main/Dockerfile.nix "Dockerfile.nix")  
+[Dockerfile_amd](/huggingface/text-generation-inference/blob/main/Dockerfile_amd "Dockerfile_amd")| [Dockerfile_amd](/huggingface/text-generation-inference/blob/main/Dockerfile_amd "Dockerfile_amd")  
+[Dockerfile_intel](/huggingface/text-generation-inference/blob/main/Dockerfile_intel "Dockerfile_intel")| [Dockerfile_intel](/huggingface/text-generation-inference/blob/main/Dockerfile_intel "Dockerfile_intel")  
+[Dockerfile_trtllm](/huggingface/text-generation-inference/blob/main/Dockerfile_trtllm "Dockerfile_trtllm")| [Dockerfile_trtllm](/huggingface/text-generation-inference/blob/main/Dockerfile_trtllm "Dockerfile_trtllm")  
+[LICENSE](/huggingface/text-generation-inference/blob/main/LICENSE "LICENSE")| [LICENSE](/huggingface/text-generation-inference/blob/main/LICENSE "LICENSE")  
+[Makefile](/huggingface/text-generation-inference/blob/main/Makefile "Makefile")| [Makefile](/huggingface/text-generation-inference/blob/main/Makefile "Makefile")  
+[README.md](/huggingface/text-generation-inference/blob/main/README.md "README.md")| [README.md](/huggingface/text-generation-inference/blob/main/README.md "README.md")  
+[crate-hashes.json](/huggingface/text-generation-inference/blob/main/crate-hashes.json "crate-hashes.json")| [crate-hashes.json](/huggingface/text-generation-inference/blob/main/crate-hashes.json "crate-hashes.json")  
+[flake.lock](/huggingface/text-generation-inference/blob/main/flake.lock "flake.lock")| [flake.lock](/huggingface/text-generation-inference/blob/main/flake.lock "flake.lock")  
+[flake.nix](/huggingface/text-generation-inference/blob/main/flake.nix "flake.nix")| [flake.nix](/huggingface/text-generation-inference/blob/main/flake.nix "flake.nix")  
+[rust-toolchain.toml](/huggingface/text-generation-inference/blob/main/rust-toolchain.toml "rust-toolchain.toml")| [rust-toolchain.toml](/huggingface/text-generation-inference/blob/main/rust-toolchain.toml "rust-toolchain.toml")  
+[sagemaker-entrypoint.sh](/huggingface/text-generation-inference/blob/main/sagemaker-entrypoint.sh "sagemaker-entrypoint.sh")| [sagemaker-entrypoint.sh](/huggingface/text-generation-inference/blob/main/sagemaker-entrypoint.sh "sagemaker-entrypoint.sh")  
+[tgi-entrypoint.sh](/huggingface/text-generation-inference/blob/main/tgi-entrypoint.sh "tgi-entrypoint.sh")| [tgi-entrypoint.sh](/huggingface/text-generation-inference/blob/main/tgi-entrypoint.sh "tgi-entrypoint.sh")  
+[update_doc.py](/huggingface/text-generation-inference/blob/main/update_doc.py "update_doc.py")| [update_doc.py](/huggingface/text-generation-inference/blob/main/update_doc.py "update_doc.py")  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [Apache-2.0 license](#)
+
+
+
+[ ![Making TGI deployment optimal](https://camo.githubusercontent.com/816a23feff65e234bf4393d453a7b3c8d24092f8630c2ed131b8b500ddb16dc1/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f4e617273696c2f7467695f6173736574732f7265736f6c76652f6d61696e2f7468756d626e61696c2e706e67) ](https://www.youtube.com/watch?v=jlMAX2Oaht0)
+
+# Text Generation Inference
+
+[](#text-generation-inference)
+
+[ ![GitHub Repo stars](https://camo.githubusercontent.com/afaad1cd3eb9f616fa5f8764f047603f53587984b922c9198ec1ab2895d9aae1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f68756767696e67666163652f746578742d67656e65726174696f6e2d696e666572656e63653f7374796c653d736f6369616c) ](https://github.com/huggingface/text-generation-inference) [ ![Swagger API documentation](https://camo.githubusercontent.com/f0fe98e6afc151ec5523b758b023431bacb2de779486f7488953b503f5643b88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4150492d537761676765722d696e666f726d6174696f6e616c) ](https://huggingface.github.io/text-generation-inference)
+
+A Rust, Python and gRPC server for text generation inference. Used in production at [Hugging Face](https://huggingface.co) to power Hugging Chat, the Inference API and Inference Endpoint.
+
+## Table of contents
+
+[](#table-of-contents)
+
+  * [Get Started](#get-started)
+    * [Docker](#docker)
+    * [API documentation](#api-documentation)
+    * [Using a private or gated model](#using-a-private-or-gated-model)
+    * [A note on Shared Memory (shm)](#a-note-on-shared-memory-shm)
+    * [Distributed Tracing](#distributed-tracing)
+    * [Architecture](#architecture)
+    * [Local install](#local-install)
+    * [Local install (Nix)](#local-install-nix)
+  * [Optimized architectures](#optimized-architectures)
+  * [Run locally](#run-locally)
+    * [Run](#run)
+    * [Quantization](#quantization)
+  * [Develop](#develop)
+  * [Testing](#testing)
+
+
+
+Text Generation Inference (TGI) is a toolkit for deploying and serving Large Language Models (LLMs). TGI enables high-performance text generation for the most popular open-source LLMs, including Llama, Falcon, StarCoder, BLOOM, GPT-NeoX, and [more](https://huggingface.co/docs/text-generation-inference/supported_models). TGI implements many features, such as:
+
+  * Simple launcher to serve most popular LLMs
+  * Production ready (distributed tracing with Open Telemetry, Prometheus metrics)
+  * Tensor Parallelism for faster inference on multiple GPUs
+  * Token streaming using Server-Sent Events (SSE)
+  * Continuous batching of incoming requests for increased total throughput
+  * [Messages API](https://huggingface.co/docs/text-generation-inference/en/messages_api) compatible with Open AI Chat Completion API
+  * Optimized transformers code for inference using [Flash Attention](https://github.com/HazyResearch/flash-attention) and [Paged Attention](https://github.com/vllm-project/vllm) on the most popular architectures
+  * Quantization with : 
+    * [bitsandbytes](https://github.com/TimDettmers/bitsandbytes)
+    * [GPT-Q](https://arxiv.org/abs/2210.17323)
+    * [EETQ](https://github.com/NetEase-FuXi/EETQ)
+    * [AWQ](https://github.com/casper-hansen/AutoAWQ)
+    * [Marlin](https://github.com/IST-DASLab/marlin)
+    * [fp8](https://developer.nvidia.com/blog/nvidia-arm-and-intel-publish-fp8-specification-for-standardization-as-an-interchange-format-for-ai/)
+  * [Safetensors](https://github.com/huggingface/safetensors) weight loading
+  * Watermarking with [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
+  * Logits warper (temperature scaling, top-p, top-k, repetition penalty, more details see [transformers.LogitsProcessor](https://huggingface.co/docs/transformers/internal/generation_utils#transformers.LogitsProcessor))
+  * Stop sequences
+  * Log probabilities
+  * [Speculation](https://huggingface.co/docs/text-generation-inference/conceptual/speculation) ~2x latency
+  * [Guidance/JSON](https://huggingface.co/docs/text-generation-inference/conceptual/guidance). Specify output format to speed up inference and make sure the output is valid according to some specs..
+  * Custom Prompt Generation: Easily generate text by providing custom prompts to guide the model's output
+  * Fine-tuning Support: Utilize fine-tuned models for specific tasks to achieve higher accuracy and performance
+
+
+
+### Hardware support
+
+[](#hardware-support)
+
+  * [Nvidia](https://github.com/huggingface/text-generation-inference/pkgs/container/text-generation-inference)
+  * [AMD](https://github.com/huggingface/text-generation-inference/pkgs/container/text-generation-inference) (-rocm)
+  * [Inferentia](https://github.com/huggingface/optimum-neuron/tree/main/text-generation-inference)
+  * [Intel GPU](https://github.com/huggingface/text-generation-inference/pull/1475)
+  * [Gaudi](https://github.com/huggingface/tgi-gaudi)
+  * [Google TPU](https://huggingface.co/docs/optimum-tpu/howto/serving)
+
+
+
+## Get Started
+
+[](#get-started)
+
+### Docker
+
+[](#docker)
+
+For a detailed starting guide, please see the [Quick Tour](https://huggingface.co/docs/text-generation-inference/quicktour). The easiest way of getting started is using the official Docker container:
+
+```
+model=HuggingFaceH4/zephyr-7b-beta # share a volume with the Docker container to avoid downloading weights every run volume=$PWD/data docker run --gpus all --shm-size 1g -p 8080:80 -v $volume:/data \ ghcr.io/huggingface/text-generation-inference:3.0.0 --model-id $model
+```
+
+And then you can make requests like
+
+```
+curl 127.0.0.1:8080/generate_stream \ -X POST \ -d '{"inputs":"What is Deep Learning?","parameters":{"max_new_tokens":20}}' \ -H 'Content-Type: application/json'
+```
+
+You can also use [TGI's Messages API](https://huggingface.co/docs/text-generation-inference/en/messages_api) to obtain Open AI Chat Completion API compatible responses.
+
+```
+curl localhost:8080/v1/chat/completions \ -X POST \ -d '{ "model": "tgi", "messages": [ { "role": "system", "content": "You are a helpful assistant." }, { "role": "user", "content": "What is deep learning?" } ], "stream": true, "max_tokens": 20 }' \ -H 'Content-Type: application/json'
+```
+
+**Note:** To use NVIDIA GPUs, you need to install the [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html). We also recommend using NVIDIA drivers with CUDA version 12.2 or higher. For running the Docker container on a machine with no GPUs or CUDA support, it is enough to remove the `--gpus all` flag and add `--disable-custom-kernels`, please note CPU is not the intended platform for this project, so performance might be subpar.
+
+**Note:** TGI supports AMD Instinct MI210 and MI250 GPUs. Details can be found in the [Supported Hardware documentation](https://huggingface.co/docs/text-generation-inference/installation_amd#using-tgi-with-amd-gpus). To use AMD GPUs, please use `docker run --device /dev/kfd --device /dev/dri --shm-size 1g -p 8080:80 -v $volume:/data ghcr.io/huggingface/text-generation-inference:3.0.0-rocm --model-id $model` instead of the command above.
+
+To see all options to serve your models (in the [code](https://github.com/huggingface/text-generation-inference/blob/main/launcher/src/main.rs) or in the cli):
+
+```
+`text-generation-launcher --help `
+```
+
+### API documentation
+
+[](#api-documentation)
+
+You can consult the OpenAPI documentation of the `text-generation-inference` REST API using the `/docs` route. The Swagger UI is also available at: <https://huggingface.github.io/text-generation-inference>.
+
+### Using a private or gated model
+
+[](#using-a-private-or-gated-model)
+
+You have the option to utilize the `HF_TOKEN` environment variable for configuring the token employed by `text-generation-inference`. This allows you to gain access to protected resources.
+
+For example, if you want to serve the gated Llama V2 model variants:
+
+  1. Go to <https://huggingface.co/settings/tokens>
+  2. Copy your CLI READ token
+  3. Export `HF_TOKEN=<your CLI READ token>`
+
+
+
+or with Docker:
+
+```
+model=meta-llama/Meta-Llama-3.1-8B-Instruct volume=$PWD/data # share a volume with the Docker container to avoid downloading weights every run token=<your cli READ token> docker run --gpus all --shm-size 1g -e HF_TOKEN=$token -p 8080:80 -v $volume:/data \ ghcr.io/huggingface/text-generation-inference:3.0.0 --model-id $model
+```
+
+### A note on Shared Memory (shm)
+
+[](#a-note-on-shared-memory-shm)
+
+[`NCCL`](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html) is a communication framework used by `PyTorch` to do distributed training/inference. `text-generation-inference` makes use of `NCCL` to enable Tensor Parallelism to dramatically speed up inference for large language models.
+
+In order to share data between the different devices of a `NCCL` group, `NCCL` might fall back to using the host memory if peer-to-peer using NVLink or PCI is not possible.
+
+To allow the container to use 1G of Shared Memory and support SHM sharing, we add `--shm-size 1g` on the above command.
+
+If you are running `text-generation-inference` inside `Kubernetes`. You can also add Shared Memory to the container by creating a volume with:
+
+```
+- name: shm emptyDir: medium: Memory sizeLimit: 1Gi
+```
+
+and mounting it to `/dev/shm`.
+
+Finally, you can also disable SHM sharing by using the `NCCL_SHM_DISABLE=1` environment variable. However, note that this will impact performance.
+
+### Distributed Tracing
+
+[](#distributed-tracing)
+
+`text-generation-inference` is instrumented with distributed tracing using OpenTelemetry. You can use this feature by setting the address to an OTLP collector with the `--otlp-endpoint` argument. The default service name can be overridden with the `--otlp-service-name` argument
+
+### Architecture
+
+[](#architecture)
+
+[![TGI architecture](https://camo.githubusercontent.com/865b15b83e926b08c3ce2ad186519ad520bce2241b89095edcf7416d2be91aba/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f5447492e706e67)](https://camo.githubusercontent.com/865b15b83e926b08c3ce2ad186519ad520bce2241b89095edcf7416d2be91aba/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f5447492e706e67)
+
+Detailed blogpost by Adyen on TGI inner workings: [LLM inference at scale with TGI (Martin Iglesias Goyanes - Adyen, 2024)](https://www.adyen.com/knowledge-hub/llm-inference-at-scale-with-tgi)
+
+### Local install
+
+[](#local-install)
+
+You can also opt to install `text-generation-inference` locally.
+
+First clone the repository and change directory into it:
+
+```
+git clone https://github.com/huggingface/text-generation-inference cd text-generation-inference
+```
+
+Then [install Rust](https://rustup.rs/) and create a Python virtual environment with at least Python 3.9, e.g. using `conda` or `python venv`:
+
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh #using conda conda create -n text-generation-inference python=3.11 conda activate text-generation-inference #using python venv python3 -m venv .venv source .venv/bin/activate
+```
+
+You may also need to install Protoc.
+
+On Linux:
+
+```
+PROTOC_ZIP=protoc-21.12-linux-x86_64.zip curl -OL https://github.com/protocolbuffers/protobuf/releases/download/v21.12/$PROTOC_ZIP sudo unzip -o $PROTOC_ZIP -d /usr/local bin/protoc sudo unzip -o $PROTOC_ZIP -d /usr/local 'include/*' rm -f $PROTOC_ZIP
+```
+
+On MacOS, using Homebrew:
+
+```
+brew install protobuf
+```
+
+Then run:
+
+```
+BUILD_EXTENSIONS=True make install # Install repository and HF/transformer fork with CUDA kernels text-generation-launcher --model-id mistralai/Mistral-7B-Instruct-v0.2
+```
+
+**Note:** on some machines, you may also need the OpenSSL libraries and gcc. On Linux machines, run:
+
+```
+sudo apt-get install libssl-dev gcc -y
+```
+
+### Local install (Nix)
+
+[](#local-install-nix)
+
+Another option is to install `text-generation-inference` locally using [Nix](https://nixos.org). Currently, we only support Nix on x86_64 Linux with CUDA GPUs. When using Nix, all dependencies can be pulled from a binary cache, removing the need to build them locally.
+
+First follow the instructions to [install Cachix and enable the TGI cache](https://app.cachix.org/cache/text-generation-inference). Setting up the cache is important, otherwise Nix will build many of the dependencies locally, which can take hours.
+
+After that you can run TGI with `nix run`:
+
+```
+nix run . -- --model-id meta-llama/Llama-3.1-8B-Instruct
+```
+
+**Note:** when you are using Nix on a non-NixOS system, you have to [make some symlinks](https://danieldk.eu/Nix-CUDA-on-non-NixOS-systems#make-runopengl-driverlib-and-symlink-the-driver-library) to make the CUDA driver libraries visible to Nix packages.
+
+For TGI development, you can use the `impure` dev shell:
+
+```
+nix develop .#impure # Only needed the first time the devshell is started or after updating the protobuf. ( cd server mkdir text_generation_server/pb || true python -m grpc_tools.protoc -I../proto/v3 --python_out=text_generation_server/pb \ --grpc_python_out=text_generation_server/pb --mypy_out=text_generation_server/pb ../proto/v3/generate.proto find text_generation_server/pb/ -type f -name "*.py" -print0 -exec sed -i -e 's/^\\(import.*pb2\\)/from . \1/g' {} \; touch text_generation_server/pb/__init__.py )
+```
+
+All development dependencies (cargo, Python, Torch), etc. are available in this dev shell.
+
+## Optimized architectures
+
+[](#optimized-architectures)
+
+TGI works out of the box to serve optimized models for all modern models. They can be found in [this list](https://huggingface.co/docs/text-generation-inference/supported_models).
+
+Other architectures are supported on a best-effort basis using:
+
+`AutoModelForCausalLM.from_pretrained(<model>, device_map="auto")`
+
+or
+
+`AutoModelForSeq2SeqLM.from_pretrained(<model>, device_map="auto")`
+
+## Run locally
+
+[](#run-locally)
+
+### Run
+
+[](#run)
+
+```
+text-generation-launcher --model-id mistralai/Mistral-7B-Instruct-v0.2
+```
+
+### Quantization
+
+[](#quantization)
+
+You can also run pre-quantized weights (AWQ, GPTQ, Marlin) or on-the-fly quantize weights with bitsandbytes, EETQ, fp8, to reduce the VRAM requirement:
+
+```
+text-generation-launcher --model-id mistralai/Mistral-7B-Instruct-v0.2 --quantize
+```
+
+4bit quantization is available using the [NF4 and FP4 data types from bitsandbytes](https://arxiv.org/pdf/2305.14314.pdf). It can be enabled by providing `--quantize bitsandbytes-nf4` or `--quantize bitsandbytes-fp4` as a command line argument to `text-generation-launcher`.
+
+Read more about quantization in the [Quantization documentation](https://huggingface.co/docs/text-generation-inference/en/conceptual/quantization).
+
+## Develop
+
+[](#develop)
+
+```
+make server-dev make router-dev
+```
+
+## Testing
+
+[](#testing)
+
+```
+# python make python-server-tests make python-client-tests # or both server and client tests make python-tests # rust cargo tests make rust-tests # integration tests make integration-tests
+```
+
+## About
+
+Large Language Model Text Generation Inference 
+
+[hf.co/docs/text-generation-inference](http://hf.co/docs/text-generation-inference "http://hf.co/docs/text-generation-inference")
+
+### Topics
+
+[ nlp ](/topics/nlp "Topic: nlp") [ bloom ](/topics/bloom "Topic: bloom") [ deep-learning ](/topics/deep-learning "Topic: deep-learning") [ inference ](/topics/inference "Topic: inference") [ pytorch ](/topics/pytorch "Topic: pytorch") [ falcon ](/topics/falcon "Topic: falcon") [ transformer ](/topics/transformer "Topic: transformer") [ gpt ](/topics/gpt "Topic: gpt") [ starcoder ](/topics/starcoder "Topic: starcoder")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+[ Activity](/huggingface/text-generation-inference/activity)
+
+[ Custom properties](/huggingface/text-generation-inference/custom-properties)
+
+### Stars
+
+[ **9.6k** stars](/huggingface/text-generation-inference/stargazers)
+
+### Watchers
+
+[ **105** watching](/huggingface/text-generation-inference/watchers)
+
+### Forks
+
+[ **1.1k** forks](/huggingface/text-generation-inference/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhuggingface%2Ftext-generation-inference&report=huggingface+%28user%29)
+
+##  [Releases 52](/huggingface/text-generation-inference/releases)
+
+[ v3.0.1 Latest  Dec 11, 2024 ](/huggingface/text-generation-inference/releases/tag/v3.0.1)
+
+[+ 51 releases](/huggingface/text-generation-inference/releases)
+
+##  [Packages 1](/orgs/huggingface/packages?repo_name=text-generation-inference)
+
+  * [ text-generation-inference ](/orgs/huggingface/packages/container/package/text-generation-inference)
+
+
+
+##  [Contributors 152](/huggingface/text-generation-inference/graphs/contributors)
+
+  * [ ![@OlivierDehaene](https://avatars.githubusercontent.com/u/23298448?s=64&v=4) ](https://github.com/OlivierDehaene)
+  * [ ![@Narsil](https://avatars.githubusercontent.com/u/204321?s=64&v=4) ](https://github.com/Narsil)
+  * [ ![@danieldk](https://avatars.githubusercontent.com/u/49398?s=64&v=4) ](https://github.com/danieldk)
+  * [ ![@drbh](https://avatars.githubusercontent.com/u/9896130?s=64&v=4) ](https://github.com/drbh)
+  * [ ![@sywangyi](https://avatars.githubusercontent.com/u/36058628?s=64&v=4) ](https://github.com/sywangyi)
+  * [ ![@osanseviero](https://avatars.githubusercontent.com/u/7246357?s=64&v=4) ](https://github.com/osanseviero)
+  * [ ![@fxmarty](https://avatars.githubusercontent.com/u/9808326?s=64&v=4) ](https://github.com/fxmarty)
+  * [ ![@njhill](https://avatars.githubusercontent.com/u/16958488?s=64&v=4) ](https://github.com/njhill)
+  * [ ![@merveenoyan](https://avatars.githubusercontent.com/u/53175384?s=64&v=4) ](https://github.com/merveenoyan)
+  * [ ![@Wauplin](https://avatars.githubusercontent.com/u/11801849?s=64&v=4) ](https://github.com/Wauplin)
+  * [ ![@mfuntowicz](https://avatars.githubusercontent.com/u/2241520?s=64&v=4) ](https://github.com/mfuntowicz)
+  * [ ![@ErikKaum](https://avatars.githubusercontent.com/u/24875419?s=64&v=4) ](https://github.com/ErikKaum)
+  * [ ![@oOraph](https://avatars.githubusercontent.com/u/13552058?s=64&v=4) ](https://github.com/oOraph)
+  * [ ![@mht-sharma](https://avatars.githubusercontent.com/u/21088122?s=64&v=4) ](https://github.com/mht-sharma)
+
+
+
+[+ 138 contributors](/huggingface/text-generation-inference/graphs/contributors)
+
+## Languages
+
+  * [ Python 70.5% ](/huggingface/text-generation-inference/search?l=python)
+  * [ Rust 22.2% ](/huggingface/text-generation-inference/search?l=rust)
+  * [ Cuda 4.6% ](/huggingface/text-generation-inference/search?l=cuda)
+  * [ C++ 1.3% ](/huggingface/text-generation-inference/search?l=c%2B%2B)
+  * [ Nix 0.4% ](/huggingface/text-generation-inference/search?l=nix)
+  * [ Dockerfile 0.3% ](/huggingface/text-generation-inference/search?l=dockerfile)
+  * Other 0.7%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

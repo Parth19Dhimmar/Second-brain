@@ -1,0 +1,59 @@
+{
+    "id": "d11aac69fad11a30bbdbf560ba4d32ad",
+    "metadata": {
+        "id": "d11aac69fad11a30bbdbf560ba4d32ad",
+        "url": "https://python.langchain.com/docs/modules/data_connection/retrievers/self_query/",
+        "title": "🦜️🔗 LangChain",
+        "properties": {
+            "description": null,
+            "keywords": null,
+            "author": null,
+            "og:image": "https://python.langchain.com/img/brand/theme-image.png",
+            "og:locale": "en",
+            "og:title": "🦜️🔗 LangChain",
+            "og:url": "https://python.langchain.com/docs/modules/data_connection/retrievers/self_query/",
+            "twitter:card": "summary_large_image",
+            "twitter:image": "https://python.langchain.com/img/brand/theme-image.png"
+        }
+    },
+    "parent_metadata": {
+        "id": "ccff9ababe1d3b50674b49297830c5bd",
+        "url": "https://www.notion.so/RAG-ccff9ababe1d3b50674b49297830c5bd",
+        "title": "RAG",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ]
+        }
+    },
+    "content": "[Skip to main content](#__docusaurus_skipToContent_fallback)\n\n[![🦜️🔗 LangChain](/img/brand/wordmark.png)](/)[Integrations](/docs/integrations/providers/)[API Reference](https://python.langchain.com/api_reference/)\n\n[More](#)\n\n  * [Contributing](/docs/contributing/)\n  * [People](/docs/people/)\n  * [Error reference](/docs/troubleshooting/errors/)\n  * [LangSmith](https://docs.smith.langchain.com)\n  * [LangGraph](https://langchain-ai.github.io/langgraph/)\n  * [LangChain Hub](https://smith.langchain.com/hub)\n  * [LangChain JS/TS](https://js.langchain.com)\n\n\n\n[v0.3](#)\n\n  * [v0.3](/docs/introduction/)\n  * [v0.2](https://python.langchain.com/v0.2/docs/introduction)\n  * [v0.1](https://python.langchain.com/v0.1/docs/get_started/introduction)\n\n\n\n[💬](https://chat.langchain.com)[](https://github.com/langchain-ai/langchain)\n\nSearch`⌘``K`\n\n# Page Moved\n\n### You can find the new location [here](/docs/how_to/self_query/).\n\nAlternative pages\n\n  * [/v0.1/docs/modules/data_connection/retrievers/self_query/](/v0.1/docs/modules/data_connection/retrievers/self_query/) LEGACY\n\n\n\nPlease contact the owner of the site that linked you to the original URL and let them know their link has moved.\n\nCommunity\n\n  * [Twitter](https://twitter.com/LangChainAI)\n\n\n\nGitHub\n\n  * [Organization](https://github.com/langchain-ai)\n  * [Python](https://github.com/langchain-ai/langchain)\n  * [JS/TS](https://github.com/langchain-ai/langchainjs)\n\n\n\nMore\n\n  * [Homepage](https://langchain.com)\n  * [Blog](https://blog.langchain.dev)\n  * [YouTube](https://www.youtube.com/@LangChain)\n\n\n\nCopyright © 2025 LangChain, Inc.\n",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://python.langchain.com/docs/modules/data_connection/retrievers/self_query/#__docusaurus_skipToContent_fallback",
+        "https://python.langchain.com/",
+        "https://python.langchain.com/docs/integrations/providers/",
+        "https://python.langchain.com/api_reference/",
+        "https://python.langchain.com/docs/modules/data_connection/retrievers/self_query/",
+        "https://python.langchain.com/docs/contributing/",
+        "https://python.langchain.com/docs/people/",
+        "https://python.langchain.com/docs/troubleshooting/errors/",
+        "https://python.langchain.com/docs/introduction/",
+        "https://python.langchain.com/v0.2/docs/introduction",
+        "https://python.langchain.com/v0.1/docs/get_started/introduction",
+        "https://python.langchain.com/docs/how_to/self_query/",
+        "https://python.langchain.com/v0.1/docs/modules/data_connection/retrievers/self_query/",
+        "https://docs.smith.langchain.com",
+        "https://langchain-ai.github.io/langgraph/",
+        "https://smith.langchain.com/hub",
+        "https://js.langchain.com",
+        "https://chat.langchain.com",
+        "https://github.com/langchain-ai/langchain",
+        "https://twitter.com/LangChainAI",
+        "https://github.com/langchain-ai",
+        "https://github.com/langchain-ai/langchainjs",
+        "https://langchain.com",
+        "https://blog.langchain.dev",
+        "https://www.youtube.com/@LangChain"
+    ]
+}

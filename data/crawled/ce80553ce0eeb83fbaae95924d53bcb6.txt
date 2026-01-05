@@ -1,0 +1,742 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FNVIDIA%2Fnv-ingest%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FNVIDIA%2Fnv-ingest%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=NVIDIA%2Fnv-ingest) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ NVIDIA ](/NVIDIA) / **[nv-ingest](/NVIDIA/nv-ingest) ** Public
+
+  * [ Notifications ](/login?return_to=%2FNVIDIA%2Fnv-ingest) You must be signed in to change notification settings
+  * [ Fork 192 ](/login?return_to=%2FNVIDIA%2Fnv-ingest)
+  * [ Star  2.3k ](/login?return_to=%2FNVIDIA%2Fnv-ingest)
+
+
+
+
+NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems. 
+
+### License
+
+[ Apache-2.0 license ](/NVIDIA/nv-ingest/blob/main/LICENSE)
+
+[ 2.3k stars ](/NVIDIA/nv-ingest/stargazers) [ 192 forks ](/NVIDIA/nv-ingest/forks) [ Branches ](/NVIDIA/nv-ingest/branches) [ Tags ](/NVIDIA/nv-ingest/tags) [ Activity ](/NVIDIA/nv-ingest/activity)
+
+[ Star  ](/login?return_to=%2FNVIDIA%2Fnv-ingest)
+
+[ Notifications ](/login?return_to=%2FNVIDIA%2Fnv-ingest) You must be signed in to change notification settings
+
+  * [ Code ](/NVIDIA/nv-ingest)
+  * [ Issues 63 ](/NVIDIA/nv-ingest/issues)
+  * [ Pull requests 11 ](/NVIDIA/nv-ingest/pulls)
+  * [ Discussions ](/NVIDIA/nv-ingest/discussions)
+  * [ Actions ](/NVIDIA/nv-ingest/actions)
+  * [ Projects 0 ](/NVIDIA/nv-ingest/projects)
+  * [ Security ](/NVIDIA/nv-ingest/security)
+  * [ Insights ](/NVIDIA/nv-ingest/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/NVIDIA/nv-ingest)
+  * [ Issues  ](/NVIDIA/nv-ingest/issues)
+  * [ Pull requests  ](/NVIDIA/nv-ingest/pulls)
+  * [ Discussions  ](/NVIDIA/nv-ingest/discussions)
+  * [ Actions  ](/NVIDIA/nv-ingest/actions)
+  * [ Projects  ](/NVIDIA/nv-ingest/projects)
+  * [ Security  ](/NVIDIA/nv-ingest/security)
+  * [ Insights  ](/NVIDIA/nv-ingest/pulse)
+
+
+
+# NVIDIA/nv-ingest
+
+main
+
+[**25** Branches](/NVIDIA/nv-ingest/branches)[**2** Tags](/NVIDIA/nv-ingest/tags)
+
+[](/NVIDIA/nv-ingest/branches)[](/NVIDIA/nv-ingest/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![drobison00](https://avatars.githubusercontent.com/u/5256797?v=4&size=40)](/drobison00)[drobison00](/NVIDIA/nv-ingest/commits?author=drobison00)[Update embed_extractions so that we no longer silently fail on embedd…](/NVIDIA/nv-ingest/commit/e3d08fdd7eb7d884ec302a3502f3cbf131576910)Jan 21, 2025[e3d08fd](/NVIDIA/nv-ingest/commit/e3d08fdd7eb7d884ec302a3502f3cbf131576910) · Jan 21, 2025
+
+## History
+
+[226 Commits](/NVIDIA/nv-ingest/commits/main/)[](/NVIDIA/nv-ingest/commits/main/)  
+[.devcontainer](/NVIDIA/nv-ingest/tree/main/.devcontainer ".devcontainer")| [.devcontainer](/NVIDIA/nv-ingest/tree/main/.devcontainer ".devcontainer")| [Upgrade to Pydantic2 (](/NVIDIA/nv-ingest/commit/04aa2802094a9ee563b45db35b7b11a453548363 "Upgrade to Pydantic2 \(#291\)
+Co-authored-by: edknv <edwardk@nvidia.com>
+Co-authored-by: Edward Kim <109497216+edknv@users.noreply.github.com>")[#291](https://github.com/NVIDIA/nv-ingest/pull/291)[)](/NVIDIA/nv-ingest/commit/04aa2802094a9ee563b45db35b7b11a453548363 "Upgrade to Pydantic2 \(#291\)
+Co-authored-by: edknv <edwardk@nvidia.com>
+Co-authored-by: Edward Kim <109497216+edknv@users.noreply.github.com>")| Jan 7, 2025  
+[.github](/NVIDIA/nv-ingest/tree/main/.github ".github")| [.github](/NVIDIA/nv-ingest/tree/main/.github ".github")| [Build nv-ingest docs with CI (](/NVIDIA/nv-ingest/commit/38ff6ea9e9701fd88e78a71fc520c9e3509739d8 "Build nv-ingest docs with CI \(#338\)")[#338](https://github.com/NVIDIA/nv-ingest/pull/338)[)](/NVIDIA/nv-ingest/commit/38ff6ea9e9701fd88e78a71fc520c9e3509739d8 "Build nv-ingest docs with CI \(#338\)")| Jan 17, 2025  
+[ci](/NVIDIA/nv-ingest/tree/main/ci "ci")| [ci](/NVIDIA/nv-ingest/tree/main/ci "ci")| [add flake8 to pre-commit (](/NVIDIA/nv-ingest/commit/362a63f57c0db204bfce01f626088edf93c10cee "add flake8 to pre-commit \(#276\)
+Co-authored-by: Jeremy Dyer <jdye64@gmail.com>")[#276](https://github.com/NVIDIA/nv-ingest/pull/276)[)](/NVIDIA/nv-ingest/commit/362a63f57c0db204bfce01f626088edf93c10cee "add flake8 to pre-commit \(#276\)
+Co-authored-by: Jeremy Dyer <jdye64@gmail.com>")| Dec 13, 2024  
+[client](/NVIDIA/nv-ingest/tree/main/client "client")| [client](/NVIDIA/nv-ingest/tree/main/client "client")| [Introduce a "Convert" endpoint for directly handling HTTP fileupload …](/NVIDIA/nv-ingest/commit/0e44b01ca2f624991a2be1edaa70d5dd0cfefc5a "Introduce a "Convert" endpoint for directly handling HTTP fileupload documents \(#313\)
+Co-authored-by: Julio Perez <jperez@nvidia.com>
+Co-authored-by: Julio Perez <37191411+jperez999@users.noreply.github.com>
+Co-authored-by: Devin Robison <drobison00@users.noreply.github.com>
+Co-authored-by: tmonty12 <tjmontfort12@gmail.com>")| Jan 17, 2025  
+[conda](/NVIDIA/nv-ingest/tree/main/conda "conda")| [conda](/NVIDIA/nv-ingest/tree/main/conda "conda")| [Remove duplicative date from conda package (](/NVIDIA/nv-ingest/commit/e5ebd3f0c66dd322b4190b27e64697da7c6cfbcc "Remove duplicative date from conda package \(#349\)")[#349](https://github.com/NVIDIA/nv-ingest/pull/349)[)](/NVIDIA/nv-ingest/commit/e5ebd3f0c66dd322b4190b27e64697da7c6cfbcc "Remove duplicative date from conda package \(#349\)")| Jan 18, 2025  
+[config](/NVIDIA/nv-ingest/tree/main/config "config")| [config](/NVIDIA/nv-ingest/tree/main/config "config")| [Add missing receivers configuration for http protocol (](/NVIDIA/nv-ingest/commit/0f4a869df59708aaef5e9878e8a598343b32341d "Add missing receivers configuration for http protocol \(#298\)")[#298](https://github.com/NVIDIA/nv-ingest/pull/298)[)](/NVIDIA/nv-ingest/commit/0f4a869df59708aaef5e9878e8a598343b32341d "Add missing receivers configuration for http protocol \(#298\)")| Dec 18, 2024  
+[data](/NVIDIA/nv-ingest/tree/main/data "data")| [data](/NVIDIA/nv-ingest/tree/main/data "data")| [Initial commit](/NVIDIA/nv-ingest/commit/87950ff449b89274676c49ab6b2fad05dcd724a4 "Initial commit")| Aug 27, 2024  
+[deploy](/NVIDIA/nv-ingest/tree/main/deploy "deploy")| [deploy](/NVIDIA/nv-ingest/tree/main/deploy "deploy")| [Pin brev notebook to a known working commit until release time (](/NVIDIA/nv-ingest/commit/3ab0bc581882c052bf0232908d0c16e944e1626f "Pin brev notebook to a known working commit until release time \(#306\)")[#306](https://github.com/NVIDIA/nv-ingest/pull/306)[)](/NVIDIA/nv-ingest/commit/3ab0bc581882c052bf0232908d0c16e944e1626f "Pin brev notebook to a known working commit until release time \(#306\)")| Dec 19, 2024  
+[docker/scripts](/NVIDIA/nv-ingest/tree/main/docker/scripts "This path skips through empty directories")| [docker/scripts](/NVIDIA/nv-ingest/tree/main/docker/scripts "This path skips through empty directories")| [Upgrade to Pydantic2 (](/NVIDIA/nv-ingest/commit/04aa2802094a9ee563b45db35b7b11a453548363 "Upgrade to Pydantic2 \(#291\)
+Co-authored-by: edknv <edwardk@nvidia.com>
+Co-authored-by: Edward Kim <109497216+edknv@users.noreply.github.com>")[#291](https://github.com/NVIDIA/nv-ingest/pull/291)[)](/NVIDIA/nv-ingest/commit/04aa2802094a9ee563b45db35b7b11a453548363 "Upgrade to Pydantic2 \(#291\)
+Co-authored-by: edknv <edwardk@nvidia.com>
+Co-authored-by: Edward Kim <109497216+edknv@users.noreply.github.com>")| Jan 7, 2025  
+[docs-temp](/NVIDIA/nv-ingest/tree/main/docs-temp "docs-temp")| [docs-temp](/NVIDIA/nv-ingest/tree/main/docs-temp "docs-temp")| [Sohail/re-org docs (](/NVIDIA/nv-ingest/commit/1a55a8ad35f95f2a2248412c7c2aed927c356a12 "Sohail/re-org docs \(#284\)")[#284](https://github.com/NVIDIA/nv-ingest/pull/284)[)](/NVIDIA/nv-ingest/commit/1a55a8ad35f95f2a2248412c7c2aed927c356a12 "Sohail/re-org docs \(#284\)")| Dec 17, 2024  
+[docs](/NVIDIA/nv-ingest/tree/main/docs "docs")| [docs](/NVIDIA/nv-ingest/tree/main/docs "docs")| [Docs: Kubernetes page: fix broken code block (](/NVIDIA/nv-ingest/commit/a3d3e9bb1ac8ea5257b22605190f705fee7d0df8 "Docs: Kubernetes page: fix broken code block \(#340\)")[#340](https://github.com/NVIDIA/nv-ingest/pull/340)[)](/NVIDIA/nv-ingest/commit/a3d3e9bb1ac8ea5257b22605190f705fee7d0df8 "Docs: Kubernetes page: fix broken code block \(#340\)")| Jan 17, 2025  
+[examples](/NVIDIA/nv-ingest/tree/main/examples "examples")| [examples](/NVIDIA/nv-ingest/tree/main/examples "examples")| [Update pipeline_runners to use smarter creation schema defaults (](/NVIDIA/nv-ingest/commit/d17e4c385f3d6fd096c0740176e6c58e58292bd9 "Update pipeline_runners to use smarter creation schema defaults \(#321\)")[#321](https://github.com/NVIDIA/nv-ingest/pull/321)[)](/NVIDIA/nv-ingest/commit/d17e4c385f3d6fd096c0740176e6c58e58292bd9 "Update pipeline_runners to use smarter creation schema defaults \(#321\)")| Jan 11, 2025  
+[helm](/NVIDIA/nv-ingest/tree/main/helm "helm")| [helm](/NVIDIA/nv-ingest/tree/main/helm "helm")| [Adjust spec.ports[1].name to nv-ingest-http from http (](/NVIDIA/nv-ingest/commit/0d95cecf341186e9eb3e51529e8a087b14123341 "Adjust spec.ports\[1\].name to nv-ingest-http from http \(#311\)")[#311](https://github.com/NVIDIA/nv-ingest/pull/311)[)](/NVIDIA/nv-ingest/commit/0d95cecf341186e9eb3e51529e8a087b14123341 "Adjust spec.ports\[1\].name to nv-ingest-http from http \(#311\)")| Jan 6, 2025  
+[skaffold](/NVIDIA/nv-ingest/tree/main/skaffold "skaffold")| [skaffold](/NVIDIA/nv-ingest/tree/main/skaffold "skaffold")| [Adjust helm docs to note interacting with Helm assets is possible (](/NVIDIA/nv-ingest/commit/3fd79ac4305ca900c23623ec4bf606d445e44bcb "Adjust helm docs to note interacting with Helm assets is possible \(#88\)")[#88](https://github.com/NVIDIA/nv-ingest/pull/88)[)](/NVIDIA/nv-ingest/commit/3fd79ac4305ca900c23623ec4bf606d445e44bcb "Adjust helm docs to note interacting with Helm assets is possible \(#88\)")| Sep 20, 2024  
+[src](/NVIDIA/nv-ingest/tree/main/src "src")| [src](/NVIDIA/nv-ingest/tree/main/src "src")| [Update embed_extractions so that we no longer silently fail on embedd…](/NVIDIA/nv-ingest/commit/e3d08fdd7eb7d884ec302a3502f3cbf131576910 "Update embed_extractions so that we no longer silently fail on embedding generation \(#364\)")| Jan 21, 2025  
+[tests](/NVIDIA/nv-ingest/tree/main/tests "tests")| [tests](/NVIDIA/nv-ingest/tree/main/tests "tests")| [Extend docx and pptx extractors to attempt to extract tables/charts f…](/NVIDIA/nv-ingest/commit/9b1668d3cca83c38db3d1ff9554b6feaf90f5cc7 "Extend docx and pptx extractors to attempt to extract tables/charts from images \(#334\)
+Co-authored-by: Edward Kim <109497216+edknv@users.noreply.github.com>")| Jan 17, 2025  
+[.gitignore](/NVIDIA/nv-ingest/blob/main/.gitignore ".gitignore")| [.gitignore](/NVIDIA/nv-ingest/blob/main/.gitignore ".gitignore")| [Build nv-ingest docs with CI (](/NVIDIA/nv-ingest/commit/38ff6ea9e9701fd88e78a71fc520c9e3509739d8 "Build nv-ingest docs with CI \(#338\)")[#338](https://github.com/NVIDIA/nv-ingest/pull/338)[)](/NVIDIA/nv-ingest/commit/38ff6ea9e9701fd88e78a71fc520c9e3509739d8 "Build nv-ingest docs with CI \(#338\)")| Jan 17, 2025  
+[.pre-commit-config.yaml](/NVIDIA/nv-ingest/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/NVIDIA/nv-ingest/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [add flake8 to pre-commit (](/NVIDIA/nv-ingest/commit/362a63f57c0db204bfce01f626088edf93c10cee "add flake8 to pre-commit \(#276\)
+Co-authored-by: Jeremy Dyer <jdye64@gmail.com>")[#276](https://github.com/NVIDIA/nv-ingest/pull/276)[)](/NVIDIA/nv-ingest/commit/362a63f57c0db204bfce01f626088edf93c10cee "add flake8 to pre-commit \(#276\)
+Co-authored-by: Jeremy Dyer <jdye64@gmail.com>")| Dec 13, 2024  
+[CHANGELOG.md](/NVIDIA/nv-ingest/blob/main/CHANGELOG.md "CHANGELOG.md")| [CHANGELOG.md](/NVIDIA/nv-ingest/blob/main/CHANGELOG.md "CHANGELOG.md")| [Initial commit](/NVIDIA/nv-ingest/commit/87950ff449b89274676c49ab6b2fad05dcd724a4 "Initial commit")| Aug 27, 2024  
+[CITATION.md](/NVIDIA/nv-ingest/blob/main/CITATION.md "CITATION.md")| [CITATION.md](/NVIDIA/nv-ingest/blob/main/CITATION.md "CITATION.md")| [Barebones workflow to trigger pre-commit github action (](/NVIDIA/nv-ingest/commit/8a2a202b9b3e3aebf7b1390d0002a821f83b8cca "Barebones workflow to trigger pre-commit github action \(#64\)
+Co-authored-by: Edward Kim <109497216+edknv@users.noreply.github.com>")[#64](https://github.com/NVIDIA/nv-ingest/pull/64)[)](/NVIDIA/nv-ingest/commit/8a2a202b9b3e3aebf7b1390d0002a821f83b8cca "Barebones workflow to trigger pre-commit github action \(#64\)
+Co-authored-by: Edward Kim <109497216+edknv@users.noreply.github.com>")| Dec 10, 2024  
+[CODE_OF_CONDUCT.md](/NVIDIA/nv-ingest/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/NVIDIA/nv-ingest/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Barebones workflow to trigger pre-commit github action (](/NVIDIA/nv-ingest/commit/8a2a202b9b3e3aebf7b1390d0002a821f83b8cca "Barebones workflow to trigger pre-commit github action \(#64\)
+Co-authored-by: Edward Kim <109497216+edknv@users.noreply.github.com>")[#64](https://github.com/NVIDIA/nv-ingest/pull/64)[)](/NVIDIA/nv-ingest/commit/8a2a202b9b3e3aebf7b1390d0002a821f83b8cca "Barebones workflow to trigger pre-commit github action \(#64\)
+Co-authored-by: Edward Kim <109497216+edknv@users.noreply.github.com>")| Dec 10, 2024  
+[CONTRIBUTING.md](/NVIDIA/nv-ingest/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/NVIDIA/nv-ingest/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Add the ability to build and publish Conda packages. (](/NVIDIA/nv-ingest/commit/6689b656389f646099a82654cde10ecc9c178ffd "Add the ability to build and publish Conda packages. \(#285\)")[#285](https://github.com/NVIDIA/nv-ingest/pull/285)[)](/NVIDIA/nv-ingest/commit/6689b656389f646099a82654cde10ecc9c178ffd "Add the ability to build and publish Conda packages. \(#285\)")| Dec 16, 2024  
+[Dockerfile](/NVIDIA/nv-ingest/blob/main/Dockerfile "Dockerfile")| [Dockerfile](/NVIDIA/nv-ingest/blob/main/Dockerfile "Dockerfile")| [Add caching for conda packages to Dockerfile to speed up successive b…](/NVIDIA/nv-ingest/commit/a338a0297c31de8500dec0f22a877f64c5941b97 "Add caching for conda packages to Dockerfile to speed up successive builds. \(#289\)")| Dec 17, 2024  
+[LICENSE](/NVIDIA/nv-ingest/blob/main/LICENSE "LICENSE")| [LICENSE](/NVIDIA/nv-ingest/blob/main/LICENSE "LICENSE")| [Initial commit](/NVIDIA/nv-ingest/commit/87950ff449b89274676c49ab6b2fad05dcd724a4 "Initial commit")| Aug 27, 2024  
+[README.md](/NVIDIA/nv-ingest/blob/main/README.md "README.md")| [README.md](/NVIDIA/nv-ingest/blob/main/README.md "README.md")| [Add table and chart extraction tasks from extract parameters (](/NVIDIA/nv-ingest/commit/98dccebe5e634f31fe6714bda019e6d05d887d1f "Add table and chart extraction tasks from extract parameters \(#288\)")[#288](https://github.com/NVIDIA/nv-ingest/pull/288)[)](/NVIDIA/nv-ingest/commit/98dccebe5e634f31fe6714bda019e6d05d887d1f "Add table and chart extraction tasks from extract parameters \(#288\)")| Dec 17, 2024  
+[SECURITY.md](/NVIDIA/nv-ingest/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md](/NVIDIA/nv-ingest/blob/main/SECURITY.md "SECURITY.md")| [Initial commit](/NVIDIA/nv-ingest/commit/87950ff449b89274676c49ab6b2fad05dcd724a4 "Initial commit")| Aug 27, 2024  
+[docker-compose.yaml](/NVIDIA/nv-ingest/blob/main/docker-compose.yaml "docker-compose.yaml")| [docker-compose.yaml](/NVIDIA/nv-ingest/blob/main/docker-compose.yaml "docker-compose.yaml")| [Make model name configurable in caption task (](/NVIDIA/nv-ingest/commit/acb8809590be70b69cdc809b4133f648106cc799 "Make model name configurable in caption task \(#314\)")[#314](https://github.com/NVIDIA/nv-ingest/pull/314)[)](/NVIDIA/nv-ingest/commit/acb8809590be70b69cdc809b4133f648106cc799 "Make model name configurable in caption task \(#314\)")| Jan 8, 2025  
+[print_env.sh](/NVIDIA/nv-ingest/blob/main/print_env.sh "print_env.sh")| [print_env.sh](/NVIDIA/nv-ingest/blob/main/print_env.sh "print_env.sh")| [Initial commit](/NVIDIA/nv-ingest/commit/87950ff449b89274676c49ab6b2fad05dcd724a4 "Initial commit")| Aug 27, 2024  
+[pyproject.toml](/NVIDIA/nv-ingest/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/NVIDIA/nv-ingest/blob/main/pyproject.toml "pyproject.toml")| [Initial commit](/NVIDIA/nv-ingest/commit/87950ff449b89274676c49ab6b2fad05dcd724a4 "Initial commit")| Aug 27, 2024  
+[setup.cfg](/NVIDIA/nv-ingest/blob/main/setup.cfg "setup.cfg")| [setup.cfg](/NVIDIA/nv-ingest/blob/main/setup.cfg "setup.cfg")| [Initial commit](/NVIDIA/nv-ingest/commit/87950ff449b89274676c49ab6b2fad05dcd724a4 "Initial commit")| Aug 27, 2024  
+[setup.py](/NVIDIA/nv-ingest/blob/main/setup.py "setup.py")| [setup.py](/NVIDIA/nv-ingest/blob/main/setup.py "setup.py")| [Add the ability to build and publish Conda packages. (](/NVIDIA/nv-ingest/commit/6689b656389f646099a82654cde10ecc9c178ffd "Add the ability to build and publish Conda packages. \(#285\)")[#285](https://github.com/NVIDIA/nv-ingest/pull/285)[)](/NVIDIA/nv-ingest/commit/6689b656389f646099a82654cde10ecc9c178ffd "Add the ability to build and publish Conda packages. \(#285\)")| Dec 16, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [Apache-2.0 license](#)
+  * [Security](#)
+
+
+
+## NVIDIA-Ingest: Multi-modal data extraction
+
+[](#nvidia-ingest-multi-modal-data-extraction)
+
+NVIDIA-Ingest is a scalable, performance-oriented document content and metadata extraction microservice. Including support for parsing PDFs, Word and PowerPoint documents, it uses specialized NVIDIA NIM microservices to find, contextualize, and extract text, tables, charts and images for use in downstream generative applications.
+
+NVIDIA Ingest enables parallelization of the process of splitting documents into pages where contents are classified (as tables, charts, images, text), extracted into discrete content, and further contextualized via optical character recognition (OCR) into a well defined JSON schema. From there, NVIDIA Ingest can optionally manage computation of embeddings for the extracted content, and also optionally manage storing into a vector database [Milvus](https://milvus.io/).
+
+### Table of Contents
+
+[](#table-of-contents)
+
+  1. [Introduction](#introduction)
+  2. [Prerequisites](#prerequisites)
+  3. [Quickstart](#quickstart)
+  4. [Repo Structure](#repo-structure)
+  5. [Notices](#notices)
+
+
+
+## Introduction
+
+[](#introduction)
+
+### What NVIDIA-Ingest is ✔️
+
+[](#what-nvidia-ingest-is-️)
+
+A microservice that:
+
+  * Accepts a JSON Job description, containing a document payload, and a set of ingestion tasks to perform on that payload.
+  * Allows the results of a Job to be retrieved; the result is a JSON dictionary containing a list of Metadata describing objects extracted from the base document, as well as processing annotations and timing/trace data.
+  * Supports PDF, Docx, pptx, and images.
+  * Supports multiple methods of extraction for each document type in order to balance trade-offs between throughput and accuracy. For example, for PDF documents we support extraction via pdfium, Unstructured.io, and Adobe Content Extraction Services.
+  * Supports various types of pre and post processing operations, including text splitting and chunking; transform, and filtering; embedding generation, and image offloading to storage.
+
+
+
+### What NVIDIA-Ingest is not ✖️
+
+[](#what-nvidia-ingest-is-not-️)
+
+A service that:
+
+  * Runs a static pipeline or fixed set of operations on every submitted document.
+  * Acts as a wrapper for any specific document parsing library.
+
+
+
+## Prerequisites
+
+[](#prerequisites)
+
+### Hardware
+
+[](#hardware)
+
+GPU | Family | Memory | # of GPUs (min.)  
+---|---|---|---  
+H100 | SXM or PCIe | 80GB | 2  
+A100 | SXM or PCIe | 80GB | 2  
+  
+### Software
+
+[](#software)
+
+  * Linux operating systems (Ubuntu 22.04 or later recommended)
+  * [Docker](https://docs.docker.com/engine/install/)
+  * [Docker Compose](https://docs.docker.com/compose/install/)
+  * [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads) (NVIDIA Driver >= `535`, CUDA >= `12.2`)
+  * [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
+
+
+
+## Quickstart
+
+[](#quickstart)
+
+To get started using NVIDIA Ingest, you need to do a few things:
+
+  1. [Start supporting NIM microservices](#step-1-starting-containers) 🏗️
+  2. [Install the NVIDIA Ingest client dependencies in a Python environment](#step-2-installing-python-dependencies) 🐍
+  3. [Submit ingestion job(s)](#step-3-ingesting-documents) 📓
+  4. [Inspect and consume results](#step-4-inspecting-and-consuming-results) 🔍
+
+
+
+Optional:
+
+  1. [Direct Library Deployment](/NVIDIA/nv-ingest/blob/main/docs/deployment.md) 📦
+
+
+
+### Step 1: Starting containers
+
+[](#step-1-starting-containers)
+
+This example demonstrates how to use the provided [docker-compose.yaml](/NVIDIA/nv-ingest/blob/main/docker-compose.yaml) to start all needed services with a few commands.
+
+Important
+
+NIM containers on their first startup can take 10-15 minutes to pull and fully load models.
+
+If preferred, you can also [start services one by one](/NVIDIA/nv-ingest/blob/main/docs/deployment.md), or run on Kubernetes via [our Helm chart](/NVIDIA/nv-ingest/blob/main/helm/README.md). Also of note are [additional environment variables](/NVIDIA/nv-ingest/blob/main/docs/environment-config.md) you may wish to configure.
+
+  1. Git clone the repo: `git clone https://github.com/nvidia/nv-ingest`
+
+  2. Change directory to the cloned repo `cd nv-ingest`.
+
+  3. [Generate API keys](/NVIDIA/nv-ingest/blob/main/docs/ngc-api-key.md) and authenticate with NGC with the `docker login` command:
+
+
+
+
+```
+# This is required to access pre-built containers and NIM microservices $ docker login nvcr.io Username: $oauthtoken Password: <Your Key>
+```
+
+Note
+
+during the early access (EA) phase, your API key must be created as a member of `nemo-microservice / ea-participants` which you may join by applying for early access here: <https://developer.nvidia.com/nemo-microservices-early-access/join>. When approved, switch your profile to this org / team, then the key you generate will have access to the resources outlined below.
+
+  1. Create a .env file containing your NGC API key, and the following paths:
+
+
+
+```
+`# Container images must access resources from NGC. NGC_API_KEY=... # Optional, set this if you are deploying NIMs locally from NGC NVIDIA_BUILD_API_KEY=... # Optional, set this is you are using build.nvidia.com NIMs `
+```
+
+Note
+
+As configured by default in [docker-compose.yaml](/NVIDIA/nv-ingest/blob/main/docker-compose.yaml#L52), the DePlot NIM is on a dedicated GPU. All other NIMs and the nv-ingest container itself share a second. This is to avoid DePlot and other NIMs competing for VRAM on the same device.
+
+Change the `CUDA_VISIBLE_DEVICES` pinnings as desired for your system within docker-compose.yaml.
+
+Important
+
+Make sure NVIDIA is set as your default container runtime before running the docker compose command with the command: `sudo nvidia-ctk runtime configure --runtime=docker --set-as-default`
+
+  1. Start all services: `docker compose up`
+
+
+
+Tip
+
+By default we have [configured log levels to be verbose](/NVIDIA/nv-ingest/blob/main/docker-compose.yaml#L27).
+
+It's possible to observe service startup proceeding: you will notice _many_ log messages. Disable verbose logging by configuring `NIM_TRITON_LOG_VERBOSE=0` for each NIM in [docker-compose.yaml](/NVIDIA/nv-ingest/blob/main/docker-compose.yaml).
+
+If you want to build from source, use `docker compose up --build` instead. This will build from your repo's code rather than from an already published container.
+
+  1. When all services have fully started, `nvidia-smi` should show processes like the following:
+
+
+
+```
+`# If it's taking > 1m for `nvidia-smi` to return, it's likely the bus is still busy setting up the models. +---------------------------------------------------------------------------------------+ | Processes: | | GPU GI CI PID Type Process name GPU Memory | | ID ID Usage | |=======================================================================================| | 0 N/A N/A 1352957 C tritonserver 762MiB | | 1 N/A N/A 1322081 C /opt/nim/llm/.venv/bin/python3 63916MiB | | 2 N/A N/A 1355175 C tritonserver 478MiB | | 2 N/A N/A 1367569 C ...s/python/triton_python_backend_stub 12MiB | | 3 N/A N/A 1321841 C python 414MiB | | 3 N/A N/A 1352331 C tritonserver 478MiB | | 3 N/A N/A 1355929 C ...s/python/triton_python_backend_stub 424MiB | | 3 N/A N/A 1373202 C tritonserver 414MiB | +---------------------------------------------------------------------------------------+ `
+```
+
+Observe the started containers with `docker ps`:
+
+```
+`CONTAINER ID IMAGE COMMAND CREATED STATUS PORTS NAMES 0f2f86615ea5 nvcr.io/ohlfw0olaadg/ea-participants/nv-ingest:24.10 "/opt/conda/bin/tini…" 35 seconds ago Up 33 seconds 0.0.0.0:7670->7670/tcp, :::7670->7670/tcp nv-ingest-nv-ingest-ms-runtime-1 de44122c6ddc otel/opentelemetry-collector-contrib:0.91.0 "/otelcol-contrib --…" 14 hours ago Up 24 seconds 0.0.0.0:4317-4318->4317-4318/tcp, :::4317-4318->4317-4318/tcp, 0.0.0.0:8888-8889->8888-8889/tcp, :::8888-8889->8888-8889/tcp, 0.0.0.0:13133->13133/tcp, :::13133->13133/tcp, 55678/tcp, 0.0.0.0:32849->9411/tcp, :::32848->9411/tcp, 0.0.0.0:55680->55679/tcp, :::55680->55679/tcp nv-ingest-otel-collector-1 02c9ab8c6901 nvcr.io/ohlfw0olaadg/ea-participants/cached:0.2.0 "/opt/nvidia/nvidia_…" 14 hours ago Up 24 seconds 0.0.0.0:8006->8000/tcp, :::8006->8000/tcp, 0.0.0.0:8007->8001/tcp, :::8007->8001/tcp, 0.0.0.0:8008->8002/tcp, :::8008->8002/tcp nv-ingest-cached-1 d49369334398 nvcr.io/nim/nvidia/nv-embedqa-e5-v5:1.1.0 "/opt/nvidia/nvidia_…" 14 hours ago Up 33 seconds 0.0.0.0:8012->8000/tcp, :::8012->8000/tcp, 0.0.0.0:8013->8001/tcp, :::8013->8001/tcp, 0.0.0.0:8014->8002/tcp, :::8014->8002/tcp nv-ingest-embedding-1 508715a24998 nvcr.io/ohlfw0olaadg/ea-participants/nv-yolox-structured-images-v1:0.2.0 "/opt/nvidia/nvidia_…" 14 hours ago Up 33 seconds 0.0.0.0:8000-8002->8000-8002/tcp, :::8000-8002->8000-8002/tcp nv-ingest-yolox-1 5b7a174a0a85 nvcr.io/ohlfw0olaadg/ea-participants/deplot:1.0.0 "/opt/nvidia/nvidia_…" 14 hours ago Up 33 seconds 0.0.0.0:8003->8000/tcp, :::8003->8000/tcp, 0.0.0.0:8004->8001/tcp, :::8004->8001/tcp, 0.0.0.0:8005->8002/tcp, :::8005->8002/tcp nv-ingest-deplot-1 430045f98c02 nvcr.io/ohlfw0olaadg/ea-participants/paddleocr:0.2.0 "/opt/nvidia/nvidia_…" 14 hours ago Up 24 seconds 0.0.0.0:8009->8000/tcp, :::8009->8000/tcp, 0.0.0.0:8010->8001/tcp, :::8010->8001/tcp, 0.0.0.0:8011->8002/tcp, :::8011->8002/tcp nv-ingest-paddle-1 8e587b45821b grafana/grafana "/run.sh" 14 hours ago Up 33 seconds 0.0.0.0:3000->3000/tcp, :::3000->3000/tcp grafana-service aa2c0ec387e2 redis/redis-stack "/entrypoint.sh" 14 hours ago Up 33 seconds 0.0.0.0:6379->6379/tcp, :::6379->6379/tcp, 8001/tcp nv-ingest-redis-1 bda9a2a9c8b5 openzipkin/zipkin "start-zipkin" 14 hours ago Up 33 seconds (healthy) 9410/tcp, 0.0.0.0:9411->9411/tcp, :::9411->9411/tcp nv-ingest-zipkin-1 ac27e5297d57 prom/prometheus:latest "/bin/prometheus --w…" 14 hours ago Up 33 seconds 0.0.0.0:9090->9090/tcp, :::9090->9090/tcp nv-ingest-prometheus-1 `
+```
+
+Tip
+
+nv-ingest is in Early Access mode, meaning the codebase gets frequent updates. To build an updated nv-ingest service container with the latest changes you can:
+
+```
+`docker compose build `
+```
+
+After the image is built, run `docker compose up` per item 5 above.
+
+### Step 2: Installing Python dependencies
+
+[](#step-2-installing-python-dependencies)
+
+To interact with the nv-ingest service, you can do so from the host, or by `docker exec`-ing into the nv-ingest container.
+
+To interact from the host, you'll need a Python environment and install the client dependencies:
+
+```
+# conda not required, but makes it easy to create a fresh python environment conda create --name nv-ingest-dev --file ./conda/environments/nv_ingest_environment.yml conda activate nv-ingest-dev cd client pip install . # When not using Conda, pip dependencies for the client can be installed directly via pip. Pip based installation of # the ingest service is not supported. cd client pip install -r requirements.txt pip install .
+```
+
+Note
+
+Interacting from the host depends on the appropriate port being exposed from the nv-ingest container to the host as defined in [docker-compose.yaml](/NVIDIA/nv-ingest/blob/main/docker-compose.yaml#L141).
+
+If you prefer, you can disable exposing that port, and interact with the nv-ingest service directly from within its container.
+
+To interact within the container:
+
+```
+`docker exec -it nv-ingest-nv-ingest-ms-runtime-1 bash `
+```
+
+You'll be in the `/workspace` directory, which has `DATASET_ROOT` from the .env file mounted at `./data`. The pre-activated `morpheus` conda environment has all the python client libraries pre-installed:
+
+```
+`(morpheus) root@aba77e2a4bde:/workspace# `
+```
+
+From the bash prompt above, you can run nv-ingest-cli and Python examples described below.
+
+### Step 3: Ingesting Documents
+
+[](#step-3-ingesting-documents)
+
+You can submit jobs programmatically in Python or via the nv-ingest-cli tool.
+
+In the below examples, we are doing text, chart, table, and image extraction:
+
+  * `extract_text`, - uses [PDFium](https://github.com/pypdfium2-team/pypdfium2/) to find and extract text from pages
+  * `extract_images` - uses [PDFium](https://github.com/pypdfium2-team/pypdfium2/) to extract images
+  * `extract_tables` - uses [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) to find tables and charts. Uses [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) for table extraction, and [Deplot](https://huggingface.co/google/deplot) and CACHED for chart extraction
+  * `extract_charts` - (optional) enables or disables the use of Deplot and CACHED for chart extraction.
+
+
+
+Important
+
+`extract_tables` controls extraction for both tables and charts. You can optionally disable chart extraction by setting `extract_charts` to false.
+
+#### In Python (you can find more documentation and examples [here](/NVIDIA/nv-ingest/blob/main/client/client_examples/examples/python_client_usage.ipynb)):
+
+[](#in-python-you-can-find-more-documentation-and-examples-here)
+
+```
+import logging, time from nv_ingest_client.client import NvIngestClient from nv_ingest_client.primitives import JobSpec from nv_ingest_client.primitives.tasks import ExtractTask from nv_ingest_client.util.file_processing.extract import extract_file_content logger = logging.getLogger("nv_ingest_client") file_name = "data/multimodal_test.pdf" file_content, file_type = extract_file_content(file_name) # A JobSpec is an object that defines a document and how it should # be processed by the nv-ingest service. job_spec = JobSpec( document_type=file_type, payload=file_content, source_id=file_name, source_name=file_name, extended_options= { "tracing_options": { "trace": True, "ts_send": time.time_ns() } } ) # configure desired extraction modes here. Multiple extraction # methods can be defined for a single JobSpec extract_task = ExtractTask( document_type=file_type, extract_text=True, extract_images=True, extract_tables=True ) job_spec.add_task(extract_task) # Create the client and inform it about the JobSpec we want to process. client = NvIngestClient( message_client_hostname="localhost", # Host where nv-ingest-ms-runtime is running message_client_port=7670 # REST port, defaults to 7670 ) job_id = client.add_job(job_spec) client.submit_job(job_id, "morpheus_task_queue") result = client.fetch_job_result(job_id, timeout=60) print(f"Got {len(result)} results")
+```
+
+#### Using the the `nv-ingest-cli` (you can find more nv-ingest-cli examples [here](/NVIDIA/nv-ingest/blob/main/client/client_examples/examples/cli_client_usage.ipynb)):
+
+[](#using-the-the-nv-ingest-cli-you-can-find-more-nv-ingest-cli-examples-here)
+
+```
+nv-ingest-cli \ --doc ./data/multimodal_test.pdf \ --output_directory ./processed_docs \ --task='extract:{"document_type": "pdf", "extract_method": "pdfium", "extract_tables": "true", "extract_images": "true"}' \ --client_host=localhost \ --client_port=7670
+```
+
+You should notice output indicating document processing status, followed by a breakdown of time spent during job execution:
+
+```
+`INFO:nv_ingest_client.nv_ingest_cli:Processing 1 documents. INFO:nv_ingest_client.nv_ingest_cli:Output will be written to: ./processed_docs Processing files: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:10<00:00, 10.47s/file, pages_per_sec=0.29] INFO:nv_ingest_client.cli.util.processing:dedup_images: Avg: 1.02 ms, Median: 1.02 ms, Total Time: 1.02 ms, Total % of Trace Computation: 0.01% INFO:nv_ingest_client.cli.util.processing:dedup_images_channel_in: Avg: 1.44 ms, Median: 1.44 ms, Total Time: 1.44 ms, Total % of Trace Computation: 0.01% INFO:nv_ingest_client.cli.util.processing:docx_content_extractor: Avg: 0.66 ms, Median: 0.66 ms, Total Time: 0.66 ms, Total % of Trace Computation: 0.01% INFO:nv_ingest_client.cli.util.processing:docx_content_extractor_channel_in: Avg: 1.09 ms, Median: 1.09 ms, Total Time: 1.09 ms, Total % of Trace Computation: 0.01% INFO:nv_ingest_client.cli.util.processing:filter_images: Avg: 0.84 ms, Median: 0.84 ms, Total Time: 0.84 ms, Total % of Trace Computation: 0.01% INFO:nv_ingest_client.cli.util.processing:filter_images_channel_in: Avg: 7.75 ms, Median: 7.75 ms, Total Time: 7.75 ms, Total % of Trace Computation: 0.07% INFO:nv_ingest_client.cli.util.processing:job_counter: Avg: 2.13 ms, Median: 2.13 ms, Total Time: 2.13 ms, Total % of Trace Computation: 0.02% INFO:nv_ingest_client.cli.util.processing:job_counter_channel_in: Avg: 2.05 ms, Median: 2.05 ms, Total Time: 2.05 ms, Total % of Trace Computation: 0.02% INFO:nv_ingest_client.cli.util.processing:metadata_injection: Avg: 14.48 ms, Median: 14.48 ms, Total Time: 14.48 ms, Total % of Trace Computation: 0.14% INFO:nv_ingest_client.cli.util.processing:metadata_injection_channel_in: Avg: 0.22 ms, Median: 0.22 ms, Total Time: 0.22 ms, Total % of Trace Computation: 0.00% INFO:nv_ingest_client.cli.util.processing:pdf_content_extractor: Avg: 10332.97 ms, Median: 10332.97 ms, Total Time: 10332.97 ms, Total % of Trace Computation: 99.45% INFO:nv_ingest_client.cli.util.processing:pdf_content_extractor_channel_in: Avg: 0.44 ms, Median: 0.44 ms, Total Time: 0.44 ms, Total % of Trace Computation: 0.00% INFO:nv_ingest_client.cli.util.processing:pptx_content_extractor: Avg: 1.19 ms, Median: 1.19 ms, Total Time: 1.19 ms, Total % of Trace Computation: 0.01% INFO:nv_ingest_client.cli.util.processing:pptx_content_extractor_channel_in: Avg: 0.98 ms, Median: 0.98 ms, Total Time: 0.98 ms, Total % of Trace Computation: 0.01% INFO:nv_ingest_client.cli.util.processing:redis_source_network_in: Avg: 12.27 ms, Median: 12.27 ms, Total Time: 12.27 ms, Total % of Trace Computation: 0.12% INFO:nv_ingest_client.cli.util.processing:redis_task_sink_channel_in: Avg: 2.16 ms, Median: 2.16 ms, Total Time: 2.16 ms, Total % of Trace Computation: 0.02% INFO:nv_ingest_client.cli.util.processing:redis_task_source: Avg: 8.00 ms, Median: 8.00 ms, Total Time: 8.00 ms, Total % of Trace Computation: 0.08% INFO:nv_ingest_client.cli.util.processing:Unresolved time: 82.82 ms, Percent of Total Elapsed: 0.79% INFO:nv_ingest_client.cli.util.processing:Processed 1 files in 10.47 seconds. INFO:nv_ingest_client.cli.util.processing:Total pages processed: 3 INFO:nv_ingest_client.cli.util.processing:Throughput (Pages/sec): 0.29 INFO:nv_ingest_client.cli.util.processing:Throughput (Files/sec): 0.10 `
+```
+
+### Step 4: Inspecting and Consuming Results
+
+[](#step-4-inspecting-and-consuming-results)
+
+After the ingestion steps above have completed, you should be able to find `text` and `image` subfolders inside your processed docs folder. Each will contain JSON formatted extracted content and metadata.
+
+#### When processing has completed, you'll have separate result files for text and image data:
+
+[](#when-processing-has-completed-youll-have-separate-result-files-for-text-and-image-data)
+
+```
+ls -R processed_docs/
+```
+
+```
+processed_docs/: image structured text processed_docs/image: multimodal_test.pdf.metadata.json processed_docs/structured: multimodal_test.pdf.metadata.json processed_docs/text: multimodal_test.pdf.metadata.json
+```
+
+You can view the full JSON extracts and the metadata definitions [here](/NVIDIA/nv-ingest/blob/main/docs/content-metadata.md).
+
+#### We also provide a script for inspecting [extracted images](/NVIDIA/nv-ingest/blob/main/src/util/image_viewer.py)
+
+[](#we-also-provide-a-script-for-inspecting-extracted-images)
+
+First, install `tkinter` by running the following commands depending on your OS.
+
+  * For Ubuntu/Debian Linux:
+
+
+
+```
+sudo apt-get update sudo apt-get install python3-tk
+```
+
+  * For Fedora/RHEL Linux:
+
+
+
+```
+sudo dnf install python3-tkinter
+```
+
+  * For macOS using Homebrew:
+
+
+
+```
+brew install python-tk
+```
+
+Then run the following command to execute the script for inspecting the extracted image:
+
+```
+python src/util/image_viewer.py --file_path ./processed_docs/image/multimodal_test.pdf.metadata.json
+```
+
+Tip
+
+Beyond inspecting the results, you can read them into things like [llama-index](/NVIDIA/nv-ingest/blob/main/examples/llama_index_multimodal_rag.ipynb) or [langchain](/NVIDIA/nv-ingest/blob/main/examples/langchain_multimodal_rag.ipynb) retrieval pipelines.
+
+Please also checkout our [demo using a retrieval pipeline on build.nvidia.com](https://build.nvidia.com/nvidia/multimodal-pdf-data-extraction-for-enterprise-rag) to query over document content pre-extracted w/ NVIDIA Ingest.
+
+## Repo Structure
+
+[](#repo-structure)
+
+Beyond the relevant documentation, examples, and other links above, below is a description of contents in this repo's folders:
+
+  1. [.github](/NVIDIA/nv-ingest/blob/main/.github): GitHub repo configuration files
+  2. [ci](/NVIDIA/nv-ingest/blob/main/ci): scripts used to build the nv-ingest container and other packages
+  3. [client](/NVIDIA/nv-ingest/blob/main/client): docs and source code for the nv-ingest-cli utility
+  4. [config](/NVIDIA/nv-ingest/blob/main/config): various yaml files defining configuration for OTEL, Prometheus
+  5. [data](/NVIDIA/nv-ingest/blob/main/data): Sample PDFs provided for testing convenience
+  6. [docker](/NVIDIA/nv-ingest/blob/main/docker): houses scripts used by the nv-ingest docker container
+  7. [docs](/NVIDIA/nv-ingest/blob/main/docs): Various READMEs describing deployment, metadata schemas, auth and telemetry setup
+  8. [examples](/NVIDIA/nv-ingest/blob/main/examples): Example notebooks, scripts, and longer form tutorial content
+  9. [helm](/NVIDIA/nv-ingest/blob/main/helm): Documentation for deploying nv-ingest to a Kubernetes cluster via Helm chart
+  10. [skaffold](/NVIDIA/nv-ingest/blob/main/skaffold): Skaffold configuration
+  11. [src](/NVIDIA/nv-ingest/blob/main/src): source code for the nv-ingest pipelines and service
+  12. [tests](/NVIDIA/nv-ingest/blob/main/tests): unit tests for nv-ingest
+
+
+
+## Notices
+
+[](#notices)
+
+### Third Party License Notice:
+
+[](#third-party-license-notice)
+
+If configured to do so, this project will download and install additional third-party open source software projects. Review the license terms of these open source projects before use:
+
+<https://pypi.org/project/pdfservices-sdk/>
+
+  * **`INSTALL_ADOBE_SDK`** : 
+    * **Description** : If set to `true`, the Adobe SDK will be installed in the container at launch time. This is required if you want to use the Adobe extraction service for PDF decomposition. Please review the [license agreement](https://github.com/adobe/pdfservices-python-sdk?tab=License-1-ov-file) for the pdfservices-sdk before enabling this option.
+
+
+
+### Contributing
+
+[](#contributing)
+
+We require that all contributors "sign-off" on their commits. This certifies that the contribution is your original work, or you have rights to submit it under the same license, or a compatible license.
+
+Any contribution which contains commits that are not Signed-Off will not be accepted.
+
+To sign off on a commit you simply use the --signoff (or -s) option when committing your changes:
+
+```
+`$ git commit -s -m "Add cool feature." `
+```
+
+This will append the following to your commit message:
+
+```
+`Signed-off-by: Your Name <your@email.com> `
+```
+
+#### Full text of the DCO:
+
+[](#full-text-of-the-dco)
+
+```
+` Developer Certificate of Origin Version 1.1 Copyright (C) 2004, 2006 The Linux Foundation and its contributors. 1 Letterman Drive Suite D4700 San Francisco, CA, 94129 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed. `
+```
+
+```
+` Developer's Certificate of Origin 1.1 By making a contribution to this project, I certify that: (a) The contribution was created in whole or in part by me and I have the right to submit it under the open source license indicated in the file; or (b) The contribution is based upon previous work that, to the best of my knowledge, is covered under an appropriate open source license and I have the right under that license to submit that work with modifications, whether created in whole or in part by me, under the same open source license (unless I am permitted to submit under a different license), as indicated in the file; or (c) The contribution was provided directly to me by some other person who certified (a), (b) or (c) and I have not modified it. (d) I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved. `
+```
+
+## About
+
+NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems. 
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+### Citation
+
+Cite this repository 
+
+Loading
+
+Something went wrong. 
+
+[ Activity](/NVIDIA/nv-ingest/activity)
+
+[ Custom properties](/NVIDIA/nv-ingest/custom-properties)
+
+### Stars
+
+[ **2.3k** stars](/NVIDIA/nv-ingest/stargazers)
+
+### Watchers
+
+[ **28** watching](/NVIDIA/nv-ingest/watchers)
+
+### Forks
+
+[ **192** forks](/NVIDIA/nv-ingest/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FNVIDIA%2Fnv-ingest&report=NVIDIA+%28user%29)
+
+##  [Releases](/NVIDIA/nv-ingest/releases)
+
+[ 2 tags ](/NVIDIA/nv-ingest/tags)
+
+##  [Packages 0](/orgs/NVIDIA/packages?repo_name=nv-ingest)
+
+No packages published 
+
+##  [Contributors 20](/NVIDIA/nv-ingest/graphs/contributors)
+
+  * [ ![@jdye64](https://avatars.githubusercontent.com/u/2127235?s=64&v=4) ](https://github.com/jdye64)
+  * [ ![@drobison00](https://avatars.githubusercontent.com/u/5256797?s=64&v=4) ](https://github.com/drobison00)
+  * [ ![@edknv](https://avatars.githubusercontent.com/u/109497216?s=64&v=4) ](https://github.com/edknv)
+  * [ ![@randerzander](https://avatars.githubusercontent.com/u/1692914?s=64&v=4) ](https://github.com/randerzander)
+  * [ ![@jperez999](https://avatars.githubusercontent.com/u/37191411?s=64&v=4) ](https://github.com/jperez999)
+  * [ ![@mpenn](https://avatars.githubusercontent.com/u/9770524?s=64&v=4) ](https://github.com/mpenn)
+  * [ ![@ChrisJar](https://avatars.githubusercontent.com/u/13131098?s=64&v=4) ](https://github.com/ChrisJar)
+  * [ ![@jarmak-nv](https://avatars.githubusercontent.com/u/104460670?s=64&v=4) ](https://github.com/jarmak-nv)
+  * [ ![@sosahi](https://avatars.githubusercontent.com/u/179180905?s=64&v=4) ](https://github.com/sosahi)
+  * [ ![@soluwalana](https://avatars.githubusercontent.com/u/558812?s=64&v=4) ](https://github.com/soluwalana)
+  * [ ![@zredeaux07](https://avatars.githubusercontent.com/u/161058543?s=64&v=4) ](https://github.com/zredeaux07)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@zredeaux65](https://avatars.githubusercontent.com/u/95777719?s=64&v=4) ](https://github.com/zredeaux65)
+  * [ ![@nkmcalli](https://avatars.githubusercontent.com/u/8868032?s=64&v=4) ](https://github.com/nkmcalli)
+
+
+
+[+ 6 contributors](/NVIDIA/nv-ingest/graphs/contributors)
+
+## Languages
+
+  * [ Python 66.0% ](/NVIDIA/nv-ingest/search?l=python)
+  * [ Jupyter Notebook 32.8% ](/NVIDIA/nv-ingest/search?l=jupyter-notebook)
+  * Other 1.2%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

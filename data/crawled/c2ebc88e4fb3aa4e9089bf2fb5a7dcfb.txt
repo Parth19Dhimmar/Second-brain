@@ -1,0 +1,195 @@
+[ Parlance ](https://parlance-labs.com/)
+
+  * [ Services](https://parlance-labs.com/services.html)
+  * [ Blog](https://hamel.dev/)
+  * [ Team](https://parlance-labs.com/team.html)
+  * [ Education](https://parlance-labs.com/education/)
+
+
+
+  1. [Educational Resources](https://parlance-labs.com/education/)
+
+
+
+  * [ Educational Resources](https://parlance-labs.com/education/)
+
+  * [ Evals](https://parlance-labs.com/education/evals/)
+
+    * [ Inspect, An OSS framework for LLM evals](https://parlance-labs.com/education/evals/allaire.html)
+
+    * [ LLM Eval For Text2SQL](https://parlance-labs.com/education/evals/ankur.html)
+
+    * [ A Deep Dive on LLM Evaluation](https://parlance-labs.com/education/evals/schoelkopf.html)
+
+  * [ RAG](https://parlance-labs.com/education/rag/)
+
+    * [ Back to Basics for RAG](https://parlance-labs.com/education/rag/jo.html)
+
+    * [ Beyond the Basics of RAG](https://parlance-labs.com/education/rag/ben.html)
+
+    * [ Systematically improving RAG applications](https://parlance-labs.com/education/rag/jason.html)
+
+  * [ Fine-Tuning](https://parlance-labs.com/education/#fine-tuning)
+
+    * [ Should you fine-tune?](https://parlance-labs.com/education/#should-you-fine-tune)
+
+      * [ When and Why to Fine Tune an LLM](https://parlance-labs.com/education/fine_tuning_course/workshop_1.html)
+
+      * [ Fine-tuning when you’ve already deployed LLMs in prod](https://parlance-labs.com/education/fine_tuning/kyle.html)
+
+      * [ Why Fine Tuning is Dead](https://parlance-labs.com/education/fine_tuning/emmanuel.html)
+
+    * [ How to fine-tune](https://parlance-labs.com/education/#how-to-fine-tune)
+
+      * [ Creating, curating, and cleaning data for LLMs](https://parlance-labs.com/education/fine_tuning/daniel.html)
+
+      * [ Best Practices For Fine Tuning Mistral](https://parlance-labs.com/education/fine_tuning/mistral_ft_sophia.html)
+
+      * [ Train (almost) any LLM using 🤗 autotrain](https://parlance-labs.com/education/fine_tuning/abhishek.html)
+
+      * [ Fine Tuning OpenAI Models - Best Practices](https://parlance-labs.com/education/fine_tuning/steven.html)
+
+    * [ Deploying Fine-Tuned Models](https://parlance-labs.com/education/fine_tuning_course/workshop_4.html)
+
+    * [ Advanced topics in fine-tuning](https://parlance-labs.com/education/#advanced-topics-in-fine-tuning)
+
+      * [ Napkin Math For Fine Tuning](https://parlance-labs.com/education/fine_tuning/napkin_math.html)
+
+      * [ Slaying OOMs with PyTorch FSDP and torchao](https://parlance-labs.com/education/fine_tuning/slaying_ooms.html)
+
+      * [ Fine Tuning LLMs for Function Calling](https://parlance-labs.com/education/fine_tuning/pawel.html)
+
+  * [ Applications](https://parlance-labs.com/education/applications/)
+
+    * education/applications/**/*.qmd
+  * [ Prompt Engineering](https://parlance-labs.com/education/prompt_eng/berryman.html)
+
+
+
+
+# Educational Resources
+
+Educational resources on LLMs 
+
+Hear from practitioners on a wide range of topics on LLMs, including [RAG](https://parlance-labs.com/education/#rag), [evaluation](https://parlance-labs.com/education/#evals), [applications](https://parlance-labs.com/education/#building-applications), [fine-tuning](https://parlance-labs.com/education/#fine-tuning) and [prompt engineering](https://parlance-labs.com/education/#prompt-engineering).
+
+**Subscribe To Our Newsletter**
+
+## Evals[](#evals)
+
+Measuring the performance of LLM products
+
+[ ![](../education/evals/jj.png) Inspect, An OSS framework for LLM evals  This talk will cover using and extending Inspect, a new OSS Python…  ](https://parlance-labs.com/education/evals/allaire.html)
+
+[ ![](../education/evals/ankur.png) LLM Eval For Text2SQL  Ankur from Braintrust discusses the systematic evaluation and enhancement…  ](https://parlance-labs.com/education/evals/ankur.html)
+
+[ ![](../education/evals/schoelkopf.png) A Deep Dive on LLM Evaluation  Doing LLM evaluation right is crucial, but very challenging! We’ll cover…  ](https://parlance-labs.com/education/evals/schoelkopf.html)
+
+No matching items 
+
+## RAG[](#rag)
+
+Retrieval Augmented Generation
+
+[ ![](../education/rag/ben.jpg) Beyond the Basics of RAG  LLMs are powerful, but have limitations: their knowledge is fixed in…  ](https://parlance-labs.com/education/rag/ben.html)
+
+[ ![](../education/rag/jo.png) Back to Basics for RAG  Adding context-sensitive information to LLM prompts through retrieval is…  ](https://parlance-labs.com/education/rag/jo.html)
+
+[ ![](../education/rag/jason.png) Systematically improving RAG applications  In this talk, we will teach you approaches that anybody can apply to…  ](https://parlance-labs.com/education/rag/jason.html)
+
+No matching items 
+
+## Building Applications[](#building-applications)
+
+Examples and best practices of building applications with LLMs
+
+[ ![](../education/applications/simon_llm_cli/19.png) LLMs on the command line  The Unix command-line philosophy has always been about joining different…  ](https://parlance-labs.com/education/applications/simon_llm_cli/)
+
+[ ![](../education/applications/gradio.png) Building LLM Applications w/Gradio  Freddy, a software engineer at Hugging Face, demonstrates ways to build…  ](https://parlance-labs.com/education/applications/freddy.html)
+
+[ ![](../education/applications/modal.png) Modal: Simple Scalable Serverless Services  Modal makes it easy to run code in the cloud. In this talk, we will…  ](https://parlance-labs.com/education/applications/charles.html)
+
+[ ![](applications/python.png) Python is all you need  Learn how to build full-stack applications in Python with a new, modern…  ](https://youtu.be/ptRaku0zyeA?si=5aaofFSf5q062G7L)
+
+No matching items 
+
+## Prompt Engineering[](#prompt-engineering)
+
+Effective prompt engineering techniques for LLMs
+
+[ ![](../education/prompt_eng/john.png) Prompt Engineering  Effective prompt engineering techniques for LLMs  ](https://parlance-labs.com/education/prompt_eng/)
+
+No matching items 
+
+## Fine-Tuning[](#fine-tuning)
+
+### 1. Should you fine-tune?[](#should-you-fine-tune)
+
+You shouldn’t always fine-tune. Learn when to fine-tune and when not to.
+
+[ ![](../education/fine_tuning/kyle.png) Fine-tuning when you’ve already deployed LLMs in prod  Already have a working prompt deployed in production? Fine-tuning may be…  ](https://parlance-labs.com/education/fine_tuning/kyle.html)
+
+[ ![](../education/fine_tuning/emmanuel.png) Why Fine Tuning is Dead  Arguments for why fine-tuning has become less useful over time, as well…  ](https://parlance-labs.com/education/fine_tuning/emmanuel.html)
+
+[ ![](../education/fine_tuning_course/w1.png) When and Why to Fine Tune an LLM  This session introduces the course “Fine Tuning for Data Scientists and…  ](https://parlance-labs.com/education/fine_tuning_course/workshop_1.html)
+
+No matching items 
+
+### 2. How to fine-tune[](#how-to-fine-tune)
+
+Learn various tools and techniques for fine-tuning LLMs.
+
+[ ![](../education/fine_tuning/daniel.png) Creating, curating, and cleaning data for LLMs  Good data is a key component for creating a strong LLM. This talk will…  ](https://parlance-labs.com/education/fine_tuning/daniel.html)
+
+[ ![](../education/fine_tuning/sophia.png) Best Practices For Fine Tuning Mistral  We will discuss best practices for fine-tuning Mistral models. We will…  ](https://parlance-labs.com/education/fine_tuning/mistral_ft_sophia.html)
+
+[ ![](../education/fine_tuning/steven.png) Fine Tuning OpenAI Models - Best Practices  How to fine-tune OpenAI models like a pro. ](https://parlance-labs.com/education/fine_tuning/steven.html)
+
+[ ![](../education/fine_tuning_course/w2.png) Fine-Tuning with Axolotl  A lesson illustrating an end-to-end example of fine-tuning a model using…  ](https://parlance-labs.com/education/fine_tuning_course/workshop_2.html)
+
+[ ![](../education/fine_tuning_course/w3.png) Instrumenting & Evaluating LLMs  A discussion on how to instrument and evaluate LLMs with industry guest…  ](https://parlance-labs.com/education/fine_tuning_course/workshop_3.html)
+
+[ ![](../education/fine_tuning/abhishek.png) Train (almost) any LLM using 🤗 autotrain  In this talk, we will show you how to use HuggingFace AutoTrain to…  ](https://parlance-labs.com/education/fine_tuning/abhishek.html)
+
+No matching items 
+
+### 3. Deploying fine-tuned models[](#deploying-fine-tuned-models)
+
+[ ![](../education/fine_tuning_course/w4.png) Deploying Fine-Tuned Models  This discussion explores inference servers, backends, and platforms such…  ](https://parlance-labs.com/education/fine_tuning_course/workshop_4.html)
+
+No matching items 
+
+### 4. Advanced topics in fine-tuning[](#advanced-topics-in-fine-tuning)
+
+Advanced topics in fine-tuning LLMs.
+
+[ ![](../education/fine_tuning/johno.png) Napkin Math For Fine Tuning  We will show you how to build intuition around training performance with…  ](https://parlance-labs.com/education/fine_tuning/napkin_math.html)
+
+[ ![](../education/fine_tuning/johno2.png) Napkin Math For Fine Tuning Part 2  Johno Whitaker answers follow-up questions about the first Napkin Math…  ](https://parlance-labs.com/education/fine_tuning/napkin_math_2.html)
+
+[ ![](../education/fine_tuning/mark.png) Slaying OOMs with PyTorch FSDP and torchao  Have you ever hit an OOM (and wished you had more VRAM)? If you’ve done…  ](https://parlance-labs.com/education/fine_tuning/slaying_ooms.html)
+
+[ ![](../education/fine_tuning/pawel.png) Fine Tuning LLMs for Function Calling  In this talk, we will go through the process and best practices of…  ](https://parlance-labs.com/education/fine_tuning/pawel.html)
+
+[ ![](../education/fine_tuning/zach.png) FSDP, DeepSpeed and Accelerate  Advanced techniques and practical considerations for fine-tuning large…  ](https://parlance-labs.com/education/fine_tuning/zach.html)
+
+[ ![](wing.png) Axolotl Office Hours  Wing answers questions about axolotl, including advanced features and…  ](https://youtu.be/6Pg6SVEooys?si=YOjCIZIO_NAegqkj)
+
+No matching items 
+
+## Subscribe[](#subscribe)
+
+Subscribe to our newsletter to get updates on new educational resources.
+
+Subscribe For Updates
+
+[ Evals ](https://parlance-labs.com/education/evals/)
+
+  * [ ](https://twitter.com/HamelHusain)
+  * [ ](https://github.com/hamelsmu)
+
+
+
+  * [Edit this page](https://github.com/parlance-labs/website/edit/main/education/index.qmd)
+
+

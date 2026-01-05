@@ -1,0 +1,103 @@
+# Articles
+
+	- [A Metrics-First Approach to LLM Evaluation](https://www.rungalileo.io/blog/metrics-first-approach-to-llm-evaluation?utm_medium=email&_hsmi=304542585&utm_content=304542585&utm_source=hs_automation)
+
+# Repositories
+
+	- [https://github.com/openai/evals](https://github.com/openai/evals)
+	- [https://github.com/Giskard-AI/giskard](https://github.com/Giskard-AI/giskard)
+	- [https://github.com/explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+
+# Videos
+
+	- [How to evaluate an LLM-powered RAG application automatically.](https://www.youtube.com/watch?v=ZPX3W77h_1E&t=1s)
+
+# Methods to evaluate text tasks
+
+	- BLEU (bilingual evaluation understudy → Precision-Oriented)
+	- ROUGE (Recall-Oriented Understudy for Gisting Evaluation)
+	- BertScore:
+		- [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675)
+	
+	- MoverScore:
+		- [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://arxiv.org/abs/1909.02622)
+	
+	- LLM-based metrics:
+		- [https://github.com/openai/evals/blob/main/evals/registry/modelgraded/fact.yaml](https://github.com/openai/evals/blob/main/evals/registry/modelgraded/fact.yaml)
+		- [https://github.com/openai/evals](https://github.com/openai/evals)
+
+
+---
+
+# Benchmarks
+
+	# General purpose (pre-trained - before SFT)
+	
+	- MMLU (knowledge): Tests models on multiple-choice questions across 57 subjects, from
+	elementary to professional levels
+	- HellaSwag (reasoning): Challenges models to complete a given situation with the most
+	plausible ending from multiple choices
+	- ARC-C (reasoning): Evaluates models on grade-school-level multiple-choice science
+		questions requiring causal reasoning
+	
+	- Winogrande (reasoning): Assesses common sense reasoning through pronoun resolution
+	in carefully crafted sentences
+	- PIQA (reasoning): Measures physical common sense understanding through questions
+	about everyday physical interactions
+	# General purpose (after SFT)
+	
+	- IFEval (instruction following): Assesses a model’s ability to follow instructions with
+	particular constraints, like not outputting any commas in your answer
+	- Chatbot Arena (conversation): A framework where humans vote for the best answer to
+	an instruction, comparing two models in head-to-head conversations
+	- AlpacaEval (instruction following): Automatic evaluation for fine-tuned models that is
+	highly correlated with Chatbot Arena
+	- MT-Bench (conversation): Evaluates models on multi-turn conversations, testing their
+	ability to maintain context and provide coherent responses
+	- GAIA (agentic): Tests a wide range of abilities like tool use and web browsing, in a multi-
+	step fashion
+	# Domain-specific (after SFT)
+	
+	- Open Medical-LLM Leaderboard: Evaluates the performance of LLMs in medical ques-
+	tion-answering tasks. It regroups 9 metrics, with 1,273 questions from the US medical li-
+	cense exams (MedQA), 500 questions from PubMed articles (PubMedQA), 4,183 questions
+	from Indian medical entrance exams (MedMCQA), and 1,089 questions from 6 sub-cate-
+	gories of MMLU (clinical knowledge, medical genetics, anatomy, professional medicine,
+	college biology, and college medicine).
+	- BigCodeBench Leaderboard: Evaluates the performance of code LLMs, featuring two main
+	categories: BigCodeBench-Complete for code completion based on structured docstrings,
+	and BigCodeBench-Instruct for code generation from natural language instructions. Mod-
+	els are ranked by their Pass@1 scores using greedy decoding, with an additional Elo rating
+	for the Complete variant. It covers a wide range of programming scenarios that test LLMs’
+	compositional reasoning and instruction-following capabilities.
+	- Hallucinations Leaderboard: Evaluates LLMs’ tendency to produce false or unsupported
+	information across 16 diverse tasks spanning 5 categories. These include Question Answer-
+	ing (with datasets like NQ Open, TruthfulQA, and SQuADv2), Reading Comprehension (using
+	TriviaQA and RACE), Summarization (employing HaluEval Summ, XSum, and CNN/DM),
+	Dialogue (featuring HaluEval Dial and FaithDial), and Fact Checking (utilizing MemoTrap,
+	SelfCheckGPT, FEVER, and TrueFalse). The leaderboard also assesses instruction-follow-
+	ing ability using IFEval.
+	- Enterprise Scenarios Leaderboard: Evaluates the performance of LLMs on six real-world
+	enterprise use cases, covering diverse tasks relevant to business applications. The bench-
+	marks include FinanceBench (100 financial questions with retrieved context), Legal Con-
+	fidentiality (100 prompts from LegalBench for legal reasoning), Writing Prompts (cre-
+	ative writing evaluation), Customer Support Dialogue (relevance in customer service
+	interactions), Toxic Prompts (safety assessment for harmful content generation), and
+	Enterprise PII (business safety for sensitive information protection). Some test sets are
+	closed-source to prevent gaming of the leaderboard. The evaluation focuses on specific
+	capabilities such as answer accuracy, legal reasoning, creative writing, contextual rele-
+	vance, and safety measures, providing a comprehensive assessment of LLMs’ suitability
+	for enterprise environments.
+
+# Tools
+
+	# LLMs
+	
+	[Link Preview](https://github.com/EleutherAI/lm-evaluation-harness)
+	[Link Preview](https://github.com/huggingface/lighteval)
+	
+	# RAG / Apps
+	
+	[https://aligneval.com/](https://aligneval.com/)
+	[Link Preview](https://github.com/truera/trulens)
+	[Link Preview](https://github.com/stanford-futuredata/ARES)

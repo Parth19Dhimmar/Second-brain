@@ -1,0 +1,133 @@
+Contents Menu Expand Light mode Dark mode Auto light/dark mode
+
+Hide navigation sidebar
+
+Hide table of contents sidebar
+
+Toggle site navigation sidebar
+
+[PyMuPDF 1.25.2 documentation](/en/latest/index.html)
+
+Toggle Light / Dark / Auto color theme
+
+Toggle table of contents sidebar
+
+[ ![Light Logo](/en/latest/_static/sidebar-logo-dark.svg) ![Dark Logo](/en/latest/_static/sidebar-logo-light.svg) PyMuPDF 1.25.2 documentation ](/en/latest/index.html)
+
+About
+
+  * [Features Comparison](/en/latest/about.html)
+  * [Performance](/en/latest/about.html#performance)
+  * [License and Copyright](/en/latest/about.html#license-and-copyright)
+  * [PyMuPDF4LLM](/en/latest/pymupdf4llm/index.html)
+  * [PyMuPDF Pro](/en/latest/pymupdf-pro.html)
+
+
+
+User Guide
+
+  * [Installation](/en/latest/installation.html)
+  * [The Basics](/en/latest/the-basics.html)
+  * [Tutorial](/en/latest/tutorial.html)
+  * [PyMuPDF, LLM & RAG](/en/latest/rag.html)
+  * [Resources](/en/latest/resources.html)
+
+
+
+How to Guide
+
+  * [Opening Files](/en/latest/how-to-open-a-file.html)
+  * [Text](/en/latest/recipes-text.html)
+  * [Images](/en/latest/recipes-images.html)
+  * [Annotations](/en/latest/recipes-annotations.html)
+  * [Drawing and Graphics](/en/latest/recipes-drawing-and-graphics.html)
+  * [Stories](/en/latest/recipes-stories.html)
+  * [Journalling](/en/latest/recipes-journalling.html)
+  * [Multiprocessing](/en/latest/recipes-multiprocessing.html)
+  * [OCR - Optical Character Recognition](/en/latest/recipes-ocr.html)
+  * [Optional Content Support](/en/latest/recipes-optional-content.html)
+  * [Low-Level Interfaces](/en/latest/recipes-low-level-interfaces.html)
+  * [Common Issues and their Solutions](/en/latest/recipes-common-issues-and-their-solutions.html)
+
+
+
+API Reference
+
+  * [Command line interface](/en/latest/module.html)
+  * [Classes](/en/latest/classes.html)
+
+Toggle child pages in navigation
+
+    * [Annot](/en/latest/annot.html)
+    * [Archive](/en/latest/archive-class.html)
+    * [Colorspace](/en/latest/colorspace.html)
+    * [DisplayList](/en/latest/displaylist.html)
+    * [Document](/en/latest/document.html)
+    * [DocumentWriter](/en/latest/document-writer-class.html)
+    * [Font](/en/latest/font.html)
+    * [Identity](/en/latest/identity.html)
+    * [IRect](/en/latest/irect.html)
+    * [Link](/en/latest/link.html)
+    * [linkDest](/en/latest/linkdest.html)
+    * [Matrix](/en/latest/matrix.html)
+    * [Outline](/en/latest/outline.html)
+    * [Page](/en/latest/page.html)
+    * [Pixmap](/en/latest/pixmap.html)
+    * [Point](/en/latest/point.html)
+    * [Quad](/en/latest/quad.html)
+    * [Rect](/en/latest/rect.html)
+    * [Shape](/en/latest/shape.html)
+    * [Story](/en/latest/story-class.html)
+    * [TextPage](/en/latest/textpage.html)
+    * [TextWriter](/en/latest/textwriter.html)
+    * [Tools](/en/latest/tools.html)
+    * [Widget](/en/latest/widget.html)
+    * [Xml](/en/latest/xml-class.html)
+  * [Operator Algebra for Geometry Objects](/en/latest/algebra.html)
+  * [Low Level Functions and Classes](/en/latest/lowlevel.html)
+
+Toggle child pages in navigation
+
+    * [Functions](/en/latest/functions.html)
+    * [Device](/en/latest/device.html)
+    * [Working together: DisplayList and TextPage](/en/latest/coop_low.html)
+  * [Glossary](/en/latest/glossary.html)
+  * [Constants and Enumerations](/en/latest/vars.html)
+  * [Color Database](/en/latest/colors.html)
+
+
+
+Other
+
+  * [Appendix 1: Details on Text Extraction](/en/latest/app1.html)
+  * [Appendix 2: Considerations on Embedded Files](/en/latest/app2.html)
+  * [Appendix 3: Assorted Technical Information](/en/latest/app3.html)
+  * [Appendix 4: Performance Comparison Methodology](/en/latest/app4.html)
+  * [Change Log](/en/latest/changes.html)
+  * [Deprecated Names](/en/latest/znames.html)
+
+
+
+[ Back to top ](#)
+
+Toggle Light / Dark / Auto color theme
+
+Toggle table of contents sidebar
+
+# 404![#](#id1 "Permalink to this heading")
+
+**This page is not available.**
+
+Please use the menu or search to find what you are looking for.
+
+[Do you have any feedback on this page?](https://artifex.com/contributor/feedback.php?utm_source=rtd-pymupdf&utm_medium=rtd&utm_content=footer-link&url=https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html/)
+
+This software is provided AS-IS with no warranty, either express or implied. This software is distributed under license and may not be copied, modified or distributed except as expressly authorized under the terms of that license. Refer to licensing information at [artifex.com](https://www.artifex.com?utm_source=rtd-pymupdf&utm_medium=rtd&utm_content=footer-link) or contact Artifex Software Inc., 39 Mesa Street, Suite 108A, San Francisco CA 94129, United States for further information.
+
+This documentation covers all versions up to 1.25.2.
+
+Copyright © 2015-2025, Artifex 
+
+Made with [Furo](https://github.com/pradyunsg/furo)
+
+Last updated on 17. Jan 2025

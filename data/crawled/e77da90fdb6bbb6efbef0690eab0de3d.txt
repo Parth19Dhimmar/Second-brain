@@ -1,0 +1,145 @@
+[![Hugging Face's logo](/front/assets/huggingface_logo-noborder.svg) Hugging Face](/)
+
+  * [ Models](/models)
+  * [ Datasets](/datasets)
+  * [ Spaces](/spaces)
+  * [ Posts](/posts)
+  * [ Docs](/docs)
+  * [ Enterprise](/enterprise)
+  * [Pricing](/pricing)
+  * [Log In](/login)
+  * [Sign Up](/join)
+
+
+
+# [ Datasets:](/datasets)
+
+[![](https://cdn-avatars.huggingface.co/v1/production/uploads/647479a17d131daf633c108d/IS5jNkSSB5wE2kbtW7QqA.png)](/Trelis)
+
+[Trelis](/Trelis)
+
+/
+
+[hh-rlhf-dpo](/datasets/Trelis/hh-rlhf-dpo)
+
+like 2
+
+Follow
+
+![](https://cdn-avatars.huggingface.co/v1/production/uploads/647479a17d131daf633c108d/IS5jNkSSB5wE2kbtW7QqA.png) Trelis 98
+
+ArXiv:
+
+arxiv: 2204.05862
+
+Tags: [ human-feedback ](/datasets?other=human-feedback)[ DPO ](/datasets?other=DPO)[ rlhf ](/datasets?other=rlhf)[ Llama 2 ](/datasets?other=Llama+2)
+
+License:
+
+other
+
+[ Dataset card ](/datasets/Trelis/hh-rlhf-dpo)[ Files Files and versions ](/datasets/Trelis/hh-rlhf-dpo/tree/main)[ Community 1 ](/datasets/Trelis/hh-rlhf-dpo/discussions)
+
+##  You need to agree to share your contact information to access this dataset
+
+This repository is publicly accessible, but you have to accept the conditions to access its files and content.
+
+Access to this repo requires the purchase of a license (see link on model card below)
+
+[Log in](/login?next=%2Fdatasets%2FTrelis%2Fhh-rlhf-dpo) or [Sign Up](/join?next=%2Fdatasets%2FTrelis%2Fhh-rlhf-dpo) to review the conditions and access this dataset content.
+
+  * [Dataset Summary](#dataset-summary "Dataset Summary")
+  * [Human preference data about helpfulness and harmlessness (PM Data)](#human-preference-data-about-helpfulness-and-harmlessness-pm-data "Human preference data about helpfulness and harmlessness \(PM Data\)")
+  * [Red teaming data (not PM Data)](#red-teaming-data-not-pm-data "Red teaming data \(not PM Data\)")
+  * [Usage](#usage "Usage")
+  * [Contact](#contact "Contact")
+
+
+
+#  [ ](#dpo-formatted-helpful-and-harmless-rlhf-dataset) DPO formatted Helpful and Harmless RLHF Dataset 
+
+This dataset is built from [Anthropic's hh-rlhf dataset](https://huggingface.co/datasets/Anthropic/hh-rlhf).
+
+It is modified as follows:
+
+  * The prompt formatting is switched to the Llama 2 format with [INST] and [/INST]
+  * The data is split into prompt, chosen and rejected rows, as required by [HuggingFace's DPO trainer](https://huggingface.co/docs/trl/dpo_trainer).
+
+
+
+Purchase access to this dataset [here](https://buy.stripe.com/dR614QcWh95VdZ68xb). Purchase entitles the user to make use of the dataset for training large language models.
+
+  * The original dataset card follows below:
+
+
+
+#  [ ](#dataset-card-for-hh-rlhf) Dataset Card for HH-RLHF 
+
+##  [ ](#dataset-summary) Dataset Summary 
+
+This repository provides access to two different kinds of data:
+
+  1. Human preference data about helpfulness and harmlessness from [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862). These data are meant to train preference (or reward) models for subsequent RLHF training. These data are _not_ meant for supervised training of dialogue agents. Training dialogue agents on these data is likely to lead to harmful models and this shold be avoided.
+  2. Human-generated and annotated red teaming dialogues from [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://www.anthropic.com/red_teaming.pdf). These data are meant to understand how crowdworkers red team models and what types of red team attacks are succesful or not. The data are _not_ meant for fine-tuning or preference modeling (use the data above for preference modeling). These data are entire transcripts of conversations that are derived from the harmlessness preference modeling data described above, where only the chosen response is incorporated into the overall transcript. Furthermore, the transcripts are annotated with human and automated measurements of how harmful the overall dialogues are.
+
+
+
+**Disclaimer** : The data (especially the harmlessness preference data and the red team data) contain content that may be offensive or upsetting. Topics include, but are not limited to, discriminatory language and discussions of abuse, violence, self-harm, exploitation, and other potentially upsetting subject matter. Please only engage with the data in accordance with your own personal risk tolerance. The data are intended for research purposes, especially research that can make models _less_ harmful. The views expressed in the data do not reflect the views of Anthropic or any of its employees. As mentioned above, these data are _not_ intended for training dialogue agents as this will likely lead to harmful model behavior. 
+
+Each of these datasets are described further below. 
+
+##  [ ](#human-preference-data-about-helpfulness-and-harmlessness-pm-data) Human preference data about helpfulness and harmlessness (PM Data) 
+
+The data are described in the paper: [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862). If you find the data useful, please cite the paper. The data format is very simple -- each line of the jsonl files contains a pair of texts, one "chosen" and one "rejected".
+
+For **helpfulness** , the data are grouped into train/test splits in three tranches: from our base models (context-distilled 52B language models), via rejection sampling (mostly with best-of-16 sampling) against an early preference model, and a dataset sampled during our iterated "online" process. 
+
+For **harmlessness** , the data are only collected for our base models, but otherwise formatted in the same way.
+
+Details about the data collection process and crowdworker population can be found in the paper, specifically in section 2 and appendix D. 
+
+##  [ ](#red-teaming-data-not-pm-data) Red teaming data (not PM Data) 
+
+The data are described in the paper: [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://www.anthropic.com/red_teaming.pdf). If you find the data useful, please cite the paper. At a high level these data can be examined to understand what succesful red team attempts look like. 
+
+Details about the data and data collection procedures can be found in the Datasheet in the appendix of the paper. 
+
+Each line of the jsonl file contains a dictionary with the following fields:
+
+  * `transcript` a text transcript of a conversation between a human adversary (red team member) and an AI assistant
+  * `min_harmlessness_score_transcript` a real value score of the harmlessness of the AI assistant (lower is more harmful) as obtained from a preference model
+  * `num_params` number of parameters in the language model powering the AI assistant
+  * `model_type` type of model powering the AI assistant
+  * `rating` the red team member's rating of how successful they were at breaking the AI assistant (Likert scale, higher is more successful) 
+  * `task_description` a short text description written by the red team member about how they tried to red team the AI assistant
+  * `task_description_harmlessness_score` a real value score of the harmlessness of the task description (lower is more harmful) as obtained from a preference model
+  * `red_team_member_id` an arbitrary identifier of the red team member. one red team member can generate multiple red team attacks
+  * `is_upworker` a binary indicator that is true if the red team member was from the crowd platform Upwork or false if they were from MTurk
+  * `tags` a list of up to 6 tags per transcript. tags are short descriptions of the red team attempts generated by crowdworkers who reviewed red team data post-hoc. tags were only provided for a random sample of 1000 red team attempts for two of four model types.
+
+
+
+##  [ ](#usage) Usage 
+
+Each of the above datasets is located in a separate sub-directory. To load an individual subset, use the `data_dir` argument of the `load_dataset()` function as follows:
+
+```
+`from datasets import load_dataset # Load all helpfulness/harmless subsets (share the same schema) dataset = load_dataset("Anthropic/hh-rlhf") # Load one of the harmless subsets dataset = load_dataset("Anthropic/hh-rlhf", data_dir="harmless-base") # Load the red teaming subset dataset = load_dataset("Anthropic/hh-rlhf", data_dir="red-team-attempts") `
+```
+
+##  [ ](#contact) Contact 
+
+The original authors host this dataset on GitHub here: <https://github.com/anthropics/hh-rlhf> You can submit inquiries to: redteam@anthropic.com
+
+Downloads last month
+    33
+
+System theme 
+
+Company
+
+[TOS](/terms-of-service) [Privacy](/privacy) [About](/huggingface) [Jobs](https://apply.workable.com/huggingface/) [](/)
+
+Website
+
+[Models](/models) [Datasets](/datasets) [Spaces](/spaces) [Pricing](/pricing) [Docs](/docs)

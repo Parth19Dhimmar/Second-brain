@@ -1,0 +1,1117 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Flangchain-ai%2Flangchain%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Flangchain-ai%2Flangchain%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=langchain-ai%2Flangchain) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ langchain-ai ](/langchain-ai) / **[langchain](/langchain-ai/langchain) ** Public
+
+  * [ Notifications ](/login?return_to=%2Flangchain-ai%2Flangchain) You must be signed in to change notification settings
+  * [ Fork 16.1k ](/login?return_to=%2Flangchain-ai%2Flangchain)
+  * [ Star  98.7k ](/login?return_to=%2Flangchain-ai%2Flangchain)
+
+
+
+
+🦜🔗 Build context-aware reasoning applications 
+
+[python.langchain.com](https://python.langchain.com "https://python.langchain.com")
+
+### License
+
+[ MIT license ](/langchain-ai/langchain/blob/master/LICENSE)
+
+[ 98.7k stars ](/langchain-ai/langchain/stargazers) [ 16.1k forks ](/langchain-ai/langchain/forks) [ Branches ](/langchain-ai/langchain/branches) [ Tags ](/langchain-ai/langchain/tags) [ Activity ](/langchain-ai/langchain/activity)
+
+[ Star  ](/login?return_to=%2Flangchain-ai%2Flangchain)
+
+[ Notifications ](/login?return_to=%2Flangchain-ai%2Flangchain) You must be signed in to change notification settings
+
+  * [ Code ](/langchain-ai/langchain)
+  * [ Issues 381 ](/langchain-ai/langchain/issues)
+  * [ Pull requests 54 ](/langchain-ai/langchain/pulls)
+  * [ Discussions ](/langchain-ai/langchain/discussions)
+  * [ Actions ](/langchain-ai/langchain/actions)
+  * [ Projects 2 ](/langchain-ai/langchain/projects)
+  * [ Security ](/langchain-ai/langchain/security)
+  * [ Insights ](/langchain-ai/langchain/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/langchain-ai/langchain)
+  * [ Issues  ](/langchain-ai/langchain/issues)
+  * [ Pull requests  ](/langchain-ai/langchain/pulls)
+  * [ Discussions  ](/langchain-ai/langchain/discussions)
+  * [ Actions  ](/langchain-ai/langchain/actions)
+  * [ Projects  ](/langchain-ai/langchain/projects)
+  * [ Security  ](/langchain-ai/langchain/security)
+  * [ Insights  ](/langchain-ai/langchain/pulse)
+
+
+
+# langchain-ai/langchain
+
+master
+
+[**861** Branches](/langchain-ai/langchain/branches)[**761** Tags](/langchain-ai/langchain/tags)
+
+[](/langchain-ai/langchain/branches)[](/langchain-ai/langchain/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+![Siddhant231xyz](https://avatars.githubusercontent.com/u/87547498?v=4&size=40)![Siddhant Jain](https://github.githubassets.com/images/gravatars/gravatar-user-420.png?size=40)![efriis](https://avatars.githubusercontent.com/u/9557659?v=4&size=40)3 people[langchain: added vectorstore docstring linting (](/langchain-ai/langchain/commit/9eb10a9240eddbd544cb970e189c02e27e025522)[#29241](https://github.com/langchain-ai/langchain/pull/29241)[)](/langchain-ai/langchain/commit/9eb10a9240eddbd544cb970e189c02e27e025522)Jan 22, 2025[9eb10a9](/langchain-ai/langchain/commit/9eb10a9240eddbd544cb970e189c02e27e025522) · Jan 22, 2025
+
+## History
+
+[12,486 Commits](/langchain-ai/langchain/commits/master/)[](/langchain-ai/langchain/commits/master/)  
+[.devcontainer](/langchain-ai/langchain/tree/master/.devcontainer ".devcontainer")| [.devcontainer](/langchain-ai/langchain/tree/master/.devcontainer ".devcontainer")| [community[minor]: Add ApertureDB as a vectorstore (](/langchain-ai/langchain/commit/5caa3811770fe25e54e46b61e1b14d1a985a0a32 "community\[minor\]: Add ApertureDB as a vectorstore \(#24088\)
+Thank you for contributing to LangChain!
+- \[X\] *ApertureDB as vectorstore**: "community: Add ApertureDB as a
+vectorestore"
+- **Description:** this change provides a new community integration that
+uses ApertureData's ApertureDB as a vector store.
+  - **Issue:** none
+  - **Dependencies:** depends on ApertureDB Python SDK
+  - **Twitter handle:** ApertureData
+- \[X\] **Add tests and docs**: If you're adding a new integration, please
+include
+1. a test for the integration, preferably unit tests that do not rely on
+network access,
+2. an example notebook showing its use. It lives in
+`docs/docs/integrations` directory.
+Integration tests rely on a local run of a public docker image.
+Example notebook additionally relies on a local Ollama server.
+- \[X\] **Lint and test**: Run `make format`, `make lint` and `make test`
+from the root of the package\(s\) you've modified. See contribution
+guidelines for more: https://python.langchain.com/docs/contributing/
+All lint tests pass.
+Additional guidelines:
+- Make sure optional dependencies are imported within a function.
+- Please do not add dependencies to pyproject.toml files \(even optional
+ones\) unless they are required for unit tests.
+- Most PRs should not touch more than one package.
+- Changes should be backwards compatible.
+- If you are adding something to community, do not re-import it in
+langchain.
+If no one reviews your PR within a few days, please @-mention one of
+baskaryan, efriis, eyurtsev, ccurme, vbarda, hwchase17.
+---------
+Co-authored-by: Gautam <gautam@aperturedata.io>")[#24088](https://github.com/langchain-ai/langchain/pull/24088)[)](/langchain-ai/langchain/commit/5caa3811770fe25e54e46b61e1b14d1a985a0a32 "community\[minor\]: Add ApertureDB as a vectorstore \(#24088\)
+Thank you for contributing to LangChain!
+- \[X\] *ApertureDB as vectorstore**: "community: Add ApertureDB as a
+vectorestore"
+- **Description:** this change provides a new community integration that
+uses ApertureData's ApertureDB as a vector store.
+  - **Issue:** none
+  - **Dependencies:** depends on ApertureDB Python SDK
+  - **Twitter handle:** ApertureData
+- \[X\] **Add tests and docs**: If you're adding a new integration, please
+include
+1. a test for the integration, preferably unit tests that do not rely on
+network access,
+2. an example notebook showing its use. It lives in
+`docs/docs/integrations` directory.
+Integration tests rely on a local run of a public docker image.
+Example notebook additionally relies on a local Ollama server.
+- \[X\] **Lint and test**: Run `make format`, `make lint` and `make test`
+from the root of the package\(s\) you've modified. See contribution
+guidelines for more: https://python.langchain.com/docs/contributing/
+All lint tests pass.
+Additional guidelines:
+- Make sure optional dependencies are imported within a function.
+- Please do not add dependencies to pyproject.toml files \(even optional
+ones\) unless they are required for unit tests.
+- Most PRs should not touch more than one package.
+- Changes should be backwards compatible.
+- If you are adding something to community, do not re-import it in
+langchain.
+If no one reviews your PR within a few days, please @-mention one of
+baskaryan, efriis, eyurtsev, ccurme, vbarda, hwchase17.
+---------
+Co-authored-by: Gautam <gautam@aperturedata.io>")| Jul 16, 2024  
+[.github](/langchain-ai/langchain/tree/master/.github ".github")| [.github](/langchain-ai/langchain/tree/master/.github ".github")| [infra: run doc lint on root pyproject change (](/langchain-ai/langchain/commit/a2ed796aa687f2b002c274d520c18099c92380d7 "infra: run doc lint on root pyproject change \(#29350\)")[#29350](https://github.com/langchain-ai/langchain/pull/29350)[)](/langchain-ai/langchain/commit/a2ed796aa687f2b002c274d520c18099c92380d7 "infra: run doc lint on root pyproject change \(#29350\)")| Jan 22, 2025  
+[cookbook](/langchain-ai/langchain/tree/master/cookbook "cookbook")| [cookbook](/langchain-ai/langchain/tree/master/cookbook "cookbook")| [cookbook: fix typo in cookbook/mongodb-langchain-cache-memory.ipynb (](/langchain-ai/langchain/commit/4c0217681a81859da6b3547c46c0bb6af780307c "cookbook: fix typo in cookbook/mongodb-langchain-cache-memory.ipynb \(#29149\)
+Description: fix "enviornment" into "environment". 
+Issue: Typo
+Dependencies: None
+Twitter handle: zrwang01")[#…](https://github.com/langchain-ai/langchain/pull/29149)| Jan 13, 2025  
+[docs](/langchain-ai/langchain/tree/master/docs "docs")| [docs](/langchain-ai/langchain/tree/master/docs "docs")| [packages, docs: Pipeshift - Langchain integration of pipeshift (](/langchain-ai/langchain/commit/de1fc4811da035f8ba765fab957ed0c63a9e80fd "packages, docs: Pipeshift - Langchain integration of pipeshift \(#29114\)
+Description: Added pipeshift integration. This integrates pipeshift LLM
+and ChatModels APIs with langchain
+Dependencies: none
+Unit Tests & Integration tests are added
+Documentation is added as well
+This PR is w.r.t
+\[#27390\]\(https://github.com/langchain-ai/langchain/pull/27390\) and as
+per request, a freshly minted `langchain-pipeshift` package is uploaded
+to PYPI. Only changes to the docs & packages.yml are made in langchain
+master branch
+---------
+Co-authored-by: Chester Curme <chester.curme@gmail.com>
+Co-authored-by: Erick Friis <erick@langchain.dev>")[#29114](https://github.com/langchain-ai/langchain/pull/29114)[)](/langchain-ai/langchain/commit/de1fc4811da035f8ba765fab957ed0c63a9e80fd "packages, docs: Pipeshift - Langchain integration of pipeshift \(#29114\)
+Description: Added pipeshift integration. This integrates pipeshift LLM
+and ChatModels APIs with langchain
+Dependencies: none
+Unit Tests & Integration tests are added
+Documentation is added as well
+This PR is w.r.t
+\[#27390\]\(https://github.com/langchain-ai/langchain/pull/27390\) and as
+per request, a freshly minted `langchain-pipeshift` package is uploaded
+to PYPI. Only changes to the docs & packages.yml are made in langchain
+master branch
+---------
+Co-authored-by: Chester Curme <chester.curme@gmail.com>
+Co-authored-by: Erick Friis <erick@langchain.dev>")| Jan 22, 2025  
+[libs](/langchain-ai/langchain/tree/master/libs "libs")| [libs](/langchain-ai/langchain/tree/master/libs "libs")| [langchain: added vectorstore docstring linting (](/langchain-ai/langchain/commit/9eb10a9240eddbd544cb970e189c02e27e025522 "langchain: added vectorstore docstring linting \(#29241\)
+…ore.py
+Thank you for contributing to LangChain!
+- \[x\] **PR title**: "package: description"
+- Where "package" is whichever of langchain, community, core, etc. is
+being modified. Use "docs: ..." for purely docs changes, "infra: ..."
+for CI changes.
+ - Example: "community: add foobar LLM"
+ 
+Added docstring linting in the vectorstore.py file relating to issue
+#25154
+
+- \[x\] **Add tests and docs**: If you're adding a new integration, please
+include
+1. a test for the integration, preferably unit tests that do not rely on
+network access,
+2. an example notebook showing its use. It lives in
+`docs/docs/integrations` directory.
+
+- \[x\] **Lint and test**: Run `make format`, `make lint` and `make test`
+from the root of the package\(s\) you've modified. See contribution
+guidelines for more: https://python.langchain.com/docs/contributing/
+Additional guidelines:
+- Make sure optional dependencies are imported within a function.
+- Please do not add dependencies to pyproject.toml files \(even optional
+ones\) unless they are required for unit tests.
+- Most PRs should not touch more than one package.
+- Changes should be backwards compatible.
+- If you are adding something to community, do not re-import it in
+langchain.
+If no one reviews your PR within a few days, please @-mention one of
+baskaryan, efriis, eyurtsev, ccurme, vbarda, hwchase17.
+---------
+Co-authored-by: Siddhant Jain <sjain35@buffalo.edu>
+Co-authored-by: Erick Friis <erick@langchain.dev>")[#29241](https://github.com/langchain-ai/langchain/pull/29241)[)](/langchain-ai/langchain/commit/9eb10a9240eddbd544cb970e189c02e27e025522 "langchain: added vectorstore docstring linting \(#29241\)
+…ore.py
+Thank you for contributing to LangChain!
+- \[x\] **PR title**: "package: description"
+- Where "package" is whichever of langchain, community, core, etc. is
+being modified. Use "docs: ..." for purely docs changes, "infra: ..."
+for CI changes.
+ - Example: "community: add foobar LLM"
+ 
+Added docstring linting in the vectorstore.py file relating to issue
+#25154
+
+- \[x\] **Add tests and docs**: If you're adding a new integration, please
+include
+1. a test for the integration, preferably unit tests that do not rely on
+network access,
+2. an example notebook showing its use. It lives in
+`docs/docs/integrations` directory.
+
+- \[x\] **Lint and test**: Run `make format`, `make lint` and `make test`
+from the root of the package\(s\) you've modified. See contribution
+guidelines for more: https://python.langchain.com/docs/contributing/
+Additional guidelines:
+- Make sure optional dependencies are imported within a function.
+- Please do not add dependencies to pyproject.toml files \(even optional
+ones\) unless they are required for unit tests.
+- Most PRs should not touch more than one package.
+- Changes should be backwards compatible.
+- If you are adding something to community, do not re-import it in
+langchain.
+If no one reviews your PR within a few days, please @-mention one of
+baskaryan, efriis, eyurtsev, ccurme, vbarda, hwchase17.
+---------
+Co-authored-by: Siddhant Jain <sjain35@buffalo.edu>
+Co-authored-by: Erick Friis <erick@langchain.dev>")| Jan 22, 2025  
+[scripts](/langchain-ai/langchain/tree/master/scripts "scripts")| [scripts](/langchain-ai/langchain/tree/master/scripts "scripts")| [infra: update mypy 1.10, ruff 0.5 (](/langchain-ai/langchain/commit/a0c2281540885b068331921d45d2549f7df8b55f "infra: update mypy 1.10, ruff 0.5 \(#23721\)
+```python
+"""python scripts/update_mypy_ruff.py"""
+import glob
+import tomllib
+from pathlib import Path
+import toml
+import subprocess
+import re
+ROOT_DIR = Path\(__file__\).parents\[1\]
+
+def main\(\):
+  for path in glob.glob\(str\(ROOT_DIR / "libs/**/pyproject.toml"\), recursive=True\):
+    print\(path\)
+    with open\(path, "rb"\) as f:
+      pyproject = tomllib.load\(f\)
+    try:
+      pyproject\["tool"\]\["poetry"\]\["group"\]\["typing"\]\["dependencies"\]\["mypy"\] = \(
+        "^1.10"
+      \)
+      pyproject\["tool"\]\["poetry"\]\["group"\]\["lint"\]\["dependencies"\]\["ruff"\] = \(
+        "^0.5"
+      \)
+    except KeyError:
+      continue
+    with open\(path, "w"\) as f:
+      toml.dump\(pyproject, f\)
+    cwd = "/".join\(path.split\("/"\)\[:-1\]\)
+    completed = subprocess.run\(
+      "poetry lock --no-update; poetry install --with typing; poetry run mypy . --no-color",
+      cwd=cwd,
+      shell=True,
+      capture_output=True,
+      text=True,
+    \)
+    logs = completed.stdout.split\("\\n"\)
+    to_ignore = {}
+    for l in logs:
+      if re.match\("^\(.*\)\\:\(\\d+\)\\: error:.*\\\[\(.*\)\\\]", l\):
+        path, line_no, error_type = re.match\(
+          "^\(.*\)\\:\(\\d+\)\\: error:.*\\\[\(.*\)\\\]", l
+        \).groups\(\)
+        if \(path, line_no\) in to_ignore:
+          to_ignore\[\(path, line_no\)\].append\(error_type\)
+        else:
+          to_ignore\[\(path, line_no\)\] = \[error_type\]
+    print\(len\(to_ignore\)\)
+    for \(error_path, line_no\), error_types in to_ignore.items\(\):
+      all_errors = ", ".join\(error_types\)
+      full_path = f"{cwd}/{error_path}"
+      try:
+        with open\(full_path, "r"\) as f:
+          file_lines = f.readlines\(\)
+      except FileNotFoundError:
+        continue
+      file_lines\[int\(line_no\) - 1\] = \(
+        file_lines\[int\(line_no\) - 1\]\[:-1\] + f" # type: ignore\[{all_errors}\]\\n"
+      \)
+      with open\(full_path, "w"\) as f:
+        f.write\("".join\(file_lines\)\)
+    subprocess.run\(
+      "poetry run ruff format .; poetry run ruff --select I --fix .",
+      cwd=cwd,
+      shell=True,
+      capture_output=True,
+      text=True,
+    \)
+
+if __name__ == "__main__":
+  main\(\)
+```")[#23721](https://github.com/langchain-ai/langchain/pull/23721)[)](/langchain-ai/langchain/commit/a0c2281540885b068331921d45d2549f7df8b55f "infra: update mypy 1.10, ruff 0.5 \(#23721\)
+```python
+"""python scripts/update_mypy_ruff.py"""
+import glob
+import tomllib
+from pathlib import Path
+import toml
+import subprocess
+import re
+ROOT_DIR = Path\(__file__\).parents\[1\]
+
+def main\(\):
+  for path in glob.glob\(str\(ROOT_DIR / "libs/**/pyproject.toml"\), recursive=True\):
+    print\(path\)
+    with open\(path, "rb"\) as f:
+      pyproject = tomllib.load\(f\)
+    try:
+      pyproject\["tool"\]\["poetry"\]\["group"\]\["typing"\]\["dependencies"\]\["mypy"\] = \(
+        "^1.10"
+      \)
+      pyproject\["tool"\]\["poetry"\]\["group"\]\["lint"\]\["dependencies"\]\["ruff"\] = \(
+        "^0.5"
+      \)
+    except KeyError:
+      continue
+    with open\(path, "w"\) as f:
+      toml.dump\(pyproject, f\)
+    cwd = "/".join\(path.split\("/"\)\[:-1\]\)
+    completed = subprocess.run\(
+      "poetry lock --no-update; poetry install --with typing; poetry run mypy . --no-color",
+      cwd=cwd,
+      shell=True,
+      capture_output=True,
+      text=True,
+    \)
+    logs = completed.stdout.split\("\\n"\)
+    to_ignore = {}
+    for l in logs:
+      if re.match\("^\(.*\)\\:\(\\d+\)\\: error:.*\\\[\(.*\)\\\]", l\):
+        path, line_no, error_type = re.match\(
+          "^\(.*\)\\:\(\\d+\)\\: error:.*\\\[\(.*\)\\\]", l
+        \).groups\(\)
+        if \(path, line_no\) in to_ignore:
+          to_ignore\[\(path, line_no\)\].append\(error_type\)
+        else:
+          to_ignore\[\(path, line_no\)\] = \[error_type\]
+    print\(len\(to_ignore\)\)
+    for \(error_path, line_no\), error_types in to_ignore.items\(\):
+      all_errors = ", ".join\(error_types\)
+      full_path = f"{cwd}/{error_path}"
+      try:
+        with open\(full_path, "r"\) as f:
+          file_lines = f.readlines\(\)
+      except FileNotFoundError:
+        continue
+      file_lines\[int\(line_no\) - 1\] = \(
+        file_lines\[int\(line_no\) - 1\]\[:-1\] + f" # type: ignore\[{all_errors}\]\\n"
+      \)
+      with open\(full_path, "w"\) as f:
+        f.write\("".join\(file_lines\)\)
+    subprocess.run\(
+      "poetry run ruff format .; poetry run ruff --select I --fix .",
+      cwd=cwd,
+      shell=True,
+      capture_output=True,
+      text=True,
+    \)
+
+if __name__ == "__main__":
+  main\(\)
+```")| Jul 3, 2024  
+[.gitattributes](/langchain-ai/langchain/blob/master/.gitattributes ".gitattributes")| [.gitattributes](/langchain-ai/langchain/blob/master/.gitattributes ".gitattributes")| [Update dev container (](/langchain-ai/langchain/commit/ccd916babe8b24ff8a2ef5d9c2a8a53487388f2a "Update dev container \(#6189\)
+Fixes https://github.com/hwchase17/langchain/issues/6172
+As described in https://github.com/hwchase17/langchain/issues/6172, I'd
+love to help update the dev container in this project.
+**Summary of changes:**
+- Dev container now builds \(the current container in this repo won't
+build for me\)
+- Dockerfile updates
+- Update image to our \[currently-maintained Python
+image\]\(https://github.com/devcontainers/images/tree/main/src/python/.devcontainer\)
+\(`mcr.microsoft.com/devcontainers/python`\) rather than the deprecated
+image from vscode-dev-containers
+- Move Dockerfile to root of repo - in order for `COPY` to work
+properly, it needs the files \(in this case, `pyproject.toml` and
+`poetry.toml`\) in the same directory
+- devcontainer.json updates
+- Removed `customizations` and `remoteUser` since they should be covered
+by the updated image in the Dockerfile
+   - Update comments
+- Update docker-compose.yaml to properly point to updated Dockerfile
+- Add a .gitattributes to avoid line ending conversions, which can
+result in hundreds of pending changes
+\(\[info\]\(https://code.visualstudio.com/docs/devcontainers/tips-and-tricks#_resolving-git-line-ending-issues-in-containers-resulting-in-many-modified-files\)\)
+- Add a README in the .devcontainer folder and info on the dev container
+in the contributing.md
+**Outstanding questions:**
+- Is it expected for `poetry install` to take some time? It takes about
+30 minutes for this dev container to finish building in a Codespace, but
+a user should only have to experience this once. Through some online
+investigation, this doesn't seem unusual
+- Versions of poetry newer than 1.3.2 failed every time - based on some
+of the guidance in contributing.md and other online resources, it seemed
+changing poetry versions might be a good solution. 1.3.2 is from Jan
+2023
+---------
+Co-authored-by: bamurtaugh <brmurtau@microsoft.com>
+Co-authored-by: Samruddhi Khandale <samruddhikhandale@github.com>")[#6189](https://github.com/langchain-ai/langchain/pull/6189)[)](/langchain-ai/langchain/commit/ccd916babe8b24ff8a2ef5d9c2a8a53487388f2a "Update dev container \(#6189\)
+Fixes https://github.com/hwchase17/langchain/issues/6172
+As described in https://github.com/hwchase17/langchain/issues/6172, I'd
+love to help update the dev container in this project.
+**Summary of changes:**
+- Dev container now builds \(the current container in this repo won't
+build for me\)
+- Dockerfile updates
+- Update image to our \[currently-maintained Python
+image\]\(https://github.com/devcontainers/images/tree/main/src/python/.devcontainer\)
+\(`mcr.microsoft.com/devcontainers/python`\) rather than the deprecated
+image from vscode-dev-containers
+- Move Dockerfile to root of repo - in order for `COPY` to work
+properly, it needs the files \(in this case, `pyproject.toml` and
+`poetry.toml`\) in the same directory
+- devcontainer.json updates
+- Removed `customizations` and `remoteUser` since they should be covered
+by the updated image in the Dockerfile
+   - Update comments
+- Update docker-compose.yaml to properly point to updated Dockerfile
+- Add a .gitattributes to avoid line ending conversions, which can
+result in hundreds of pending changes
+\(\[info\]\(https://code.visualstudio.com/docs/devcontainers/tips-and-tricks#_resolving-git-line-ending-issues-in-containers-resulting-in-many-modified-files\)\)
+- Add a README in the .devcontainer folder and info on the dev container
+in the contributing.md
+**Outstanding questions:**
+- Is it expected for `poetry install` to take some time? It takes about
+30 minutes for this dev container to finish building in a Codespace, but
+a user should only have to experience this once. Through some online
+investigation, this doesn't seem unusual
+- Versions of poetry newer than 1.3.2 failed every time - based on some
+of the guidance in contributing.md and other online resources, it seemed
+changing poetry versions might be a good solution. 1.3.2 is from Jan
+2023
+---------
+Co-authored-by: bamurtaugh <brmurtau@microsoft.com>
+Co-authored-by: Samruddhi Khandale <samruddhikhandale@github.com>")| Jun 17, 2023  
+[.gitignore](/langchain-ai/langchain/blob/master/.gitignore ".gitignore")| [.gitignore](/langchain-ai/langchain/blob/master/.gitignore ".gitignore")| [infra: gitignore api_ref mds (](/langchain-ai/langchain/commit/6a60a2a4353501157947eb49471be0b8a84e615d "infra: gitignore api_ref mds \(#25705\)")[#25705](https://github.com/langchain-ai/langchain/pull/25705)[)](/langchain-ai/langchain/commit/6a60a2a4353501157947eb49471be0b8a84e615d "infra: gitignore api_ref mds \(#25705\)")| Aug 23, 2024  
+[.pre-commit-config.yaml](/langchain-ai/langchain/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/langchain-ai/langchain/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [all: Add pre-commit hook (](/langchain-ai/langchain/commit/1e88adaca7bb0dfe86f933cbe82639653384b05d "all: Add pre-commit hook \(#26993\)
+This calls `make format` on projects that have modified files.
+So `poetry install --with lint` must have been done for those projects.
+---------
+Co-authored-by: Erick Friis <erick@langchain.dev>")[#26993](https://github.com/langchain-ai/langchain/pull/26993)[)](/langchain-ai/langchain/commit/1e88adaca7bb0dfe86f933cbe82639653384b05d "all: Add pre-commit hook \(#26993\)
+This calls `make format` on projects that have modified files.
+So `poetry install --with lint` must have been done for those projects.
+---------
+Co-authored-by: Erick Friis <erick@langchain.dev>")| Dec 19, 2024  
+[.readthedocs.yaml](/langchain-ai/langchain/blob/master/.readthedocs.yaml ".readthedocs.yaml")| [.readthedocs.yaml](/langchain-ai/langchain/blob/master/.readthedocs.yaml ".readthedocs.yaml")| [infra: update rtd yaml (](/langchain-ai/langchain/commit/dd68a8716ec9ce35b65ab575853e0ef689e5caa1 "infra: update rtd yaml \(#17502\)")[#17502](https://github.com/langchain-ai/langchain/pull/17502)[)](/langchain-ai/langchain/commit/dd68a8716ec9ce35b65ab575853e0ef689e5caa1 "infra: update rtd yaml \(#17502\)")| Feb 14, 2024  
+[CITATION.cff](/langchain-ai/langchain/blob/master/CITATION.cff "CITATION.cff")| [CITATION.cff](/langchain-ai/langchain/blob/master/CITATION.cff "CITATION.cff")| [rename repo namespace to langchain-ai (](/langchain-ai/langchain/commit/a363ab52923582dedc7809c6ac960201c4abe882 "rename repo namespace to langchain-ai \(#11259\)
+### Description
+renamed several repository links from `hwchase17` to `langchain-ai`.
+### Why
+I discovered that the README file in the devcontainer contains an old
+repository name, so I took the opportunity to rename the old repository
+name in all files within the repository, excluding those that do not
+require changes.
+### Dependencies
+none
+### Tag maintainer
+@baskaryan
+### Twitter handle
+\[kzk_maeda\]\(https://twitter.com/kzk_maeda\)")[#11259](https://github.com/langchain-ai/langchain/pull/11259)[)](/langchain-ai/langchain/commit/a363ab52923582dedc7809c6ac960201c4abe882 "rename repo namespace to langchain-ai \(#11259\)
+### Description
+renamed several repository links from `hwchase17` to `langchain-ai`.
+### Why
+I discovered that the README file in the devcontainer contains an old
+repository name, so I took the opportunity to rename the old repository
+name in all files within the repository, excluding those that do not
+require changes.
+### Dependencies
+none
+### Tag maintainer
+@baskaryan
+### Twitter handle
+\[kzk_maeda\]\(https://twitter.com/kzk_maeda\)")| Oct 1, 2023  
+[LICENSE](/langchain-ai/langchain/blob/master/LICENSE "LICENSE")| [LICENSE](/langchain-ai/langchain/blob/master/LICENSE "LICENSE")| [Library Licenses (](/langchain-ai/langchain/commit/5eca1bd93ff42435f5d2299dd620e82d2b0c4515 "Library Licenses \(#13300\)
+Same change as #8403 but in other libs
+also updates \(c\) LangChain Inc. instead of @hwchase17")[#13300](https://github.com/langchain-ai/langchain/pull/13300)[)](/langchain-ai/langchain/commit/5eca1bd93ff42435f5d2299dd620e82d2b0c4515 "Library Licenses \(#13300\)
+Same change as #8403 but in other libs
+also updates \(c\) LangChain Inc. instead of @hwchase17")| Nov 29, 2023  
+[MIGRATE.md](/langchain-ai/langchain/blob/master/MIGRATE.md "MIGRATE.md")| [MIGRATE.md](/langchain-ai/langchain/blob/master/MIGRATE.md "MIGRATE.md")| [Proofreading and Editing Report for Migration Guide (](/langchain-ai/langchain/commit/beef4c4d622d7cb79bcc532e633bffcee206b91c "Proofreading and Editing Report for Migration Guide \(#28084\)
+Corrections and Suggestions for Migrating LangChain Code Documentation
+Thank you for contributing to LangChain!
+- \[ \] **PR title**: "package: description"
+- Where "package" is whichever of langchain, community, core, etc. is
+being modified. Use "docs: ..." for purely docs changes, "infra: ..."
+for CI changes.
+ - Example: "community: add foobar LLM"
+
+- \[ \] **PR message**: ***Delete this entire checklist*** and replace
+with
+  - **Description:** a description of the change
+  - **Issue:** the issue # it fixes, if applicable
+  - **Dependencies:** any dependencies required for this change
+- **Twitter handle:** if your PR gets announced, and you'd like a
+mention, we'll gladly shout you out!
+
+- \[ \] **Add tests and docs**: If you're adding a new integration, please
+include
+1. a test for the integration, preferably unit tests that do not rely on
+network access,
+2. an example notebook showing its use. It lives in
+`docs/docs/integrations` directory.
+
+- \[ \] **Lint and test**: Run `make format`, `make lint` and `make test`
+from the root of the package\(s\) you've modified. See contribution
+guidelines for more: https://python.langchain.com/docs/contributing/
+Additional guidelines:
+- Make sure optional dependencies are imported within a function.
+- Please do not add dependencies to pyproject.toml files \(even optional
+ones\) unless they are required for unit tests.
+- Most PRs should not touch more than one package.
+- Changes should be backwards compatible.
+- If you are adding something to community, do not re-import it in
+langchain.
+If no one reviews your PR within a few days, please @-mention one of
+baskaryan, efriis, eyurtsev, ccurme, vbarda, hwchase17.")[#28084](https://github.com/langchain-ai/langchain/pull/28084)[)](/langchain-ai/langchain/commit/beef4c4d622d7cb79bcc532e633bffcee206b91c "Proofreading and Editing Report for Migration Guide \(#28084\)
+Corrections and Suggestions for Migrating LangChain Code Documentation
+Thank you for contributing to LangChain!
+- \[ \] **PR title**: "package: description"
+- Where "package" is whichever of langchain, community, core, etc. is
+being modified. Use "docs: ..." for purely docs changes, "infra: ..."
+for CI changes.
+ - Example: "community: add foobar LLM"
+
+- \[ \] **PR message**: ***Delete this entire checklist*** and replace
+with
+  - **Description:** a description of the change
+  - **Issue:** the issue # it fixes, if applicable
+  - **Dependencies:** any dependencies required for this change
+- **Twitter handle:** if your PR gets announced, and you'd like a
+mention, we'll gladly shout you out!
+
+- \[ \] **Add tests and docs**: If you're adding a new integration, please
+include
+1. a test for the integration, preferably unit tests that do not rely on
+network access,
+2. an example notebook showing its use. It lives in
+`docs/docs/integrations` directory.
+
+- \[ \] **Lint and test**: Run `make format`, `make lint` and `make test`
+from the root of the package\(s\) you've modified. See contribution
+guidelines for more: https://python.langchain.com/docs/contributing/
+Additional guidelines:
+- Make sure optional dependencies are imported within a function.
+- Please do not add dependencies to pyproject.toml files \(even optional
+ones\) unless they are required for unit tests.
+- Most PRs should not touch more than one package.
+- Changes should be backwards compatible.
+- If you are adding something to community, do not re-import it in
+langchain.
+If no one reviews your PR within a few days, please @-mention one of
+baskaryan, efriis, eyurtsev, ccurme, vbarda, hwchase17.")| Nov 13, 2024  
+[Makefile](/langchain-ai/langchain/blob/master/Makefile "Makefile")| [Makefile](/langchain-ai/langchain/blob/master/Makefile "Makefile")| [docs: more api ref links, add linting step to prevent more (](/langchain-ai/langchain/commit/e6a08355a3222803cbda7bfbc3b93a3d0d15b586 "docs: more api ref links, add linting step to prevent more \(#28495\)")[#28495](https://github.com/langchain-ai/langchain/pull/28495)[)](/langchain-ai/langchain/commit/e6a08355a3222803cbda7bfbc3b93a3d0d15b586 "docs: more api ref links, add linting step to prevent more \(#28495\)")| Dec 4, 2024  
+[README.md](/langchain-ai/langchain/blob/master/README.md "README.md")| [README.md](/langchain-ai/langchain/blob/master/README.md "README.md")| [docs: fix readme link (](/langchain-ai/langchain/commit/5656702b8dea5b008d8026b30274b23f23bdc041 "docs: fix readme link \(#28770\)
+SQL Llama2 Template -> LangChain Extract")[#28770](https://github.com/langchain-ai/langchain/pull/28770)[)](/langchain-ai/langchain/commit/5656702b8dea5b008d8026b30274b23f23bdc041 "docs: fix readme link \(#28770\)
+SQL Llama2 Template -> LangChain Extract")| Dec 17, 2024  
+[SECURITY.md](/langchain-ai/langchain/blob/master/SECURITY.md "SECURITY.md")| [SECURITY.md](/langchain-ai/langchain/blob/master/SECURITY.md "SECURITY.md")| [docs: single security doc (](/langchain-ai/langchain/commit/12d74d5bef144bbdd4c76c08a6e9c286909eb8a7 "docs: single security doc \(#28515\)")[#28515](https://github.com/langchain-ai/langchain/pull/28515)[)](/langchain-ai/langchain/commit/12d74d5bef144bbdd4c76c08a6e9c286909eb8a7 "docs: single security doc \(#28515\)")| Dec 4, 2024  
+[poetry.lock](/langchain-ai/langchain/blob/master/poetry.lock "poetry.lock")| [poetry.lock](/langchain-ai/langchain/blob/master/poetry.lock "poetry.lock")| [infra: fix notebook tests (](/langchain-ai/langchain/commit/23b433f683d1dfd2474c4f5a570b7f01ce81c4da "infra: fix notebook tests \(#28722\)
+Bump unstructured to pick up resolution of
+https://github.com/Unstructured-IO/unstructured/issues/3795")[#28722](https://github.com/langchain-ai/langchain/pull/28722)[)](/langchain-ai/langchain/commit/23b433f683d1dfd2474c4f5a570b7f01ce81c4da "infra: fix notebook tests \(#28722\)
+Bump unstructured to pick up resolution of
+https://github.com/Unstructured-IO/unstructured/issues/3795")| Dec 14, 2024  
+[poetry.toml](/langchain-ai/langchain/blob/master/poetry.toml "poetry.toml")| [poetry.toml](/langchain-ai/langchain/blob/master/poetry.toml "poetry.toml")| [multiple: use modern installer in poetry (](/langchain-ai/langchain/commit/007c5a85d5264203ec0e0a6c44eb13b079bfb984 "multiple: use modern installer in poetry \(#23998\)")[#23998](https://github.com/langchain-ai/langchain/pull/23998)[)](/langchain-ai/langchain/commit/007c5a85d5264203ec0e0a6c44eb13b079bfb984 "multiple: use modern installer in poetry \(#23998\)")| Jul 9, 2024  
+[pyproject.toml](/langchain-ai/langchain/blob/master/pyproject.toml "pyproject.toml")| [pyproject.toml](/langchain-ai/langchain/blob/master/pyproject.toml "pyproject.toml")| [Add Google-style docstring linting and update pyproject.toml (](/langchain-ai/langchain/commit/6c52378992f1b6b07cc9ac36dc45e881f430c85b "Add Google-style docstring linting and update pyproject.toml \(#29303\)
+### Description:
+This PR introduces Google-style docstring linting for the
+ModelLaboratory class in libs/langchain/langchain/model_laboratory.py.
+It also updates the pyproject.toml file to comply with the latest Ruff
+configuration standards \(deprecating top-level lint settings in favor of
+lint\).
+### Changes include:
+- \[x\] Added detailed Google-style docstrings to all methods in
+ModelLaboratory.
+- \[x\] Updated pyproject.toml to move select and pydocstyle settings
+under the \[tool.ruff.lint\] section.
+- \[x\] Ensured all files pass Ruff linting.
+Issue:
+Closes #25154
+### Dependencies:
+No additional dependencies are required for this change.
+### Checklist
+- \[x\] Files passes ruff linting.
+- \[x\] Docstrings conform to the Google-style convention.
+- \[x\] pyproject.toml updated to avoid deprecation warnings.
+- \[x\] My PR is ready to review, please review.")[#29303](https://github.com/langchain-ai/langchain/pull/29303)[)](/langchain-ai/langchain/commit/6c52378992f1b6b07cc9ac36dc45e881f430c85b "Add Google-style docstring linting and update pyproject.toml \(#29303\)
+### Description:
+This PR introduces Google-style docstring linting for the
+ModelLaboratory class in libs/langchain/langchain/model_laboratory.py.
+It also updates the pyproject.toml file to comply with the latest Ruff
+configuration standards \(deprecating top-level lint settings in favor of
+lint\).
+### Changes include:
+- \[x\] Added detailed Google-style docstrings to all methods in
+ModelLaboratory.
+- \[x\] Updated pyproject.toml to move select and pydocstyle settings
+under the \[tool.ruff.lint\] section.
+- \[x\] Ensured all files pass Ruff linting.
+Issue:
+Closes #25154
+### Dependencies:
+No additional dependencies are required for this change.
+### Checklist
+- \[x\] Files passes ruff linting.
+- \[x\] Docstrings conform to the Google-style convention.
+- \[x\] pyproject.toml updated to avoid deprecation warnings.
+- \[x\] My PR is ready to review, please review.")| Jan 19, 2025  
+[yarn.lock](/langchain-ai/langchain/blob/master/yarn.lock "yarn.lock")| [yarn.lock](/langchain-ai/langchain/blob/master/yarn.lock "yarn.lock")| [box: add langchain box package and DocumentLoader (](/langchain-ai/langchain/commit/55fd2e21584d6ef269ff3bdd2f2b7bd49889ee3c "box: add langchain box package and DocumentLoader \(#25506\)
+Thank you for contributing to LangChain!
+-Description: Adding new package: `langchain-box`:
+* `langchain_box.document_loaders.BoxLoader` — DocumentLoader
+functionality
+* `langchain_box.utilities.BoxAPIWrapper` — Box-specific code
+* `langchain_box.utilities.BoxAuth` — Helper class for Box
+authentication
+* `langchain_box.utilities.BoxAuthType` — enum used by BoxAuth class
+- Twitter handle: @boxplatform
+
+- \[x\] **Add tests and docs**: If you're adding a new integration, please
+include
+1. a test for the integration, preferably unit tests that do not rely on
+network access,
+2. an example notebook showing its use. It lives in
+`docs/docs/integrations` directory.
+
+- \[x\] **Lint and test**: Run `make format`, `make lint` and `make test`
+from the root of the package\(s\) you've modified. See contribution
+guidelines for more: https://python.langchain.com/docs/contributing/
+Additional guidelines:
+- Make sure optional dependencies are imported within a function.
+- Please do not add dependencies to pyproject.toml files \(even optional
+ones\) unless they are required for unit tests.
+- Most PRs should not touch more than one package.
+- Changes should be backwards compatible.
+- If you are adding something to community, do not re-import it in
+langchain.
+If no one reviews your PR within a few days, please @-mention one of
+baskaryan, efriis, eyurtsev, ccurme, vbarda, hwchase17.
+---------
+Co-authored-by: Erick Friis <erickfriis@gmail.com>
+Co-authored-by: Erick Friis <erick@langchain.dev>")[#25506](https://github.com/langchain-ai/langchain/pull/25506)[)](/langchain-ai/langchain/commit/55fd2e21584d6ef269ff3bdd2f2b7bd49889ee3c "box: add langchain box package and DocumentLoader \(#25506\)
+Thank you for contributing to LangChain!
+-Description: Adding new package: `langchain-box`:
+* `langchain_box.document_loaders.BoxLoader` — DocumentLoader
+functionality
+* `langchain_box.utilities.BoxAPIWrapper` — Box-specific code
+* `langchain_box.utilities.BoxAuth` — Helper class for Box
+authentication
+* `langchain_box.utilities.BoxAuthType` — enum used by BoxAuth class
+- Twitter handle: @boxplatform
+
+- \[x\] **Add tests and docs**: If you're adding a new integration, please
+include
+1. a test for the integration, preferably unit tests that do not rely on
+network access,
+2. an example notebook showing its use. It lives in
+`docs/docs/integrations` directory.
+
+- \[x\] **Lint and test**: Run `make format`, `make lint` and `make test`
+from the root of the package\(s\) you've modified. See contribution
+guidelines for more: https://python.langchain.com/docs/contributing/
+Additional guidelines:
+- Make sure optional dependencies are imported within a function.
+- Please do not add dependencies to pyproject.toml files \(even optional
+ones\) unless they are required for unit tests.
+- Most PRs should not touch more than one package.
+- Changes should be backwards compatible.
+- If you are adding something to community, do not re-import it in
+langchain.
+If no one reviews your PR within a few days, please @-mention one of
+baskaryan, efriis, eyurtsev, ccurme, vbarda, hwchase17.
+---------
+Co-authored-by: Erick Friis <erickfriis@gmail.com>
+Co-authored-by: Erick Friis <erick@langchain.dev>")| Aug 21, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+# 🦜️🔗 LangChain
+
+[](#️-langchain)
+
+⚡ Build context-aware reasoning applications ⚡
+
+[![Release Notes](https://camo.githubusercontent.com/41ac979ad4e5a6f01a6fd1525321f58afbd22c1d895c491ad35fd02b36ae5f43/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f6c616e67636861696e2d61692f6c616e67636861696e3f7374796c653d666c61742d737175617265)](https://github.com/langchain-ai/langchain/releases) [![CI](https://github.com/langchain-ai/langchain/actions/workflows/check_diffs.yml/badge.svg)](https://github.com/langchain-ai/langchain/actions/workflows/check_diffs.yml) [![PyPI - License](https://camo.githubusercontent.com/c11a4ab9212c5029f425ffcc8b7e96503b684fc9ddaf782bf094217a4fd64d74/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f6c616e67636861696e2d636f72653f7374796c653d666c61742d737175617265)](https://opensource.org/licenses/MIT) [![PyPI - Downloads](https://camo.githubusercontent.com/4d8dab9ad311d70f41203de5d42d818c679d5d59bcba0200f262f934ae4dbaf6/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f6c616e67636861696e2d636f72653f7374796c653d666c61742d737175617265)](https://pypistats.org/packages/langchain-core) [![GitHub star chart](https://camo.githubusercontent.com/1dfba37328291056d23ea687f51e983d739a39526f75947331650c57fe755b1d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6c616e67636861696e2d61692f6c616e67636861696e3f7374796c653d666c61742d737175617265)](https://star-history.com/#langchain-ai/langchain) [![Open Issues](https://camo.githubusercontent.com/f4b106d240df0c680c5b98f5c5f7071b2bd6a66ee37e9c6b691e24fabd358a0b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d7261772f6c616e67636861696e2d61692f6c616e67636861696e3f7374796c653d666c61742d737175617265)](https://github.com/langchain-ai/langchain/issues) [![Open in Dev Containers](https://camo.githubusercontent.com/45e9addd26ffda5e9fd54b1390f4419b1b1dbe4cdbbef267ebac1661705d2cb9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d446576253230436f6e7461696e657273266d6573736167653d4f70656e26636f6c6f723d626c7565266c6f676f3d76697375616c73747564696f636f6465267374796c653d666c61742d737175617265)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/langchain-ai/langchain) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/langchain-ai/langchain) [![Twitter](https://camo.githubusercontent.com/4dcbdca1cef6d6a3176ae1c41ff677586ca10c970626d4602caa031edb9f1dff/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c2f68747470732f747769747465722e636f6d2f6c616e67636861696e61692e7376673f7374796c653d736f6369616c266c6162656c3d466f6c6c6f772532302534304c616e67436861696e4149)](https://twitter.com/langchainai)
+
+Looking for the JS/TS library? Check out [LangChain.js](https://github.com/langchain-ai/langchainjs).
+
+To help you ship LangChain apps to production faster, check out [LangSmith](https://smith.langchain.com). [LangSmith](https://smith.langchain.com) is a unified developer platform for building, testing, and monitoring LLM applications. Fill out [this form](https://www.langchain.com/contact-sales) to speak with our sales team.
+
+## Quick Install
+
+[](#quick-install)
+
+With pip:
+
+```
+pip install langchain
+```
+
+With conda:
+
+```
+conda install langchain -c conda-forge
+```
+
+## 🤔 What is LangChain?
+
+[](#-what-is-langchain)
+
+**LangChain** is a framework for developing applications powered by large language models (LLMs).
+
+For these applications, LangChain simplifies the entire application lifecycle:
+
+  * **Open-source libraries** : Build your applications using LangChain's open-source [components](https://python.langchain.com/docs/concepts/) and [third-party integrations](https://python.langchain.com/docs/integrations/providers/). Use [LangGraph](https://langchain-ai.github.io/langgraph/) to build stateful agents with first-class streaming and human-in-the-loop support.
+  * **Productionization** : Inspect, monitor, and evaluate your apps with [LangSmith](https://docs.smith.langchain.com/) so that you can constantly optimize and deploy with confidence.
+  * **Deployment** : Turn your LangGraph applications into production-ready APIs and Assistants with [LangGraph Platform](https://langchain-ai.github.io/langgraph/cloud/).
+
+
+
+### Open-source libraries
+
+[](#open-source-libraries)
+
+  * **`langchain-core`** : Base abstractions.
+  * **Integration packages** (e.g. **`langchain-openai`** , **`langchain-anthropic`** , etc.): Important integrations have been split into lightweight packages that are co-maintained by the LangChain team and the integration developers.
+  * **`langchain`** : Chains, agents, and retrieval strategies that make up an application's cognitive architecture.
+  * **`langchain-community`** : Third-party integrations that are community maintained.
+  * **[LangGraph](https://langchain-ai.github.io/langgraph)** : Build robust and stateful multi-actor applications with LLMs by modeling steps as edges and nodes in a graph. Integrates smoothly with LangChain, but can be used without it. To learn more about LangGraph, check out our first LangChain Academy course, _Introduction to LangGraph_ , available [here](https://academy.langchain.com/courses/intro-to-langgraph).
+
+
+
+### Productionization:
+
+[](#productionization)
+
+  * **[LangSmith](https://docs.smith.langchain.com/)** : A developer platform that lets you debug, test, evaluate, and monitor chains built on any LLM framework and seamlessly integrates with LangChain.
+
+
+
+### Deployment:
+
+[](#deployment)
+
+  * **[LangGraph Platform](https://langchain-ai.github.io/langgraph/cloud/)** : Turn your LangGraph applications into production-ready APIs and Assistants.
+
+
+
+[![Diagram outlining the hierarchical organization of the LangChain framework, displaying the interconnected parts across multiple layers.](/langchain-ai/langchain/raw/master/docs/static/svg/langchain_stack_112024.svg#gh-light-mode-only)](/langchain-ai/langchain/blob/master/docs/static/svg/langchain_stack_112024.svg#gh-light-mode-only) [![Diagram outlining the hierarchical organization of the LangChain framework, displaying the interconnected parts across multiple layers.](/langchain-ai/langchain/raw/master/docs/static/svg/langchain_stack_112024_dark.svg#gh-dark-mode-only)](/langchain-ai/langchain/blob/master/docs/static/svg/langchain_stack_112024_dark.svg#gh-dark-mode-only)
+
+## 🧱 What can you build with LangChain?
+
+[](#-what-can-you-build-with-langchain)
+
+**❓ Question answering with RAG**
+
+  * [Documentation](https://python.langchain.com/docs/tutorials/rag/)
+  * End-to-end Example: [Chat LangChain](https://chat.langchain.com) and [repo](https://github.com/langchain-ai/chat-langchain)
+
+
+
+**🧱 Extracting structured output**
+
+  * [Documentation](https://python.langchain.com/docs/tutorials/extraction/)
+  * End-to-end Example: [LangChain Extract](https://github.com/langchain-ai/langchain-extract/)
+
+
+
+**🤖 Chatbots**
+
+  * [Documentation](https://python.langchain.com/docs/tutorials/chatbot/)
+  * End-to-end Example: [Web LangChain (web researcher chatbot)](https://weblangchain.vercel.app) and [repo](https://github.com/langchain-ai/weblangchain)
+
+
+
+And much more! Head to the [Tutorials](https://python.langchain.com/docs/tutorials/) section of the docs for more.
+
+## 🚀 How does LangChain help?
+
+[](#-how-does-langchain-help)
+
+The main value props of the LangChain libraries are:
+
+  1. **Components** : composable building blocks, tools and integrations for working with language models. Components are modular and easy-to-use, whether you are using the rest of the LangChain framework or not.
+  2. **Easy orchestration with LangGraph** : [LangGraph](https://langchain-ai.github.io/langgraph/), built on top of `langchain-core`, has built-in support for [messages](https://python.langchain.com/docs/concepts/messages/), [tools](https://python.langchain.com/docs/concepts/tools/), and other LangChain abstractions. This makes it easy to combine components into production-ready applications with persistence, streaming, and other key features. Check out the LangChain [tutorials page](https://python.langchain.com/docs/tutorials/#orchestration) for examples.
+
+
+
+## Components
+
+[](#components)
+
+Components fall into the following **modules** :
+
+**📃 Model I/O**
+
+This includes [prompt management](https://python.langchain.com/docs/concepts/prompt_templates/) and a generic interface for [chat models](https://python.langchain.com/docs/concepts/chat_models/), including a consistent interface for [tool-calling](https://python.langchain.com/docs/concepts/tool_calling/) and [structured output](https://python.langchain.com/docs/concepts/structured_outputs/) across model providers.
+
+**📚 Retrieval**
+
+Retrieval Augmented Generation involves [loading data](https://python.langchain.com/docs/concepts/document_loaders/) from a variety of sources, [preparing it](https://python.langchain.com/docs/concepts/text_splitters/), then [searching over (a.k.a. retrieving from)](https://python.langchain.com/docs/concepts/retrievers/) it for use in the generation step.
+
+**🤖 Agents**
+
+Agents allow an LLM autonomy over how a task is accomplished. Agents make decisions about which Actions to take, then take that Action, observe the result, and repeat until the task is complete. [LangGraph](https://langchain-ai.github.io/langgraph/) makes it easy to use LangChain components to build both [custom](https://langchain-ai.github.io/langgraph/tutorials/) and [built-in](https://langchain-ai.github.io/langgraph/how-tos/create-react-agent/) LLM agents.
+
+## 📖 Documentation
+
+[](#-documentation)
+
+Please see [here](https://python.langchain.com) for full documentation, which includes:
+
+  * [Introduction](https://python.langchain.com/docs/introduction/): Overview of the framework and the structure of the docs.
+  * [Tutorials](https://python.langchain.com/docs/tutorials/): If you're looking to build something specific or are more of a hands-on learner, check out our tutorials. This is the best place to get started.
+  * [How-to guides](https://python.langchain.com/docs/how_to/): Answers to “How do I….?” type questions. These guides are goal-oriented and concrete; they're meant to help you complete a specific task.
+  * [Conceptual guide](https://python.langchain.com/docs/concepts/): Conceptual explanations of the key parts of the framework.
+  * [API Reference](https://python.langchain.com/api_reference/): Thorough documentation of every class and method.
+
+
+
+## 🌐 Ecosystem
+
+[](#-ecosystem)
+
+  * [🦜🛠️ LangSmith](https://docs.smith.langchain.com/): Trace and evaluate your language model applications and intelligent agents to help you move from prototype to production.
+  * [🦜🕸️ LangGraph](https://langchain-ai.github.io/langgraph/): Create stateful, multi-actor applications with LLMs. Integrates smoothly with LangChain, but can be used without it.
+  * [🦜🕸️ LangGraph Platform](https://langchain-ai.github.io/langgraph/concepts/#langgraph-platform): Deploy LLM applications built with LangGraph into production.
+
+
+
+## 💁 Contributing
+
+[](#-contributing)
+
+As an open-source project in a rapidly developing field, we are extremely open to contributions, whether it be in the form of a new feature, improved infrastructure, or better documentation.
+
+For detailed information on how to contribute, see [here](https://python.langchain.com/docs/contributing/).
+
+## 🌟 Contributors
+
+[](#-contributors)
+
+[![langchain contributors](https://camo.githubusercontent.com/17ff631f142bb9263e1b0dc039c78a82fd119efbd58569be208c5f6eebdd9c75/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6c616e67636861696e2d61692f6c616e67636861696e266d61783d32303030)](https://github.com/langchain-ai/langchain/graphs/contributors)
+
+## About
+
+🦜🔗 Build context-aware reasoning applications 
+
+[python.langchain.com](https://python.langchain.com "https://python.langchain.com")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+### Citation
+
+Cite this repository 
+
+Loading
+
+Something went wrong. 
+
+[ Activity](/langchain-ai/langchain/activity)
+
+[ Custom properties](/langchain-ai/langchain/custom-properties)
+
+### Stars
+
+[ **98.7k** stars](/langchain-ai/langchain/stargazers)
+
+### Watchers
+
+[ **709** watching](/langchain-ai/langchain/watchers)
+
+### Forks
+
+[ **16.1k** forks](/langchain-ai/langchain/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Flangchain-ai%2Flangchain&report=langchain-ai+%28user%29)
+
+##  [Releases 761](/langchain-ai/langchain/releases)
+
+[ langchain-core==0.3.31 Latest  Jan 21, 2025 ](/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.31)
+
+[+ 760 releases](/langchain-ai/langchain/releases)
+
+##  [Packages 0](/orgs/langchain-ai/packages?repo_name=langchain)
+
+No packages published 
+
+##  [Used by 171k](/langchain-ai/langchain/network/dependents)
+
+[
+
+  * ![@alishangtian](https://avatars.githubusercontent.com/u/3463296?s=64&v=4)
+  * ![@vieisi8](https://avatars.githubusercontent.com/u/146730344?s=64&v=4)
+  * ![@mwebberclay](https://avatars.githubusercontent.com/u/177776801?s=64&v=4)
+  * ![@ka1817](https://avatars.githubusercontent.com/u/173427201?s=64&v=4)
+  * ![@tail-unica](https://avatars.githubusercontent.com/u/187305435?s=64&v=4)
+  * ![@jkittell](https://avatars.githubusercontent.com/u/11903226?s=64&v=4)
+  * ![@rezvanjoshaghani](https://avatars.githubusercontent.com/u/8338655?s=64&v=4)
+  * ![@armallah](https://avatars.githubusercontent.com/u/77011373?s=64&v=4)
+
++ 171,380  ](/langchain-ai/langchain/network/dependents)
+
+##  [Contributors 3,412](/langchain-ai/langchain/graphs/contributors)
+
+  * [ ![@baskaryan](https://avatars.githubusercontent.com/u/22008038?s=64&v=4) ](https://github.com/baskaryan)
+  * [ ![@hwchase17](https://avatars.githubusercontent.com/u/11986836?s=64&v=4) ](https://github.com/hwchase17)
+  * [ ![@efriis](https://avatars.githubusercontent.com/u/9557659?s=64&v=4) ](https://github.com/efriis)
+  * [ ![@eyurtsev](https://avatars.githubusercontent.com/u/3205522?s=64&v=4) ](https://github.com/eyurtsev)
+  * [ ![@ccurme](https://avatars.githubusercontent.com/u/26529506?s=64&v=4) ](https://github.com/ccurme)
+  * [ ![@nfcampos](https://avatars.githubusercontent.com/u/56902?s=64&v=4) ](https://github.com/nfcampos)
+  * [ ![@leo-gan](https://avatars.githubusercontent.com/u/2256422?s=64&v=4) ](https://github.com/leo-gan)
+  * [ ![@hinthornw](https://avatars.githubusercontent.com/u/13333726?s=64&v=4) ](https://github.com/hinthornw)
+  * [ ![@dev2049](https://avatars.githubusercontent.com/u/130488702?s=64&v=4) ](https://github.com/dev2049)
+  * [ ![@cbornet](https://avatars.githubusercontent.com/u/11633333?s=64&v=4) ](https://github.com/cbornet)
+  * [ ![@rlancemartin](https://avatars.githubusercontent.com/u/122662504?s=64&v=4) ](https://github.com/rlancemartin)
+  * [ ![@vowelparrot](https://avatars.githubusercontent.com/u/130414180?s=64&v=4) ](https://github.com/vowelparrot)
+  * [ ![@jacoblee93](https://avatars.githubusercontent.com/u/6952323?s=64&v=4) ](https://github.com/jacoblee93)
+  * [ ![@tomasonjo](https://avatars.githubusercontent.com/u/19948365?s=64&v=4) ](https://github.com/tomasonjo)
+
+
+
+[+ 3,398 contributors](/langchain-ai/langchain/graphs/contributors)
+
+## Languages
+
+  * [ Jupyter Notebook 62.0% ](/langchain-ai/langchain/search?l=jupyter-notebook)
+  * [ Python 37.8% ](/langchain-ai/langchain/search?l=python)
+  * [ MDX 0.1% ](/langchain-ai/langchain/search?l=mdx)
+  * [ Makefile 0.1% ](/langchain-ai/langchain/search?l=makefile)
+  * [ XSLT 0.0% ](/langchain-ai/langchain/search?l=xslt)
+  * [ Shell 0.0% ](/langchain-ai/langchain/search?l=shell)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

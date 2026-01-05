@@ -1,0 +1,599 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FAntonOsika%2Fgpt-engineer)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FAntonOsika%2Fgpt-engineer)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=AntonOsika%2Fgpt-engineer) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ AntonOsika ](/AntonOsika) / **[gpt-engineer](/AntonOsika/gpt-engineer) ** Public
+
+  * Sponsor
+
+#  Sponsor AntonOsika/gpt-engineer 
+
+##### External links
+
+![patreon](https://github.githubassets.com/assets/patreon-96b15b9db4b9.svg)
+
+[patreon.com/**gpt_eng**](https://patreon.com/gpt_eng)
+
+[Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository). 
+
+[Report abuse](/contact/report-abuse?report=AntonOsika%2Fgpt-engineer+%28Repository+Funding+Links%29)
+
+  * [ Notifications ](/login?return_to=%2FAntonOsika%2Fgpt-engineer) You must be signed in to change notification settings
+  * [ Fork 6.9k ](/login?return_to=%2FAntonOsika%2Fgpt-engineer)
+  * [ Star  52.9k ](/login?return_to=%2FAntonOsika%2Fgpt-engineer)
+
+
+
+
+Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from <https://gptengineer.app>
+
+### License
+
+[ MIT license ](/AntonOsika/gpt-engineer/blob/main/LICENSE)
+
+[ 52.9k stars ](/AntonOsika/gpt-engineer/stargazers) [ 6.9k forks ](/AntonOsika/gpt-engineer/forks) [ Branches ](/AntonOsika/gpt-engineer/branches) [ Tags ](/AntonOsika/gpt-engineer/tags) [ Activity ](/AntonOsika/gpt-engineer/activity)
+
+[ Star  ](/login?return_to=%2FAntonOsika%2Fgpt-engineer)
+
+[ Notifications ](/login?return_to=%2FAntonOsika%2Fgpt-engineer) You must be signed in to change notification settings
+
+  * [ Code ](/AntonOsika/gpt-engineer)
+  * [ Issues 18 ](/AntonOsika/gpt-engineer/issues)
+  * [ Pull requests 12 ](/AntonOsika/gpt-engineer/pulls)
+  * [ Discussions ](/AntonOsika/gpt-engineer/discussions)
+  * [ Actions ](/AntonOsika/gpt-engineer/actions)
+  * [ Projects 2 ](/AntonOsika/gpt-engineer/projects)
+  * [ Security ](/AntonOsika/gpt-engineer/security)
+  * [ Insights ](/AntonOsika/gpt-engineer/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/AntonOsika/gpt-engineer)
+  * [ Issues  ](/AntonOsika/gpt-engineer/issues)
+  * [ Pull requests  ](/AntonOsika/gpt-engineer/pulls)
+  * [ Discussions  ](/AntonOsika/gpt-engineer/discussions)
+  * [ Actions  ](/AntonOsika/gpt-engineer/actions)
+  * [ Projects  ](/AntonOsika/gpt-engineer/projects)
+  * [ Security  ](/AntonOsika/gpt-engineer/security)
+  * [ Insights  ](/AntonOsika/gpt-engineer/pulse)
+
+
+
+# AntonOsika/gpt-engineer
+
+main
+
+[**48** Branches](/AntonOsika/gpt-engineer/branches)[**21** Tags](/AntonOsika/gpt-engineer/tags)
+
+[](/AntonOsika/gpt-engineer/branches)[](/AntonOsika/gpt-engineer/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![AntonOsika](https://avatars.githubusercontent.com/u/4467025?v=4&size=40)](/AntonOsika)[AntonOsika](/AntonOsika/gpt-engineer/commits?author=AntonOsika)[Update README.md (](/AntonOsika/gpt-engineer/commit/a90fcd543eedcc0ff2c34561bc0785d2ba83c47e)[#1283](https://github.com/AntonOsika/gpt-engineer/pull/1283)[)](/AntonOsika/gpt-engineer/commit/a90fcd543eedcc0ff2c34561bc0785d2ba83c47e)Nov 18, 2024[a90fcd5](/AntonOsika/gpt-engineer/commit/a90fcd543eedcc0ff2c34561bc0785d2ba83c47e) · Nov 18, 2024
+
+## History
+
+[1,648 Commits](/AntonOsika/gpt-engineer/commits/main/)[](/AntonOsika/gpt-engineer/commits/main/)  
+[.github](/AntonOsika/gpt-engineer/tree/main/.github ".github")| [.github](/AntonOsika/gpt-engineer/tree/main/.github ".github")| [Update bug report template to include installation method](/AntonOsika/gpt-engineer/commit/bd5b4852ed11de6d0fb0f5c886f0ae948215c8e9 "Update bug report template to include installation method")| Jul 25, 2024  
+[docker](/AntonOsika/gpt-engineer/tree/main/docker "docker")| [docker](/AntonOsika/gpt-engineer/tree/main/docker "docker")| [feat(Dockerfile): switch from alpine to slim base image and add git t…](/AntonOsika/gpt-engineer/commit/0f9d39c4380dc1fcfbb1d648816d0c3c6ad64026 "feat\(Dockerfile\): switch from alpine to slim base image and add git to installed packages
+feat\(README.md\): enhance Docker setup instructions and add debugging section
+fix\(entrypoint.sh\): change shebang from sh to bash")| May 29, 2024  
+[docs](/AntonOsika/gpt-engineer/tree/main/docs "docs")| [docs](/AntonOsika/gpt-engineer/tree/main/docs "docs")| [Update bug report template to include installation method](/AntonOsika/gpt-engineer/commit/bd5b4852ed11de6d0fb0f5c886f0ae948215c8e9 "Update bug report template to include installation method")| Jul 25, 2024  
+[gpt_engineer](/AntonOsika/gpt-engineer/tree/main/gpt_engineer "gpt_engineer")| [gpt_engineer](/AntonOsika/gpt-engineer/tree/main/gpt_engineer "gpt_engineer")| [Merge pull request](/AntonOsika/gpt-engineer/commit/9faae97f93e4845ec0fe9adc2eb5314b4da111e1 "Merge pull request #1191 from jtoberling/main
+Usability improvements") [#1191](https://github.com/AntonOsika/gpt-engineer/pull/1191) [from jtoberling/main](/AntonOsika/gpt-engineer/commit/9faae97f93e4845ec0fe9adc2eb5314b4da111e1 "Merge pull request #1191 from jtoberling/main
+Usability improvements")| Aug 8, 2024  
+[projects](/AntonOsika/gpt-engineer/tree/main/projects "projects")| [projects](/AntonOsika/gpt-engineer/tree/main/projects "projects")| [pre commit](/AntonOsika/gpt-engineer/commit/58e99088a092d595d98bf636dc74bb5c0869e91a "pre commit")| Apr 18, 2024  
+[scripts](/AntonOsika/gpt-engineer/tree/main/scripts "scripts")| [scripts](/AntonOsika/gpt-engineer/tree/main/scripts "scripts")| [pre-commit changes](/AntonOsika/gpt-engineer/commit/b95fa71b71273a20e3d755524e043160d679092e "pre-commit changes")| Feb 10, 2024  
+[tests](/AntonOsika/gpt-engineer/tree/main/tests "tests")| [tests](/AntonOsika/gpt-engineer/tree/main/tests "tests")| [Merge pull request](/AntonOsika/gpt-engineer/commit/9faae97f93e4845ec0fe9adc2eb5314b4da111e1 "Merge pull request #1191 from jtoberling/main
+Usability improvements") [#1191](https://github.com/AntonOsika/gpt-engineer/pull/1191) [from jtoberling/main](/AntonOsika/gpt-engineer/commit/9faae97f93e4845ec0fe9adc2eb5314b4da111e1 "Merge pull request #1191 from jtoberling/main
+Usability improvements")| Aug 8, 2024  
+[.dockerignore](/AntonOsika/gpt-engineer/blob/main/.dockerignore ".dockerignore")| [.dockerignore](/AntonOsika/gpt-engineer/blob/main/.dockerignore ".dockerignore")| [Docker And Docker-Compose Support (](/AntonOsika/gpt-engineer/commit/37550ffe611777e5fefd31d4f1d8aba0afb9c1b8 "Docker And Docker-Compose Support \(#538\)
+* Added Docker support.
+* Fixed a typo.
+* Added .dockerignore
+* Update README.md
+Co-authored-by: karlderkaefer <karlderkaefer@users.noreply.github.com>
+---------
+Co-authored-by: MurdieX <Ayoub Fletcher>
+Co-authored-by: karlderkaefer <karlderkaefer@users.noreply.github.com>")[#538](https://github.com/AntonOsika/gpt-engineer/pull/538)[)](/AntonOsika/gpt-engineer/commit/37550ffe611777e5fefd31d4f1d8aba0afb9c1b8 "Docker And Docker-Compose Support \(#538\)
+* Added Docker support.
+* Fixed a typo.
+* Added .dockerignore
+* Update README.md
+Co-authored-by: karlderkaefer <karlderkaefer@users.noreply.github.com>
+---------
+Co-authored-by: MurdieX <Ayoub Fletcher>
+Co-authored-by: karlderkaefer <karlderkaefer@users.noreply.github.com>")| Aug 13, 2023  
+[.env.template](/AntonOsika/gpt-engineer/blob/main/.env.template ".env.template")| [.env.template](/AntonOsika/gpt-engineer/blob/main/.env.template ".env.template")| [Add claude 3 / anthropic with cost calculation + convenience fixes. g…](/AntonOsika/gpt-engineer/commit/164730a5b933ec0ebc9003c72f60e58176ef0dc6 "Add claude 3 / anthropic with cost calculation + convenience fixes. gpt-engineer is coauthor \(#1080\)
+* add anthropic support
+* Collapse
+* more tokens
+* Cleanup and simplify CLI
+* Improve CLI tool entry point functionality
+* Update improve function name to improve_fn and api key
+* Update file_selector.py with path selection improvements
+* Improve diff parsing
+* Fix color diff
+* Do proper logging
+* Undo indent
+* Fix yes no
+* Fix logs")| Mar 21, 2024  
+[.gitignore](/AntonOsika/gpt-engineer/blob/main/.gitignore ".gitignore")| [.gitignore](/AntonOsika/gpt-engineer/blob/main/.gitignore ".gitignore")| [optional json export of bench results](/AntonOsika/gpt-engineer/commit/2dcf6b215042cc754148eb226565683fd897dbfd "optional json export of bench results")| May 12, 2024  
+[.pre-commit-config.yaml](/AntonOsika/gpt-engineer/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/AntonOsika/gpt-engineer/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [changing linting/formatting setup and formatting](/AntonOsika/gpt-engineer/commit/21e6dacb088986e1b504d3573e6ea4dd52a47321 "changing linting/formatting setup and formatting")| Dec 12, 2023  
+[.readthedocs.yaml](/AntonOsika/gpt-engineer/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [.readthedocs.yaml](/AntonOsika/gpt-engineer/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [updated the readthedocs build steps](/AntonOsika/gpt-engineer/commit/22240b53004b1afe3b9c5f742aa5dc33e08c5112 "updated the readthedocs build steps")| Mar 11, 2024  
+[Acknowledgements.md](/AntonOsika/gpt-engineer/blob/main/Acknowledgements.md "Acknowledgements.md")| [Acknowledgements.md](/AntonOsika/gpt-engineer/blob/main/Acknowledgements.md "Acknowledgements.md")| [Incorporated review feedback](/AntonOsika/gpt-engineer/commit/67b0e182f164bff96ad2338de1aca438e558d5df "Incorporated review feedback")| Oct 4, 2023  
+[DISCLAIMER.md](/AntonOsika/gpt-engineer/blob/main/DISCLAIMER.md "DISCLAIMER.md")| [DISCLAIMER.md](/AntonOsika/gpt-engineer/blob/main/DISCLAIMER.md "DISCLAIMER.md")| [fix spelling (](/AntonOsika/gpt-engineer/commit/bc56551caf57094ff0eaeb1b55d1d118418fdc5f "fix spelling \(#500\)
+Several spelling mistakes were found and fixed in DISCLAIMER.md")[#500](https://github.com/AntonOsika/gpt-engineer/pull/500)[)](/AntonOsika/gpt-engineer/commit/bc56551caf57094ff0eaeb1b55d1d118418fdc5f "fix spelling \(#500\)
+Several spelling mistakes were found and fixed in DISCLAIMER.md")| Jul 8, 2023  
+[GOVERNANCE.md](/AntonOsika/gpt-engineer/blob/main/GOVERNANCE.md "GOVERNANCE.md")| [GOVERNANCE.md](/AntonOsika/gpt-engineer/blob/main/GOVERNANCE.md "GOVERNANCE.md")| [Create GOVERNANCE.md](/AntonOsika/gpt-engineer/commit/9cdc5027f54ddb9ee76afd8680b25c022f588200 "Create GOVERNANCE.md")| Dec 4, 2023  
+[LICENSE](/AntonOsika/gpt-engineer/blob/main/LICENSE "LICENSE")| [LICENSE](/AntonOsika/gpt-engineer/blob/main/LICENSE "LICENSE")| [Create LICENSE](/AntonOsika/gpt-engineer/commit/60dbe0ac1cab9d764ce500b97a6c39c7d57a8891 "Create LICENSE")| Jun 11, 2023  
+[MANIFEST.in](/AntonOsika/gpt-engineer/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](/AntonOsika/gpt-engineer/blob/main/MANIFEST.in "MANIFEST.in")| [Distribute preprompt files](/AntonOsika/gpt-engineer/commit/abb9f2332de033a0e40adc0f3492a73df9cfc1cc "Distribute preprompt files")| Jun 22, 2023  
+[Makefile](/AntonOsika/gpt-engineer/blob/main/Makefile "Makefile")| [Makefile](/AntonOsika/gpt-engineer/blob/main/Makefile "Makefile")| [Merge branch 'main' of github.com:AntonOsika/gpt-engineer into refact…](/AntonOsika/gpt-engineer/commit/d84281d02c2624bd61393915cb708d6d6a900bf3 "Merge branch 'main' of github.com:AntonOsika/gpt-engineer into refactor-poetry")| Dec 3, 2023  
+[README.md](/AntonOsika/gpt-engineer/blob/main/README.md "README.md")| [README.md](/AntonOsika/gpt-engineer/blob/main/README.md "README.md")| [Update README.md (](/AntonOsika/gpt-engineer/commit/a90fcd543eedcc0ff2c34561bc0785d2ba83c47e "Update README.md \(#1283\)")[#1283](https://github.com/AntonOsika/gpt-engineer/pull/1283)[)](/AntonOsika/gpt-engineer/commit/a90fcd543eedcc0ff2c34561bc0785d2ba83c47e "Update README.md \(#1283\)")| Nov 18, 2024  
+[ROADMAP.md](/AntonOsika/gpt-engineer/blob/main/ROADMAP.md "ROADMAP.md")| [ROADMAP.md](/AntonOsika/gpt-engineer/blob/main/ROADMAP.md "ROADMAP.md")| [Update and fix ROADMAP.md](/AntonOsika/gpt-engineer/commit/a26ce6c9030ada08ce5a83520b5217c440ecc6b7 "Update and fix ROADMAP.md")| Feb 18, 2024  
+[TERMS_OF_USE.md](/AntonOsika/gpt-engineer/blob/main/TERMS_OF_USE.md "TERMS_OF_USE.md")| [TERMS_OF_USE.md](/AntonOsika/gpt-engineer/blob/main/TERMS_OF_USE.md "TERMS_OF_USE.md")| [correct github urls](/AntonOsika/gpt-engineer/commit/6942bfd2b8f6c0f9bcafc70a93129ac8edcca632 "correct github urls")| Jan 21, 2024  
+[WINDOWS_README.md](/AntonOsika/gpt-engineer/blob/main/WINDOWS_README.md "WINDOWS_README.md")| [WINDOWS_README.md](/AntonOsika/gpt-engineer/blob/main/WINDOWS_README.md "WINDOWS_README.md")| [fixed some broken links](/AntonOsika/gpt-engineer/commit/5aac3ecb81896e0613bf1293c057b244a346367b "fixed some broken links")| Mar 11, 2024  
+[citation.cff](/AntonOsika/gpt-engineer/blob/main/citation.cff "citation.cff")| [citation.cff](/AntonOsika/gpt-engineer/blob/main/citation.cff "citation.cff")| [pre commit](/AntonOsika/gpt-engineer/commit/fbff3b253205887e6980902bffbe523fe1e4c89e "pre commit")| Jan 22, 2024  
+[docker-compose.yml](/AntonOsika/gpt-engineer/blob/main/docker-compose.yml "docker-compose.yml")| [docker-compose.yml](/AntonOsika/gpt-engineer/blob/main/docker-compose.yml "docker-compose.yml")| [fix(docker-compose.yml): remove version specification (deprecated)](/AntonOsika/gpt-engineer/commit/a927fb616ad51795adcde049c67c7acf817cb430 "fix\(docker-compose.yml\): remove version specification \(deprecated\)")| May 29, 2024  
+[poetry.lock](/AntonOsika/gpt-engineer/blob/main/poetry.lock "poetry.lock")| [poetry.lock](/AntonOsika/gpt-engineer/blob/main/poetry.lock "poetry.lock")| [Bump setuptools from 69.5.1 to 70.0.0](/AntonOsika/gpt-engineer/commit/e3cc1ca143562572aa74a651741a00ac8de3a905 "Bump setuptools from 69.5.1 to 70.0.0
+Bumps \[setuptools\]\(https://github.com/pypa/setuptools\) from 69.5.1 to 70.0.0.
+- \[Release notes\]\(https://github.com/pypa/setuptools/releases\)
+- \[Changelog\]\(https://github.com/pypa/setuptools/blob/main/NEWS.rst\)
+- \[Commits\]\(https://github.com/pypa/setuptools/compare/v69.5.1...v70.0.0\)
+---
+updated-dependencies:
+- dependency-name: setuptools
+ dependency-type: indirect
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>")| Jul 18, 2024  
+[pyproject.toml](/AntonOsika/gpt-engineer/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/AntonOsika/gpt-engineer/blob/main/pyproject.toml "pyproject.toml")| [Update pyproject.toml](/AntonOsika/gpt-engineer/commit/ed018a00eba73e58e4fbbedf47a9f8c42f655c47 "Update pyproject.toml
+Preparation for our new release v0.3.1")| Jun 6, 2024  
+[sweep.yaml](/AntonOsika/gpt-engineer/blob/main/sweep.yaml "sweep.yaml")| [sweep.yaml](/AntonOsika/gpt-engineer/blob/main/sweep.yaml "sweep.yaml")| [Update sweep.yaml](/AntonOsika/gpt-engineer/commit/6903a1c908cc7c998bebe5d2789f42c6c1398afa "Update sweep.yaml")| Sep 30, 2023  
+[tox.ini](/AntonOsika/gpt-engineer/blob/main/tox.ini "tox.ini")| [tox.ini](/AntonOsika/gpt-engineer/blob/main/tox.ini "tox.ini")| [this seems to fix it locally](/AntonOsika/gpt-engineer/commit/d249ee763fc5893cebdf0d15974f71c7da0fdc63 "this seems to fix it locally")| Jul 7, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [MIT license](#)
+
+
+
+# gpt-engineer
+
+[](#gpt-engineer)
+
+[![GitHub Repo stars](https://camo.githubusercontent.com/a805d5b41d679e2fac5dc6c0d13353ad500da5b12f301d8d69145e3d51ddee36/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6770742d656e67696e6565722d6f72672f6770742d656e67696e6565723f7374796c653d736f6369616c)](https://github.com/gpt-engineer-org/gpt-engineer) [![Discord Follow](https://camo.githubusercontent.com/146d58969d427289345bc8d1ff64b694e3d82945eea4f8879cb643dacdd034e0/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f38746344513839456a323f7374796c653d666c6174)](https://discord.gg/8tcDQ89Ej2) [![License](https://camo.githubusercontent.com/4e524b2eea43a3f4c15cde5a7fcffa58ad31bc0eb30c8094a25d4622f4e64cd3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6770742d656e67696e6565722d6f72672f6770742d656e67696e656572)](https://github.com/gpt-engineer-org/gpt-engineer/blob/main/LICENSE) [![GitHub Issues or Pull Requests](https://camo.githubusercontent.com/ce39a47c54226e7e57d621c5972d2c7bc8aefd2aff806f69116ebc4901785193/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f6770742d656e67696e6565722d6f72672f6770742d656e67696e656572)](https://github.com/gpt-engineer-org/gpt-engineer/issues) [![GitHub Release](https://camo.githubusercontent.com/fe9e399689dc50672ad35c1867d755918fbc0b9c80749177fa3065b504289d42/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f6770742d656e67696e6565722d6f72672f6770742d656e67696e656572)](https://camo.githubusercontent.com/fe9e399689dc50672ad35c1867d755918fbc0b9c80749177fa3065b504289d42/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f6770742d656e67696e6565722d6f72672f6770742d656e67696e656572) [![Twitter Follow](https://camo.githubusercontent.com/e4fd6e08a92e4233f1ee78bf818dc3544f6d3820ec0bcf4c86854a7140a0f2ac/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f616e746f6e6f73696b613f7374796c653d736f6369616c)](https://twitter.com/antonosika)
+
+The OG code genereation experimentation platform!
+
+If you are looking for the evolution that is an opinionated, managed service – check out gptengineer.app.
+
+If you are looking for a well maintained hackable CLI for – check out aider.
+
+gpt-engineer lets you:
+
+  * Specify software in natural language
+  * Sit back and watch as an AI writes and executes the code
+  * Ask the AI to implement improvements
+
+
+
+## Getting Started
+
+[](#getting-started)
+
+### Install gpt-engineer
+
+[](#install-gpt-engineer)
+
+For **stable** release:
+
+  * `python -m pip install gpt-engineer`
+
+
+
+For **development** :
+
+  * `git clone https://github.com/gpt-engineer-org/gpt-engineer.git`
+  * `cd gpt-engineer`
+  * `poetry install`
+  * `poetry shell` to activate the virtual environment
+
+
+
+We actively support Python 3.10 - 3.12. The last version to support Python 3.8 - 3.9 was [0.2.6](https://pypi.org/project/gpt-engineer/0.2.6/).
+
+### Setup API key
+
+[](#setup-api-key)
+
+Choose **one** of:
+
+  * Export env variable (you can add this to .bashrc so that you don't have to do it each time you start the terminal) 
+    * `export OPENAI_API_KEY=[your api key]`
+  * .env file: 
+    * Create a copy of `.env.template` named `.env`
+    * Add your OPENAI_API_KEY in .env
+  * Custom model: 
+    * See [docs](https://gpt-engineer.readthedocs.io/en/latest/open_models.html), supports local model, azure, etc.
+
+
+
+Check the [Windows README](/AntonOsika/gpt-engineer/blob/main/WINDOWS_README.md) for Windows usage.
+
+**Other ways to run:**
+
+  * Use Docker ([instructions](/AntonOsika/gpt-engineer/blob/main/docker/README.md))
+  * Do everything in your browser: [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/gpt-engineer-org/gpt-engineer/codespaces)
+
+
+
+### Create new code (default usage)
+
+[](#create-new-code-default-usage)
+
+  * Create an empty folder for your project anywhere on your computer
+  * Create a file called `prompt` (no extension) inside your new folder and fill it with instructions
+  * Run `gpte <project_dir>` with a relative path to your folder 
+    * For example: `gpte projects/my-new-project` from the gpt-engineer directory root with your new folder in `projects/`
+
+
+
+### Improve existing code
+
+[](#improve-existing-code)
+
+  * Locate a folder with code which you want to improve anywhere on your computer
+  * Create a file called `prompt` (no extension) inside your new folder and fill it with instructions for how you want to improve the code
+  * Run `gpte <project_dir> -i` with a relative path to your folder 
+    * For example: `gpte projects/my-old-project -i` from the gpt-engineer directory root with your folder in `projects/`
+
+
+
+### Benchmark custom agents
+
+[](#benchmark-custom-agents)
+
+  * gpt-engineer installs the binary 'bench', which gives you a simple interface for benchmarking your own agent implementations against popular public datasets.
+  * The easiest way to get started with benchmarking is by checking out the [template](https://github.com/gpt-engineer-org/gpte-bench-template) repo, which contains detailed instructions and an agent template.
+  * Currently supported benchmark: 
+    * [APPS](https://github.com/hendrycks/apps)
+    * [MBPP](https://github.com/google-research/google-research/tree/master/mbpp)
+
+
+
+The community has started work with different benchmarking initiatives, as described in [this Loom](https://www.loom.com/share/206805143fbb4302b5455a5329eaab17?sid=f689608f-8e49-44f7-b55f-4c81e9dc93e6) video.
+
+### Research
+
+[](#research)
+
+Some of our community members have worked on different research briefs that could be taken further. See [this document](https://docs.google.com/document/d/1qmOj2DvdPc6syIAm8iISZFpfik26BYw7ZziD5c-9G0E/edit?usp=sharing) if you are interested.
+
+## Terms
+
+[](#terms)
+
+By running gpt-engineer, you agree to our [terms](https://github.com/gpt-engineer-org/gpt-engineer/blob/main/TERMS_OF_USE.md).
+
+## Relation to gptengineer.app (GPT Engineer)
+
+[](#relation-to-gptengineerapp-gpt-engineer)
+
+[gptengineer.app](https://gptengineer.app/) is a commercial project for the automatic generation of web apps. It features a UI for non-technical users connected to a git-controlled codebase. The gptengineer.app team is actively supporting the open source community.
+
+## Features
+
+[](#features)
+
+### Pre Prompts
+
+[](#pre-prompts)
+
+You can specify the "identity" of the AI agent by overriding the `preprompts` folder with your own version of the `preprompts`. You can do so via the `--use-custom-preprompts` argument.
+
+Editing the `preprompts` is how you make the agent remember things between projects.
+
+### Vision
+
+[](#vision)
+
+By default, gpt-engineer expects text input via a `prompt` file. It can also accept image inputs for vision-capable models. This can be useful for adding UX or architecture diagrams as additional context for GPT Engineer. You can do this by specifying an image directory with the `—-image_directory` flag and setting a vision-capable model in the second CLI argument.
+
+E.g. `gpte projects/example-vision gpt-4-vision-preview --prompt_file prompt/text --image_directory prompt/images -i`
+
+### Open source, local and alternative models
+
+[](#open-source-local-and-alternative-models)
+
+By default, gpt-engineer supports OpenAI Models via the OpenAI API or Azure OpenAI API, as well as Anthropic models.
+
+With a little extra setup, you can also run with open source models like WizardCoder. See the [documentation](https://gpt-engineer.readthedocs.io/en/latest/open_models.html) for example instructions.
+
+## Mission
+
+[](#mission)
+
+The gpt-engineer community mission is to **maintain tools that coding agent builders can use and facilitate collaboration in the open source community**.
+
+If you are interested in contributing to this, we are interested in having you.
+
+If you want to see our broader ambitions, check out the [roadmap](https://github.com/gpt-engineer-org/gpt-engineer/blob/main/ROADMAP.md), and join [discord](https://discord.gg/8tcDQ89Ej2) to learn how you can [contribute](/AntonOsika/gpt-engineer/blob/main/.github/CONTRIBUTING.md) to it.
+
+gpt-engineer is [governed](https://github.com/gpt-engineer-org/gpt-engineer/blob/main/GOVERNANCE.md) by a board of long-term contributors. If you contribute routinely and have an interest in shaping the future of gpt-engineer, you will be considered for the board.
+
+## Significant contributors
+
+[](#significant-contributors)
+
+  * [ ![@ATheorell](https://avatars.githubusercontent.com/u/143704446?s=64&v=4) @ATheorell ](https://github.com/ATheorell)
+  * [ ![@similato87](https://avatars.githubusercontent.com/u/71301573?s=64&v=4) @similato87 ](https://github.com/similato87)
+  * [ ![@TheoMcCabe](https://avatars.githubusercontent.com/u/9841960?s=64&v=4) @TheoMcCabe ](https://github.com/TheoMcCabe)
+  * [ ![@captivus](https://avatars.githubusercontent.com/u/366332?s=64&v=4) @captivus ](https://github.com/captivus)
+
+
+
+## Example
+
+[](#example)
+
+reduced.mov
+
+## About
+
+Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from <https://gptengineer.app>
+
+### Topics
+
+[ python ](/topics/python "Topic: python") [ ai ](/topics/ai "Topic: ai") [ openai ](/topics/openai "Topic: openai") [ code-generation ](/topics/code-generation "Topic: code-generation") [ codegen ](/topics/codegen "Topic: codegen") [ coding-assistant ](/topics/coding-assistant "Topic: coding-assistant") [ autonomous-agent ](/topics/autonomous-agent "Topic: autonomous-agent") [ gpt-4 ](/topics/gpt-4 "Topic: gpt-4") [ gpt-engineer ](/topics/gpt-engineer "Topic: gpt-engineer") [ codebase-generation ](/topics/codebase-generation "Topic: codebase-generation")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Citation
+
+Cite this repository 
+
+Loading
+
+Something went wrong. 
+
+[ Activity](/AntonOsika/gpt-engineer/activity)
+
+### Stars
+
+[ **52.9k** stars](/AntonOsika/gpt-engineer/stargazers)
+
+### Watchers
+
+[ **519** watching](/AntonOsika/gpt-engineer/watchers)
+
+### Forks
+
+[ **6.9k** forks](/AntonOsika/gpt-engineer/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FAntonOsika%2Fgpt-engineer&report=AntonOsika+%28user%29)
+
+##  [Releases 21](/AntonOsika/gpt-engineer/releases)
+
+[ v0.3.1 Latest  Jun 6, 2024 ](/AntonOsika/gpt-engineer/releases/tag/v0.3.1)
+
+[+ 20 releases](/AntonOsika/gpt-engineer/releases)
+
+## Sponsor this project
+
+  * ![patreon](https://github.githubassets.com/assets/patreon-96b15b9db4b9.svg) [patreon.com/**gpt_eng**](https://patreon.com/gpt_eng)
+
+
+
+##  [Packages 0](/users/AntonOsika/packages?repo_name=gpt-engineer)
+
+No packages published 
+
+##  [Used by 153](/AntonOsika/gpt-engineer/network/dependents)
+
+[
+
+  * ![@Diallo75012](https://avatars.githubusercontent.com/u/46124602?s=64&v=4)
+  * ![@hagenek](https://avatars.githubusercontent.com/u/31440138?s=64&v=4)
+  * ![@breardon2011](https://avatars.githubusercontent.com/u/1007791?s=64&v=4)
+  * ![@Klas96](https://avatars.githubusercontent.com/u/10756045?s=64&v=4)
+  * ![@https-quantumblockchainai-atlassian-net](https://avatars.githubusercontent.com/u/107164558?s=64&v=4)
+  * ![@alphavector](https://avatars.githubusercontent.com/u/11805788?s=64&v=4)
+  * ![@robel59](https://avatars.githubusercontent.com/u/32925321?s=64&v=4)
+  * ![@aryan-at-ul](https://avatars.githubusercontent.com/u/90618422?s=64&v=4)
+
++ 145  ](/AntonOsika/gpt-engineer/network/dependents)
+
+##  [Contributors 105](/AntonOsika/gpt-engineer/graphs/contributors)
+
+  * [ ![@ATheorell](https://avatars.githubusercontent.com/u/143704446?s=64&v=4) ](https://github.com/ATheorell)
+  * [ ![@AntonOsika](https://avatars.githubusercontent.com/u/4467025?s=64&v=4) ](https://github.com/AntonOsika)
+  * [ ![@similato87](https://avatars.githubusercontent.com/u/71301573?s=64&v=4) ](https://github.com/similato87)
+  * [ ![@TheoMcCabe](https://avatars.githubusercontent.com/u/9841960?s=64&v=4) ](https://github.com/TheoMcCabe)
+  * [ ![@captivus](https://avatars.githubusercontent.com/u/366332?s=64&v=4) ](https://github.com/captivus)
+  * [ ![@kristiankyvik](https://avatars.githubusercontent.com/u/6661158?s=64&v=4) ](https://github.com/kristiankyvik)
+  * [ ![@pbharrin](https://avatars.githubusercontent.com/u/490809?s=64&v=4) ](https://github.com/pbharrin)
+  * [ ![@UmerHA](https://avatars.githubusercontent.com/u/40663591?s=64&v=4) ](https://github.com/UmerHA)
+  * [ ![@viborc](https://avatars.githubusercontent.com/u/48092564?s=64&v=4) ](https://github.com/viborc)
+  * [ ![@azrv](https://avatars.githubusercontent.com/u/17514539?s=64&v=4) ](https://github.com/azrv)
+  * [ ![@patillacode](https://avatars.githubusercontent.com/u/10074977?s=64&v=4) ](https://github.com/patillacode)
+  * [ ![@leomariga](https://avatars.githubusercontent.com/u/11357793?s=64&v=4) ](https://github.com/leomariga)
+  * [ ![@ErikBjare](https://avatars.githubusercontent.com/u/1405370?s=64&v=4) ](https://github.com/ErikBjare)
+  * [ ![@lukaspetersson](https://avatars.githubusercontent.com/u/42323981?s=64&v=4) ](https://github.com/lukaspetersson)
+
+
+
+[+ 91 contributors](/AntonOsika/gpt-engineer/graphs/contributors)
+
+## Languages
+
+  * [ Python 98.8% ](/AntonOsika/gpt-engineer/search?l=python)
+  * Other 1.2%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

@@ -1,0 +1,23 @@
+{
+    "id": "eae0cf4c6cef5cdd8d9f2a359ca4adca",
+    "metadata": {
+        "id": "eae0cf4c6cef5cdd8d9f2a359ca4adca",
+        "url": "https://www.notion.so/HuggingFace-Ecosystem-eae0cf4c6cef5cdd8d9f2a359ca4adca",
+        "title": "HuggingFace Ecosystem",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "5bf62b9bd0f88bb8a219dc4f87a3ba5f",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Inference\n\n[Using pipelines for a webserver](https://huggingface.co/docs/transformers/en/pipeline_webserver#using-pipelines-for-a-webserver)\n# Training",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://huggingface.co/docs/transformers/en/pipeline_webserver#using-pipelines-for-a-webserver/"
+    ]
+}

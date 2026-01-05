@@ -1,0 +1,514 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fexplodinggradients%2Fragas%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fexplodinggradients%2Fragas%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=explodinggradients%2Fragas) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ explodinggradients ](/explodinggradients) / **[ragas](/explodinggradients/ragas) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fexplodinggradients%2Fragas) You must be signed in to change notification settings
+  * [ Fork 805 ](/login?return_to=%2Fexplodinggradients%2Fragas)
+  * [ Star  7.9k ](/login?return_to=%2Fexplodinggradients%2Fragas)
+
+
+
+
+Supercharge Your LLM Application Evaluations 🚀 
+
+[docs.ragas.io](https://docs.ragas.io "https://docs.ragas.io")
+
+### License
+
+[ Apache-2.0 license ](/explodinggradients/ragas/blob/main/LICENSE)
+
+[ 7.9k stars ](/explodinggradients/ragas/stargazers) [ 805 forks ](/explodinggradients/ragas/forks) [ Branches ](/explodinggradients/ragas/branches) [ Tags ](/explodinggradients/ragas/tags) [ Activity ](/explodinggradients/ragas/activity)
+
+[ Star  ](/login?return_to=%2Fexplodinggradients%2Fragas)
+
+[ Notifications ](/login?return_to=%2Fexplodinggradients%2Fragas) You must be signed in to change notification settings
+
+  * [ Code ](/explodinggradients/ragas)
+  * [ Issues 280 ](/explodinggradients/ragas/issues)
+  * [ Pull requests 10 ](/explodinggradients/ragas/pulls)
+  * [ Actions ](/explodinggradients/ragas/actions)
+  * [ Security ](/explodinggradients/ragas/security)
+  * [ Insights ](/explodinggradients/ragas/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/explodinggradients/ragas)
+  * [ Issues  ](/explodinggradients/ragas/issues)
+  * [ Pull requests  ](/explodinggradients/ragas/pulls)
+  * [ Actions  ](/explodinggradients/ragas/actions)
+  * [ Security  ](/explodinggradients/ragas/security)
+  * [ Insights  ](/explodinggradients/ragas/pulse)
+
+
+
+# explodinggradients/ragas
+
+main
+
+[**2** Branches](/explodinggradients/ragas/branches)[**65** Tags](/explodinggradients/ragas/tags)
+
+[](/explodinggradients/ragas/branches)[](/explodinggradients/ragas/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![jjmachan](https://avatars.githubusercontent.com/u/5261489?v=4&size=40)](/jjmachan)[jjmachan](/explodinggradients/ragas/commits?author=jjmachan)[fix: output parser bug (](/explodinggradients/ragas/commit/f5bc2b5e7628f5c68d824e085c4edc17840080b1)[#1864](https://github.com/explodinggradients/ragas/pull/1864)[)](/explodinggradients/ragas/commit/f5bc2b5e7628f5c68d824e085c4edc17840080b1)Jan 22, 2025[f5bc2b5](/explodinggradients/ragas/commit/f5bc2b5e7628f5c68d824e085c4edc17840080b1) · Jan 22, 2025
+
+## History
+
+[751 Commits](/explodinggradients/ragas/commits/main/)[](/explodinggradients/ragas/commits/main/)  
+[.github](/explodinggradients/ragas/tree/main/.github ".github")| [.github](/explodinggradients/ragas/tree/main/.github ".github")| [feat: set and get prompts for metrics (](/explodinggradients/ragas/commit/4e6a96a0ff3ac613f64e2d01199e42665cea643f "feat: set and get prompts for metrics \(#1259\)
+```python
+from ragas.experimental.metrics._faithfulness import FaithfulnessExperimental, LongFormAnswerPrompt
+faithfulness = FaithfulnessExperimental\(\) 
+faithfulness.get_prompts\(\)
+#{'long_form_answer_prompt': <ragas.experimental.metrics._faithfulness.LongFormAnswerPrompt at 0x7fd7baa8efb0>,
+#'nli_statement_prompt': <ragas.experimental.metrics._faithfulness.NLIStatementPrompt at 0x7fd7baa8f010>}
+long_form_prompt = LongFormAnswerPrompt\(\)
+long_form_prompt.instruction = "my new instruction"
+prompts = {"long_form_answer_prompt":long_form_prompt}
+faithfulness.set_prompts\(**prompts\)
+```
+---------
+Co-authored-by: Jithin James <jamesjithin97@gmail.com>")[#1259](https://github.com/explodinggradients/ragas/pull/1259)[)](/explodinggradients/ragas/commit/4e6a96a0ff3ac613f64e2d01199e42665cea643f "feat: set and get prompts for metrics \(#1259\)
+```python
+from ragas.experimental.metrics._faithfulness import FaithfulnessExperimental, LongFormAnswerPrompt
+faithfulness = FaithfulnessExperimental\(\) 
+faithfulness.get_prompts\(\)
+#{'long_form_answer_prompt': <ragas.experimental.metrics._faithfulness.LongFormAnswerPrompt at 0x7fd7baa8efb0>,
+#'nli_statement_prompt': <ragas.experimental.metrics._faithfulness.NLIStatementPrompt at 0x7fd7baa8f010>}
+long_form_prompt = LongFormAnswerPrompt\(\)
+long_form_prompt.instruction = "my new instruction"
+prompts = {"long_form_answer_prompt":long_form_prompt}
+faithfulness.set_prompts\(**prompts\)
+```
+---------
+Co-authored-by: Jithin James <jamesjithin97@gmail.com>")| Sep 10, 2024  
+[docs](/explodinggradients/ragas/tree/main/docs "docs")| [docs](/explodinggradients/ragas/tree/main/docs "docs")| [docs: fix incorrect reference to LLM in NonLLMContextPrecisionWithRef…](/explodinggradients/ragas/commit/9da919e3f0cb7a88b8084bf2832f9a449b85b3c3 "docs: fix incorrect reference to LLM in NonLLMContextPrecisionWithReference metric \(#1863\)
+Updated the documentation for NonLLMContextPrecisionWithReference to
+clarify that it uses non-LLM-based similarity measures, correcting the
+misleading reference to LLMs.
+fixes #1861")| Jan 21, 2025  
+[requirements](/explodinggradients/ragas/tree/main/requirements "requirements")| [requirements](/explodinggradients/ragas/tree/main/requirements "requirements")| [feat: add exact match caching (](/explodinggradients/ragas/commit/9f2ba5b3b75944c845f6040fdef5a3805bffbe65 "feat: add exact match caching \(#1717\)
+This PR introduces a robust caching abstraction to improve performance
+and prevent progress loss during API calls \(e.g., LLM or embedding
+requests\). This was brought up in #1522 and later added as an
+enhancement request in #1602.")[#1717](https://github.com/explodinggradients/ragas/pull/1717)[)](/explodinggradients/ragas/commit/9f2ba5b3b75944c845f6040fdef5a3805bffbe65 "feat: add exact match caching \(#1717\)
+This PR introduces a robust caching abstraction to improve performance
+and prevent progress loss during API calls \(e.g., LLM or embedding
+requests\). This was brought up in #1522 and later added as an
+enhancement request in #1602.")| Dec 15, 2024  
+[src/ragas](/explodinggradients/ragas/tree/main/src/ragas "This path skips through empty directories")| [src/ragas](/explodinggradients/ragas/tree/main/src/ragas "This path skips through empty directories")| [fix: output parser bug (](/explodinggradients/ragas/commit/f5bc2b5e7628f5c68d824e085c4edc17840080b1 "fix: output parser bug \(#1864\)
+fixes: #1831")[#1864](https://github.com/explodinggradients/ragas/pull/1864)[)](/explodinggradients/ragas/commit/f5bc2b5e7628f5c68d824e085c4edc17840080b1 "fix: output parser bug \(#1864\)
+fixes: #1831")| Jan 22, 2025  
+[tests](/explodinggradients/ragas/tree/main/tests "tests")| [tests](/explodinggradients/ragas/tree/main/tests "tests")| [Add token parser for Bedrock & fix anthropic typo (](/explodinggradients/ragas/commit/b8c6be2c74ce444b683fea96486c594aa2e9eab5 "Add token parser for Bedrock & fix anthropic typo \(#1851\)
+I am currently using Ragas with Bedrock and had to create new token
+usage parsers. This PR responds to
+\[Issue-1151\]\(https://github.com/explodinggradients/ragas/issues/1151\)
+Thanks for this package it's nice 😄")[#1851](https://github.com/explodinggradients/ragas/pull/1851)[)](/explodinggradients/ragas/commit/b8c6be2c74ce444b683fea96486c594aa2e9eab5 "Add token parser for Bedrock & fix anthropic typo \(#1851\)
+I am currently using Ragas with Bedrock and had to create new token
+usage parsers. This PR responds to
+\[Issue-1151\]\(https://github.com/explodinggradients/ragas/issues/1151\)
+Thanks for this package it's nice 😄")| Jan 18, 2025  
+[.dockerignore](/explodinggradients/ragas/blob/main/.dockerignore ".dockerignore")| [.dockerignore](/explodinggradients/ragas/blob/main/.dockerignore ".dockerignore")| [feat: make ragas pip more lighter (](/explodinggradients/ragas/commit/b582e5b905c2f5007db2bb3a9c381a886f14aad9 "feat: make ragas pip more lighter \(#283\)
+*merge #261 before merging this*
+- removed all the optional dependencies that is making ragas bloated
+- add option dependencies for sentence-transformer in `ragas\[all\]`")[#283](https://github.com/explodinggradients/ragas/pull/283)[)](/explodinggradients/ragas/commit/b582e5b905c2f5007db2bb3a9c381a886f14aad9 "feat: make ragas pip more lighter \(#283\)
+*merge #261 before merging this*
+- removed all the optional dependencies that is making ragas bloated
+- add option dependencies for sentence-transformer in `ragas\[all\]`")| Nov 15, 2023  
+[.gitattributes](/explodinggradients/ragas/blob/main/.gitattributes ".gitattributes")| [.gitattributes](/explodinggradients/ragas/blob/main/.gitattributes ".gitattributes")| [chore: removed lfs files (](/explodinggradients/ragas/commit/485f01b92c44c44f204012b2648611061bc387b5 "chore: removed lfs files \(#56\)")[#56](https://github.com/explodinggradients/ragas/pull/56)[)](/explodinggradients/ragas/commit/485f01b92c44c44f204012b2648611061bc387b5 "chore: removed lfs files \(#56\)")| Jul 10, 2023  
+[.gitignore](/explodinggradients/ragas/blob/main/.gitignore ".gitignore")| [.gitignore](/explodinggradients/ragas/blob/main/.gitignore ".gitignore")| [feat: add exact match caching (](/explodinggradients/ragas/commit/9f2ba5b3b75944c845f6040fdef5a3805bffbe65 "feat: add exact match caching \(#1717\)
+This PR introduces a robust caching abstraction to improve performance
+and prevent progress loss during API calls \(e.g., LLM or embedding
+requests\). This was brought up in #1522 and later added as an
+enhancement request in #1602.")[#1717](https://github.com/explodinggradients/ragas/pull/1717)[)](/explodinggradients/ragas/commit/9f2ba5b3b75944c845f6040fdef5a3805bffbe65 "feat: add exact match caching \(#1717\)
+This PR introduces a robust caching abstraction to improve performance
+and prevent progress loss during API calls \(e.g., LLM or embedding
+requests\). This was brought up in #1522 and later added as an
+enhancement request in #1602.")| Dec 15, 2024  
+[.readthedocs.yml](/explodinggradients/ragas/blob/main/.readthedocs.yml ".readthedocs.yml")| [.readthedocs.yml](/explodinggradients/ragas/blob/main/.readthedocs.yml ".readthedocs.yml")| [feat: added option to provide experiment_name to evaluate() (](/explodinggradients/ragas/commit/36564a46ff064f0f5bbd511c1d903c4b7171232b "feat: added option to provide experiment_name to evaluate\(\) \(#1843\)
+fixes: #967")[#1843](https://github.com/explodinggradients/ragas/pull/1843)[)](/explodinggradients/ragas/commit/36564a46ff064f0f5bbd511c1d903c4b7171232b "feat: added option to provide experiment_name to evaluate\(\) \(#1843\)
+fixes: #967")| Jan 13, 2025  
+[DEVELOPMENT.md](/explodinggradients/ragas/blob/main/DEVELOPMENT.md "DEVELOPMENT.md")| [DEVELOPMENT.md](/explodinggradients/ragas/blob/main/DEVELOPMENT.md "DEVELOPMENT.md")| [chore: make analytics into threading (](/explodinggradients/ragas/commit/a51f1fb66df2fa7823656f11295a82ad0cceda93 "chore: make analytics into threading \(#1777\)")[#1777](https://github.com/explodinggradients/ragas/pull/1777)[)](/explodinggradients/ragas/commit/a51f1fb66df2fa7823656f11295a82ad0cceda93 "chore: make analytics into threading \(#1777\)")| Dec 20, 2024  
+[LICENSE](/explodinggradients/ragas/blob/main/LICENSE "LICENSE")| [LICENSE](/explodinggradients/ragas/blob/main/LICENSE "LICENSE")| [chore: add copyright (](/explodinggradients/ragas/commit/ca7641584c9a40ce841ffb5852a9d7c387012a91 "chore: add copyright \(#716\)
+fixes: #711")[#716](https://github.com/explodinggradients/ragas/pull/716)[)](/explodinggradients/ragas/commit/ca7641584c9a40ce841ffb5852a9d7c387012a91 "chore: add copyright \(#716\)
+fixes: #711")| Mar 6, 2024  
+[Makefile](/explodinggradients/ragas/blob/main/Makefile "Makefile")| [Makefile](/explodinggradients/ragas/blob/main/Makefile "Makefile")| [docs: langchain v3 integration tutorial (](/explodinggradients/ragas/commit/bd7bb0f8f5f02fcddc3c0b91094243bae438ee6d "docs: langchain v3 integration tutorial \(#1818\)
+- This PR adds a integration tutorial for evaluating a simple
+question-answering bot using LangChain.
+- fixed the make file")[#1818](https://github.com/explodinggradients/ragas/pull/1818)[)](/explodinggradients/ragas/commit/bd7bb0f8f5f02fcddc3c0b91094243bae438ee6d "docs: langchain v3 integration tutorial \(#1818\)
+- This PR adds a integration tutorial for evaluating a simple
+question-answering bot using LangChain.
+- fixed the make file")| Jan 7, 2025  
+[README.md](/explodinggradients/ragas/blob/main/README.md "README.md")| [README.md](/explodinggradients/ragas/blob/main/README.md "README.md")| [docs: updated broken links in ReadMe and evaluation documentation (](/explodinggradients/ragas/commit/064ceede52030ae6cc6c3c5a0a3609e5330fe5b0 "docs: updated broken links in ReadMe and evaluation documentation \(#1847\)
+fixed empty app.ragas.io link in evals.md and Readme.md")[#1847](https://github.com/explodinggradients/ragas/pull/1847)| Jan 21, 2025  
+[mkdocs.yml](/explodinggradients/ragas/blob/main/mkdocs.yml "mkdocs.yml")| [mkdocs.yml](/explodinggradients/ragas/blob/main/mkdocs.yml "mkdocs.yml")| [docs: added canonical_url (](/explodinggradients/ragas/commit/37dacd5b5266824d33859c918dd7f2b25a16f60b "docs: added canonical_url \(#1855\)")[#1855](https://github.com/explodinggradients/ragas/pull/1855)[)](/explodinggradients/ragas/commit/37dacd5b5266824d33859c918dd7f2b25a16f60b "docs: added canonical_url \(#1855\)")| Jan 19, 2025  
+[pyproject.toml](/explodinggradients/ragas/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/explodinggradients/ragas/blob/main/pyproject.toml "pyproject.toml")| [fix: remove pysbd and sentence segmenting (](/explodinggradients/ragas/commit/6478a6e952be2882cda23bc3c08da915fb258d8a "fix: remove pysbd and sentence segmenting \(#1826\)
+fixes: 
+#1783
+#1736")[#1826](https://github.com/explodinggradients/ragas/pull/1826)[)](/explodinggradients/ragas/commit/6478a6e952be2882cda23bc3c08da915fb258d8a "fix: remove pysbd and sentence segmenting \(#1826\)
+fixes: 
+#1783
+#1736")| Jan 9, 2025  
+[references.md](/explodinggradients/ragas/blob/main/references.md "references.md")| [references.md](/explodinggradients/ragas/blob/main/references.md "references.md")| [Rename metrics (](/explodinggradients/ragas/commit/8e29433b6732eb0a2748df334f6d149158e5260d "Rename metrics \(#48\)
+Rename factuality to faithfulness to convey the idea correctly and in
+favor of incoming feature that measures factual consistency.")[#48](https://github.com/explodinggradients/ragas/pull/48)[)](/explodinggradients/ragas/commit/8e29433b6732eb0a2748df334f6d149158e5260d "Rename metrics \(#48\)
+Rename factuality to faithfulness to convey the idea correctly and in
+favor of incoming feature that measures factual consistency.")| Jul 6, 2023  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Apache-2.0 license](#)
+
+
+
+#  [![](/explodinggradients/ragas/raw/main/docs/_static/imgs/logo.png)](/explodinggradients/ragas/blob/main/docs/_static/imgs/logo.png)
+
+[](#--)
+
+_Supercharge Your LLM Application Evaluations 🚀_
+
+[ ![GitHub release](https://camo.githubusercontent.com/ee9a2617f607a5eb651ade62852235d4ad459711d790679da0187962717029d9/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f6578706c6f64696e676772616469656e74732f72616761732e737667) ](https://github.com/explodinggradients/ragas/releases) [ ![Build](https://camo.githubusercontent.com/de0c688a070b0b6441e99051c5464fc5fc71aaef092ec1459716e0700a4b7c01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230776974682d507974686f6e2d3166343235662e7376673f636f6c6f723d707572706c65) ](https://www.python.org/) [ ![License](https://camo.githubusercontent.com/867d9822821d90084d9c43b0072fcba1d9ff88ed22ece88ec8b56339f4986e6e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6578706c6f64696e676772616469656e74732f72616761732e7376673f636f6c6f723d677265656e) ](https://github.com/explodinggradients/ragas/blob/master/LICENSE) [ ![Open In Colab](https://camo.githubusercontent.com/c8ddff2dcc587eba13652a4a6e07ebad9510c0e222ed3c8ab5cd1b63f1f7a8c3/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f7261676173) ](https://pypi.org/project/ragas/) [ ![discord-invite](https://camo.githubusercontent.com/fbd6bc523fe1fae78d41004396968c52c61892f17bb98f5360dfc85d0611a311/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f31313139363337323139353631343531363434) ](https://discord.gg/5djav8GGNZ)
+
+[Documentation](https://docs.ragas.io/) | [Quick start](#fire-quickstart) | [Join Discord](https://discord.gg/5djav8GGNZ) | [Blog](https://blog.ragas.io/) | [NewsLetter](https://newsletter.ragas.io/) | [Careers](https://www.ragas.io/careers)
+
+[](#------------documentation---------quick-start---------join-discord---------blog---------newsletter---------careers----)
+
+Objective metrics, intelligent test generation, and data-driven insights for LLM apps
+
+Ragas is your ultimate toolkit for evaluating and optimizing Large Language Model (LLM) applications. Say goodbye to time-consuming, subjective assessments and hello to data-driven, efficient evaluation workflows. Don't have a test dataset ready? We also do production-aligned test set generation.
+
+## Key Features
+
+[](#key-features)
+
+  * 🎯 Objective Metrics: Evaluate your LLM applications with precision using both LLM-based and traditional metrics.
+  * 🧪 Test Data Generation: Automatically create comprehensive test datasets covering a wide range of scenarios.
+  * 🔗 Seamless Integrations: Works flawlessly with popular LLM frameworks like LangChain and major observability tools.
+  * 📊 Build feedback loops: Leverage production data to continually improve your LLM applications.
+
+
+
+## 🛡️ Installation
+
+[](#shield-installation)
+
+Pypi:
+
+```
+pip install ragas
+```
+
+Alternatively, from source:
+
+```
+pip install git+https://github.com/explodinggradients/ragas
+```
+
+## 🔥 Quickstart
+
+[](#fire-quickstart)
+
+### Evaluate your LLM App
+
+[](#evaluate-your-llm-app)
+
+This is 5 main lines:
+
+```
+from ragas import SingleTurnSample from ragas.metrics import AspectCritic test_data = { "user_input": "summarise given text\nThe company reported an 8% rise in Q3 2024, driven by strong performance in the Asian market. Sales in this region have significantly contributed to the overall growth. Analysts attribute this success to strategic marketing and product localization. The positive trend in the Asian market is expected to continue into the next quarter.", "response": "The company experienced an 8% increase in Q3 2024, largely due to effective marketing strategies and product adaptation, with expectations of continued growth in the coming quarter.", } evaluator_llm = LangchainLLMWrapper(ChatOpenAI(model="gpt-4o")) metric = AspectCritic(name="summary_accuracy",llm=evaluator_llm, definition="Verify if the summary is accurate.") await metric.single_turn_ascore(SingleTurnSample(**test_data))
+```
+
+Find the complete [Quickstart Guide](https://docs.ragas.io/en/latest/getstarted/evals)
+
+### Analyze your Evaluation
+
+[](#analyze-your-evaluation)
+
+Sign up for [app.ragas.io](https://app.ragas.io) to review, share and analyze your evaluations
+
+[![](/explodinggradients/ragas/raw/main/docs/getstarted/ragas_get_started_evals.gif)](/explodinggradients/ragas/blob/main/docs/getstarted/ragas_get_started_evals.gif) [ ![ragas_get_started_evals.gif](https://github.com/explodinggradients/ragas/raw/main/docs/getstarted/ragas_get_started_evals.gif) ](https://github.com/explodinggradients/ragas/blob/main/docs/getstarted/ragas_get_started_evals.gif) [ ](https://github.com/explodinggradients/ragas/blob/main/docs/getstarted/ragas_get_started_evals.gif)
+
+See [how to use it](https://docs.ragas.io/en/latest/getstarted/evals/#analyzing-results)
+
+## 🫂 Community
+
+[](#-community)
+
+If you want to get more involved with Ragas, check out our [discord server](https://discord.gg/5qGUJ6mh7C). It's a fun community where we geek out about LLM, Retrieval, Production issues, and more.
+
+## Contributors
+
+[](#contributors)
+
+```
++----------------------------------------------------------------------------+ | +----------------------------------------------------------------+ | | | Developers: Those who built with `ragas`. | | | | (You have `import ragas` somewhere in your project) | | | | +----------------------------------------------------+ | | | | | Contributors: Those who make `ragas` better. | | | | | | (You make PR to this repo) | | | | | +----------------------------------------------------+ | | | +----------------------------------------------------------------+ | +----------------------------------------------------------------------------+
+```
+
+We welcome contributions from the community! Whether it's bug fixes, feature additions, or documentation improvements, your input is valuable.
+
+  1. Fork the repository
+  2. Create your feature branch (git checkout -b feature/AmazingFeature)
+  3. Commit your changes (git commit -m 'Add some AmazingFeature')
+  4. Push to the branch (git push origin feature/AmazingFeature)
+  5. Open a Pull Request
+
+
+
+## 🔍 Open Analytics
+
+[](#-open-analytics)
+
+At Ragas, we believe in transparency. We collect minimal, anonymized usage data to improve our product and guide our development efforts.
+
+✅ No personal or company-identifying information
+
+✅ Open-source data collection [code](/explodinggradients/ragas/blob/main/src/ragas/_analytics.py)
+
+✅ Publicly available aggregated [data](https://github.com/explodinggradients/ragas/issues/49)
+
+To opt-out, set the `RAGAS_DO_NOT_TRACK` environment variable to `true`.
+
+## About
+
+Supercharge Your LLM Application Evaluations 🚀 
+
+[docs.ragas.io](https://docs.ragas.io "https://docs.ragas.io")
+
+### Topics
+
+[ evaluation ](/topics/evaluation "Topic: evaluation") [ llm ](/topics/llm "Topic: llm") [ llmops ](/topics/llmops "Topic: llmops")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+[ Activity](/explodinggradients/ragas/activity)
+
+[ Custom properties](/explodinggradients/ragas/custom-properties)
+
+### Stars
+
+[ **7.9k** stars](/explodinggradients/ragas/stargazers)
+
+### Watchers
+
+[ **39** watching](/explodinggradients/ragas/watchers)
+
+### Forks
+
+[ **805** forks](/explodinggradients/ragas/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fexplodinggradients%2Fragas&report=explodinggradients+%28user%29)
+
+##  [Releases 64](/explodinggradients/ragas/releases)
+
+[ v0.2.12 Latest  Jan 21, 2025 ](/explodinggradients/ragas/releases/tag/v0.2.12)
+
+[+ 63 releases](/explodinggradients/ragas/releases)
+
+##  [Used by 1.7k](/explodinggradients/ragas/network/dependents)
+
+[
+
+  * ![@hbujakow](https://avatars.githubusercontent.com/u/72279632?s=64&v=4)
+  * ![@carlosgsouza](https://avatars.githubusercontent.com/u/2100387?s=64&v=4)
+  * ![@yongwoon](https://avatars.githubusercontent.com/u/9317029?s=64&v=4)
+  * ![@reactome](https://avatars.githubusercontent.com/u/5891396?s=64&v=4)
+  * ![@NitzanManor](https://avatars.githubusercontent.com/u/130474155?s=64&v=4)
+  * ![@change-challenge](https://avatars.githubusercontent.com/u/59588256?s=64&v=4)
+  * ![@b1005g](https://avatars.githubusercontent.com/u/69081460?s=64&v=4)
+  * ![@syamaner](https://avatars.githubusercontent.com/u/13239417?s=64&v=4)
+
++ 1,646  ](/explodinggradients/ragas/network/dependents)
+
+##  [Contributors 187](/explodinggradients/ragas/graphs/contributors)
+
+  * [ ![@jjmachan](https://avatars.githubusercontent.com/u/5261489?s=64&v=4) ](https://github.com/jjmachan)
+  * [ ![@shahules786](https://avatars.githubusercontent.com/u/25312635?s=64&v=4) ](https://github.com/shahules786)
+  * [ ![@sahusiddharth](https://avatars.githubusercontent.com/u/112792547?s=64&v=4) ](https://github.com/sahusiddharth)
+  * [ ![@tinomaxthayil](https://avatars.githubusercontent.com/u/26576205?s=64&v=4) ](https://github.com/tinomaxthayil)
+  * [ ![@Yongtae723](https://avatars.githubusercontent.com/u/50616781?s=64&v=4) ](https://github.com/Yongtae723)
+  * [ ![@zodwick](https://avatars.githubusercontent.com/u/115868723?s=64&v=4) ](https://github.com/zodwick)
+  * [ ![@NirantK](https://avatars.githubusercontent.com/u/3250749?s=64&v=4) ](https://github.com/NirantK)
+  * [ ![@sky-2002](https://avatars.githubusercontent.com/u/84656834?s=64&v=4) ](https://github.com/sky-2002)
+  * [ ![@yuukidach](https://avatars.githubusercontent.com/u/19534043?s=64&v=4) ](https://github.com/yuukidach)
+  * [ ![@jokokojote](https://avatars.githubusercontent.com/u/27767966?s=64&v=4) ](https://github.com/jokokojote)
+  * [ ![@suekou](https://avatars.githubusercontent.com/u/136655880?s=64&v=4) ](https://github.com/suekou)
+  * [ ![@ahgraber](https://avatars.githubusercontent.com/u/24922003?s=64&v=4) ](https://github.com/ahgraber)
+  * [ ![@joaorura](https://avatars.githubusercontent.com/u/41351492?s=64&v=4) ](https://github.com/joaorura)
+  * [ ![@Youngrok123](https://avatars.githubusercontent.com/u/153045750?s=64&v=4) ](https://github.com/Youngrok123)
+
+
+
+[+ 173 contributors](/explodinggradients/ragas/graphs/contributors)
+
+## Languages
+
+  * [ Python 98.5% ](/explodinggradients/ragas/search?l=python)
+  * [ Jupyter Notebook 1.1% ](/explodinggradients/ragas/search?l=jupyter-notebook)
+  * Other 0.4%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

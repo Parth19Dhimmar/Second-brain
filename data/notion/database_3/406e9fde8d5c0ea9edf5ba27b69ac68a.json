@@ -1,0 +1,31 @@
+{
+    "id": "406e9fde8d5c0ea9edf5ba27b69ac68a",
+    "metadata": {
+        "id": "406e9fde8d5c0ea9edf5ba27b69ac68a",
+        "url": "https://www.notion.so/SageMaker-406e9fde8d5c0ea9edf5ba27b69ac68a",
+        "title": "SageMaker",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "98cdc1bebe1b3ae1f5e3a4aaadcdfaad",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "[https://aws.amazon.com/tutorials/build-train-deploy-monitor-machine-learning-model-sagemaker-studio/?trk=ha_a134p000004f0SDAAY~ha_awssm-5821_all-users](https://aws.amazon.com/tutorials/build-train-deploy-monitor-machine-learning-model-sagemaker-studio/?trk=ha_a134p000004f0SDAAY~ha_awssm-5821_all-users)\n[Chat Completion: Run Llama 2 Models in SageMaker JumpStart](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/llama-2-chat-completion.ipynb)\n[How to deploy Large Language Models (LLMs) to Amazon SageMaker using new Hugging Face LLM DLC](https://github.com/huggingface/notebooks/blob/main/sagemaker/27_deploy_large_language_models/sagemaker-notebook.ipynb)\n[Deploy models to Amazon SageMaker](https://huggingface.co/docs/sagemaker/en/inference)\n[Deploy Llama 3 on Amazon SageMaker](https://www.philschmid.de/sagemaker-llama3)\n[Run training on Amazon SageMaker](https://huggingface.co/docs/sagemaker/en/train)\n\nEnd-to-end example with custom Docker images and local processing: [https://github.com/avr2002/sagemaker/blob/feat/sagemaker-processing-job/pipeline.py](https://github.com/avr2002/sagemaker/blob/feat/sagemaker-processing-job/pipeline.py)\n# Docs\n\n[https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276)\n[https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-roles.html](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-roles.html)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://aws.amazon.com/tutorials/build-train-deploy-monitor-machine-learning-model-sagemaker-studio/?trk=ha_a134p000004f0SDAAY~ha_awssm-5821_all-users/",
+        "https://github.com/avr2002/sagemaker/blob/feat/sagemaker-processing-job/pipeline.py/",
+        "https://github.com/huggingface/notebooks/blob/main/sagemaker/27_deploy_large_language_models/sagemaker-notebook.ipynb/",
+        "https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-roles.html/",
+        "https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/",
+        "https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/llama-2-chat-completion.ipynb/",
+        "https://www.philschmid.de/sagemaker-llama3/",
+        "https://huggingface.co/docs/sagemaker/en/train/",
+        "https://huggingface.co/docs/sagemaker/en/inference/"
+    ]
+}

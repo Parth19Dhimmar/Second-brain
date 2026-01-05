@@ -1,0 +1,74 @@
+{
+    "id": "ae222abcc74d59055f7df338f6d338ce",
+    "metadata": {
+        "id": "ae222abcc74d59055f7df338f6d338ce",
+        "url": "https://craftinginterpreters.com/",
+        "title": "Crafting Interpreters",
+        "properties": {
+            "description": null,
+            "keywords": null,
+            "author": null
+        }
+    },
+    "parent_metadata": {
+        "id": "13169e5dc58fdc5ed354d00e31c72d98",
+        "url": "https://www.notion.so/Programming-Languages-Interpreters-13169e5dc58fdc5ed354d00e31c72d98",
+        "title": "Programming Languages Interpreters",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ],
+            "Language": null,
+            "Created": {
+                "id": "tmas",
+                "type": "created_time",
+                "created_time": "2023-12-14T10:53:00.000Z"
+            }
+        }
+    },
+    "content": "[![Crafting Interpreters by Robert Nystrom](image/header.png)![Crafting Interpreters by Robert Nystrom](image/header-small.png)](dedication.html)\n\n> Ever wanted to make your own programming language or wondered how they are designed and built?\n> \n> If so, this book is for you.\n\n_Crafting Interpreters_ contains everything you need to implement a full-featured, efficient scripting language. You’ll learn both high-level concepts around parsing and semantics and gritty details like bytecode representation and garbage collection. Your brain will light up with new ideas, and your hands will get dirty and calloused. It’s a blast.\n\nStarting from `main()`, you build a language that features rich syntax, dynamic typing, garbage collection, lexical scope, first-class functions, closures, classes, and inheritance. All packed into a few thousand lines of clean, fast code that you thoroughly understand because you write each one yourself.\n\nThe book is available in four delectable formats:\n\n### Print\n\n640 pages of beautiful typography and high resolution hand-drawn illustrations. Each page lovingly typeset by the author. The premiere reading experience.\n\n[Amazon.com](https://www.amazon.com/dp/0990582930) |  [.ca](https://www.amazon.ca/dp/0990582930) |  [.uk](https://www.amazon.co.uk/dp/0990582930) |  [.au](https://www.amazon.com.au/dp/0990582930) |  [.de](https://www.amazon.de/dp/0990582930) |  [.fr](https://www.amazon.fr/dp/0990582930) |  [.es](https://www.amazon.es/dp/0990582930) |  [.it](https://www.amazon.it/dp/0990582930) |  [.jp](https://www.amazon.co.jp/dp/0990582930)  \n---|---|---|---|---|---|---|---|---  \n[Barnes and Noble](https://www.barnesandnoble.com/w/crafting-interpreters-robert-nystrom/1139915245?ean=9780990582939) |  [Book Depository](https://www.bookdepository.com/Crafting-Interpreters-Robert-Nystrom/9780990582939)  \n---|---  \n[Download Sample PDF](/sample.pdf)\n\n### eBook\n\nCarefully tuned CSS fits itself to your ebook reader and screen size. Full-color syntax highlighting and live hyperlinks. Like Alan Kay's Dynabook but real.\n\n[Kindle Amazon.com](https://www.amazon.com/dp/B09BCCVLCL) |  [.uk](https://www.amazon.co.uk/dp/B09BCCVLCL) |  [.ca](https://www.amazon.ca/dp/B09BCCVLCL) |  [.au](https://www.amazon.com.au/dp/B09BCCVLCL) |  [.de](https://www.amazon.de/dp/B09BCCVLCL) |  [.in](https://www.amazon.in/dp/B09BCCVLCL)  \n---|---|---|---|---|---  \n[.fr](https://www.amazon.fr/dp/B09BCCVLCL) |  [.es](https://www.amazon.es/dp/B09BCCVLCL) |  [.it](https://www.amazon.it/dp/B09BCCVLCL) |  [.jp](https://www.amazon.co.jp/dp/B09BCCVLCL) |  [.br](https://www.amazon.com.br/dp/B09BCCVLCL) |  [.mx](https://www.amazon.com.mx/dp/B09BCCVLCL) |  [Apple Books](https://books.apple.com/us/book/crafting-interpreters/id1578795812)  \n---|---|---|---|---|---|---  \n[Play Books Google](https://play.google.com/store/books/details?id=q0c6EAAAQBAJ) |  [Nook B&N](https://www.barnesandnoble.com/w/crafting-interpreters-robert-nystrom/1139915245?ean=2940164977092) |  [EPUB Smashwords](https://www.smashwords.com/books/view/1096463)  \n---|---|---  \n  \n### PDF\n\nPerfectly mirrors the hand-crafted typesetting and sharp illustrations of the print book, but much easier to carry around.\n\n[Buy from Payhip](https://payhip.com/b/F0zkr) [Download Free Sample](/sample.pdf)\n\n### Web\n\nMeticulous responsive design looks great from your desktop down to your phone. Every chapter, aside, and illustration is there. Read the whole book for free. Really.\n\n[Read Now](contents.html)\n\n![](image/dogshot.jpg)\n\n### About Robert Nystrom\n\nI got bitten by the language bug years ago while on paternity leave between midnight feedings. I cobbled together a [number](http://wren.io/) [of](http://magpie-lang.org/) [hobby](http://finch.stuffwithstuff.com/) [languages](https://github.com/munificent/vigil) before worming my way into an honest-to-God, full-time programming language job. Today, I work at Google on the [Dart language](http://dart.dev/).\n\nBefore I fell in love with languages, I developed games at Electronic Arts for eight years. I wrote the best-selling book _[Game Programming Patterns](http://gameprogrammingpatterns.com/)_ based on what I learned there. You can read that book for free too.\n\nIf you want more, you can find me on Twitter ([`@munificentbob`](https://twitter.com/intent/user?screen_name=munificentbob)), email me at `bob` at this site's domain (though I am slow to respond), read [my blog](http://journal.stuffwithstuff.com/), or join my low frequency mailing list:\n\nHandcrafted by Robert Nystrom — [© 2015 – 2021](https://github.com/munificent/craftinginterpreters/blob/master/LICENSE)\n",
+    "content_quality_score": 0.9,
+    "summary": null,
+    "child_urls": [
+        "https://craftinginterpreters.com/dedication.html",
+        "https://craftinginterpreters.com/sample.pdf",
+        "https://craftinginterpreters.com/contents.html",
+        "https://www.amazon.com/dp/0990582930",
+        "https://www.amazon.ca/dp/0990582930",
+        "https://www.amazon.co.uk/dp/0990582930",
+        "https://www.amazon.com.au/dp/0990582930",
+        "https://www.amazon.de/dp/0990582930",
+        "https://www.amazon.fr/dp/0990582930",
+        "https://www.amazon.es/dp/0990582930",
+        "https://www.amazon.it/dp/0990582930",
+        "https://www.amazon.co.jp/dp/0990582930",
+        "https://www.barnesandnoble.com/w/crafting-interpreters-robert-nystrom/1139915245?ean=9780990582939",
+        "https://www.bookdepository.com/Crafting-Interpreters-Robert-Nystrom/9780990582939",
+        "https://www.amazon.com/dp/B09BCCVLCL",
+        "https://www.amazon.co.uk/dp/B09BCCVLCL",
+        "https://www.amazon.ca/dp/B09BCCVLCL",
+        "https://www.amazon.com.au/dp/B09BCCVLCL",
+        "https://www.amazon.de/dp/B09BCCVLCL",
+        "https://www.amazon.in/dp/B09BCCVLCL",
+        "https://www.amazon.fr/dp/B09BCCVLCL",
+        "https://www.amazon.es/dp/B09BCCVLCL",
+        "https://www.amazon.it/dp/B09BCCVLCL",
+        "https://www.amazon.co.jp/dp/B09BCCVLCL",
+        "https://www.amazon.com.br/dp/B09BCCVLCL",
+        "https://www.amazon.com.mx/dp/B09BCCVLCL",
+        "https://books.apple.com/us/book/crafting-interpreters/id1578795812",
+        "https://play.google.com/store/books/details?id=q0c6EAAAQBAJ",
+        "https://www.barnesandnoble.com/w/crafting-interpreters-robert-nystrom/1139915245?ean=2940164977092",
+        "https://www.smashwords.com/books/view/1096463",
+        "https://payhip.com/b/F0zkr",
+        "http://wren.io/",
+        "http://magpie-lang.org/",
+        "http://finch.stuffwithstuff.com/",
+        "https://github.com/munificent/vigil",
+        "http://dart.dev/",
+        "http://gameprogrammingpatterns.com/",
+        "https://twitter.com/intent/user?screen_name=munificentbob",
+        "http://journal.stuffwithstuff.com/",
+        "https://github.com/munificent/craftinginterpreters/blob/master/LICENSE"
+    ]
+}

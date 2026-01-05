@@ -1,0 +1,609 @@
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including **professional and job ads**) on and off LinkedIn. Learn more in our [Cookie Policy](https://www.linkedin.com/legal/cookie-policy).
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your [settings](https://www.linkedin.com/mypreferences/g/guest-cookies).
+
+Accept  Reject 
+
+Agree & Join LinkedIn 
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy). 
+
+[ Skip to main content ](#main-content) [ LinkedIn ](/?trk=public_post_nav-header-logo)
+
+  * [ Articles  ](https://www.linkedin.com/pulse/topics/home/?trk=public_post_guest_nav_menu_articles)
+  * [ People  ](https://www.linkedin.com/pub/dir/+/+?trk=public_post_guest_nav_menu_people)
+  * [ Learning  ](https://www.linkedin.com/learning/search?trk=public_post_guest_nav_menu_learning)
+  * [ Jobs  ](https://www.linkedin.com/jobs/search?trk=public_post_guest_nav_menu_jobs)
+  * [ Games  ](https://www.linkedin.com/games?trk=public_post_guest_nav_menu_games)
+  * [ Get the app  ](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_nav_upsell&trk=public_post_guest_nav_menu_windows)
+
+
+
+[ Join now ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_nav-header-join) [ Sign in ](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&fromSignIn=true&trk=public_post_nav-header-signin)
+
+#  Damien Benveniste, PhD’s Post
+
+[ ](https://www.linkedin.com/in/damienbenveniste?trk=public_post_feed-actor-image)
+
+[ Damien Benveniste, PhD ](https://www.linkedin.com/in/damienbenveniste?trk=public_post_feed-actor-name) Damien Benveniste, PhD is an Influencer
+
+Founder @ TheAiEdge | Building the largest AI professional community | Become an expert with an expert! 
+
+1mo 
+
+  * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+
+
+Graph Databases should be the better choice for Retrieval Augmented Generation (RAG)! RAG systems are usually pretty bad at retrieving the right context! The retrieved information is very local to the original documents, and it might be tricky to get the documents that actually relate to the user query. That is where Microsoft GraphRAG can provide a solution! There are 2 important pieces. First, we are going to create summaries of the different documents at different scales. This way, we are going to be able to understand, overall, what global information is contained in the full documents, as well as the local information contained in smaller chunks of text. Second, we are going to reduce the textual information to its graphical form. The assumption is that the information contained in the text can be represented as a set of nodes and edges. This allows the representation of the full information contained in the text as a knowledge base that can be stored in a graph database. The data indexing pipeline is as follows: 1) We chunk the original documents into sub-texts. 2) We extract the entities, their relationships, and their descriptions in a structured format by using an LLM. 3) We resolve the duplicate entities and relationships we can find across the different text chunks. We can summarize the different descriptions into more complete ones. 4) We build the graph representation of the entities and their relationships 5) From the graph, we cluster the different entities into communities in a hierarchical manner by using the Leiden algorithm. Each entity belongs to multiple clusters depending on the scale of the clusters. 6) For each community, we summarize it by using the entity and relationship descriptions. We have multiple summaries for each entity representing the different scales of the communities. At retrieval time, we can convert the user query by extracting keywords for a lexical search and a vector representation for a semantic search. From the search, we get entities, and from the entities, we get their related community summaries. Those summaries are used as context in the prompt at generation time to answer the user query. And because we only understand things once we implement them, here is my implementation of GraphRAG: [https://lnkd.in/gpCxJG4k](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgpCxJG4k&urlhash=t7ar&trk=public_post-text) -- 👉 Don't forget to subscribe to my ML newsletter [https://lnkd.in/g4iKyRmS](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg4iKyRmS&urlhash=d2mG&trk=public_post-text) --
+
+[ 521  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_social-actions-reactions) [ 40 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment-cta)
+
+Share 
+
+  * Copy
+  * LinkedIn
+  * Facebook
+  * Twitter
+
+
+
+[ ](https://www.linkedin.com/in/denis-o-b61a379a?trk=public_post_comment_actor-image)
+
+[ Denis O. ](https://www.linkedin.com/in/denis-o-b61a379a?trk=public_post_comment_actor-name)
+
+Peak Post-Truth Era Human | FinTech Professional | Definitely Not an AI Expert
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+The weakest link still is that LLM that is downstream from all this impressive information retrieval machinery.. It will take all these 'facts' and generate some random bs still. What I am really curious about is the total lack of research and dev for new types of Transformer architectures that would actually integrate RAG. Or come uo with mechanisms for gauging overall plausibility of the output. Or even assign plausibility scores to generated answers or parts of it. Or that would switch to greedier decoding based on input classification or data availability in whatever underlying lexical stores. For example, data missing in lexical stores could potentially indicate lower plausibility scores and indicate that the model should dynamically tune temperature and repetition penalty and possibly reduce the beam search width or even switch to argmax altogether when selecting attention derived probability distribution logit weights.
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reply) [ 10 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reactions) 11 Reactions 
+
+[ ](https://es.linkedin.com/in/juliobonis?trk=public_post_comment_actor-image)
+
+[ Julio Bonis Sanz ](https://es.linkedin.com/in/juliobonis?trk=public_post_comment_actor-name)
+
+Medical Doctor + MBA + AI NLP Engineer + Epidemiologist
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+It is well known that GPT models (aka LLMs) are not the best option when working with information extraction tasks. Their performance is worse than, for example, BERT based models: [https://arxiv.org/abs/2305.14450](https://arxiv.org/abs/2305.14450?trk=public_post_comment-text) Unsupervised ontology learning from text is an example of an specific task where approaches previous to the chatagpt hype are still considered SOTA. Things as classic (and generally unknown by the new AI experts) as grammar dendency parsers are still being actively used succesfully for these tasks.
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reply) [ 9 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reactions) 10 Reactions 
+
+[ ](https://de.linkedin.com/in/andrelindenberg?trk=public_post_comment_actor-image)
+
+[ André Lindenberg ](https://de.linkedin.com/in/andrelindenberg?trk=public_post_comment_actor-name)
+
+Fellow | Vice President | CxO Advisor | Expertise in Automotive, Telco, Public Sector, Aviation, Financial Services | Follow for actionable insights on IT Modernization, Digital Innovation, Automation, and AI
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+GraphRAG is a nice evolution in RAG systems. One thing I'm curious about is scalability … how does the system handle extremely large, dynamic graphs where entity relationships might frequently change? Would this require periodic re-clustering or incremental updates, and how would that impact real-time performance?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reply) [ 3 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reactions) 4 Reactions 
+
+[ ](https://www.linkedin.com/in/bruno-d-625998?trk=public_post_comment_actor-image)
+
+[ Bruno D. ](https://www.linkedin.com/in/bruno-d-625998?trk=public_post_comment_actor-name)
+
+Director, Investment Consulting Group, NY Life Investments.
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Any views on HyDE? How does it compare with GraphRAG?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reply) 1 Reaction 
+
+[ ](https://fr.linkedin.com/in/qasimkh?trk=public_post_comment_actor-image)
+
+[ Qasim K. ](https://fr.linkedin.com/in/qasimkh?trk=public_post_comment_actor-name)
+
+CentraleSupélec | Big Data Management & Analytics (BDMA) | Erasmus Mundus Scholar
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Could you also make a post on LightRAG?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reply) 1 Reaction 
+
+[ ](https://es.linkedin.com/in/alvarobeltrancamacho/en?trk=public_post_comment_actor-image)
+
+[ Álvaro Beltrán ](https://es.linkedin.com/in/alvarobeltrancamacho/en?trk=public_post_comment_actor-name)
+
+Senior AI Engineer | ML engineer | Data scientist
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+That sounds interesting. Where do you notice the diference?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reply) 1 Reaction 
+
+[ ](https://py.linkedin.com/in/amin-mansuri-789a8811?trk=public_post_comment_actor-image)
+
+[ Amin Mansuri ](https://py.linkedin.com/in/amin-mansuri-789a8811?trk=public_post_comment_actor-name)
+
+Co-Founder/CEO Integradevs
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Hi, I was looking at your implementation and see the indexing code. But how do I retrieve? Did you use one of the other examples to do the retrieval?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reply) 1 Reaction 
+
+[ ](https://in.linkedin.com/in/praveen-saptula-30a8677b?trk=public_post_comment_actor-image)
+
+[ Praveen Saptula ](https://in.linkedin.com/in/praveen-saptula-30a8677b?trk=public_post_comment_actor-name)
+
+CEO at ideas2cum.com
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Bryan Johnson's journey is a fascinating blend of science, discipline, and ambition. His commitment to treating his body as a valuable asset sparks a larger conversation about redefining aging. While his routine might seem extreme (and out of reach for most), it makes you wonder: Could advancements in health tech and biology eventually democratize such possibilities for everyone? It’s intriguing to think how his efforts could pave the way for more accessible solutions in the future. What do you think—are we on the brink of a new era where aging becomes a choice rather than an inevitability?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reply) 1 Reaction 
+
+[ ](https://it.linkedin.com/in/emanueledonati?trk=public_post_comment_actor-image)
+
+[ Emanuele Donati ](https://it.linkedin.com/in/emanueledonati?trk=public_post_comment_actor-name)
+
+Chief Operating Officer | CTO | CIO | Global Team Leader | IT Strategy & Governance | AI | Digital Transformation | Innovative IT Solutions | Cybersecurity | Startup | Operational Efficiency and Growth.
+
+1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+A powerful and interesting approach, [Damien Benveniste, PhD](https://www.linkedin.com/in/damienbenveniste?trk=public_post_comment-text)! Extracting entities and their relationships can not only help overcome certain limitations of RAG but also deduce additional facts from the knowledge domain in question. I am personally very interested in domain representation for a study aid project for students with specific learning disabilities that I am working on in my spare time. Is there any way I can access a visualization of the generated graph that gives me an idea of the system's power? Thank you!
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reactions) 2 Reactions 
+
+[ ](https://fr.linkedin.com/company/cohorte-inc?trk=public_post_comment_actor-image)
+
+[ Cohorte ](https://fr.linkedin.com/company/cohorte-inc?trk=public_post_comment_actor-name) 1mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Transforming text into graph-based representations solves many limitations of traditional RAG systems. But graph construction and entity resolution can be computationally expensive for large datasets. Are there optimizations in place to handle real-time scaling, especially in rapidly evolving knowledge bases?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_comment_reactions) 2 Reactions 
+
+[ See more comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_see-more-comments)
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_feed-cta-banner-cta)
+
+##  More Relevant Posts 
+
+  * [](https://www.linkedin.com/posts/fritzke_usual-rag-system-often-suffer-from-poor-similarity-activity-7267433776417312769-n9XS)
+
+[ ](https://de.linkedin.com/in/fritzke?trk=public_post_feed-actor-image)
+
+[ Dr. Bernd Fritzke ](https://de.linkedin.com/in/fritzke?trk=public_post_feed-actor-name)
+
+AI @ DekaBank | Speaker 
+
+1mo  Edited 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffritzke_usual-rag-system-often-suffer-from-poor-similarity-activity-7267433776417312769-n9XS&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+usual RAG system often suffer from poor similarity matches of query and chunks. Graph databases are a promising way to more relevant context.
+
+[ ](https://www.linkedin.com/in/damienbenveniste?trk=public_post_reshare_feed-actor-image)
+
+[ Damien Benveniste, PhD ](https://www.linkedin.com/in/damienbenveniste?trk=public_post_reshare_feed-actor-name) Damien Benveniste, PhD is an Influencer
+
+Founder @ TheAiEdge | Building the largest AI professional community | Become an expert with an expert! 
+
+1mo 
+
+Graph Databases should be the better choice for Retrieval Augmented Generation (RAG)! RAG systems are usually pretty bad at retrieving the right context! The retrieved information is very local to the original documents, and it might be tricky to get the documents that actually relate to the user query. That is where Microsoft GraphRAG can provide a solution! There are 2 important pieces. First, we are going to create summaries of the different documents at different scales. This way, we are going to be able to understand, overall, what global information is contained in the full documents, as well as the local information contained in smaller chunks of text. Second, we are going to reduce the textual information to its graphical form. The assumption is that the information contained in the text can be represented as a set of nodes and edges. This allows the representation of the full information contained in the text as a knowledge base that can be stored in a graph database. The data indexing pipeline is as follows: 1) We chunk the original documents into sub-texts. 2) We extract the entities, their relationships, and their descriptions in a structured format by using an LLM. 3) We resolve the duplicate entities and relationships we can find across the different text chunks. We can summarize the different descriptions into more complete ones. 4) We build the graph representation of the entities and their relationships 5) From the graph, we cluster the different entities into communities in a hierarchical manner by using the Leiden algorithm. Each entity belongs to multiple clusters depending on the scale of the clusters. 6) For each community, we summarize it by using the entity and relationship descriptions. We have multiple summaries for each entity representing the different scales of the communities. At retrieval time, we can convert the user query by extracting keywords for a lexical search and a vector representation for a semantic search. From the search, we get entities, and from the entities, we get their related community summaries. Those summaries are used as context in the prompt at generation time to answer the user query. And because we only understand things once we implement them, here is my implementation of GraphRAG: [https://lnkd.in/gpCxJG4k](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgpCxJG4k&urlhash=t7ar&trk=public_post_reshare-text) -- 👉 Don't forget to subscribe to my ML newsletter [https://lnkd.in/g4iKyRmS](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg4iKyRmS&urlhash=d2mG&trk=public_post_reshare-text) --
+
+[ 6  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffritzke_usual-rag-system-often-suffer-from-poor-similarity-activity-7267433776417312769-n9XS&trk=public_post_social-actions-reactions) [ 1 Comment ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffritzke_usual-rag-system-often-suffer-from-poor-similarity-activity-7267433776417312769-n9XS&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffritzke_usual-rag-system-often-suffer-from-poor-similarity-activity-7267433776417312769-n9XS&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffritzke_usual-rag-system-often-suffer-from-poor-similarity-activity-7267433776417312769-n9XS&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffritzke_usual-rag-system-often-suffer-from-poor-similarity-activity-7267433776417312769-n9XS&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/aziziothman_langchains-parent-document-retrieverrevisited-activity-7265478542681882624-IZzE)
+
+[ ](https://my.linkedin.com/in/aziziothman?trk=public_post_feed-actor-image)
+
+[ Azizi Othman ](https://my.linkedin.com/in/aziziothman?trk=public_post_feed-actor-name)
+
+... 
+
+1mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faziziothman_langchains-parent-document-retrieverrevisited-activity-7265478542681882624-IZzE&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+LangChain’s Parent Document Retriever — Revisited LangChain’s Parent Document Retriever — Revisited Enhance retrieval with context using your vector database only TL;DR — We achieve the same functionality as LangChains’ Parent Document Retriever (link) by utilizing metadata queries. You can explore the code here. Introduction to RAG Retrieval-augmented generation (RAG) is currently one of the hottest topics in the world of LLM and AI applications. In short, RAG is a technique for grounding a generative models’ response on chosen knowledge sources. It comprises two phases: retrieval and generation. In the retrieval phase, given a user’s query, we retrieve pieces of relevant information from a predefined knowledge source. Then, we insert the retrieved information into the prompt that is sent to an LLM, which (ideally) generates an answer to the user’s question based on the provided context. A commonly used approach to achieve efficient and accurate retrieval is through the usage of embeddings. In this approach, we preprocess users’ data (let’s assume plain text for simplicity) by splitting the documents into chunks (such as pages, paragraphs, or sentences). We then use an embedding model to create a meaningful, numerical representation of these chunks, and store them in a vector database. Now, when a query comes in, we embed it as well and perform a similarity search using the vector database to retrieve the relevant information Image by the author If you are completely new to this concept, I’d recommend [deeplearning.ai](https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fdeeplearning%2Eai&urlhash=EbqT&trk=public_post-text) great course, LangChain: Chat with Your Data. What is “Parent Document Retrieval”? “Parent Document Retrieval” or “Sentence Window Retrieval” as referred by others, is a common approach to enhance the performance of retrieval methods in RAG by providing the LLM with a broader context to consider. In essence, we divide the original documents into relatively small chunks, embed each one, and store them in a vector database. Using such small chunks (a sentence or a couple of sentences) helps the embedding models to better reflect their meaning [1]. Then, at retrieval time, we do not return the most similar chunk as found by the vector database only, but also its surrounding context (chunks) in the original document. That way, the LLM will have a broader context, which, in many cases, helps generate better answers. LangChain supports this concept via Parent Document Retriever [2]. The Parent Document Retriever allows you to: (1) retrieve the full document a specific chunk originated from, or (2) pre-define a larger “parent” chunk, for each smaller chunk associated with that parent. Let’s explore the example from LangChains’ docs: # This text splitter is used to create the parent documents parent_splitter = RecursiveCharacterTextSplitter(chunk_size=2000) # This text splitter is used to create the child documents # It should create documents smaller than the parent child_splitter =...
+
+## [ LangChain’s Parent Document Retriever — Revisited LangChain’s Parent Document Retriever — Revisited Enhance retrieval with context using your vector database only TL;DR — We achieve the same functionality as LangChains’ Parent Document Retriever \\(link\\) by utilizing metadata queries. You can explore the code here. Introduction to RAG Retrieval-augmented generation \\(RAG\\) is currently one...  towardsdatascience.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Ftowardsdatascience%2Ecom%2Flangchains-parent-document-retriever-revisited-1fca8791f5a0&urlhash=5FZf&trk=public_post_feed-article-content)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faziziothman_langchains-parent-document-retrieverrevisited-activity-7265478542681882624-IZzE&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faziziothman_langchains-parent-document-retrieverrevisited-activity-7265478542681882624-IZzE&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faziziothman_langchains-parent-document-retrieverrevisited-activity-7265478542681882624-IZzE&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/aziziothman_the-ultimate-guide-to-ragseach-component-activity-7257188889109372928-86Hn)
+
+[ ](https://my.linkedin.com/in/aziziothman?trk=public_post_feed-actor-image)
+
+[ Azizi Othman ](https://my.linkedin.com/in/aziziothman?trk=public_post_feed-actor-name)
+
+... 
+
+2mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faziziothman_the-ultimate-guide-to-ragseach-component-activity-7257188889109372928-86Hn&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+The Ultimate Guide to RAGs — Each Component Dissected The Ultimate Guide to RAGs — Each Component Dissected A visual tour of what it takes to build CHAD-level LLM pipelines Let’s learn RAGs! (Image by Author) If you have worked with Large Language Models, there is a great chance that you have at least heard the term RAG — Retrieval Augmented Generation. The idea of RAGs are pretty simple — suppose you want to ask a question to a LLM, instead of just relying on the LLM’s pre-trained knowledge, you first retrieve relevant information from an external knowledge base. This retrieved information is then provided to the LLM along with the question, allowing it to generate a more informed and up-to-date response. Comparing standard LLM calls with RAG (Source: Image by Author) So, why use Retrieval Augmented Generation? When providing accurate and up-to-date information is key, you cannot rely on the LLM’s inbuilt knowledge. RAGs are a cheap practical way to use LLMs to generate content about recent topics or niche topics without needing to finetune them on your own and burn away your life’s savings. Even when LLMs internal knowledge may be enough to answer questions, it might be a good idea to use RAGs anyway, since recent studies have shown that they could help reduce LLMs hallucinations. The different components of a bare-bones RAG Before we dive into the advanced portion of this article, let’s review the basics. Generally RAGs consist of two pipelines — preprocessing and inferencing. Inferencing is all about using data from your existing database to answer questions from a user query. Preprocessing is the process of setting up the database in the correct way so that retrieval is done correctly later on. Here is a diagramatic look into the entire basic barebones RAG pipeline. The Basic RAG pipeline (Image by Author) The Indexing or Preprocessing Steps This is the offline preprocessing stage, where we would set up our database. Identify Data Source: Choose a relevant data source based on the application, such as Wikipedia, books, or manuals. Since this is domain dependent, I am going to skip over this step in this article. Go choose any data you want to use, knock yourself out! Chunking the Data: Break down the dataset into smaller, manageable documents or chunks. Convert to Searchable Format: Transform each chunk into a numerical vector or similar searchable representation. Insert into Database: Store these searchable chunks in a custom database, though external databases or search engines could also be used. The Inferencing Steps During the Query Inferencing stage, the following components stand out. Query Processing: A method to convert the user’s query into a format suitable for search. Retrieval/Search Strategy: A similarity search mechanism to retrieve the most relevant documents. Post-Retrieval Answer Generation: Use retrieved documents as context to generate the answer with an LLM. Great — so we identified...
+
+## [ The Ultimate Guide to RAGs — Each Component Dissected The Ultimate Guide to RAGs — Each Component Dissected A visual tour of what it takes to build CHAD-level LLM pipelines Let’s learn RAGs! \\(Image by Author\\) If you have worked with Large Language Models, there is a great chance that you have at least heard the term RAG — Retrieval Augmented Generation. The idea of RAGs are pretty...  towardsdatascience.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Ftowardsdatascience%2Ecom%2Fthe-ultimate-guide-to-rags-each-component-dissected-3cd51c4c0212&urlhash=mzq3&trk=public_post_feed-article-content)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faziziothman_the-ultimate-guide-to-ragseach-component-activity-7257188889109372928-86Hn&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faziziothman_the-ultimate-guide-to-ragseach-component-activity-7257188889109372928-86Hn&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faziziothman_the-ultimate-guide-to-ragseach-component-activity-7257188889109372928-86Hn&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/massimilianomarchesiello_langchains-parent-document-retrieverrevisited-activity-7265468589187440640-ndLR)
+
+[ ](https://uk.linkedin.com/in/massimilianomarchesiello?trk=public_post_feed-actor-image)
+
+[ Massimiliano Marchesiello ](https://uk.linkedin.com/in/massimilianomarchesiello?trk=public_post_feed-actor-name)
+
+AI & Machine Learning Specialist | Data Scientist 
+
+1mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmassimilianomarchesiello_langchains-parent-document-retrieverrevisited-activity-7265468589187440640-ndLR&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+LangChain’s Parent Document Retriever — Revisited [https://ift.tt/A4z1SvY](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fift%2Ett%2FA4z1SvY&urlhash=xPq0&trk=public_post-text) LangChain’s Parent Document Retriever — Revisited Enhance retrieval with context using your vector database only TL;DR — We achieve the same functionality as LangChains’ Parent Document Retriever (link) by utilizing metadata queries. You can explore the code here. Introduction to RAG Retrieval-augmented generation (RAG) is currently one of the hottest topics in the world of LLM and AI applications. In short, RAG is a technique for grounding a generative models’ response on chosen knowledge sources. It comprises two phases: retrieval and generation. In the retrieval phase, given a user’s query, we retrieve pieces of relevant information from a predefined knowledge source. Then, we insert the retrieved information into the prompt that is sent to an LLM, which (ideally) generates an answer to the user’s question based on the provided context. A commonly used approach to achieve efficient and accurate retrieval is through the usage of embeddings. In this approach, we preprocess users’ data (let’s assume plain text for simplicity) by splitting the documents into chunks (such as pages, paragraphs, or sentences). We then use an embedding model to create a meaningful, numerical representation of these chunks, and store them in a vector database. Now, when a query comes in, we embed it as well and perform a similarity search using the vector database to retrieve the relevant information Image by the author If you are completely new to this concept, I’d recommend [deeplearning.ai](https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fdeeplearning%2Eai&urlhash=EbqT&trk=public_post-text) great course, LangChain: Chat with Your Data. What is “Parent Document Retrieval”? “Parent Document Retrieval” or “Sentence Window Retrieval” as referred by others, is a common approach to enhance the performance of retrieval methods in RAG by providing the LLM with a broader context to consider. In essence, we divide the original documents into relatively small chunks, embed each one, and store them in a vector database. Using such small chunks (a sentence or a couple of sentences) helps the embedding models to better reflect their meaning [1]. Then, at retrieval time, we do not return the most similar chunk as found by the vector database only, but also its surrounding context (chunks) in the original document. That way, the LLM will have a broader context, which, in many cases, helps generate better answers. LangChain supports this concept via Parent Document Retriever [2]. The Parent Document Retriever allows you to: (1) retrieve the full document a specific chunk originated from, or (2) pre-define a larger “parent” chunk, for each smaller chunk associated with that parent. Let’s explore the example from LangChains’ docs: # This text splitter is used to create the parent documents parent_splitter = RecursiveCharacterTextSplitter(chunk_size=2000) # This text splitter is used to create the child documents # It should create documents smaller than the...
+
+## [ LangChain’s Parent Document Retriever — Revisited https://ift.tt/A4z1SvY LangChain’s Parent Document Retriever — Revisited Enhance retrieval with context using your vector database only TL;DR — We achieve the same functionality as LangChains’ Parent Document Retriever \\(link\\) by utilizing metadata queries. You can explore the code here. Introduction to RAG Retrieval-augmented generation...  towardsdatascience.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Ftowardsdatascience%2Ecom%2Flangchains-parent-document-retriever-revisited-1fca8791f5a0&urlhash=5FZf&trk=public_post_feed-article-content)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmassimilianomarchesiello_langchains-parent-document-retrieverrevisited-activity-7265468589187440640-ndLR&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmassimilianomarchesiello_langchains-parent-document-retrieverrevisited-activity-7265468589187440640-ndLR&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmassimilianomarchesiello_langchains-parent-document-retrieverrevisited-activity-7265468589187440640-ndLR&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/nirmal-gaud-210408174_informationretrieval-datamanagement-searchengineoptimization-activity-7205092979336790016-mTGA)
+
+[ ](https://in.linkedin.com/in/nirmal-gaud-210408174?trk=public_post_feed-actor-image)
+
+[ Nirmal Gaud ](https://in.linkedin.com/in/nirmal-gaud-210408174?trk=public_post_feed-actor-name)
+
+Founder & CEO - ThinkAI - A Machine Learning Community I Owner @CSE Pathshala by Nirmal Gaud I Kaggle Expert I Assistant Professor , Deptt. of C.S.E , SATI (D) , Vidisha , M.P , India I Former Tutor @ Unacademy 
+
+7mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnirmal-gaud-210408174_informationretrieval-datamanagement-searchengineoptimization-activity-7205092979336790016-mTGA&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Retrieval-Augmented Generation (RAG) Notes Basic Concepts and Components - Chunk: A single unit of data or information, often a part of a larger document. - Chunking (Text Splitting): Breaking down a long body of text into smaller parts for easier handling. - Document Loader: Imports documents into the retrieval system for indexing and retrieval. - Document Store (DocStore): A specialized database for managing and retrieving documents. - Document Pair Construction: Creating pairs of similar and dissimilar documents for training retrieval models. - Index: A data structure for fast retrieval of documents or chunks within a dataset, mapping key terms to their locations. Mathematical and Vector Representations - Embedding: A high-dimensional mathematical representation of a document or chunk. - Vector: Mathematical and Vector Representations - Dimension Size: The number of features in the space, corresponding to the size of embeddings. - Vector Store (VectorStore): A database for vectors, enabling efficient retrieval and comparison. Retrieval and Ranking Techniques - Retriever: Fetches relevant documents based on a query using embeddings and similarity measures. - Ranking Algorithms: Rank retrieved documents based on their relevance to the query. - Filtering Mechanisms: Refine search results based on criteria like date, location, or file type. - Relevance Feedback: Allows users to provide feedback on the relevance of retrieved documents to refine future search results. - Result Presentation: Displays retrieved information with snippets, summaries, and highlighted query terms. - Personalization: Tailors search results to individual users’ preferences and interests. - Maximum Marginal Relevance (MMR): An algorithm providing relevant and diverse search results. Similarity and Relevance Measures - Cosine Similarity: Measures similarity between two vectors by calculating the cosine of the angle between them. - Term Frequency-Inverse Document Frequency (TF-IDF): Reflects the importance of a word in a document relative to a corpus. - Lexical Dependency Models: Consider dependencies between terms to improve retrieval effectiveness. - Sentiment: The emotional tone behind words, used to understand attitudes and emotions in text. Advanced Models and Techniques - Attention Mechanisms: Focus on specific parts of the input text to enhance retrieval accuracy. - Transformer Models: Advanced deep learning models like BERT that use self-attention to capture context and semantics. - Query Expansion: Improves retrieval by adding semantically related terms to the original query. - Hierarchical Document Representation: Represents documents hierarchically to encode and retrieve information at different levels. - Metric Learning: Measures similarity between documents using techniques like Siamese networks and triplet loss. [#InformationRetrieval](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Finformationretrieval&trk=public_post-text) [#DataManagement](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fdatamanagement&trk=public_post-text) [#SearchEngineOptimization](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsearchengineoptimization&trk=public_post-text) [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post-text)
+
+[ 30  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnirmal-gaud-210408174_informationretrieval-datamanagement-searchengineoptimization-activity-7205092979336790016-mTGA&trk=public_post_social-actions-reactions) [ 2 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnirmal-gaud-210408174_informationretrieval-datamanagement-searchengineoptimization-activity-7205092979336790016-mTGA&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnirmal-gaud-210408174_informationretrieval-datamanagement-searchengineoptimization-activity-7205092979336790016-mTGA&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnirmal-gaud-210408174_informationretrieval-datamanagement-searchengineoptimization-activity-7205092979336790016-mTGA&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnirmal-gaud-210408174_informationretrieval-datamanagement-searchengineoptimization-activity-7205092979336790016-mTGA&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/pavan-belagatti_rag-activity-7196544151939670016-zAL5)
+
+[ ](https://in.linkedin.com/in/pavan-belagatti?trk=public_post_feed-actor-image)
+
+[ Pavan Belagatti ](https://in.linkedin.com/in/pavan-belagatti?trk=public_post_feed-actor-name) Pavan Belagatti is an Influencer
+
+GenAI Evangelist | Developer Advocate | Tech Content Creator | 35k Newsletter Subscribers | Empowering AI/ML/Data Startups 
+
+8mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpavan-belagatti_rag-activity-7196544151939670016-zAL5&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+The [#RAG](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frag&trk=public_post-text) approach might not be as easy as you think. Effective retrieval is a pain, and you can encounter several issues during this important stage. Here are some common pain points and possible solutions in the retrival stage. ⮕ Challenge: Retrieved data not in context & there can be several reasons for this. ➤ Missed Top Rank Documents: The system sometimes doesn’t include essential documents that contain the answer in the top results returned by the system’s retrieval component. ➤ Incorrect Specificity: Responses may not provide precise information or adequately address the specific context of the user’s query ➤ Losing Relevant Context During Reranking: This occurs when documents containing the answer are retrieved from the database but fail to make it into the context for generating an answer. ⮕ Proposed Solutions: ➤ Query Augmentation: Query augmentation enables RAG to retrieve information that is in context by enhancing the user queries with additional contextual details or modifying them to maximize relevancy. This involves improving the phrasing, adding company-specific context, and generating sub-questions that help contextualize and generate accurate responses - Rephrasing - Hypothetical document embeddings - Sub-queries ➤ Tweak retrieval strategies: Llama Index offers a range of retrieval strategies, from basic to advanced, to ensure accurate retrieval in RAG pipelines. By exploring these strategies, developers can improve the system’s ability to incorporate relevant information into the context for generating accurate responses. - Small-to-big sentence window retrieval, - recursive retrieval - semantic similarity scoring. ➤ Hyperparameter tuning for chunk size and similarity_top_k: This solution involves adjusting the parameters of the retrieval process in RAG models. More specifically, we can tune the parameters related to chunk size and similarity_top_k. The chunk_size parameter determines the size of the text chunks used for retrieval, while similarity_top_k controls the number of similar chunks retrieved. By experimenting with different values for these parameters, developers can find the optimal balance between computational efficiency and the quality of retrieved information. ➤ Reranking: Reranking retrieval results before they are sent to the language model has proven to improve RAG systems’ performance significantly. This reranking process can be implemented by incorporating the reranker as a postprocessor in the RAG pipeline. Know more about the other pain points & possible solutions explained in detail: [https://lnkd.in/gruJApeu](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgruJApeu&urlhash=NVO7&trk=public_post-text) ---------------------------------------------------------------- BTW, learn many GenAI concepts in my e-book 'GenAI for Everyone'. Download the free 'GenAI for Everyone' E-Book: [https://lnkd.in/gy7F3tvB](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fgy7F3tvB&urlhash=Da_K&trk=public_post-text)
+
+[ 280  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpavan-belagatti_rag-activity-7196544151939670016-zAL5&trk=public_post_social-actions-reactions) [ 8 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpavan-belagatti_rag-activity-7196544151939670016-zAL5&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpavan-belagatti_rag-activity-7196544151939670016-zAL5&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpavan-belagatti_rag-activity-7196544151939670016-zAL5&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpavan-belagatti_rag-activity-7196544151939670016-zAL5&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/marcus-vinicius-bueno-nunes_ai-llm-genai-activity-7269666698562052097-jpyY)
+
+[ ](https://br.linkedin.com/in/marcus-vinicius-bueno-nunes?trk=public_post_feed-actor-image)
+
+[ Marcus Vinicius Bueno Nunes ](https://br.linkedin.com/in/marcus-vinicius-bueno-nunes?trk=public_post_feed-actor-name)
+
+Data Scientist Specialist | Machine Learning | LLM | GenAI | NLP | AI Engineer 
+
+1mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarcus-vinicius-bueno-nunes_ai-llm-genai-activity-7269666698562052097-jpyY&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐈𝐧𝐝𝐞𝐱𝐢𝐧𝐠 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 𝐢𝐧 𝐑𝐀𝐆: 𝐕𝐞𝐜𝐭𝐨𝐫-𝐁𝐚𝐬𝐞𝐝 𝐀𝐍𝐍 𝐯𝐬. 𝐓𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐁𝐌𝟐𝟓 Have you ever wondered how Retrieval-Augmented Generation (RAG) systems find the right information in massive databases? At the heart of this process are indexing techniques, which play a critical role in determining the speed and accuracy of retrieving relevant data. Today, let’s compare two key approaches: Vector-Based ANN and Traditional BM25. 𝐓𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐁𝐌𝟐𝟓: 𝐊𝐞𝐲𝐰𝐨𝐫𝐝-𝐂𝐞𝐧𝐭𝐫𝐢𝐜 𝐑𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥 BM25 is a classic algorithm designed for text retrieval. It ranks documents based on the frequency of query terms and their distribution across documents. This method is highly effective when working with structured text datasets and keyword-heavy queries. However, it has limitations in capturing the semantic meaning behind words, often relying solely on exact matches or slight variations. 𝐕𝐞𝐜𝐭𝐨𝐫-𝐁𝐚𝐬𝐞𝐝 𝐀𝐍𝐍: 𝐓𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐄𝐦𝐛𝐞𝐝𝐝𝐢𝐧𝐠𝐬 In contrast, vector-based Approximate Nearest Neighbors (ANN) leverages embeddings, numerical representations of text, images, or other data types. By capturing semantic relationships, ANN allows for deeper understanding, such as identifying documents with similar concepts even when no exact keywords match. This makes it ideal for unstructured or high-dimensional datasets like customer queries or multimedia content. 𝐊𝐞𝐲 𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬 - 𝐒𝐩𝐞𝐞𝐝 𝐚𝐧𝐝 𝐒𝐜𝐚𝐥𝐚𝐛𝐢𝐥𝐢𝐭𝐲: ANN is optimized for large-scale datasets, using approximate matches to significantly reduce computation time. BM25, while accurate for small datasets, struggles to scale efficiently. - 𝐒𝐞𝐦𝐚𝐧𝐭𝐢𝐜 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠: ANN captures meaning through embeddings, outperforming BM25 in cases where context matters more than keywords. - 𝐔𝐬𝐞 𝐂𝐚𝐬𝐞𝐬: BM25 excels in structured, text-heavy environments (e.g., legal documents), while ANN shines in applications requiring semantic or multimodal understanding (e.g., recommendation systems, image retrieval). 𝐂𝐡𝐨𝐨𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐑𝐢𝐠𝐡𝐭 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡 Selecting between BM25 and ANN depends on your use case. For precise keyword matching, BM25 remains a strong contender. If semantic understanding and scalability are priorities, ANN is the way forward. Many RAG implementations combine both techniques, ensuring the best of both worlds. 𝐖𝐡𝐲 𝐈𝐭 𝐌𝐚𝐭𝐭𝐞𝐫𝐬 The choice of indexing impacts not just the performance of RAG systems but also their ability to deliver contextually relevant answers. As we continue to harness RAG for complex applications, understanding these techniques is vital for building smarter, faster, and more accurate systems. Have you worked with BM25 or ANN in your projects? Let’s discuss the trade-offs and innovations shaping the future of information retrieval. [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#LLM](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post-text) [#GenAI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgenai&trk=public_post-text) [#NLP](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnlp&trk=public_post-text) [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post-text) [#DataScience](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fdatascience&trk=public_post-text) [#RAG](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frag&trk=public_post-text) [#ANN](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fann&trk=public_post-text) [#BM25](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fbm25&trk=public_post-text) [#Indexing](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Findexing&trk=public_post-text)
+
+    * View C2PA information
+
+[ 56  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarcus-vinicius-bueno-nunes_ai-llm-genai-activity-7269666698562052097-jpyY&trk=public_post_social-actions-reactions) [ 46 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarcus-vinicius-bueno-nunes_ai-llm-genai-activity-7269666698562052097-jpyY&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarcus-vinicius-bueno-nunes_ai-llm-genai-activity-7269666698562052097-jpyY&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarcus-vinicius-bueno-nunes_ai-llm-genai-activity-7269666698562052097-jpyY&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarcus-vinicius-bueno-nunes_ai-llm-genai-activity-7269666698562052097-jpyY&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/john-wr-a41942320_vectorsearch-a-comprehensive-solution-to-activity-7246525185648902144-BNjJ)
+
+[ ](https://tr.linkedin.com/in/john-wr-a41942320?trk=public_post_feed-actor-image)
+
+[ John WR. ](https://tr.linkedin.com/in/john-wr-a41942320?trk=public_post_feed-actor-name)
+
+-- 
+
+3mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjohn-wr-a41942320_vectorsearch-a-comprehensive-solution-to-activity-7246525185648902144-BNjJ&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+The sphere of data retrieval has quickly advanced due to the exponential development of digital knowledge. With the growing quantity of unstructured knowledge, environment friendly strategies for looking out and retrieving related data have turn into extra essential than ever. Conventional keyword-based search strategies usually want to seize the nuanced that means of textual content, main to inaccurate or irrelevant search outcomes. This situation turns into extra pronounced with complicated datasets that span varied media varieties, resembling textual content, photos, and movies. The widespread adoption of sensible gadgets and social platforms has additional contributed to this surge in knowledge, with estimates suggesting that unstructured knowledge might represent 80% of the entire knowledge quantity by 2025. As such, there’s a important want for sturdy methodologies that may rework this knowledge into significant insights. One of many important challenges in data retrieval is dealing with the excessive dimensionality and dynamic nature of recent datasets. Current strategies usually need assistance to present scalable and environment friendly options for dealing with multi-vector queries or integrating real-time updates. That is significantly problematic for functions requiring speedy retrieval of contextually related outcomes, resembling recommender programs and large-scale serps. Whereas some progress has been made in enhancing retrieval mechanisms by means of latent semantic evaluation (LSA) and deep studying fashions, these strategies nonetheless want to deal with the semantic gaps between queries and paperwork. Present data retrieval programs, like Milvus, have tried to provide assist for large-scale vector knowledge administration. Nevertheless, these programs are hindered by their reliance on static datasets and an absence of flexibility in dealing with complicated multi-vector queries. Conventional algorithms and libraries usually rely closely on important reminiscence storage and can not distribute knowledge throughout a number of machines, limiting their scalability. This restricts their adaptability to real-world situations the place knowledge is continually altering. Consequently, current options battle to present the precision and effectivity required for dynamic environments. The analysis staff on the College of Washington launched VectorSearch, a novel doc retrieval framework designed to deal with these limitations. VectorSearch integrates superior language fashions, hybrid indexing strategies, and multi-vector question dealing with mechanisms to enhance retrieval precision and scalability considerably. By leveraging each vector embeddings and conventional indexing strategies, VectorSearch can effectively handle large-scale datasets, making it a robust software for complicated search operations. The framework incorporates cache mechanisms and optimized search algorithms, enhancing response occasions and general 
+
+## [ VectorSearch: A Comprehensive Solution to Document Retrieval Challenges with Hybrid Indexing, Multi-Vector Search, and Optimized Query Performance  mrstarpost.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Emrstarpost%2Ecom%2Ftech%2Faritifical-intelligence%2Fvectorsearch-a-comprehensive-solution-to-document-retrieval-challenges-with-hybrid-indexing-multi-vector-search-and-optimized-query-performance%2F&urlhash=Sxg7&trk=public_post_feed-article-content)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjohn-wr-a41942320_vectorsearch-a-comprehensive-solution-to-activity-7246525185648902144-BNjJ&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjohn-wr-a41942320_vectorsearch-a-comprehensive-solution-to-activity-7246525185648902144-BNjJ&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjohn-wr-a41942320_vectorsearch-a-comprehensive-solution-to-activity-7246525185648902144-BNjJ&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/ankurgoelgl_the-future-of-search-is-here-extend-elasticsearch-activity-7177644942729601024-Do3g)
+
+[ ](https://in.linkedin.com/in/ankurgoelgl?trk=public_post_feed-actor-image)
+
+[ Ankur Goel ](https://in.linkedin.com/in/ankurgoelgl?trk=public_post_feed-actor-name)
+
+Engineering @ Adobe | LinkedIn Top Voice | GenAI | Writer | Passionate Coder 
+
+10mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fankurgoelgl_the-future-of-search-is-here-extend-elasticsearch-activity-7177644942729601024-Do3g&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+In this article, I've explored how vector embeddings can enable advanced search capabilities such as semantic text search, image similarity matching, and enhanced recommendations. Uncover the next evolution in search technology and harness the full potential of your data! [#search](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsearch&trk=public_post-text) [#vectorsearch](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fvectorsearch&trk=public_post-text) [#elasticsearch](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Felasticsearch&trk=public_post-text) [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#machinelearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post-text) [#solr](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsolr&trk=public_post-text) [#lucene](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Flucene&trk=public_post-text) [https://lnkd.in/gheSm8qn](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgheSm8qn&urlhash=1vp3&trk=public_post-text)
+
+## [ The Future of Search is Here: Extend Elasticsearch with Vector Database Capabilities  medium.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fmedium%2Ecom%2F%40ankur%2Egoel_34001%2Fthe-future-of-search-is-here-extend-elasticsearch-with-vector-database-capabilities-9512c9c696ee&urlhash=JHm-&trk=public_post_feed-article-content)
+
+[ 18  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fankurgoelgl_the-future-of-search-is-here-extend-elasticsearch-activity-7177644942729601024-Do3g&trk=public_post_social-actions-reactions) [ 2 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fankurgoelgl_the-future-of-search-is-here-extend-elasticsearch-activity-7177644942729601024-Do3g&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fankurgoelgl_the-future-of-search-is-here-extend-elasticsearch-activity-7177644942729601024-Do3g&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fankurgoelgl_the-future-of-search-is-here-extend-elasticsearch-activity-7177644942729601024-Do3g&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fankurgoelgl_the-future-of-search-is-here-extend-elasticsearch-activity-7177644942729601024-Do3g&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/pavan-belagatti_rag-activity-7188061310557814784-TMMB)
+
+[ ](https://in.linkedin.com/in/pavan-belagatti?trk=public_post_feed-actor-image)
+
+[ Pavan Belagatti ](https://in.linkedin.com/in/pavan-belagatti?trk=public_post_feed-actor-name) Pavan Belagatti is an Influencer
+
+GenAI Evangelist | Developer Advocate | Tech Content Creator | 35k Newsletter Subscribers | Empowering AI/ML/Data Startups 
+
+9mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpavan-belagatti_rag-activity-7188061310557814784-TMMB&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+[#RAG](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frag&trk=public_post-text) might seem easy at first glance but that may not be true. Effective retrieval is a pain, and you can encounter several issues during this important stage. Here are some common pain points and possible solutions in the retrival stage. ⮕ Challenge: Retrieved data not in context & there can be several reasons for this. ➤ Missed Top Rank Documents: The system sometimes doesn’t include essential documents that contain the answer in the top results returned by the system’s retrieval component. ➤ Incorrect Specificity: Responses may not provide precise information or adequately address the specific context of the user’s query ➤ Losing Relevant Context During Reranking: This occurs when documents containing the answer are retrieved from the database but fail to make it into the context for generating an answer. ⮕ Proposed Solutions: ➤ Query Augmentation: Query augmentation enables RAG to retrieve information that is in context by enhancing the user queries with additional contextual details or modifying them to maximize relevancy. This involves improving the phrasing, adding company-specific context, and generating sub-questions that help contextualize and generate accurate responses - Rephrasing - Hypothetical document embeddings - Sub-queries ➤ Tweak retrieval strategies: Llama Index offers a range of retrieval strategies, from basic to advanced, to ensure accurate retrieval in RAG pipelines. By exploring these strategies, developers can improve the system’s ability to incorporate relevant information into the context for generating accurate responses. - Small-to-big sentence window retrieval, - recursive retrieval - semantic similarity scoring. ➤ Hyperparameter tuning for chunk size and similarity_top_k: This solution involves adjusting the parameters of the retrieval process in RAG models. More specifically, we can tune the parameters related to chunk size and similarity_top_k. The chunk_size parameter determines the size of the text chunks used for retrieval, while similarity_top_k controls the number of similar chunks retrieved. By experimenting with different values for these parameters, developers can find the optimal balance between computational efficiency and the quality of retrieved information. ➤ Reranking: Reranking retrieval results before they are sent to the language model has proven to improve RAG systems’ performance significantly. This reranking process can be implemented by incorporating the reranker as a postprocessor in the RAG pipeline. Know more about the other pain points & possible solutions explained in detail: [https://lnkd.in/gruJApeu](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgruJApeu&urlhash=NVO7&trk=public_post-text) ---------------------------------------------------------------- It is also very important to select a vector database that supports a hybrid search technique to retrieve the most accurate results. SingleStore database supports hybrid search (vector search + full text search) Try SingleStore for free: [https://lnkd.in/gCAbwtTC](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgCAbwtTC&urlhash=qs3T&trk=public_post-text)
+
+[ 264  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpavan-belagatti_rag-activity-7188061310557814784-TMMB&trk=public_post_social-actions-reactions) [ 9 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpavan-belagatti_rag-activity-7188061310557814784-TMMB&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpavan-belagatti_rag-activity-7188061310557814784-TMMB&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpavan-belagatti_rag-activity-7188061310557814784-TMMB&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpavan-belagatti_rag-activity-7188061310557814784-TMMB&trk=public_post_feed-cta-banner-cta)
+
+
+
+
+![](https://media.licdn.com/dms/image/v2/D5616AQH_aiSQuRTLiw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1677964310870?e=2147483647&v=beta&t=SScy4y7HgS_w-Kl7oODUJ2t7vHfEth_SqrncoV5GTqU)
+
+168,146 followers 
+
+  * [ 821 Posts ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fdamienbenveniste%2Frecent-activity%2F&trk=public_post_follow-posts)
+  * [ 41 Articles ](https://www.linkedin.com/today/author/damienbenveniste?trk=public_post_follow-articles)
+
+
+
+[ View Profile ](https://www.linkedin.com/in/damienbenveniste?trk=public_post_follow-view-profile) [ Follow ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A7267236939097923584&trk=public_post_follow)
+
+##  More from this author 
+
+  * ### [ Latest AI News and Research: Meta's Controversial Move and AI's Future in Healthcare and Gaming  Damien Benveniste, PhD  2d  ](https://www.linkedin.com/pulse/latest-ai-news-research-metas-controversial-move-ais-benveniste-phd-qez4c?trk=public_post)
+  * ### [ Today AI in the News: Brain-Mimicking Chips, Eco-Focused Models, and Google's News-Powered Gemini  Damien Benveniste, PhD  3d  ](https://www.linkedin.com/pulse/today-ai-news-brain-mimicking-chips-eco-focused-benveniste-phd-wy3lc?trk=public_post)
+  * ### [ Today AI in the News: AI's Bold Advances in Healthcare and Beyond  Damien Benveniste, PhD  4d  ](https://www.linkedin.com/pulse/today-ai-news-ais-bold-advances-healthcare-beyond-benveniste-phd-drj1c?trk=public_post)
+
+
+
+##  Explore topics 
+
+  * [ Sales ](https://www.linkedin.com/pulse/topics/sales-s5/)
+  * [ Marketing ](https://www.linkedin.com/pulse/topics/marketing-s2461/)
+  * [ IT Services ](https://www.linkedin.com/pulse/topics/it-services-s57547/)
+  * [ Business Administration ](https://www.linkedin.com/pulse/topics/business-administration-s50111/)
+  * [ HR Management ](https://www.linkedin.com/pulse/topics/hr-management-s50359/)
+  * [ Engineering ](https://www.linkedin.com/pulse/topics/engineering-s166/)
+  * [ Soft Skills ](https://www.linkedin.com/pulse/topics/soft-skills-s2976/)
+  * [ See All ](https://www.linkedin.com/pulse/topics/home/)
+
+
+
+  * LinkedIn © 2025
+  * [ About ](https://about.linkedin.com?trk=d_public_post_footer-about)
+  * [ Accessibility ](https://www.linkedin.com/accessibility?trk=d_public_post_footer-accessibility)
+  * [ User Agreement ](https://www.linkedin.com/legal/user-agreement?trk=d_public_post_footer-user-agreement)
+  * [ Privacy Policy ](https://www.linkedin.com/legal/privacy-policy?trk=d_public_post_footer-privacy-policy)
+  * [ Cookie Policy ](https://www.linkedin.com/legal/cookie-policy?trk=d_public_post_footer-cookie-policy)
+  * [ Copyright Policy ](https://www.linkedin.com/legal/copyright-policy?trk=d_public_post_footer-copyright-policy)
+  * [ Brand Policy ](https://brand.linkedin.com/policies?trk=d_public_post_footer-brand-policy)
+  * [ Guest Controls ](https://www.linkedin.com/psettings/guest-controls?trk=d_public_post_footer-guest-controls)
+  * [ Community Guidelines ](https://www.linkedin.com/legal/professional-community-policies?trk=d_public_post_footer-community-guide)
+  *     * العربية (Arabic) 
+    * বাংলা (Bangla) 
+    * Čeština (Czech) 
+    * Dansk (Danish) 
+    * Deutsch (German) 
+    * Ελληνικά (Greek) 
+    * **English (English)**
+    * Español (Spanish) 
+    * فارسی (Persian) 
+    * Suomi (Finnish) 
+    * Français (French) 
+    * हिंदी (Hindi) 
+    * Magyar (Hungarian) 
+    * Bahasa Indonesia (Indonesian) 
+    * Italiano (Italian) 
+    * עברית (Hebrew) 
+    * 日本語 (Japanese) 
+    * 한국어 (Korean) 
+    * मराठी (Marathi) 
+    * Bahasa Malaysia (Malay) 
+    * Nederlands (Dutch) 
+    * Norsk (Norwegian) 
+    * ਪੰਜਾਬੀ (Punjabi) 
+    * Polski (Polish) 
+    * Português (Portuguese) 
+    * Română (Romanian) 
+    * Русский (Russian) 
+    * Svenska (Swedish) 
+    * తెలుగు (Telugu) 
+    * ภาษาไทย (Thai) 
+    * Tagalog (Tagalog) 
+    * Türkçe (Turkish) 
+    * Українська (Ukrainian) 
+    * Tiếng Việt (Vietnamese) 
+    * 简体中文 (Chinese (Simplified)) 
+    * 正體中文 (Chinese (Traditional)) 
+Language 
+
+
+
+
+LinkedIn 
+
+Never miss a beat on the app 
+
+Don’t have the app? Get it in the Microsoft Store. 
+
+[ Open the app ](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell_post2)
+
+##  Sign in to view more content 
+
+Create your free account or sign in to continue your search 
+
+Sign in 
+
+##  Welcome back 
+
+Email or phone 
+
+Password 
+
+Show
+
+[Forgot password?](https://www.linkedin.com/uas/request-password-reset?trk=public_post_contextual-sign-in-modal_sign-in-modal_forgot_password) Sign in 
+
+or 
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy). 
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_contextual-sign-in-modal_sign-in-modal_join-link)
+
+or 
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdamienbenveniste_graph-databases-should-be-the-better-choice-activity-7267236939097923584-DBKf&trk=public_post_contextual-sign-in-modal_join-link)
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy). 

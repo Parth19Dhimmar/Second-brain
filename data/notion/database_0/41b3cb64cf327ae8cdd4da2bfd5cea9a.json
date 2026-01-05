@@ -1,0 +1,24 @@
+{
+    "id": "41b3cb64cf327ae8cdd4da2bfd5cea9a",
+    "metadata": {
+        "id": "41b3cb64cf327ae8cdd4da2bfd5cea9a",
+        "url": "https://www.notion.so/LLM-APIs-API-Benchmarks-41b3cb64cf327ae8cdd4da2bfd5cea9a",
+        "title": "LLM APIs & API Benchmarks",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "a9c376e1bf63acb0d7cea5f353dcb0fd",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Benchmarks\n\n\t[https://artificialanalysis.ai/](https://artificialanalysis.ai/)\n\t[mteb/leaderboard](https://huggingface.co/spaces/mteb/leaderboard)\n\n# APIs",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://artificialanalysis.ai/",
+        "https://huggingface.co/spaces/mteb/leaderboard/"
+    ]
+}

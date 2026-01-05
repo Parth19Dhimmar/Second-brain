@@ -1,0 +1,425 @@
+[ ![]() ](https://mlabonne.github.io/blog/) [ Maxime Labonne ](https://mlabonne.github.io/blog/)
+
+  * [ LLM Course](https://github.com/mlabonne/llm-course)
+  * [ Books](https://mlabonne.github.io/blog/book.html)
+  * [ Research](https://mlabonne.github.io/blog/publications.html)
+  * [ About](https://mlabonne.github.io/blog/about.html)
+
+
+  * [ ](https://twitter.com/maximelabonne)
+  * [ ](https://linkedin.com/in/maxime-labonne/)
+  * [ ](https://github.com/mlabonne)
+  * [ ](https://huggingface.co/mlabonne)
+
+
+
+#  Articles
+
+Technical articles about graph neural networks, large language models, and convex optimization. 
+
+[](https://mlabonne.github.io/blog/posts/2024-07-29_Finetune_Llama31.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2024-07-29_Finetune_Llama31.html)
+
+[](https://mlabonne.github.io/blog/posts/2024-07-29_Finetune_Llama31.html)
+
+###  [Fine-tune Llama 3.1 Ultra-Efficiently with Unsloth](https://mlabonne.github.io/blog/posts/2024-07-29_Finetune_Llama31.html)
+
+[A beginner’s guide to state-of-the-art supervised fine-tuning](https://mlabonne.github.io/blog/posts/2024-07-29_Finetune_Llama31.html)
+
+Large Language Models 
+
+[ Jul 29, 2024  14 min  ](https://mlabonne.github.io/blog/posts/2024-07-29_Finetune_Llama31.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2024-07-29_Finetune_Llama31.html)[![Open In Colab]()](https://colab.research.google.com/drive/164cg_O7SV7G8kZr_JXqLd6VC7pd86-1Z?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2024-07-15_The_Rise_of_Agentic_Data_Generation.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2024-07-15_The_Rise_of_Agentic_Data_Generation.html)
+
+[](https://mlabonne.github.io/blog/posts/2024-07-15_The_Rise_of_Agentic_Data_Generation.html)
+
+###  [The Rise of Agentic Data Generation](https://mlabonne.github.io/blog/posts/2024-07-15_The_Rise_of_Agentic_Data_Generation.html)
+
+[Combining AgentInstruct and Arena Learning](https://mlabonne.github.io/blog/posts/2024-07-15_The_Rise_of_Agentic_Data_Generation.html)
+
+Large Language Models 
+
+[ Jul 15, 2024  9 min  ](https://mlabonne.github.io/blog/posts/2024-07-15_The_Rise_of_Agentic_Data_Generation.html)
+
+[](https://mlabonne.github.io/blog/posts/2024-06-04_Uncensor_any_LLM_with_abliteration.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2024-06-04_Uncensor_any_LLM_with_abliteration.html)
+
+[](https://mlabonne.github.io/blog/posts/2024-06-04_Uncensor_any_LLM_with_abliteration.html)
+
+###  [Uncensor any LLM with abliteration](https://mlabonne.github.io/blog/posts/2024-06-04_Uncensor_any_LLM_with_abliteration.html)
+
+[Fine-tuning without retraining](https://mlabonne.github.io/blog/posts/2024-06-04_Uncensor_any_LLM_with_abliteration.html)
+
+Large Language Models 
+
+[ Jun 4, 2024  17 min  ](https://mlabonne.github.io/blog/posts/2024-06-04_Uncensor_any_LLM_with_abliteration.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2024-06-04_Uncensor_any_LLM_with_abliteration.html)[![Open In Colab]()](https://colab.research.google.com/drive/1VYm3hOcvCpbGiqKZb141gJwjdmmCcVpR?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html)
+
+[](https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html)
+
+###  [Fine-tune Llama 3 with ORPO](https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html)
+
+[A cheaper and faster unified fine-tuning technique](https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html)
+
+Large Language Models 
+
+[ Apr 19, 2024  11 min  ](https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html)[![Open In Colab]()](https://colab.research.google.com/drive/1eHNWg9gnaXErdAa8_mcvjMupbSS6rDvi?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2024-03-28_Create_Mixture_of_Experts_with_MergeKit.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2024-03-28_Create_Mixture_of_Experts_with_MergeKit.html)
+
+[](https://mlabonne.github.io/blog/posts/2024-03-28_Create_Mixture_of_Experts_with_MergeKit.html)
+
+###  [Create Mixtures of Experts with MergeKit](https://mlabonne.github.io/blog/posts/2024-03-28_Create_Mixture_of_Experts_with_MergeKit.html)
+
+[Combine multiple experts into a single frankenMoE](https://mlabonne.github.io/blog/posts/2024-03-28_Create_Mixture_of_Experts_with_MergeKit.html)
+
+Large Language Models 
+
+[ Mar 24, 2024  10 min  ](https://mlabonne.github.io/blog/posts/2024-03-28_Create_Mixture_of_Experts_with_MergeKit.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2024-03-28_Create_Mixture_of_Experts_with_MergeKit.html)[![Open In Colab]()](https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2024-01-08_Merge_LLMs_with_mergekit.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2024-01-08_Merge_LLMs_with_mergekit.html)
+
+[](https://mlabonne.github.io/blog/posts/2024-01-08_Merge_LLMs_with_mergekit.html)
+
+###  [Merge Large Language Models with MergeKit](https://mlabonne.github.io/blog/posts/2024-01-08_Merge_LLMs_with_mergekit.html)
+
+[Create your own models easily, no GPU required!](https://mlabonne.github.io/blog/posts/2024-01-08_Merge_LLMs_with_mergekit.html)
+
+Large Language Models 
+
+[ Jan 8, 2024  13 min  ](https://mlabonne.github.io/blog/posts/2024-01-08_Merge_LLMs_with_mergekit.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2024-01-08_Merge_LLMs_with_mergekit.html)[![Open In Colab]()](https://colab.research.google.com/drive/1_JS7JKJAQozD48-LhYdegcuuZ2ddgXfr?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/Fine_tune_Mistral_7b_with_DPO.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/Fine_tune_Mistral_7b_with_DPO.html)
+
+[](https://mlabonne.github.io/blog/posts/Fine_tune_Mistral_7b_with_DPO.html)
+
+###  [Fine-tune Mistral-7b with Direct Preference Optimization](https://mlabonne.github.io/blog/posts/Fine_tune_Mistral_7b_with_DPO.html)
+
+[Boosting the performance of your supervised fine-tuned models](https://mlabonne.github.io/blog/posts/Fine_tune_Mistral_7b_with_DPO.html)
+
+Large Language Models 
+
+[ Jan 1, 2024  10 min  ](https://mlabonne.github.io/blog/posts/Fine_tune_Mistral_7b_with_DPO.html)
+
+[ ](https://mlabonne.github.io/blog/posts/Fine_tune_Mistral_7b_with_DPO.html)[![Open In Colab]()](https://colab.research.google.com/drive/15iFBr1xWgztXvhrj5I9fBv20c7CFOPBE?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/ExLlamaV2_The_Fastest_Library_to_Run%C2%A0LLMs.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/ExLlamaV2_The_Fastest_Library_to_Run%C2%A0LLMs.html)
+
+[](https://mlabonne.github.io/blog/posts/ExLlamaV2_The_Fastest_Library_to_Run%C2%A0LLMs.html)
+
+###  [ExLlamaV2: The Fastest Library to Run LLMs](https://mlabonne.github.io/blog/posts/ExLlamaV2_The_Fastest_Library_to_Run%C2%A0LLMs.html)
+
+[Quantize and run EXL2 models](https://mlabonne.github.io/blog/posts/ExLlamaV2_The_Fastest_Library_to_Run%C2%A0LLMs.html)
+
+Large Language Models 
+
+[ Nov 19, 2023  8 min  ](https://mlabonne.github.io/blog/posts/ExLlamaV2_The_Fastest_Library_to_Run%C2%A0LLMs.html)
+
+[ ](https://mlabonne.github.io/blog/posts/ExLlamaV2_The_Fastest_Library_to_Run%C2%A0LLMs.html)[![Open In Colab]()](https://colab.research.google.com/drive/1yrq4XBlxiA0fALtMoT2dwiACVc77PHou?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/Quantize_Llama_2_models_using_ggml.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/Quantize_Llama_2_models_using_ggml.html)
+
+[](https://mlabonne.github.io/blog/posts/Quantize_Llama_2_models_using_ggml.html)
+
+###  [Quantize Llama models with GGUF and llama.cpp](https://mlabonne.github.io/blog/posts/Quantize_Llama_2_models_using_ggml.html)
+
+[GGML vs. GPTQ vs. NF4](https://mlabonne.github.io/blog/posts/Quantize_Llama_2_models_using_ggml.html)
+
+Large Language Models 
+
+[ Sep 3, 2023  9 min  ](https://mlabonne.github.io/blog/posts/Quantize_Llama_2_models_using_ggml.html)
+
+[ ](https://mlabonne.github.io/blog/posts/Quantize_Llama_2_models_using_ggml.html)[![Open In Colab]()](https://colab.research.google.com/drive/1pL8k7m04mgE5jo2NrjGi8atB0j_37aDD?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/A_Beginners_Guide_to_LLM_Finetuning.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/A_Beginners_Guide_to_LLM_Finetuning.html)
+
+[](https://mlabonne.github.io/blog/posts/A_Beginners_Guide_to_LLM_Finetuning.html)
+
+###  [A Beginner’s Guide to LLM Fine-Tuning](https://mlabonne.github.io/blog/posts/A_Beginners_Guide_to_LLM_Finetuning.html)
+
+[How to fine-tune Llama and other LLMs with one tool](https://mlabonne.github.io/blog/posts/A_Beginners_Guide_to_LLM_Finetuning.html)
+
+Large Language Models 
+
+[ Aug 27, 2023  8 min  ](https://mlabonne.github.io/blog/posts/A_Beginners_Guide_to_LLM_Finetuning.html)
+
+[ ](https://mlabonne.github.io/blog/posts/A_Beginners_Guide_to_LLM_Finetuning.html)[![Open In Colab]()](https://colab.research.google.com/drive/1Xu0BrCB7IShwSWKVcfAfhehwjDrDMH5m?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/4_bit_Quantization_with_GPTQ.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/4_bit_Quantization_with_GPTQ.html)
+
+[](https://mlabonne.github.io/blog/posts/4_bit_Quantization_with_GPTQ.html)
+
+###  [4-bit LLM Quantization with GPTQ](https://mlabonne.github.io/blog/posts/4_bit_Quantization_with_GPTQ.html)
+
+[Quantize your own open-source LLMs to run them on consumer hardware](https://mlabonne.github.io/blog/posts/4_bit_Quantization_with_GPTQ.html)
+
+Large Language Models 
+
+[ Jul 30, 2023  10 min  ](https://mlabonne.github.io/blog/posts/4_bit_Quantization_with_GPTQ.html)
+
+[ ](https://mlabonne.github.io/blog/posts/4_bit_Quantization_with_GPTQ.html)[![Open In Colab]()](https://colab.research.google.com/drive/1lSvVDaRgqQp_mWK_jC9gydz6_-y6Aq4A?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
+
+[](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
+
+###  [Fine-Tune Your Own Llama 2 Model in a Colab Notebook](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
+
+[A practical introduction to LLM fine-tuning](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
+
+Large Language Models 
+
+[ Jul 24, 2023  10 min  ](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
+
+[ ](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)[![Open In Colab]()](https://colab.research.google.com/drive/1PEQyJO1-f6j0S_XJ8DV50NkpzasXkrzd?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/Introduction_to_Weight_Quantization.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/Introduction_to_Weight_Quantization.html)
+
+[](https://mlabonne.github.io/blog/posts/Introduction_to_Weight_Quantization.html)
+
+###  [Introduction to Weight Quantization](https://mlabonne.github.io/blog/posts/Introduction_to_Weight_Quantization.html)
+
+[Large language model optimization using 8-bit quantization](https://mlabonne.github.io/blog/posts/Introduction_to_Weight_Quantization.html)
+
+Large Language Models 
+
+[ Jul 6, 2023  12 min  ](https://mlabonne.github.io/blog/posts/Introduction_to_Weight_Quantization.html)
+
+[ ](https://mlabonne.github.io/blog/posts/Introduction_to_Weight_Quantization.html)[![Open In Colab]()](https://colab.research.google.com/drive/1DPr4mUQ92Cc-xf4GgAaB6dFcFnWIvqYi?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/Article_Improve_ChatGPT_with_Knowledge_Graphs.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/Article_Improve_ChatGPT_with_Knowledge_Graphs.html)
+
+[](https://mlabonne.github.io/blog/posts/Article_Improve_ChatGPT_with_Knowledge_Graphs.html)
+
+###  [Improve ChatGPT with Knowledge Graphs](https://mlabonne.github.io/blog/posts/Article_Improve_ChatGPT_with_Knowledge_Graphs.html)
+
+[Leveraging knowledge graphs for LLMs using LangChain](https://mlabonne.github.io/blog/posts/Article_Improve_ChatGPT_with_Knowledge_Graphs.html)
+
+Large Language Models 
+
+[ Jun 20, 2023  6 min  ](https://mlabonne.github.io/blog/posts/Article_Improve_ChatGPT_with_Knowledge_Graphs.html)
+
+[ ](https://mlabonne.github.io/blog/posts/Article_Improve_ChatGPT_with_Knowledge_Graphs.html)[![Open In Colab]()](https://colab.research.google.com/drive/1mwhOSw9Y9bgEaIFKT4CLi0n18pXRM4cj?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html)
+
+[](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html)
+
+###  [Decoding Strategies in Large Language Models](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html)
+
+[A Guide to Text Generation From Beam Search to Nucleus Sampling](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html)
+
+Large Language Models 
+
+[ Jun 7, 2023  12 min  ](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html)[![Open In Colab]()](https://colab.research.google.com/drive/19CJlOS5lI29g-B3dziNn93Enez1yiHk2?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2023-05-21-Nonlinear_optimization.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2023-05-21-Nonlinear_optimization.html)
+
+[](https://mlabonne.github.io/blog/posts/2023-05-21-Nonlinear_optimization.html)
+
+###  [Optimize Your Marketing Budget with Nonlinear Programming](https://mlabonne.github.io/blog/posts/2023-05-21-Nonlinear_optimization.html)
+
+[Introduction to CVXPY to maximize marketing ROI](https://mlabonne.github.io/blog/posts/2023-05-21-Nonlinear_optimization.html)
+
+linear programming 
+
+[ May 21, 2023  8 min  ](https://mlabonne.github.io/blog/posts/2023-05-21-Nonlinear_optimization.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2023-05-21-Nonlinear_optimization.html)[![Open In Colab]()](https://colab.research.google.com/drive/1V7z8giemuTk92s_JMxIyr1Clr2TwY7xl?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2022-05-25-Minecraft.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2022-05-25-Minecraft.html)
+
+[](https://mlabonne.github.io/blog/posts/2022-05-25-Minecraft.html)
+
+###  [Create a Bot to Find Diamonds in Minecraft](https://mlabonne.github.io/blog/posts/2022-05-25-Minecraft.html)
+
+[Reinforcement Learning and Behavior Cloning in Python with MineRL](https://mlabonne.github.io/blog/posts/2022-05-25-Minecraft.html)
+
+reinforcement learning 
+
+[ May 25, 2022  8 min  ](https://mlabonne.github.io/blog/posts/2022-05-25-Minecraft.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2022-05-25-Minecraft.html)[![Open In Colab]()](https://colab.research.google.com/drive/1hRxR_UM72JAe32YveLxqoC6eX6Lqd9c2?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2022-05-02-Constraint_Programming.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2022-05-02-Constraint_Programming.html)
+
+[](https://mlabonne.github.io/blog/posts/2022-05-02-Constraint_Programming.html)
+
+###  [Introduction to Constraint Programming in Python](https://mlabonne.github.io/blog/posts/2022-05-02-Constraint_Programming.html)
+
+[The Programming Paradigm to Find One Solution Among 8,080,104 Candidates](https://mlabonne.github.io/blog/posts/2022-05-02-Constraint_Programming.html)
+
+linear programming 
+
+[ May 2, 2022  8 min  ](https://mlabonne.github.io/blog/posts/2022-05-02-Constraint_Programming.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2022-05-02-Constraint_Programming.html)[![Open In Colab]()](https://colab.research.google.com/drive/1huTlPTaahdEEO29KKdlW9ic5zAwB3D58?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2022-04-25-Graph_Isomorphism_Network.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2022-04-25-Graph_Isomorphism_Network.html)
+
+[](https://mlabonne.github.io/blog/posts/2022-04-25-Graph_Isomorphism_Network.html)
+
+###  [GIN: How to Design the Most Powerful Graph Neural Network](https://mlabonne.github.io/blog/posts/2022-04-25-Graph_Isomorphism_Network.html)
+
+[Graph Neural Network Course: Chapter 4](https://mlabonne.github.io/blog/posts/2022-04-25-Graph_Isomorphism_Network.html)
+
+graph neural networks 
+
+[ Apr 25, 2022  9 min  ](https://mlabonne.github.io/blog/posts/2022-04-25-Graph_Isomorphism_Network.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2022-04-25-Graph_Isomorphism_Network.html)[![Open In Colab]()](https://colab.research.google.com/drive/1b6SWugNKnxsI0L9auX1zwszlXf3rRZyS?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2022-04-06-GraphSAGE.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2022-04-06-GraphSAGE.html)
+
+[](https://mlabonne.github.io/blog/posts/2022-04-06-GraphSAGE.html)
+
+###  [GraphSAGE: Scaling up Graph Neural Networks](https://mlabonne.github.io/blog/posts/2022-04-06-GraphSAGE.html)
+
+[Graph Neural Network Course: Chapter 3](https://mlabonne.github.io/blog/posts/2022-04-06-GraphSAGE.html)
+
+graph neural networks 
+
+[ Apr 6, 2022  10 min  ](https://mlabonne.github.io/blog/posts/2022-04-06-GraphSAGE.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2022-04-06-GraphSAGE.html)[![Open In Colab]()](https://colab.research.google.com/drive/1udeUfWJzvMlLO7sGUDGsHo8cRPMicajl?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2022-03-28-What_is_a_Tensor_in_Deep_Learning.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2022-03-28-What_is_a_Tensor_in_Deep_Learning.html)
+
+[](https://mlabonne.github.io/blog/posts/2022-03-28-What_is_a_Tensor_in_Deep_Learning.html)
+
+###  [What is a Tensor in Machine Learning?](https://mlabonne.github.io/blog/posts/2022-03-28-What_is_a_Tensor_in_Deep_Learning.html)
+
+[The difference between tensors, arrays, and matrices](https://mlabonne.github.io/blog/posts/2022-03-28-What_is_a_Tensor_in_Deep_Learning.html)
+
+data science 
+
+[ Mar 28, 2022  5 min  ](https://mlabonne.github.io/blog/posts/2022-03-28-What_is_a_Tensor_in_Deep_Learning.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2022-03-28-What_is_a_Tensor_in_Deep_Learning.html)[![Open In Colab]()](https://colab.research.google.com/drive/1azq12DApWgLgdWuYB3wh0TcwJVAfVxCL?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2022-03-21-Efficiently_iterating_over_rows_in_a_Pandas_DataFrame.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2022-03-21-Efficiently_iterating_over_rows_in_a_Pandas_DataFrame.html)
+
+[](https://mlabonne.github.io/blog/posts/2022-03-21-Efficiently_iterating_over_rows_in_a_Pandas_DataFrame.html)
+
+###  [Efficiently iterating over rows in a Pandas DataFrame](https://mlabonne.github.io/blog/posts/2022-03-21-Efficiently_iterating_over_rows_in_a_Pandas_DataFrame.html)
+
+[Never use iterrows and itertuples again!](https://mlabonne.github.io/blog/posts/2022-03-21-Efficiently_iterating_over_rows_in_a_Pandas_DataFrame.html)
+
+data science 
+
+[ Mar 21, 2022  6 min  ](https://mlabonne.github.io/blog/posts/2022-03-21-Efficiently_iterating_over_rows_in_a_Pandas_DataFrame.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2022-03-21-Efficiently_iterating_over_rows_in_a_Pandas_DataFrame.html)[![Open In Colab]()](https://colab.research.google.com/drive/1v9v4j1MnklaCd9eFcuGnB5x_5FoINmRe?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2022-03-09-Graph_Attention_Network.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2022-03-09-Graph_Attention_Network.html)
+
+[](https://mlabonne.github.io/blog/posts/2022-03-09-Graph_Attention_Network.html)
+
+###  [Graph Attention Networks: Self-Attention for GNNs](https://mlabonne.github.io/blog/posts/2022-03-09-Graph_Attention_Network.html)
+
+[Graph Neural Network Course: Chapter 2](https://mlabonne.github.io/blog/posts/2022-03-09-Graph_Attention_Network.html)
+
+graph neural networks 
+
+[ Mar 9, 2022  9 min  ](https://mlabonne.github.io/blog/posts/2022-03-09-Graph_Attention_Network.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2022-03-09-Graph_Attention_Network.html)[![Open In Colab]()](https://colab.research.google.com/drive/1B0vLpH_gSfrOLgsc2UZVyXrcofzA-t0L?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2022-03-05-Integer_Programming.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2022-03-05-Integer_Programming.html)
+
+[](https://mlabonne.github.io/blog/posts/2022-03-05-Integer_Programming.html)
+
+###  [Integer vs. Linear Programming in Python](https://mlabonne.github.io/blog/posts/2022-03-05-Integer_Programming.html)
+
+[Mixed Integer Programming for optimization with Google OR-Tools](https://mlabonne.github.io/blog/posts/2022-03-05-Integer_Programming.html)
+
+linear programming 
+
+[ Mar 5, 2022  9 min  ](https://mlabonne.github.io/blog/posts/2022-03-05-Integer_Programming.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2022-03-05-Integer_Programming.html)[![Open In Colab]()](https://colab.research.google.com/drive/1aIKnXPEiXFo1M3U0EM6arE2teD9KkJdF?usp=sharing)
+
+[](https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html)
+
+[ ![]() ](https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html)
+
+[](https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html)
+
+###  [Introduction to Linear Programming in Python](https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html)
+
+[A guide to mathematical optimization with Google OR-Tools](https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html)
+
+linear programming 
+
+[ Mar 2, 2022  8 min  ](https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html)
+
+[ ](https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html)[![Open In Colab]()](https://colab.research.google.com/drive/1dbrFJwFv80kgUi13MfPO3KyumG-SVIHG?usp=sharing)
+
+No matching items 
+
+  * [1](#)
+  * [2](#)
+
+
+
+Copyright 2023, Maxime Labonne

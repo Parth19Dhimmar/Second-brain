@@ -1,0 +1,32 @@
+# Notes
+
+
+
+<child_page>
+# Design Patterns
+
+# Training code
+
+The most natural way of splitting the training code:
+- Dataset
+- DatasetLoader
+- Model
+- ModelFactory
+- Trainer (takes in the dataset and model)
+- Evaluator
+
+# Serving code
+
+[Infrastructure]Model (takes in the trained model)
+	- register
+	- deploy
+</child_page>
+
+
+---
+
+# Resources [Community]
+
+# Resources [Science]
+
+# Tools

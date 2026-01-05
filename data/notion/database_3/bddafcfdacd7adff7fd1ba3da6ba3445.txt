@@ -1,0 +1,12 @@
+# Articles
+
+	- [Hydra & PyDantic config layer](https://suneeta-mall.github.io/2022/03/15/hydra-pydantic-config-management-for-training-application.html)
+
+
+
+
+# Tools
+
+	- [pydantic basesettings](https://docs.pydantic.dev/latest/concepts/pydantic_settings/)
+	- [hydra](https://github.com/facebookresearch/hydra)
+	- [omegaconf](https://github.com/omry/omegaconf)

@@ -1,0 +1,495 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FDataTalksClub%2Fmlops-zoomcamp%2Ftree%2Fmain%2F05-monitoring%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FDataTalksClub%2Fmlops-zoomcamp%2Ftree%2Fmain%2F05-monitoring%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&source=header-repo&source_repo=DataTalksClub%2Fmlops-zoomcamp) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ DataTalksClub ](/DataTalksClub) / **[mlops-zoomcamp](/DataTalksClub/mlops-zoomcamp) ** Public
+
+  * [ Notifications ](/login?return_to=%2FDataTalksClub%2Fmlops-zoomcamp) You must be signed in to change notification settings
+  * [ Fork 2.2k ](/login?return_to=%2FDataTalksClub%2Fmlops-zoomcamp)
+  * [ Star  11.4k ](/login?return_to=%2FDataTalksClub%2Fmlops-zoomcamp)
+
+
+
+
+  * [ Code ](/DataTalksClub/mlops-zoomcamp)
+  * [ Issues 3 ](/DataTalksClub/mlops-zoomcamp/issues)
+  * [ Pull requests 2 ](/DataTalksClub/mlops-zoomcamp/pulls)
+  * [ Actions ](/DataTalksClub/mlops-zoomcamp/actions)
+  * [ Projects 0 ](/DataTalksClub/mlops-zoomcamp/projects)
+  * [ Security ](/DataTalksClub/mlops-zoomcamp/security)
+  * [ Insights ](/DataTalksClub/mlops-zoomcamp/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/DataTalksClub/mlops-zoomcamp)
+  * [ Issues  ](/DataTalksClub/mlops-zoomcamp/issues)
+  * [ Pull requests  ](/DataTalksClub/mlops-zoomcamp/pulls)
+  * [ Actions  ](/DataTalksClub/mlops-zoomcamp/actions)
+  * [ Projects  ](/DataTalksClub/mlops-zoomcamp/projects)
+  * [ Security  ](/DataTalksClub/mlops-zoomcamp/security)
+  * [ Insights  ](/DataTalksClub/mlops-zoomcamp/pulse)
+
+
+
+## Files
+
+main
+
+  * .github
+
+  * 01-intro
+
+  * 02-experiment-tracking
+
+  * 03-orchestration
+
+  * 04-deployment
+
+  * 05-monitoring
+
+    * config
+
+    * dashboards
+
+    * data
+
+    * images
+
+    * models
+
+    * README.md
+
+    * baseline_model_nyc_taxi_data.ipynb
+
+    * debugging_nyc_taxi_data.ipynb
+
+    * docker-compose.yml
+
+    * dummy_metrics_calculation.py
+
+    * evidently_metrics_calculation.py
+
+    * meta.json
+
+    * requirements.txt
+
+  * 06-best-practices
+
+  * 07-project
+
+  * cohorts
+
+  * generate
+
+  * images
+
+  * .gitignore
+
+  * README.md
+
+  * after-sign-up.md
+
+  * asking-questions.md
+
+  * certificate.md
+
+  * learning-in-public.md
+
+
+
+
+## Breadcrumbs
+
+  1. [mlops-zoomcamp](/DataTalksClub/mlops-zoomcamp/tree/main)
+
+
+
+/
+
+# 05-monitoring
+
+/
+
+Copy path
+
+## Directory actions
+
+## More options
+
+## Directory actions
+
+## More options
+
+## Latest commit
+
+[![daiyaharsh90](https://avatars.githubusercontent.com/u/13291668?v=4&size=40)](/daiyaharsh90)[daiyaharsh90](/DataTalksClub/mlops-zoomcamp/commits?author=daiyaharsh90)
+
+[Updated grafana image to fix issue raised in](/DataTalksClub/mlops-zoomcamp/commit/9fe4a02b312a497d9633b1f8b507cf82153d0bf2) [#319](https://github.com/DataTalksClub/mlops-zoomcamp/issues/319) [(](/DataTalksClub/mlops-zoomcamp/commit/9fe4a02b312a497d9633b1f8b507cf82153d0bf2)[#328](https://github.com/DataTalksClub/mlops-zoomcamp/pull/328)[)](/DataTalksClub/mlops-zoomcamp/commit/9fe4a02b312a497d9633b1f8b507cf82153d0bf2)
+
+Jul 17, 2024
+
+[9fe4a02](/DataTalksClub/mlops-zoomcamp/commit/9fe4a02b312a497d9633b1f8b507cf82153d0bf2) · Jul 17, 2024
+
+## History
+
+[History](/DataTalksClub/mlops-zoomcamp/commits/main/05-monitoring)
+
+[](/DataTalksClub/mlops-zoomcamp/commits/main/05-monitoring)
+
+## Breadcrumbs
+
+  1. [mlops-zoomcamp](/DataTalksClub/mlops-zoomcamp/tree/main)
+
+
+
+/
+
+# 05-monitoring
+
+/
+
+Top
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+### parent directory
+
+[..](/DataTalksClub/mlops-zoomcamp/tree/main)  
+[config](/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring/config "config")| [config](/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring/config "config")| [Update grafana_datasources.yaml (](/DataTalksClub/mlops-zoomcamp/commit/f3df6c6661a6fc8f23b882e1d477925bc547f7a3 "Update grafana_datasources.yaml \(#318\)
+updated yaml file so that the test db with the dummy_metrics table can be visible on grafana as per 5.4")[#318](https://github.com/DataTalksClub/mlops-zoomcamp/pull/318)[)](/DataTalksClub/mlops-zoomcamp/commit/f3df6c6661a6fc8f23b882e1d477925bc547f7a3 "Update grafana_datasources.yaml \(#318\)
+updated yaml file so that the test db with the dummy_metrics table can be visible on grafana as per 5.4")| Jun 22, 2024  
+[dashboards](/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring/dashboards "dashboards")| [dashboards](/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring/dashboards "dashboards")| [Entirely rebuilt the example (](/DataTalksClub/mlops-zoomcamp/commit/814a0fc5c5e4236f2cd667d77ca455ccd20d8668 "Entirely rebuilt the example \(#230\)")[#230](https://github.com/DataTalksClub/mlops-zoomcamp/pull/230)[)](/DataTalksClub/mlops-zoomcamp/commit/814a0fc5c5e4236f2cd667d77ca455ccd20d8668 "Entirely rebuilt the example \(#230\)")| Jun 12, 2023  
+[data](/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring/data "data")| [data](/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring/data "data")| [Entirely rebuilt the example (](/DataTalksClub/mlops-zoomcamp/commit/814a0fc5c5e4236f2cd667d77ca455ccd20d8668 "Entirely rebuilt the example \(#230\)")[#230](https://github.com/DataTalksClub/mlops-zoomcamp/pull/230)[)](/DataTalksClub/mlops-zoomcamp/commit/814a0fc5c5e4236f2cd667d77ca455ccd20d8668 "Entirely rebuilt the example \(#230\)")| Jun 12, 2023  
+[images](/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring/images "images")| [images](/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring/images "images")| [monitoring module correct links](/DataTalksClub/mlops-zoomcamp/commit/f36875947fd301f205e27900e65fde82a6761594 "monitoring module correct links")| Jun 25, 2023  
+[models](/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring/models "models")| [models](/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring/models "models")| [Entirely rebuilt the example (](/DataTalksClub/mlops-zoomcamp/commit/814a0fc5c5e4236f2cd667d77ca455ccd20d8668 "Entirely rebuilt the example \(#230\)")[#230](https://github.com/DataTalksClub/mlops-zoomcamp/pull/230)[)](/DataTalksClub/mlops-zoomcamp/commit/814a0fc5c5e4236f2cd667d77ca455ccd20d8668 "Entirely rebuilt the example \(#230\)")| Jun 12, 2023  
+[README.md](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/README.md "README.md")| [README.md](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/README.md "README.md")| [Update README.md](/DataTalksClub/mlops-zoomcamp/commit/9ef7a7b295895c74380c12d8f5d6eb44a62e8ffa "Update README.md")| Jun 7, 2024  
+[baseline_model_nyc_taxi_data.ipynb](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/baseline_model_nyc_taxi_data.ipynb "baseline_model_nyc_taxi_data.ipynb")| [baseline_model_nyc_taxi_data.ipynb](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/baseline_model_nyc_taxi_data.ipynb "baseline_model_nyc_taxi_data.ipynb")| [added an example of evidently local monitoring dashboard (](/DataTalksClub/mlops-zoomcamp/commit/5f30c8eb925901f5f16c2478c0080e50b54cac7f "added an example of evidently local monitoring dashboard \(#264\)")[#264](https://github.com/DataTalksClub/mlops-zoomcamp/pull/264)[)](/DataTalksClub/mlops-zoomcamp/commit/5f30c8eb925901f5f16c2478c0080e50b54cac7f "added an example of evidently local monitoring dashboard \(#264\)")| May 4, 2024  
+[debugging_nyc_taxi_data.ipynb](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/debugging_nyc_taxi_data.ipynb "debugging_nyc_taxi_data.ipynb")| [debugging_nyc_taxi_data.ipynb](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/debugging_nyc_taxi_data.ipynb "debugging_nyc_taxi_data.ipynb")| [Entirely rebuilt the example (](/DataTalksClub/mlops-zoomcamp/commit/814a0fc5c5e4236f2cd667d77ca455ccd20d8668 "Entirely rebuilt the example \(#230\)")[#230](https://github.com/DataTalksClub/mlops-zoomcamp/pull/230)[)](/DataTalksClub/mlops-zoomcamp/commit/814a0fc5c5e4236f2cd667d77ca455ccd20d8668 "Entirely rebuilt the example \(#230\)")| Jun 12, 2023  
+[docker-compose.yml](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/docker-compose.yml "docker-compose.yml")| [docker-compose.yml](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/docker-compose.yml "docker-compose.yml")| [Updated grafana image to fix issue raised in](/DataTalksClub/mlops-zoomcamp/commit/9fe4a02b312a497d9633b1f8b507cf82153d0bf2 "Updated grafana image to fix issue raised in #319 \(#328\)") [#319](https://github.com/DataTalksClub/mlops-zoomcamp/issues/319) [(](/DataTalksClub/mlops-zoomcamp/commit/9fe4a02b312a497d9633b1f8b507cf82153d0bf2 "Updated grafana image to fix issue raised in #319 \(#328\)")[#328](https://github.com/DataTalksClub/mlops-zoomcamp/pull/328)[)](/DataTalksClub/mlops-zoomcamp/commit/9fe4a02b312a497d9633b1f8b507cf82153d0bf2 "Updated grafana image to fix issue raised in #319 \(#328\)")| Jul 17, 2024  
+[dummy_metrics_calculation.py](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/dummy_metrics_calculation.py "dummy_metrics_calculation.py")| [dummy_metrics_calculation.py](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/dummy_metrics_calculation.py "dummy_metrics_calculation.py")| [Entirely rebuilt the example (](/DataTalksClub/mlops-zoomcamp/commit/814a0fc5c5e4236f2cd667d77ca455ccd20d8668 "Entirely rebuilt the example \(#230\)")[#230](https://github.com/DataTalksClub/mlops-zoomcamp/pull/230)[)](/DataTalksClub/mlops-zoomcamp/commit/814a0fc5c5e4236f2cd667d77ca455ccd20d8668 "Entirely rebuilt the example \(#230\)")| Jun 12, 2023  
+[evidently_metrics_calculation.py](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/evidently_metrics_calculation.py "evidently_metrics_calculation.py")| [evidently_metrics_calculation.py](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/evidently_metrics_calculation.py "evidently_metrics_calculation.py")| [Entirely rebuilt the example (](/DataTalksClub/mlops-zoomcamp/commit/814a0fc5c5e4236f2cd667d77ca455ccd20d8668 "Entirely rebuilt the example \(#230\)")[#230](https://github.com/DataTalksClub/mlops-zoomcamp/pull/230)[)](/DataTalksClub/mlops-zoomcamp/commit/814a0fc5c5e4236f2cd667d77ca455ccd20d8668 "Entirely rebuilt the example \(#230\)")| Jun 12, 2023  
+[meta.json](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/meta.json "meta.json")| [meta.json](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/meta.json "meta.json")| [monitoring module correct links](/DataTalksClub/mlops-zoomcamp/commit/f36875947fd301f205e27900e65fde82a6761594 "monitoring module correct links")| Jun 25, 2023  
+[requirements.txt](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/requirements.txt "requirements.txt")| [requirements.txt](/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/requirements.txt "requirements.txt")| [include matplotlib in requirements (](/DataTalksClub/mlops-zoomcamp/commit/429e88ab1e1ef030b72f02680377fcc5ed43ccf5 "include matplotlib in requirements \(#248\)
+when running the baseline_model_nyc_taxi_data.ipynb inside the venv i got an error for missing matplotlib. installing it inside the venv solved the issue. i propose to include the matplotlib in the requirements.txt")[#248](https://github.com/DataTalksClub/mlops-zoomcamp/pull/248)[)](/DataTalksClub/mlops-zoomcamp/commit/429e88ab1e1ef030b72f02680377fcc5ed43ccf5 "include matplotlib in requirements \(#248\)
+when running the baseline_model_nyc_taxi_data.ipynb inside the venv i got an error for missing matplotlib. installing it inside the venv solved the issue. i propose to include the matplotlib in the requirements.txt")| Jun 27, 2023  
+View all files  
+  
+## [README.md](#readme)
+
+# 5. Model Monitoring
+
+[](#5-model-monitoring)
+
+## 5.1 Intro to ML monitoring
+
+[](#51-intro-to-ml-monitoring)
+
+[ ![](https://camo.githubusercontent.com/e5e103c082c2127137e94d3062eafe746e9fe63a4ce5f55d8a640e28ca61db5b/68747470733a2f2f6d61726b646f776e2d766964656f732d6170692e6a6f7267656e6b682e6e6f2f796f75747562652f5351306a4277645f336b6b) ](https://www.youtube.com/watch?v=SQ0jBwd_3kk&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+
+## 5.2 Environment setup
+
+[](#52-environment-setup)
+
+[ ![](https://camo.githubusercontent.com/3ec41fbf01712c83eae8257edd57d4dc4756d86d86592739cacb64cac1274ecd/68747470733a2f2f6d61726b646f776e2d766964656f732d6170692e6a6f7267656e6b682e6e6f2f796f75747562652f7969784133433178537863) ](https://www.youtube.com/watch?v=yixA3C1xSxc&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+
+## 5.3 Prepare reference and model
+
+[](#53-prepare-reference-and-model)
+
+[ ![](https://camo.githubusercontent.com/77d8254024bbeacbc2ff57c1d256a6943059d7341ff956d233bdf9e4b45c30f1/68747470733a2f2f6d61726b646f776e2d766964656f732d6170692e6a6f7267656e6b682e6e6f2f796f75747562652f496a4e726b714d59516551) ](https://www.youtube.com/watch?v=IjNrkqMYQeQ&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+
+## 5.4 Evidently metrics calculation
+
+[](#54-evidently-metrics-calculation)
+
+[ ![](https://camo.githubusercontent.com/27c58bab2bb9e9728650ab51ab787c7f77fd28576413ccc13cfc8c900fc8d3da/68747470733a2f2f6d61726b646f776e2d766964656f732d6170692e6a6f7267656e6b682e6e6f2f796f75747562652f6b50336c7a685f48665759) ](https://www.youtube.com/watch?v=kP3lzh_HfWY&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+
+## 5.5 Evidently Monitoring Dashboard
+
+[](#55-evidently-monitoring-dashboard)
+
+[ ![](https://camo.githubusercontent.com/6d308ba2bfce8ac8691091d5550a95a38b19f007d4200ce13ad4c440a588660f/68747470733a2f2f6d61726b646f776e2d766964656f732d6170692e6a6f7267656e6b682e6e6f2f796f75747562652f7a6a76596844507a466c59) ](https://www.youtube.com/watch?v=zjvYhDPzFlY&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+
+## 5.6 Dummy monitoring
+
+[](#56-dummy-monitoring)
+
+[ ![](https://camo.githubusercontent.com/329a12cdd6f19f895d0631e91f6227437c8fcff8d1e6d9ed775c98cb9a43dd46/68747470733a2f2f6d61726b646f776e2d766964656f732d6170692e6a6f7267656e6b682e6e6f2f796f75747562652f73334734504d734f4d4f41) ](https://www.youtube.com/watch?v=s3G4PMsOMOA&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+
+## 5.7 Data quality monitoring
+
+[](#57-data-quality-monitoring)
+
+[ ![](https://camo.githubusercontent.com/d6b1b5d0f6e2ba5090dc8218f7be8e17f4b43c34ca2b4416017977c23b298b36/68747470733a2f2f6d61726b646f776e2d766964656f732d6170692e6a6f7267656e6b682e6e6f2f796f75747562652f667974726d5062634c6849) ](https://www.youtube.com/watch?v=fytrmPbcLhI&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+
+> Note: in this video we use Prefect (07:33-11:21). Feel free to skip this part. Also note that Prefect is not officially supported in the 2024 edition of the course.
+
+## 5.8 Save Grafana Dashboard
+
+[](#58-save-grafana-dashboard)
+
+[ ![](https://camo.githubusercontent.com/5a90c418504e2d3ce0e8cc4493325f220fe3af824a9a320007922d03d1d79ed0/68747470733a2f2f6d61726b646f776e2d766964656f732d6170692e6a6f7267656e6b682e6e6f2f796f75747562652f2d633469756d795a4d7977) ](https://www.youtube.com/watch?v=-c4iumyZMyw&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+
+## 5.9 Debugging with test suites and reports
+
+[](#59-debugging-with-test-suites-and-reports)
+
+[ ![](https://camo.githubusercontent.com/b2a914387cb8e9a4788057a74ca62186c96baf48e9590477469a5c047c3a83bf/68747470733a2f2f6d61726b646f776e2d766964656f732d6170692e6a6f7267656e6b682e6e6f2f796f75747562652f734e536b336f6a49536838) ](https://www.youtube.com/watch?v=sNSk3ojISh8&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+
+## Homework
+
+[](#homework)
+
+More information [here](/DataTalksClub/mlops-zoomcamp/blob/main/cohorts/2024/05-monitoring/homework.md)
+
+## Notes
+
+[](#notes)
+
+Did you take notes? Add them here:
+
+  * [Week 5 notes by M. Ayoub C.](https://gist.github.com/Qfl3x/aa6b1bec35fb645ded0371c46e8aafd1)
+  * [week 5: Monitoring notes Ayoub.B](https://github.com/ayoub-berdeddouch/mlops-journey/blob/main/monitoring-05.md)
+  * [Week 5: 2023](https://github.com/dimzachar/mlops-zoomcamp/tree/master/notes/Week_5)
+  * [Week5: Why we need to monitor models after deployment? by Hongfan (Amber)](https://github.com/Muhongfan/MLops/blob/main/05-monitoring/README.md)
+  * Send a PR, add your notes above this line
+
+
+
+# Monitoring example
+
+[](#monitoring-example)
+
+## Prerequisites
+
+[](#prerequisites)
+
+You need following tools installed:
+
+  * `docker`
+  * `docker-compose` (included to Docker Desktop for Mac and Docker Desktop for Windows )
+
+
+
+## Preparation
+
+[](#preparation)
+
+Note: all actions expected to be executed in repo folder.
+
+  * Create virtual environment and activate it (eg. `python -m venv venv && source ./venv/bin/activate` or `conda create -n venv python=3.11 && conda activate venv`)
+  * Install required packages `pip install -r requirements.txt`
+  * Run `baseline_model_nyc_taxi_data.ipynb` for downloading datasets, training model and creating reference dataset
+
+
+
+## Monitoring Example
+
+[](#monitoring-example-1)
+
+### Starting services
+
+[](#starting-services)
+
+To start all required services, execute:
+
+```
+docker-compose up
+```
+
+It will start following services:
+
+  * `db` - PostgreSQL, for storing metrics data
+  * `adminer` - database management tool
+  * `grafana` - Visual dashboarding tool
+
+
+
+### Sending data
+
+[](#sending-data)
+
+To calculate evidently metrics with prefect and send them to database, execute:
+
+```
+python evidently_metrics_calculation.py
+```
+
+This script will simulate batch monitoring. Every 10 seconds it will collect data for a daily batch, calculate metrics and insert them into database. This metrics will be available in Grafana in preconfigured dashboard.
+
+### Accsess dashboard
+
+[](#accsess-dashboard)
+
+  * In your browser go to a `localhost:3000` The default username and password are `admin`
+
+  * Then navigate to `General/Home` menu and click on `Home`.
+
+  * In the folder `General` you will see `New Dashboard`. Click on it to access preconfigured dashboard.
+
+
+
+
+### Ad-hoc debugging
+
+[](#ad-hoc-debugging)
+
+Run `debugging_nyc_taxi_data.ipynb` to see how you can perform a debugging with help of Evidently `TestSuites` and `Reports`
+
+### Stopping services
+
+[](#stopping-services)
+
+To stop all services, execute:
+
+```
+docker-compose down
+```
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

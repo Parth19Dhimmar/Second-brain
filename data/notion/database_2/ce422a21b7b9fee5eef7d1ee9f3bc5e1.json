@@ -1,0 +1,23 @@
+{
+    "id": "ce422a21b7b9fee5eef7d1ee9f3bc5e1",
+    "metadata": {
+        "id": "ce422a21b7b9fee5eef7d1ee9f3bc5e1",
+        "url": "https://www.notion.so/Model-Registry-ce422a21b7b9fee5eef7d1ee9f3bc5e1",
+        "title": "Model Registry",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "a4ca8e09e54f5b80ff1ffc0c11cebbd2",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "- [https://neptune.ai/blog/ml-model-registry](https://neptune.ai/blog/ml-model-registry)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://neptune.ai/blog/ml-model-registry/"
+    ]
+}

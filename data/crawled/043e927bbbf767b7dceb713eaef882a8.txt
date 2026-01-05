@@ -1,0 +1,565 @@
+  * [Skip to main content](#content)
+  * [Skip to search](#top-nav-search-input)
+  * [Skip to select language](#languages-switcher-button)
+
+
+
+[![Agent.ai](/pimg/aHR0cHM6Ly9zdGF0aWM0LmJ1eXNlbGxhZHMubmV0L3V1LzIvMTU4NTkwLzE3MzQ5OTE4OTYtbG9nb18xMjh4MTI4X2NvbG9yLnBuZw%3D%3D.3SzB5Hv3mlODONE36OlOpDy0gVANsIerhEDR2z2cebM%3D)Agent.ai from Dharmesh Shah. Personal to Professional. Run agents directly, via email or schedule a run. Free, Powerful & Fun](/pong/click?code=aHR0cHM6Ly9zcnYuYnV5c2VsbGFkcy5jb20vYWRzL2NsaWNrL3gvR1RORDQyN0lDQTdJTDJKTUNWNzRZS1FVQ0tTRExLM0VDRTdJS1ozSkNBN0lLMjdMQ1RZREtLUUtDWVlJUDUzVUNXQkRMMlFJRlRZRDRLSldDVFlEQ0tKS0M2U0lDMjdJRlRZSUtLM0VISk5DTFNJWg%3D%3D.p1Q2e3V0V7oW09B%2BJWStWqr6QRIotU2nfAmPZ8%2FSat0%3D&version=2)[12 Models-Build for Free](/pong/click?code=aHR0cHM6Ly9zcnYuYnV5c2VsbGFkcy5jb20vYWRzL2NsaWNrL3gvR1RORDQyN0lDQTdJTDJKTUNWNzRZS1FVQ0tTRExLM0VDRTdJS1ozSkNBN0lLMjdMQ1RZREtLUUtDWVlJUDUzVUNXQkRMMlFJRlRZRDRLSldDVFlEQ0tKS0M2U0lDMjdJRlRZSUtLM0VISk5DTFNJWg%3D%3D.p1Q2e3V0V7oW09B%2BJWStWqr6QRIotU2nfAmPZ8%2FSat0%3D&version=2)[Mozilla ads](/en-US/advertising)
+
+[MDN Web Docs](/en-US/)Open main menu
+
+  * References[References](/en-US/docs/Web)
+    * [Overview / Web TechnologyWeb technology reference for developers](/en-US/docs/Web)
+    * [HTMLStructure of content on the web](/en-US/docs/Web/HTML)
+    * [CSSCode used to describe document style](/en-US/docs/Web/CSS)
+    * [JavaScriptGeneral-purpose scripting language](/en-US/docs/Web/JavaScript)
+    * [HTTPProtocol for transmitting web resources](/en-US/docs/Web/HTTP)
+    * [Web APIsInterfaces for building web applications](/en-US/docs/Web/API)
+    * [Web ExtensionsDeveloping extensions for web browsers](/en-US/docs/Mozilla/Add-ons/WebExtensions)
+    * [AccessibilityBuild web projects usable for all](/en-US/docs/Web/Accessibility)
+    * [Web TechnologyWeb technology reference for developers](/en-US/docs/Web)
+  * Learn[Learn](/en-US/docs/Learn_web_development)
+    * [Overview / MDN Learning AreaLearn web development](/en-US/docs/Learn_web_development)
+    * [MDN Learning AreaLearn web development](/en-US/docs/Learn_web_development)
+    * [HTMLLearn to structure web content with HTML](/en-US/docs/Learn_web_development/Core/Structuring_content)
+    * [CSSLearn to style content using CSS](/en-US/docs/Learn_web_development/Core/Styling_basics)
+    * [JavaScriptLearn to run scripts in the browser](/en-US/docs/Learn_web_development/Core/Scripting)
+    * [AccessibilityLearn to make the web accessible to all](/en-US/docs/Learn_web_development/Core/Accessibility)
+  * Plus[Plus](/en-US/plus)
+    * [OverviewA customized MDN experience](/en-US/plus)
+    * [AI HelpGet real-time assistance and support](/en-US/plus/ai-help)
+    * [UpdatesAll browser compatibility updates at a glance](/en-US/plus/updates)
+    * [DocumentationLearn how to use MDN Plus](/en-US/plus/docs/features/overview)
+    * [FAQFrequently asked questions about MDN Plus](/en-US/plus/docs/faq)
+  * [Curriculum New](/en-US/curriculum/)
+  * [Blog](/en-US/blog/)
+  * Tools
+    * [PlaygroundWrite, test and share your code](/en-US/play)
+    * [HTTP ObservatoryScan a website for free](/en-US/observatory)
+    * [AI HelpGet real-time assistance and support](/en-US/plus/ai-help)
+
+
+
+Search MDNClear search inputSearch
+
+Theme
+
+  * [Log in](/users/fxa/login/authenticate/?next=%2Fen-US%2Fdocs%2FWeb%2FMedia%2FFormats%2FContainers)
+  * [Sign up for free](/users/fxa/login/authenticate/?next=%2Fen-US%2Fdocs%2FWeb%2FMedia%2FFormats%2FContainers)
+
+
+
+  1. [References](/en-US/docs/Web)
+  2. [Web media technologies](/en-US/docs/Web/Media)
+  3. [Media type and format guide: image, audio, and video content](/en-US/docs/Web/Media/Formats)
+  4. [Media container formats (file types)](/en-US/docs/Web/Media/Formats/Containers)
+
+
+
+Article Actions
+
+  * English (US)
+
+    * Remember language[](https://github.com/orgs/mdn/discussions/739 "Enable this setting to automatically switch to this language when it's available. \(Click to learn more.\)")
+
+Is this useful?This feature is useful.This feature is not useful.
+    * [Deutsch](/de/docs/Web/Media/Formats/Containers)
+    * [日本語](/ja/docs/Web/Media/Formats/Containers)
+    * [한국어](/ko/docs/Web/Media/Formats/Containers)
+    * [中文 (简体)](/zh-CN/docs/Web/Media/Formats/Containers)
+    * [正體中文 (繁體)](/zh-TW/docs/Web/Media/Formats/Containers)
+
+
+
+
+Filter sidebarClear filter input
+
+## In this article
+
+  * [Common container formats](#common_container_formats)
+  * [Choosing the right container](#choosing_the_right_container)
+  * [Maximizing compatibility with multiple containers](#maximizing_compatibility_with_multiple_containers)
+  * [Try it](#try_it)
+  * [Specifications](#specifications)
+  * [Browser compatibility](#browser_compatibility)
+  * [See also](#see_also)
+
+
+
+  1. [Audio and Video Delivery](/en-US/docs/Web/Media/Audio_and_video_delivery)
+    1. [Adding captions and subtitles to HTML video](/en-US/docs/Web/Media/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video)
+    2. [Creating a cross-browser video player](/en-US/docs/Web/Media/Audio_and_video_delivery/cross_browser_video_player)
+    3. [Cross-browser audio basics](/en-US/docs/Web/Media/Audio_and_video_delivery/Cross-browser_audio_basics)
+    4. [Livestreaming web audio and video](/en-US/docs/Web/Media/Audio_and_video_delivery/Live_streaming_web_audio_and_video)
+    5. [Media buffering, seeking, and time ranges](/en-US/docs/Web/Media/Audio_and_video_delivery/buffering_seeking_time_ranges)
+    6. [Setting up adaptive streaming media sources](/en-US/docs/Web/Media/Audio_and_video_delivery/Setting_up_adaptive_streaming_media_sources)
+    7. [Video player styling basics](/en-US/docs/Web/Media/Audio_and_video_delivery/Video_player_styling_basics)
+    8. [Web Audio playbackRate explained](/en-US/docs/Web/Media/Audio_and_video_delivery/WebAudio_playbackRate_explained)
+  2. [Audio and video manipulation](/en-US/docs/Web/Media/Audio_and_video_manipulation)
+  3. [Autoplay guide for media and Web Audio APIs](/en-US/docs/Web/Media/Autoplay_guide)
+  4. [DASH Adaptive Streaming for HTML 5 Video](/en-US/docs/Web/Media/DASH_Adaptive_Streaming_for_HTML_5_Video)
+  5. [Guide to streaming audio and video](/en-US/docs/Web/Media/Streaming)
+  6. [Media type and format guide: image, audio, and video content](/en-US/docs/Web/Media/Formats)
+    1. [Codecs in common media types](/en-US/docs/Web/Media/Formats/codecs_parameter)
+    2. [Codecs used by WebRTC](/en-US/docs/Web/Media/Formats/WebRTC_codecs)
+    3. [Configuring servers for Ogg media](/en-US/docs/Web/Media/Formats/Configuring_servers_for_Ogg_media)
+    4. [Digital audio concepts](/en-US/docs/Web/Media/Formats/Audio_concepts)
+    5. [Digital video concepts](/en-US/docs/Web/Media/Formats/Video_concepts)
+    6. [Handling media support issues in web content](/en-US/docs/Web/Media/Formats/Support_issues)
+    7. [Image file type and format guide](/en-US/docs/Web/Media/Formats/Image_types)
+    8.  _[Media container formats (file types)](/en-US/docs/Web/Media/Formats/Containers)_
+    9. [Web audio codec guide](/en-US/docs/Web/Media/Formats/Audio_codecs)
+    10. [Web video codec guide](/en-US/docs/Web/Media/Formats/Video_codecs)
+  7. [Using audio and video in HTML](/en-US/docs/Web/Media/HTML_media)
+  8. [Using images in HTML](/en-US/docs/Web/Media/images)
+
+
+
+## In this article
+
+  * [Common container formats](#common_container_formats)
+  * [Choosing the right container](#choosing_the_right_container)
+  * [Maximizing compatibility with multiple containers](#maximizing_compatibility_with_multiple_containers)
+  * [Try it](#try_it)
+  * [Specifications](#specifications)
+  * [Browser compatibility](#browser_compatibility)
+  * [See also](#see_also)
+
+
+
+# Media container formats (file types)
+
+The format of audio and video media files is defined in two parts (three if a file has both audio and video in it, of course): the audio and/or video codecs used and the media container format (or file type) used. In this guide, we'll look at the container formats used most commonly on the web, covering basics about their specifications as well as their benefits, limitations, and ideal use cases.
+
+[WebRTC](/en-US/docs/Web/API/WebRTC_API) does not use a container at all. Instead, it streams the encoded audio and video tracks directly from one peer to another using [`MediaStreamTrack`](/en-US/docs/Web/API/MediaStreamTrack) objects to represent each track. See [Codecs used by WebRTC](/en-US/docs/Web/Media/Formats/WebRTC_codecs) for information about codecs commonly used for making WebRTC calls, as well as browser compatibility information around codec support in WebRTC.
+
+## [Common container formats](#common_container_formats)
+
+While there are a vast number of media container formats, the ones listed below are the ones you are most likely to encounter. Some support only audio while others support both audio and video. The MIME types and extensions for each are listed. The most commonly used containers for media on the web are probably MPEG-4 (MP4), Web Media File (WEBM), and MPEG Audio Layer III (MP3). However, you may also encounter MP3, Ogg, WAV, AVI, MOV, and other formats. Not all of these are broadly supported by browsers, however; some combinations of container and codec are sometimes given their own file extensions and MIME types as a matter of convenience, or because of their ubiquity. For example, an Ogg file with only an Opus audio track is sometimes referred to as an Opus file, and might even have the extension `.opus`. But it's still actually just an Ogg file.
+
+In other cases, a particular codec, stored in a certain container type, is so ubiquitous that the pairing is treated in a unique fashion. A good example of this is the MP3 audio file, which is in fact an MPEG-1 container with a single audio track encoded using MPEG-1 Audio Layer III encoding. These files use the `audio/mp3` MIME type and the `.mp3` extension, even though their containers are just MPEG.
+
+### [Index of media container formats (file types)](#index_of_media_container_formats_file_types)
+
+To learn more about a specific container format, find it in this list and click through to the details, which include information about what the container is typically useful for, what codecs it supports, and which browsers support it, among other specifics.
+
+Codec name (short) | Full codec name | Browser compatibility  
+---|---|---  
+[3GP](#3gp) | Third Generation Partnership | Firefox for Android  
+[ADTS](#adts) | Audio Data Transport Stream |  Firefox Available only if available on the underlying operating system's media framework.   
+[FLAC](#flac) | Free Lossless Audio Codec | All browsers.  
+[MPEG / MPEG-2](#mpegmpeg-2) | Moving Picture Experts Group (1 and 2) | —  
+[MPEG-4 (MP4)](#mpeg-4_mp4) | Moving Picture Experts Group 4 | All browsers.  
+[Ogg](#ogg) | Ogg | All browsers.  
+[QuickTime (MOV)](#quicktime) | Apple QuickTime movie | Only older versions of Safari, plus other browsers that supported Apple's QuickTime plugin  
+[WebM](#webm) | Web Media | All browsers.  
+  
+Unless otherwise specified, both mobile and desktop browser compatibility is implied if a browser is listed here. Support is also implied only for the container itself, not for any specific codecs.
+
+### [3GP](#3gp)
+
+The **3GP** or **3GPP** media container is used to encapsulate audio and/or video that is specifically intended for transmission over cellular networks for consumption on mobile devices. The format was designed for use on 3G mobile phones, but can still be used on more modern phones and networks. However, the improved bandwidth availability and increased data caps on most networks has reduced the need for the 3GP format. However, this format is still used for slower networks and for lower-performance phones.
+
+This media container format is derived from the ISO Base Media File Format and MPEG-4, but is specifically streamlined for lower bandwidth scenarios.
+
+Audio | Video  
+---|---  
+`audio/3gpp` | `video/3gpp`  
+`audio/3gpp2` | `video/3gpp2`  
+`audio/3gp2` | `video/3gp2`  
+  
+These MIME types are the fundamental types for the 3GP media container; other types may be used depending on the specific codec or codecs in use. In addition, you can [add the `codecs` parameter](/en-US/docs/Web/Media/Formats/codecs_parameter#iso_base_media_file_format_mp4_quicktime_and_3gp) to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally provide details about the profile, level, and/or other codec configuration specifics.
+
+Video codecs supported by 3GP  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+AVC (H.264)  
+H.263  
+MPEG-4 Part 2 (MP4v-es)  
+VP8  
+Audio codecs supported by 3GP  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+AMR-NB  
+AMR-WB  
+AMR-WB+  
+AAC-LC  
+HE-AAC v1  
+HE-AAC v2  
+MP3  
+  
+### [ADTS](#adts)
+
+**Audio Data Transport Stream** (**ADTS**) is a container format specified by MPEG-4 Part 3 for audio data, intended to be used for streamed audio, such as for Internet radio. It is, essentially, an almost bare stream of AAC audio data, comprised of ADTS frames with a minimal header.
+
+Audio  
+---  
+`audio/aac`  
+`audio/mpeg`  
+  
+The MIME type used for ADTS depends on what kind of audio frames are contained within. If ADTS frames are used, the `audio/aac` MIME type should be used. If the audio frames are in MPEG-1/MPEG-2 Audio Layer I, II, or III format, the MIME type should be `audio/mpeg`.
+
+Audio codecs supported by ADTS  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+AAC | Yes  
+MP3 | Yes  
+  
+Firefox support for AAC relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.
+
+### [FLAC](#flac)
+
+The **Free Lossless Audio Codec** (**FLAC**) is a lossless audio codec; there is also an associated simple container format, also called FLAC, that can contain this audio. The format is not encumbered by any patents, so its use is safe from interference. FLAC files can only contain FLAC audio data.
+
+Audio  
+---  
+`audio/flac`  
+`audio/x-flac` (non-standard)  
+Audio codecs supported by FLAC  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+FLAC | Yes  
+  
+### [MPEG/MPEG-2](#mpegmpeg-2)
+
+The **[MPEG-1](https://en.wikipedia.org/wiki/MPEG-1)** and **[MPEG-2](https://en.wikipedia.org/wiki/MPEG-2)** file formats are essentially identical. Created by the Moving Picture Experts Group (MPEG), these formats are widely used in physical media, including as the format of the video on DVD media.
+
+On the internet, perhaps the most common use of the MPEG file format is to contain [Layer_III/MP3](https://en.wikipedia.org/wiki/MPEG-1) sound data; the resulting files are the wildly popular MP3 file used by digital music devices around the world. Otherwise, MPEG-1 and MPEG-2 are not widely used in Web content.
+
+The main differences between MPEG-1 and MPEG-2 take place in the media data formats rather than the container format. MPEG-1 was introduced in 1992; MPEG-2 was introduced in 1996.
+
+Audio | Video  
+---|---  
+`audio/mpeg` | `video/mpeg`  
+Video codecs supported by MPEG-1 and MPEG-2  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+MPEG-1 Part 2 | No  
+MPEG-2 Part 2 | No  
+Audio codecs supported by MPEG-1 and MPEG-2  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+MPEG-1 Audio Layer I | No  
+MPEG-1 Audio Layer II | No  
+MPEG-1 Audio Layer III (MP3) | Yes  
+  
+### [MPEG-4 (MP4)](#mpeg-4_mp4)
+
+**[MPEG-4](https://en.wikipedia.org/wiki/MPEG-4)** (**MP4**) is the latest version of the MPEG file format. There are two versions of the format, defined in parts 1 and 14 of the specification. MP4 is a popular container today, as it supports several of the most-used codecs and is broadly supported.
+
+The original MPEG-4 Part 1 file format was introduced in 1999; the version 2 format, defined in Part 14, was added in 2003. The MP4 file format is derived from the [ISO base media file format](https://en.wikipedia.org/wiki/ISO_base_media_file_format), which is directly derived from the [QuickTime file format](https://en.wikipedia.org/wiki/QuickTime_File_Format) developed by [Apple](https://www.apple.com/).
+
+When specifying the MPEG-4 media type (`audio/mp4` or `video/mp4`), you can [add the `codecs` parameter](/en-US/docs/Web/Media/Formats/codecs_parameter#iso_base_media_file_format_mp4_quicktime_and_3gp) to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally provide details about the profile, level, and/or other codec configuration specifics.
+
+Audio | Video  
+---|---  
+`audio/mp4` | `video/mp4`  
+  
+These MIME types are the fundamental types for the MPEG-4 media container; other MIME types may be used depending on the specific codec or codecs in use within the container. In addition, you can [add the `codecs` parameter](/en-US/docs/Web/Media/Formats/codecs_parameter#iso_base_media_file_format_mp4_quicktime_and_3gp) to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally provide details about the profile, level, and/or other codec configuration specifics.
+
+Video codecs supported by MPEG-4  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+AVC (H.264) |  Yes Firefox support for H.264 relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.   
+AV1 |  Yes Firefox support for AV1 is disabled on Windows on ARM (enable by setting the preference `media.av1.enabled` to `true`).  
+H.263 | No  
+MPEG-4 Part 2 Visual | No  
+VP9 | Yes  
+Audio codecs supported by MPEG-4  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+AAC |  Yes Firefox support for H.264 relies upon the operating system's media infrastructure, so it is available as long as the OS supports it.  
+FLAC | Yes  
+MPEG-1 Audio Layer III (MP3) | Yes  
+Opus | Yes  
+  
+### [Ogg](#ogg)
+
+The [Ogg](https://en.wikipedia.org/wiki/Ogg) container format is a free and open format maintained by the [Xiph.org Foundation](https://www.xiph.org/). The Ogg framework also defines patent unencumbered media data formats, such as the Theora video codec and the Vorbis and Opus audio codecs. [Xiph.org documents about the Ogg format](https://xiph.org/ogg/) are available on their website.
+
+While Ogg has been around for a long time, it has never gained the wide support needed to make it a good first choice for a media container. You are typically better off using WebM, though there are times when Ogg is useful to offer, such as when you wish to support older versions of Firefox and Chrome which don't yet support WebM. For example, Firefox 3.5 and 3.6 support Ogg, but not WebM.
+
+You can get more information about Ogg and its codecs in the [Theora Cookbook](https://en.flossmanuals.net/ogg-theora/_full/).
+
+Audio | Video  
+---|---  
+`audio/ogg` | `video/ogg`  
+  
+The `application/ogg` MIME type can be used when you don't necessarily know whether the media contains audio or video. If at all possible, you should use one of the specific types, but fall back to `application/ogg` if you don't know the content format or formats.
+
+You can also [add the `codecs` parameter](/en-US/docs/Web/Media/Formats/codecs_parameter) to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally further describe the track media formats.
+
+Video codecs supported by Ogg  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+Theora | Yes  
+VP8 | Yes  
+VP9 | Yes  
+Audio codecs supported by Ogg  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+FLAC | Yes  
+Opus | Yes  
+Vorbis | Yes  
+  
+**Warning:** Ogg Opus audio files longer than 12h 35m 39s are truncated and exhibit seeking issues when played on Firefox Linux 64 bit ([Firefox bug 1810378](https://bugzil.la/1810378)).
+
+### [QuickTime](#quicktime)
+
+The **QuickTime** file format (**QTFF** , **QT** , or **MOV**) was created by Apple for use by its media framework of the same name. The extension for these files, `.mov`, comes from the fact that the format was initially used for movies and was usually called the "QuickTime movie" format. While QTFF served as the basis for the MPEG-4 file format, there are differences and the two are not quite interchangeable.
+
+QuickTime files support any sort of time-based data, including audio and video media, text tracks, and so forth. QuickTime files are primarily supported by macOS, but for a number of years, QuickTime for Windows was available to access them on Windows. However, QuickTime for Windows is no longer supported by Apple as of early 2016, and _should not be used_ , as there are known security concerns. However, Windows Media Player now has integrated support for QuickTime version 2.0 and earlier files; support for later versions of QuickTime requires third-party additions.
+
+On Mac OS, the QuickTime framework not only supported QuickTime format movie files and codecs, but supported a vast array of popular and specialty audio and video codecs, as well as still image formats. Through QuickTime, Mac applications (including web browsers, through the QuickTime plugin or direct QuickTime integration) were able to read and write audio formats including AAC, AIFF, MP3, PCM, and Qualcomm PureVoice; and video formats including AVI, DV, Pixlet, ProRes, FLAC, Cinepak, 3GP, H.261 through H.265, MJPEG, MPEG-1 and MPEG-4 Part 2, Sorenson, and many more.
+
+In addition, a number of third-party components are available for QuickTime, some of which add support for additional codecs.
+
+Because QuickTime support is, for all intents and purposes, primarily available on Apple devices, it is no longer widely used on the internet. Apple itself generally now uses MP4 for video. In addition, the QuickTime framework has been deprecated on the Mac for some time, and is no longer available at all starting in macOS 10.15 Catalina.
+
+Video  
+---  
+`video/quicktime`  
+  
+The `video/quicktime` MIME type is the fundamental type for the QuickTime media container. It's worth noting that QuickTime (the media framework on Mac operating systems) supports a wide variety of containers and codecs, so it actually supports many other MIME types.
+
+You can [add the `codecs` parameter](/en-US/docs/Web/Media/Formats/codecs_parameter#iso_base_media_file_format_mp4_quicktime_and_3gp) to the MIME type string to indicate which codecs are used for the audio and/or video tracks, and to optionally provide details about the profile, level, and/or other codec configuration specifics.
+
+Video codecs supported by QuickTime  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+AVC (H.264) | No  
+Cinepak | No  
+Component Video | No  
+DV | No  
+H.261 | No  
+H.263 | No  
+MPEG-2 | No  
+MPEG-4 Part 2 Visual | No  
+Motion JPEG | No  
+Sorenson Video 2 | No  
+Sorenson Video 3 | No  
+Audio codecs supported by QuickTime  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+AAC | No  
+ALaw 2:1 | No  
+Apple Lossless (ALAC) | No  
+HE-AAC | No  
+MPEG-1 Audio Layer III (MP3) | No  
+Microsoft ADPCM | No  
+µ-Law 2:1 (u-Law) | No  
+  
+### [WAVE (WAV)](#wave_wav)
+
+The **Waveform Audio File Format** (**WAVE**), usually referred to as WAV due to its filename extension being `.wav`, is a format developed by Microsoft and IBM to store audio bitstream data.
+
+It is derived from the Resource Interchange File Format (RIFF), and as such is similar to other formats such as Apple's AIFF. The WAV codec registry can be found at [RFC 2361](https://datatracker.ietf.org/doc/html/rfc2361); however, because nearly all WAV files use linear PCM, support for the other codecs is sparse.
+
+The WAVE format was first released in 1991.
+
+Audio  
+---  
+`audio/wave`  
+`audio/wav`  
+`audio/x-wav`  
+`audio/x-pn-wav`  
+  
+The `audio/wave` MIME type is the standard type, and is preferred; however, the others have been used by various products over the years and may be used as well in some environments.
+
+Audio codecs supported by WAVE  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+ADPCM (Adaptive Differential Pulse Code Modulation) | No  
+GSM 06.10 | No  
+LPCM (Linear Pulse Code Modulation) | Yes  
+MPEG-1 Audio Layer III (MP3) | No  
+µ-Law (u-Law) | No  
+  
+### [WebM](#webm)
+
+**[WebM](https://en.wikipedia.org/wiki/WebM)** (**Web Media**) is a format based on [Matroska](https://en.wikipedia.org/wiki/Matroska) which is designed specifically for use in modern web environments. It's based entirely on free and open technologies and primarily uses codecs that are in turn free and open, although some products support other codecs in WebM containers as well.
+
+WebM was first introduced in 2010 and is now widely supported. Compliant implementations of WebM are required to support the VP8 and VP9 video codecs and the Vorbis and Opus audio codecs. The WebM container format and its required codecs are all available under open licenses. Any other codecs may require a license to use.
+
+Audio | Video  
+---|---  
+`audio/webm` | `video/webm`  
+Video codecs supported by WebM  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+AV1 | Yes | Yes |  Yes Firefox support for AV1 was added to macOS in Firefox 66; for Windows in Firefox 67; and Firefox 68 on Linux. Firefox for Android does not yet support AV1; the implementation in Firefox is designed to use a secure process, which is not supported yet in Android.  | Yes  
+VP8 | Yes | Yes | Yes | Yes  
+VP9 | Yes | Yes | Yes | Yes  
+Audio codecs supported by WebM  Codec |  Browser support   
+---|---  
+Chrome | Edge | Firefox | Safari  
+Opus | Yes | Yes | Yes | Yes  
+Vorbis | Yes | Yes | Yes | Yes  
+  
+## [Choosing the right container](#choosing_the_right_container)
+
+There are a few factors to consider when selecting the best container or containers to use for your media. The relative importance of each will depend on your needs, your license requirements, and the compatibility requirements of your target audience.
+
+### [Guidelines](#guidelines)
+
+The best choice also depends on what you'll be doing with the media. Playing back media is a different thing than recording and/or editing it. If you're going to be manipulating the media data, using an uncompressed format can improve performance, while using a lossless compressed format at least prevents the accumulation of noise as compression artifacts are multiplied with each re-compression that occurs.
+
+  * If your target audience is likely to include users on mobile, especially on lower-end devices or on slow networks, consider providing a version of your media in a 3GP container with appropriate compression.
+  * If you have any specific encoding requirements, make sure the container you choose supports the appropriate codecs.
+  * If you want your media to be in a non-proprietary, open format, consider using one of the open container formats such as FLAC (for audio) or WebM (for video).
+  * If for any reason you are only able to provide media in a single format, choose a format that's available on the broadest selection of devices and browsers, such as MP3 (for audio) or MP4 (for video and/or audio).
+  * If your media is audio-only, choosing an audio-only container format likely makes sense. Now that the patents have all expired, MP3 is a widely supported and good choice. WAVE is good but uncompressed, so be aware of that before using it for large audio samples. FLAC is a very good choice, due to its lossless compression, if the target browsers all support it.
+
+
+
+Unfortunately, neither of the relatively major lossless compression formats (FLAC and ALAC) are universally supported. FLAC is the more broadly supported of the two, but is not supported by macOS without additional software installed, and is not supported at all on iOS. If you need to offer lossless audio, you may need to provide both FLAC and ALAC to get close to universal compatibility.
+
+### [Container selection advice](#container_selection_advice)
+
+The tables below offer suggested containers to use in various scenarios. These are just suggestions. Be sure to consider the needs of your application and your organization before selecting a container format.
+
+#### Audio-only files
+
+If you need… | Consider using this container format  
+---|---  
+Compressed files for general-purpose playback | MP3 (MPEG-1 Audio Layer III)  
+Losslessly compressed files | FLAC with ALAC fallback  
+Uncompressed files | WAV  
+  
+Now that MP3's patents have all expired, the choice of audio file format has become much easier to make. It's no longer necessary to choose between MP3's broad compatibility and the need to pay royalties when using it.
+
+#### Video files
+
+If you need… | Consider using this container format  
+---|---  
+General purpose video, preferably in an open format | WebM (ideally with MP4 fallback)  
+General purpose video | MP4 (ideally with WebM or Ogg fallback)  
+High compression optimized for slow connections | 3GP (ideally with MP4 fallback)  
+Compatibility with older devices/browsers | QuickTime (ideally with AVI and/or MPEG-2 fallback)  
+  
+These suggestions make a number of assumptions. You should carefully consider the options before making a final decision, especially if you have a lot of media that will need to be encoded.
+
+## [Maximizing compatibility with multiple containers](#maximizing_compatibility_with_multiple_containers)
+
+To optimize compatibility, it's worth considering providing more than one version of media files, using the [`<source>`](/en-US/docs/Web/HTML/Element/source) element to specify each source within the [`<audio>`](/en-US/docs/Web/HTML/Element/audio) or [`<video>`](/en-US/docs/Web/HTML/Element/video) element. For example, you can offer an Ogg or WebM video as the first choice, with a fallback in MP4 format. You could even choose to offer a retro-like QuickTime or AVI fallback for good measure.
+
+To do this, you create a `<video>` (or `<audio>`) element with no [`src`](/en-US/docs/Web/HTML/Element/video#src) attribute. Then add child [`<source>`](/en-US/docs/Web/HTML/Element/source) elements within the `<video>` element, one for each version of the video you offer. This can be used to offer various versions of a video that can be selected depending on bandwidth availability, but in our case, we'll use it to offer format options.
+
+In the example shown here, a video is offered to the browser in two formats: WebM and MP4.
+
+## [Try it](#try_it)
+
+The video is offered first in WebM format (with the [`type`](/en-US/docs/Web/HTML/Element/source#type) attribute set to `video/webm`). If the [user agent](/en-US/docs/Glossary/User_agent) can't play that, it moves on to the next option, whose `type` is specified as `video/mp4`. If neither of those can be played, the text "This browser does not support the HTML video element." is presented.
+
+## [Specifications](#specifications)
+
+Specification | Comment  
+---|---  
+[ETSI 3GPP](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=1441) | Defines the 3GP container format  
+[ISO/IEC 14496-3](https://www.iso.org/standard/53943.html) (MPEG-4 Part 3 Audio) | Defines MP4 audio including ADTS  
+[FLAC Format](https://xiph.org/flac/format.html) | The FLAC format specification  
+[ISO/IEC 11172-1](https://www.iso.org/standard/19180.html) (MPEG-1 Part 1 Systems) | Defines the MPEG-1 container format  
+[ISO/IEC 13818-1](https://www.iso.org/standard/74427.html) (MPEG-2 Part 1 Systems) | Defines the MPEG-2 container format  
+[ISO/IEC 14496-14](https://www.iso.org/standard/75929.html) (MPEG-4 Part 14: MP4 file format) | Defines the MPEG-4 (MP4) version 2 container format  
+[ISO/IEC 14496-1](https://www.iso.org/standard/55688.html) (MPEG-4 Part 1 Systems) | Defines the original MPEG-4 (MP4) container format  
+[RFC 3533](https://datatracker.ietf.org/doc/html/rfc3533) | Defines the Ogg container format  
+[RFC 5334](https://datatracker.ietf.org/doc/html/rfc5334) | Defines the Ogg media types and file extensions  
+[QuickTime File Format Specification](https://developer.apple.com/documentation/quicktime-file-format) | Defines the QuickTime movie (MOV) format  
+[Multimedia Programming Interface and Data Specifications 1.0](https://web.archive.org/web/20090417165828/http://www.kk.iij4u.or.jp/~kondo/wave/mpidata.txt) | The closest thing to an official WAVE specification  
+[Resource Interchange File Format](https://learn.microsoft.com/en-us/windows/win32/xaudio2/resource-interchange-file-format--riff-) (used by WAV) | Defines the RIFF format; WAVE files are a form of RIFF  
+[WebM Container Guidelines](https://www.webmproject.org/docs/container/) | Guide for adapting Matroska for WebM  
+[Matroska Specifications](https://www.matroska.org/index.html) | The specification for the Matroska container format upon which WebM is based  
+[WebM Byte Stream Format](https://w3c.github.io/media-source/webm-byte-stream-format.html) | WebM byte stream format for use with [Media Source Extensions](/en-US/docs/Web/API/Media_Source_Extensions_API)  
+  
+## [Browser compatibility](#browser_compatibility)
+
+Container format name  |  Audio  | Video  
+---|---|---  
+MIME type | Extension(s) |  Browser support  | MIME type | Extension(s) |  Browser support   
+3GP | `audio/3gpp` | `.3gp` |  Firefox  | `video/3gpp` | `.3gp` | Firefox  
+ADTS (Audio Data Transport Stream)  | `audio/aac` | `.aac` |  Firefox  | — | — | —  
+FLAC | `audio/flac` | `.flac` |  Firefox  | — | — | —  
+MPEG-1 / MPEG-2 (MPG or MPEG)  | `audio/mpeg` |  `.mpg``.mpeg` |  Firefox  | `video/mpeg` |  `.mpg``.mpeg` | Firefox  
+`audio/mp3` | `.mp3` |  Firefox   
+MPEG-4 (MP4) | `audio/mp4` |  `.mp4``.m4a` |  Firefox  | `video/mp4` |  `.mp4``.m4v``.m4p` | Firefox  
+Ogg | `audio/ogg` |  `.oga``.ogg` |  Firefox  | `video/ogg` |  `.ogv``.ogg` | Firefox  
+QuickTime Movie (MOV) | — | — | — | `video/quicktime` | `.mov` | Safari  
+WAV (Waveform Audio File) | `audio/wav` | `.wav` |  Firefox  | — | — | —  
+WebM | `audio/webm` | `.webm` |  Firefox  | `video/webm` | `.webm` | Firefox  
+  
+## [See also](#see_also)
+
+  * [WebRTC API](/en-US/docs/Web/API/WebRTC_API)
+  * [MediaStream Recording API](/en-US/docs/Web/API/MediaStream_Recording_API)
+  * [`<audio>`](/en-US/docs/Web/HTML/Element/audio) and [`<video>`](/en-US/docs/Web/HTML/Element/video) elements
+
+
+
+## Help improve MDN
+
+Was this page helpful to you?
+
+YesNo
+
+[Learn how to contribute](https://github.com/mdn/content/blob/main/CONTRIBUTING.md "This will take you to our contribution guidelines on GitHub.").
+
+This page was last modified on Oct 26, 2024 by [MDN contributors](/en-US/docs/Web/Media/Formats/Containers/contributors.txt).
+
+[View this page on GitHub](https://github.com/mdn/content/blob/main/files/en-us/web/media/formats/containers/index.md?plain=1 "Folder: en-us/web/media/formats/containers \(Opens in a new tab\)") • [Report a problem with this content](https://github.com/mdn/content/issues/new?template=page-report.yml&mdn-url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FMedia%2FFormats%2FContainers&metadata=%3C%21--+Do+not+make+changes+below+this+line+--%3E%0A%3Cdetails%3E%0A%3Csummary%3EPage+report+details%3C%2Fsummary%3E%0A%0A*+Folder%3A+%60en-us%2Fweb%2Fmedia%2Fformats%2Fcontainers%60%0A*+MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FMedia%2FFormats%2FContainers%0A*+GitHub+URL%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Fcontent%2Fblob%2Fmain%2Ffiles%2Fen-us%2Fweb%2Fmedia%2Fformats%2Fcontainers%2Findex.md%0A*+Last+commit%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Fcontent%2Fcommit%2Fbea339d321513fc6d66d95c8f0305b9387fa57bb%0A*+Document+last+modified%3A+2024-10-25T23%3A05%3A38.000Z%0A%0A%3C%2Fdetails%3E "This will take you to GitHub to file a new issue.")
+
+[![Gitlab](/pimg/aHR0cHM6Ly9zdGF0aWM0LmJ1eXNlbGxhZHMubmV0L3V1LzIvMTU4NTkwLzE3MzQ0NjQxNzAtMTQ1NngxODBfQV8yXy5wbmc%3D.PxKS1F9nE%2B4uwhO%2BUQdumQxYNOHk3uVxfQ7lU1gJ5rc%3D)](/pong/click?code=aHR0cHM6Ly9zcnYuYnV5c2VsbGFkcy5jb20vYWRzL2NsaWNrL3gvR1RORDQyN0lDQUJEVEszRUNFQkxZS1FVQ0tTRExLM0VDRVNENlozSkNBN0lLMjdKQ1lCSTRLSktDWVlJUDUzVUNXQkRMMlFJRlRZRDRLSldDVFlEQ0tKS0M2U0lDMjdJRlRZSUtLM0VISk5DTFNJWg%3D%3D.SV2d%2BZwHK9NCgBTB8vGQZvLO%2B%2B3ZaRk4lZxQT8A6Ixk%3D&version=2)[Mozilla ads](/en-US/advertising)
+
+[MDN logo](/)
+
+Your blueprint for a better internet.
+
+  * [MDN on Mastodon](https://mastodon.social/@mdn)
+  * [MDN on X (formerly Twitter)](https://twitter.com/mozdevnet)
+  * [MDN on GitHub](https://github.com/mdn/)
+  * [MDN Blog RSS Feed](/en-US/blog/rss.xml)
+
+
+
+## MDN
+
+  * [About](/en-US/about)
+  * [Blog](/en-US/blog/)
+  * [Careers](https://www.mozilla.org/en-US/careers/listings/?team=ProdOps)
+  * [Advertise with us](/en-US/advertising)
+
+
+
+## Support
+
+  * [Product help](https://support.mozilla.org/products/mdn-plus)
+  * [Report an issue](/en-US/docs/MDN/Community/Issues)
+
+
+
+## Our communities
+
+  * [MDN Community](/en-US/community)
+  * [MDN Forum](https://discourse.mozilla.org/c/mdn/236)
+  * [MDN Chat](/discord)
+
+
+
+## Developers
+
+  * [Web Technologies](/en-US/docs/Web)
+  * [Learn Web Development](/en-US/docs/Learn)
+  * [MDN Plus](/en-US/plus)
+  * [Hacks Blog](https://hacks.mozilla.org/)
+
+
+
+[](https://www.mozilla.org/)
+
+  * [Website Privacy Notice](https://www.mozilla.org/privacy/websites/)
+  * [Cookies](https://www.mozilla.org/privacy/websites/#cookies)
+  * [Legal](https://www.mozilla.org/about/legal/terms/mozilla)
+  * [Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/)
+
+
+
+Visit [Mozilla Corporation’s](https://www.mozilla.org) not-for-profit parent, the [Mozilla Foundation](https://foundation.mozilla.org/).Portions of this content are ©1998–2025 by individual mozilla.org contributors. Content available under [a Creative Commons license](/en-US/docs/MDN/Writing_guidelines/Attrib_copyright_license).

@@ -1,0 +1,33 @@
+{
+    "id": "4ab18664d29d2bbc82a7baccf19203dc",
+    "metadata": {
+        "id": "4ab18664d29d2bbc82a7baccf19203dc",
+        "url": "https://www.notion.so/Crawling-4ab18664d29d2bbc82a7baccf19203dc",
+        "title": "Crawling",
+        "properties": {
+            "Created": {
+                "id": "KHP_",
+                "type": "created_time",
+                "created_time": "2025-01-17T09:00:00.000Z"
+            },
+            "Tags": []
+        }
+    },
+    "parent_metadata": {
+        "id": "ed0bfd4d2ca631ef4bc10ceabf1050d9",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n# Resources [Science]\n\n# Tools\n\n\t[https://github.com/scrapy/scrapy](https://github.com/scrapy/scrapy)\n\t[https://github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)\n\t[https://github.com/mendableai/firecrawl](https://github.com/mendableai/firecrawl)\n\t[https://github.com/wention/BeautifulSoup4](https://github.com/wention/BeautifulSoup4)\n\t# More low-level\n\t\n\t[https://github.com/microsoft/playwright-python](https://github.com/microsoft/playwright-python)\n\t[https://github.com/SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)\n\n---\n\n# Notes\n\n\n\n<child_page>\n# sitemap.xml and robots.txt files\n\nAdd /sitemap.xml to any home URL to get a list of all its sub URLs for recursive crawling.\nAdd /robots.txt to any home URL to check the site’s crawling limitations.\n</child_page>",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://github.com/SeleniumHQ/selenium/",
+        "https://github.com/microsoft/playwright-python/",
+        "https://github.com/wention/BeautifulSoup4/",
+        "https://github.com/scrapy/scrapy/",
+        "https://github.com/mendableai/firecrawl/",
+        "https://github.com/unclecode/crawl4ai/"
+    ]
+}

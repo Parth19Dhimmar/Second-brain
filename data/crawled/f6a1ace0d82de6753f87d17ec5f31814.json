@@ -1,0 +1,24 @@
+{
+    "id": "f6a1ace0d82de6753f87d17ec5f31814",
+    "metadata": {
+        "id": "f6a1ace0d82de6753f87d17ec5f31814",
+        "url": "https://www.notion.so/CI-CD-f6a1ace0d82de6753f87d17ec5f31814",
+        "title": "CI/CD",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "eefea5dcf5cdad7edfd1cdc79ffa1ffb",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "[How do you ensure your Python package version always aligns with git tag?](https://www.linkedin.com/posts/maria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5?utm_source=share&utm_medium=member_desktop)\n[GitHub Actions - Cache your dependencies](https://www.linkedin.com/posts/banias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO?utm_source=share&utm_medium=member_desktop)",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://www.linkedin.com/posts/banias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO?utm_source=share&utm_medium=member_desktop/",
+        "https://www.linkedin.com/posts/maria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5?utm_source=share&utm_medium=member_desktop/"
+    ]
+}

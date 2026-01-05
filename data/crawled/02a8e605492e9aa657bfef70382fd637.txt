@@ -1,0 +1,1254 @@
+By clicking **“Accept All Cookies”** , you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our [Privacy Policy](https://www.featurestore.org/privacy-policy) for more information.
+
+[Accept](#)
+
+#### Feature Store Summit 2024
+
+#### [View Sessions](/feature-store-summit-2024)
+
+![](https://logicalclocks.matomo.cloud/matomo.php?idsite=7&rec=1)
+
+[![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61d5bd3ac0dfb6cabe8d5ebc_FS%20Logo%20.svg)](/)
+
+[**SERVERLESS ML**](https://serverless-ml.org?utm_source=backlink&utm_medium=fs-org)[**BENCHMARKS**](/benchmarks)[**BLOG**](https://medium.com/data-for-ai)
+
+**LEARN****VIDEOS**
+
+[**WHAT IS A FEATURE STORE**](/what-is-a-feature-store)[**MLOPS DICTIONARY**](https://www.hopsworks.ai/mlops-dictionary?utm_source=fs.org&utm_medium=web)[**MEETUPS**](https://www.meetup.com/Feature-Stores-for-ML-Global-Meetup-Group/)[**FEATURE STORES FOR ML**](https://docs.featurestore.org)
+
+**WATCH****VIDEOS**
+
+[**MEETUP RECORDINGS**](/feature-store-meeetup-videos)[**FEATURE STORE SUMMIT 2024**](/feature-store-summit-2024)[**FEATURE STORE SUMMIT 2023**](/feature-store-summit-2023)[**FEATURE STORE SUMMIT 2022**](/feature-store-summit-2022)[**FEATURE STORE SUMMIT 2021**](/feature-store-summit-videos)
+
+[ CONTRIBUTE](/content-submission)[JOIN OUR SLACK](https://featurestoreorg.slack.com/join/shared_invite/zt-ssh8dec1-IsvwLdTsRMssjT4~Ru2RKg#/shared-invite/email)
+
+[![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61d5bd3ac0dfb6cabe8d5ebc_FS%20Logo%20.svg)](/)[**SERVERLESS ML - COURSE**](https://www.serverless-ml.org/)[**BLOG**](https://medium.com/data-for-ai)[**WHAT IS A FEATURE STORE**](/what-is-a-feature-store)[**MLOPS DICTIONARY**](https://www.hopsworks.ai/mlops-dictionary?utm_source=fs.org&utm_medium=web)[**MEETUPS**](https://www.meetup.com/Feature-Stores-for-ML-Global-Meetup-Group/)[**FEATURE STORE FOR ML**](https://docs.featurestore.org/)[**MEETUP VIDEOS**](/feature-store-meeetup-videos)[**FEATURE STORE SUMMIT 2021**](/feature-store-summit-videos)[**FEATURE STORE SUMMIT 2022**](/feature-store-summit-2022)[**JOIN OUR SLACK**](https://featurestoreorg.slack.com/join/shared_invite/zt-ssh8dec1-IsvwLdTsRMssjT4~Ru2RKg#/shared-invite/email)
+
+# Feature Stores for ML
+
+[Offline API Benchmark](https://github.com/featurestoreorg/featurestore-benchmarks/tree/main/fs-offline-benchmark#read-pandas-dataframe-benchmarks)
+
+[Online API Benchmark](https://github.com/featurestoreorg/featurestore-benchmarks/tree/main/fs-online-benchmark#benchmark-results)
+
+[Feature Freshness Benchmark](https://github.com/featurestoreorg/featurestore-benchmarks/tree/main/fs-feature-freshness-benchmark#results)
+
+[![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61d2ce2b1859c4c1a864c85c_icons8-community-64%20\(1\).png)Join the community![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61d804fac45d4fbb359bf315_icons8-chevron-right-48%20\(1\).png)We are a global community of data science professionals, researchers and engineers that enjoy **sharing ideas and learning** from each other.](https://featurestoreorg.slack.com/join/shared_invite/zt-ssh8dec1-IsvwLdTsRMssjT4~Ru2RKg#/shared-invite/email)[![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61d2ccca60606072e4bfdb31_meetup_logo_pink.png)Meetups![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61d804fac45d4fbb359bf315_icons8-chevron-right-48%20\(1\).png)We organize monthly meetups with **industry experts** and **leading companies** in the Data and AI field. Visit our Meetup page to see any upcoming events. ](https://www.meetup.com/Feature-Stores-for-ML-Global-Meetup-Group/)
+
+# FEATURED BLOG POSTS
+
+[![Streamlining Machine Learning Development with a Feature Store](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/63a0154984d8d44e659e9b32_1_CVAUcmqXkgin1ZpBvS2zWQ.webp)Machine Learning Streamlining Machine Learning Development with a Feature StoreByJohn Thomas](https://medium.com/@endeavordata/streamlining-machine-learning-development-with-a-feature-store-680ee6d45c64)
+
+[![Feature pipelines and feature stores — deep dive into system engineering and analytical tradeoffs](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/6391a22eea7cecfc4b7c6f70_1_hvi8lbFVoRwvnSa3mwCteQ.webp)Feature StoreFeature pipelines and feature stores — deep dive into system engineering and analytical tradeoffsByAssaf Pinhasi](https://medium.com/data-for-ai/feature-pipelines-and-feature-stores-deep-dive-into-system-engineering-and-analytical-tradeoffs-3c208af5e05f)
+
+[![Make a prediction every day with Serverless Machine Learning](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/63847804a4c798f0b28dceac_Orchest.io%20blog.png)Feature StoreMake a prediction every day with Serverless Machine LearningByLex Avstreikh](https://medium.com/@magiclex/make-a-prediction-every-day-with-serverless-machine-learning-5c8764bb7acd)
+
+Have an interesting blog idea? 
+
+[Contribute](/content-submission)
+
+## [Read ![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/658d7b2b18dfa9bfbf983394_icons8-mouse-click-128.png)new Feature StoreAdvanced Guide 2024](https://www.hopsworks.ai/dictionary/feature-store)
+
+[In-house](/fs-categories/in-house)
+
+[Open source](/fs-categories/open-source)
+
+[On-Prem](/fs-categories/on-prem)
+
+[Vendor](/fs-categories/vendor)
+
+[![Hopsworks](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61a77bd7a2e4345dc9c999ba_Hopsworks%20Icon%20Green.png)Hopsworks](https://www.hopsworks.ai/)
+
+Updated on:
+
+October 18, 2024
+
+The first open-source Feature Store and the first with a DataFrame API. Most data sources (batch/streaming) supported. Ingest features using SQL, Spark, Python, Flink. The only feature store supporting stream processing for writes. Available as managed platform and on-premises.
+
+**Company** : 
+
+Hopsworks
+
+[Hopsworks Documentation](https://docs.hopsworks.ai/3.1/?utm_source=backlink&utm_medium=fs-org)
+
+Vendor
+
+Open source
+
+On-Prem
+
+![](https://img.youtube.com/vi/V-m_o38Ryeg/sddefault.jpg)
+
+[![Vertex AI](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61a8de596a90df9a9d12aa38_Vertex%20AI%20logo.png)Vertex AI](https://cloud.google.com/vertex-ai)
+
+Updated on:
+
+August 11, 2023
+
+A centralized repository for organizing, storing, and serving ML features on the GCP Vertex platform. Vertex AI Feature Store supports BigQuery, GCS as data sources. Separate ingestion jobs after feature engineering in BigQuery. Offline is BigQuery, Online BigTable.
+
+**Company** : 
+
+Google
+
+[Vertex AI Documentation](https://cloud.google.com/vertex-ai/docs/featurestore)
+
+Vendor
+
+![](https://img.youtube.com/vi/gT4qqHMiEpA/sddefault.jpg)
+
+[![SageMaker](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2e60570b4d7e18d15d1db_Amazon%20Sagemaker%20logo.png)SageMaker](https://aws.amazon.com/sagemaker/feature-store/)
+
+Updated on:
+
+August 11, 2023
+
+Sagemaker Feature Store integrates with other AWS services like Redshift, S3 as data sources and Sagemaker serving. It has a feature registry UI in Sagemaker, and Python/SQL APIs. Online FS is Dynamo, offline parquet/S3. 
+
+**Company** : 
+
+Amazon
+
+[AWS Documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store.html)
+
+Vendor
+
+![](https://img.youtube.com/vi/pgwLhy1SNq8/sddefault.jpg)
+
+[![Databricks](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2ddce51e6a994ed071090_databricks-logo.png)Databricks](https://databricks.com/)
+
+Updated on:
+
+August 11, 2023
+
+A Feature Store built around Spark Dataframes. Supports Spark/SQL for feature engineering with a UI in Databricks. Online FS is AWS RDS/MYSQL/Aurora. Offline is Delta Lake.
+
+**Company** : 
+
+Databricks
+
+[Databricks Documentation ](https://databricks.com/documentation)
+
+Vendor
+
+![](https://img.youtube.com/vi/UySbya9ceXg/sddefault.jpg)
+
+[![Chronon](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2e73207e162dd9e2b921e_airbnb-logo-266x300%402x.png)Chronon](#)
+
+Updated on:
+
+October 18, 2024
+
+One of the first feature stores from 2018, orginially called Zipline and part of the Bighead ML Platform. Feature engineering is using a DSL that includes point-in-time correct training set backfills, scheduled updates, feature visualizations and automatic data quality monitoring.
+
+**Company** : 
+
+AirBnB
+
+[Zipline: Machine Learning Data Management Platform](https://databricks.com/session/zipline-airbnbs-machine-learning-data-management-platform)
+
+In-house
+
+![](https://img.youtube.com/vi/flpeNeo4ERQ/sddefault.jpg)
+
+[![Michelangelo](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2e51e591a4aca80ba3d35_Uber%20Logo.png)Michelangelo](https://eng.uber.com/)
+
+Updated on:
+
+October 18, 2024
+
+The mother of feature stores. Michelangelo is an end-to-end ML platfom and Palette is the features store. Features are defined in a DSL that translates into Spark and Flink jobs. Online FS is Redis/Cassandra. Offline is Hive.
+
+**Company** : 
+
+Uber
+
+[Uber's Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/)
+
+In-house
+
+![](https://img.youtube.com/vi/nsZRRhM-AT8/sddefault.jpg)
+
+[![FBLearner](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2df80d7c1010bd67efb95_Facebook%20Logo.png)FBLearner](https://engineering.fb.com/)
+
+Updated on:
+
+August 11, 2023
+
+Internal end-to-end ML Facebook platform that includes a feature store. It provides innovative functionality, like automatic generation of UI experiences from pipeline definitions and automatic parallelization of Python code.
+
+**Company** : 
+
+Facebook
+
+[FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/)
+
+In-house
+
+![](https://img.youtube.com/vi/4COOe5L2Dk4/sddefault.jpg)
+
+[![Overton](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2e583d64180458eaf0f92_Apple_logo_black.svg)Overton](https://machinelearning.apple.com/)
+
+Updated on:
+
+August 11, 2023
+
+Internal end-to-end ML platform at Apple. It automates the life cycle of model construction, deployment, and monitoring by providing a set of novel high-level, declarative abstractions. It has been used in production to support multiple applications in both near-real-time applications and back-of-house processing.
+
+**Company** : 
+
+Apple
+
+[Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://machinelearning.apple.com/research/overton)
+
+In-house
+
+![](https://img.youtube.com/vi/Z9yKLlgaEZk/sddefault.jpg)
+
+[![Featureform](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2e263d641804e05af009d_Feature%20form%20logo.jpg)Featureform](https://www.featureform.com/)
+
+Updated on:
+
+August 11, 2023
+
+FeatureForm is a virtual feature store platfrom - you plug in your offline and online data stores. It supports Flink, Snowflake, Airflow Kafka, and other frameworks. 
+
+**Company** : 
+
+Featureform
+
+[Featureform Documentation](https://docs.featureform.com/)
+
+Vendor
+
+On-Prem
+
+Open source
+
+![](https://img.youtube.com/vi/2HHNMVIXyn8/sddefault.jpg)
+
+[![Twitter](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61a8e4eac150b5d82b8a3100_2021%20Twitter%20logo%20-%20blue.png)Twitter](https://cortex.twitter.com/)
+
+Updated on:
+
+August 11, 2023
+
+Twitter's first feature store was a set of shared feature libraries and metadata. Since then, they moved to building their own feature store, which they did by customizin feast for GCP.
+
+**Company** : 
+
+Twitter
+
+[Twitter Engineering: Cortex](https://blog.twitter.com/engineering/en_us/tags.eng--cortex)
+
+In-house
+
+![](https://img.youtube.com/vi/BqgJ1XL6Gzs/sddefault.jpg)
+
+[![Feast](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2dfe005e11543325ba22b_Feast%20Logo.png)Feast](https://feast.dev/)
+
+Updated on:
+
+August 11, 2023
+
+Originally developed as an open-source feature store by Go-JEK, Feast has been taken on by Tecton to be a minimal, configurable feature store. You can connect in different online/offline data stores and it can run on any platform. Feature engineering is done outside of Feast.
+
+**Company** : 
+
+Linux Foundation
+
+[Feast Documentation](https://docs.feast.dev/)
+
+Open source
+
+![](https://img.youtube.com/vi/DaNv-Wf1MBA/sddefault.jpg)
+
+[![Tecton](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2e6cc068193a3a4488506_Tecton%20Logo%20Icon.png)Tecton](https://www.tecton.ai/)
+
+Updated on:
+
+August 11, 2023
+
+Tecton.ai is a managed feature store that uses PySpark or SQL (Databricks or EMR) or Snowflake to compute features and DynamoDB to serve online features. It provides a Python-based DSL for orchestration and feature transformations that are computed as a PySpark job. Available on AWS.
+
+**Company** : 
+
+Tecton
+
+[Tecton Documentation](https://docs.tecton.ai/v2/)
+
+Vendor
+
+![](https://img.youtube.com/vi/ZXkra9jiCU0/sddefault.jpg)
+
+[![Jukebox](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2e402068193c9194877d5_Spotify%20Logo.png)Jukebox](https://engineering.atspotify.com/)
+
+Updated on:
+
+August 11, 2023
+
+Spotify built their own ML platform that leverages TensorFlow Extended (TFX) and Kubeflow. They focus on designing and analyzing their ML experiments instead of building and maintaining their own infrastructure, resulting in faster time from prototyping to production. 
+
+**Company** : 
+
+Spotify
+
+[Spotify Engineering: Machine Learning Infrastructure Through TensorFlow Extended and Kubeflow](https://engineering.atspotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
+
+In-house
+
+![](https://img.youtube.com/vi/qv2DtDvpWx8/sddefault.jpg)
+
+[![Intuit](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2e398f50b086c3dc25119_Intuit%20Logo.jpeg)Intuit](https://medium.com/intuit-engineering/tagged/machine-learning)
+
+Updated on:
+
+August 11, 2023
+
+Intuit have built a feature store as part of their data science platform. It was developed for AWS and uses S3 and Dynamo as its offline/online feature serving layers.
+
+**Company** : 
+
+Intuit
+
+[Intuit Engineering: A Data Journey](https://medium.com/intuit-engineering/the-intuit-data-journey-d50e644ed279)
+
+In-house
+
+![](https://img.youtube.com/vi/pynwAwhpU9M/sddefault.jpg)
+
+[![Iguazio ](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2e302819891fea09c34e9_Iguazio%20Logo.png)Iguazio ](https://www.iguazio.com/)
+
+Updated on:
+
+August 11, 2023
+
+A centralized and versioned feature storre built around their MLRun open-source MLOps orchestration framework for ML model management. Uses V3IO as it offline and online feature stores.
+
+**Company** : 
+
+Iguazio 
+
+[Iguazio Documentation](https://www.iguazio.com/docs/latest-release/)
+
+Vendor
+
+On-Prem
+
+Open source
+
+![](https://img.youtube.com/vi/jZWa8wKXk2c/sddefault.jpg)
+
+[![Abacus.ai ](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2dc8681989147c79c1209_Abacus%20AI%20logo.png)Abacus.ai ](https://abacus.ai/)
+
+Updated on:
+
+August 11, 2023
+
+The platform allows to build real-time machine and deep learning features, upload ipython notebooks, monitor model drift, and set up CI/CD for machine learning systems.
+
+**Company** : 
+
+Abacus.ai 
+
+[Abacus Publications](https://abacus.ai/publications)
+
+Vendor
+
+![](https://img.youtube.com/vi/_4K4QDOEZmk/sddefault.jpg)
+
+[![Doordash](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2df178d4e2bd1b997a70b_doordash-logo.png)Doordash](https://doordash.engineering/)
+
+Updated on:
+
+August 11, 2023
+
+A ML Platform with an effective online prediction ecosystem. It serves traffic on a large number of ML Models, including ensemble models, through their Sibyl Prediction Service.They extended Redis with sharding and compression to work as their online feature store.
+
+**Company** : 
+
+Doordash
+
+[Doordash: Building a Gigascale ML Feature Store with Redis](https://doordash.engineering/2020/11/19/building-a-gigascale-ml-feature-store-with-redis/)
+
+In-house
+
+![](https://img.youtube.com/vi/D7SH2NjGlJQ/sddefault.jpg)
+
+[![Salesforce](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2e760ef42084c48e7daa2_Salesforce%20Logo%20Icon.png)Salesforce](https://www.salesforce.com/eu/products/einstein/overview/)
+
+Updated on:
+
+August 11, 2023
+
+ML Lake is a shared service that provides the right data, optimizes the right access patterns, and alleviates the machine learning application developer from having to manage data pipelines, storage, security and compliance. Built on an early version of Feast based around Spark.
+
+**Company** : 
+
+Salesforce
+
+[Salesforce: AI Technology and Resources](https://www.salesforce.com/eu/resources/artificial-intelligence/#!page=1)
+
+In-house
+
+![](https://img.youtube.com/vi/eHdiWzPUt3k/sddefault.jpg)
+
+[![H2O Feature Store](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/61d2e296297bb33f4315a304_H2O_logo_from_H2O.ai.png)H2O Feature Store](https://www.h2o.ai/feature-store/)
+
+Updated on:
+
+October 3, 2023
+
+H2O.ai and AT&T co-created the H2O AI Feature Store to store, update, and share the features data scientists, developers, and engineers need to build AI models. 
+
+**Company** : 
+
+H2O.ai and AT&T 
+
+[H2O.ai Documentation](https://docs.h2o.ai/featurestore/)
+
+Vendor
+
+On-Prem
+
+![](https://img.youtube.com/vi/y6CP0oZpm4k/sddefault.jpg)
+
+[![Feathr](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/625e612fac74bb28d7712f61_LinkedIn_logo_initials.png)Feathr](https://github.com/linkedin/feathr)
+
+Updated on:
+
+August 11, 2023
+
+Feathr automatically computes your feature values and joins them to your training data, using point-in-time-correct semantics to avoid data leakage, and supports materializing and deploying your features for use online in production.
+
+**Company** : 
+
+Microsoft / Linkedin
+
+[Feathr's Documentation](https://engineering.linkedin.com/blog/2022/open-sourcing-feathr---linkedin-s-feature-store-for-productive-m)
+
+Open source
+
+![](https://img.youtube.com/vi/u8nLY9Savxk/sddefault.jpg)
+
+[![Nexus](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/63514b9bfbcf94d6066b945c_Disney%20Logo%20Icon.png)Nexus](#)
+
+Updated on:
+
+August 11, 2023
+
+Nexus supports batch, near real-time, and real-time feature computation and has global scale for serving online and offline features from Redis and Delta Lake-s3, respectively.
+
+**Company** : 
+
+Disney Streaming
+
+[Nexus Feature Store Details](https://content.hopsworks.ai/hubfs/Feature%20Store%20Summit%202022/FS%20Summit%2022%20-%20Disney%20Streaming.pdf)
+
+In-house
+
+![](https://img.youtube.com/vi/OXQW1s2qTwM/sddefault.jpg)
+
+[![Qwak](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/64d5f55dc1bc4d6e5bd9616f_qwak%20logo.png)Qwak](https://www.qwak.com/)
+
+Updated on:
+
+August 11, 2023
+
+Qwak's feature store is a component of the Qwak ML platform, providing transformations, a feature registry and both an online and offline store. 
+
+**Company** : 
+
+Qwak
+
+[Qwak Product Details](https://www.qwak.com/product/feature-store)
+
+Vendor
+
+![](https://img.youtube.com/vi/a2Cg2EYiDMs/sddefault.jpg)
+
+[![Beast](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/64d5f6c6c697c456bba9eb4d_Robinhood-logo.png)Beast](https://robinhood.com/us/en/)
+
+Updated on:
+
+August 11, 2023
+
+Robinhood built their own event-based real-time feature store based on Kafka and Flink.
+
+**Company** : 
+
+Robinhood
+
+[Robinhood Engineering Blog](https://learn.robinhood.com/)
+
+In-house
+
+![](https://img.youtube.com/vi/qDtdYo-dVXk/sddefault.jpg)
+
+[![Feature Byte](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/64d5fa5862dd96d36f5ecdef_FeatureByte-Logo.png)Feature Byte](https://featurebyte.com/)
+
+Updated on:
+
+August 11, 2023
+
+FeatureByte is a solution that aims to simplify the process of preparing and managing data for AI models, making it easier for organizations to scale their AI efforts. 
+
+**Company** : 
+
+Feature Byte
+
+[Feature Byte Documentation](https://docs.featurebyte.com/0.2/about/workflow/)
+
+Vendor
+
+![](https://img.youtube.com/vi/jGkRsmt8uvg/sddefault.jpg)
+
+[![Fennel](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/64d5fcbdc552c55c6ddf2752_Purple%20\(1\).png)Fennel](https://fennel.ai/)
+
+Updated on:
+
+October 18, 2024
+
+Fennel is a fully managed realtime feature platform from an-Facebook team. Powered by Rust, it is built ground up to be easy to use. It works natively with Python/Pandas, has beautiful APIs, installs in your cloud in minutes, and has best-in-class support for data/feature quality. 
+
+**Company** : 
+
+Fennel 
+
+[Fennel Documentation](https://fennel.ai/docs)
+
+Vendor
+
+![](https://img.youtube.com/vi/RoVSokGcY8E/sddefault.jpg)
+
+[![OpenMLDB](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/650c3e60c5355266f4e45bb9_open%20ml%20db%20.png)OpenMLDB](https://openmldb.com/en/)
+
+Updated on:
+
+September 21, 2023
+
+An open-source feature computing platform that offers unified SQL APIs and a shared execution plan generator for both offline and online engines, eliminating the need for cumbersome transformation and consistency verification.
+
+**Company** : 
+
+4Paradigm
+
+[Documentation](https://openmldb.ai/docs/en/main/)
+
+Open source
+
+![](https://img.youtube.com/vi/YWdjtVLxr-Y/sddefault.jpg)
+
+[![Chalk](https://cdn.prod.website-files.com/618ceae2a430c960c6f6b19a/67123931b7602710283ea79a_chalk%20full%20logo.png)Chalk](https://chalk.ai/)
+
+Updated on:
+
+October 18, 2024
+
+Chalk is a platform for building real-time ML applications that includes a real-time feature store.
+
+**Company** : 
+
+Chalk AI
+
+[Chalk Documentation](https://docs.chalk.ai/docs/what-is-chalk)
+
+Vendor
+
+![](https://img.youtube.com/vi/XxjPjlUZ2k4/sddefault.jpg)
+
+# FEATURE STORE COMPARISON
+
+[Get Listed](https://hdx6m0gtea7.typeform.com/to/xnljrxsh)
+
+## Platform
+
+## Open Source
+
+## Offline 
+
+## Online
+
+## **Real Time Ingestion**
+
+## **Feature Ingestion API**
+
+## **Write Amplification**
+
+## **Supported Platforms**
+
+## **Training API**
+
+## **Training Data**
+
+## Hopsworks
+
+AGPL-V3
+
+Hudi/Hive and pluggable
+
+RonDB
+
+[Flink, Spark Streaming](#)
+
+[(Py)Spark, Python, SQL, Flink](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Hopsworks%20-%20Feature%20Store%20Summit.pdf)
+
+No
+
+AWS, GCP, On-Prem
+
+Spark
+
+DataFrame (Spark or Pandas), files (.csv, .tfrecord, etc)
+
+## Michelangelo Palette
+
+No
+
+Hive
+
+Cassandra
+
+[Flink, Spark Streaming](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Uber%20-%20Feature%20Store%20Summit.pdf)
+
+[Spark, DSL](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Uber%20-%20Feature%20Store%20Summit.pdf)
+
+None
+
+Proprietary
+
+Spark
+
+DataFrame (Pandas)
+
+## Chronon
+
+No
+
+Hive
+
+Unknown KV Store
+
+[Flink](#)
+
+[DSL](https://www.slideshare.net/databricks/ziplineairbnbs-declarative-feature-engineering-framework)
+
+None
+
+Proprietary
+
+Spark
+
+Streamed to models?
+
+## Twitter
+
+No
+
+GCS
+
+Manhatten, Cockroach
+
+[Unknown](#)
+
+[Python, BigQuery](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Twitter%20-%20Feature%20Store%20Summit.pdf)
+
+Yes. Ingestion Jobs
+
+Proprietary
+
+BigQuery 
+
+DataFrame (Pandas)
+
+## Iguazio
+
+No
+
+Parquet
+
+V3IO, proprietary DB
+
+[Nuclio](#)
+
+[Spark, Python, Nuclio](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Twitter%20-%20Feature%20Store%20Summit.pdf)
+
+Unknown
+
+AWS, Azure, GCP, on-prem
+
+No details
+
+DataFrame (Pandas)
+
+## Databricks
+
+No
+
+Delta Lake
+
+Mysql or Aurora
+
+[None](#)
+
+[Spark, SparkSQL](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Twitter%20-%20Feature%20Store%20Summit.pdf)
+
+Unknown
+
+Unknown
+
+Spark
+
+Spark Dataframes
+
+## SageMaker
+
+No
+
+S3, Parquet
+
+DynamoDB
+
+[None](#)
+
+[Python](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/AWS%20-%20Feature%20Store%20Summit.pdf)
+
+Yes. Ingestion Jobs
+
+AWS
+
+Aurora
+
+DataFrame (Pandas)
+
+## Featureform
+
+Mozilla
+
+Pluggable
+
+Pluggable
+
+[None](#)
+
+[Spark](#)
+
+No
+
+AWS, Azure, GCP
+
+Spark
+
+DataFrame (Spark, Pandas)
+
+## Jukebox
+
+No
+
+BigQuery
+
+BigTable
+
+[Scio](#)
+
+[Scio, BigQuery](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Spotify%20-%20Feature%20Store%20Summit.pdf)
+
+Yes. Ingestion Jobs
+
+Proprietary
+
+BigQuery 
+
+DataFrame (Pandas)
+
+## Doordash
+
+No 
+
+Snowflake
+
+Redis
+
+[Flink](#)
+
+[Flink](https://doordash.engineering/2021/03/04/building-a-declarative-real-time-feature-engineering-framework/)
+
+Unknown
+
+Proprietary
+
+Snowflake
+
+DataFrame (Pandas)
+
+## Salesforce
+
+No
+
+S3, Iceberg
+
+DynamoDB
+
+[Unknown](#)
+
+[Unknown](#)
+
+Yes. Ingestion Jobs
+
+Proprietary
+
+Iceberg
+
+DataFrame (Pandas)
+
+## Intuit
+
+No
+
+S3
+
+GraphQL API, unknown backend
+
+[Beam](#)
+
+[Spark, Beam](https://www.usenix.org/sites/default/files/conference/protected-files/opml20_talks_45_slides_canchi.pdf)
+
+Unknown
+
+Proprietary
+
+Unknown
+
+DataFrame (Pandas)
+
+## OLX
+
+No
+
+Kafka
+
+Kafka
+
+[KSQLdb](#)
+
+[KSQLdb](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/OLX%20-%20Feature%20Store%20Summit.pdf)
+
+No 
+
+Proprietary
+
+KSQLdb
+
+From feature logging
+
+## Continual
+
+No
+
+Snowflake
+
+Coming soon
+
+[Coming soon](#)
+
+[DBT](https://www.getdbt.com/)
+
+No
+
+Snowflake, more coming
+
+Snowflake
+
+Proprietary
+
+## Metarank
+
+Yes
+
+N/A
+
+Redis
+
+[Flink](#)
+
+[YAML-based](https://content.hopsworks.ai/hubfs/Meetups/FS%20Meetup%2012%20-%20Findify.pdf)
+
+No
+
+Open-Source
+
+XGBoost, LightGBM
+
+CSV files?
+
+## Scribble Enrich 
+
+No
+
+Pluggable
+
+Pluggable
+
+[None](#)
+
+[Python](#)
+
+No
+
+AWS, Azure, GCP, on-prem
+
+No details
+
+DataFrame (Pandas)
+
+## Feathr
+
+Yes
+
+Pluggable
+
+Pluggable
+
+[None](#)
+
+[Spark](#)
+
+No
+
+Azure, AWS
+
+Spark
+
+DataFrames, files (.csv, .parquet, etc)
+
+## Nexus
+
+No
+
+Delta Lake
+
+Redis
+
+[Spark Streaming](#)
+
+[Spark](#)
+
+Unknown
+
+Unknown
+
+Spark
+
+Proprietary
+
+**PLATFORM - CATEGORIES**
+
+**DETAILS**
+
+# Hopsworks
+
+## Open - Source
+
+AGPL-V3
+
+## Feature Ingestion API
+
+[(Py)Spark, Python, SQL, Flink](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Hopsworks%20-%20Feature%20Store%20Summit.pdf)
+
+## Supported Platforms
+
+AWS, GCP, On-Prem
+
+# Michelangelo Palette
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[Spark, DSL](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Uber%20-%20Feature%20Store%20Summit.pdf)
+
+## Supported Platforms
+
+Proprietary
+
+# Chronon
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[DSL](https://www.slideshare.net/databricks/ziplineairbnbs-declarative-feature-engineering-framework)
+
+## Supported Platforms
+
+Proprietary
+
+# Twitter
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[Python, BigQuery](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Twitter%20-%20Feature%20Store%20Summit.pdf)
+
+## Supported Platforms
+
+Proprietary
+
+# Iguazio
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[Spark, Python, Nuclio](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Twitter%20-%20Feature%20Store%20Summit.pdf)
+
+## Supported Platforms
+
+AWS, Azure, GCP, on-prem
+
+# Databricks
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[Spark, SparkSQL](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Twitter%20-%20Feature%20Store%20Summit.pdf)
+
+## Supported Platforms
+
+Unknown
+
+# SageMaker
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[Python](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/AWS%20-%20Feature%20Store%20Summit.pdf)
+
+## Supported Platforms
+
+AWS
+
+# Featureform
+
+## Open - Source
+
+Mozilla
+
+## Feature Ingestion API
+
+[Spark](#)
+
+## Supported Platforms
+
+AWS, Azure, GCP
+
+# Jukebox
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[Scio, BigQuery](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/Spotify%20-%20Feature%20Store%20Summit.pdf)
+
+## Supported Platforms
+
+Proprietary
+
+# Doordash
+
+## Open - Source
+
+No 
+
+## Feature Ingestion API
+
+[Flink](https://doordash.engineering/2021/03/04/building-a-declarative-real-time-feature-engineering-framework/)
+
+## Supported Platforms
+
+Proprietary
+
+# Salesforce
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[Unknown](#)
+
+## Supported Platforms
+
+Proprietary
+
+# Intuit
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[Spark, Beam](https://www.usenix.org/sites/default/files/conference/protected-files/opml20_talks_45_slides_canchi.pdf)
+
+## Supported Platforms
+
+Proprietary
+
+# OLX
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[KSQLdb](https://content.logicalclocks.com/hubfs/Feature%20Store%20Summit%20Presentations%20PDFs/OLX%20-%20Feature%20Store%20Summit.pdf)
+
+## Supported Platforms
+
+Proprietary
+
+# Continual
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[DBT](https://www.getdbt.com/)
+
+## Supported Platforms
+
+Snowflake, more coming
+
+# Metarank
+
+## Open - Source
+
+Yes
+
+## Feature Ingestion API
+
+[YAML-based](https://content.hopsworks.ai/hubfs/Meetups/FS%20Meetup%2012%20-%20Findify.pdf)
+
+## Supported Platforms
+
+Open-Source
+
+# Scribble Enrich 
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[Python](#)
+
+## Supported Platforms
+
+AWS, Azure, GCP, on-prem
+
+# Feathr
+
+## Open - Source
+
+Yes
+
+## Feature Ingestion API
+
+[Spark](#)
+
+## Supported Platforms
+
+Azure, AWS
+
+# Nexus
+
+## Open - Source
+
+No
+
+## Feature Ingestion API
+
+[Spark](#)
+
+## Supported Platforms
+
+Unknown
+
+![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61d31926c8bd4184d185548d_tool.svg)
+
+**Feature Ingestion API:** What APIs and languages are supported for writing features to the feature store?
+
+![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61d31926c8bd4184d185548d_tool.svg)
+
+**Write Amplification:** Do you write your features more than once - .e.g, write to stable storage first, then run a separate job to ingest features?
+
+![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61d31926c8bd4184d185548d_tool.svg)
+
+**Training API (PIT Join Engine):** When you create training data from reusable features, you need to join the feature values together. What compute engine is used to perform this point-in-time JOIN?
+
+![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61d31926c8bd4184d185548d_tool.svg)
+
+**Training Data:** How is the training data made available to machine learning frameworks? As dataframes or files?
+
+# Build or Buy
+
+Developing a software can be extremely **costly** and **time-consuming** so reusability of different systems proves to be a reasonable solution, however the number of companies **building their own feature store** is on the rise.Learn more about the industry's conundrum by watching the relevant panel discussion from the first **Feature Store Summit.**
+
+# Build or Buy
+
+Developing a software can be extremely **costly** and **time-consuming** so reusability of different systems proves to be a reasonable solution, however the number of companies **building their own feature store** is on the rise.Learn more about the industry's conundrum by watching the relevant panel discussion from the latest **Feature Store Summit.**
+
+## DISCOVER
+
+  * [What is a Feature Store](/what-is-a-feature-store)
+  * [Contribute](/content-submission)[Get Listed](https://hdx6m0gtea7.typeform.com/to/xnljrxsh)
+
+
+
+## RESOURCES
+
+  * [Knowledge](https://docs.featurestore.org/)
+  * [Blog](https://medium.com/data-for-ai)
+  * [Meetups](https://www.meetup.com/Feature-Stores-for-ML-Global-Meetup-Group/)
+  * [Feature Store Summit](https://www.featurestoresummit.com/)
+
+
+
+## GENERAL
+
+  * [Privacy Policy](/privacy-policy)
+  * [Code of Conduct](/code-of-conduct)
+
+
+
+## SUBSCRIBE TO NEWSLETTER
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+[![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61ae37b708781a1657d82c1f_Slack.png)](https://featurestoreorg.slack.com/ssb/redirect#/shared-invite/email)[![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61ae2f7c6227c564ffa7036a_Linkedin%20logo%20black%20icon.png)](https://www.linkedin.com/company/75052617/admin/)[![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61ae35d0e75563a8a412f290_Twitter..png)](https://twitter.com/FeaturestoreOrg)[![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61ae357353bcca6d7da0d2b8_YouTube.png)](https://www.youtube.com/@featurestoreorg)[![](https://cdn.prod.website-files.com/5f32a0dcc815d2a49c58481a/61af6210e6e13cd78a241977_meetup.png)](https://www.meetup.com/Feature-Stores-for-ML-Global-Meetup-Group/)
+
+Powered by [Hopsworks](https://www.hopsworks.ai/?utm_source=fs.org&utm_medium=website&utm_campaign=clicks&utm_id=traffic) © 2024 Featurestore.org. All rights reserved.

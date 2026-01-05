@@ -1,0 +1,183 @@
+[![Hugging Face's logo](/front/assets/huggingface_logo-noborder.svg) Hugging Face](/)
+
+  * [ Models](/models)
+  * [ Datasets](/datasets)
+  * [ Spaces](/spaces)
+  * [ Posts](/posts)
+  * [ Docs](/docs)
+  * [ Enterprise](/enterprise)
+  * [Pricing](/pricing)
+  * [Log In](/login)
+  * [Sign Up](/join)
+
+
+
+# 
+
+[![](https://cdn-avatars.huggingface.co/v1/production/uploads/6264f9655f6f2e14d6ac981c/48Z31MM2apXsj6rQWilUh.png)](/vidore)
+
+[vidore](/vidore)
+
+/
+
+[colpali-v1.2](/vidore/colpali-v1.2)
+
+like 105
+
+Follow
+
+![](https://cdn-avatars.huggingface.co/v1/production/uploads/6264f9655f6f2e14d6ac981c/48Z31MM2apXsj6rQWilUh.png) ILLUIN Vidore 175
+
+[ Image Feature Extraction ](/models?pipeline_tag=image-feature-extraction)[ ColPali ](/models?library=colpali)[ Safetensors ](/models?library=safetensors)
+
+vidore/colpali_train_set
+
+[ English ](/models?language=en)[ vidore ](/models?other=vidore)[ vidore-experimental ](/models?other=vidore-experimental)
+
+arxiv: 2004.12832
+
+arxiv: 2407.01449
+
+arxiv: 2106.09685
+
+License: mit
+
+[ Model card ](/vidore/colpali-v1.2)[ Files Files and versions ](/vidore/colpali-v1.2/tree/main)[ Community 10 ](/vidore/colpali-v1.2/discussions)
+
+Use this model 
+
+A newer version of this model is available: [vidore/colpali-v1.3](/vidore/colpali-v1.3)
+
+  * [ColPali: Visual Retriever based on PaliGemma-3B with ColBERT strategy](#colpali-visual-retriever-based-on-paligemma-3b-with-colbert-strategy "ColPali: Visual Retriever based on PaliGemma-3B with ColBERT strategy")
+    * [Version specificity](#version-specificity "Version specificity")
+    * [Model Description](#model-description "Model Description")
+    * [Model Training](#model-training "Model Training")
+      * [Dataset](#dataset "Dataset")
+      * [Parameters](#parameters "Parameters")
+    * [Usage](#usage "Usage")
+    * [Limitations](#limitations "Limitations")
+    * [License](#license "License")
+    * [Contact](#contact "Contact")
+    * [Citation](#citation "Citation")
+
+
+
+#  [ ](#colpali-visual-retriever-based-on-paligemma-3b-with-colbert-strategy) ColPali: Visual Retriever based on PaliGemma-3B with ColBERT strategy 
+
+ColPali is a model based on a novel model architecture and training strategy based on Vision Language Models (VLMs) to efficiently index documents from their visual features. It is a [PaliGemma-3B](https://huggingface.co/google/paligemma-3b-mix-448) extension that generates [ColBERT](https://arxiv.org/abs/2004.12832)- style multi-vector representations of text and images. It was introduced in the paper [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/abs/2407.01449) and first released in [this repository](https://github.com/ManuelFay/colpali)
+
+![](https://github.com/illuin-tech/colpali/blob/main/assets/colpali_architecture.webp?raw=true)
+
+##  [ ](#version-specificity) Version specificity 
+
+This version is trained with `colpali-engine==0.2.0` but can be loaded for any version `>=0.2.0`.
+
+Compared to [`vidore/colpali`](https://huggingface.co/vidore/colpali), this version is trained with right padding for queries to fix unwanted tokens in the query encoding. It also stems from the fixed `vidore/colpaligemma-3b-pt-448-base` to guarantee deterministic projection layer initialization. It was trained for 5 epochs, with in-batch negatives and hard mined negatives and a warmup of 1000 steps (10x longer) to help reduce non-english language collapse.
+
+Data is the same as the ColPali data described in the paper.
+
+##  [ ](#model-description) Model Description 
+
+This model is built iteratively starting from an off-the-shelf [SigLIP](https://huggingface.co/google/siglip-so400m-patch14-384) model. We finetuned it to create [BiSigLIP](https://huggingface.co/vidore/bisiglip) and fed the patch-embeddings output by SigLIP to an LLM, [PaliGemma-3B](https://huggingface.co/google/paligemma-3b-mix-448) to create [BiPali](https://huggingface.co/vidore/bipali). 
+
+One benefit of inputting image patch embeddings through a language model is that they are natively mapped to a latent space similar to textual input (query). This enables leveraging the [ColBERT](https://arxiv.org/abs/2004.12832) strategy to compute interactions between text tokens and image patches, which enables a step-change improvement in performance compared to BiPali. 
+
+##  [ ](#model-training) Model Training 
+
+###  [ ](#dataset) Dataset 
+
+Our training dataset of 127,460 query-page pairs is comprised of train sets of openly available academic datasets (63%) and a synthetic dataset made up of pages from web-crawled PDF documents and augmented with VLM-generated (Claude-3 Sonnet) pseudo-questions (37%). Our training set is fully English by design, enabling us to study zero-shot generalization to non-English languages. We explicitly verify no multi-page PDF document is used both [_ViDoRe_](https://huggingface.co/collections/vidore/vidore-benchmark-667173f98e70a1c0fa4db00d) and in the train set to prevent evaluation contamination. A validation set is created with 2% of the samples to tune hyperparameters.
+
+_Note: Multilingual data is present in the pretraining corpus of the language model (Gemma-2B) and potentially occurs during PaliGemma-3B's multimodal training._
+
+###  [ ](#parameters) Parameters 
+
+All models are trained for 1 epoch on the train set. Unless specified otherwise, we train models in `bfloat16` format, use low-rank adapters ([LoRA](https://arxiv.org/abs/2106.09685)) with `alpha=32` and `r=32` on the transformer layers from the language model, as well as the final randomly initialized projection layer, and use a `paged_adamw_8bit` optimizer. We train on an 8 GPU setup with data parallelism, a learning rate of 5e-5 with linear decay with 2.5% warmup steps, and a batch size of 32.
+
+##  [ ](#usage) Usage 
+
+Install [`colpali-engine`](https://github.com/illuin-tech/colpali):
+
+```
+`pip install colpali-engine>=0.3.0,<0.4.0 `
+```
+
+Then run the following code:
+
+```
+`from typing import cast import torch from PIL import Image from colpali_engine.models import ColPali, ColPaliProcessor model_name = "vidore/colpali-v1.2" model = ColPali.from_pretrained( model_name, torch_dtype=torch.bfloat16, device_map="cuda:0", # or "mps" if on Apple Silicon ).eval() processor = ColPaliProcessor.from_pretrained(model_name) # Your inputs images = [ Image.new("RGB", (32, 32), color="white"), Image.new("RGB", (16, 16), color="black"), ] queries = [ "Is attention really all you need?", "Are Benjamin, Antoine, Merve, and Jo best friends?", ] # Process the inputs batch_images = processor.process_images(images).to(model.device) batch_queries = processor.process_queries(queries).to(model.device) # Forward pass with torch.no_grad(): image_embeddings = model(**batch_images) query_embeddings = model(**batch_queries) scores = processor.score_multi_vector(query_embeddings, image_embeddings) `
+```
+
+##  [ ](#limitations) Limitations 
+
+  * **Focus** : The model primarily focuses on PDF-type documents and high-ressources languages, potentially limiting its generalization to other document types or less represented languages.
+  * **Support** : The model relies on multi-vector retreiving derived from the ColBERT late interaction mechanism, which may require engineering efforts to adapt to widely used vector retrieval frameworks that lack native multi-vector support.
+
+
+
+##  [ ](#license) License 
+
+ColPali's vision language backbone model (PaliGemma) is under `gemma` license as specified in its [model card](https://huggingface.co/google/paligemma-3b-mix-448). The adapters attached to the model are under MIT license.
+
+##  [ ](#contact) Contact 
+
+  * Manuel Faysse: manuel.faysse@illuin.tech
+  * Hugues Sibille: hugues.sibille@illuin.tech
+  * Tony Wu: tony.wu@illuin.tech
+
+
+
+##  [ ](#citation) Citation 
+
+If you use any datasets or models from this organization in your research, please cite the original dataset as follows:
+
+```
+`@misc{faysse2024colpaliefficientdocumentretrieval, title={ColPali: Efficient Document Retrieval with Vision Language Models}, author={Manuel Faysse and Hugues Sibille and Tony Wu and Bilel Omrani and Gautier Viaud and Céline Hudelot and Pierre Colombo}, year={2024}, eprint={2407.01449}, archivePrefix={arXiv}, primaryClass={cs.IR}, url={https://arxiv.org/abs/2407.01449}, } `
+```
+
+Downloads last month
+    84,081 
+
+Inference API [](https://huggingface.co/docs/hub/models-widgets#example-outputs)
+
+[ Image Feature Extraction](/tasks/image-feature-extraction "Learn more about image-feature-extraction")
+
+Inference API (serverless) does not yet support colpali models for this pipeline type.
+
+##  Model tree for vidore/colpali-v1.2 [](/docs/hub/model-cards#specifying-a-base-model)
+
+Base model
+
+[google/paligemma-3b-pt-448](/google/paligemma-3b-pt-448)
+
+Finetuned
+
+[vidore/colpaligemma-3b-pt-448-base](/vidore/colpaligemma-3b-pt-448-base)
+
+Finetuned
+
+([24](/models?other=base_model:finetune:vidore/colpaligemma-3b-pt-448-base)) 
+
+this model 
+
+##  Dataset used to train vidore/colpali-v1.2
+
+#### [vidore/colpali_train_set Viewer •  Updated Sep 4, 2024 •  119k •  1.4k •  71  ](/datasets/vidore/colpali_train_set)
+
+##  Spaces using vidore/colpali-v1.2 25
+
+[👀 vespa-engine/colpali-vespa-visual-retrieval](/spaces/vespa-engine/colpali-vespa-visual-retrieval)[💬 AdrienB134/rag_ColPali_Qwen2VL](/spaces/AdrienB134/rag_ColPali_Qwen2VL)[💬 Mihaiii/rag_ColPali_Qwen2VL_7B](/spaces/Mihaiii/rag_ColPali_Qwen2VL_7B)[🔷🔷🔷 arad1367/Multimodal_RAG_Pejman](/spaces/arad1367/Multimodal_RAG_Pejman)[🏆 chiayewken/multimodal-longdoc-qwen2-vl](/spaces/chiayewken/multimodal-longdoc-qwen2-vl)[😻 saumitras/colpali-milvus](/spaces/saumitras/colpali-milvus)[🩺 ashwiniai/medrag-multi-modal](/spaces/ashwiniai/medrag-multi-modal)[👀 p3nguknight/colpali-pixtral](/spaces/p3nguknight/colpali-pixtral)[🐠 AdithyaSK/VARAG](/spaces/AdithyaSK/VARAG)[💬 AdrienB134/rag_colpali_idefics3](/spaces/AdrienB134/rag_colpali_idefics3)[🩺 geekyrakshit/medrag](/spaces/geekyrakshit/medrag)[💬 Rahatara/rag_ColPali_Qwen2VL](/spaces/Rahatara/rag_ColPali_Qwen2VL) + 20 Spaces + 13 Spaces
+
+##  Collection including vidore/colpali-v1.2
+
+#### [ColPali Models Collection  Pre-trained checkpoints for the ColPali model. •  8 items •  Updated Dec 8, 2024 • 3](/collections/vidore/colpali-models-673a5676abddf84949ce3180)
+
+System theme 
+
+Company
+
+[TOS](/terms-of-service) [Privacy](/privacy) [About](/huggingface) [Jobs](https://apply.workable.com/huggingface/) [](/)
+
+Website
+
+[Models](/models) [Datasets](/datasets) [Spaces](/spaces) [Pricing](/pricing) [Docs](/docs)

@@ -1,0 +1,692 @@
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including **professional and job ads**) on and off LinkedIn. Learn more in our [Cookie Policy](https://www.linkedin.com/legal/cookie-policy).
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your [settings](https://www.linkedin.com/mypreferences/g/guest-cookies).
+
+Accept  Reject 
+
+Agree & Join LinkedIn 
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy). 
+
+[ Skip to main content ](#main-content) [ LinkedIn ](/?trk=public_post_nav-header-logo)
+
+  * [ Articles  ](https://www.linkedin.com/pulse/topics/home/?trk=public_post_guest_nav_menu_articles)
+  * [ People  ](https://www.linkedin.com/pub/dir/+/+?trk=public_post_guest_nav_menu_people)
+  * [ Learning  ](https://www.linkedin.com/learning/search?trk=public_post_guest_nav_menu_learning)
+  * [ Jobs  ](https://www.linkedin.com/jobs/search?trk=public_post_guest_nav_menu_jobs)
+  * [ Games  ](https://www.linkedin.com/games?trk=public_post_guest_nav_menu_games)
+  * [ Get the app  ](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_nav_upsell&trk=public_post_guest_nav_menu_windows)
+
+
+
+[ Join now ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_nav-header-join) [ Sign in ](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&fromSignIn=true&trk=public_post_nav-header-signin)
+
+#  Aurimas Griciūnas’ Post
+
+[ ![View profile for Aurimas Griciūnas, graphic](https://media.licdn.com/dms/image/v2/D4E03AQGWyJFe1ARjQA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1681811564035?e=2147483647&v=beta&t=gwlaQpWtvJ8xbM8jt2ZomRIGV1F14MDhSjiJwWYKim8) ](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_feed-actor-image)
+
+[ Aurimas Griciūnas ](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_feed-actor-name) Aurimas Griciūnas is an Influencer
+
+Founder & CEO • AI Engineer • Follow me to Learn about AI Systems • Author of SwirlAI Newsletter • Public Speaker 
+
+1w 
+
+  * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+
+
+A simple way to explain 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁 𝗠𝗲𝗺𝗼𝗿𝘆. In general, the memory for an agent is something that we provide via context in the prompt passed to LLM that helps the agent to better plan and react given past interactions or data not immediately available. It is useful to group the memory into four types: 𝟭. Episodic - This type of memory contains past interactions and actions performed by the agent. After an action is taken, the application controlling the agent would store the action in some kind of persistent storage so that it can be retrieved later if needed. A good example would be using a vector Database to store semantic meaning of the interactions. 𝟮. Semantic - Any external information that is available to the agent and any knowledge the agent should have about itself. You can think of this as a context similar to one used in RAG applications. It can be internal knowledge only available to the agent or a grounding context to isolate part of the internet scale data for more accurate answers. 𝟯. Procedural - This is systemic information like the structure of the System Prompt, available tools, guardrails etc. It will usually be stored in Git, Prompt and Tool Registries. 𝟰. Occasionally, the agent application would pull information from long-term memory and store it locally if it is needed for the task at hand. 𝟱. All of the information pulled together from the long-term or stored in local memory is called short-term or working memory. Compiling all of it into a prompt will produce the prompt to be passed to the LLM and it will provide further actions to be taken by the system. We usually label 1. - 3. as Long-Term memory and 5. as Short-Term memory. A visual explanation of potential implementation details 👇 And that is it! The rest is all about how you architect the flow of your Agentic systems. What do you think about memory in AI Agents? [#LLM](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post-text) [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post-text) ---------- Be sure to ♻️ repost if you found the article useful and follow [Aurimas](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post-text) if you want to get a daily dose of useful AI related content in your feed!
+
+  * ![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D4D22AQHQ8SyrnZl5Gw/feedshare-shrink_800/B4DZRfQgRLGUAg-/0/1736764955017?e=2147483647&v=beta&t=AaCAjGHZCSUm470yDrUAKp3xPxMtfYVGsmi0y6OdT7E)
+
+
+
+[ ![](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) ![](https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu) ![](https://static.licdn.com/aero-v1/sc/h/2tzoeodxy0zug4455msr0oq0v) 1,192  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_social-actions-reactions) [ 61 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment-cta)
+
+Share 
+
+  * Copy
+  * LinkedIn
+  * Facebook
+  * Twitter
+
+
+
+[ ](https://www.linkedin.com/in/bijit-ghosh-48281a78?trk=public_post_comment_actor-image)
+
+[ Bijit Ghosh ](https://www.linkedin.com/in/bijit-ghosh-48281a78?trk=public_post_comment_actor-name)
+
+CTO - Global Head of Cloud Product & Engineering & AI/ML - at Deutsche Bank
+
+1w 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+The way I see it, When a user interacts with an AI agent, the interaction triggers the retrieval of relevant information from long-term memory (episodic, semantic, and procedural) which is then compiled into a dynamic short-term memory (the prompt) that is sent to the LLM for processing and response generation. This process enables the agent to utilize past experiences and stored knowledge to provide contextually relevant answers.
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reply) [ 5 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reactions) 6 Reactions 
+
+[ ](https://uk.linkedin.com/in/tarun-s-07843a239?trk=public_post_comment_actor-image)
+
+[ Tarun S. ](https://uk.linkedin.com/in/tarun-s-07843a239?trk=public_post_comment_actor-name)
+
+Data Integration Specialist, Director at UBS
+
+1w 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+As always, like the visualization to ease learnings (the concepts). Will come back with few questions.
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reply) [ 3 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reactions) 4 Reactions 
+
+[ ](https://fr.linkedin.com/in/fsndzomga/en?trk=public_post_comment_actor-image)
+
+[ Franck Stéphane NDZOMGA ](https://fr.linkedin.com/in/fsndzomga/en?trk=public_post_comment_actor-name)
+
+Freelance Senior Consultant - Data | Generative AI | Marketing Analytics
+
+1w 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Once we solve memory, agentic workflows will become uncannily efficient. And it is sure to happen in 2025. Buckle up ! [https://medium.com/thoughts-on-machine-learning/building-powerful-open-source-ai-agents-with-dspy-langgraph-crewai-and-nebius-ai-1-a2b81255b7ea](https://medium.com/thoughts-on-machine-learning/building-powerful-open-source-ai-agents-with-dspy-langgraph-crewai-and-nebius-ai-1-a2b81255b7ea?trk=public_post_comment-text)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reply) [ 6 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reactions) 7 Reactions 
+
+[ ](https://in.linkedin.com/in/shashi-bhushan1?trk=public_post_comment_actor-image)
+
+[ Shashi Bhushan ](https://in.linkedin.com/in/shashi-bhushan1?trk=public_post_comment_actor-name)
+
+Data Analyst | Data Scientist | AI & ML Specialist | GenAI & LLM Enthusiast | Vertex AI Expert | Python | PySpark | Time Series Analysis | Anomaly Detection | GCP | Streamlit | BigQuery | M.Tech (BITS Pilani) | ISO 50001
+
+1w 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Wow, this is like giving our AI agents their own little memory palace! 🏰 It's fascinating to see how they can remember past interactions (episodic), know their own facts (semantic), follow the rules (procedural), and even juggle short-term tasks like a pro! 🧠💡 Thanks for breaking it down so clearly. Now, if only I could get my own memory to work this efficiently... 😅 #AI #MemoryGoals #MindBlown
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reply) [ 3 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reactions) 4 Reactions 
+
+[ ](https://lk.linkedin.com/in/lahiru-fernando-6262a429?trk=public_post_comment_actor-image)
+
+[ Lahiru Fernando ](https://lk.linkedin.com/in/lahiru-fernando-6262a429?trk=public_post_comment_actor-name)
+
+Country Director (Sri Lanka), APAC RPA Lead, & Practice Head - Artificial Intelligence at Boundaryless/ Author/ AI Ambassador/ 5x UiPath MVP - Document Understanding and Artificial Intelligence/ Mentor/ Public Speaker
+
+1w 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Very well explained.. Thanks for sharing this... [Aurimas Griciūnas](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_comment-text)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reply) [ 4 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reactions) 5 Reactions 
+
+[ ](https://ro.linkedin.com/in/pauliusztin?trk=public_post_comment_actor-image)
+
+[ Paul Iusztin ](https://ro.linkedin.com/in/pauliusztin?trk=public_post_comment_actor-name)
+
+Senior ML/AI Engineer • MLOps • Founder @ Decoding ML ~ Posts and articles about building production-grade ML/AI systems.
+
+1w 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Love the visualization. Thanks [Aurimas](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_comment-text)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reply) [ 3 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reactions) 4 Reactions 
+
+[ ](https://au.linkedin.com/in/johnnycosgrove?trk=public_post_comment_actor-image)
+
+[ John (JC) Cosgrove ](https://au.linkedin.com/in/johnnycosgrove?trk=public_post_comment_actor-name)
+
+Partner @ Cloudwerx
+
+1w 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+I like your four classifications and they are now my canon :-) I will cite you wherever I use it [Aurimas Griciūnas](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_comment-text)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reply) [ 3 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reactions) 4 Reactions 
+
+[ ](https://in.linkedin.com/in/pooja-jain-898253106?trk=public_post_comment_actor-image)
+
+[ POOJA JAIN ](https://in.linkedin.com/in/pooja-jain-898253106?trk=public_post_comment_actor-name)
+
+Storyteller | Linkedin Top Voice 2024 | Senior Data Engineer@ Globant | Linkedin Learning Instructor | 2xGCP & AWS Certified | LICAP'2022 
+
+1w 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Helpful post on the AI Agents Memory!! [Aurimas Griciūnas](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_comment-text)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reply) [ 4 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reactions) 5 Reactions 
+
+[ ](https://in.linkedin.com/company/brilworks?trk=public_post_comment_actor-image)
+
+[ Brilworks Software ](https://in.linkedin.com/company/brilworks?trk=public_post_comment_actor-name) 1w 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+It's interesting how memory types shape an AI agent's behavior. From episodic to procedural, each memory layer helps the system react smarter over time. The real challenge seems to be organizing this flow to make sure the agent stays efficient and responsive.
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reply) [ 4 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reactions) 5 Reactions 
+
+[ ](https://fr.linkedin.com/in/mzmmoazam?trk=public_post_comment_actor-image)
+
+[ Mohammad Moazam ](https://fr.linkedin.com/in/mzmmoazam?trk=public_post_comment_actor-name)
+
+LLM Tech Lead @ Stellantis | NLP | Computer Vision | Technomancer
+
+1w 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Love the illustration [Aurimas Griciūnas](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_comment-text)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reply) [ 3 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_comment_reactions) 4 Reactions 
+
+[ See more comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_see-more-comments)
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_feed-cta-banner-cta)
+
+##  More Relevant Posts 
+
+  * [](https://www.linkedin.com/posts/anastasia-a-27335219b_ai-with-a-structured-brain-llms-are-the-activity-7284766847529336832-8BnT)
+
+[ ](https://id.linkedin.com/in/anastasia-a-27335219b?trk=public_post_feed-actor-image)
+
+[ Anastasia A. ](https://id.linkedin.com/in/anastasia-a-27335219b?trk=public_post_feed-actor-name)
+
+I Simplify Systems to Scale Businesses 🚀 | IT System Analyst 
+
+1w 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fanastasia-a-27335219b_ai-with-a-structured-brain-llms-are-the-activity-7284766847529336832-8BnT&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+AI with a structured brain: • LLMs are the reasoning cortex. • Memories (episodic, semantic, procedural) act as the long-term storage, strategy hub, and rulebook. • Short-term memory acts as the working memory for immediate context. • Tools and APIs are the hands and eyes, enabling real-world interaction. This layered architecture makes the system dynamic, capable, and collaborative without the "magic" of a super robot, just intelligent design.
+
+[ ](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_reshare_feed-actor-image)
+
+[ Aurimas Griciūnas ](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_reshare_feed-actor-name) Aurimas Griciūnas is an Influencer
+
+Founder & CEO • AI Engineer • Follow me to Learn about AI Systems • Author of SwirlAI Newsletter • Public Speaker 
+
+1w 
+
+A simple way to explain 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁 𝗠𝗲𝗺𝗼𝗿𝘆. In general, the memory for an agent is something that we provide via context in the prompt passed to LLM that helps the agent to better plan and react given past interactions or data not immediately available. It is useful to group the memory into four types: 𝟭. Episodic - This type of memory contains past interactions and actions performed by the agent. After an action is taken, the application controlling the agent would store the action in some kind of persistent storage so that it can be retrieved later if needed. A good example would be using a vector Database to store semantic meaning of the interactions. 𝟮. Semantic - Any external information that is available to the agent and any knowledge the agent should have about itself. You can think of this as a context similar to one used in RAG applications. It can be internal knowledge only available to the agent or a grounding context to isolate part of the internet scale data for more accurate answers. 𝟯. Procedural - This is systemic information like the structure of the System Prompt, available tools, guardrails etc. It will usually be stored in Git, Prompt and Tool Registries. 𝟰. Occasionally, the agent application would pull information from long-term memory and store it locally if it is needed for the task at hand. 𝟱. All of the information pulled together from the long-term or stored in local memory is called short-term or working memory. Compiling all of it into a prompt will produce the prompt to be passed to the LLM and it will provide further actions to be taken by the system. We usually label 1. - 3. as Long-Term memory and 5. as Short-Term memory. A visual explanation of potential implementation details 👇 And that is it! The rest is all about how you architect the flow of your Agentic systems. What do you think about memory in AI Agents? [#LLM](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post_reshare-text) [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post_reshare-text) [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post_reshare-text) ---------- Be sure to ♻️ repost if you found the article useful and follow [Aurimas](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_reshare-text) if you want to get a daily dose of useful AI related content in your feed!
+
+[ 7  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fanastasia-a-27335219b_ai-with-a-structured-brain-llms-are-the-activity-7284766847529336832-8BnT&trk=public_post_social-actions-reactions) [ 2 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fanastasia-a-27335219b_ai-with-a-structured-brain-llms-are-the-activity-7284766847529336832-8BnT&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fanastasia-a-27335219b_ai-with-a-structured-brain-llms-are-the-activity-7284766847529336832-8BnT&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fanastasia-a-27335219b_ai-with-a-structured-brain-llms-are-the-activity-7284766847529336832-8BnT&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fanastasia-a-27335219b_ai-with-a-structured-brain-llms-are-the-activity-7284766847529336832-8BnT&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/ganeshjagadeesan_agenticai-aiagents-memoryinai-activity-7285149439311130624-T98N)
+
+[ ](https://in.linkedin.com/in/ganeshjagadeesan?trk=public_post_feed-actor-image)
+
+[ Ganesh Jagadeesan ](https://in.linkedin.com/in/ganeshjagadeesan?trk=public_post_feed-actor-name)
+
+Enterprise Data Science Specialist @Mastech Digital | NLP | NER | Deep Learning | Gen AI | MLops 
+
+1w 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fganeshjagadeesan_agenticai-aiagents-memoryinai-activity-7285149439311130624-T98N&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+This is such a fantastic explanation of AI Agent Memory—thank you for breaking it down so clearly! 🌟 The way you’ve categorized memory into episodic, semantic, procedural, and short-term/working memory provides a comprehensive framework that aligns beautifully with how intelligent agents manage context and improve over time. 🚀 1️⃣ Episodic Memory: I love how you’ve highlighted its role in capturing past interactions and storing them in a vector database. This approach ensures agents can retrieve historical context efficiently, making interactions more personalized and adaptive. Perfect for applications like customer support or long-term conversational AI. 🧠🔍 2️⃣ Semantic Memory: This type of memory acting as the agent's knowledge base is so crucial. By grounding responses with domain-specific or internal knowledge, agents become far more accurate and reliable, especially in dynamic environments like RAG applications. 🌐📚 3️⃣ Procedural Memory: Your point about defining systemic structures like prompts, tools, and guardrails is spot on. Keeping these elements stored in registries or Git ensures that agents operate consistently while allowing for easy scalability and updates—a must-have for production systems. ⚙️📂 4️⃣ Short-Term/Working Memory: Pulling together relevant long-term memories into context-rich prompts is the cornerstone of enabling agents to respond intelligently. This synthesis ensures agents are not only reactive but also proactive in delivering meaningful actions. 💡✨ The distinction between long-term (episodic, semantic, procedural) and short-term/working memory mirrors human-like cognition beautifully. It highlights how AI agents can mimic natural decision-making processes with the right architecture. Thank you for such an insightful post! This framework makes it easier to design robust, context-aware Agentic AI systems. Excited to see more of your thoughts on implementing these ideas in real-world scenarios! 🙌 [#AgenticAI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fagenticai&trk=public_post-text) [#AIAgents](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faiagents&trk=public_post-text) [#MemoryInAI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmemoryinai&trk=public_post-text) [#LLM](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post-text) [#AIInnovation](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faiinnovation&trk=public_post-text) [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post-text)
+
+[ ](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_reshare_feed-actor-image)
+
+[ Aurimas Griciūnas ](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_reshare_feed-actor-name) Aurimas Griciūnas is an Influencer
+
+Founder & CEO • AI Engineer • Follow me to Learn about AI Systems • Author of SwirlAI Newsletter • Public Speaker 
+
+1w 
+
+A simple way to explain 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁 𝗠𝗲𝗺𝗼𝗿𝘆. In general, the memory for an agent is something that we provide via context in the prompt passed to LLM that helps the agent to better plan and react given past interactions or data not immediately available. It is useful to group the memory into four types: 𝟭. Episodic - This type of memory contains past interactions and actions performed by the agent. After an action is taken, the application controlling the agent would store the action in some kind of persistent storage so that it can be retrieved later if needed. A good example would be using a vector Database to store semantic meaning of the interactions. 𝟮. Semantic - Any external information that is available to the agent and any knowledge the agent should have about itself. You can think of this as a context similar to one used in RAG applications. It can be internal knowledge only available to the agent or a grounding context to isolate part of the internet scale data for more accurate answers. 𝟯. Procedural - This is systemic information like the structure of the System Prompt, available tools, guardrails etc. It will usually be stored in Git, Prompt and Tool Registries. 𝟰. Occasionally, the agent application would pull information from long-term memory and store it locally if it is needed for the task at hand. 𝟱. All of the information pulled together from the long-term or stored in local memory is called short-term or working memory. Compiling all of it into a prompt will produce the prompt to be passed to the LLM and it will provide further actions to be taken by the system. We usually label 1. - 3. as Long-Term memory and 5. as Short-Term memory. A visual explanation of potential implementation details 👇 And that is it! The rest is all about how you architect the flow of your Agentic systems. What do you think about memory in AI Agents? [#LLM](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post_reshare-text) [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post_reshare-text) [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post_reshare-text) ---------- Be sure to ♻️ repost if you found the article useful and follow [Aurimas](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_reshare-text) if you want to get a daily dose of useful AI related content in your feed!
+
+[ 14  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fganeshjagadeesan_agenticai-aiagents-memoryinai-activity-7285149439311130624-T98N&trk=public_post_social-actions-reactions) [ 1 Comment ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fganeshjagadeesan_agenticai-aiagents-memoryinai-activity-7285149439311130624-T98N&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fganeshjagadeesan_agenticai-aiagents-memoryinai-activity-7285149439311130624-T98N&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fganeshjagadeesan_agenticai-aiagents-memoryinai-activity-7285149439311130624-T98N&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fganeshjagadeesan_agenticai-aiagents-memoryinai-activity-7285149439311130624-T98N&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/daniellaufer007_in-an-era-of-generative-ai-and-agentic-systems-activity-7235570730829066240-Whg8)
+
+[ ](https://uk.linkedin.com/in/daniellaufer007?trk=public_post_feed-actor-image)
+
+[ Daniel Laufer ](https://uk.linkedin.com/in/daniellaufer007?trk=public_post_feed-actor-name)
+
+Physicist | Senior Consultant @ EY | NLP and People Data Scientist | Machine Learning and Software Engineer 
+
+4mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdaniellaufer007_in-an-era-of-generative-ai-and-agentic-systems-activity-7235570730829066240-Whg8&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+In an era of generative AI and agentic systems hype, it's important to keep in mind not every problem requires a complex solution to enable an amicable outcome. Thanks [Egor](https://ch.linkedin.com/in/egorkraev?trk=public_post-text) for sharing and the folks at [Motleycrew.ai](https://ch.linkedin.com/company/motleycrew-ai?trk=public_post-text) for the balanced take and great work that you do!
+
+[ ](https://ch.linkedin.com/company/motleycrew-ai?trk=public_post_reshare_feed-actor-image)
+
+[ Motleycrew.ai ](https://ch.linkedin.com/company/motleycrew-ai?trk=public_post_reshare_feed-actor-name)
+
+122 followers 
+
+4mo  Edited 
+
+Do you need a multiagent setup or just an LLM-calling tool? Is your LLM-related task too complex to fit nicely into a single prompt (almost all real-world tasks are)? Is it not linear enough to implement as a simple pipeline (for example, does it need a validate-retry loop, which many real-world tasks do)? Does this mean you have to go multi-agent? This may be the case, but many use cases can be solved with a simpler setup. Namely, you could have a single agent with several tools, some of which would also call an LLM as part of their logic. Each tool would have its own simple, granular prompt, making it much more likely that the LLM will follow it faithfully. In the simplest case, all the tool might need to do is call the LLM. For example, the agent might be writing a story, and the tool could be the critic, making sure the story doesn't sound too much like AI has written it :). The prompt of the tool would then contain all the telltale patterns of AI writing to guard against, and the agent's prompt could focus on the story itself. In such a case, you could use motleycrew's LLM tool ([https://lnkd.in/ednaf6ph](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fednaf6ph&urlhash=NIzH&trk=public_post_reshare-text)) directly, calling its methods to_llamaindex_tool() , to_langchain_tool() , to_autogen_tool() , and to_crewai_tool() to use it in your favorite framework. So as a general rule, when should you use an LLMTool, and when a full agent-as-a-tool? You should use an agent-as-a-tool in two cases: firstly, when it needs a validate-retry loop, like in the example above; secondly, when it needs to make a choice inside itself that needs an LLM, for example which data source to query. For all simpler cases, an LLM-calling tool will do the trick! To learn more about this topic, check out our blog post: [https://lnkd.in/eikxT8qh](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeikxT8qh&urlhash=ZCz4&trk=public_post_reshare-text) [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post_reshare-text) [#MultiAgentSystems](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmultiagentsystems&trk=public_post_reshare-text) [#LLM](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post_reshare-text) [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post_reshare-text) [#motley_ai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2FmotleyAbRai&trk=public_post_reshare-text)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdaniellaufer007_in-an-era-of-generative-ai-and-agentic-systems-activity-7235570730829066240-Whg8&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdaniellaufer007_in-an-era-of-generative-ai-and-agentic-systems-activity-7235570730829066240-Whg8&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdaniellaufer007_in-an-era-of-generative-ai-and-agentic-systems-activity-7235570730829066240-Whg8&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/pbjelland_ai-rag-ner-activity-7238818477006872577-Q5zG)
+
+[ ](https://no.linkedin.com/in/pbjelland?trk=public_post_feed-actor-image)
+
+[ Petter Christian Bjelland ](https://no.linkedin.com/in/pbjelland?trk=public_post_feed-actor-name)
+
+Co-Founder and CTO @ Convier | Investigation Technology 
+
+4mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpbjelland_ai-rag-ner-activity-7238818477006872577-Q5zG&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+You should try adding Named Entity Recognition (NER) to your RAG pipeline: If the text you want to ask AI about is too large for its context window, you need to reduce it by sending only the relevant parts as context for the question. This is where Retrieval-Augmented Generation (RAG) is useful. RAG works by splitting the data into smaller chunks, which are then vectorized using an LLM. A vector is also created for the question, and the n closest vectors/chunks are selected as context. However, the vectors will only be "close" if the words in the text were part of the LLM's training data. This is often not the case for names of people and organizations. You may have noticed that auto-generated captions in videos frequently struggle with names—this is a similar issue LLMs face when dealing with unfamiliar names. Named Entity Recognition (NER), on the other hand, excels at identifying names in text. By indexing the chunks in a regular search engine, you can apply entity recognition to the question, search for the recognized entities, and enrich the RAG context with the found chunks. This combination is powerful, as it allows the LLM to access context about both the subject matter and specific entities in your data. An example on a recent subject: [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#RAG](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frag&trk=public_post-text) [#NER](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fner&trk=public_post-text) [#LLM](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post-text)
+
+…more 
+
+Play Video
+
+Video Player is loading.
+
+Loaded: 0%
+
+PlayBack to start
+
+Stream Type LIVE
+
+Current Time 0:00
+
+/
+
+Duration 0:00
+
+1x
+
+Playback Rate
+
+Show Captions
+
+Mute
+
+Fullscreen
+
+[ 7  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpbjelland_ai-rag-ner-activity-7238818477006872577-Q5zG&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpbjelland_ai-rag-ner-activity-7238818477006872577-Q5zG&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpbjelland_ai-rag-ner-activity-7238818477006872577-Q5zG&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpbjelland_ai-rag-ner-activity-7238818477006872577-Q5zG&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/aengstrand_investigation-rag-ai-activity-7238830416667770882-JDOg)
+
+[ ](https://no.linkedin.com/in/aengstrand?trk=public_post_feed-actor-image)
+
+[ Andreas P. Engstrand ](https://no.linkedin.com/in/aengstrand?trk=public_post_feed-actor-name)
+
+CEO @ Convier | Empowering Financial Crime Investigators to Ask Complex Questions About Customers and Counterparties 
+
+4mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faengstrand_investigation-rag-ai-activity-7238830416667770882-JDOg&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+This is a must-have for any investigation unit out there! 🕵️ I've done a fair share of investigations where I've sifted through tons of documentation to find relevant people, entities, and how they are connected. With Named Entity Recognition (NER), these can be identified immediately, significantly speeding up the investigation process. Whether it's for investigations, due diligence or compliance, NER is a powerful asset for uncovering crucial insights in record time. [#investigation](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Finvestigation&trk=public_post-text) [#RAG](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frag&trk=public_post-text) [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#compliance](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcompliance&trk=public_post-text) [#duediligence](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fduediligence&trk=public_post-text)
+
+[ ](https://no.linkedin.com/in/pbjelland?trk=public_post_reshare_feed-actor-image)
+
+[ Petter Christian Bjelland ](https://no.linkedin.com/in/pbjelland?trk=public_post_reshare_feed-actor-name)
+
+Co-Founder and CTO @ Convier | Investigation Technology 
+
+4mo 
+
+You should try adding Named Entity Recognition (NER) to your RAG pipeline: If the text you want to ask AI about is too large for its context window, you need to reduce it by sending only the relevant parts as context for the question. This is where Retrieval-Augmented Generation (RAG) is useful. RAG works by splitting the data into smaller chunks, which are then vectorized using an LLM. A vector is also created for the question, and the n closest vectors/chunks are selected as context. However, the vectors will only be "close" if the words in the text were part of the LLM's training data. This is often not the case for names of people and organizations. You may have noticed that auto-generated captions in videos frequently struggle with names—this is a similar issue LLMs face when dealing with unfamiliar names. Named Entity Recognition (NER), on the other hand, excels at identifying names in text. By indexing the chunks in a regular search engine, you can apply entity recognition to the question, search for the recognized entities, and enrich the RAG context with the found chunks. This combination is powerful, as it allows the LLM to access context about both the subject matter and specific entities in your data. An example on a recent subject: [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post_reshare-text) [#RAG](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frag&trk=public_post_reshare-text) [#NER](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fner&trk=public_post_reshare-text) [#LLM](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post_reshare-text)
+
+Play Video
+
+Video Player is loading.
+
+Loaded: 0.00%
+
+0:00
+
+PlayBack to start
+
+Stream Type LIVE
+
+Current Time 0:00
+
+/
+
+Duration 0:56
+
+1x
+
+Playback Rate
+
+Show Captions
+
+Mute
+
+Fullscreen
+
+[ 4  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faengstrand_investigation-rag-ai-activity-7238830416667770882-JDOg&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faengstrand_investigation-rag-ai-activity-7238830416667770882-JDOg&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faengstrand_investigation-rag-ai-activity-7238830416667770882-JDOg&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faengstrand_investigation-rag-ai-activity-7238830416667770882-JDOg&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/kamalkalwa_are-your-ai-prompts-falling-flat-dont-be-activity-7247544505464152064-_QAN)
+
+[ ](https://in.linkedin.com/in/kamalkalwa?trk=public_post_feed-actor-image)
+
+[ Kamal Kalwa ](https://in.linkedin.com/in/kamalkalwa?trk=public_post_feed-actor-name)
+
+Creator @Visgen AI | Building agentic infrastructure | IIT BHU 
+
+3mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkamalkalwa_are-your-ai-prompts-falling-flat-dont-be-activity-7247544505464152064-_QAN&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Are your AI prompts falling flat? Dont be lazy while prompting Don’t just rely on zero-shot or few-shot prompting. Use these additional prompting techniques along with zero shot or few shot prompting Chain-of-Thought (CoT) prompting is a great starting point. -Instead of asking for an immediate answer, prompt the LLM to generate a sequence of intermediate reasoning steps. -This method excels in mathematical problems, common sense reasoning, and symbolic logic. -CoT makes the AI’s decision-making process transparent and interpretable. CoT-SC -Generate multiple reasoning paths and select the most consistent answer. -The more paths you explore, the better your results with CoT-SC. Tree-of-Thoughts (ToT) -ToT represents reasoning as a tree, not just a linear chain. -It allows the model to backtrack and explore different reasoning paths. -This leads to more effective problem-solving. -Implementing ToT involves designing programs to guide the AI’s reasoning process. -Recent studies highlight ToT’s power in enhancing AI capabilities. Graph-of-Thoughts (GoT). -The Graph-of-Thoughts (GoT) framework is an advanced progression from CoT and ToT methodologies. -In GoT, ideas are represented as vertices in a Directed Acyclic Graph (DAG). -Each vertex corresponds to a specific thought or solution—preliminary, intermediary, or terminal—elicited by an input. -The directed edges depict the interdependencies among these thoughts. -If an edge extends from thought t₁ to t₂, it signifies that t₂ was conceived based on t₁. -This system allows for a multiplicity of thoughts, as nodes can be classified into distinct categories like “plans” or “outcomes.” Don’t be lazy—craft effective prompts. source: [https://lnkd.in/gpcW42SW](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgpcW42SW&urlhash=Ys3-&trk=public_post-text)
+
+[ 19  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkamalkalwa_are-your-ai-prompts-falling-flat-dont-be-activity-7247544505464152064-_QAN&trk=public_post_social-actions-reactions) [ 1 Comment ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkamalkalwa_are-your-ai-prompts-falling-flat-dont-be-activity-7247544505464152064-_QAN&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkamalkalwa_are-your-ai-prompts-falling-flat-dont-be-activity-7247544505464152064-_QAN&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkamalkalwa_are-your-ai-prompts-falling-flat-dont-be-activity-7247544505464152064-_QAN&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkamalkalwa_are-your-ai-prompts-falling-flat-dont-be-activity-7247544505464152064-_QAN&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/arapp753_r-ai-activity-7284947606135345152-AOzo)
+
+[ ](https://de.linkedin.com/in/arapp753?trk=public_post_feed-actor-image)
+
+[ Dr. Albert Rapp ](https://de.linkedin.com/in/arapp753?trk=public_post_feed-actor-name)
+
+Building data solutions at work, sharing R knowledge after hours. 
+
+1w 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Farapp753_r-ai-activity-7284947606135345152-AOzo&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Combining good old functions with LLMs is pretty powerful. Here's how it works:: 🔹 You write a regular function that does something you need. 🔹 The LLM fills out the function arguments based on the prompt/user interaction. Your function could be something like a parameterized SQL query or an API call. That way, non-programmers could "chat" with a data base: 🔹Users say what data they want. 🔹The LLM extracts the necessary function arguments. 🔹Then the function is executed. 🔹And the function response is wrapped into a nice text output by the LLM. This allows your AI to be ✅ more versatile: Functions can extract data that an LLM might not have access to. ✅ more accurate: Since you can control what happens inside the function, your LLM might be less likely to hallucinate some other stuff. And with the {ellmer} package all of this is really easy to set up too. Tomorrow, my 3-minute newsletter will release a short tutorial about that. If you're curious, you can join 3200+ readers at [https://buff.ly/3PRzat5](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fbuff%2Ely%2F3PRzat5&urlhash=wftf&trk=public_post-text) [#R](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fr&trk=public_post-text) [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text)
+
+[ 29  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Farapp753_r-ai-activity-7284947606135345152-AOzo&trk=public_post_social-actions-reactions) [ 4 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Farapp753_r-ai-activity-7284947606135345152-AOzo&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Farapp753_r-ai-activity-7284947606135345152-AOzo&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Farapp753_r-ai-activity-7284947606135345152-AOzo&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Farapp753_r-ai-activity-7284947606135345152-AOzo&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/hans-kristian-bjerregaard_in-the-last-couple-of-months-i-have-been-activity-7231188915284529152-yakh)
+
+[ ](https://dk.linkedin.com/in/hans-kristian-bjerregaard?trk=public_post_feed-actor-image)
+
+[ Hans-Kristian Bjerregaard ](https://dk.linkedin.com/in/hans-kristian-bjerregaard?trk=public_post_feed-actor-name)
+
+Founder of Clerk.io, Workjoy.co and UpdateMate.ai 
+
+5mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fhans-kristian-bjerregaard_in-the-last-couple-of-months-i-have-been-activity-7231188915284529152-yakh&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+In the last couple of months, I have been pushing LLMs to their limit as AI Agents 🤖 Here is my take on where they compare to humans 👇 💬 Conversational Analysis The art of extracting meaning and insights from unstructured conversations. The comparison is not even fair - AI agents win hands down. An AI Agent can do in a few minutes what would take a human weeks to do. To me, theirs is the most exciting opportunity! 🌟 The most valuable data businesses have is their conversations with their customers and before AI Agents this has not been possible to use. Most of the questions asked in boardrooms and status meetings are answerable by AI Agents in minutes 😉 📊 Single-step reasoning Simple tasks that can be done in a single iteration over some data. Eg takes this data and count how many of each type there are. Or compute the average of these values. Here AI Agents are on par with humans in capability but win by being able to do things faster, cheaper and on a deadline with minute accuracy. This is fine for simple reporting but now a thing we humans are impressed by 😉 🧠 Multi-step reasoning These are the tasks that require several iterations over the same data. Eg makes a table of each customer, sorted by signup date but filter out X, Y, and Z. Here humans still win. These are on the very edge of what the current LLMs can do. You can make them do much it but it requires multiple iterations of “prompt engineering” where you feel like “Why don't you get it!”. Until you find the variation of your prompt that magically works. The great thing is that this is the most active topic within LLM research at the moment and judging by the amount of papers on the topic we are going to see real breakthroughs here in the next 6-12 months 🚀 So humans still have some edge but interestingly it is less and less in our capability to do reasoning and more and more because data systems have been built for humans than machines (there are some numbers available on dashboards but not in APIs). But I think this is a great future where we get to do less tedious reporting and more of the work we love ❤️ 😄 [Hans-Kristian](https://dk.linkedin.com/in/hans-kristian-bjerregaard?trk=public_post-text) [UpdateMate.ai](https://www.linkedin.com/company/updatemate-ai?trk=public_post-text)
+
+[ 24  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fhans-kristian-bjerregaard_in-the-last-couple-of-months-i-have-been-activity-7231188915284529152-yakh&trk=public_post_social-actions-reactions) [ 4 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fhans-kristian-bjerregaard_in-the-last-couple-of-months-i-have-been-activity-7231188915284529152-yakh&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fhans-kristian-bjerregaard_in-the-last-couple-of-months-i-have-been-activity-7231188915284529152-yakh&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fhans-kristian-bjerregaard_in-the-last-couple-of-months-i-have-been-activity-7231188915284529152-yakh&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fhans-kristian-bjerregaard_in-the-last-couple-of-months-i-have-been-activity-7231188915284529152-yakh&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/kumarvarsani_four-findings-from-the-first-4-months-of-activity-7245318825150234625-m39b)
+
+[ ](https://www.linkedin.com/in/kumarvarsani?trk=public_post_feed-actor-image)
+
+[ Kumar Varsani ](https://www.linkedin.com/in/kumarvarsani?trk=public_post_feed-actor-name)
+
+Founder & CEO 
+
+3mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkumarvarsani_four-findings-from-the-first-4-months-of-activity-7245318825150234625-m39b&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Four findings from the first 4 months of Accessible AI. A summary of benefits for our clients. 1️⃣ Saving time is the primary purpose. Analysing documents and coding are the main use cases, at least in financial services. The time and cost savings are meaningful. 2️⃣ Users are achieving much more. Prompting increases the scope of what can be achieved. For instance, analysts may research a lot more options given no need to code. 3️⃣ Data security is not an issue. Data need not be shared. This means putting OpenAI and Anthropic models into production alongside open-source for specialised tasks. 4️⃣ Linking models brings big benefits. More advanced clients are connecting agents. This enables complete processes to be automated and AI models to trigger actions. For example: ▪ Missing data may be retrieved from alternative sources, the master database updated and a message sequence initiated. ▪ Models may cross check claims and analysis from documents and research. We also find that in every industry there are many firms who are still deciding where to start. That’s why we continue to offer a free consultation with zero obligation. [https://lnkd.in/deW-8eXy](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdeW-8eXy&urlhash=uS9S&trk=public_post-text)?
+
+    * ![Kumar Varsani stands arms folded at the front of a large office space in a blue suit.](https://media.licdn.com/dms/image/v2/D4D22AQFWySNNfryofw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727369983740?e=2147483647&v=beta&t=fUJyHaNWQFyXN_RzzHR6S4iGJWyLt5oWtpj-ByVEwUI)
+
+[ ![](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) ![](https://static.licdn.com/aero-v1/sc/h/cyfai5zw4nrqhyyhl0p7so58v) 75  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkumarvarsani_four-findings-from-the-first-4-months-of-activity-7245318825150234625-m39b&trk=public_post_social-actions-reactions) [ 4 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkumarvarsani_four-findings-from-the-first-4-months-of-activity-7245318825150234625-m39b&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkumarvarsani_four-findings-from-the-first-4-months-of-activity-7245318825150234625-m39b&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkumarvarsani_four-findings-from-the-first-4-months-of-activity-7245318825150234625-m39b&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkumarvarsani_four-findings-from-the-first-4-months-of-activity-7245318825150234625-m39b&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/altana-ai_in-the-ai-era-data-is-gold-and-these-companies-activity-7213904270419460097-kAWR)
+
+[ ![View organization page for Altana, graphic](https://media.licdn.com/dms/image/v2/C560BAQGmTXLPNqSBow/company-logo_100_100/company-logo_100_100/0/1631659746156/altana_ai_logo?e=2147483647&v=beta&t=CfquY3nsC1UrD2awdlcU2XD1OOdPcO2nClXG3oZ-BGQ) ](https://www.linkedin.com/company/altana-ai?trk=public_post_feed-actor-image)
+
+[ Altana ](https://www.linkedin.com/company/altana-ai?trk=public_post_feed-actor-name)
+
+32,441 followers 
+
+6mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faltana-ai_in-the-ai-era-data-is-gold-and-these-companies-activity-7213904270419460097-kAWR&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Insights and recommendations are only as strong as their underlying data. [Peter Swartz](https://www.linkedin.com/in/pgswartz?trk=public_post-text) shared insight on how we use [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) based on a shared source of truth for the world's first value chain management system in this recent [Fast Company](https://www.linkedin.com/company/fast-company?trk=public_post-text) article. Read here: [https://lnkd.in/eYyns8Ze](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeYyns8Ze&urlhash=plSI&trk=public_post-text)
+
+[ ![In the AI era, data is gold. And these companies are striking it rich](https://media.licdn.com/dms/image/sync/v2/D4E27AQHgse638mCA1Q/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1719829153775?e=2147483647&v=beta&t=yKMXPdK-JZMvgKjSVRQ7qWdTrJ8AQwwrVUys87qgU7I) In the AI era, data is gold. And these companies are striking it rich  fastcompany.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Efastcompany%2Ecom%2F91148997%2Fdata-is-gold-in-ai-era&urlhash=8HGk&trk=public_post_feed-article-content)
+
+[ ![](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) ![](https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu) ![](https://static.licdn.com/aero-v1/sc/h/2tzoeodxy0zug4455msr0oq0v) 52  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faltana-ai_in-the-ai-era-data-is-gold-and-these-companies-activity-7213904270419460097-kAWR&trk=public_post_social-actions-reactions) [ 1 Comment ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faltana-ai_in-the-ai-era-data-is-gold-and-these-companies-activity-7213904270419460097-kAWR&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faltana-ai_in-the-ai-era-data-is-gold-and-these-companies-activity-7213904270419460097-kAWR&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faltana-ai_in-the-ai-era-data-is-gold-and-these-companies-activity-7213904270419460097-kAWR&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faltana-ai_in-the-ai-era-data-is-gold-and-these-companies-activity-7213904270419460097-kAWR&trk=public_post_feed-cta-banner-cta)
+
+
+
+
+![](https://media.licdn.com/dms/image/v2/D4D16AQFuRQIEnPn1Jg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1734371745230?e=2147483647&v=beta&t=7sts8SKLv7EPydLH-2Cl-MC2iCldgkwoh6x5T7ng_TE)
+
+![Aurimas Griciūnas](https://media.licdn.com/dms/image/v2/D4E03AQGWyJFe1ARjQA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1681811564035?e=2147483647&v=beta&t=F1GpeRIemrVo7AihPFg0qSQ90ViurfKn6z0yjNP7z3o)
+
+129,424 followers 
+
+  * [ 649 Posts ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Faurimas-griciunas%2Frecent-activity%2F&trk=public_post_follow-posts)
+
+
+
+[ View Profile ](https://lt.linkedin.com/in/aurimas-griciunas?trk=public_post_follow-view-profile) [ Follow ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A7284520203705610240&trk=public_post_follow)
+
+##  Explore topics 
+
+  * [ Sales ](https://www.linkedin.com/pulse/topics/sales-s5/)
+  * [ Marketing ](https://www.linkedin.com/pulse/topics/marketing-s2461/)
+  * [ IT Services ](https://www.linkedin.com/pulse/topics/it-services-s57547/)
+  * [ Business Administration ](https://www.linkedin.com/pulse/topics/business-administration-s50111/)
+  * [ HR Management ](https://www.linkedin.com/pulse/topics/hr-management-s50359/)
+  * [ Engineering ](https://www.linkedin.com/pulse/topics/engineering-s166/)
+  * [ Soft Skills ](https://www.linkedin.com/pulse/topics/soft-skills-s2976/)
+  * [ See All ](https://www.linkedin.com/pulse/topics/home/)
+
+
+
+  * LinkedIn © 2025
+  * [ About ](https://about.linkedin.com?trk=d_public_post_footer-about)
+  * [ Accessibility ](https://www.linkedin.com/accessibility?trk=d_public_post_footer-accessibility)
+  * [ User Agreement ](https://www.linkedin.com/legal/user-agreement?trk=d_public_post_footer-user-agreement)
+  * [ Privacy Policy ](https://www.linkedin.com/legal/privacy-policy?trk=d_public_post_footer-privacy-policy)
+  * [ Cookie Policy ](https://www.linkedin.com/legal/cookie-policy?trk=d_public_post_footer-cookie-policy)
+  * [ Copyright Policy ](https://www.linkedin.com/legal/copyright-policy?trk=d_public_post_footer-copyright-policy)
+  * [ Brand Policy ](https://brand.linkedin.com/policies?trk=d_public_post_footer-brand-policy)
+  * [ Guest Controls ](https://www.linkedin.com/psettings/guest-controls?trk=d_public_post_footer-guest-controls)
+  * [ Community Guidelines ](https://www.linkedin.com/legal/professional-community-policies?trk=d_public_post_footer-community-guide)
+  *     * العربية (Arabic) 
+    * বাংলা (Bangla) 
+    * Čeština (Czech) 
+    * Dansk (Danish) 
+    * Deutsch (German) 
+    * Ελληνικά (Greek) 
+    * **English (English)**
+    * Español (Spanish) 
+    * فارسی (Persian) 
+    * Suomi (Finnish) 
+    * Français (French) 
+    * हिंदी (Hindi) 
+    * Magyar (Hungarian) 
+    * Bahasa Indonesia (Indonesian) 
+    * Italiano (Italian) 
+    * עברית (Hebrew) 
+    * 日本語 (Japanese) 
+    * 한국어 (Korean) 
+    * मराठी (Marathi) 
+    * Bahasa Malaysia (Malay) 
+    * Nederlands (Dutch) 
+    * Norsk (Norwegian) 
+    * ਪੰਜਾਬੀ (Punjabi) 
+    * Polski (Polish) 
+    * Português (Portuguese) 
+    * Română (Romanian) 
+    * Русский (Russian) 
+    * Svenska (Swedish) 
+    * తెలుగు (Telugu) 
+    * ภาษาไทย (Thai) 
+    * Tagalog (Tagalog) 
+    * Türkçe (Turkish) 
+    * Українська (Ukrainian) 
+    * Tiếng Việt (Vietnamese) 
+    * 简体中文 (Chinese (Simplified)) 
+    * 正體中文 (Chinese (Traditional)) 
+Language 
+
+
+
+
+LinkedIn 
+
+Never miss a beat on the app 
+
+Don’t have the app? Get it in the Microsoft Store. 
+
+[ Open the app ](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell_post2)
+
+![](https://static.licdn.com/aero-v1/sc/h/5k9cgtx8rhoyqkcxfoncu1svl)
+
+##  Sign in to view more content 
+
+Create your free account or sign in to continue your search 
+
+Sign in 
+
+##  Welcome back 
+
+Email or phone 
+
+Password 
+
+Show
+
+[Forgot password?](https://www.linkedin.com/uas/request-password-reset?trk=public_post_contextual-sign-in-modal_sign-in-modal_forgot_password) Sign in 
+
+or 
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy). 
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_contextual-sign-in-modal_sign-in-modal_join-link)
+
+or 
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj&trk=public_post_contextual-sign-in-modal_join-link)
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy). 

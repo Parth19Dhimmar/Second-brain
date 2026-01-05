@@ -1,0 +1,31 @@
+{
+    "id": "18c5a53e6f4ea38e5c07324f4f6c0de4",
+    "metadata": {
+        "id": "18c5a53e6f4ea38e5c07324f4f6c0de4",
+        "url": "https://www.notion.so/Multi-GPU-Distributed-Training-18c5a53e6f4ea38e5c07324f4f6c0de4",
+        "title": "Multi-GPU / Distributed Training",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "87d87e8ccc8ffdf48ed25dc1aeb9cfec",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n\t[https://openai.com/index/techniques-for-training-large-neural-networks/](https://openai.com/index/techniques-for-training-large-neural-networks/)\n\n# Resources [Science]\n\n\t# DeepSpeed\n\t\n\t[https://arxiv.org/abs/2104.07857](https://arxiv.org/abs/2104.07857)\n\t[https://arxiv.org/abs/2101.06840](https://arxiv.org/abs/2101.06840)\n\t[https://arxiv.org/abs/1910.02054](https://arxiv.org/abs/1910.02054)\n\n# Tools\n\n\t[https://pytorch.org/tutorials/intermediate/FSDP_tutorial.html](https://pytorch.org/tutorials/intermediate/FSDP_tutorial.html)\n\t[Link Preview](https://github.com/pytorch/PiPPy)\n\t\n\t[Link Preview](https://github.com/microsoft/DeepSpeed)\n\t[Link Preview](https://github.com/huggingface/accelerate)\n\t[Link Preview](https://github.com/NVIDIA/Megatron-LM)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://github.com/huggingface/accelerate/",
+        "https://pytorch.org/tutorials/intermediate/FSDP_tutorial.html/",
+        "https://arxiv.org/abs/1910.02054/",
+        "https://github.com/microsoft/DeepSpeed/",
+        "https://arxiv.org/abs/2104.07857/",
+        "https://github.com/pytorch/PiPPy/",
+        "https://arxiv.org/abs/2101.06840/",
+        "https://openai.com/index/techniques-for-training-large-neural-networks/",
+        "https://github.com/NVIDIA/Megatron-LM/"
+    ]
+}

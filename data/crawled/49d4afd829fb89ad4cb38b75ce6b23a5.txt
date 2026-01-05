@@ -1,0 +1,547 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fskypilot-org%2Fskypilot%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fskypilot-org%2Fskypilot%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=skypilot-org%2Fskypilot) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ skypilot-org ](/skypilot-org) / **[skypilot](/skypilot-org/skypilot) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fskypilot-org%2Fskypilot) You must be signed in to change notification settings
+  * [ Fork 549 ](/login?return_to=%2Fskypilot-org%2Fskypilot)
+  * [ Star  7.1k ](/login?return_to=%2Fskypilot-org%2Fskypilot)
+
+
+
+
+SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface. 
+
+[docs.skypilot.co/](https://docs.skypilot.co/ "https://docs.skypilot.co/")
+
+### License
+
+[ Apache-2.0 license ](/skypilot-org/skypilot/blob/master/LICENSE)
+
+[ 7.1k stars ](/skypilot-org/skypilot/stargazers) [ 549 forks ](/skypilot-org/skypilot/forks) [ Branches ](/skypilot-org/skypilot/branches) [ Tags ](/skypilot-org/skypilot/tags) [ Activity ](/skypilot-org/skypilot/activity)
+
+[ Star  ](/login?return_to=%2Fskypilot-org%2Fskypilot)
+
+[ Notifications ](/login?return_to=%2Fskypilot-org%2Fskypilot) You must be signed in to change notification settings
+
+  * [ Code ](/skypilot-org/skypilot)
+  * [ Issues 288 ](/skypilot-org/skypilot/issues)
+  * [ Pull requests 73 ](/skypilot-org/skypilot/pulls)
+  * [ Discussions ](/skypilot-org/skypilot/discussions)
+  * [ Actions ](/skypilot-org/skypilot/actions)
+  * [ Security ](/skypilot-org/skypilot/security)
+  * [ Insights ](/skypilot-org/skypilot/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/skypilot-org/skypilot)
+  * [ Issues  ](/skypilot-org/skypilot/issues)
+  * [ Pull requests  ](/skypilot-org/skypilot/pulls)
+  * [ Discussions  ](/skypilot-org/skypilot/discussions)
+  * [ Actions  ](/skypilot-org/skypilot/actions)
+  * [ Security  ](/skypilot-org/skypilot/security)
+  * [ Insights  ](/skypilot-org/skypilot/pulse)
+
+
+
+# skypilot-org/skypilot
+
+master
+
+[**224** Branches](/skypilot-org/skypilot/branches)[**22** Tags](/skypilot-org/skypilot/tags)
+
+[](/skypilot-org/skypilot/branches)[](/skypilot-org/skypilot/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+## History
+
+[2,245 Commits](/skypilot-org/skypilot/commits/master/)[](/skypilot-org/skypilot/commits/master/)  
+[.buildkite](/skypilot-org/skypilot/tree/master/.buildkite ".buildkite")| [.buildkite](/skypilot-org/skypilot/tree/master/.buildkite ".buildkite")  
+[.github](/skypilot-org/skypilot/tree/master/.github ".github")| [.github](/skypilot-org/skypilot/tree/master/.github ".github")  
+[docs](/skypilot-org/skypilot/tree/master/docs "docs")| [docs](/skypilot-org/skypilot/tree/master/docs "docs")  
+[examples](/skypilot-org/skypilot/tree/master/examples "examples")| [examples](/skypilot-org/skypilot/tree/master/examples "examples")  
+[llm](/skypilot-org/skypilot/tree/master/llm "llm")| [llm](/skypilot-org/skypilot/tree/master/llm "llm")  
+[sky](/skypilot-org/skypilot/tree/master/sky "sky")| [sky](/skypilot-org/skypilot/tree/master/sky "sky")  
+[tests](/skypilot-org/skypilot/tree/master/tests "tests")| [tests](/skypilot-org/skypilot/tree/master/tests "tests")  
+[.dockerignore](/skypilot-org/skypilot/blob/master/.dockerignore ".dockerignore")| [.dockerignore](/skypilot-org/skypilot/blob/master/.dockerignore ".dockerignore")  
+[.gitignore](/skypilot-org/skypilot/blob/master/.gitignore ".gitignore")| [.gitignore](/skypilot-org/skypilot/blob/master/.gitignore ".gitignore")  
+[.pre-commit-config.yaml](/skypilot-org/skypilot/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/skypilot-org/skypilot/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")  
+[.pylintrc](/skypilot-org/skypilot/blob/master/.pylintrc ".pylintrc")| [.pylintrc](/skypilot-org/skypilot/blob/master/.pylintrc ".pylintrc")  
+[.readthedocs.yml](/skypilot-org/skypilot/blob/master/.readthedocs.yml ".readthedocs.yml")| [.readthedocs.yml](/skypilot-org/skypilot/blob/master/.readthedocs.yml ".readthedocs.yml")  
+[CONTRIBUTING.md](/skypilot-org/skypilot/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/skypilot-org/skypilot/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")  
+[Dockerfile](/skypilot-org/skypilot/blob/master/Dockerfile "Dockerfile")| [Dockerfile](/skypilot-org/skypilot/blob/master/Dockerfile "Dockerfile")  
+[Dockerfile_k8s](/skypilot-org/skypilot/blob/master/Dockerfile_k8s "Dockerfile_k8s")| [Dockerfile_k8s](/skypilot-org/skypilot/blob/master/Dockerfile_k8s "Dockerfile_k8s")  
+[Dockerfile_k8s_gpu](/skypilot-org/skypilot/blob/master/Dockerfile_k8s_gpu "Dockerfile_k8s_gpu")| [Dockerfile_k8s_gpu](/skypilot-org/skypilot/blob/master/Dockerfile_k8s_gpu "Dockerfile_k8s_gpu")  
+[LICENSE](/skypilot-org/skypilot/blob/master/LICENSE "LICENSE")| [LICENSE](/skypilot-org/skypilot/blob/master/LICENSE "LICENSE")  
+[MANIFEST.in](/skypilot-org/skypilot/blob/master/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](/skypilot-org/skypilot/blob/master/MANIFEST.in "MANIFEST.in")  
+[README.md](/skypilot-org/skypilot/blob/master/README.md "README.md")| [README.md](/skypilot-org/skypilot/blob/master/README.md "README.md")  
+[format.sh](/skypilot-org/skypilot/blob/master/format.sh "format.sh")| [format.sh](/skypilot-org/skypilot/blob/master/format.sh "format.sh")  
+[pyproject.toml](/skypilot-org/skypilot/blob/master/pyproject.toml "pyproject.toml")| [pyproject.toml](/skypilot-org/skypilot/blob/master/pyproject.toml "pyproject.toml")  
+[requirements-dev.txt](/skypilot-org/skypilot/blob/master/requirements-dev.txt "requirements-dev.txt")| [requirements-dev.txt](/skypilot-org/skypilot/blob/master/requirements-dev.txt "requirements-dev.txt")  
+[setup.py](/skypilot-org/skypilot/blob/master/setup.py "setup.py")| [setup.py](/skypilot-org/skypilot/blob/master/setup.py "setup.py")  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Apache-2.0 license](#)
+
+
+
+![SkyPilot](https://raw.githubusercontent.com/skypilot-org/skypilot/master/docs/source/images/skypilot-wide-light-1k.png)
+
+[ ![Documentation](https://camo.githubusercontent.com/6b129dff9bc4043a5af435c068d9977a8ea18006801867625115a6ba44bf6ca6/68747470733a2f2f72656164746865646f63732e6f72672f70726f6a656374732f736b7970696c6f742f62616467652f3f76657273696f6e3d6c6174657374) ](https://docs.skypilot.co/) [ ![GitHub Release](https://camo.githubusercontent.com/3079878cbf05d72a66a70dca034848558664afbe8543d1358b4b0f641ba667ad/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f736b7970696c6f742d6f72672f736b7970696c6f742e737667) ](https://github.com/skypilot-org/skypilot/releases) [ ![Join Slack](https://camo.githubusercontent.com/0076be499cd4300718c384a115096b51fe7cdf3870f6271d3224ce7aa4e55dcb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536b7950696c6f742d4a6f696e253230536c61636b2d626c75653f6c6f676f3d736c61636b) ](http://slack.skypilot.co)
+
+###  Run AI on Any Infra — Unified, Faster, Cheaper 
+
+[](#----run-ai-on-any-infra--unified-faster-cheaper)
+
+🔥 _News_ 🔥
+
+  * [Oct 2024] 🎉 **SkyPilot crossed 1M+ downloads** 🎉: Thank you to our community! [**Twitter/X**](https://x.com/skypilot_org/status/1844770841718067638)
+  * [Sep 2024] Point, Launch and Serve **Llama 3.2** on Kubernetes or Any Cloud: [**example**](/skypilot-org/skypilot/blob/master/llm/llama-3_2)
+  * [Sep 2024] Run and deploy [**Pixtral**](/skypilot-org/skypilot/blob/master/llm/pixtral), the first open-source multimodal model from Mistral AI.
+  * [Jun 2024] Reproduce **GPT** with [llm.c](https://github.com/karpathy/llm.c/discussions/481) on any cloud: [**guide**](/skypilot-org/skypilot/blob/master/llm/gpt-2)
+  * [Apr 2024] Serve [**Qwen-110B**](https://qwenlm.github.io/blog/qwen1.5-110b/) on your infra: [**example**](/skypilot-org/skypilot/blob/master/llm/qwen)
+  * [Apr 2024] Using [**Ollama**](https://github.com/ollama/ollama) to deploy quantized LLMs on CPUs and GPUs: [**example**](/skypilot-org/skypilot/blob/master/llm/ollama)
+  * [Feb 2024] Deploying and scaling [**Gemma**](https://blog.google/technology/developers/gemma-open-models/) with SkyServe: [**example**](/skypilot-org/skypilot/blob/master/llm/gemma)
+  * [Feb 2024] Serving [**Code Llama 70B**](https://ai.meta.com/blog/code-llama-large-language-model-coding/) with vLLM and SkyServe: [**example**](/skypilot-org/skypilot/blob/master/llm/codellama)
+  * [Dec 2023] [**Mixtral 8x7B**](https://mistral.ai/news/mixtral-of-experts/), a high quality sparse mixture-of-experts model, was released by Mistral AI! Deploy via SkyPilot on any cloud: [**example**](/skypilot-org/skypilot/blob/master/llm/mixtral)
+  * [Nov 2023] Using [**Axolotl**](https://github.com/OpenAccess-AI-Collective/axolotl) to finetune Mistral 7B on the cloud (on-demand and spot): [**example**](/skypilot-org/skypilot/blob/master/llm/axolotl)
+
+
+
+**LLM Finetuning Cookbooks** : Finetuning Llama 2 / Llama 3.1 in your own cloud environment, privately: Llama 2 [**example**](/skypilot-org/skypilot/blob/master/llm/vicuna-llama-2) and [**blog**](https://blog.skypilot.co/finetuning-llama2-operational-guide/); Llama 3.1 [**example**](/skypilot-org/skypilot/blob/master/llm/llama-3_1-finetuning) and [**blog**](https://blog.skypilot.co/finetune-llama-3_1-on-your-infra/)
+
+Archived
+
+  * [Jul 2024] [**Finetune**](/skypilot-org/skypilot/blob/master/llm/llama-3_1-finetuning) and [**serve**](/skypilot-org/skypilot/blob/master/llm/llama-3_1) **Llama 3.1** on your infra
+  * [Apr 2024] Serve and finetune [**Llama 3**](https://docs.skypilot.co/en/latest/gallery/llms/llama-3.html) on any cloud or Kubernetes: [**example**](/skypilot-org/skypilot/blob/master/llm/llama-3)
+  * [Mar 2024] Serve and deploy [**Databricks DBRX**](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm) on your infra: [**example**](/skypilot-org/skypilot/blob/master/llm/dbrx)
+  * [Feb 2024] Speed up your LLM deployments with [**SGLang**](https://github.com/sgl-project/sglang) for 5x throughput on SkyServe: [**example**](/skypilot-org/skypilot/blob/master/llm/sglang)
+  * [Dec 2023] Using [**LoRAX**](https://github.com/predibase/lorax) to serve 1000s of finetuned LLMs on a single instance in the cloud: [**example**](/skypilot-org/skypilot/blob/master/llm/lorax)
+  * [Sep 2023] [**Mistral 7B**](https://mistral.ai/news/announcing-mistral-7b/), a high-quality open LLM, was released! Deploy via SkyPilot on any cloud: [**Mistral docs**](https://docs.mistral.ai/self-deployment/skypilot)
+  * [Sep 2023] Case study: [**Covariant**](https://covariant.ai/) transformed AI development on the cloud using SkyPilot, delivering models 4x faster cost-effectively: [**read the case study**](https://blog.skypilot.co/covariant/)
+  * [Jul 2023] Self-Hosted **Llama-2 Chatbot** on Any Cloud: [**example**](/skypilot-org/skypilot/blob/master/llm/llama-2)
+  * [Jun 2023] Serving LLM 24x Faster On the Cloud [**with vLLM**](https://vllm.ai/) and SkyPilot: [**example**](/skypilot-org/skypilot/blob/master/llm/vllm), [**blog post**](https://blog.skypilot.co/serving-llm-24x-faster-on-the-cloud-with-vllm-and-skypilot/)
+  * [Apr 2023] [SkyPilot YAMLs](/skypilot-org/skypilot/blob/master/llm/vicuna) for finetuning & serving the [Vicuna LLM](https://lmsys.org/blog/2023-03-30-vicuna/) with a single command!
+
+
+
+SkyPilot is a framework for running AI and batch workloads on any infra, offering unified execution, high cost savings, and high GPU availability.
+
+SkyPilot **abstracts away infra burdens** :
+
+  * Launch [dev clusters](https://docs.skypilot.co/en/latest/examples/interactive-development.html), [jobs](https://docs.skypilot.co/en/latest/examples/managed-jobs.html), and [serving](https://docs.skypilot.co/en/latest/serving/sky-serve.html) on any infra
+  * Easy job management: queue, run, and auto-recover many jobs
+
+
+
+SkyPilot **supports multiple clusters, clouds, and hardware** ([the Sky](https://arxiv.org/abs/2205.07147)):
+
+  * Bring your reserved GPUs, Kubernetes clusters, or 12+ clouds
+  * [Flexible provisioning](https://docs.skypilot.co/en/latest/examples/auto-failover.html) of GPUs, TPUs, CPUs, with auto-retry
+
+
+
+SkyPilot **cuts your cloud costs & maximizes GPU availability**:
+
+  * [Autostop](https://docs.skypilot.co/en/latest/reference/auto-stop.html): automatic cleanup of idle resources
+  * [Managed Spot](https://docs.skypilot.co/en/latest/examples/managed-jobs.html): 3-6x cost savings using spot instances, with preemption auto-recovery
+  * [Optimizer](https://docs.skypilot.co/en/latest/examples/auto-failover.html): 2x cost savings by auto-picking the cheapest & most available infra
+
+
+
+SkyPilot supports your existing GPU, TPU, and CPU workloads, with no code changes.
+
+Install with pip:
+
+```
+# Choose your clouds: pip install -U "skypilot[kubernetes,aws,gcp,azure,oci,lambda,runpod,fluidstack,paperspace,cudo,ibm,scp]"
+```
+
+To get the latest features and fixes, use the nightly build or [install from source](https://docs.skypilot.co/en/latest/getting-started/installation.html):
+
+```
+# Choose your clouds: pip install "skypilot-nightly[kubernetes,aws,gcp,azure,oci,lambda,runpod,fluidstack,paperspace,cudo,ibm,scp]"
+```
+
+[Current supported infra](https://docs.skypilot.co/en/latest/getting-started/installation.html) (Kubernetes; AWS, GCP, Azure, OCI, Lambda Cloud, Fluidstack, RunPod, Cudo, Paperspace, Cloudflare, Samsung, IBM, VMware vSphere):
+
+![SkyPilot](https://raw.githubusercontent.com/skypilot-org/skypilot/master/docs/source/images/cloud-logos-light.png)
+
+## Getting Started
+
+[](#getting-started)
+
+You can find our documentation [here](https://docs.skypilot.co/).
+
+  * [Installation](https://docs.skypilot.co/en/latest/getting-started/installation.html)
+  * [Quickstart](https://docs.skypilot.co/en/latest/getting-started/quickstart.html)
+  * [CLI reference](https://docs.skypilot.co/en/latest/reference/cli.html)
+
+
+
+## SkyPilot in 1 Minute
+
+[](#skypilot-in-1-minute)
+
+A SkyPilot task specifies: resource requirements, data to be synced, setup commands, and the task commands.
+
+Once written in this [**unified interface**](https://docs.skypilot.co/en/latest/reference/yaml-spec.html) (YAML or Python API), the task can be launched on any available cloud. This avoids vendor lock-in, and allows easily moving jobs to a different provider.
+
+Paste the following into a file `my_task.yaml`:
+
+```
+resources: accelerators: A100:8 # 8x NVIDIA A100 GPU num_nodes: 1 # Number of VMs to launch # Working directory (optional) containing the project codebase. # Its contents are synced to ~/sky_workdir/ on the cluster. workdir: ~/torch_examples # Commands to be run before executing the job. # Typical use: pip install -r requirements.txt, git clone, etc. setup: | pip install "torch<2.2" torchvision --index-url https://download.pytorch.org/whl/cu121 # Commands to run as a job. # Typical use: launch the main program. run: | cd mnist python main.py --epochs 1
+```
+
+Prepare the workdir by cloning:
+
+```
+git clone https://github.com/pytorch/examples.git ~/torch_examples
+```
+
+Launch with `sky launch` (note: [access to GPU instances](https://docs.skypilot.co/en/latest/cloud-setup/quota.html) is needed for this example):
+
+```
+sky launch my_task.yaml
+```
+
+SkyPilot then performs the heavy-lifting for you, including:
+
+  1. Find the lowest priced VM instance type across different clouds
+  2. Provision the VM, with auto-failover if the cloud returned capacity errors
+  3. Sync the local `workdir` to the VM
+  4. Run the task's `setup` commands to prepare the VM for running the task
+  5. Run the task's `run` commands
+
+
+
+[![SkyPilot Demo](https://camo.githubusercontent.com/7944d64c20f1bf29154c928b547f0f2b5b70374f3ad46036c414f890bbcb9b61/68747470733a2f2f692e696d6775722e636f6d2f5467616d7a5a322e676966)](https://camo.githubusercontent.com/7944d64c20f1bf29154c928b547f0f2b5b70374f3ad46036c414f890bbcb9b61/68747470733a2f2f692e696d6775722e636f6d2f5467616d7a5a322e676966) [ ![SkyPilot Demo](https://camo.githubusercontent.com/7944d64c20f1bf29154c928b547f0f2b5b70374f3ad46036c414f890bbcb9b61/68747470733a2f2f692e696d6775722e636f6d2f5467616d7a5a322e676966) ](https://camo.githubusercontent.com/7944d64c20f1bf29154c928b547f0f2b5b70374f3ad46036c414f890bbcb9b61/68747470733a2f2f692e696d6775722e636f6d2f5467616d7a5a322e676966) [ ](https://camo.githubusercontent.com/7944d64c20f1bf29154c928b547f0f2b5b70374f3ad46036c414f890bbcb9b61/68747470733a2f2f692e696d6775722e636f6d2f5467616d7a5a322e676966)
+
+Refer to [Quickstart](https://docs.skypilot.co/en/latest/getting-started/quickstart.html) to get started with SkyPilot.
+
+## More Information
+
+[](#more-information)
+
+To learn more, see [Concept: Sky Computing](https://docs.skypilot.co/en/latest/sky-computing.html), [SkyPilot docs](https://docs.skypilot.co/en/latest/), and [SkyPilot blog](https://blog.skypilot.co/).
+
+Runnable examples:
+
+  * [**AI Gallery**](https://docs.skypilot.co/en/latest/gallery/index.html)
+  * LLMs on SkyPilot 
+    * [Llama 3.2: lightweight and vision models](/skypilot-org/skypilot/blob/master/llm/llama-3_2)
+    * [Pixtral](/skypilot-org/skypilot/blob/master/llm/pixtral)
+    * [Llama 3.1 finetuning](/skypilot-org/skypilot/blob/master/llm/llama-3_1-finetuning) and [serving](/skypilot-org/skypilot/blob/master/llm/llama-3_1)
+    * [GPT-2 via `llm.c`](/skypilot-org/skypilot/blob/master/llm/gpt-2)
+    * [Llama 3](/skypilot-org/skypilot/blob/master/llm/llama-3)
+    * [Qwen](/skypilot-org/skypilot/blob/master/llm/qwen)
+    * [Databricks DBRX](/skypilot-org/skypilot/blob/master/llm/dbrx)
+    * [Gemma](/skypilot-org/skypilot/blob/master/llm/gemma)
+    * [Mixtral 8x7B](/skypilot-org/skypilot/blob/master/llm/mixtral); [Mistral 7B](https://docs.mistral.ai/self-deployment/skypilot/) (from official Mistral team)
+    * [Code Llama](/skypilot-org/skypilot/blob/master/llm/codellama)
+    * [vLLM: Serving LLM 24x Faster On the Cloud](/skypilot-org/skypilot/blob/master/llm/vllm) (from official vLLM team)
+    * [SGLang: Fast and Expressive LLM Serving On the Cloud](/skypilot-org/skypilot/blob/master/llm/sglang) (from official SGLang team)
+    * [Vicuna chatbots: Training & Serving](/skypilot-org/skypilot/blob/master/llm/vicuna) (from official Vicuna team)
+    * [Train your own Vicuna on Llama-2](/skypilot-org/skypilot/blob/master/llm/vicuna-llama-2)
+    * [Self-Hosted Llama-2 Chatbot](/skypilot-org/skypilot/blob/master/llm/llama-2)
+    * [Ollama: Quantized LLMs on CPUs](/skypilot-org/skypilot/blob/master/llm/ollama)
+    * [LoRAX](/skypilot-org/skypilot/blob/master/llm/lorax)
+    * [QLoRA](https://github.com/artidoro/qlora/pull/132)
+    * [LLaMA-LoRA-Tuner](https://github.com/zetavg/LLaMA-LoRA-Tuner#run-on-a-cloud-service-via-skypilot)
+    * [Tabby: Self-hosted AI coding assistant](https://github.com/TabbyML/tabby/blob/bed723fcedb44a6b867ce22a7b1f03d2f3531c1e/experimental/eval/skypilot.yaml)
+    * [LocalGPT](/skypilot-org/skypilot/blob/master/llm/localgpt)
+    * [Falcon](/skypilot-org/skypilot/blob/master/llm/falcon)
+    * Add yours here & see more in [`llm/`](/skypilot-org/skypilot/blob/master/llm)!
+  * Framework examples: [PyTorch DDP](https://github.com/skypilot-org/skypilot/blob/master/examples/resnet_distributed_torch.yaml), [DeepSpeed](/skypilot-org/skypilot/blob/master/examples/deepspeed-multinode/sky.yaml), [JAX/Flax on TPU](https://github.com/skypilot-org/skypilot/blob/master/examples/tpu/tpuvm_mnist.yaml), [Stable Diffusion](https://github.com/skypilot-org/skypilot/tree/master/examples/stable_diffusion), [Detectron2](https://github.com/skypilot-org/skypilot/blob/master/examples/detectron2_docker.yaml), [Distributed](https://github.com/skypilot-org/skypilot/blob/master/examples/resnet_distributed_tf_app.py) [TensorFlow](https://github.com/skypilot-org/skypilot/blob/master/examples/resnet_app_storage.yaml), [Ray Train](/skypilot-org/skypilot/blob/master/examples/distributed_ray_train/ray_train.yaml), [NeMo](https://github.com/skypilot-org/skypilot/blob/master/examples/nemo/), [programmatic grid search](https://github.com/skypilot-org/skypilot/blob/master/examples/huggingface_glue_imdb_grid_search_app.py), [Docker](https://github.com/skypilot-org/skypilot/blob/master/examples/docker/echo_app.yaml), [Cog](https://github.com/skypilot-org/skypilot/blob/master/examples/cog/), [Unsloth](https://github.com/skypilot-org/skypilot/blob/master/examples/unsloth/unsloth.yaml), [Ollama](https://github.com/skypilot-org/skypilot/blob/master/llm/ollama), [llm.c](https://github.com/skypilot-org/skypilot/tree/master/llm/gpt-2), [Airflow](/skypilot-org/skypilot/blob/master/examples/airflow/training_workflow) and [many more (`examples/`)](/skypilot-org/skypilot/blob/master/examples).
+
+
+
+Case Studies and Integrations: [Community Spotlights](https://blog.skypilot.co/community/)
+
+Follow updates:
+
+  * [Twitter](https://twitter.com/skypilot_org)
+  * [Slack](http://slack.skypilot.co)
+  * [SkyPilot Blog](https://blog.skypilot.co/) ([Introductory blog post](https://blog.skypilot.co/introducing-skypilot/))
+
+
+
+Read the research:
+
+  * [SkyPilot paper](https://www.usenix.org/system/files/nsdi23-yang-zongheng.pdf) and [talk](https://www.usenix.org/conference/nsdi23/presentation/yang-zongheng) (NSDI 2023)
+  * [Sky Computing whitepaper](https://arxiv.org/abs/2205.07147)
+  * [Sky Computing vision paper](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s02-stoica.pdf) (HotOS 2021)
+  * [Policy for Managed Spot Jobs](https://www.usenix.org/conference/nsdi24/presentation/wu-zhanghao) (NSDI 2024)
+
+
+
+SkyPilot was initially started at the [Sky Computing Lab](https://sky.cs.berkeley.edu) at UC Berkeley and has since gained many industry contributors. Read more about the project's origin [here](https://docs.skypilot.co/en/latest/sky-computing.html).
+
+## Support and Questions
+
+[](#support-and-questions)
+
+We are excited to hear your feedback!
+
+  * For issues and feature requests, please [open a GitHub issue](https://github.com/skypilot-org/skypilot/issues/new).
+  * For questions, please use [GitHub Discussions](https://github.com/skypilot-org/skypilot/discussions).
+
+
+
+For general discussions, join us on the [SkyPilot Slack](http://slack.skypilot.co).
+
+## Contributing
+
+[](#contributing)
+
+We welcome all contributions to the project! See [CONTRIBUTING](/skypilot-org/skypilot/blob/master/CONTRIBUTING.md) for how to get involved.
+
+## About
+
+SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface. 
+
+[docs.skypilot.co/](https://docs.skypilot.co/ "https://docs.skypilot.co/")
+
+### Topics
+
+[ data-science ](/topics/data-science "Topic: data-science") [ machine-learning ](/topics/machine-learning "Topic: machine-learning") [ deep-learning ](/topics/deep-learning "Topic: deep-learning") [ gpu ](/topics/gpu "Topic: gpu") [ job-scheduler ](/topics/job-scheduler "Topic: job-scheduler") [ cloud-management ](/topics/cloud-management "Topic: cloud-management") [ spot-instances ](/topics/spot-instances "Topic: spot-instances") [ cloud-computing ](/topics/cloud-computing "Topic: cloud-computing") [ job-queue ](/topics/job-queue "Topic: job-queue") [ hyperparameter-tuning ](/topics/hyperparameter-tuning "Topic: hyperparameter-tuning") [ cost-optimization ](/topics/cost-optimization "Topic: cost-optimization") [ distributed-training ](/topics/distributed-training "Topic: distributed-training") [ multicloud ](/topics/multicloud "Topic: multicloud") [ ml-infrastructure ](/topics/ml-infrastructure "Topic: ml-infrastructure") [ tpu ](/topics/tpu "Topic: tpu") [ cost-management ](/topics/cost-management "Topic: cost-management") [ finops ](/topics/finops "Topic: finops") [ ml-platform ](/topics/ml-platform "Topic: ml-platform") [ llm-serving ](/topics/llm-serving "Topic: llm-serving") [ llm-training ](/topics/llm-training "Topic: llm-training")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+[ Activity](/skypilot-org/skypilot/activity)
+
+[ Custom properties](/skypilot-org/skypilot/custom-properties)
+
+### Stars
+
+[ **7.1k** stars](/skypilot-org/skypilot/stargazers)
+
+### Watchers
+
+[ **70** watching](/skypilot-org/skypilot/watchers)
+
+### Forks
+
+[ **549** forks](/skypilot-org/skypilot/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fskypilot-org%2Fskypilot&report=skypilot-org+%28user%29)
+
+##  [Releases 16](/skypilot-org/skypilot/releases)
+
+[ SkyPilot v0.7.0 Latest  Nov 2, 2024 ](/skypilot-org/skypilot/releases/tag/v0.7.0)
+
+[+ 15 releases](/skypilot-org/skypilot/releases)
+
+##  [Packages 0](/orgs/skypilot-org/packages?repo_name=skypilot)
+
+No packages published 
+
+##  [Used by 244](/skypilot-org/skypilot/network/dependents)
+
+[
+
+  * ![@rohailrasheed](https://avatars.githubusercontent.com/u/101070763?s=64&v=4)
+  * ![@Rohanrn9882](https://avatars.githubusercontent.com/u/105193321?s=64&v=4)
+  * ![@Gaurav3707](https://avatars.githubusercontent.com/u/58848735?s=64&v=4)
+  * ![@RagulrajRW](https://avatars.githubusercontent.com/u/186173499?s=64&v=4)
+  * ![@itanmaysharma](https://avatars.githubusercontent.com/u/65828246?s=64&v=4)
+  * ![@nekovoo](https://avatars.githubusercontent.com/u/109199765?s=64&v=4)
+  * ![@FaycalD](https://avatars.githubusercontent.com/u/10898797?s=64&v=4)
+  * ![@MaLoskins](https://avatars.githubusercontent.com/u/161927210?s=64&v=4)
+
++ 236  ](/skypilot-org/skypilot/network/dependents)
+
+##  [Contributors 106](/skypilot-org/skypilot/graphs/contributors)
+
+  * [ ![@Michaelvll](https://avatars.githubusercontent.com/u/6753189?s=64&v=4) ](https://github.com/Michaelvll)
+  * [ ![@concretevitamin](https://avatars.githubusercontent.com/u/592670?s=64&v=4) ](https://github.com/concretevitamin)
+  * [ ![@romilbhardwaj](https://avatars.githubusercontent.com/u/4416605?s=64&v=4) ](https://github.com/romilbhardwaj)
+  * [ ![@cblmemo](https://avatars.githubusercontent.com/u/74357442?s=64&v=4) ](https://github.com/cblmemo)
+  * [ ![@infwinston](https://avatars.githubusercontent.com/u/1206058?s=64&v=4) ](https://github.com/infwinston)
+  * [ ![@michaelzhiluo](https://avatars.githubusercontent.com/u/20640975?s=64&v=4) ](https://github.com/michaelzhiluo)
+  * [ ![@suquark](https://avatars.githubusercontent.com/u/13750372?s=64&v=4) ](https://github.com/suquark)
+  * [ ![@gmittal](https://avatars.githubusercontent.com/u/2015126?s=64&v=4) ](https://github.com/gmittal)
+  * [ ![@landscapepainter](https://avatars.githubusercontent.com/u/34902420?s=64&v=4) ](https://github.com/landscapepainter)
+  * [ ![@frank-lsf](https://avatars.githubusercontent.com/u/2411818?s=64&v=4) ](https://github.com/frank-lsf)
+  * [ ![@WoosukKwon](https://avatars.githubusercontent.com/u/46394894?s=64&v=4) ](https://github.com/WoosukKwon)
+  * [ ![@cg505](https://avatars.githubusercontent.com/u/1581504?s=64&v=4) ](https://github.com/cg505)
+  * [ ![@MaoZiming](https://avatars.githubusercontent.com/u/63817381?s=64&v=4) ](https://github.com/MaoZiming)
+  * [ ![@HysunHe](https://avatars.githubusercontent.com/u/7868068?s=64&v=4) ](https://github.com/HysunHe)
+
+
+
+[+ 92 contributors](/skypilot-org/skypilot/graphs/contributors)
+
+## Languages
+
+  * [ Python 95.8% ](/skypilot-org/skypilot/search?l=python)
+  * [ Jinja 2.4% ](/skypilot-org/skypilot/search?l=jinja)
+  * [ Shell 1.4% ](/skypilot-org/skypilot/search?l=shell)
+  * Other 0.4%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

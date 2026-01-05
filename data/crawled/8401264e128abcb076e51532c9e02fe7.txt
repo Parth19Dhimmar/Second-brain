@@ -1,0 +1,367 @@
+[Skip to content](#start-of-content) GitHub Copilot is now available for free. [ Learn more ](https://github.com/features/copilot/?utm_source=github&utm_medium=banner&utm_campaign=copilotfree-bannerheader-features-codespaces)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ffeatures%2Fcodespaces%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+  * ###  Explore 
+
+    * [ Enterprise Learn More ](/enterprise?ref_loc=search)
+    * [ Security Learn More ](/security?ref_loc=search)
+    * [ Copilot Learn More ](/features/copilot?ref_loc=search)
+    * [ Pricing Learn More ](/pricing?ref_loc=search)
+
+
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ffeatures%2Fcodespaces%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2Ffeatures%2Fcodespaces&source=header) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[Features](/features/)
+
+[Copilot](/features/copilot) [Security](/features/security) [Actions](/features/actions) [Codespaces](/features/codespaces) [Issues](/features/issues) [Code Review](/features/code-review) [Discussions](/features/discussions) [Code Search](/features/code-search)
+
+GitHub Codespaces
+
+# Secure development made simple
+
+GitHub Codespaces gets you up and coding faster with fully configured, secure cloud development environments native to GitHub.
+
+[Get started](/codespaces)[Contact sales](/enterprise/contact?ref_cta=Contact+sales&ref_loc=cta-banner&ref_page=%2Ffeatures%2Fcodespaces&utm_content=Platform&utm_medium=site&utm_source=github)
+
+![Screenshot of GitHub Codespaces, showing a split-screen interface. On the left side, there's an HTML file \(index.html\) being edited, with code defining a webpage structure, including an image, a navigation button, and a section for a headline and paragraph text. Below the code editor, there's a terminal window displaying tasks being started and completed, such as watch-extension: vscode-api-tests. On the right side of the screen, the rendered webpage is displayed, featuring a bold headline 'Mona Sans. A Variable Font' with a subheading describing the typeface. Below the text is an illustration of the GitHub mascot, Mona the Octocat, standing on a floating platform.](/images/modules/site/codespaces/fp24/hero.webp)
+
+## Secure by design
+
+Created with security in mind, Codespaces provides a secure development environment through its built-in capabilities and native integration with the GitHub platform.
+
+![Graphic featuring three key security features of GitHub Codespaces. Each feature is listed in a black rectangle with a green checkmark icon to the up. The features include 'Isolated Environments,' 'Access Control,' and 'Cost Control.' The background transitions from green at the top to teal at the bottom](/images/modules/site/codespaces/fp24/features-river-1.webp)
+
+## Collaborate where you code
+
+Codespaces provides a shared development environment and removes the need for complex setups.
+
+![Screenshot showing a snippet of a JSON configuration file used in GitHub Codespaces. The file defines settings for a development environment, including specifying an image with the key 'image' set to ghcr.io/github/github/dev_image:latest. It also includes configurations like 'forwardPorts' for automatically forwarding specific ports \(such as 80, 2222, 3003, and others\), a terminal setting with the key 'terminal.integrated.shell.linux' set to /bin/bash, and a 'postCreateCommand' to run npm install after setup. The background features a gradient from green to teal.](/images/modules/site/codespaces/fp24/features-river-2.webp)
+
+### Customize your Codespaces
+
+![Screenshot of a GitHub Codespaces environment titled 'codespaces-demo.' The interface shows a file explorer on the left side with various files and folders, including .devcontainer, build.css, and setup-devcontainer.sh. The main editor displays the content of the build.css file, with CSS code specifying styles for elements like .main and .container > header. On the right side, a panel allows the user to select a machine configuration, with options for 8-core, 16-core, and 32-core setups, indicating different levels of RAM and storage. The background features a gradient from teal to green.](/images/modules/site/codespaces/fp24/features-river-breakout.webp)
+
+ _Your space, your way._ Codespaces is a home away from home for your code that feels just like your usual machine.![Logos for popular development tools and extensions, including ES Lint, IntelliCode, Prettier, Live Server, Copilot, Docker, GitLens, and Debugger for Java.](/images/modules/site/codespaces/fp24/features-logos.webp)
+
+  * _Start coding instantly from anywhere in the world._ Switching projects? Grab a new machine from the cloud that’s preconfigured for that project. Your settings travel with you.
+  * _Tabs or spaces? Monokai or Solarized? Prettier or Beautify? It’s up to you._ Control every nerdy detail only you care about with your own dotfiles repository.
+
+
+
+## Browser preview and port forwarding
+
+Preview your changes and get feedback from teammates by sharing ports within the scope allowed by policy.
+
+![Screenshot of a GitHub Codespaces environment showing a browser window with the text 'hello, world!1!!' displayed. Below the browser, there is a 'Ports' panel listing several active ports, including 'web \(3000\),' 'hmr \(55306\),' 'mysql \(3306\),' and 'api \(3001\).' A context menu is open with options like 'Open in Browser,' 'Set Port Label,' 'Copy Local Address,' and 'Make Public,' with the cursor hovering over the 'Make Public' option. The background features a gradient from blue to green.](/images/modules/site/codespaces/fp24/features-river-3.webp)
+
+## Onboard faster
+
+Quickly spin up a codespace with only an IDE or browser and a GitHub account. With a few configuration files, you can give your developers an instant, fully configured, and secure development environment so they can start coding immediately.
+
+![Screenshot showing a list of three active GitHub Codespaces environments.The first environment is titled 'mn-webgl-sandbox' under the branch 'webgl-changes,' and shows zero down arrows and six up arrows indicating changes. The second environment is titled 'ui refactoring' under the branch 'layout-refactor,' showing four down arrows and two up arrows. The third environment is titled 'psychic space doodle' under the branch 'node-extensions,' with one down arrow and five up arrows. Each environment is marked as 'Active' with a green dot and a small avatar representing the user associated with the environment. The background features a gradient from teal to green.](/images/modules/site/codespaces/fp24/features-river-4.webp)
+
+## What you can do with Codespaces
+
+[Learn how GitHub builds with Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
+
+### Code from any device
+
+Want to code on an iPad? Go for it. Spin up Codespaces from any device with internet access. Don’t worry if your device is powerful enough—Codespaces lives in the cloud.
+
+### Onboard at the speed of thought
+
+No more building your dev environment while you onboard. Codespaces launches instantly from any repository on GitHub with pre-configured, secure environments.
+
+### Streamline contractor onboarding
+
+Codespaces gives you control over how your consultants access your resources, while providing them with instant onboarding and a fluid developer experience.
+
+### Fix bugs right from a pull request
+
+Got a pull request detailing a bug or security issue? Open Codespaces right from the pull request without waiting for your dev environment to load.
+
+## What developers are saying
+
+“
+
+> What used to be a 15-step process is just one step: open Codespaces and you’re off and running.
+
+![Circular avatar from Clint Chester's GitHub profile](/images/modules/site/codespaces/fp24/testimonials-avatar-clint.png)Clint ChesterDeveloper Lead, Synergy
+
+“
+
+> Codespaces… lets developers skip the tedious, error-prone stuff that normally stands between them and getting started on real work.
+
+![Circular avatar from Keith Annette's GitHub profile](/images/modules/site/codespaces/fp24/testimonials-avatar-keith.png)Keith AnnetteCloud Capability Lead, KPMG, UK
+
+### Start coding in seconds with Codespaces
+
+Go to any repository and open your own Codespaces environment instantly.
+
+[Get started](/codespaces)[Contact Sales](/enterprise/contact?ref_cta=Contact+sales&ref_loc=cta-banner&ref_page=%2Ffeatures%2Fcodespaces&utm_content=Platform&utm_medium=site&utm_source=github)
+
+### Frequently asked questions
+
+#### How does Codespaces work?
+
+A codespace is a development environment that’s hosted in the cloud. Customize your project for GitHub Codespaces by [configuring dev container files](https://docs.github.com/codespaces/customizing-your-codespace/configuring-codespaces-for-your-project) to your repository (often known as configuration-as-code), which creates a repeatable codespace configuration for all users of your project.
+
+GitHub Codespaces run on a various VM-based compute options hosted by GitHub.com, which you can configure from 2 core machines up to 32 core machines. Connect to your codespaces from the browser or locally using an IDE like Visual Studio Code or IntelliJ.
+
+#### How do I use Codespaces?
+
+There are a number of entry points to spin up a Codespaces environment, including:
+
+  * A [template](https://docs.github.com/codespaces/getting-started/quickstart).
+  * [Your repository](https://docs.github.com/codespaces/developing-in-codespaces/creating-a-codespace#creating-a-codespace) for new feature work
+  * An [open pull request](https://docs.github.com/codespaces/developing-in-codespaces/using-github-codespaces-for-pull-requests#opening-a-pull-request-in-codespaces) to explore work-in-progress
+  * A commit in the repository’s history to investigate a bug at a specific point in time
+  * [Visual Studio Code](https://docs.github.com/codespaces/developing-in-codespaces/using-github-codespaces-in-visual-studio-code#creating-a-codespace-in-vs-code)
+  * In beta, can you also use your [JetBrains IDE](https://docs.github.com/codespaces/developing-in-a-codespace/using-github-codespaces-in-your-jetbrains-ide) or [JupyterLab](https://docs.github.com/codespaces/developing-in-a-codespace/getting-started-with-github-codespaces-for-machine-learning)
+
+
+
+Learn more about how to use Codespaces in our [documentation](https://docs.github.com/codespaces/overview).
+
+#### Is Codespaces available for individual developers?
+
+Codespaces is available for developers in every organization, and under the control of the organization who pays for the user’s codespace. All personal (individual) GitHub.com accounts include a quota of free usage each month, which organizations can enable (see the next question) for their private and internal repositories. GitHub will provide users in the free plan 120 core hours or 60 hours of run time on a 2 core codespace, plus 15 GB of storage each month. See how it’s balanced on the [billing page](https://github.com/settings/billing).
+
+#### Is Codespaces available for teams and companies?
+
+Codespaces is available for teams and companies, but needs to be enabled first in an organization’s settings. Teams and companies can select which repositories and users have access to Codespaces for added security and permissioning control. Learn how to [enable Codespaces in an organization in our docs](https://docs.github.com/codespaces/managing-codespaces-for-your-organization/enabling-github-codespaces-for-your-organization).
+
+#### How much does Codespaces cost?
+
+Codespaces is free for individual use up to 60 hours a month and comes with simple, pay-as-you-go pricing after that. It’s also available for organizations with pay-as-you-go pricing and has pricing controls so any company or team can determine how much they want to spend a month. Learn more about Codespaces pricing for organizations [here](https://docs.github.com/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces).
+
+#### Can I self-host Codespaces?
+
+Codespaces cannot be self-hosted.
+
+#### How do I access Codespaces with LinkedIn Learning?
+
+You can use Codespaces directly through LinkedIn Learning. LinkedIn Learning offers 50+ courses across six of the most popular coding languages, as well as data science and machine learning. These courses are integrated with Codespaces, so you can get hands-on practice anytime, from any machine via LinkedIn. These courses will be unlocked on LinkedIn Learning for free through Feb. 2023. Learn more about LinkedIn Learning and GitHub Codespaces [here](https://learning.linkedin.com/product/hands-on-practice).
+
+#### How do I enable Codespaces on GitHub?
+
+Codespaces is on by default for developers with a GitHub free account. If you belong to an organization, there may be a policy that prevents cloning—but if you can clone a repository, you will be able to start using Codespaces. Organizations will also need to pay for, enable, and manage their Codespaces instances.
+
+#### Is Codespaces available for students?
+
+Codespaces is available for free to students as part of the GitHub Student Developer Pack. Learn more about how to sign up and start using Codespaces and other GitHub products [here](https://education.github.com/pack).
+
+#### Is Codespaces available for open source maintainers?
+
+Codespaces provides both maintainers and contributors with [generous free monthly usage](https://docs.github.com/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts).
+
+## Site-wide Links
+
+[ ](/)
+
+### Subscribe to our developer newsletter
+
+Get tips, technical guides, and best practices. Twice a month. Right in your inbox.
+
+[ Subscribe ](https://resources.github.com/newsletter/)
+
+###  Product 
+
+  * [Features](/features)
+  * [Enterprise](/enterprise)
+  * [Copilot](/features/copilot)
+  * [Security](/security)
+  * [Pricing](/pricing)
+  * [Team](/team)
+  * [Resources](https://resources.github.com)
+  * [Roadmap](https://github.com/github/roadmap)
+  * [Compare GitHub](https://resources.github.com/devops/tools/compare)
+
+
+
+###  Platform 
+
+  * [Developer API](https://docs.github.com/get-started/exploring-integrations/about-building-integrations)
+  * [Partners](https://partner.github.com)
+  * [Education](https://github.com/edu)
+  * [GitHub CLI](https://cli.github.com)
+  * [GitHub Desktop](https://desktop.github.com)
+  * [GitHub Mobile](https://github.com/mobile)
+
+
+
+###  Support 
+
+  * [Docs](https://docs.github.com)
+  * [Community Forum](https://github.community)
+  * [Professional Services](https://services.github.com)
+  * [Premium Support](/enterprise/premium-support)
+  * [Skills](https://skills.github.com)
+  * [Status](https://www.githubstatus.com)
+  * [Contact GitHub](https://support.github.com?tags=dotcom-footer)
+
+
+
+###  Company 
+
+  * [About](https://github.com/about)
+  * [Customer stories](/customer-stories?type=enterprise)
+  * [Blog](https://github.blog)
+  * [The ReadME Project](/readme)
+  * [Careers](https://github.careers)
+  * [Newsroom](/newsroom)
+  * [Inclusion](/about/diversity)
+  * [Social Impact](https://socialimpact.github.com)
+  * [Shop](https://shop.github.com)
+
+
+
+  * © 2025 GitHub, Inc. 
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement) ([Updated 02/2024](https://github.com/github/site-policy/pull/582)) 
+  * [Sitemap](/sitemap)
+  * [What is Git?](/git-guides)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+  * [ GitHub on LinkedIn ](https://www.linkedin.com/company/github)
+  * [ Instagram GitHub on Instagram ](https://www.instagram.com/github)
+  * [ GitHub on YouTube ](https://www.youtube.com/github)
+  * [ GitHub on X ](https://x.com/github)
+  * [ TikTok GitHub on TikTok ](https://www.tiktok.com/@github)
+  * [ Twitch GitHub on Twitch ](https://www.twitch.tv/github)
+  * [ GitHub’s organization on GitHub ](https://github.com/github)
+
+
+
+We use optional cookies to improve your experience on our websites and to display personalized advertising based on your online activity. If you reject optional cookies, only cookies necessary to provide you the services listed above will be used. You may change your selection on which cookies to accept by clicking "Manage Cookies" at the bottom of the page to change your selection. This selection is maintained for 180 days. Please review your selections regularly. [How to manage cookie preferences](https://docs.github.com/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-cookie-preferences-for-githubs-enterprise-marketing-pages) | [Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement) | [Third-Party Cookies](https://docs.github.com/site-policy/privacy-policies/github-subprocessors-and-cookies). 
+
+Accept Reject Manage cookies
+
+You can’t perform that action at this time. 

@@ -1,0 +1,883 @@
+[ Tell 120+K peers about your AI research → Learn more 💡 ![](https://neptune.ai/wp-content/themes/neptune/img/icon-cancel.svg) ](/neurips-2024)
+
+[ ![logo](https://neptune.ai/wp-content/themes/neptune/img/logo-neptune.svg) ](https://neptune.ai "neptune.ai")
+
+  * [Product![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/09/show.svg)Overview](#)
+      * [Walkthrough [2 min]](https://neptune.ai/resources/foundation-model-training)
+      * [Deployment options](https://neptune.ai/product/deployment-options)
+      * [Security](https://security.neptune.ai/)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/compare-1.svg)Compare](#)
+      * [Neptune vs WandB](https://neptune.ai/vs/wandb)
+      * [Neptune vs MLflow](https://neptune.ai/vs/mlflow)
+      * [Neptune vs TensorBoard](https://neptune.ai/vs/tensorboard)
+      * [Other comparisons](https://neptune.ai/vs)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/07/bg-5.jpg?fit=768%2C432&ssl=1)Live Neptune projectPlay with a public example project that showcases Neptune's upcoming product release. It offers enhanced scalability and exciting new features. ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](https://scale.neptune.ai/o/neptune/org/LLM-training-example/runs/compare?viewId=9d0e032a-5a78-4a0e-81d1-98e0a7c81a8f&detailsTab=metadata&dash=charts&type=run&experimentOnly=true&compare=u0MsW4a1PJIUJ75nglpjHa9XUKFfAmcBRbLhNatCHX20)
+
+  * [Solutions![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/bulb.svg)By role](#)
+      * [AI Researcher](https://neptune.ai/product/ai-researcher)
+      * [ML Team Lead](https://neptune.ai/product/ml-team-lead)
+      * [ML Platform Engineer](https://neptune.ai/product/ml-platform)
+      * [Academia & Kagglers](https://neptune.ai/research)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/star.svg)By use case](#)
+      * [Monitor training](https://neptune.ai/product/monitor-training)
+      * [Compare experiments](https://neptune.ai/product/compare-experiments)
+      * [Collaborate with a team](https://neptune.ai/product/team-collaboration)
+      * [Reports](https://neptune.ai/product/reports)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/11/deepsense.ai-logo-e1667753808279.png?fit=75%2C75&ssl=1)Case studyHow deepsense.ai Tracked and Analyzed 120K+ Models Using Neptune ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/customers/deepsense-ai)[ ![Menu thumbnail](https://neptune.ai/wp-content/uploads/2023/06/Respo_square.svg)Case studyHow ReSpo.Vision Uses Neptune to Easily Track Training Pipelines at Scale ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/customers/respo-vision)
+
+[See all case studies ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg)](/resources?ct=case-study)
+
+  * [Developers![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Menu Item](#)
+      * [Documentation](https://docs.neptune.ai/)
+      * [Quickstart](https://docs.neptune.ai/usage/quickstart/)
+      * [Integrations](https://docs.neptune.ai/integrations/)
+      * [Code examples](https://github.com/neptune-ai/examples)
+
+  * [Resources![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/test-tube.svg)Use Neptune](#)
+      * [Play with public sandbox](https://scale.neptune.ai/o/neptune/org/LLM-training-example/runs/compare?viewId=9d0e032a-5a78-4a0e-81d1-98e0a7c81a8f&detailsTab=metadata&dash=charts&type=run&experimentOnly=true&compare=u0MsW4a1PJIUJ75nglpjHa9XUKFfAmcBRbLhNatCHX20)
+      * [Case studies](/resources?ct=case-study)
+      * [Example projects](/resources?ct=example-project)
+      * [Video tutorials](/resources?ct=video)
+      * [All Neptune resources](/resources)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/file.svg)Learn AI/ML](#)
+      * [Blog](https://neptune.ai/blog)
+      * [Experiment Tracking Learning Hub](https://neptune.ai/experiment-tracking-learn-hub)
+      * [LLMOps Learning Hub](https://neptune.ai/llmops-learning-hub)
+      * [MLOps Learning Hub](https://neptune.ai/mlops-learn-hub)
+      * [100 Second Research Playlist](https://www.youtube.com/watch?v=_sKZsx7Iprg&list=PLKePQLVx9tOcAGAKvmRuQ5Y1_k6wqG0cX&pp=iAQB)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/12/Building-The-Most-Scalable-Experiment-Tracker-For-Foundation-Models.png?fit=768%2C403&ssl=1)ArticleFrom Research to Production: Building The Most Scalable Experiment Tracker For Foundation ModelsAurimas Griciūnas discusses the journey and challenges behind building the most scalable experiment tracker for foundation model training. ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/blog/observability-in-llmops)[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/11/reasercher-3-levels-challenge.webp?fit=768%2C432&ssl=1)VideoBreaking Down AI Research Across 3 Levels of DifficultyWe challenged AI/ML researchers to explain their work across 3 levels of difficulty: for a young learner, university student, and a fellow researcher.  ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](https://www.youtube.com/watch?v=zSEv3KBGlJQ&list=PLKePQLVx9tOfqC8ho2g_tQVxRga-XbIWa&index=3&t=9s)
+
+  * [Pricing](https://neptune.ai/pricing)
+  * [Enterprise](https://neptune.ai/product/enterprise)
+  * [Company![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Menu Item](#)
+      * [About us](https://neptune.ai/about-us)
+      * [Customers](https://neptune.ai/customers)
+      * [Careers](https://neptune.ai/jobs)
+      * [In the news](/about-us/#press)
+      * [Security](https://security.neptune.ai/)
+      * [Contact us](https://neptune.ai/contact-us)
+
+
+
+
+![search](https://neptune.ai/wp-content/themes/neptune/img/icon-search.svg)
+
+What do you want to find? 
+
+Search
+
+![cancel](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+[ Log in  ](https://app.neptune.ai/login) [ Sign up  ](https://app.neptune.ai/register) [ Contact us  ](https://neptune.ai/contact-us)
+
+[![Home](/wp-content/themes/neptune/img/icon-breadcrumbs-home.svg)](https://neptune.ai/) > [Blog](https://neptune.ai/blog) > [ML Tools](https://neptune.ai/blog/category/machine-learning-tools)
+
+  * [Topics![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Categories](#)
+      * [ML Model Development](https://neptune.ai/blog/category/machine-learning-model-development)
+      * [MLOps](https://neptune.ai/blog/category/mlops)
+      * [LLMOps](https://neptune.ai/blog/category/llmops)
+      * [ML Tools](https://neptune.ai/blog/category/machine-learning-tools)
+      * [Computer Vision](https://neptune.ai/blog/category/computer-vision)
+    * [Categories](#)
+      * [Natural Language Processing](https://neptune.ai/blog/category/natural-language-processing)
+      * [Reinforcement Learning](https://neptune.ai/blog/category/reinforcement-learning)
+      * [Tabular Data](https://neptune.ai/blog/category/tabular-data)
+      * [Time Series](https://neptune.ai/blog/category/time-series-forecasting)
+
+
+
+
+Search in Blog... 
+
+![search](https://neptune.ai/wp-content/themes/neptune/img/icon-search.svg)
+
+![search](https://neptune.ai/wp-content/themes/neptune/img/icon-search.svg) ![cancel](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+Search in Blog... 
+
+![search](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+  * [Topics![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Categories](#)
+      * [ML Model Development](https://neptune.ai/blog/category/machine-learning-model-development)
+      * [MLOps](https://neptune.ai/blog/category/mlops)
+      * [LLMOps](https://neptune.ai/blog/category/llmops)
+      * [ML Tools](https://neptune.ai/blog/category/machine-learning-tools)
+      * [Computer Vision](https://neptune.ai/blog/category/computer-vision)
+    * [Categories](#)
+      * [Natural Language Processing](https://neptune.ai/blog/category/natural-language-processing)
+      * [Reinforcement Learning](https://neptune.ai/blog/category/reinforcement-learning)
+      * [Tabular Data](https://neptune.ai/blog/category/tabular-data)
+      * [Time Series](https://neptune.ai/blog/category/time-series-forecasting)
+
+
+
+
+  * [Product![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/09/show.svg)Overview](#)
+      * [Walkthrough [2 min]](https://neptune.ai/resources/foundation-model-training)
+      * [Deployment options](https://neptune.ai/product/deployment-options)
+      * [Security](https://security.neptune.ai/)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/compare-1.svg)Compare](#)
+      * [Neptune vs WandB](https://neptune.ai/vs/wandb)
+      * [Neptune vs MLflow](https://neptune.ai/vs/mlflow)
+      * [Neptune vs TensorBoard](https://neptune.ai/vs/tensorboard)
+      * [Other comparisons](https://neptune.ai/vs)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/07/bg-5.jpg?fit=768%2C432&ssl=1)Live Neptune projectPlay with a public example project that showcases Neptune's upcoming product release. It offers enhanced scalability and exciting new features. ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](https://scale.neptune.ai/o/neptune/org/LLM-training-example/runs/compare?viewId=9d0e032a-5a78-4a0e-81d1-98e0a7c81a8f&detailsTab=metadata&dash=charts&type=run&experimentOnly=true&compare=u0MsW4a1PJIUJ75nglpjHa9XUKFfAmcBRbLhNatCHX20)
+
+  * [Solutions![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/bulb.svg)By role](#)
+      * [AI Researcher](https://neptune.ai/product/ai-researcher)
+      * [ML Team Lead](https://neptune.ai/product/ml-team-lead)
+      * [ML Platform Engineer](https://neptune.ai/product/ml-platform)
+      * [Academia & Kagglers](https://neptune.ai/research)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/star.svg)By use case](#)
+      * [Monitor training](https://neptune.ai/product/monitor-training)
+      * [Compare experiments](https://neptune.ai/product/compare-experiments)
+      * [Collaborate with a team](https://neptune.ai/product/team-collaboration)
+      * [Reports](https://neptune.ai/product/reports)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/11/deepsense.ai-logo-e1667753808279.png?fit=75%2C75&ssl=1)Case studyHow deepsense.ai Tracked and Analyzed 120K+ Models Using Neptune ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/customers/deepsense-ai)[ ![Menu thumbnail](https://neptune.ai/wp-content/uploads/2023/06/Respo_square.svg)Case studyHow ReSpo.Vision Uses Neptune to Easily Track Training Pipelines at Scale ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/customers/respo-vision)
+
+[See all case studies ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg)](/resources?ct=case-study)
+
+  * [Developers![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Menu Item](#)
+      * [Documentation](https://docs.neptune.ai/)
+      * [Quickstart](https://docs.neptune.ai/usage/quickstart/)
+      * [Integrations](https://docs.neptune.ai/integrations/)
+      * [Code examples](https://github.com/neptune-ai/examples)
+
+  * [Resources![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/test-tube.svg)Use Neptune](#)
+      * [Play with public sandbox](https://scale.neptune.ai/o/neptune/org/LLM-training-example/runs/compare?viewId=9d0e032a-5a78-4a0e-81d1-98e0a7c81a8f&detailsTab=metadata&dash=charts&type=run&experimentOnly=true&compare=u0MsW4a1PJIUJ75nglpjHa9XUKFfAmcBRbLhNatCHX20)
+      * [Case studies](/resources?ct=case-study)
+      * [Example projects](/resources?ct=example-project)
+      * [Video tutorials](/resources?ct=video)
+      * [All Neptune resources](/resources)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/file.svg)Learn AI/ML](#)
+      * [Blog](https://neptune.ai/blog)
+      * [Experiment Tracking Learning Hub](https://neptune.ai/experiment-tracking-learn-hub)
+      * [LLMOps Learning Hub](https://neptune.ai/llmops-learning-hub)
+      * [MLOps Learning Hub](https://neptune.ai/mlops-learn-hub)
+      * [100 Second Research Playlist](https://www.youtube.com/watch?v=_sKZsx7Iprg&list=PLKePQLVx9tOcAGAKvmRuQ5Y1_k6wqG0cX&pp=iAQB)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/12/Building-The-Most-Scalable-Experiment-Tracker-For-Foundation-Models.png?fit=768%2C403&ssl=1)ArticleFrom Research to Production: Building The Most Scalable Experiment Tracker For Foundation ModelsAurimas Griciūnas discusses the journey and challenges behind building the most scalable experiment tracker for foundation model training. ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/blog/observability-in-llmops)[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/11/reasercher-3-levels-challenge.webp?fit=768%2C432&ssl=1)VideoBreaking Down AI Research Across 3 Levels of DifficultyWe challenged AI/ML researchers to explain their work across 3 levels of difficulty: for a young learner, university student, and a fellow researcher.  ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](https://www.youtube.com/watch?v=zSEv3KBGlJQ&list=PLKePQLVx9tOfqC8ho2g_tQVxRga-XbIWa&index=3&t=9s)
+
+  * [Pricing](https://neptune.ai/pricing)
+  * [Enterprise](https://neptune.ai/product/enterprise)
+  * [Company![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Menu Item](#)
+      * [About us](https://neptune.ai/about-us)
+      * [Customers](https://neptune.ai/customers)
+      * [Careers](https://neptune.ai/jobs)
+      * [In the news](/about-us/#press)
+      * [Security](https://security.neptune.ai/)
+      * [Contact us](https://neptune.ai/contact-us)
+
+
+
+
+[ Log in  ](https://app.neptune.ai/login) [ Sign up  ](https://app.neptune.ai/register) [ Contact us  ](https://neptune.ai/contact-us)
+
+[Neptune Blog](/blog)
+
+#  Best Tools For ML Model Serving 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/05/axel-profile-picture.png?fit=800%2C800&ssl=1)
+
+[ Axel Mendoza  ](https://neptune.ai/blog/author/axel-mendoza)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-meta-time.svg) 15 min 
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-meta-date.svg) 21st August, 2024 
+
+[ML Tools](https://neptune.ai/blog/category/machine-learning-tools)
+
+![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E)
+
+###  TL;DR 
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/note/list-arrow.svg)
+
+Model serving is an essential step in building machine-learning products. It comprises packaging models, building APIs, monitoring performance, and scaling to adjust to incoming requests.
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/note/list-arrow.svg)
+
+The choice of a model-serving tool depends on specific project and team needs, such as frameworks and infrastructure compatibility, ease of use, inference optimization features, monitoring capabilities, and required deployment strategies.
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/note/list-arrow.svg)
+
+Broadly speaking, model-serving tools can be divided into two categories: model-serving runtimes that package ML models into inference-optimized containers and model-serving platforms that focus on deploying and scaling these models.
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/note/list-arrow.svg)
+
+Various tools exist on the market today, each with specific strengths and weaknesses. BentoML, TensorFlow Serving, TorchServe, Nvidia Triton, and Titan Takeoff are leaders in the model-serving runtime category. When it comes to model-serving platforms, KServe, Seldon Core, Bento Cloud, and cloud providers’ integrated solutions are the top contenders.
+
+Choosing the right model-serving tool is crucial for the success of any machine learning project. Deploying a model to production is a critical step in the machine-learning lifecycle. After all, we train models to solve problems, and only a deployed model can provide predictions to downstream consumers.
+
+At its core, model serving involves making a trained machine-learning model available to receive inputs and serve the resulting predictions. The challenge in serving a machine learning model lies in packaging it, exposing it through an inference API, and maintaining its performance. Each project will have unique demands regarding latency, throughput, and scalability, which adds to the complexity.
+
+Plenty of frameworks and platforms have been developed. It is difficult to get an overview, understand the differences, and pick the right solution. But don’t worry! After reading this article, you will …
+
+  * … know the most important criteria for choosing the right tool for your team and project.
+  * … have a deep understanding of the model serving landscape.
+  * … understand the pros and cons of the leading model serving tools on the market.
+
+
+
+## Understanding model serving
+
+![Overview of the canonical model serving architecture and components](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/04/Model-Serving-Runtime-Serving-Platform.jpg?resize=1200%2C1200&ssl=1)Overview of the canonical model serving architecture and components. Given the model code and artifacts, we create a Docker image based on a model serving runtime. This Docker image, which contains the model server, is deployed to a model-serving platform that provides scalability and exposes the model to downstream users. | Source: [Author](https://www.axelmendoza.com/)
+
+In the [MLOps](/blog/mlops) community, there’s often confusion about terms related to model serving. Professionals frequently use serving and deployment interchangeably, which can lead to misunderstandings.
+
+Here’s our attempt to define and distinguish the different components and their roles. (But remember, these definitions are based on our perspective and are by no means absolute truths.)
+
+  * **Model Serving Runtime:** Packaging a trained machine learning model into a container and setting up APIs so it can handle incoming requests. This allows the model to be used in a production environment, responding to data inputs with predictions (inference).
+  * **Model Serving Platform:** An environment designed to dynamically scale the number of model containers in response to incoming traffic. Tools like KServe are examples of serving platforms. They manage the infrastructure needed to deploy and scale models efficiently, responding to varying traffic without manual intervention.
+  * **Model Deployment:** The process of integrating a packaged model into a serving platform and connecting it to the broader infrastructure, such as databases and downstream services. This ensures the model can access necessary data, perform its intended functions, and deliver inference results to consumers.
+
+
+
+To help you understand the roles and relationships better, let’s consider this typical ML model lifecycle:
+
+  1. **Train:** Suppose we trained an LLM on articles on Neptune’s blog to assist MLOps engineers in their decision-making.
+  2. **Package:** We use a model-serving runtime like BentoML to package our LLM into a Docker image, wrapped with a standardized, functional API.
+  3. **Deploy:** We deploy our model packaged with BentoML to the KServe model-serving platform. This Kubernetes-based platform auto-scales the model containers according to incoming requests.
+  4. **Integrate:** We connect the model with a chat widget in the sidebar of Neptune’s blog so that users can type questions and receive the answers generated by our LLM. This requires us to integrate the necessary API requests into the website frontend code and ensure that our model’s API can be reached publicly via the internet.
+  5. **Bring value:** Finally,the model is ready to assist many neptune.ai blog readers simultaneously.
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-related--article.svg) Recommended  How to Solve the Model Serving Component of the MLOps Stack  Read also  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](/blog/model-serving-component-mlops-stack)
+
+## Do you need a model-serving runtime?
+
+Why is a serving runtime necessary when you could take a Docker base image to package your model together with a simple API that you’ve quickly coded up using [Flask](https://flask.palletsprojects.com/en/3.0.x/) or [FastAPI](https://fastapi.tiangolo.com/)?
+
+### Three reasons why you need a model-serving runtime
+
+  1. **Optimized base images** : Model serving runtimes provide optimized Docker images tailored for inference. The images support intelligent optimization techniques for the hardware and ML framework you are using, ensuring that your model runs as efficiently as possible. The years of wisdom and optimization that went into the ML-optimized Docker base images are hard to replicate by yourself.
+  2. **Time-saving utilities** : Model-serving runtimes simplify the task of packaging your model into optimized Docker images. They often include utilities that help convert your model into a format more suitable for fast, efficient inference. This makes the deployment process smoother than if you had to do all that manually.
+  3. **Well-designed, clearly defined APIs:** These frameworks ease the process of integrating models by providing unified, well-designed APIs tailored for ML model inference. A model-serving runtime typically covers a wide range of machine-learning use cases, including support for data frames, images, and JSON payloads.
+
+
+
+However, there are also scenarios where you’d be better off using a custom solution or looking for a fully managed offering.
+
+### Three reasons to avoid using a model-serving runtime
+
+  1. **Skill gap** : Some model-serving runtimes require significant software engineering skills on your team’s part. If your team does not bring sufficient experience to the table, this can lead to challenges in setup, ongoing maintenance, and integration.
+  2. **Batch processing** : When you don’t need real-time inference, but all computations can be batch-processed, simpler solutions may be more straightforward and cost-effective than implementing a solution with a full-fledged serving runtime.
+  3. **No scaling needs:** If your model does not need to be scaled because of low inference time or request volume, the benefits of using an ML-optimized container might not outweigh its engineering costs.
+
+
+
+## Criteria for selecting model-serving tools
+
+![Overview of the key criteria for selecting a model serving tool](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/04/Model-Serving-Mind-Map.jpg?resize=1200%2C628&ssl=1)Overview of the key criteria for selecting a model serving tool. Key considerations include framework compatibility, integrations, implementation complexity, performance, monitoring capabilities, cost, and licensing. | Source: Author
+
+Finding a model serving tool that meets your team’s and project’s specific needs can be challenging. This section will guide you through various criteria to consider when surveying the market and making a decision.
+
+### Framework compatibility
+
+When choosing a model-serving tool, it’s crucial to consider the range of machine-learning frameworks it supports, such as [scikit-learn](https://scikit-learn.org/), [TensorFlow](https://tensorflow.org/), or [PyTorch](https://pytorch.org/). It would be unfortunate to select and begin setting up TorchServe only to discover later that it does not support the Keras model your colleague has trained.Additionally, it’s essential to consider whether the tool provides GPU support and works with the CUDA version you’re on. This is particularly important if you work with large deep-learning models.
+
+Support for distributed processing is crucial if you plan to scale your models across multiple machines to handle larger workloads.
+
+### Integration
+
+Assessing how a model-serving tool aligns with your current MLOps stack and compute infrastructure or cloud environment is paramount. Suppose you already have a Kubernetes cluster running. That would be a strong argument to use a Kubernetes-native solution like KServe instead of a fully managed solution like Google’s Vertex AI.
+
+This applies not only to your infrastructure but also at the framework level. For example, if you plan to use [ArizeAI](https://arize.com/) for model observability, it would be better to use BentoML, which has out-of-the-box integration, instead of Tensorflow Serving, which does not.
+
+### Implementation complexity
+
+When evaluating model serving tools, it’s crucial to recognize that not every framework is suitable for every team, as the complexity of implementation and required background knowledge can vary significantly. 
+
+Before deciding on a serving tool, consider the learning curve involved and your team’s technical skills. A tool that is difficult to use can slow down progress, especially if you are not familiar with the required technologies.
+
+Broadly speaking, tools that provide high flexibility tend to be more complex and have a steeper learning curve. This complexity arises because these tools offer more options and control to the user. While this allows for better adaptation to specific needs, it also requires a deeper understanding.
+
+Ideally, you should choose the simplest tool that meets your team’s and project’s needs. This approach ensures you don’t overcomplicate your setup with unnecessary features or struggle with a tool that’s too limited for your requirements.
+
+### Performance
+
+Model-serving tools are designed to optimize inference performance. However, the extent of this optimization varies across frameworks. Determining a framework’s efficiency before implementation is challenging, as efficiency depends on many factors, including the specific use case, model, and hardware.
+
+However, it is possible to obtain a first estimate of a tool’s performance by examining its documentation. Sections that discuss the tool’s architecture, key concepts, or specific inference features can provide insights into the expected performance.
+
+When it comes to model-serving runtimes, here are the main features to look at:
+
+  * **Concurrent model execution** : Spawns multiple instances of the same model to run simultaneously on a single hardware processor (GPU or CPU) and load balances the incoming requests across the instances. This way, multiple smaller models can share one processor, saving costs.
+  * **Inference parallelization** : Distributes inference tasks across multiple hardware processors (GPU or CPU) to speed up processing.
+  * **Adaptive batching** : Allows the server to combine multiple inference requests into a single batch dynamically, optimizing throughput and latency.
+  * **High-performance runtime support** : Compute-intensive models benefit from conversion to a more efficient runtime such as [TensorRT](https://developer.nvidia.com/tensorrt).
+  * **Asynchronous APIs** : Enable non-blocking requests, allowing the system to handle multiple requests at the same time. This improves responsiveness as the system does not process the requests sequentially.
+  * **gRPC inference protocol** : Offers a more efficient alternative to traditional HTTP/REST for communication between services. In fact, the [gRPC protocol has shown to be superior than REST](https://www.imaginarycloud.com/blog/grpc-vs-rest/#:~:text=Both%20gRPC%20and%20REST%20API,interacting%20with%20multiple%20programming%20languages.) in terms of response time.
+
+
+
+### Monitoring
+
+Evaluating a model-serving tool’s built-in monitoring and logging features is essential. These features allow you to ensure the health and performance of your model containers, help diagnose issues, and optimize resource usage effectively. When analyzing your monitoring requirements, think about the level of detail you need and how easy it is to access the monitoring data.
+
+The model serving runtimes discussed in this article all produce Prometheus metrics. To monitor your model performance in production, you need a Prometheus server that can consume the logs. You have two main options for this: [deploy a Prometheus server](https://prometheus.io/docs/prometheus/latest/installation/) or use a fully managed option.
+
+Another aspect to investigate is the integration with external monitoring systems and observability platforms. Using fully managed monitoring tools such as [Arize AI](https://arize.com/), [Fiddler AI](https://www.fiddler.ai/), or [Evidently](https://www.evidentlyai.com/) can significantly improve your ability to manage your model’s performance in production without having to support a complex infrastructure.
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-related--article.svg) Recommended  Best Tools to Do ML Model Monitoring  Read also  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](/blog/ml-model-monitoring-best-tools)
+
+### Cost and licensing
+
+The next criterion on the list is to anticipate the costs related to a model-serving tool:
+
+  * **Pricing structure:** Some model-serving tools are subscription-based, some require a one-time payment, some charge based on resource utilization, and others are open-source.
+  * **Licensing:** Some model-serving tools impose limitations on the deployment or distribution of your model containers, particularly in commercial settings. For example, [in early 2024, Seldon Core changed its license to Business Source License v1.1](https://www.seldon.io/strengthening-our-commitment-to-open-core) (BSL), rendering it free for non-production use but requiring a yearly subscription for production deployments.
+  * **Total cost** : Evaluating the total cost associated with a model-serving tool involves looking beyond the price tag. This is easily forgotten, in particular when settling for an open-source tool that’s free to download and run. You have to consider costs for ongoing activities like support, updates, and infrastructure requirements. For example, KServe is open-source and thus free to use, but it requires deploying and managing a Kubernetes cluster to operate.
+
+
+
+### Support and documentation
+
+The final criteria on our list revolve around support and documentation:
+
+  * **Support** : Choosing a tool with an active community or provider support is beneficial as it’s invaluable to get suggestions or bug fixes from experts during implementation. For open-source tools, you can assess the quality of support by investigating the interactions on Slack or the developers’ responsiveness to issues on their GitHub repository.
+  * **Documentation** : Before setting up a tool, it doesn’t hurt to check the clarity and readability of the documentation. It’s not to be underestimated, as the documentation will be your main companion for a while.
+  * **Learning resources** : The presence of extensive learning materials, such as tutorials, FAQs, and code examples, is essential. These resources can significantly ease your team’s learning process and enhance the overall user experience with the tool.
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-related--article.svg) Recommended  Model Deployment Challenges: 6 Lessons From 6 ML Engineers  Read also  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](/blog/model-deployment-challenges-lessons-from-ml-engineers)
+
+## The top model-serving tools in 2024 
+
+![Overview of the model-serving runtimes and model-serving platforms included in our review ](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/04/Overview-of-the-model-serving-runtimes-and-model-serving-platforms-included-in-our-review.png?resize=1200%2C628&ssl=1)Overview of the model-serving runtimes and model-serving platforms included in our review | Source: Author
+
+Let’s review a selection of model-serving tools that stand out for their capabilities and widespread use. We separated the comparison into two categories: serving runtimes and serving platforms.
+
+## Model-serving runtimes
+
+The role of a serving runtimeis to package the model code and artifacts into a container and to build APIs optimized for model inference.
+
+Every tool discussed in this category supports the following:
+
+  * **Parallel processing** : Supports parallel processing to handle multiple tasks simultaneously.
+  * **Asynchronous APIs** : Allows for non-blocking requests, enabling simultaneous request handling for faster response than sequential processing.
+  * **Adaptive batching** : Enables the server to merge incoming inference requests into batches for better throughput and reduced latency.
+  * **REST APIs** : Handles client-server communication using HTTP verbs such as POST, GET, PUT, and DELETE.
+  * **gRPC:** A high-performance, low-latency remote-procedure-call framework for service communication based on HTTP/2.
+  * **Monitoring logs** : Every model-serving runtime we review produces [Prometheus](https://prometheus.io/) logs that can be ingested to analyze hardware and model performance metrics.
+
+
+
+### BentoML
+
+![Chart showing BentoML components](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/04/best-ml-model-serving-tools-2.png?resize=1400%2C913&ssl=1)A “Bento” is an archive containing all the necessary components to build a Docker image of your model: A requirements file that defines the dependencies, the source code for loading and running the model, the inference API, the model artifact(s), and the ML model definition. | [Source](https://towardsdatascience.com/10-ways-bentoml-can-help-you-serve-and-scale-machine-learning-models-4060f1e59d0d)
+
+[BentoML](https://github.com/bentoml/BentoML) is an open-source framework that simplifies the process of packaging models into ML-optimized Docker images.
+
+First released in 2019, BentoML introduced the concept of “Bentos”: an archive containing all the necessary components to package a model, such as source code, model architecture, and configurations.
+
+The tool provides a Python SDK with utilities to build Bentos. Users develop Python classes that inherit from BentoML interfaces to generate API servers. This is very handy as it allows you to test and debug those classes prior to creating a containerized version of your model.
+
+#### Reasons for choosing BentoML
+
+  * **Ease of use:** BentoML is one of the most straightforward frameworks to use. Since the release of 1.2, it has become possible to build a Bento with a few lines of code.
+  * **ML Framework support** : BentoML supports all the leading machine learning frameworks, such as PyTorch, Keras, TensorFlow, and scikit-learn.
+  * **Concurrent model execution:**[BentoML supports fractional GPU allocation](https://github.com/bentoml/BentoML/blob/main/src/_bentoml_impl/server/allocator.py). In other words, you can spawn multiple instances of a model on a single GPU to distribute the processing.
+  * **Integration:** BentoML comes with integrations for ZenML, Spark, MLflow, fast.ai, Triton Inference Server, and more.
+  * **Flexibility:** BentoML is “Pythonic” and allows you to package any pre-trained model that you can import with Python, such as Large Language Models (LLMs), Stable Diffusion, or CLIP.
+  * **Clear documentation:** The documentation is easy to read, well-structured, and contains plenty of helpful examples.
+  * **Monitoring:** BentoML integrates withArizeAI and Prometheus metrics.
+
+
+
+#### Key limitations and drawbacks of BentoML
+
+  * **Requires extra implementation:** As BentoML is “Pythonic,” you are required to implement model loading and inference methods on your own.
+  * **Native support for high-performance runtime:** BentoML runs on Python. Therefore, it is not as optimal as Tensorflow Serving or TorchServe, both of which run on backends written in C++ that are compiled to machine code. However, it is possible to use the [ONNX Python API](https://docs.bentoml.com/en/latest/reference/frameworks/onnx.html) to speed up the inference time.
+
+
+
+#### Summary
+
+Overall, BentoML is a great tool that will fit most use cases and teams. The main drawbacks are the need to re-implement a Python service for every model and the potential complexity of integrating a model from a high-performance runtime.
+
+To learn more about this framework, read my [in-depth review of BentoML](https://www.axelmendoza.com/posts/bentoml-core-concepts-and-features/). You’ll also want to check out BentoCloud, a fully managed model-serving platform specifically designed to scale BentoML containers.
+
+### TensorFlow Serving (TFX)
+
+![Graph showing th elifecycle of TenorFlow Serving models](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/04/best-ml-model-serving-tools-3.png?resize=1571%2C816&ssl=1)The lifecycle of TensorFlow Serving models. A “Source” detects new model weights. It creates a “Loader” that contains a pointer to the model on disk. The “Source” notifies the “DynamicManager,” which tells the “Loader” to instantiate the TensorFlow graph with the new weights. |[ Source](https://www.tensorflow.org/tfx/serving/architecture)
+
+[TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) (TFX) is an open-source, high-performance serving runtime specifically designed to package TensorFlow and Keras models. It provides an optimized Docker image that connects your TensorFlow exported models to REST APIs.
+
+#### Reasons for choosing TensorFlow serving
+
+  * **Ease of use:** For TensorFlow models, the packaging process is as simple as using [one CLI command with Docker](https://www.tensorflow.org/tfx/serving/serving_basic#load_exported_model_with_standard_tensorflow_modelserver) and a [few lines of Python](https://www.tensorflow.org/tfx/serving/serving_basic#train_and_export_tensorflow_model). However, if you want to include custom pre-processing or post-processing into the servable, you will need to build a [custom signature](https://keras.io/examples/keras_recipes/tf_serving/#custom-signature).
+  * **High-performance runtime:** Once the model is exported from Python, we can package it with Docker. The TensorFlow Serving containers use a C++ runtime under the hood, making TensorFlow Serving one of the best-performing model-serving runtimes.
+  * **Customization:** This framework provides a clear abstraction for customizing the serving modules. However, to support models with custom operations, serve specific data associated with your model, or implement custom feature transformation logic, you need some knowledge of C++.
+
+
+
+#### Key limitations and drawbacks of TensorFlow Serving
+
+  * **ML framework support:** This tool only supports TensorFlow and Keras models.
+  * **Documentation:** We found the documentation somewhat simplistic and not very intuitive. It does not walk you through the concepts in order, and it feels like you are left exploring on your own.
+  * **No concurrent model execution:** TensorFlow Serving does not support intelligent load balancing on multiple models per device.
+
+
+
+#### Summary
+
+TensorFlow Serving (TFX) is your go-to framework if you use TensorFlow or Keras for model training. The tool provides a simple way to convert your model to a TensorFlow-specific high-performance runtime.
+
+However, if TensorFlow or Keras are not your framework of choice, TensorFlow Serving is not an option. While extending it to [support other ML frameworks](https://www.tensorflow.org/tfx/guide/non_tf) is possible, this approach lacks clear advantages as it will require additional implementation, while alternative model serving runtimes offer native support out of the box.
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-related--article.svg) Recommended  How to Serve Machine Learning Models With TensorFlow Serving and Docker  Read also  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](/blog/how-to-serve-machine-learning-models-with-tensorflow-serving-and-docker)
+
+### TorchServe
+
+![Graph showing TorchServe architecture ](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/04/best-ml-model-serving-tools-4.png?resize=1920%2C1082&ssl=1)The TorchServe architecture for optimized model inference | [Source](https://pytorch.org/serve/)
+
+[TorchServe](https://pytorch.org/serve/) is a model-serving runtime designed to serve PyTorch models in production environments. It aims to provide utilities to ease the process of building Docker images for your models, equipped with APIs and designed for optimal model inference.
+
+The steps to serve a model in PyTorch are the following:
+
+  1. **Export** : From the PyTorch definition of a model, we need to use [TorchScript](https://pytorch.org/docs/stable/jit.html) to export the model into a format that TorchServe can handle.
+  2. **Package:** Next, we use the `torch-model-archiver` utility to archive the model.
+  3. **Build the container:** Finally, we create a Docker image from the archive using the Docker CLI.
+
+
+
+#### Reasons for choosing TorchServe
+
+  * **Ease of use** : For simple use cases, serving a model with TorchServe is just a few CLI commands away. However, if your use case is not supported by the default handlers, you will need to develop your own handler in Python.
+  * **High-performance runtime:** TorchServe is among the top performers when it comes to model inference. The containers run models on a native runtime implemented in C++, resulting in amazing performance.
+  * **Customization:** The [TorchServe custom service guide](https://pytorch.org/serve/custom_service.html) is well thought out and provides many examples of how to extend its abstractions.
+
+
+
+#### Key limitations and drawbacks of TorchServe
+
+  * **ML Framework support:** This tool only supports PyTorch models.
+
+
+  * **No concurrent model execution:** TorchServe doesn’t support serving multiple instances of the same model on a single GPU or CPU.
+  * **Documentation:** The documentation for TorchServe, which is part of the broader PyTorch documentation, is difficult to navigate.
+
+
+
+#### Summary
+
+TorchServe is a mature and robust tool for teams training their model with PyTorch. Similar to TensorFlow Serving, being able to convert your model to a C++ runtime easily is a huge plus.
+
+### Triton Inference Server
+
+![The Triton Inference Server’s architecture](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/04/best-ml-model-serving-tools-5.png?resize=691%2C874&ssl=1)The Triton Inference Server’s architecture. It comprises multiple scheduling and batching algorithms that can be configured on a model-by-model basis. | [Source](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/architecture.html)
+
+[Triton Inference Server](https://www.nvidia.com/en-us/ai-data-science/products/triton-inference-server/) is an open-source serving runtime developed by Nvidia. It is the most performant framework because it fully exploits the underlying hardware.
+
+The [Triton architecture](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/architecture.html) is undeniably the most sophisticated one among serving runtimes. After all, who is better to trust for optimization than Nvidia, the leading GPU manufacturer?
+
+#### Reasons for choosing Triton Inference Server
+
+  * **Concurrent model execution:**[Triton’s instance group](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/model_configuration.html#instance-groups) feature allows multiple instances of a model to be loaded onto a single GPU. This enables an increase in performance proportional to the number of replicas on the same hardware. However, it’s important to remember that this method doesn’t increase the GPU’s vRAM. In other words, your GPU must have sufficient memory to handle at least two replicas of the model to achieve a performance gain this way.
+  * **ML framework support** : Triton offers the most extensive ML framework support among the tools on our list. Read more about the [deep learning frameworks it supports](https://github.com/triton-inference-server/backend#where-can-i-find-all-the-backends-that-are-available-for-triton) and its [machine learning framework integrations](https://github.com/triton-inference-server/fil_backend).
+  * **Advanced optimization:** Triton has many advanced features, such as [sequence batching](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/model_configuration.html#sequence-batcher) for stateful models or an [ensemble scheduler](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/model_configuration.html#ensemble-scheduler) to pass tensors between models.
+  * **In-depth monitoring** : Triton produces Prometheus [advanced monitoring metrics](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/metrics.html#metrics).
+
+
+  * **Advanced utilities** : Triton has been designed with performance in mind. It provides multiple utilities to reduce the latency and increase the throughput of your models:
+
+
+  * [Model Analyzer](https://github.com/triton-inference-server/model_analyzer) helps you optimize your model performance by finding the optimal configuration for your hardware, such as max batch size, dynamic batching, and [instance group parameters](https://github.com/triton-inference-server/server/blob/main/docs/user_guide/model_configuration.md#multiple-model-instances).
+  * Performance Analyzer enables debugging performance issues.
+  * Model Warmup can reduce the loading time of your models.
+
+
+  * **Documentation:** This framework has in-depth and comprehensive documentation.
+
+
+
+#### Key limitations and drawbacks of Triton Inference Server
+
+  * **Complexity:** Setting up and configuring Triton can be challenging. Within the model-serving domain, this framework has the most demanding learning curve, as users must become familiar with multiple concepts and abstractions.
+  * **Hardware dependency:** This tool is mainly designed for high-end Nvidia GPUs. Running on AMD is not supported, and running on a CPU is not worth the effort.
+
+
+
+#### Conclusion
+
+Triton is the prime choice for teams with robust software skills needing the best performance on Nvidia GPUs. It has no contender for large-scale scenarios demanding high throughput and low latency, as it is the only tool offering concurrent model execution on inference-optimized runtimes. However, the development costs associated with Triton and maintenance costs are not to be underestimated.
+
+Several model-serving tools provide integrations with Triton. Integrating [BentoML with Triton](https://docs.bentoml.com/en/v1.1.11/integrations/triton.html#why-integrating-bentoml-with-triton-inference-server) standardizes the model packaging process and versioning while increasing inference speed compared to standard BentoML. On the other hand, [Triton on Vertex AI](https://cloud.google.com/vertex-ai/docs/predictions/using-nvidia-triton) does not reduce the development and maintenance overhead of Triton but scales Triton instances for even better performance.
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-related--article.svg) Recommended  Optimizing GPU usage during model training with neptune.ai  Read also  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](https://neptune.ai/blog/optimizing-gpu-usage-during-model-training-with-neptune)
+
+### Titan Takeoff Inference Server
+
+![The Titan Takeoff Playground where the user can prompt the LLMs](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/04/best-ml-model-serving-tools-6.png?resize=1109%2C792&ssl=1)The Titan Takeoff Playground where the user can prompt the LLMs | [Source](https://docs.titanml.co/docs/Docs/quickstart)
+
+[Titan Takekoff](https://docs.titanml.co/docs/intro) is a closed-source serving runtime tailored for the deployment and self-hosting of Large Language Models (LLMs). It has been designed for teams with [data privacy concerns](https://docs.titanml.co/blog/what-can-i-build-with-titan-takeoff-server#control-over-data-andmodels), it supports both cloud and on-premise deployment.
+
+This tool provides proprietary Docker images specialized for LLM inference. It supports [most text generation and embedding models](https://docs.titanml.co/docs/Docs/launching/supported_models) from HuggingFace. 
+
+Titan Takeoff provides a [model memory calculator](https://docs.titanml.co/docs/0.10.x/Docs/interfacing/gui/#model-memory-calculator) to assist in choosing your hardware.. Moreover, it uses quantization techniques to compress your LLMs to support [larger models on your existing hardware](https://docs.titanml.co/blog/what-can-i-build-with-titan-takeoff-server#inference-optimisation).
+
+#### Reasons for choosing Titan Takeoff Inference Server
+
+  * **Inference for LLMs:** Features a proprietary inference engine for top-tier inference speed and throughput optimized for LLMs. However, TitanML does not share any details concerning their engine.
+  * **Simplified deployment** : This tool provides ready-made Docker images for easy self-hosting. For [supported models](https://docs.titanml.co/docs/Docs/launching/supported_models/), the container comes with the model already packaged inside of it. For custom models, there is [documentation to import your models](https://docs.titanml.co/docs/0.10.x/Docs/launching/supported_models#how-can-i-use-a-model-i-have-saved-locally) into a TitanML container.
+  * **Inference optimization:** Titan Takeoff tool offers multi-GPU support and quantization, with additional utilities to optimize model performance for specific hardware.
+  * **User-friendly interface:** Titan Takeoff Includes a GUI for model testing and management.
+  * **No cloud-provider lock-in:** This framework enables you to deploy your models on Amazon SageMaker, Vertex AI, EC2, CloudRun, LangChain API, or a Kubernetes cluster.
+
+
+
+#### Key limitations and drawbacks of Titan Takeoff Inference Server
+
+  * **Pricing:** The [pricing section on the TitanML website](https://www.titanml.co/pricing) does not provide any tangible information on the pricing structure or ranges.
+  * **Specialized focus:** Titan Takeoff is primarily designed for LLMs.
+  * **New product and company:** Titan Takeoff is relatively new, and the company behind it is still a small startup. It is yet to be seen if the product and its developers establish themselves as a serious contender.
+
+
+
+#### Summary
+
+Titan Takeoff Inference Server can be a reliable option for teams prioritizing data privacy for custom LLM deployments. In any case, this platform is worth watching for everyone interested in serving LLMs, given its early stage and growth potential.
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-related--article.svg) Recommended  Deep Learning Model Optimization Methods  Read also  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](/blog/deep-learning-model-optimization-methods)
+
+### Comparison of model-serving runtimes
+
+To help you navigate the model-serving runtimes we’ve reviewed, here’s an overview of their core features at a glance:
+
+Serving Runtimes  |  Multi-framework support  |  Complexity  |  Native high-performance runtime support(1)  |  Concurrent model execution  |  Model Versioning  |  LLM support  |  Pricing   
+---|---|---|---|---|---|---|---  
+**BentoML** |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Low |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Free +Paid for fully-managed  
+**TensorFlow Serving** |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Medium |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Free  
+**TorchServe** |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Medium |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Free  
+**Nvidia Triton** |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  High |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Free  
+**TitanML** |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Low |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Paid  
+  
+As all the serving runtimes we’ve considered support REST APIs, gRPC, adaptive batching, asynchronous APIs, and produce Prometheus logs. We’ve decided not to add columns for these features in our comparison table to keep it concise and informative.
+
+## Model-serving platforms
+
+The role of a model-serving platform is to manage the infrastructure for deploying and scaling machine-learning models.
+
+It’s essential to understand that the decision isn’t between choosing a serving platform or a serving runtime. In most scenarios, you’ll need both. In fact, a model packaged with a serving runtime can then be deployed on a serving platform for scaling and monitoring.
+
+It’s also worth mentioning that most serving platforms have their own native serving runtimes that you can choose to use or substitute for an external one.
+
+Let’s take the example of the Vertex AI serving platform:
+
+  * **Native serving runtime:** You can deploy your model using a [pre-built model container](https://cloud.google.com/vertex-ai/docs/model-registry/import-model#container-type) provided by Google.
+  * **External serving runtime:** Another option is to use a [custom container](https://cloud.google.com/vertex-ai/docs/predictions/use-custom-container) that you created with a model serving runtime such as BentoML.
+
+
+
+### Cloud-provider platforms (Amazon SageMaker, Vertex AI, Azure Machine Learning)
+
+![Comparison of model-serving components on AWS, Azure, and GCP](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/04/best-ml-model-serving-tools-7.png?resize=1400%2C634&ssl=1)Comparison of model-serving components on AWS, Azure, and GCP | [Source](https://medium.com/@vineetjaiswal/introduction-comparison-of-mlops-platforms-aws-sagemaker-azure-machine-learning-gcp-vertex-ai-9c1153399c8e)
+
+The model-serving platforms by the three big cloud providers – Amazon SageMaker, Vertex AI, and Azure Machine Learning – are very similar. They are part of end-to-end machine-learning platforms that manage the entire lifecycle from data preparation over experimentation and training to deployment.
+
+#### Reasons for choosing a cloud-provider platform
+
+  * **Ease of use:** The simplicity of these platforms enables even small and relatively inexperienced teams to deploy, monitor, and scale ML models at a fast pace.
+  * **Tight integration:** Simplifies the integration of machine learning models with the services and tools of the respective cloud provider. For example, Vertex AI has full integration with the Google Cloud Platform, while SageMaker works seamlessly with many other AWS services.
+  * **Managed Infrastructure** : Requires little setup and maintenance for scaling ML models. The platform will commission and manage the necessary compute resources on your behalf.
+  * **Auto-scaling endpoints:** Model endpoints are automatically adjusted according to the incoming traffic with minimal effort. (Among the three we discuss here, Amazon SageMaker is the only solution that enables its machine-learning inference endpoints to scale to zero.)
+  * **Support** : It is possible to receive extensive support from the respective provider with an additional subscription.
+  * **Built-in monitoring:** These platforms do not need additional infrastructure to monitor the model containers but come with integrated model metrics that are sufficient in many scenarios.
+  * **Documentation** : Provides comprehensive and regularly updated documentation. However, the often vast documentation is notoriously cumbersome to navigate.
+
+
+
+#### Key limitations and drawbacks of cloud-provider platforms
+
+  * **Vendor lock-in** : The tight integration creates a strong dependence on the respective cloud provider. Migrating to other platforms is often equivalent to re-engineering large parts of the setup.
+  * **High cost:** These platforms are more expensive than self-managed infrastructure, particularly if your application needs high-end GPUs. Cloud providers charge a significant premium compared to their regular infrastructure prices.
+  * **Complex pricing:** It is usually difficult to evaluate costs fully due to the multiple factors that contribute to the overall expense, such as compute resources, storage needs, and network bandwidth, in addition to the premium charged for using the fully managed solution.
+  * **Operational constraints:** The cloud-provider platforms enforce vendor-specific formats and procedures. This limits flexibility and customizability as you are obligated to follow the constraints of the cloud providers.
+
+
+
+#### Summary
+
+Cloud-provider platforms are ideal for small to medium teams with limited MLOps expertise. They’re also a good fit for companies that are committed to a cloud platform for the long term and prefer to delegate most of the maintenance of their environment. However, they must be prepared to pay the high costs associated with them.
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-related--article.svg) Recommended  The Best Amazon SageMaker Alternatives [for Experiment Tracking and Model Management]  Read also  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](/blog/amazon-sagemaker-alternatives)
+
+### KServe
+
+![Overview of KServe’s ModelMesh architecture for high-scale serving.](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/04/best-ml-model-serving-tools-8.png?resize=1134%2C704&ssl=1)Overview of KServe’s ModelMesh architecture for high-scale serving. A controller Pod orchestrates multiple Kubernetes Deployments, which load and serve multiple models. A routing layer spawns the runtime Pods and distributes incoming requests. | [Source](https://kserve.github.io/website/0.11/modelserving/mms/modelmesh/overview/)
+
+[KServe](https://kserve.github.io/website) is an open-source tool that focuses on serving and scaling machine-learning models on [Kubernetes](https://kubernetes.io/).
+
+Previously called KFServing, this tool originated from the open-source [Kubeflow](https://www.kubeflow.org/) project. It has been renamed KServe and now operates as a standalone server.
+
+#### Reasons for choosing KServe
+
+  * **Auto-scaling:** This platform offers auto-scaling capabilities out-of-the-box. Additionally, it supports scaling to zero to optimize resource costs.
+  * **Online prediction:** The [KServe architecture](https://kserve.github.io/website/0.11/modelserving/control_plane/) enables efficient real-time inference.
+  * **Batch prediction:** KServe implements a sophisticated [inference batcher](https://kserve.github.io/website/master/modelserving/batcher/batcher/) providing high-performance batch predictions.
+  * **Complex inference graphs** : KServe provides an elegant design to handle complex [inference graphs](https://kserve.github.io/website/0.9/modelserving/inference_graph/#concepts) efficiently.
+  * **ML framework support** : Supports a variety of ML frameworks, such as TensorFlow and PyTorch.
+  * **Integration** : Integrates well with a broad array of tools such as ZenML, Kafka, Nvidia Triton, Grafana, and more.
+  * **Deployment strategies:** KServe offers advanced deployment strategies like Multi-Armed Bandits, A/B testing, and Canary deployments.
+  * **Community support** : This platform benefits from an active and supportive community.
+
+
+
+#### Key limitations and drawbacks of KServe
+
+  * **Complexity of Kubernetes:** KServe requires you to deploy and maintain your own Kubernetes cluster, which can be challenging without a dedicated DevOps team.
+  * **Lack of built-in monitoring** : KServe does not include a built-in solution for model monitoring. KServe containers produce Prometheus logs, but the user is left to install and maintain a Prometheus server. However, as KServe is already running on K8s, adding an extra component shouldn’t be a problem.
+
+
+
+#### Summary
+
+This platform is ideal for teams with solid Kubernetes knowledge that prioritize advanced deployment features and customization to tailor their MLOps infrastructure to their application.
+
+### Seldon Core
+
+![Schematic depiction of a simple and a complex inference graph with Seldon Core](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/04/best-ml-model-serving-tools-9.png?resize=1920%2C988&ssl=1)Schematic depiction of a simple and a complex inference graph with Seldon Core | [Source](https://github.com/SeldonIO/seldon-core)
+
+[Seldon Core](https://www.seldon.io/solutions/seldon-core) is a model-serving platform to deploy and scale machine-learning models on [Kubernetes](https://kubernetes.io). This platform is well-known for its advanced deployment features.
+
+Until January 22, 2024, Seldon Core was available as a free open-source tool. However, it transitioned to a Business Source License (BSL) 1.1. Companies now require a yearly subscription fee of $18,000 for commercializing products designed with Seldon Core versions released after the 22 of January 2024.
+
+#### Reasons for choosing Seldon Core
+
+  * **Online prediction:** Offers a robust online prediction solution with [native Kafka integration.](https://docs.seldon.io/projects/seldon-core/en/latest/streaming/kafka.html)
+  * **Batch prediction:** This tool provides a well-structured approach for [batch prediction](https://docs.seldon.io/projects/seldon-core/en/latest/servers/batch.html#servers-batch--page-root).
+  * **Advanced deployment:** Supports Multi-Armed Bandit, Canary deployments, and A/B testing.
+
+
+
+#### Key limitations and drawbacks of Seldon Core
+
+  * **Expensive subscription:**[Seldon’s pricing](https://www.seldon.io/pricing) starts at $18,000 a year without provider support.
+  * **Complexity of Kubernetes:** Seldon Core requires you to deploy and maintain your own Kubernetes cluster, which can be challenging without a dedicated DevOps team.
+  * **Auto-scaling:** Auto-scaling requires extra setup through [KEDA](https://keda.sh/) and does not support scale-to-zero.
+
+
+
+#### Summary
+
+Seldon Core is a viable and reliable alternative for teams looking to scale machine learning models on Kubernetes and use advanced deployment features.
+
+![The BentoCloud user interface ](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/04/best-ml-model-serving-tools-10.png?resize=1920%2C1729&ssl=1)The BentoCloud user interface displaying supported pre-packaged ML models | Source: Screenshot Author
+
+### BentoCloud
+
+The BentoCloud user interface displaying supported pre-packaged ML models | Source: Screenshot Author
+
+[BentoCloud](https://www.bentoml.com/cloud) is a proprietary model-serving platform for scaling BentoML containers, designed and operated by the same company that built BentoML. Its goal is performance and cost-efficiency.
+
+BentoCloud leverages the BentoML serving runtime to provide pre-built model containers and high-level APIs to scale machine-learning models with a few lines of code.
+
+#### Reasons for choosing BentoCloud
+
+  * **Ease of use:** BentoCloud provides a simple yet effective CLI experience for developers to deploy BentoML containers [on various cloud providers](https://docs.bentoml.org/en/latest/bentocloud/how-tos/byoc.html).
+  * **Complex inference graphs:** BentoCloud allows the building of distributed inference graphs with multiple models.
+  * **Auto-scaling:** The BentoCloud platform supports auto-scaling out of the box and can scale to zero.
+  * **Advanced deployment strategies:** BentoCloud supports canary deployments and A/B testing.
+  * **ML framework support:** As this platform scales and manages BentoML containers, it inherits its broad machine-learning framework support.
+  * **No vendor lock-in:** Enterprise customers can[ deploy BentoCloud to their cloud provider of choice](https://docs.bentoml.org/en/latest/bentocloud/how-tos/byoc.html). Further, teams can always deploy their BentoML Docker images outside of BentoCloud.
+  * **Built-in monitoring:** Model metrics are accessible from the BentoCloud UI without requiring additional setup.
+
+
+
+#### Key limitations and drawbacks of BentoCloud
+
+  * **Cost:** BentoCloud platform is not open-source. The fully managed variant operates on a pay-as-you-go pricing model. An enterprise subscription (pricing not publicly available) allows deploying BentoCloud on your own cloud infrastructure.
+  * **Requires BentoML:** BentoCloud only supports models packaged with the BentoML model-serving runtime
+  * **No multi-armed bandits:** BentoCloud does not support the multi-armed bandit deployment strategy
+
+
+
+#### Summary
+
+BentoCloud is a strong choice for teams willing to use BentoML as their serving runtime and are looking for a fully managed platform that is easy to use.
+
+### Comparison of model-serving platforms
+
+To help you navigate the model-serving platforms we’ve discussed, here’s an overview of their core features at a glance:
+
+Serving Platforms  |  Multi-framework support  |  Complexity  |  Auto Scaling  |  Needs K8s  |  Scales to zero  |  Vendor Lock-in  |  Multi Armed Bandits  |  A/B Testing  |  Canary  |  Built-in Monitoring  |  Pricing   
+---|---|---|---|---|---|---|---|---|---|---|---  
+**Amazon SageMaker** |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Medium |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Paid  
+**Vertex AI** |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Medium |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Paid  
+**Azure Machine Learning** |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Medium |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Paid  
+**KServe** |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  High |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Free  
+**Seldon Core** |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  High |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Paid  
+**BentoCloud** |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Low |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) |  Paid  
+  
+## Conclusion
+
+Choosing the right model-serving tool is essential for turning machine learning models into applications that bring value.
+
+In this article, we provided an overview of serving runtimes and platforms, highlighting their features, benefits, and limitations. If you made it this far, you likely understood the difficulty of finding your company’s optimal model-serving stack.
+
+Remember that your choice should be based on your project’s needs, your team’s skills, and how much control you need over deployment and scaling. Factors like framework compatibility, integration capabilities, and the trade-off between complexity and functionality are key to this decision as well.
+
+Here’s our last bit of advice: start by narrowing down which tools can match your specific use case. Then, take some time to build a proof of concept (PoC) for each potential option. There is no better way to get the feel of a framework than to start a quick implementation.
+
+##  Was the article useful? 
+
+![yes](https://neptune.ai/wp-content/themes/neptune/img/icon-article-rating--yes.svg) Yes  ![no](https://neptune.ai/wp-content/themes/neptune/img/icon-article-rating--no.svg) No 
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-bulb.svg) Suggest changes 
+
+Your email Your message (optional)
+
+This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply. 
+
+I am familiar with the [Privacy Policy](https://neptune.staginglab.eu/privacy-policy)*
+
+Submit
+
+Δ
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/i-box/header-icon.svg)
+
+### **More about** Best Tools For ML Model Serving 
+
+####  Check out our  **product resources** and  **related articles** below: 
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/ibox-related.svg) Related article  MLOps Landscape in 2024: Top Tools and Platforms  Read more  ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](https://neptune.ai/blog/mlops-tools-platforms-landscape) [ ![](https://neptune.ai/wp-content/themes/neptune/img/ibox-related.svg) Related article  13 Best Tools for ML Experiment Tracking and Management in 2024  Read more  ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](https://neptune.ai/blog/best-ml-experiment-tracking-tools) [ ![](https://neptune.ai/wp-content/themes/neptune/img/ibox-related.svg) Related article  How to Optimize GPU Usage During Model Training With neptune.ai  Read more  ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](https://neptune.ai/blog/optimizing-gpu-usage-during-model-training-with-neptune) [ ![](https://neptune.ai/wp-content/themes/neptune/img/ibox-related.svg) Related article  Building a Machine Learning Platform [Definitive Guide]  Read more  ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](https://neptune.ai/blog/ml-platform-guide)
+
+###  Explore more content topics: 
+
+[ Computer Vision ](https://neptune.ai/blog/category/computer-vision) [ General ](https://neptune.ai/blog/category/general) [ LLMOps ](https://neptune.ai/blog/category/llmops) [ ML Model Development ](https://neptune.ai/blog/category/machine-learning-model-development) [ ML Tools ](https://neptune.ai/blog/category/machine-learning-tools) [ MLOps ](https://neptune.ai/blog/category/mlops) [ Natural Language Processing ](https://neptune.ai/blog/category/natural-language-processing) [ Paper Reflections ](https://neptune.ai/blog/category/paper-reflections) [ Product Updates ](https://neptune.ai/blog/category/product-updates) [ Reinforcement Learning ](https://neptune.ai/blog/category/reinforcement-learning) [ Tabular Data ](https://neptune.ai/blog/category/tabular-data) [ Time Series ](https://neptune.ai/blog/category/time-series-forecasting)
+
+About neptune.ai ![chevron](https://neptune.ai/wp-content/themes/neptune/img/blocks/accordion-simple/icon-arrow-accordion-small.svg)
+
+![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1920 1080'%3E%3C/svg%3E) ![](https://neptune.ai/wp-content/themes/neptune/img/icon-play.svg)
+
+Neptune is the experiment tracker for teams that train foundation models. 
+
+It lets you monitor months-long model training, track massive amounts of data, and compare thousands of metrics in seconds. 
+
+[ Play with a live project  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](https://demo.neptune.ai/) [ See Docs  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](https://docs.neptune.ai/)
+
+Table of contents
+
+![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-small.svg)
+
+  1. Understanding model serving
+  2. Do you need a model-serving runtime?
+  3. Criteria for selecting model-serving tools
+  4. The top model-serving tools in 2024 
+  5. Model-serving runtimes
+     * BentoML
+     * TensorFlow Serving (TFX)
+     * TorchServe
+     * Triton Inference Server
+     * Titan Takeoff Inference Server
+     * Comparison of model-serving runtimes
+  6. Model-serving platforms
+     * Cloud-provider platforms (Amazon SageMaker, Vertex AI, Azure Machine Learning)
+     * KServe
+     * Seldon Core
+     * BentoCloud
+     * Comparison of model-serving platforms
+  7. Conclusion
+
+
+
+![chevron](https://neptune.ai/wp-content/themes/neptune/img/popup-cancel.svg) ![chevron](https://neptune.ai/wp-content/themes/neptune/img/popup-more.svg)
+
+Check also: [A Quickstart Guide to Auto-Sklearn (AutoML) For Machine Learning Practitioners](https://neptune.ai/blog/a-quickstart-guide-to-auto-sklearn-automl-for-machine-learning-practitioners)
+
+##  **Manage your model metadata in a single place**
+
+Join 50,000+ ML Engineers & Data Scientists using Neptune to easily log, compare, register, and share ML metadata.
+
+[ Try Neptune for free  ](https://app.neptune.ai/register) [ Check out the Docs  ](https://docs.neptune.ai/)
+
+[ Take an interactive product tour  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) ](https://app.neptune.ai/o/showcase/org/onboarding-project/runs/table?viewId=98f66b32-2279-4b73-8210-863021c440ac&product_tour_id=444083)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/footer-post-illustration.svg)
+
+#### Newsletter
+
+Top articles, case studies, events (and more) in your inbox every month.
+
+Get Newsletter
+
+  * [Product](#)
+    * [Resources](https://neptune.ai/resources)
+    * [Pricing](https://neptune.ai/pricing)
+    * [Deployment options](https://neptune.ai/product/deployment-options)
+    * [Service status](https://status.neptune.ai/)
+
+
+  * [Solutions](#)
+    * [AI Researcher](https://neptune.ai/product/ai-researcher)
+    * [ML Team Lead](https://neptune.ai/product/ml-team-lead)
+    * [ML Platform Engineer](https://neptune.ai/product/ml-platform)
+    * [Enterprise](https://neptune.ai/product/enterprise)
+    * [Academic Research](https://neptune.ai/research)
+
+
+  * [Documentation](#)
+    * [Quickstart](https://docs.neptune.ai/usage/quickstart/)
+    * [Neptune docs](https://docs.neptune.ai/)
+    * [Neptune integrations](https://docs.neptune.ai/integrations/)
+
+
+  * [Compare](#)
+    * [Neptune vs Weights & Biases](https://neptune.ai/vs/wandb)
+    * [Neptune vs MLflow](https://neptune.ai/vs/mlflow)
+    * [Neptune vs TensorBoard](https://neptune.ai/vs/tensorboard)
+    * [Other comparisons](/vs)
+    * [ML experiment tracking tools](/blog/best-ml-experiment-tracking-tools)
+
+
+  * [Community](#)
+    * [Blog](https://neptune.ai/blog)
+    * [Experiment Tracking Learning Hub](https://neptune.ai/experiment-tracking-learn-hub)
+    * [LLMOps Learning Hub](https://neptune.ai/llmops-learning-hub)
+    * [MLOps Learning Hub](https://neptune.ai/mlops-learn-hub)
+    * [How to Build an Experiment Tracker](https://neptune.ai/blog/build-experiment-tracking-tool)
+
+
+  * [Company](#)
+    * [About us](https://neptune.ai/about-us)
+    * [Customers](https://neptune.ai/customers)
+    * [Careers](https://neptune.ai/jobs)
+    * [Security portal and SOC 2](https://security.neptune.ai/)
+    * [Contact us](https://neptune.ai/contact-us)
+
+
+
+[ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-linked-in.svg) ](https://www.linkedin.com/company/neptuneai) [ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-twitter.svg) ](https://twitter.com/neptune_ai) [ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-github.svg) ](https://github.com/neptune-ai) [ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-facebook.svg) ](https://www.facebook.com/neptuneAI) [ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-youtube.svg) ](https://www.youtube.com/channel/UCvOJU-ubyUqxGSDRN7xK4Ng) [ ![social icon](https://neptune.ai/wp-content/uploads/2023/01/icon-spotify.svg) ](https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x) [ ![social icon](https://neptune.ai/wp-content/uploads/2023/01/icon-apple-podcast.svg) ](https://podcasts.apple.com/us/podcast/mlops-live/id1634179447)
+
+Copyright © 2025 Neptune Labs. All rights reserved.
+
+![](https://neptune.ai/wp-content/themes/neptune/img/footer-stars--414w.png) ![](https://pixel.wp.com/g.gif?v=ext&blog=211928962&post=3737&tz=0&srv=neptune.ai&hp=atomic&ac=2&amp=0&j=1%3A14.3-a.1&host=neptune.ai&ref=&fcp=1242&rand=0.8583477002653803)

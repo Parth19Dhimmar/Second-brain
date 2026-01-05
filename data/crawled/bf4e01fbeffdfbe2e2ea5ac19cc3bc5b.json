@@ -1,0 +1,48 @@
+{
+    "id": "bf4e01fbeffdfbe2e2ea5ac19cc3bc5b",
+    "metadata": {
+        "id": "bf4e01fbeffdfbe2e2ea5ac19cc3bc5b",
+        "url": "https://argoproj.github.io/workflows/",
+        "title": "Argo Workflows | Argo",
+        "properties": {
+            "description": "Kubernetes-native workflow engine supporting DAG and step-based workflows.",
+            "keywords": null,
+            "author": null,
+            "og:title": "Argo Workflows",
+            "og:description": "Kubernetes-native workflow engine supporting DAG and step-based workflows.",
+            "og:type": "website",
+            "og:image": "/static/db13ca8ed5bf65c28742454220231e7e/workflows-thumbnail.png",
+            "og:url": "https://argoproj.github.io/workflows/",
+            "twitter:card": "summary",
+            "twitter:title": "Argo Workflows",
+            "twitter:description": "Kubernetes-native workflow engine supporting DAG and step-based workflows."
+        }
+    },
+    "parent_metadata": {
+        "id": "9422547ae9ad553b3d329aa1a5ffaf9a",
+        "url": "https://www.notion.so/Orchestrators-9422547ae9ad553b3d329aa1a5ffaf9a",
+        "title": "Orchestrators",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "content": "[Skip to content](#main)\n\n[Join us at ArgoCon NA 2024, colocated with KubeCon/CloudNativeCon 2024 Salt Lake City. Register now!](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/argocon/)\n\n[Argo](/)\n\n  * [Workflows](/workflows/)\n  * [CD](/cd/)\n  * [Rollouts](/rollouts/)\n  * [Events](/events/)\n  * [Trainings](/trainings/)\n  * [ Blog ](https://blog.argoproj.io)\n\n\n\n[](https://github.com/argoproj \"Follow us on GitHub\")[](/community/join-slack/)\n\n# Argo Workflows\n\nKubernetes-native workflow engine supporting DAG and step-based workflows.\n\n[ Documentation ](https://argo-workflows.readthedocs.io/en/latest/)\n\n## What is Argo Workflows?\n\nArgo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD.\n\n  * Define workflows where each step in the workflow is a container.\n  * Model multi-step workflows as a sequence of tasks or capture the dependencies between tasks using a graph (DAG).\n  * Easily run compute intensive jobs for machine learning or data processing in a fraction of the time using Argo Workflows on Kubernetes.\n  * Run CI/CD pipelines natively on Kubernetes without configuring complex software development products.\n\n\n\n## Why Argo Workflows?\n\n  * Designed from the ground up for containers without the overhead and limitations of legacy VM and server-based environments.\n  * Cloud agnostic and can run on any Kubernetes cluster.\n  * Easily orchestrate highly parallel jobs on Kubernetes.\n  * Argo Workflows puts a cloud-scale supercomputer at your fingertips!\n\n\n\n[ View Docs ](https://argo-workflows.readthedocs.io/en/latest/)[ Get Started ](https://argo-workflows.readthedocs.io/en/latest/quick-start/)\n\n[](https://github.com/argoproj \"Follow us on GitHub\")[](/community/join-slack/)\n\n2025 © Argo Project Authors. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our [Trademark Usage page](https://www.linuxfoundation.org/trademark-usage).\n",
+    "content_quality_score": 0.8,
+    "summary": null,
+    "child_urls": [
+        "https://argoproj.github.io/workflows/#main",
+        "https://argoproj.github.io/",
+        "https://argoproj.github.io/workflows/",
+        "https://argoproj.github.io/cd/",
+        "https://argoproj.github.io/rollouts/",
+        "https://argoproj.github.io/events/",
+        "https://argoproj.github.io/trainings/",
+        "https://argoproj.github.io/community/join-slack/",
+        "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/argocon/",
+        "https://blog.argoproj.io",
+        "https://github.com/argoproj",
+        "https://argo-workflows.readthedocs.io/en/latest/",
+        "https://argo-workflows.readthedocs.io/en/latest/quick-start/",
+        "https://www.linuxfoundation.org/trademark-usage"
+    ]
+}

@@ -1,0 +1,20 @@
+# Resources [Community]
+
+	[https://openai.com/index/techniques-for-training-large-neural-networks/](https://openai.com/index/techniques-for-training-large-neural-networks/)
+
+# Resources [Science]
+
+	# DeepSpeed
+	
+	[https://arxiv.org/abs/2104.07857](https://arxiv.org/abs/2104.07857)
+	[https://arxiv.org/abs/2101.06840](https://arxiv.org/abs/2101.06840)
+	[https://arxiv.org/abs/1910.02054](https://arxiv.org/abs/1910.02054)
+
+# Tools
+
+	[https://pytorch.org/tutorials/intermediate/FSDP_tutorial.html](https://pytorch.org/tutorials/intermediate/FSDP_tutorial.html)
+	[Link Preview](https://github.com/pytorch/PiPPy)
+	
+	[Link Preview](https://github.com/microsoft/DeepSpeed)
+	[Link Preview](https://github.com/huggingface/accelerate)
+	[Link Preview](https://github.com/NVIDIA/Megatron-LM)

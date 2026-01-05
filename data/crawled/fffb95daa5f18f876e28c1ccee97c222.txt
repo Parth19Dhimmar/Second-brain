@@ -1,0 +1,285 @@
+[![Read Medium logo](/_next/image?url=%2Fimages%2Flogo%2Flogo-black.webp&w=384&q=75)](/)
+
+No Results
+
+Translate to
+
+EnglishEN
+
+![avatar](https://miro.readmedium.com/v2/resize:fill:88:88/1*_EWL2lSb84Qu1dU07IPzDQ.jpeg)Shrinivasan Sankar
+
+[Twitter](/#twitter)[Facebook](/#facebook)[LinkedIn](/#linkedin)[WeChat](/#wechat)[Qzone](/#qzone)
+
+Summary
+
+The web content provides a comparative analysis of six Python libraries for rule-based PDF parsing, essential for extracting text, numbers, and tables from PDFs for use in language models and Retrieval Augmented Generation (RAG) pipelines.
+
+Abstract
+
+The article delves into the intricacies of rule-based PDF parsing, a crucial step in data extraction for fine-tuning language models and developing RAG pipelines. It compares the capabilities and limitations of six Python libraries: PyPDF2, pdfminer, PDFQuery, Camelot, PDFPlumber, and Tabula-py. Each library is evaluated based on its ability to handle text, tables, and figures, with hands-on examples provided for extracting content from a research paper on RAG. The author highlights the need for sophisticated methods due to the limitations of rule-based approaches, such as the inability to preserve structural elements like tables. The article concludes with a summary of the pros and cons of each framework and teases future exploration into learning-based methods for PDF parsing.
+
+Opinions
+
+  * The author suggests that rule-based parsing is effective for standardized documents like forms but may struggle with complex layouts and academic papers.
+  * PyPDF2 is noted for its simplicity and integration with other tools like LangChain and LlamaIndex, but it lacks advanced features for handling equations and figures.
+  * Pdfminer is praised for its detailed layout analysis and the ability to extract text from specific areas, but it does not handle tables well.
+  * Camelot and PDFPlumber are recognized for their specialized ability to extract tables, yet they may fail with tables lacking clear borders.
+  * Tabula-py, a Python wrapper for the Java library Tabula, is acknowledged for its effectiveness in extracting tables, although it can misinterpret non-table text as tables.
+  * The author expresses a need for more sophisticated, learning-based methods to overcome the limitations of rule-based PDF parsing.
+  * The article emphasizes the importance of being able to extract and interpret knowledge from PDFs, especially in the context of advancing language models and RAG pipelines.
+
+
+
+[Use the OpenAI o1 models for free at OpenAI01.net (10 times a day for free)!](https://OpenAI01.net "PS2 Filter AI")
+
+# Comparing 6 Frameworks for Rule-based PDF parsing
+
+![](https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*UQO-qVxVajArJPIqmt7eqg.jpeg)
+
+My [first article](https://readmedium.com/pdf-parsing-for-llms-and-rag-pipelines-a-complete-guide-fe0c4b499240) in the series on pdf parsing gave a comprehensive introduction to pdf parsing, different parsing methods, and their pros and cons.
+
+In this article, let's dive deeper into the r**ule-based** PDF parsing. With a brief on theory, let's get hands-on and compare different Python libraries available for rule-based parsing of PDF documents.
+
+> **Non-members please read for free[here](https://www.ai-bites.net/comparing-6-frameworks-for-rule-based-pdf-parsing). If you sign-up, you will get these articles right to your inbox!**
+
+# Motivation
+
+Parsing PDFs is a fundamental step to gett started with fine-tuning an LLM or developing a Retrieval Augmented Generation (RAG) pipeline. People interested in language models are mostly interested in extracting text, numbers, and/or text from tables and at times even images such as figures, graphs, etc., which are quite common occurrences in PDFs. Without extracting this data, neither fine-tuning nor developing a RAG pipeline is possible.
+
+_Note: If you wish to get an overview of RAG, please check out this[article](https://readmedium.com/retrieval-augmented-generation-rag-a-quick-and-comprehensive-introduction-6cd5217a4ebb)._
+
+# Rule-based Parsing
+
+Rule-based parsing, also referred to as template-based defines rules to extract information from PDF documents. A good example where rule-based parsing works is form filling. For example, an organization can use a standard template to enroll new employees. Rule-based parsing will work a charm for this example. Another good example could be extracting data from invoices and updating expenses into an in-house database.
+
+## Rule-based Parsing Frameworks
+
+  1. **PyPDF2.** PyPDF2 is apure Python library for reading and writing PDFs. It's good for simple text extraction and basic manipulation. Its simplicity also means that its support for complex layouts or images is limited.
+  2. **pdfminer.** pdfminer specializes in text extraction from PDFs. It provides detailed layout analysis and it also supports various text encodings.
+  3. **PDFQuery**. PDFQuery is built on top of pdfminer. It allows for more complex querying of PDF content. Moreover, it uses CSS-like selectors for targeting specific elements in a given PDF document.
+  4. **Camelot.** Camelot specializes in extracting tables from PDFs. It offers both stream and lattice parsing methods. It is good for structured data extraction.
+  5. **PDFPluber.** PDFPlumber is built on top of pdfminer.six (a fork of pdfminer). It provides detailed layout analysis and text extraction. It also includes tools for extracting tables and images.
+  6. **Tabula-py.** Tabula is a Java library. So Tabula-py is not quite a Python library but rather a Python wrapper for Tabula-java. As the name suggests, it focuses on extracting tables from PDFs. As it's a specialized library for tabular format, it handles complex tables quite well in PDFs.
+
+
+
+# Hands-On
+
+Without further adieu, let’s get our hands dirty with the frameworks. All the code for this article is available in this notebook.
+
+In these examples, try to extract text, tables, and figures from the RAG paper published [here](https://arxiv.org/abs/2005.11401). You may download and try it out yourself. Research papers are good candidates as almost all of them tend to have text, figures to explain the method, and some plots and tables to show the results.
+
+## PyPDF2
+
+Installing PyPDF2 is very simple with pip. The specialty of PyPDF2 lies in its simplicity. So, simple text extraction goes like this:
+
+```
+import PyPDF2 # Reading text from a PDF def read_pdf(file_path): with open(file_path, 'rb') as file: reader = PyPDF2.PdfReader(file) text = "" for page in reader.pages: text += page.extract_text() + "\n" return text
+```
+
+Invoking the function,
+
+```
+text = read_pdf('rag_paper.pdf') print(text)
+```
+
+Here are some parts of the results of text extraction.
+
+```
+issues because knowledge can be directly revised and expanded, and accessed knowledge can be inspected and interpreted. REALM [ 20] and ORQA [ 31], two recently introduced models that combine masked language models [ 8] with a differentiable retriever, have shown promising results,arXiv:2005.11401v4 [cs.CL] 12 Apr 2021 The Divine Comedy (x) qQuery Encoder q(x) MIPS p θGenerator pθ
+```
+
+We can notice that:
+
+  * It doesn’t care about equations. It just extracts them as text
+  * It doesn’t care about figures either. As the words, “ _The Divine Comedy (x) qQuery_ ” are taken from Figure 1. in the paper.
+
+
+
+Clearly, PyPDF2 is quite basic. The good news is that PyPDF2 is integrated with LangChain and LlamaIndex. For example, if you do `from langchain_community.document_loaders import PyPDFLoader `and load a PDF, it uses PyPDF2 behind the scenes.
+
+## pdfminer
+
+We can get started with installing the framework. Note the difference in name for installation.
+
+```
+pip install pdfminer.six
+```
+
+We then need to import a few functions including the `extract_text` function which readily extracts the text from our PDF. Note that the`extract_text` is function readily available making it just a 1 line code to extract text with pdfminer!
+
+```
+from pdfminer.high_level import extract_text from pdfminer.layout import LAParams from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter from pdfminer.pdfpage import PDFPage from pdfminer.converter import TextConverter, PDFPageAggregator from io import StringIO # Simple text extraction def extract_text_from_pdf(pdf_path): return extract_text(pdf_path) 
+```
+
+We can go one step further if our PDF has too many pages and extract a single page by providing the `start_page` and `end_page` parameters.
+
+```
+def extract_text_from_pages(pdf_path, start_page, end_page): text = "" with open(pdf_path, 'rb') as file: manager = PDFResourceManager() output = StringIO() converter = TextConverter(manager, output, laparams=LAParams()) interpreter = PDFPageInterpreter(manager, converter) for page in PDFPage.get_pages(file, page_numbers=range(start_page-1, end_page)): interpreter.process_page(page) text = output.getvalue() converter.close() output.close()
+```
+
+In addition, it has the potential to get more granular and extract text from specific areas of the PDF specified by providing the `x1, y1, x2, y2` coordinates. This perfectly suits reading forms that follow a strict template.
+
+Below are some excerpts from the results that led me to by following observation:
+
+```
+There are several advantages to generating answers even when it is possible to extract them. Docu- ments with clues about the answer but do not contain the answer verbatim can still contribute towards a correct answer being generated, which is not possible with standard extractive approaches, leading 5 Table 1: Open-Domain QA Test Scores. For TQA, left column uses the standard test set for Open- Domain QA, right column uses the TQA-Wiki
+```
+
+```
+issues because knowledge can be directly revised and expanded, and accessed knowledge can be inspected and interpreted. REALM [20] and ORQA [31], two recently introduced models that combine masked language models [8] with a differentiable retriever, have shown promising results, Figure 1: Overview of our approach. We combine a pre-trained retriever (Query Encoder + Document Index) with a pre-trained seq2seq model (Generator) and ﬁne-tune end-to-end. For query x, we use Maximum Inner Product Search (MIPS) to ﬁnd the top-K documents zi. For ﬁnal prediction y, we treat z as a latent variable and marginalize over seq2seq predictions given different documents.
+```
+
+  * The framework seems to preserve the format of the input file
+  * It completely and safely ignores figures. This is better than extracting a jumble of text from figures and making life harder with further processing
+  * It safely ignores the tables but extracts the subtitles given to the tables.
+
+
+
+## Camelot
+
+As we can notice from the shortcomings of pdfminer, tables are a different breed and hence need to be treated separately. This is where Camelot comes in. Recently Camelot has been renamed to `pypdf_table_extraction`as shown on the PyPi page below, making its usage explicit. But to work with it, we still need to `import camelot`. So I believe the underlying code hasn’t changed much.
+
+![](https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*RPfKFZe9AkCXszMkHY5Z5g.png)
+
+So, let's give Camelot a spin to see how well it fares with tables. We need some dependencies like opencv and Ghostscript to process and visualize tables. So, installation becomes,
+
+```
+# install the library !pip install camelot-py # OpenCV is needed for camelot to work !pip install opencv-python # follow steps to install ghostscript from brew and then do the below step: !pip install Ghostscript !pip install matplotlib
+```
+
+Once it's installed, reading tables is just 1 line of code. But, unfortunately it did NOT extract a single table from the RAG paper. So I commented it out and tried to extract the tables from the example pdf file they have given in their website.
+
+```
+import camelot import ghostscript # Example 1: Basic table extraction def extract_tables(pdf_path, pages=None): if pages: tables = camelot.read_pdf(pdf_path, pages=pages) else: tables = camelot.read_pdf(pdf_path) return tables tables = extract_tables('tables_example.pdf') # tables = extract_tables('RAG.pdf') print(f"Total tables extracted: {len(tables)}") if len(tables): print(tables[0].df)
+```
+
+It worked a charm for their example and gave a result as below:
+
+```
+Total tables extracted: 1 0 1 2 3 \ 0 Cycle \nName KI \n(1/km) Distance \n(mi) Percent Fuel Savings 1 Improved \nSpeed 2 2012_2 3.30 1.3 5.9% 3 2145_1 0.68 11.2 2.4% 4 4234_1 0.59 58.7 8.5% 5 2032_2 0.17 57.8 21.7% 6 4171_1 0.07 173.9 58.1% 4 5 6 0 1 Decreased \nAccel Eliminate \nStops Decreased \nIdle 2 9.5% 29.2% 17.4% 3 0.1% 9.5% 2.7% 4 1.3% 8.5% 3.3% 5 0.3% 2.7% 1.2% 6 1.6% 2.1% 0.5%
+```
+
+I also managed to plot the table it extracted using `matplotlib` as below:
+
+![](https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*WNNCXe07mBURmlzPSNTJ5g.png)A plot of the table extracted by camelot framework.
+
+I attribute the success to the well-defined borders (with lines) for tables. Academic papers don’t draw lines around tables and the sizes and format vary quite a lot, adding to the complexity. An example from the RAG paper is shown below. I am not surprised it proved challenging.
+
+![](https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*0Gx8XHgau85poH2k9j7sRA.png)
+
+## PDFPlumber
+
+PDFplumber is a framework built on top of pdfminer. So am not surprised that the results resemble that of pdfminer. Even with pdfplumber, it's just 2 lines of code to extract tables as below,
+
+```
+!pip install pdfplumber import pdfplumber # pdf = pdfplumber.open("RAG.pdf")p pdf = pdfplumber.open("tables_example.pdf") table=pdf.pages[0].extract_table() pd.DataFrame(table[1::],columns=table[0])
+```
+
+Sadly, the results were the same. I could even do a nice plot of the extracted table using Pandas data frame:
+
+![](https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*fLL598_F3CS3MEdGJItFtA.png)
+
+It managed to extract this table from the sample pdf file that we used with Camelot. However, I couldn’t get any tables extracted from the RAG paper. So, the hunt for the best table extractor continues.
+
+## tabula-py
+
+Tabula is a Java framework for table extraction. Tabula-py is the Python wrapper around it. For it to work on any machine, we do need to Java Virtual Machine on it. Installing JVM is a breeze these days. I managed to download the `dmg` from the official page [here](https://www.java.com/en/download/help/mac_install.html)
+
+Once Java is sorted, installing tabula-py is just one line:
+
+```
+!pip install tabula-py
+```
+
+```
+import tabula tables = tabula.read_pdf('RAG.pdf', pages='all') # Print the number of tables extracted print(f"Number of tables extracted: {len(tables)}") print(tables[-2])
+```
+
+With the above code, it extracted 21 tables! But there aren’t 21 tables in the RAG paper. So it is overdoing its job and extracting even some text as tables. As an example, it managed to perfectly extract the table from the last page of the paper as below:
+
+![](https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*VbTEgS5udb3HBs_gATLeYg.png)
+
+However, note that I am printing tables[-2] as it has extracted yet another table after extracting this last table in the paper!
+
+## Limitations
+
+Honestly, all of the above frameworks are doing quite a competitive job. The biggest limitation of rule-based methods is that they serialize input PDF into one large sequence without preserving any structural elements such as tables as we saw before. This necessitates the need for more sophisticated methods.
+
+In the upcoming articles, let’s dive into more sophisticated learning-based methods and compare the results with these simple rule-based methods.
+
+## Summary
+
+Considering the results, I have summarized the pros and cons in the below table.
+
+![](https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*kFMv4oMcS1J5itCNMYiaTg.png)
+
+_This article is the**second** in the series on PDF parsing which in itself is part of the broader series on Retrieval Augmented Generation (RAG). In the upcoming articles, we will dive deeper into another method with hands-on notebooks._
+
+_So please stay tuned!_
+
+# Shoutout
+
+**If you liked this article, why not follow us on[Twitter](https://twitter.com/ai_bites) for daily research updates, video tutorial links, and news about AI tools and models?**
+
+**Also please subscribe to our[YouTube channel](https://www.youtube.com/c/aibites) where we explain AI concepts and papers visually.**
+
+**_Please clap a ton for this article to enable us to help you with more articles like this._**
+
+Pdf
+
+Llm
+
+Retrieval Augmented Gen
+
+Artificial Intelligence
+
+Python
+
+Recommended from ReadMedium
+
+![avatar](https://miro.readmedium.com/v2/resize:fill:88:88/1*HVKTnrJn6OnGxuwv2W_jNQ.png)Thuwarakesh Murallie
+
+[How to Build a Knowledge Graph in Minutes (And Make It Enterprise-Ready)I tried and failed creating one—but it was when LLMs were not a thing!](/enterprise-ready-knowledge-graphs-96028d863e8c)
+
+8 min read
+
+![avatar](https://miro.readmedium.com/v2/resize:fill:88:88/1*YaViKfuc2uAV4OhpLOsZXw.jpeg)Manpreet Singh
+
+[Feed Knowlege of Any Website to LLM In SecondsWe are going to see the power of Crawl4AI](/feed-knowlege-of-any-website-to-llm-in-seconds-c19bd69a1718)
+
+5 min read
+
+![avatar](https://miro.readmedium.com/v2/resize:fill:88:88/1*InYhkK4PUrTC-mIm0CrGRQ@2x.jpeg)Kaushik Shakkari
+
+[Understanding Document Parsing — (Part 2: Modern Document Parsing Explained— Modular Pipelines &…Introduction:](/understanding-document-parsing-part-2-modern-document-parsing-explained-modular-pipelines-bb605c786293)
+
+13 min read
+
+![avatar](https://miro.readmedium.com/v2/resize:fill:88:88/1*2NJ46U7_y3cVSaEdZszL-A.png)DataScience Nexus
+
+[Docling : Transform any document into LLM ready data in just a few lines of python code!In today’s fast-paced world, data is the backbone of innovation. From academic papers to business reports, we rely heavily on documents to…](/docling-transform-any-document-into-llm-ready-data-in-just-a-few-lines-of-python-code-c00528bd6403)
+
+3 min read
+
+![avatar](https://miro.readmedium.com/v2/resize:fill:88:88/1*dpsrXL0JEWxZRAIByeI6Pw.png)Murat Aslan
+
+[Roo Cline 3.0: The AI Coding Assistant That’s Splitting the Developer Community](/roo-cline-3-0-the-ai-coding-assistant-thats-splitting-the-developer-community-31b2d82b9000)
+
+3 min read
+
+![avatar](https://miro.readmedium.com/v2/resize:fill:88:88/1*ITLLKcBx1FGiOHKnvavnNw.jpeg)Sarayavalasaravikiran
+
+[How to Use Llama-3.2–11B Vision Instruct Model to Convert Unstructured Data Into Structured FormatsUnderstanding the Landscape of Large Vision Models](/how-to-use-llama-3-2-11b-vision-instruct-model-to-convert-unstructured-data-into-structured-formats-815903be7ddd)
+
+8 min read
+
+[![Read Medium Logo](/images/logo/logo-white.webp)](/)[Free OpenAI o1 chat](https://openai01.net/)[Try OpenAI o1 API](https://openaio1api.com/)
+
+✓
+
+Thanks for sharing!
+
+[AddToAny](https://www.addtoany.com "Share Buttons")
+
+[More…](#addtoany "Show all")

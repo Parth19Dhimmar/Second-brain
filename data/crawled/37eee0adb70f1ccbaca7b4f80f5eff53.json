@@ -1,0 +1,28 @@
+{
+    "id": "37eee0adb70f1ccbaca7b4f80f5eff53",
+    "metadata": {
+        "id": "37eee0adb70f1ccbaca7b4f80f5eff53",
+        "url": "https://www.notion.so/Datasets-37eee0adb70f1ccbaca7b4f80f5eff53",
+        "title": "Datasets",
+        "properties": {
+            "Type": "Node",
+            "Created": {
+                "id": "zegV",
+                "type": "created_time",
+                "created_time": "2025-01-07T11:55:00.000Z"
+            }
+        }
+    },
+    "parent_metadata": {
+        "id": "daacef75fda10eac49be0dcbb4f2bda8",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n\tWeb crawl data that can be used by anyone: [https://commoncrawl.org/](https://commoncrawl.org/)\n\n# Resources [Science]\n\n# Tools",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://commoncrawl.org/"
+    ]
+}

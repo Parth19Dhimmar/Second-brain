@@ -1,0 +1,2686 @@
+cloud.google.com uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. [Learn more](https://policies.google.com/technologies/cookies?hl=en).
+
+OK, got it
+
+[ ![Google Cloud](https://www.gstatic.com/devrel-devsite/prod/vda41147226ae308b24384f785d31d739107d2716272d99cd11c490ff3892954d/cloud/images/cloud-logo.svg) ](/)
+
+[ Overview ](https://cloud.google.com/why-google-cloud) [](#)
+
+close
+
+  * Accelerate your digital transformation
+  * Whether your business is early in its journey or well on its way to digital transformation, Google Cloud can help solve your toughest challenges.
+  * [ Learn more  ](https://cloud.google.com/transform)
+
+
+
+  * Key benefits
+  * [ Why Google Cloud  Top reasons businesses choose us.  ](https://cloud.google.com/why-google-cloud)
+  * [ AI and ML  Get enterprise-ready AI.  ](https://cloud.google.com/ai)
+  * [ Multicloud  Run your apps wherever you need them.  ](https://cloud.google.com/multicloud)
+  * [ Global infrastructure  Build on the same infrastructure as Google.  ](https://cloud.google.com/infrastructure)
+
+
+
+  * [ Data Cloud  Make smarter decisions with unified data.  ](https://cloud.google.com/data-cloud)
+  * [ Modern Infrastructure Cloud  Next generation of cloud infrastructure.  ](https://cloud.google.com/solutions/modern-infrastructure)
+  * [ Security  Protect your users, data, and apps.  ](https://cloud.google.com/security)
+  * [ Productivity and collaboration  Connect your teams with AI-powered apps.  ](https://workspace.google.com)
+
+
+
+  * Reports and insights
+  * [ Executive insights  Curated C-suite perspectives.  ](https://cloud.google.com/executive-insights)
+  * [ Analyst reports  Read what industry analysts say about us.  ](https://cloud.google.com/analyst-reports)
+  * [ Whitepapers  Browse and download popular whitepapers.  ](https://cloud.google.com/whitepapers)
+  * [ Customer stories  Explore case studies and videos.  ](https://cloud.google.com/customers)
+
+
+
+[ Solutions ](https://cloud.google.com/solutions) [](#)
+
+close
+
+  * [ Industry Solutions ](#)
+  * [ Application Modernization ](#)
+  * [ Artificial Intelligence ](#)
+  * [ APIs and Applications ](#)
+  * [ Data Analytics ](#)
+  * [ Databases ](#)
+  * [ Infrastructure Modernization ](#)
+  * [ Productivity and Collaboration ](#)
+  * [ Security ](#)
+  * [ Startups and SMB ](#)
+
+
+
+[ See all solutions ](https://cloud.google.com/solutions)
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Industry Solutions  Reduce cost, increase operational agility, and capture new market opportunities.  ](https://cloud.google.com/solutions#industry-solutions)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/retail.svg) Retail  Analytics and collaboration tools for the retail value chain.  ](https://cloud.google.com/solutions/retail)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/cpg.svg) Consumer Packaged Goods  Solutions for CPG digital transformation and brand growth.  ](https://cloud.google.com/solutions/cpg)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/finance.svg) Financial Services  Computing, data management, and analytics tools for financial services.  ](https://cloud.google.com/solutions/financial-services)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/hcls.svg) Healthcare and Life Sciences  Advance research at scale and empower healthcare innovation.  ](https://cloud.google.com/solutions/healthcare-life-sciences)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/media.svg) Media and Entertainment  Solutions for content production and distribution operations.  ](https://cloud.google.com/solutions/media-entertainment)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/telecommunications.svg) Telecommunications  Hybrid and multi-cloud services to deploy and monetize 5G.  ](https://cloud.google.com/solutions/telecommunications)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/gaming.svg) Games  AI-driven solutions to build and scale games faster.  ](https://cloud.google.com/solutions/games)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/manufacturing.svg) Manufacturing  Migration and AI tools to optimize the manufacturing value chain.  ](https://cloud.google.com/solutions/manufacturing)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/supply-chain.svg) Supply Chain and Logistics  Enable sustainable, efficient, and resilient data-driven operations across supply chain and logistics operations.  ](https://cloud.google.com/solutions/supply-chain-logistics)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/government.svg) Government  Data storage, AI, and analytics solutions for government agencies.  ](https://cloud.google.com/gov)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/icon-sprite.svg#education) Education  Teaching tools to provide more engaging learning experiences.  ](https://cloud.google.com/edu/higher-education)
+
+
+  * Not seeing what you're looking for?
+  * [ See all industry solutions  ](https://cloud.google.com/solutions#industry-solutions)
+
+
+  * Not seeing what you're looking for?
+  * [ See all solutions  ](https://cloud.google.com/solutions)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Application Modernization  Assess, plan, implement, and measure software practices and capabilities to modernize and simplify your organization’s business application portfolios.  ](https://cloud.google.com/solutions/camp)
+
+
+  * [ CAMP  Program that uses DORA to improve your software delivery capabilities.  ](https://cloud.google.com/solutions/camp)
+
+
+  * [ Modernize Traditional Applications  Analyze, categorize, and get started with cloud migration on traditional workloads.  ](https://cloud.google.com/solutions/modernize-traditional-applications)
+
+
+  * [ Migrate from PaaS: Cloud Foundry, Openshift  Tools for moving your existing containers into Google's managed container services.  ](https://cloud.google.com/solutions/migrate-from-paas)
+
+
+  * [ Migrate from Mainframe  Automated tools and prescriptive guidance for moving your mainframe apps to the cloud.  ](https://cloud.google.com/solutions/mainframe-modernization)
+
+
+  * [ Modernize Software Delivery  Software supply chain best practices - innerloop productivity, CI/CD and S3C.  ](https://cloud.google.com/solutions/software-delivery)
+
+
+  * [ DevOps Best Practices  Processes and resources for implementing DevOps in your org.  ](https://cloud.google.com/devops)
+
+
+  * [ SRE Principles  Tools and resources for adopting SRE in your org.  ](https://cloud.google.com/sre)
+
+
+  * [ Day 2 Operations for GKE  Tools and guidance for effective GKE management and monitoring.  ](https://cloud.google.com/solutions/day-2-operations-for-gke)
+
+
+  * [ FinOps and Optimization of GKE  Best practices for running reliable, performant, and cost effective applications on GKE.  ](https://cloud.google.com/solutions/finops-optimize-gke)
+
+
+  * [ Run Applications at the Edge  Guidance for localized and low latency apps on Google’s hardware agnostic edge solution.  ](https://cloud.google.com/solutions/modernize-with-edge)
+
+
+  * [ Architect for Multicloud  Manage workloads across multiple clouds with a consistent platform.  ](https://cloud.google.com/solutions/architect-multicloud)
+
+
+  * [ Go Serverless  Fully managed environment for developing, deploying and scaling apps.  ](https://cloud.google.com/solutions/serverless)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Artificial Intelligence  Add intelligence and efficiency to your business with AI and machine learning.  ](https://cloud.google.com/solutions/ai)
+
+
+  * [ Customer Engagement Suite with Google AI  End-to-end application that combines our most advanced conversational AI.  ](https://cloud.google.com/solutions/customer-engagement-ai)
+
+
+  * [ Document AI  Document processing and data capture automated at scale.  ](https://cloud.google.com/document-ai)
+
+
+  * [ Vertex AI Search for retail  Google-quality search and product recommendations for retailers.  ](https://cloud.google.com/solutions/retail-product-discovery)
+
+
+  * [ Gemini for Google Cloud  AI assistants for application development, coding, and more.  ](https://cloud.google.com/products/gemini)
+
+
+  * [ Generative AI on Google Cloud  Transform content creation and discovery, research, customer service, and developer efficiency with the power of generative AI.  ](https://cloud.google.com/use-cases/generative-ai)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) APIs and Applications  Speed up the pace of innovation without coding, using APIs, apps, and automation.  ](https://cloud.google.com/solutions/apis-and-applications)
+
+
+  * [ New Business Channels Using APIs  Attract and empower an ecosystem of developers and partners.  ](https://cloud.google.com/solutions/new-channels-using-apis)
+
+
+  * [ Unlocking Legacy Applications Using APIs  Cloud services for extending and modernizing legacy apps.  ](https://cloud.google.com/solutions/unlocking-legacy-applications)
+
+
+  * [ Open Banking APIx  Simplify and accelerate secure delivery of open banking compliant APIs.  ](https://cloud.google.com/solutions/open-banking-apix)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Data Analytics  Generate instant insights from data at any scale with a serverless, fully managed analytics platform that significantly simplifies analytics.  ](https://cloud.google.com/solutions/data-analytics-and-ai)
+
+
+  * [ Data Migration  Migrate and modernize with an AI-ready data platform.  ](https://cloud.google.com/solutions/data-migration)
+
+
+  * [ Data Lake Modernization  Services for building and modernizing your data lake.  ](https://cloud.google.com/solutions/data-lake)
+
+
+  * [ Stream Analytics  Insights from ingesting, processing, and analyzing event streams.  ](https://cloud.google.com/solutions/stream-analytics)
+
+
+  * [ Marketing Analytics  Solutions for collecting, analyzing, and activating customer data.  ](https://cloud.google.com/solutions/marketing-analytics)
+
+
+  * [ Datasets  Data from Google, public, and commercial providers to enrich your analytics and AI initiatives.  ](https://cloud.google.com/datasets)
+
+
+  * [ Business Intelligence  Solutions for modernizing your BI stack and creating rich data experiences.  ](https://cloud.google.com/solutions/business-intelligence)
+
+
+  * [ AI for Data Analytics  Write SQL, build predictive models, and visualize data with AI for data analytics.  ](https://cloud.google.com/use-cases/ai-data-analytics)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Databases  Migrate and manage enterprise data with security, reliability, high availability, and fully managed data services.  ](https://cloud.google.com/solutions/databases)
+
+
+  * [ Database Migration  Guides and tools to simplify your database migration life cycle.  ](https://cloud.google.com/solutions/database-migration)
+
+
+  * [ Database Modernization  Upgrades to modernize your operational database infrastructure.  ](https://cloud.google.com/solutions/database-modernization)
+
+
+  * [ Databases for Games  Build global, live games with Google Cloud databases.  ](https://cloud.google.com/solutions/databases/games)
+
+
+  * [ Google Cloud Databases  Database services to migrate, manage, and modernize data.  ](https://cloud.google.com/products/databases)
+
+
+  * [ Migrate Oracle workloads to Google Cloud  Rehost, replatform, rewrite your Oracle workloads.  ](https://cloud.google.com/solutions/oracle)
+
+
+  * [ Open Source Databases  Fully managed open source databases with enterprise-grade support.  ](https://cloud.google.com/solutions/open-source-databases)
+
+
+  * [ SQL Server on Google Cloud  Options for running SQL Server virtual machines on Google Cloud.  ](https://cloud.google.com/sql-server)
+
+
+  * [ Gemini for Databases  Supercharge database development and management with AI.  ](https://cloud.google.com/products/gemini/databases)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Infrastructure Modernization  Migrate quickly with solutions for SAP, VMware, Windows, Oracle, and other workloads.  ](https://cloud.google.com/solutions/infrastructure-modernization)
+
+
+  * [ Application Migration  Discovery and analysis tools for moving to the cloud.  ](https://cloud.google.com/solutions/application-migration)
+
+
+  * [ SAP on Google Cloud  Certifications for running SAP applications and SAP HANA.  ](https://cloud.google.com/solutions/sap)
+
+
+  * [ High Performance Computing  Compute, storage, and networking options to support any workload.  ](https://cloud.google.com/solutions/hpc)
+
+
+  * [ Windows on Google Cloud  Tools and partners for running Windows workloads.  ](https://cloud.google.com/windows)
+
+
+  * [ Data Center Migration  Migration solutions for VMs, apps, databases, and more.  ](https://cloud.google.com/solutions/data-center-migration)
+
+
+  * [ Active Assist  Automatic cloud resource optimization and increased security.  ](https://cloud.google.com/solutions/active-assist)
+
+
+  * [ Virtual Desktops  Remote work solutions for desktops and applications (VDI & DaaS).  ](https://cloud.google.com/solutions/virtual-desktops)
+
+
+  * [ Rapid Migration and Modernization Program  End-to-end migration program to simplify your path to the cloud.  ](https://cloud.google.com/solutions/cloud-migration-program)
+
+
+  * [ Backup and Disaster Recovery  Ensure your business continuity needs are met.  ](https://cloud.google.com/solutions/backup-dr)
+
+
+  * [ Red Hat on Google Cloud  Google and Red Hat provide an enterprise-grade platform for traditional on-prem and custom applications.  ](https://cloud.google.com/solutions/redhat)
+
+
+  * [ Cross-Cloud Network  Simplify hybrid and multicloud networking, and secure your workloads, data, and users.  ](https://cloud.google.com/solutions/cross-cloud-network)
+
+
+  * [ Observability  Monitor, troubleshoot, and improve app performance with end-to-end visibility.  ](https://cloud.google.com/solutions/observability)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Productivity and Collaboration  Change the way teams work with solutions designed for humans and built for impact.  ](https://workspace.google.com/enterprise/)
+
+
+  * [ Google Workspace  Collaboration and productivity tools for enterprises.  ](https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect)
+
+
+  * [ Google Workspace Essentials  Secure video meetings and modern collaboration for teams.  ](https://workspace.google.com/essentials/)
+
+
+  * [ Cloud Identity  Unified platform for IT admins to manage user devices and apps.  ](https://cloud.google.com/identity)
+
+
+  * [ Chrome Enterprise  ChromeOS, Chrome Browser, and Chrome devices built for business.  ](https://chromeenterprise.google)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Security  Detect, investigate, and respond to online threats to help protect your business.  ](https://cloud.google.com/solutions/security)
+
+
+  * [ Security Analytics and Operations  Solution for analyzing petabytes of security telemetry.  ](https://cloud.google.com/solutions/security-analytics-and-operations)
+
+
+  * [ Web App and API Protection  Threat and fraud protection for your web applications and APIs.  ](https://cloud.google.com/security/solutions/web-app-and-api-protection)
+
+
+  * [ Security and Resilience Framework  Solutions for each phase of the security and resilience life cycle.  ](https://cloud.google.com/security/solutions/security-and-resilience)
+
+
+  * [ Risk and compliance as code (RCaC)  Solution to modernize your governance, risk, and compliance function with automation.  ](https://cloud.google.com/solutions/risk-and-compliance-as-code)
+
+
+  * [ Software Supply Chain Security  Solution for improving end-to-end software supply chain security.  ](https://cloud.google.com/security/solutions/software-supply-chain-security)
+
+
+  * [ Security Foundation  Recommended products to help achieve a strong security posture.  ](https://cloud.google.com/security/solutions/security-foundation)
+
+
+  * [ Google Cloud Cybershield™  Strengthen nationwide cyber defense.  ](https://cloud.google.com/security/solutions/secops-cybershield)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Startups and SMB  Accelerate startup and SMB growth with tailored solutions and programs.  ](https://cloud.google.com/solutions#section-13)
+
+
+  * [ Startup Program  Get financial, business, and technical support to take your startup to the next level.  ](https://cloud.google.com/startup)
+
+
+  * [ Small and Medium Business  Explore solutions for web hosting, app development, AI, and analytics.  ](https://cloud.google.com/solutions/smb)
+
+
+  * [ Software as a Service  Build better SaaS products, scale efficiently, and grow your business.  ](https://cloud.google.com/saas)
+
+
+
+[ Products ](https://cloud.google.com/products) [](#)
+
+close
+
+  * [Featured Products](#)
+  * [ AI and Machine Learning ](#)
+  * [Business Intelligence](#)
+  * [ Compute ](#)
+  * [ Containers ](#)
+  * [ Data Analytics ](#)
+  * [ Databases ](#)
+  * [ Developer Tools ](#)
+  * [ Distributed Cloud ](#)
+  * [Hybrid and Multicloud](#)
+  * [Industry Specific](#)
+  * [ Integration Services ](#)
+  * [ Management Tools ](#)
+  * [ Maps and Geospatial ](#)
+  * [Media Services](#)
+  * [ Migration ](#)
+  * [Mixed Reality](#)
+  * [ Networking ](#)
+  * [ Operations ](#)
+  * [Productivity and Collaboration](#)
+  * [ Security and Identity ](#)
+  * [ Serverless ](#)
+  * [ Storage ](#)
+  * [ Web3 ](#)
+
+
+
+[ See all products (100+) ](https://cloud.google.com/products#featured-products)
+
+  * Featured Products
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/compute-engine.png) Compute Engine  Virtual machines running in Google’s data center.  ](https://cloud.google.com/products/compute)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/cloud-storage.png) Cloud Storage  Object storage that’s secure, durable, and scalable.  ](https://cloud.google.com/storage)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/bigquery.png) BigQuery  Data warehouse for business agility and insights.  ](https://cloud.google.com/bigquery)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/cloud-run.png) Cloud Run  Fully managed environment for running containerized apps.  ](https://cloud.google.com/run)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/kubernetes-engine.png) Google Kubernetes Engine  Managed environment for running containerized apps.  ](https://cloud.google.com/kubernetes-engine)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/vertex-ai.png) Vertex AI  Unified platform for ML models and generative AI.  ](https://cloud.google.com/vertex-ai)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/looker.png) Looker  Platform for BI, data applications, and embedded analytics.  ](https://cloud.google.com/looker)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/apigee.png) Apigee API Management  Manage the full life cycle of APIs anywhere with visibility and control.  ](https://cloud.google.com/apigee)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/cloud-sql.png) Cloud SQL  Relational database services for MySQL, PostgreSQL and SQL Server.  ](https://cloud.google.com/sql)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/gemini.png) Gemini  Google Cloud products powered by Gemini.  ](https://cloud.google.com/ai/gemini)
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/networking.png) Cloud CDN  Content delivery network for delivering web and video.  ](https://cloud.google.com/cdn)
+
+
+  * Not seeing what you're looking for?
+  * [ See all products (100+)  ](https://cloud.google.com/products#featured-products)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) AI and Machine Learning  ](https://cloud.google.com/products/ai)
+
+
+  * [ Vertex AI Platform  Unified platform for ML models and generative AI.  ](https://cloud.google.com/vertex-ai)
+
+
+  * [ Vertex AI Studio  Build, tune, and deploy foundation models on Vertex AI.  ](https://cloud.google.com/generative-ai-studio)
+
+
+  * [ Vertex AI Agent Builder  Build and deploy gen AI experiences.  ](https://cloud.google.com/products/agent-builder)
+
+
+  * [ Conversational Agents  Build conversational AI with both deterministic and gen AI functionality.  ](https://cloud.google.com/products/conversational-agents)
+
+
+  * [ Vertex AI Search  Build Google-quality search for your enterprise apps and experiences.  ](https://cloud.google.com/enterprise-search)
+
+
+  * [ Speech-to-Text  Speech recognition and transcription across 125 languages.  ](https://cloud.google.com/speech-to-text)
+
+
+  * [ Text-to-Speech  Speech synthesis in 220+ voices and 40+ languages.  ](https://cloud.google.com/text-to-speech)
+
+
+  * [ Translation AI  Language detection, translation, and glossary support.  ](https://cloud.google.com/translate)
+
+
+  * [ Document AI  Document processing and data capture automated at scale.  ](https://cloud.google.com/document-ai)
+
+
+  * [ Vision AI  Custom and pre-trained models to detect emotion, text, and more.  ](https://cloud.google.com/vision)
+
+
+  * [ Contact Center as a Service  Omnichannel contact center solution that is native to the cloud.  ](https://cloud.google.com/solutions/contact-center-ai-platform)
+
+
+  * Not seeing what you're looking for?
+  * [ See all AI and machine learning products  ](https://cloud.google.com/products?pds=CAE#ai-and-machine-learning)
+
+
+
+  * Business Intelligence
+
+
+  * [ Looker  Platform for BI, data applications, and embedded analytics.  ](https://cloud.google.com/looker)
+
+
+  * [ Looker Studio  Interactive data suite for dashboarding, reporting, and analytics.  ](https://cloud.google.com/looker-studio)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Compute  ](https://cloud.google.com/products/compute)
+
+
+  * [ Compute Engine  Virtual machines running in Google’s data center.  ](https://cloud.google.com/products/compute)
+
+
+  * [ App Engine  Serverless application platform for apps and back ends.  ](https://cloud.google.com/appengine)
+
+
+  * [ Cloud GPUs  GPUs for ML, scientific computing, and 3D visualization.  ](https://cloud.google.com/gpu)
+
+
+  * [ Migrate to Virtual Machines  Server and virtual machine migration to Compute Engine.  ](https://cloud.google.com/products/cloud-migration/virtual-machines)
+
+
+  * [ Spot VMs  Compute instances for batch jobs and fault-tolerant workloads.  ](https://cloud.google.com/spot-vms)
+
+
+  * [ Batch  Fully managed service for scheduling batch jobs.  ](https://cloud.google.com/batch)
+
+
+  * [ Sole-Tenant Nodes  Dedicated hardware for compliance, licensing, and management.  ](https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes)
+
+
+  * [ Bare Metal  Infrastructure to run specialized workloads on Google Cloud.  ](https://cloud.google.com/bare-metal)
+
+
+  * [ Recommender  Usage recommendations for Google Cloud products and services.  ](https://cloud.google.com/recommender/docs/whatis-activeassist)
+
+
+  * [ VMware Engine  Fully managed, native VMware Cloud Foundation software stack.  ](https://cloud.google.com/vmware-engine)
+
+
+  * [ Cloud Run  Fully managed environment for running containerized apps.  ](https://cloud.google.com/run)
+
+
+  * Not seeing what you're looking for?
+  * [ See all compute products  ](https://cloud.google.com/products?pds=CAUSAQw#compute)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Containers  ](https://cloud.google.com/containers)
+
+
+  * [ Google Kubernetes Engine  Managed environment for running containerized apps.  ](https://cloud.google.com/kubernetes-engine)
+
+
+  * [ Cloud Run  Fully managed environment for running containerized apps.  ](https://cloud.google.com/run)
+
+
+  * [ Cloud Build  Solution for running build steps in a Docker container.  ](https://cloud.google.com/build)
+
+
+  * [ Artifact Registry  Package manager for build artifacts and dependencies.  ](https://cloud.google.com/artifact-registry/docs)
+
+
+  * [ Cloud Code  IDE support to write, run, and debug Kubernetes applications.  ](https://cloud.google.com/code)
+
+
+  * [ Cloud Deploy  Fully managed continuous delivery to GKE and Cloud Run.  ](https://cloud.google.com/deploy)
+
+
+  * [ Migrate to Containers  Components for migrating VMs into system containers on GKE.  ](https://cloud.google.com/products/cloud-migration/containers)
+
+
+  * [ Deep Learning Containers  Containers with data science frameworks, libraries, and tools.  ](https://cloud.google.com/deep-learning-containers/docs)
+
+
+  * [ Knative  Components to create Kubernetes-native cloud-based software.  ](https://knative.dev/docs/)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Data Analytics  ](https://cloud.google.com/solutions/data-analytics-and-ai)
+
+
+  * [ BigQuery  Data warehouse for business agility and insights.  ](https://cloud.google.com/bigquery)
+
+
+  * [ Looker  Platform for BI, data applications, and embedded analytics.  ](https://cloud.google.com/looker)
+
+
+  * [ Dataflow  Streaming analytics for stream and batch processing.  ](https://cloud.google.com/products/dataflow)
+
+
+  * [ Pub/Sub  Messaging service for event ingestion and delivery.  ](https://cloud.google.com/pubsub)
+
+
+  * [ Dataproc  Service for running Apache Spark and Apache Hadoop clusters.  ](https://cloud.google.com/dataproc)
+
+
+  * [ Cloud Data Fusion  Data integration for building and managing data pipelines.  ](https://cloud.google.com/data-fusion)
+
+
+  * [ Cloud Composer  Workflow orchestration service built on Apache Airflow.  ](https://cloud.google.com/composer)
+
+
+  * [ BigLake  Storage engine to query multi-format and multimodal data.  ](https://cloud.google.com/biglake)
+
+
+  * [ Dataplex  Intelligent data fabric for unifying data management across silos.  ](https://cloud.google.com/dataplex)
+
+
+  * [ Dataform  Build, version control, and deploy SQL workflows in BigQuery.  ](https://cloud.google.com/dataform)
+
+
+  * [ Analytics Hub  Service for securely and efficiently exchanging data analytics assets.  ](https://cloud.google.com/analytics-hub)
+
+
+  * Not seeing what you're looking for?
+  * [ See all data analytics products  ](https://cloud.google.com/products?pds=CAQ#data-analytics)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Databases  ](https://cloud.google.com/products/databases)
+
+
+  * [ AlloyDB for PostgreSQL  Fully managed, PostgreSQL-compatible database for enterprise workloads.  ](https://cloud.google.com/alloydb)
+
+
+  * [ Cloud SQL  Fully managed database for MySQL, PostgreSQL, and SQL Server.  ](https://cloud.google.com/sql)
+
+
+  * [ Firestore  Cloud-native document database for building rich mobile, web, and IoT apps.  ](https://cloud.google.com/firestore)
+
+
+  * [ Spanner  Cloud-native relational database with unlimited scale and 99.999% availability.  ](https://cloud.google.com/spanner)
+
+
+  * [ Bigtable  Cloud-native wide-column database for large-scale, low-latency workloads.  ](https://cloud.google.com/bigtable)
+
+
+  * [ Datastream  Serverless change data capture and replication service.  ](https://cloud.google.com/datastream)
+
+
+  * [ Database Migration Service  Serverless, minimal downtime migrations to Cloud SQL.  ](https://cloud.google.com/database-migration)
+
+
+  * [ Bare Metal Solution  Fully managed infrastructure for your Oracle workloads.  ](https://cloud.google.com/bare-metal)
+
+
+  * [ Memorystore  Fully managed Redis and Memcached for sub-millisecond data access.  ](https://cloud.google.com/memorystore)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Developer Tools  ](https://cloud.google.com/products/tools)
+
+
+  * [ Artifact Registry  Universal package manager for build artifacts and dependencies.  ](https://cloud.google.com/artifact-registry/docs)
+
+
+  * [ Cloud Code  IDE support to write, run, and debug Kubernetes applications.  ](https://cloud.google.com/code)
+
+
+  * [ Cloud Build  Continuous integration and continuous delivery platform.  ](https://cloud.google.com/build)
+
+
+  * [ Cloud Deploy  Fully managed continuous delivery to GKE and Cloud Run.  ](https://cloud.google.com/deploy)
+
+
+  * [ Cloud Deployment Manager  Service for creating and managing Google Cloud resources.  ](https://cloud.google.com/deployment-manager/docs)
+
+
+  * [ Cloud SDK  Command-line tools and libraries for Google Cloud.  ](https://cloud.google.com/sdk)
+
+
+  * [ Cloud Scheduler  Cron job scheduler for task automation and management.  ](https://cloud.google.com/scheduler/docs)
+
+
+  * [ Cloud Source Repositories  Private Git repository to store, manage, and track code.  ](https://cloud.google.com/source-repositories/docs)
+
+
+  * [ Infrastructure Manager  Automate infrastructure management with Terraform.  ](https://cloud.google.com/infrastructure-manager/docs)
+
+
+  * [ Cloud Workstations  Managed and secure development environments in the cloud.  ](https://cloud.google.com/workstations)
+
+
+  * [ Gemini Code Assist  AI-powered assistant available across Google Cloud and your IDE.  ](https://cloud.google.com/products/gemini/code-assist)
+
+
+  * Not seeing what you're looking for?
+  * [ See all developer tools  ](https://cloud.google.com/products?pds=CAI#developer-tools)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Distributed Cloud  ](https://cloud.google.com/distributed-cloud)
+
+
+  * [ Google Distributed Cloud Connected  Distributed cloud services for edge workloads.  ](https://cloud.google.com/distributed-cloud-connected)
+
+
+  * [ Google Distributed Cloud Air-gapped  Distributed cloud for air-gapped workloads.  ](https://cloud.google.com/distributed-cloud-air-gapped)
+
+
+
+  * Hybrid and Multicloud
+
+
+  * [ Google Kubernetes Engine  Managed environment for running containerized apps.  ](https://cloud.google.com/kubernetes-engine)
+
+
+  * [ Apigee API Management  API management, development, and security platform.  ](https://cloud.google.com/apigee)
+
+
+  * [ Migrate to Containers  Tool to move workloads and existing applications to GKE.  ](https://cloud.google.com/products/cloud-migration/containers)
+
+
+  * [ Cloud Build  Service for executing builds on Google Cloud infrastructure.  ](https://cloud.google.com/build)
+
+
+  * [ Observability  Monitoring, logging, and application performance suite.  ](https://cloud.google.com/products/observability)
+
+
+  * [ Cloud Service Mesh  Fully managed service mesh based on Envoy and Istio.  ](https://cloud.google.com/products/service-mesh)
+
+
+  * [ Google Distributed Cloud  Fully managed solutions for the edge and data centers.  ](https://cloud.google.com/distributed-cloud)
+
+
+
+  * Industry Specific
+
+
+  * [ Anti Money Laundering AI  Detect suspicious, potential money laundering activity with AI.  ](https://cloud.google.com/anti-money-laundering-ai)
+
+
+  * [ Cloud Healthcare API  Solution for bridging existing care systems and apps on Google Cloud.  ](https://cloud.google.com/healthcare-api)
+
+
+  * [ Device Connect for Fitbit  Gain a 360-degree patient view with connected Fitbit data on Google Cloud.  ](https://cloud.google.com/device-connect)
+
+
+  * [ Telecom Network Automation  Ready to use cloud-native automation for telecom networks.  ](https://cloud.google.com/telecom-network-automation)
+
+
+  * [ Telecom Data Fabric  Telecom data management and analytics with an automated approach.  ](https://cloud.google.com/telecom-data-fabric)
+
+
+  * [ Telecom Subscriber Insights  Ingests data to improve subscriber acquisition and retention.  ](https://cloud.google.com/telecom-subscriber-insights)
+
+
+  * [ Spectrum Access System (SAS)  Controls fundamental access to the Citizens Broadband Radio Service (CBRS).  ](https://cloud.google.com/products/spectrum-access-system)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Integration Services  ](https://cloud.google.com/integration-services)
+
+
+  * [ Application Integration  Connect to 3rd party apps and enable data consistency without code.  ](https://cloud.google.com/application-integration)
+
+
+  * [ Workflows  Workflow orchestration for serverless products and API services.  ](https://cloud.google.com/workflows)
+
+
+  * [ Apigee API Management  Manage the full life cycle of APIs anywhere with visibility and control.  ](https://cloud.google.com/apigee)
+
+
+  * [ Cloud Tasks  Task management service for asynchronous task execution.  ](https://cloud.google.com/tasks/docs)
+
+
+  * [ Cloud Scheduler  Cron job scheduler for task automation and management.  ](https://cloud.google.com/scheduler/docs)
+
+
+  * [ Dataproc  Service for running Apache Spark and Apache Hadoop clusters.  ](https://cloud.google.com/dataproc)
+
+
+  * [ Cloud Data Fusion  Data integration for building and managing data pipelines.  ](https://cloud.google.com/data-fusion)
+
+
+  * [ Cloud Composer  Workflow orchestration service built on Apache Airflow.  ](https://cloud.google.com/composer)
+
+
+  * [ Pub/Sub  Messaging service for event ingestion and delivery.  ](https://cloud.google.com/pubsub)
+
+
+  * [ Eventarc  Build an event-driven architecture that can connect any service.  ](https://cloud.google.com/eventarc/docs)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Management Tools  ](https://cloud.google.com/products/management)
+
+
+  * [ Cloud Shell  Interactive shell environment with a built-in command line.  ](https://cloud.google.com/shell/docs)
+
+
+  * [ Cloud console  Web-based interface for managing and monitoring cloud apps.  ](https://cloud.google.com/cloud-console)
+
+
+  * [ Cloud Endpoints  Deployment and development management for APIs on Google Cloud.  ](https://cloud.google.com/endpoints/docs)
+
+
+  * [ Cloud IAM  Permissions management system for Google Cloud resources.  ](https://cloud.google.com/security/products/iam)
+
+
+  * [ Cloud APIs  Programmatic interfaces for Google Cloud services.  ](https://cloud.google.com/apis)
+
+
+  * [ Service Catalog  Service catalog for admins managing internal enterprise solutions.  ](https://cloud.google.com/service-catalog/docs)
+
+
+  * [ Cost Management  Tools for monitoring, controlling, and optimizing your costs.  ](https://cloud.google.com/cost-management)
+
+
+  * [ Observability  Monitoring, logging, and application performance suite.  ](https://cloud.google.com/products/observability)
+
+
+  * [ Carbon Footprint  Dashboard to view and export Google Cloud carbon emissions reports.  ](https://cloud.google.com/carbon-footprint)
+
+
+  * [ Config Connector  Kubernetes add-on for managing Google Cloud resources.  ](https://cloud.google.com/config-connector/docs/overview)
+
+
+  * [ Active Assist  Tools for easily managing performance, security, and cost.  ](https://cloud.google.com/solutions/active-assist)
+
+
+  * Not seeing what you're looking for?
+  * [ See all management tools  ](https://cloud.google.com/products?pds=CAY#managment-tools)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Maps and Geospatial  ](https://cloud.google.com/solutions/geospatial)
+
+
+  * [ Earth Engine  Geospatial platform for Earth observation data and analysis.  ](https://cloud.google.com/earth-engine)
+
+
+  * [ Google Maps Platform  Create immersive location experiences and improve business operations.  ](https://mapsplatform.google.com)
+
+
+
+  * Media Services
+
+
+  * [ Cloud CDN  Content delivery network for serving web and video content.  ](https://cloud.google.com/cdn)
+
+
+  * [ Live Stream API  Service to convert live video and package for streaming.  ](https://cloud.google.com/livestream/docs)
+
+
+  * [ OpenCue  Open source render manager for visual effects and animation.  ](https://www.opencue.io/docs/getting-started/)
+
+
+  * [ Transcoder API  Convert video files and package them for optimized delivery.  ](https://cloud.google.com/transcoder/docs)
+
+
+  * [ Video Stitcher API  Service for dynamic or server side ad insertion.  ](https://cloud.google.com/video-stitcher/docs)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Migration  ](https://cloud.google.com/products/cloud-migration)
+
+
+  * [ Migration Center  Unified platform for migrating and modernizing with Google Cloud.  ](https://cloud.google.com/migration-center/docs)
+
+
+  * [ Application Migration  App migration to the cloud for low-cost refresh cycles.  ](https://cloud.google.com/solutions/application-migration)
+
+
+  * [ Migrate to Virtual Machines  Components for migrating VMs and physical servers to Compute Engine.  ](https://cloud.google.com/products/cloud-migration/virtual-machines)
+
+
+  * [ Cloud Foundation Toolkit  Reference templates for Deployment Manager and Terraform.  ](https://cloud.google.com/docs/terraform/blueprints/terraform-blueprints)
+
+
+  * [ Database Migration Service  Serverless, minimal downtime migrations to Cloud SQL.  ](https://cloud.google.com/database-migration)
+
+
+  * [ Migrate to Containers  Components for migrating VMs into system containers on GKE.  ](https://cloud.google.com/products/cloud-migration/containers)
+
+
+  * [ BigQuery Data Transfer Service  Data import service for scheduling and moving data into BigQuery.  ](https://cloud.google.com/bigquery-transfer/docs/introduction)
+
+
+  * [ Rapid Migration and Modernization Program  End-to-end migration program to simplify your path to the cloud.  ](https://cloud.google.com/solutions/cloud-migration-program)
+
+
+  * [ Transfer Appliance  Storage server for moving large volumes of data to Google Cloud.  ](https://cloud.google.com/transfer-appliance/docs/4.0/overview)
+
+
+  * [ Storage Transfer Service  Data transfers from online and on-premises sources to Cloud Storage.  ](https://cloud.google.com/storage-transfer-service)
+
+
+  * [ VMware Engine  Migrate and run your VMware workloads natively on Google Cloud.  ](https://cloud.google.com/vmware-engine)
+
+
+
+  * Mixed Reality
+
+
+  * [ Immersive Stream for XR  Hosts, renders, and streams 3D and XR experiences.  ](https://cloud.google.com/immersive-stream/xr)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Networking  ](https://cloud.google.com/products/networking)
+
+
+  * [ Cloud Armor  Security policies and defense against web and DDoS attacks.  ](https://cloud.google.com/security/products/armor)
+
+
+  * [ Cloud CDN and Media CDN  Content delivery network for serving web and video content.  ](https://cloud.google.com/cdn)
+
+
+  * [ Cloud DNS  Domain name system for reliable and low-latency name lookups.  ](https://cloud.google.com/dns)
+
+
+  * [ Cloud Load Balancing  Service for distributing traffic across applications and regions.  ](https://cloud.google.com/load-balancing)
+
+
+  * [ Cloud NAT  NAT service for giving private instances internet access.  ](https://cloud.google.com/nat)
+
+
+  * [ Cloud Connectivity  Connectivity options for VPN, peering, and enterprise needs.  ](https://cloud.google.com/hybrid-connectivity)
+
+
+  * [ Network Connectivity Center  Connectivity management to help simplify and scale networks.  ](https://cloud.google.com/network-connectivity-center)
+
+
+  * [ Network Intelligence Center  Network monitoring, verification, and optimization platform.  ](https://cloud.google.com/network-intelligence-center)
+
+
+  * [ Network Service Tiers  Cloud network options based on performance, availability, and cost.  ](https://cloud.google.com/network-tiers)
+
+
+  * [ Virtual Private Cloud  Single VPC for an entire organization, isolated within projects.  ](https://cloud.google.com/vpc)
+
+
+  * [ Private Service Connect  Secure connection between your VPC and services.  ](https://cloud.google.com/private-service-connect)
+
+
+  * Not seeing what you're looking for?
+  * [ See all networking products  ](https://cloud.google.com/products?pds=CAUSAQ0#networking)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Operations  ](https://cloud.google.com/products/operations)
+
+
+  * [ Cloud Logging  Google Cloud audit, platform, and application logs management.  ](https://cloud.google.com/logging)
+
+
+  * [ Cloud Monitoring  Infrastructure and application health with rich metrics.  ](https://cloud.google.com/monitoring)
+
+
+  * [ Error Reporting  Application error identification and analysis.  ](https://cloud.google.com/error-reporting/docs/grouping-errors)
+
+
+  * [ Managed Service for Prometheus  Fully-managed Prometheus on Google Cloud.  ](https://cloud.google.com/managed-prometheus)
+
+
+  * [ Cloud Trace  Tracing system collecting latency data from applications.  ](https://cloud.google.com/trace/docs)
+
+
+  * [ Cloud Profiler  CPU and heap profiler for analyzing application performance.  ](https://cloud.google.com/profiler/docs)
+
+
+  * [ Cloud Quotas  Manage quotas for all Google Cloud services.  ](https://cloud.google.com/docs/quotas)
+
+
+
+  * Productivity and Collaboration
+
+
+  * [ AppSheet  No-code development platform to build and extend applications.  ](https://about.appsheet.com/home/)
+
+
+  * [ AppSheet Automation  Build automations and applications on a unified platform.  ](https://cloud.google.com/appsheet/automation)
+
+
+  * [ Google Workspace  Collaboration and productivity tools for individuals and organizations.  ](https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect/)
+
+
+  * [ Google Workspace Essentials  Secure video meetings and modern collaboration for teams.  ](https://workspace.google.com/essentials/)
+
+
+  * [ Gemini for Workspace  Embeds generative AI across Google Workspace apps.  ](https://workspace.google.com/solutions/ai/)
+
+
+  * [ Cloud Identity  Unified platform for IT admins to manage user devices and apps.  ](https://cloud.google.com/identity)
+
+
+  * [ Chrome Enterprise  ChromeOS, Chrome browser, and Chrome devices built for business.  ](https://chromeenterprise.google)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Security and Identity  ](https://cloud.google.com/products/security-and-identity)
+
+
+  * [ Cloud IAM  Permissions management system for Google Cloud resources.  ](https://cloud.google.com/security/products/iam)
+
+
+  * [ Sensitive Data Protection  Discover, classify, and protect your valuable data assets.  ](https://cloud.google.com/security/products/sensitive-data-protection)
+
+
+  * [ Mandiant Managed Defense  Find and eliminate threats with confidence 24x7.  ](https://cloud.google.com/security/products/managed-defense)
+
+
+  * [ Google Threat Intelligence  Know who’s targeting you.  ](https://cloud.google.com/security/products/threat-intelligence)
+
+
+  * [ Security Command Center  Platform for defending against threats to your Google Cloud assets.  ](https://cloud.google.com/security/products/security-command-center)
+
+
+  * [ Cloud Key Management  Manage encryption keys on Google Cloud.  ](https://cloud.google.com/security/products/security-key-management)
+
+
+  * [ Mandiant Incident Response  Minimize the impact of a breach.  ](https://cloud.google.com/security/consulting/mandiant-incident-response-services)
+
+
+  * [ Chrome Enterprise Premium  Get secure enterprise browsing with extensive endpoint visibility.  ](https://chromeenterprise.google/products/chrome-enterprise-premium/)
+
+
+  * [ Assured Workloads  Compliance and security controls for sensitive workloads.  ](https://cloud.google.com/security/products/assured-workloads)
+
+
+  * [ Google Security Operations  Detect, investigate, and respond to cyber threats.  ](https://cloud.google.com/security/products/security-operations)
+
+
+  * [ Mandiant Consulting  Get expert guidance before, during, and after an incident.  ](https://cloud.google.com/security/consulting/mandiant-services)
+
+
+  * Not seeing what you're looking for?
+  * [ See all security and identity products  ](https://cloud.google.com/products?pds=CAg#security-and-identity)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Serverless  ](https://cloud.google.com/serverless)
+
+
+  * [ Cloud Run  Fully managed environment for running containerized apps.  ](https://cloud.google.com/run)
+
+
+  * [ Cloud Functions  Platform for creating functions that respond to cloud events.  ](https://cloud.google.com/functions)
+
+
+  * [ App Engine  Serverless application platform for apps and back ends.  ](https://cloud.google.com/appengine)
+
+
+  * [ Workflows  Workflow orchestration for serverless products and API services.  ](https://cloud.google.com/workflows)
+
+
+  * [ API Gateway  Develop, deploy, secure, and manage APIs with a fully managed gateway.  ](https://cloud.google.com/api-gateway/docs)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Storage  ](https://cloud.google.com/products/storage)
+
+
+  * [ Cloud Storage  Object storage that’s secure, durable, and scalable.  ](https://cloud.google.com/storage)
+
+
+  * [ Block Storage  High-performance storage for AI, analytics, databases, and enterprise applications.  ](https://cloud.google.com/products/block-storage)
+
+
+  * [ Filestore  File storage that is highly scalable and secure.  ](https://cloud.google.com/filestore)
+
+
+  * [ Persistent Disk  Block storage for virtual machine instances running on Google Cloud.  ](https://cloud.google.com/persistent-disk)
+
+
+  * [ Cloud Storage for Firebase  Object storage for storing and serving user-generated content.  ](https://firebase.google.com/products/storage)
+
+
+  * [ Local SSD  Block storage that is locally attached for high-performance needs.  ](https://cloud.google.com/products/local-ssd)
+
+
+  * [ Storage Transfer Service  Data transfers from online and on-premises sources to Cloud Storage.  ](https://cloud.google.com/storage-transfer-service)
+
+
+  * [ Parallelstore  High performance, managed parallel file service.  ](https://cloud.google.com/parallelstore)
+
+
+  * [ Google Cloud NetApp Volumes  File storage service for NFS, SMB, and multi-protocol environments.  ](https://cloud.google.com/netapp-volumes)
+
+
+  * [ Backup and DR Service  Service for centralized, application-consistent data protection.  ](https://cloud.google.com/backup-disaster-recovery)
+
+
+
+  * [ ![](https://www.gstatic.com/cloud/images/navigation/forward.svg) Web3  ](https://cloud.google.com/web3)
+
+
+  * [ Blockchain Node Engine  Fully managed node hosting for developing on the blockchain.  ](https://cloud.google.com/blockchain-node-engine)
+
+
+  * [ Blockchain RPC  Enterprise-grade RPC for building on the blockchain.  ](https://cloud.google.com/products/blockchain-rpc)
+
+
+
+[ Pricing ](https://cloud.google.com/pricing) [](#)
+
+close
+
+  * Save money with our transparent approach to pricing
+  * Google Cloud's pay-as-you-go pricing offers automatic savings based on monthly usage and discounted rates for prepaid resources. Contact us today to get a quote.
+  * [ Request a quote  ](https://cloud.google.com/contact/form?direct=true)
+
+
+
+  * Pricing overview and tools
+  * [ Google Cloud pricing  Pay only for what you use with no lock-in.  ](https://cloud.google.com/pricing)
+  * [ Pricing calculator  Calculate your cloud savings.  ](https://cloud.google.com/products/calculator)
+  * [ Google Cloud free tier  Explore products with free monthly usage.  ](https://cloud.google.com/free)
+
+
+
+  * [ Cost optimization framework  Get best practices to optimize workload costs.  ](https://cloud.google.com/architecture/framework/cost-optimization)
+  * [ Cost management tools  Tools to monitor and control your costs.  ](https://cloud.google.com/cost-management)
+
+
+
+  * Product-specific Pricing
+  * [ Compute Engine  ](https://cloud.google.com/compute/all-pricing)
+  * [ Cloud SQL  ](https://cloud.google.com/sql/pricing)
+  * [ Google Kubernetes Engine  ](https://cloud.google.com/kubernetes-engine/pricing)
+  * [ Cloud Storage  ](https://cloud.google.com/storage/pricing)
+  * [ BigQuery  ](https://cloud.google.com/bigquery/pricing)
+
+
+  * [ See full price list with 100+ products  ](https://cloud.google.com/pricing/list)
+
+
+
+[ Resources ](https://cloud.google.com/start) [](#)
+
+close
+
+  * Learn & build
+  * [ Google Cloud Free Program  $300 in free credits and 20+ free products.  ](https://cloud.google.com/free)
+  * [ Solution Generator  Get AI generated solution recommendations.  ](https://cloud.google.com/solution-generator)
+  * [ Quickstarts  Get tutorials and walkthroughs.  ](https://cloud.google.com/docs/tutorials?doctype=quickstart)
+  * [ Blog  Read our latest product news and stories.  ](https://cloud.google.com/blog)
+
+
+
+  * [ Learning Hub  Grow your career with role-based training.  ](https://cloud.google.com/learn)
+  * [ Google Cloud certification  Prepare and register for certifications.  ](https://cloud.google.com/certification)
+  * [ Cloud computing basics  Learn more about cloud computing basics.  ](https://cloud.google.com/discover)
+  * [ Cloud Architecture Center  Get reference architectures and best practices.  ](https://cloud.google.com/architecture)
+
+
+
+  * Connect
+  * [ Innovators  Join Google Cloud's developer program.  ](https://cloud.google.com/innovators/innovatorsplus)
+  * [ Developer Center  Stay in the know and stay connected.  ](https://cloud.google.com/developers)
+  * [ Events and webinars  Browse upcoming and on demand events.  ](https://cloud.google.com/events)
+  * [ Google Cloud Community  Ask questions, find answers, and connect.  ](https://cloud.google.com/communities)
+
+
+
+  * Consulting and Partners
+  * [ Google Cloud Consulting  Work with our experts on cloud projects.  ](https://cloud.google.com/consulting)
+  * [ Google Cloud Marketplace  Deploy ready-to-go solutions in a few clicks.  ](https://cloud.google.com/marketplace)
+  * [ Google Cloud partners  Explore benefits of working with a partner.  ](https://cloud.google.com/partners)
+  * [ Become a partner  Join the Partner Advantage program.  ](https://partners.cloud.google.com)
+
+
+
+[ Docs ](https://cloud.google.com/docs) [ Support ](https://cloud.google.com/support-hub) [More](#)
+
+`/`
+
+[ Docs ](https://cloud.google.com/docs) [ Support ](https://cloud.google.com/support-hub)
+
+  * [English](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/)
+  * [Deutsch](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=de)
+  * [Español – América Latina](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=es-419)
+  * [Français](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=fr)
+  * [Indonesia](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=id)
+  * [Italiano](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=it)
+  * [Português – Brasil](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=pt-br)
+  * [中文 – 简体](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=zh-cn)
+  * [日本語](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=ja)
+  * [한국어](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=ko)
+
+Sign in
+
+  * [ Cloud Architecture Center ](https://cloud.google.com/architecture)
+
+
+
+[Contact Us](https://cloud.google.com/contact) [Start free](//console.cloud.google.com/freetrial)
+
+[ ![Google Cloud](https://www.gstatic.com/devrel-devsite/prod/vda41147226ae308b24384f785d31d739107d2716272d99cd11c490ff3892954d/cloud/images/cloud-logo.svg) ](/)
+
+  * [ Overview  ](/why-google-cloud)
+    * More 
+  * [ Solutions  ](/solutions)
+    * More 
+  * [ Products  ](/products)
+    * More 
+  * [ Pricing  ](/pricing)
+    * More 
+  * [ Resources  ](/start)
+    * More 
+  * [ Docs  ](/docs)
+  * [ Support  ](/support-hub)
+  * [ Console  ](//console.cloud.google.com/)
+  * [ Contact Us  ](/contact)
+  * [ Start free  ](//console.cloud.google.com/freetrial)
+
+
+
+  * [< Architecture Center home](/architecture)
+  * [What's new](/architecture/release-notes)
+  * Fundamentals
+
+    * [Content overview](/architecture/fundamentals)
+    * Architecture Framework
+
+      * [Overview](/architecture/framework)
+      * [What's new](/architecture/framework/whats-new)
+      * Operational excellence
+
+        * [Overview](/architecture/framework/operational-excellence)
+        * [Ensure operational readiness and performance using CloudOps](/architecture/framework/operational-excellence/operational-readiness-and-performance-using-cloudops)
+        * [Manage incidents and problems](/architecture/framework/operational-excellence/manage-incidents-and-problems)
+        * [Manage and optimize cloud resources](/architecture/framework/operational-excellence/manage-and-optimize-cloud-resources)
+        * [Automate and manage change](/architecture/framework/operational-excellence/automate-and-manage-change)
+        * [Continuously improve and innovate](/architecture/framework/operational-excellence/continuously-improve-and-innovate)
+
+      * Security, privacy, and compliance
+
+        * [Overview](/architecture/framework/security)
+        * [Shared responsibility and shared fate](/architecture/framework/security/shared-responsibility-shared-fate)
+        * [Security principles](/architecture/framework/security/security-principles)
+        * [Manage risks with controls](/architecture/framework/security/risk-management)
+        * [Manage your assets](/architecture/framework/security/asset-management)
+        * [Manage identity and access](/architecture/framework/security/identity-access)
+        * [Implement compute and container security](/architecture/framework/security/compute-container-security)
+        * [Secure your network](/architecture/framework/security/network-security)
+        * [Implement data security](/architecture/framework/security/data-security)
+        * [Deploy applications securely](/architecture/framework/security/app-security)
+        * [Manage compliance obligations](/architecture/framework/security/compliance)
+        * [Implement data residency and sovereignty](/architecture/framework/security/data-residency-sovereignty)
+        * [Implement privacy requirements](/architecture/framework/security/privacy)
+        * [Implement logging and detective controls](/architecture/framework/security/logging-detection)
+
+      * Reliability
+
+        * [Overview](/architecture/framework/reliability)
+        * [Define reliability based on user-experience goals](/architecture/framework/reliability/define-reliability-based-on-user-experience-goals)
+        * [Set realistic targets for reliability](/architecture/framework/reliability/set-targets)
+        * [Build high availability through redundancy](/architecture/framework/reliability/build-highly-available-systems)
+        * [Take advantage of horizontal scalability](/architecture/framework/reliability/horizontal-scalability)
+        * [Detect potential failures by using observability](/architecture/framework/reliability/observability)
+        * [Design for graceful degradation](/architecture/framework/reliability/graceful-degradation)
+        * [Perform testing for recovery from failures](/architecture/framework/reliability/perform-testing-for-recovery-from-failures)
+        * [Perform testing for recovery from data loss](/architecture/framework/reliability/perform-testing-for-recovery-from-data-loss)
+        * [Conduct thorough postmortems](/architecture/framework/reliability/conduct-postmortems)
+
+      * Cost optimization
+
+        * [Overview](/architecture/framework/cost-optimization)
+        * [Align spending with business value](/architecture/framework/cost-optimization/align-cloud-spending-business-value)
+        * [Foster a culture of cost awareness](/architecture/framework/cost-optimization/foster-culture-cost-awareness)
+        * [Optimize resource usage](/architecture/framework/cost-optimization/optimize-resource-usage)
+        * [Optimize continuously](/architecture/framework/cost-optimization/optimize-continuously)
+
+      * Performance optimization
+
+        * [Overview](/architecture/framework/performance-optimization)
+        * [Plan resource allocation](/architecture/framework/performance-optimization/plan-resource-allocation)
+        * [Take advantage of elasticity](/architecture/framework/performance-optimization/elasticity)
+        * [Promote modular design](/architecture/framework/performance-optimization/promote-modular-design)
+        * [Continuously monitor and improve performance](/architecture/framework/performance-optimization/continuously-monitor-and-improve-performance)
+
+      * [Sustainability](/architecture/framework/sustainability)
+      * AI and ML perspective
+
+        * [Overview](/architecture/framework/perspectives/ai-ml)
+        * [Operational excellence](/architecture/framework/perspectives/ai-ml/operational-excellence)
+        * [Security](/architecture/framework/perspectives/ai-ml/security)
+        * [Reliability](/architecture/framework/perspectives/ai-ml/reliability)
+        * [Cost optimization](/architecture/framework/perspectives/ai-ml/cost-optimization)
+        * [Performance optimization](/architecture/framework/perspectives/ai-ml/performance-optimization)
+
+      * [View in one page](/architecture/framework/printable)
+
+    * Deployment archetypes
+
+      * [Overview](/architecture/deployment-archetypes)
+      * [Zonal](/architecture/deployment-archetypes/zonal)
+      * [Regional](/architecture/deployment-archetypes/regional)
+      * [Multi-regional](/architecture/deployment-archetypes/multiregional)
+      * [Global](/architecture/deployment-archetypes/global)
+      * [Hybrid](/architecture/deployment-archetypes/hybrid)
+      * [Multicloud](/architecture/deployment-archetypes/multicloud)
+      * [Comparative analysis](/architecture/deployment-archetypes/comparison)
+      * [What's next](/architecture/deployment-archetypes/whats-next)
+      * Reference architectures
+
+        * [Single-zone deployment on Compute Engine](/architecture/single-zone-deployment-compute-engine)
+        * [Regional deployment on Compute Engine](/architecture/regional-deployment-compute-engine)
+        * [Multi-regional deployment on Compute Engine](/architecture/multiregional-vms)
+        * [Global deployment on Compute Engine and Spanner](/architecture/global-deployment-compute-engine-spanner)
+
+    * Landing zone design
+
+      * [Landing zones overview](/architecture/landing-zones)
+      * [Decide identity onboarding](/architecture/landing-zones/decide-how-to-onboard-identities)
+      * [Decide resource hierarchy](/architecture/landing-zones/decide-resource-hierarchy)
+      * Network design
+
+        * [Decide network design](/architecture/landing-zones/decide-network-design)
+        * [Implement network design](/architecture/landing-zones/implement-network-design)
+
+      * [Decide security](/architecture/landing-zones/decide-security)
+
+    * Enterprise foundations blueprint
+
+      * [Overview](/architecture/security-foundations)
+      * Architecture
+
+        * [Authentication and authorization](/architecture/security-foundations/authentication-authorization)
+        * [Organization structure](/architecture/security-foundations/organization-structure)
+        * [Networking](/architecture/security-foundations/networking)
+        * [Detective controls](/architecture/security-foundations/detective-controls)
+        * [Preventative controls](/architecture/security-foundations/preventative-controls)
+
+      * [Deployment methodology](/architecture/security-foundations/deployment-methodology)
+      * [Operations best practices](/architecture/security-foundations/operation-best-practices)
+      * [Deploy the blueprint](/architecture/security-foundations/summary)
+      * [View in one page](/architecture/security-foundations/printable)
+
+  * AI and machine learning
+
+    * [Content overview](/architecture/ai-ml)
+    * Generative AI
+
+      * [Generative AI document summarization](/architecture/ai-ml/generative-ai-document-summarization)
+      * [Generative AI RAG with Cloud SQL](/architecture/ai-ml/generative-ai-rag)
+      * [Generative AI knowledge base](/architecture/ai-ml/generative-ai-knowledge-base)
+      * [Infrastructure for a RAG-capable generative AI application using Vertex AI and Vector Search](/architecture/gen-ai-rag-vertex-ai-vector-search)
+      * [Infrastructure for a RAG-capable generative AI application using Vertex AI and AlloyDB](/architecture/rag-capable-gen-ai-app-using-vertex-ai)
+      * [Infrastructure for a RAG-capable generative AI application using GKE](/architecture/rag-capable-gen-ai-app-using-gke)
+      * [Use generative AI for utilization management](/architecture/use-generative-ai-utilization-management)
+
+    * Model training
+
+      * [Best practices for implementing machine learning on Google Cloud](/architecture/ml-on-gcp-best-practices)
+      * [Cross-silo and cross-device federated learning on Google Cloud](/architecture/cross-silo-cross-device-federated-learning-google-cloud)
+      * [Model development and data labeling with Google Cloud and Labelbox](/architecture/partners/model-development-data-labeling-labelbox-google-cloud)
+
+    * MLOps
+
+      * [MLOps: Continuous delivery and automation pipelines in machine learning](/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+      * [Deploy and operate generative AI applications](/architecture/deploy-operate-generative-ai-applications)
+      * [Deploy an enterprise AI and ML model](/architecture/genai-mlops-blueprint)
+      * [Confidential computing for data analytics and AI](/architecture/confidential-computing-analytics-ai)
+      * [MLOps using TensorFlow Extended, Vertex AI Pipelines, and Cloud Build](/architecture/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build)
+      * [Guidelines for high-quality, predictive ML solutions](/architecture/guidelines-for-developing-high-quality-ml-solutions)
+
+    * AI and ML applications
+
+      * [AI/ML image processing on Cloud Functions](/architecture/ai-ml/image-processing-cloud-functions)
+      * Build an ML vision analytics solution with Dataflow and Cloud Vision API
+
+        * [Reference architecture](/architecture/building-a-vision-analytics-solution)
+        * [Deploy the architecture](/architecture/building-a-vision-analytics-solution/deployment)
+
+      * [Design storage for AI and ML workloads in Google Cloud](/architecture/ai-ml/storage-for-ai-ml)
+      * [Implement two-tower retrieval with large-scale candidate generation](/architecture/implement-two-tower-retrieval-large-scale-candidate-generation)
+      * [Use Vertex AI Pipelines for propensity modeling on Google Cloud](/architecture/use-vertex-ai-pipelines-for-propensity-modeling)
+
+    * Third-party product integrations
+
+      * [C3 AI architecture on Google Cloud](/architecture/partners/c3-ai-architecture)
+
+  * Application development
+
+    * [Content overview](/architecture/application-development)
+    * Development approaches and styles
+
+      * Microservices overview
+
+        * [Overview](/architecture/microservices-architecture-introduction)
+        * [Refactor a monolith into microservices](/architecture/microservices-architecture-refactoring-monoliths)
+        * [Interservice communication in a microservices setup](/architecture/microservices-architecture-interservice-communication)
+        * [Distributed tracing in a microservices application](/architecture/microservices-architecture-distributed-tracing)
+
+      * [Patterns for scalable and resilient apps](/architecture/scalable-and-resilient-apps)
+
+    * Development platform management
+
+      * Deploy an enterprise developer platform
+
+        * [Overview](/architecture/enterprise-application-blueprint)
+        * [Architecture](/architecture/enterprise-application-blueprint/architecture)
+        * [Developer platform controls](/architecture/enterprise-application-blueprint/developer-platform-controls)
+        * [Service architecture](/architecture/enterprise-application-blueprint/service-architecture)
+        * [Logging and monitoring](/architecture/enterprise-application-blueprint/logging-monitoring)
+        * [Operations](/architecture/enterprise-application-blueprint/ops-developer-platform-applications)
+        * [Costs and attributions](/architecture/enterprise-application-blueprint/manage-costs-attributions)
+        * [Deployment methodology](/architecture/enterprise-application-blueprint/deployment-methodology)
+        * [Cymbal Bank example](/architecture/enterprise-application-blueprint/cymbal-bank)
+        * [Mapping BeyondProd principles](/architecture/enterprise-application-blueprint/mapping-beyondprod-security-principles)
+        * [Deploy the blueprint](/architecture/enterprise-application-blueprint/deploy-blueprint)
+
+      * [Best practices for cost-optimized Kubernetes applications on GKE](/architecture/best-practices-for-running-cost-effective-kubernetes-applications-on-gke)
+      * Expose service mesh applications through GKE Gateway
+
+        * [Reference architecture](/architecture/exposing-service-mesh-apps-through-gke-ingress)
+        * [Deploy the architecture](/architecture/exposing-service-mesh-apps-through-gke-ingress/deployment)
+
+      * Build globally distributed applications using GKE Gateway and Cloud Service Mesh
+
+        * [Reference architecture](/architecture/build-apps-using-gateway-and-cloud-service)
+        * [Deploy the architecture](/architecture/build-apps-using-gateway-and-cloud-service/deployment)
+
+      * [Patterns and practices for identity and access governance on Google Cloud](/architecture/patterns-practices-identity-access-governance-google-cloud)
+      * [Resource management with ServiceNow](/architecture/resource-management-with-servicenow)
+      * [Select a managed container runtime environment](/architecture/select-managed-container-runtime-environment)
+
+    * DevOps and development lifecycle
+
+      * [Architecture decision records overview](/architecture/architecture-decision-records)
+      * Develop and deliver apps with a deployment pipeline
+
+        * [Reference architecture](/architecture/app-development-and-delivery-with-cloud-code-gcb-cd-and-gke)
+        * [Deploy the architecture](/architecture/app-development-and-delivery-with-cloud-code-gcb-cd-and-gke/deployment)
+
+      * [DevOps Research and Assessment (DORA) capabilities](/architecture/devops)
+
+    * Application architectures
+
+      * Apache Guacamole on GKE and Cloud SQL
+
+        * [Reference architecture](/architecture/deploy-guacamole-gke)
+        * [Deploy the architecture](/architecture/deploy-guacamole-gke/deployment)
+
+      * Chrome Remote Desktop on Compute Engine
+
+        * [Set up for Linux](/architecture/chrome-desktop-remote-on-compute-engine)
+        * [Set up for Windows](/architecture/chrome-desktop-remote-windows-compute-engine)
+
+      * Connected device architectures on Google Cloud
+
+        * [Overview](/architecture/connected-devices)
+        * [Standalone MQTT broker](/architecture/connected-devices/mqtt-broker-architecture)
+        * [IoT platform product](/architecture/connected-devices/iot-platform-product-architecture)
+        * [Device to Pub/Sub connection to Google Cloud](/architecture/connected-devices/device-pubsub-architecture)
+        * [Best practices for running an IoT backend](/architecture/connected-devices/bps-running-iot-backend-securely)
+        * [Best practices for automatically provisioning and configuring edge and bare metal systems and servers](/architecture/connected-devices/best-practices-provisioning-configuring-bare-metal)
+
+      * [Distributed load testing using Google Kubernetes Engine](/architecture/distributed-load-testing-using-gke)
+      * [Ecommerce platform with serverless computing](/architecture/application-development/ecommerce-serverless)
+      * [Ecommerce web app deployed on Kubernetes](/architecture/application-development/ecommerce-microservices)
+      * Manage and scale networking for Windows applications that run on managed Kubernetes
+
+        * [Reference architecture](/architecture/manage-and-scale-windows-networking)
+        * [Deploy the architecture](/architecture/manage-and-scale-windows-networking/deployment)
+
+      * [Dynamic web application with Java](/architecture/application-development/gke-java-spring-dynamic-webapp)
+      * [Dynamic web application with JavaScript](/architecture/application-development/dynamic-app-javascript)
+      * [Dynamic web application with Python and JavaScript](/architecture/application-development/dynamic-app-python)
+      * [Use a Cloud SDK Client Library](/architecture/application-development/cloud-client-api)
+      * [Onboarding best practices for state, local, and education organizations](/architecture/best-practices-for-iam-and-billing-in-higher-education)
+      * [Three-tier web app](/architecture/application-development/three-tier-web-app)
+      * [Website hosting](/architecture/web-serving-overview)
+
+  * Big data and analytics
+
+    * [Content overview](/architecture/big-data-analytics)
+    * End-to-end architectures
+
+      * [Analytics lakehouse](/architecture/big-data-analytics/analytics-lakehouse)
+      * Data mesh on Google Cloud
+
+        * [Architecture and functions in a data mesh](/architecture/data-mesh)
+        * [Design a self-service data platform for a data mesh](/architecture/design-self-service-data-platform-data-mesh)
+        * [Build data products in a data mesh](/architecture/build-data-products-data-mesh)
+        * [Discover and consume data products in a data mesh](/architecture/discover-consume-data-products-data-mesh)
+
+      * [Data warehouse with BigQuery](/architecture/big-data-analytics/data-warehouse)
+      * BigQuery backup automation
+
+        * [Reference architecture](/architecture/scalable-bigquery-backup-automation)
+        * [Deploy the architecture](/architecture/scalable-bigquery-backup-automation/deployment)
+
+    * Load and process data
+
+      * [Continuous data replication to BigQuery using Striim](/architecture/partners/continuous-data-replication-bigquery-striim)
+      * Use Apache Hive on Dataproc
+
+        * [Reference architecture](/architecture/using-apache-hive-on-cloud-dataproc)
+        * [Deploy the architecture](/architecture/using-apache-hive-on-cloud-dataproc/deployment)
+
+    * Analyze data
+
+      * [Analyze FHIR data in BigQuery](/architecture/analyzing-fhir-data-in-bigquery)
+      * [Data science with R: exploratory data analysis](/architecture/data-science-with-r-on-gcp-eda)
+      * [Geospatial analytics](/architecture/geospatial-analytics-architecture)
+
+  * Databases
+
+    * [Content overview](/architecture/databases)
+    * Database availability
+
+      * [High availability of MySQL clusters on Compute Engine](/architecture/architectures-high-availability-mysql-clusters-compute-engine)
+
+    * [Enterprise application with Oracle Database on Compute Engine](/architecture/enterprise-app-oracle-database-compute-engine)
+    * [Enterprise application on Compute Engine VMs with Oracle Exadata in Google Cloud](/architecture/enterprise-app-oracle-exadata-database-compute-engine)
+    * [Multi-cloud database management](/architecture/multi-cloud-database-management)
+
+  * Hybrid and multicloud
+
+    * [Content overview](/architecture/hybrid-multicloud)
+    * Build hybrid and multicloud architectures
+
+      * [Overview](/architecture/hybrid-multicloud-patterns)
+      * [Drivers, considerations, strategy, and patterns](/architecture/hybrid-multicloud-patterns/drivers)
+      * [Plan a hybrid and multicloud strategy](/architecture/hybrid-multicloud-patterns/strategy)
+      * [Architectural approaches to adopt a hybrid or multicloud architecture](/architecture/hybrid-multicloud-patterns/adopt)
+      * [Other considerations](/architecture/hybrid-multicloud-patterns/other-considerations)
+      * [What's next](/architecture/hybrid-multicloud-patterns/whats-next)
+      * [View the guide as a single page](/architecture/hybrid-multicloud-patterns/one-page-view)
+
+    * Hybrid and multicloud architecture patterns
+
+      * [Overview](/architecture/hybrid-multicloud-patterns-and-practices)
+      * [Distributed architecture patterns](/architecture/hybrid-multicloud-patterns-and-practices/distributed-patterns)
+      * [Tiered hybrid pattern](/architecture/hybrid-multicloud-patterns-and-practices/tiered-hybrid-pattern)
+      * [Partitioned multicloud pattern](/architecture/hybrid-multicloud-patterns-and-practices/partitioned-multicloud-pattern)
+      * [Analytics hybrid and multicloud patterns](/architecture/hybrid-multicloud-patterns-and-practices/analytics-hybrid-multicloud-pattern)
+      * [Edge hybrid pattern](/architecture/hybrid-multicloud-patterns-and-practices/edge-hybrid-pattern)
+      * [Environment hybrid pattern](/architecture/hybrid-multicloud-patterns-and-practices/environment-hybrid-pattern)
+      * [Business continuity hybrid and multicloud patterns](/architecture/hybrid-multicloud-patterns-and-practices/business-continuity-patterns)
+      * [Cloud bursting pattern](/architecture/hybrid-multicloud-patterns-and-practices/cloud-bursting-pattern)
+      * [What's next](/architecture/hybrid-multicloud-patterns-and-practices/whats-next)
+      * [View the guide as a single page](/architecture/hybrid-multicloud-patterns-and-practices/one-page-view)
+
+    * Hybrid and multicloud secure networking architecture patterns
+
+      * [Overview](/architecture/hybrid-multicloud-secure-networking-patterns)
+      * [Design considerations](/architecture/hybrid-multicloud-secure-networking-patterns/design-considerations)
+      * [Architecture patterns](/architecture/hybrid-multicloud-secure-networking-patterns/architecture-patterns)
+      * [Mirrored pattern](/architecture/hybrid-multicloud-secure-networking-patterns/mirrored-pattern)
+      * [Meshed pattern](/architecture/hybrid-multicloud-secure-networking-patterns/meshed-pattern)
+      * [Gated patterns](/architecture/hybrid-multicloud-secure-networking-patterns/gated-patterns)
+      * [Gated egress](/architecture/hybrid-multicloud-secure-networking-patterns/gated-egress)
+      * [Gated ingress](/architecture/hybrid-multicloud-secure-networking-patterns/gated-ingress)
+      * [Gated egress and gated ingress](/architecture/hybrid-multicloud-secure-networking-patterns/gated-egress-ingress)
+      * [Handover pattern](/architecture/hybrid-multicloud-secure-networking-patterns/handover-pattern)
+      * [General best practices](/architecture/hybrid-multicloud-secure-networking-patterns/general-best-practices)
+      * [What's next](/architecture/hybrid-multicloud-secure-networking-patterns/whats-next)
+      * [View the guide as a single page](/architecture/hybrid-multicloud-secure-networking-patterns/one-page-view)
+
+    * Cross-Cloud Network design for distributed applications
+
+      * [Overview](/architecture/ccn-distributed-apps-design)
+      * [Connectivity](/architecture/ccn-distributed-apps-design/connectivity)
+      * [Service networking](/architecture/ccn-distributed-apps-design/service-networking)
+      * [Network security](/architecture/ccn-distributed-apps-design/security)
+      * [Cross-Cloud Network inter-VPC connectivity using VPC Network Peering](/architecture/ccn-distributed-apps-design/ccn-vnp-vpn-ra)
+
+    * Hybrid and multicloud applications
+
+      * Hybrid render farm
+
+        * [Build a hybrid render farm](/architecture/building-a-hybrid-render-farm)
+
+      * [Patterns for connecting other cloud service providers with Google Cloud](/architecture/patterns-for-connecting-other-csps-with-gcp)
+
+    * Identity and access management
+
+      * Authenticate workforce users in a hybrid environment
+
+        * [Overview](/architecture/authenticating-corporate-users-in-a-hybrid-environment)
+        * [Implementation patterns](/architecture/patterns-for-authenticating-corporate-users-in-a-hybrid-environment)
+
+      * [Configure Active Directory for VMs to automatically join a domain](/architecture/configuring-active-directory-for-vms-to-automatically-join-the-domain)
+      * [Deploy an Active Directory forest on Compute Engine](/architecture/deploy-an-active-directory-forest-on-compute-engine)
+      * [Patterns for using Active Directory in a hybrid environment](/architecture/patterns-for-using-active-directory-in-a-hybrid-environment)
+
+    * Third-party product integrations
+
+      * [Data management with Cohesity Helios and Google Cloud](/architecture/partners/using-cohesity-with-cloud-storage-for-enterprise-hybrid-data-protection)
+
+  * Migration
+
+    * [Content overview](/architecture/migrations)
+    * Migrate to Google Cloud
+
+      * [Get started](/architecture/migration-to-gcp-getting-started)
+      * [Assess and discover your workloads](/architecture/migration-to-gcp-assessing-and-discovering-your-workloads)
+      * [Plan and build your foundation](/architecture/migration-to-google-cloud-building-your-foundation)
+      * [Transfer your large datasets](/architecture/migration-to-google-cloud-transferring-your-large-datasets)
+      * [Deploy your workloads](/architecture/migration-to-gcp-deploying-your-workloads)
+      * [Migrate from manual deployments to automated, containerized deployments](/architecture/migration-to-google-cloud-automated-containerized-deployments)
+      * [Optimize your environment](/architecture/migration-to-google-cloud-optimizing-your-environment)
+      * [Best practices for validating a migration plan](/architecture/migration-to-google-cloud-best-practices)
+      * [Minimize costs](/architecture/migration-to-google-cloud-minimize-costs)
+
+    * Migrate from AWS to Google Cloud
+
+      * [Get started](/architecture/migration-from-aws-get-started)
+      * [Migrate Amazon EC2 to Compute Engine](/architecture/migrate-amazon-ec2-to-compute-engine)
+      * [Migrate Amazon S3 to Cloud Storage](/architecture/migrate-amazon-s3-to-cloud-storage)
+      * [Migrate Amazon EKS to GKE](/architecture/migrate-amazon-eks-to-gke)
+      * [Migrate from Amazon RDS and Amazon Aurora for MySQL to Cloud SQL for MySQL](/architecture/migrate-aws-rds-to-sql-mysql)
+      * [Migrate from Amazon RDS and Amazon Aurora for PostgreSQL to Cloud SQL and AlloyDB for PostgreSQL](/architecture/migrate-aws-rds-aurora-to-postgresql)
+      * [Migrate from Amazon RDS for SQL Server to Cloud SQL for SQL Server](/architecture/migrate-aws-rds-to-cloudsql-for-sqlserver)
+      * [Migrate from AWS Lambda to Cloud Run](/architecture/migrate-aws-lambda-to-cloudrun)
+
+    * [Migrate to a Google Cloud VMware Engine platform](/architecture/vmware-engine-blueprint)
+    * Application migration
+
+      * Migrate containers to Google Cloud
+
+        * [Migrate from Kubernetes to GKE](/architecture/migrating-containers-kubernetes-gke)
+
+      * Migrate across Google Cloud regions
+
+        * [Get started](/architecture/migrate-across-regions)
+        * [Design resilient single-region environments on Google Cloud](/architecture/migrate-across-regions/design-resilient-single-region-environments)
+        * [Architect your workloads](/architecture/migrate-across-regions/architect-workloads)
+        * [Prepare data and batch workloads for migration across regions](/architecture/migrate-across-regions/prepare-data-and-batch-workloads)
+
+    * Data and Database migration
+
+      * Database migration guide
+
+        * [Concepts, principles, and terminology](/architecture/database-migration-concepts-principles-part-1)
+        * [Set up and run a database migration process](/architecture/database-migration-concepts-principles-part-2)
+
+      * Migrating on-premises Hadoop to Google Cloud
+
+        * [Overview](/architecture/hadoop)
+        * Data
+
+          * [Overview](/architecture/hadoop/hadoop-gcp-migration-data)
+          * [Validating data transfers](/architecture/hadoop/validating-data-transfers)
+
+        * Jobs
+
+          * [Migrating Hadoop Jobs from On-Premises to Google Cloud Platform](/architecture/hadoop/hadoop-gcp-migration-jobs)
+
+        * Security
+
+          * [Security Guide](/architecture/hadoop/hadoop-migration-security-guide)
+          * [Architecture for connecting visualization software to Hadoop on Google Cloud](/architecture/hadoop/architecture-for-connecting-visualization-software-to-hadoop-on-google-cloud)
+          * [Connecting visualization software to Hadoop on Google Cloud](/architecture/hadoop/connecting-visualization-software-to-hadoop-on-google-cloud)
+          * [Kerberized data lake on Dataproc](/architecture/hadoop/kerberized-data-lake-dataproc)
+
+      * Networks for migrating enterprise workloads
+
+        * [Architectural approaches](/architecture/network-architecture)
+        * [Networking for secure intra-cloud access](/architecture/network-secure-intra-cloud-access)
+        * [Networking for internet-facing application delivery](/architecture/network-application-delivery)
+        * [Networking for hybrid and multicloud workloads](/architecture/network-hybrid-multicloud)
+
+      * Use RIOT Live Migration to migrate to Redis Enterprise Cloud
+
+        * [Reference architecture](/architecture/riot-live-migration-redis-enterprise-cloud)
+        * [Deploy the architecture](/architecture/riot-live-migration-redis-enterprise-cloud/deployment)
+        * [Define migration scope](/architecture/riot-live-migration-redis-enterprise-cloud/assessment)
+
+  * Monitoring and logging
+
+    * [Content overview](/architecture/monitoring)
+    * Export logs and metrics
+
+      * [Cloud Monitoring metric export](/architecture/monitoring-metric-export)
+      * Import logs from Cloud Storage to Cloud Logging
+
+        * [Reference architecture](/architecture/import-logs-from-storage-to-logging)
+        * [Deploy the architecture](/architecture/import-logs-from-storage-to-logging/deployment)
+
+      * Stream logs from Google Cloud to Splunk
+
+        * [Reference architecture](/architecture/stream-logs-from-google-cloud-to-splunk)
+        * [Deploy the architecture](/architecture/stream-logs-from-google-cloud-to-splunk/deployment)
+
+    * Hybrid and multicloud monitoring
+
+      * [Hybrid and multicloud monitoring and logging patterns](/architecture/hybrid-and-multi-cloud-monitoring-and-logging-patterns)
+      * Log and monitor on-premises resources with BindPlane
+
+        * [Overview](/architecture/logging-and-monitoring-on-premises-resources-with-bindplane)
+        * [Log on-premises resources](/architecture/logging-on-premises-resources-with-bindplane)
+        * [Monitor on-premises resources](/architecture/monitoring-on-premises-resources-with-bindplane)
+
+      * Stream logs from Google Cloud to Datadog
+
+        * [Reference architecture](/architecture/partners/stream-cloud-logs-to-datadog)
+        * [Deploy the architecture](/architecture/partners/stream-cloud-logs-to-datadog/deployment)
+
+  * Networking
+
+    * [Content overview](/architecture/networking)
+    * [Best practices and reference architectures for VPC design](/architecture/best-practices-vpc-design)
+    * Connect
+
+      * [Hub-and-spoke network architecture](/architecture/deploy-hub-spoke-vpc-network-topology)
+      * [Patterns for connecting other cloud service providers with Google Cloud](/architecture/patterns-for-connecting-other-csps-with-gcp)
+      * [Building internet connectivity for private VMs](/architecture/building-internet-connectivity-for-private-vms)
+
+    * Secure
+
+      * [Deploy FortiGate-VM Next Generation Firewall using Terraform](/architecture/partners/use-terraform-to-deploy-a-fortigate-ngfw)
+      * [Fortigate architecture in Google Cloud](/architecture/partners/fortigate-architecture-in-cloud)
+      * [Secure virtual private cloud networks with the Palo Alto VM-Series NGFW](/architecture/partners/palo-alto-networks-ngfw)
+      * [VMware Engine network security using centralized appliances](/architecture/gcve-advanced-network-security)
+      * [Controls to restrict access to individually approved APIs](/architecture/network-controls-limit-access-individually-approved-apis)
+
+    * Observe
+
+      * [Deploy network monitoring and telemetry capabilities in Google Cloud](/architecture/deploy-network-telemetry-blueprint)
+
+  * Reliability and disaster recovery
+
+    * [Content overview](/architecture/reliability)
+    * Infrastructure reliability guide
+
+      * [Overview of reliability](/architecture/infra-reliability-guide)
+      * [Building blocks of reliability](/architecture/infra-reliability-guide/building-blocks)
+      * [Assess reliability requirements](/architecture/infra-reliability-guide/requirements)
+      * [Design reliable infrastructure](/architecture/infra-reliability-guide/design)
+      * [Manage traffic and load](/architecture/infra-reliability-guide/traffic-load)
+      * [Manage and monitor infrastructure](/architecture/infra-reliability-guide/manage-and-monitor)
+      * [What's next](/architecture/infra-reliability-guide/whats-next)
+
+    * Disaster recovery planning guide
+
+      * [Overview](/architecture/dr-scenarios-planning-guide)
+      * [Building blocks](/architecture/dr-scenarios-building-blocks)
+      * [Scenarios for data](/architecture/dr-scenarios-for-data)
+      * [Scenarios for applications](/architecture/dr-scenarios-for-applications)
+      * [Architecting for locality-restricted workloads](/architecture/architecting-disaster-recovery-for-locality-restricted-workloads)
+      * [Use cases: locality-restricted data analytics applications](/architecture/dr-scenarios-locality-restricted-data-analytics)
+      * [Architecting for cloud infrastructure outages](/architecture/disaster-recovery)
+
+    * Application availability
+
+      * [Load balanced managed VMs](/architecture/reliability/load-balanced-vms)
+      * [Patterns for using floating IP addresses in Compute Engine](/architecture/patterns-for-floating-ip-addresses-in-compute-engine)
+
+    * Data availability
+
+      * [Continuous data replication to Cloud Spanner using Striim](/architecture/partners/continuous-data-replication-cloud-spanner-striim)
+      * [High availability of PostgreSQL clusters on Compute Engine](/architecture/architectures-high-availability-postgresql-clusters-compute-engine)
+
+    * [Business continuity with CI/CD on Google Cloud](/architecture/business-continuity-with-cicd-on-google-cloud)
+
+  * Security and IAM
+
+    * [Content overview](/architecture/security-iam)
+    * Identity and access management overview
+
+      * [Overview](/architecture/identity)
+      * Concepts
+
+        * [Overview of Google identity management](/architecture/identity/overview-google-authentication)
+        * [Reference architectures](/architecture/identity/reference-architectures)
+        * [Single sign-on](/architecture/identity/single-sign-on)
+
+      * Best practices
+
+        * [Best practices for planning accounts and organizations](/architecture/identity/best-practices-for-planning)
+        * [Best practices for federating Google Cloud with an external identity provider](/architecture/identity/best-practices-for-federating)
+
+      * Assess and plan
+
+        * [Plan the onboarding process](/architecture/identity/overview-assess-and-plan)
+        * [Federate with Active Directory](/architecture/identity/federating-gcp-with-active-directory-introduction)
+        * [Federate with Microsoft Entra ID](/architecture/identity/federating-gcp-with-azure-active-directory)
+        * [Assess existing user accounts](/architecture/identity/assessing-existing-user-accounts)
+        * [Assess onboarding plans](/architecture/identity/assessing-onboarding-plans)
+        * [Assess the impact of user account consolidation on federation](/architecture/identity/assessing-consolidation-impact-on-federation)
+
+      * Deploy
+
+        * [Prepare your Google Workspace or Cloud Identity account](/architecture/identity/preparing-your-g-suite-or-cloud-identity-account)
+        * Set up federation
+
+          * [Microsoft Entra ID user provisioning and single sign-on](/architecture/identity/federating-gcp-with-azure-ad-configuring-provisioning-and-single-sign-on)
+          * [Microsoft Entra ID B2B user provisioning and single sign-on](/architecture/identity/azure-ad-b2b-user-provisioning-and-sso)
+          * [Microsoft Entra ID My Apps portal integration](/architecture/identity/integrating-google-services-and-apps-with-azure-ad-portal)
+          * [Active Directory user account provisioning](/architecture/identity/federating-gcp-with-active-directory-synchronizing-user-accounts)
+          * [Active Directory single sign-on](/architecture/identity/federating-gcp-with-active-directory-configuring-single-sign-on)
+          * [Keycloak single sign-on](/architecture/identity/keycloak-single-sign-on)
+          * [Okta user provisioning and single sign-on](/architecture/identity/okta-provisioning-and-single-sign-on)
+
+        * Consolidate accounts
+
+          * [Overview](/architecture/identity/overview-consolidating-accounts)
+          * [Migrate consumer accounts](/architecture/identity/migrating-consumer-accounts)
+          * [Evict unwanted consumer accounts](/architecture/identity/evicting-consumer-accounts)
+          * [Sanitize Gmail accounts](/architecture/identity/sanitizing-gmail-accounts)
+          * [Remove Gmail from consumer accounts](/architecture/identity/removing-gmail-from-consumer-accounts)
+          * [Reconcile orphaned managed user accounts](/architecture/identity/reconciling-orphaned-managed-user-accounts)
+
+      * Resources
+
+        * [Example announcement](/architecture/identity/example-announcement)
+
+    * Application security
+
+      * [Best practices for securing your applications and APIs using Apigee](/architecture/best-practices-securing-applications-and-apis-using-apigee)
+      * [Design secure deployment pipelines](/architecture/design-secure-deployment-pipelines-bp)
+      * [Use Google Cloud Armor, load balancing, and Cloud CDN to deploy programmable global front ends](/architecture/deploy-programmable-gfe-cloud-armor-lb-cdn)
+      * Secured serverless architecture
+
+        * [Architecture using Cloud Functions](/architecture/serverless-functions-blueprint)
+        * [Architecture using Cloud Run](/architecture/serverless-blueprint)
+
+    * Compliance
+
+      * [Configure networks for FedRAMP and DoD in Google Cloud](/architecture/configure-networks-fedramp-dod-google-cloud)
+      * [Google Cloud FedRAMP implementation guide](/architecture/fedramp-implementation-guide)
+      * [Limit scope of compliance for PCI environments in Google Cloud](/architecture/limiting-compliance-scope-pci-environments-google-cloud)
+      * [PCI Data Security Standard compliance](/architecture/pci-dss-compliance-in-gcp)
+      * [PCI DSS compliance on GKE](/architecture/pci-dss-and-gke-guide)
+      * [Security blueprint: PCI on GKE](/architecture/gke-pci-dss-blueprint)
+
+    * Data and identity protection
+
+      * [Configure SaaS data protection for Google Workspace data with SpinOne](/architecture/partners/backing-up-workspace-data-with-spinone)
+      * [De-identification and re-identification of PII in large-scale datasets using Cloud DLP](/architecture/de-identification-re-identification-pii-using-cloud-dlp)
+      * Import data into a secured BigQuery data warehouse
+
+        * [Import from a Google Cloud source](/architecture/confidential-data-warehouse-blueprint)
+        * [Import from an external source](/architecture/secured-data-warehouse-blueprint-onprem)
+
+      * [Security log analytics in Google Cloud](/architecture/security-log-analytics)
+
+    * Mitigation and avoidance
+
+      * Automate malware scanning for files uploaded to Cloud Storage
+
+        * [Reference architecture](/architecture/automate-malware-scanning-for-documents-uploaded-to-cloud-storage)
+        * [Deploy the architecture](/architecture/automate-malware-scanning-for-documents-uploaded-to-cloud-storage/deployment)
+
+      * [Best practices for mitigating compromised OAuth tokens for Google Cloud CLI](/architecture/bps-for-mitigating-gcloud-oauth-tokens)
+      * [Best practices for protecting against cryptocurrency mining attacks](/architecture/bps-for-protecting-against-crytocurrency-attacks)
+      * Mitigate ransomware attacks
+
+        * [Overview](/architecture/mitigating-ransomware-attacks)
+        * [Best practices](/architecture/bps-for-mitigating-ransomware-attacks)
+
+      * [OWASP Top 10 2021 mitigation options on Google Cloud](/architecture/owasp-top-ten-mitigation)
+      * [Identify and prioritize security risks with Wiz Security Graph and Google Cloud](/architecture/partners/id-prioritize-security-risks-with-wiz)
+
+    * Network security
+
+      * [Secure virtual private cloud networks with the Palo Alto VM-Series NGFW](/architecture/partners/palo-alto-networks-ngfw)
+
+  * Storage
+
+    * [Content overview](/architecture/storage)
+    * [Design an optimal storage strategy for your cloud workload](/architecture/storage-advisor)
+    * Storage applications
+
+      * [File storage on Compute Engine](/architecture/filers-on-compute-engine)
+      * [Parallel file systems for HPC workloads](/architecture/parallel-file-systems-for-hpc)
+
+
+
+  * Accelerate your digital transformation 
+  * [ Learn more  ](/transform)
+  * Key benefits 
+  * [ Why Google Cloud  ](/why-google-cloud)
+  * [ AI and ML  ](/ai)
+  * [ Multicloud  ](/multicloud)
+  * [ Global infrastructure  ](/infrastructure)
+  * [ Data Cloud  ](/data-cloud)
+  * [ Modern Infrastructure Cloud  ](/solutions/modern-infrastructure)
+  * [ Security  ](/security)
+  * [ Productivity and collaboration  ](https://workspace.google.com)
+  * Reports and insights 
+  * [ Executive insights  ](/executive-insights)
+  * [ Analyst reports  ](/analyst-reports)
+  * [ Whitepapers  ](/whitepapers)
+  * [ Customer stories  ](/customers)
+
+
+  * [ Industry Solutions  ](/solutions#industry-solutions)
+  * [ Retail  ](/solutions/retail)
+  * [ Consumer Packaged Goods  ](/solutions/cpg)
+  * [ Financial Services  ](/solutions/financial-services)
+  * [ Healthcare and Life Sciences  ](/solutions/healthcare-life-sciences)
+  * [ Media and Entertainment  ](/solutions/media-entertainment)
+  * [ Telecommunications  ](/solutions/telecommunications)
+  * [ Games  ](/solutions/games)
+  * [ Manufacturing  ](/solutions/manufacturing)
+  * [ Supply Chain and Logistics  ](/solutions/supply-chain-logistics)
+  * [ Government  ](/gov)
+  * [ Education  ](/edu/higher-education)
+  * [ See all industry solutions  ](/solutions#industry-solutions)
+  * [ See all solutions  ](/solutions)
+  * [ Application Modernization  ](/solutions/camp)
+  * [ CAMP  ](/solutions/camp)
+  * [ Modernize Traditional Applications  ](/solutions/modernize-traditional-applications)
+  * [ Migrate from PaaS&#58; Cloud Foundry, Openshift  ](/solutions/migrate-from-paas)
+  * [ Migrate from Mainframe  ](/solutions/mainframe-modernization)
+  * [ Modernize Software Delivery  ](/solutions/software-delivery)
+  * [ DevOps Best Practices  ](/devops)
+  * [ SRE Principles  ](/sre)
+  * [ Day 2 Operations for GKE  ](/solutions/day-2-operations-for-gke)
+  * [ FinOps and Optimization of GKE  ](/solutions/finops-optimize-gke)
+  * [ Run Applications at the Edge  ](/solutions/modernize-with-edge)
+  * [ Architect for Multicloud  ](/solutions/architect-multicloud)
+  * [ Go Serverless  ](/solutions/serverless)
+  * [ Artificial Intelligence  ](/solutions/ai)
+  * [ Customer Engagement Suite with Google AI  ](/solutions/customer-engagement-ai)
+  * [ Document AI  ](/document-ai)
+  * [ Vertex AI Search for retail  ](/solutions/retail-product-discovery)
+  * [ Gemini for Google Cloud  ](/products/gemini)
+  * [ Generative AI on Google Cloud  ](/use-cases/generative-ai)
+  * [ APIs and Applications  ](/solutions/apis-and-applications)
+  * [ New Business Channels Using APIs  ](/solutions/new-channels-using-apis)
+  * [ Unlocking Legacy Applications Using APIs  ](/solutions/unlocking-legacy-applications)
+  * [ Open Banking APIx  ](/solutions/open-banking-apix)
+  * [ Data Analytics  ](/solutions/data-analytics-and-ai)
+  * [ Data Migration  ](/solutions/data-migration)
+  * [ Data Lake Modernization  ](/solutions/data-lake)
+  * [ Stream Analytics  ](/solutions/stream-analytics)
+  * [ Marketing Analytics  ](/solutions/marketing-analytics)
+  * [ Datasets  ](/datasets)
+  * [ Business Intelligence  ](/solutions/business-intelligence)
+  * [ AI for Data Analytics  ](/use-cases/ai-data-analytics)
+  * [ Databases  ](/solutions/databases)
+  * [ Database Migration  ](/solutions/database-migration)
+  * [ Database Modernization  ](/solutions/database-modernization)
+  * [ Databases for Games  ](/solutions/databases/games)
+  * [ Google Cloud Databases  ](/products/databases)
+  * [ Migrate Oracle workloads to Google Cloud  ](/solutions/oracle)
+  * [ Open Source Databases  ](/solutions/open-source-databases)
+  * [ SQL Server on Google Cloud  ](/sql-server)
+  * [ Gemini for Databases  ](/products/gemini/databases)
+  * [ Infrastructure Modernization  ](/solutions/infrastructure-modernization)
+  * [ Application Migration  ](/solutions/application-migration)
+  * [ SAP on Google Cloud  ](/solutions/sap)
+  * [ High Performance Computing  ](/solutions/hpc)
+  * [ Windows on Google Cloud  ](/windows)
+  * [ Data Center Migration  ](/solutions/data-center-migration)
+  * [ Active Assist  ](/solutions/active-assist)
+  * [ Virtual Desktops  ](/solutions/virtual-desktops)
+  * [ Rapid Migration and Modernization Program  ](/solutions/cloud-migration-program)
+  * [ Backup and Disaster Recovery  ](/solutions/backup-dr)
+  * [ Red Hat on Google Cloud  ](/solutions/redhat)
+  * [ Cross-Cloud Network  ](/solutions/cross-cloud-network)
+  * [ Observability  ](/solutions/observability)
+  * [ Productivity and Collaboration  ](https://workspace.google.com/enterprise/)
+  * [ Google Workspace  ](https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect)
+  * [ Google Workspace Essentials  ](https://workspace.google.com/essentials/)
+  * [ Cloud Identity  ](/identity)
+  * [ Chrome Enterprise  ](https://chromeenterprise.google)
+  * [ Security  ](/solutions/security)
+  * [ Security Analytics and Operations  ](/solutions/security-analytics-and-operations)
+  * [ Web App and API Protection  ](/security/solutions/web-app-and-api-protection)
+  * [ Security and Resilience Framework  ](/security/solutions/security-and-resilience)
+  * [ Risk and compliance as code (RCaC)  ](/solutions/risk-and-compliance-as-code)
+  * [ Software Supply Chain Security  ](/security/solutions/software-supply-chain-security)
+  * [ Security Foundation  ](/security/solutions/security-foundation)
+  * [ Google Cloud Cybershield™  ](/security/solutions/secops-cybershield)
+  * [ Startups and SMB  ](/solutions#section-13)
+  * [ Startup Program  ](/startup)
+  * [ Small and Medium Business  ](/solutions/smb)
+  * [ Software as a Service  ](/saas)
+
+
+  * Featured Products 
+  * [ Compute Engine  ](/products/compute)
+  * [ Cloud Storage  ](/storage)
+  * [ BigQuery  ](/bigquery)
+  * [ Cloud Run  ](/run)
+  * [ Google Kubernetes Engine  ](/kubernetes-engine)
+  * [ Vertex AI  ](/vertex-ai)
+  * [ Looker  ](/looker)
+  * [ Apigee API Management  ](/apigee)
+  * [ Cloud SQL  ](/sql)
+  * [ Gemini  ](/ai/gemini)
+  * [ Cloud CDN  ](/cdn)
+  * [ See all products (100+)  ](/products#featured-products)
+  * [ AI and Machine Learning  ](/products/ai)
+  * [ Vertex AI Platform  ](/vertex-ai)
+  * [ Vertex AI Studio  ](/generative-ai-studio)
+  * [ Vertex AI Agent Builder  ](/products/agent-builder)
+  * [ Conversational Agents  ](/products/conversational-agents)
+  * [ Vertex AI Search  ](/enterprise-search)
+  * [ Speech-to-Text  ](/speech-to-text)
+  * [ Text-to-Speech  ](/text-to-speech)
+  * [ Translation AI  ](/translate)
+  * [ Document AI  ](/document-ai)
+  * [ Vision AI  ](/vision)
+  * [ Contact Center as a Service  ](/solutions/contact-center-ai-platform)
+  * [ See all AI and machine learning products  ](/products?pds=CAE#ai-and-machine-learning)
+  * Business Intelligence 
+  * [ Looker  ](/looker)
+  * [ Looker Studio  ](/looker-studio)
+  * [ Compute  ](/products/compute)
+  * [ Compute Engine  ](/products/compute)
+  * [ App Engine  ](/appengine)
+  * [ Cloud GPUs  ](/gpu)
+  * [ Migrate to Virtual Machines  ](/products/cloud-migration/virtual-machines)
+  * [ Spot VMs  ](/spot-vms)
+  * [ Batch  ](/batch)
+  * [ Sole-Tenant Nodes  ](/compute/docs/nodes/sole-tenant-nodes)
+  * [ Bare Metal  ](/bare-metal)
+  * [ Recommender  ](/recommender/docs/whatis-activeassist)
+  * [ VMware Engine  ](/vmware-engine)
+  * [ Cloud Run  ](/run)
+  * [ See all compute products  ](/products?pds=CAUSAQw#compute)
+  * [ Containers  ](/containers)
+  * [ Google Kubernetes Engine  ](/kubernetes-engine)
+  * [ Cloud Run  ](/run)
+  * [ Cloud Build  ](/build)
+  * [ Artifact Registry  ](/artifact-registry/docs)
+  * [ Cloud Code  ](/code)
+  * [ Cloud Deploy  ](/deploy)
+  * [ Migrate to Containers  ](/products/cloud-migration/containers)
+  * [ Deep Learning Containers  ](/deep-learning-containers/docs)
+  * [ Knative  ](https://knative.dev/docs/)
+  * [ Data Analytics  ](/solutions/data-analytics-and-ai)
+  * [ BigQuery  ](/bigquery)
+  * [ Looker  ](/looker)
+  * [ Dataflow  ](/products/dataflow)
+  * [ Pub/Sub  ](/pubsub)
+  * [ Dataproc  ](/dataproc)
+  * [ Cloud Data Fusion  ](/data-fusion)
+  * [ Cloud Composer  ](/composer)
+  * [ BigLake  ](/biglake)
+  * [ Dataplex  ](/dataplex)
+  * [ Dataform  ](/dataform)
+  * [ Analytics Hub  ](/analytics-hub)
+  * [ See all data analytics products  ](/products?pds=CAQ#data-analytics)
+  * [ Databases  ](/products/databases)
+  * [ AlloyDB for PostgreSQL  ](/alloydb)
+  * [ Cloud SQL  ](/sql)
+  * [ Firestore  ](/firestore)
+  * [ Spanner  ](/spanner)
+  * [ Bigtable  ](/bigtable)
+  * [ Datastream  ](/datastream)
+  * [ Database Migration Service  ](/database-migration)
+  * [ Bare Metal Solution  ](/bare-metal)
+  * [ Memorystore  ](/memorystore)
+  * [ Developer Tools  ](/products/tools)
+  * [ Artifact Registry  ](/artifact-registry/docs)
+  * [ Cloud Code  ](/code)
+  * [ Cloud Build  ](/build)
+  * [ Cloud Deploy  ](/deploy)
+  * [ Cloud Deployment Manager  ](/deployment-manager/docs)
+  * [ Cloud SDK  ](/sdk)
+  * [ Cloud Scheduler  ](/scheduler/docs)
+  * [ Cloud Source Repositories  ](/source-repositories/docs)
+  * [ Infrastructure Manager  ](/infrastructure-manager/docs)
+  * [ Cloud Workstations  ](/workstations)
+  * [ Gemini Code Assist  ](/products/gemini/code-assist)
+  * [ See all developer tools  ](/products?pds=CAI#developer-tools)
+  * [ Distributed Cloud  ](/distributed-cloud)
+  * [ Google Distributed Cloud Connected  ](/distributed-cloud-connected)
+  * [ Google Distributed Cloud Air-gapped  ](/distributed-cloud-air-gapped)
+  * Hybrid and Multicloud 
+  * [ Google Kubernetes Engine  ](/kubernetes-engine)
+  * [ Apigee API Management  ](/apigee)
+  * [ Migrate to Containers  ](/products/cloud-migration/containers)
+  * [ Cloud Build  ](/build)
+  * [ Observability  ](/products/observability)
+  * [ Cloud Service Mesh  ](/products/service-mesh)
+  * [ Google Distributed Cloud  ](/distributed-cloud)
+  * Industry Specific 
+  * [ Anti Money Laundering AI  ](/anti-money-laundering-ai)
+  * [ Cloud Healthcare API  ](/healthcare-api)
+  * [ Device Connect for Fitbit  ](/device-connect)
+  * [ Telecom Network Automation  ](/telecom-network-automation)
+  * [ Telecom Data Fabric  ](/telecom-data-fabric)
+  * [ Telecom Subscriber Insights  ](/telecom-subscriber-insights)
+  * [ Spectrum Access System (SAS)  ](/products/spectrum-access-system)
+  * [ Integration Services  ](/integration-services)
+  * [ Application Integration  ](/application-integration)
+  * [ Workflows  ](/workflows)
+  * [ Apigee API Management  ](/apigee)
+  * [ Cloud Tasks  ](/tasks/docs)
+  * [ Cloud Scheduler  ](/scheduler/docs)
+  * [ Dataproc  ](/dataproc)
+  * [ Cloud Data Fusion  ](/data-fusion)
+  * [ Cloud Composer  ](/composer)
+  * [ Pub/Sub  ](/pubsub)
+  * [ Eventarc  ](/eventarc/docs)
+  * [ Management Tools  ](/products/management)
+  * [ Cloud Shell  ](/shell/docs)
+  * [ Cloud console  ](/cloud-console)
+  * [ Cloud Endpoints  ](/endpoints/docs)
+  * [ Cloud IAM  ](/security/products/iam)
+  * [ Cloud APIs  ](/apis)
+  * [ Service Catalog  ](/service-catalog/docs)
+  * [ Cost Management  ](/cost-management)
+  * [ Observability  ](/products/observability)
+  * [ Carbon Footprint  ](/carbon-footprint)
+  * [ Config Connector  ](/config-connector/docs/overview)
+  * [ Active Assist  ](/solutions/active-assist)
+  * [ See all management tools  ](/products?pds=CAY#managment-tools)
+  * [ Maps and Geospatial  ](/solutions/geospatial)
+  * [ Earth Engine  ](/earth-engine)
+  * [ Google Maps Platform  ](https://mapsplatform.google.com)
+  * Media Services 
+  * [ Cloud CDN  ](/cdn)
+  * [ Live Stream API  ](/livestream/docs)
+  * [ OpenCue  ](https://www.opencue.io/docs/getting-started/)
+  * [ Transcoder API  ](/transcoder/docs)
+  * [ Video Stitcher API  ](/video-stitcher/docs)
+  * [ Migration  ](/products/cloud-migration)
+  * [ Migration Center  ](/migration-center/docs)
+  * [ Application Migration  ](/solutions/application-migration)
+  * [ Migrate to Virtual Machines  ](/products/cloud-migration/virtual-machines)
+  * [ Cloud Foundation Toolkit  ](/docs/terraform/blueprints/terraform-blueprints)
+  * [ Database Migration Service  ](/database-migration)
+  * [ Migrate to Containers  ](/products/cloud-migration/containers)
+  * [ BigQuery Data Transfer Service  ](/bigquery-transfer/docs/introduction)
+  * [ Rapid Migration and Modernization Program  ](/solutions/cloud-migration-program)
+  * [ Transfer Appliance  ](/transfer-appliance/docs/4.0/overview)
+  * [ Storage Transfer Service  ](/storage-transfer-service)
+  * [ VMware Engine  ](/vmware-engine)
+  * Mixed Reality 
+  * [ Immersive Stream for XR  ](/immersive-stream/xr)
+  * [ Networking  ](/products/networking)
+  * [ Cloud Armor  ](/security/products/armor)
+  * [ Cloud CDN and Media CDN  ](/cdn)
+  * [ Cloud DNS  ](/dns)
+  * [ Cloud Load Balancing  ](/load-balancing)
+  * [ Cloud NAT  ](/nat)
+  * [ Cloud Connectivity  ](/hybrid-connectivity)
+  * [ Network Connectivity Center  ](/network-connectivity-center)
+  * [ Network Intelligence Center  ](/network-intelligence-center)
+  * [ Network Service Tiers  ](/network-tiers)
+  * [ Virtual Private Cloud  ](/vpc)
+  * [ Private Service Connect  ](/private-service-connect)
+  * [ See all networking products  ](/products?pds=CAUSAQ0#networking)
+  * [ Operations  ](/products/operations)
+  * [ Cloud Logging  ](/logging)
+  * [ Cloud Monitoring  ](/monitoring)
+  * [ Error Reporting  ](/error-reporting/docs/grouping-errors)
+  * [ Managed Service for Prometheus  ](/managed-prometheus)
+  * [ Cloud Trace  ](/trace/docs)
+  * [ Cloud Profiler  ](/profiler/docs)
+  * [ Cloud Quotas  ](/docs/quotas)
+  * Productivity and Collaboration 
+  * [ AppSheet  ](https://about.appsheet.com/home/)
+  * [ AppSheet Automation  ](/appsheet/automation)
+  * [ Google Workspace  ](https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect/)
+  * [ Google Workspace Essentials  ](https://workspace.google.com/essentials/)
+  * [ Gemini for Workspace  ](https://workspace.google.com/solutions/ai/)
+  * [ Cloud Identity  ](/identity)
+  * [ Chrome Enterprise  ](https://chromeenterprise.google)
+  * [ Security and Identity  ](/products/security-and-identity)
+  * [ Cloud IAM  ](/security/products/iam)
+  * [ Sensitive Data Protection  ](/security/products/sensitive-data-protection)
+  * [ Mandiant Managed Defense  ](/security/products/managed-defense)
+  * [ Google Threat Intelligence  ](/security/products/threat-intelligence)
+  * [ Security Command Center  ](/security/products/security-command-center)
+  * [ Cloud Key Management  ](/security/products/security-key-management)
+  * [ Mandiant Incident Response  ](/security/consulting/mandiant-incident-response-services)
+  * [ Chrome Enterprise Premium  ](https://chromeenterprise.google/products/chrome-enterprise-premium/)
+  * [ Assured Workloads  ](/security/products/assured-workloads)
+  * [ Google Security Operations  ](/security/products/security-operations)
+  * [ Mandiant Consulting  ](/security/consulting/mandiant-services)
+  * [ See all security and identity products  ](/products?pds=CAg#security-and-identity)
+  * [ Serverless  ](/serverless)
+  * [ Cloud Run  ](/run)
+  * [ Cloud Functions  ](/functions)
+  * [ App Engine  ](/appengine)
+  * [ Workflows  ](/workflows)
+  * [ API Gateway  ](/api-gateway/docs)
+  * [ Storage  ](/products/storage)
+  * [ Cloud Storage  ](/storage)
+  * [ Block Storage  ](/products/block-storage)
+  * [ Filestore  ](/filestore)
+  * [ Persistent Disk  ](/persistent-disk)
+  * [ Cloud Storage for Firebase  ](https://firebase.google.com/products/storage)
+  * [ Local SSD  ](/products/local-ssd)
+  * [ Storage Transfer Service  ](/storage-transfer-service)
+  * [ Parallelstore  ](/parallelstore)
+  * [ Google Cloud NetApp Volumes  ](/netapp-volumes)
+  * [ Backup and DR Service  ](/backup-disaster-recovery)
+  * [ Web3  ](/web3)
+  * [ Blockchain Node Engine  ](/blockchain-node-engine)
+  * [ Blockchain RPC  ](/products/blockchain-rpc)
+
+
+  * Save money with our transparent approach to pricing 
+  * [ Request a quote  ](/contact/form?direct=true)
+  * Pricing overview and tools 
+  * [ Google Cloud pricing  ](/pricing)
+  * [ Pricing calculator  ](/products/calculator)
+  * [ Google Cloud free tier  ](/free)
+  * [ Cost optimization framework  ](/architecture/framework/cost-optimization)
+  * [ Cost management tools  ](/cost-management)
+  * Product-specific Pricing 
+  * [ Compute Engine  ](/compute/all-pricing)
+  * [ Cloud SQL  ](/sql/pricing)
+  * [ Google Kubernetes Engine  ](/kubernetes-engine/pricing)
+  * [ Cloud Storage  ](/storage/pricing)
+  * [ BigQuery  ](/bigquery/pricing)
+  * [ See full price list with 100+ products  ](/pricing/list)
+
+
+  * Learn & build 
+  * [ Google Cloud Free Program  ](/free)
+  * [ Solution Generator  ](/solution-generator)
+  * [ Quickstarts  ](/docs/tutorials?doctype=quickstart)
+  * [ Blog  ](/blog)
+  * [ Learning Hub  ](/learn)
+  * [ Google Cloud certification  ](/certification)
+  * [ Cloud computing basics  ](/discover)
+  * [ Cloud Architecture Center  ](/architecture)
+  * Connect 
+  * [ Innovators  ](/innovators/innovatorsplus)
+  * [ Developer Center  ](/developers)
+  * [ Events and webinars  ](/events)
+  * [ Google Cloud Community  ](/communities)
+  * Consulting and Partners 
+  * [ Google Cloud Consulting  ](/consulting)
+  * [ Google Cloud Marketplace  ](/marketplace)
+  * [ Google Cloud partners  ](/partners)
+  * [ Become a partner  ](https://partners.cloud.google.com)
+
+
+
+  * On this page
+  * [DevOps versus MLOps](#devops_versus_mlops)
+  * [Data science steps for ML](#data_science_steps_for_ml)
+  * [MLOps level 0: Manual process](#mlops_level_0_manual_process)
+    * [Characteristics](#characteristics)
+    * [Challenges](#challenges)
+  * [MLOps level 1: ML pipeline automation](#mlops_level_1_ml_pipeline_automation)
+    * [Characteristics](#characteristics_2)
+    * [Additional components](#additional_components)
+    * [Challenges](#challenges_2)
+  * [MLOps level 2: CI/CD pipeline automation](#mlops_level_2_cicd_pipeline_automation)
+    * [Characteristics](#characteristics_3)
+    * [Continuous integration](#continuous_integration)
+    * [Continuous delivery](#continuous_delivery)
+  * [What's next](#whats_next)
+  * [Contributors](#contributors)
+
+
+
+  * [ Home ](https://cloud.google.com/)
+  * [ Docs ](https://cloud.google.com/docs)
+  * [ Cloud Architecture Center ](https://cloud.google.com/architecture)
+
+
+
+Send feedback 
+
+#  MLOps: Continuous delivery and automation pipelines in machine learning 
+
+bookmark_borderbookmark Stay organized with collections  Save and categorize content based on your preferences. 
+
+  * On this page
+  * [DevOps versus MLOps](#devops_versus_mlops)
+  * [Data science steps for ML](#data_science_steps_for_ml)
+  * [MLOps level 0: Manual process](#mlops_level_0_manual_process)
+    * [Characteristics](#characteristics)
+    * [Challenges](#challenges)
+  * [MLOps level 1: ML pipeline automation](#mlops_level_1_ml_pipeline_automation)
+    * [Characteristics](#characteristics_2)
+    * [Additional components](#additional_components)
+    * [Challenges](#challenges_2)
+  * [MLOps level 2: CI/CD pipeline automation](#mlops_level_2_cicd_pipeline_automation)
+    * [Characteristics](#characteristics_3)
+    * [Continuous integration](#continuous_integration)
+    * [Continuous delivery](#continuous_delivery)
+  * [What's next](#whats_next)
+  * [Contributors](#contributors)
+
+
+
+Last reviewed 2024-08-28 UTC
+
+This document discusses techniques for implementing and automating continuous integration (CI), continuous delivery (CD), and continuous training (CT) for machine learning (ML) systems. This document applies primarily to predictive AI systems.
+
+Data science and ML are becoming core capabilities for solving complex real-world problems, transforming industries, and delivering value in all domains. Currently, the ingredients for applying effective ML are available to you:
+
+  * Large datasets
+  * Inexpensive on-demand compute resources
+  * Specialized accelerators for ML on various cloud platforms
+  * Rapid advances in different ML research fields (such as computer vision, natural language understanding, generative AI, and recommendations AI systems).
+
+
+
+Therefore, many businesses are investing in their data science teams and ML capabilities to develop predictive models that can deliver business value to their users.
+
+This document is for data scientists and ML engineers who want to apply [DevOps](/devops) principles to ML systems (MLOps). _MLOps_ is an ML engineering culture and practice that aims at unifying ML system development (Dev) and ML system operation (Ops). Practicing MLOps means that you advocate for automation and monitoring at all steps of ML system construction, including integration, testing, releasing, deployment and infrastructure management.
+
+Data scientists can implement and train an ML model with predictive performance on an offline holdout dataset, given relevant training data for their use case. However, the real challenge isn't building an ML model, the challenge is building an integrated ML system and to continuously operate it in production. With the long history of production ML services at Google, we've learned that there can be many pitfalls in operating ML-based systems in production. Some of these pitfalls are summarized in [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/machine-learning-the-high-interest-credit-card-of-technical-debt/).
+
+As shown in the following diagram, only a small fraction of a real-world ML system is composed of the ML code. The required surrounding elements are vast and complex.
+
+![ML systems is more than ML code.](/static/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-1-elements-of-ml.png)
+
+**Figure 1.** Elements for ML systems. Adapted from [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf).
+
+The preceding diagram displays the following system components:
+
+  * Configuration
+  * Automation
+  * Data collection
+  * Data verification
+  * Testing and debugging
+  * Resource management
+  * Model analysis
+  * Process and metadata management
+  * Serving infrastructure
+  * Monitoring
+
+
+
+To develop and operate complex systems like these, you can apply DevOps principles to ML systems (MLOps). This document covers concepts to consider when setting up an MLOps environment for your data science practices, such as CI, CD, and CT in ML.
+
+The following topics are discussed:
+
+  * DevOps versus MLOps
+  * Steps for developing ML models
+  * MLOps maturity levels
+  * MlOps for generative AI
+
+
+
+## DevOps versus MLOps
+
+[DevOps](/devops) is a popular practice in developing and operating large-scale software systems. This practice provides benefits such as shortening the development cycles, increasing deployment velocity, and dependable releases. To achieve these benefits, you introduce two concepts in the software system development:
+
+  * [Continuous integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration)
+  * [Continuous delivery (CD)](https://en.wikipedia.org/wiki/Continuous_delivery)
+
+
+
+An ML system is a software system, so similar practices apply to help guarantee that you can reliably build and operate ML systems at scale.
+
+However, ML systems differ from other software systems in the following ways:
+
+  * Team skills: In an ML project, the team usually includes data scientists or ML researchers, who focus on exploratory data analysis, model development, and experimentation. These members might not be experienced software engineers who can build production-class services.
+
+  * Development: ML is experimental in nature. You should try different features, algorithms, modeling techniques, and parameter configurations to find what works best for the problem as quickly as possible. The challenge is tracking what worked and what didn't, and maintaining reproducibility while maximizing code reusability.
+
+  * Testing: Testing an ML system is more involved than testing other software systems. In addition to typical unit and integration tests, you need data validation, trained model quality evaluation, and model validation.
+
+  * Deployment: In ML systems, deployment isn't as simple as deploying an offline-trained ML model as a prediction service. ML systems can require you to deploy a multi-step pipeline to automatically retrain and deploy models. This pipeline adds complexity and requires you to automate steps that are manually done before deployment by data scientists to train and validate new models.
+
+  * Production: ML models can have reduced performance not only due to suboptimal coding, but also due to constantly evolving data profiles. In other words, models can decay in more ways than conventional software systems, and you need to consider this degradation. Therefore, you need to track summary statistics of your data and monitor the online performance of your model to send notifications or roll back when values deviate from your expectations.
+
+
+
+
+ML and other software systems are similar in continuous integration of source control, unit testing, integration testing, and continuous delivery of the software module or the package. However, in ML, there are a few notable differences:
+
+  * CI is no longer only about testing and validating code and components, but also testing and validating data, data schemas, and models.
+  * CD is no longer about a single software package or a service, but a system (an ML training pipeline) that should automatically deploy another service (model prediction service).
+  * CT is a new property, unique to ML systems, that's concerned with automatically retraining and serving the models.
+
+
+
+The following section discusses the typical steps for training and evaluating an ML model to serve as a prediction service.
+
+## Data science steps for ML
+
+In any ML project, after you define the business use case and establish the success criteria, the process of delivering an ML model to production involves the following steps. These steps can be completed manually or can be completed by an automatic pipeline.
+
+  1. Data extraction: You select and integrate the relevant data from various data sources for the ML task.
+  2. Data analysis: You perform [exploratory data analysis (EDA)](https://en.wikipedia.org/wiki/Exploratory_data_analysis) to understand the available data for building the ML model. This process leads to the following: 
+     * Understanding the data schema and characteristics that are expected by the model.
+     * Identifying the data preparation and feature engineering that are needed for the model.
+  3. Data preparation: The data is prepared for the ML task. This preparation involves data cleaning, where you split the data into training, validation, and test sets. You also apply data transformations and feature engineering to the model that solves the target task. The output of this step are the _data splits_ in the prepared format.
+  4. Model training: The data scientist implements different algorithms with the prepared data to train various ML models. In addition, you subject the implemented algorithms to hyperparameter tuning to get the best performing ML model. The output of this step is a trained model.
+  5. Model evaluation: The model is evaluated on a [holdout test set](https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets#Holdout_dataset) to evaluate the model quality. The output of this step is a set of metrics to assess the quality of the model.
+  6. Model validation: The model is confirmed to be adequate for deployment—that its predictive performance is better than a certain baseline.
+  7. Model serving: The validated model is deployed to a target environment to serve predictions. This deployment can be one of the following: 
+     * Microservices with a REST API to serve online predictions.
+     * An embedded model to an edge or mobile device.
+     * Part of a batch prediction system.
+  8. Model monitoring: The model predictive performance is monitored to potentially invoke a new iteration in the ML process.
+
+
+
+The level of automation of these steps defines the _maturity_ of the ML process, which reflects the velocity of training new models given new data or training new models given new implementations. The following sections describe three levels of MLOps, starting from the most common level, which involves no automation, up to automating both ML and CI/CD pipelines.
+
+## MLOps level 0: Manual process
+
+Many teams have data scientists and ML researchers who can build state-of-the-art models, but their process for building and deploying ML models is entirely manual. This is considered the _basic_ level of maturity, or level 0. The following diagram shows the workflow of this process.
+
+![Workflow of manual ML steps for MLOps level 0.](/static/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-2-manual-ml.svg)
+
+**Figure 2**. Manual ML steps to serve the model as a prediction service.
+
+### Characteristics
+
+The following list highlights the characteristics of the MLOps level 0 process, as shown in Figure 2:
+
+  * Manual, script-driven, and interactive process: Every step is manual, including data analysis, data preparation, model training, and validation. It requires manual execution of each step, and manual transition from one step to another. This process is usually driven by experimental code that is interactively written and executed in notebooks by data scientists, until a workable model is produced.
+
+  * Disconnection between ML and operations: The process separates data scientists who create the model and engineers who serve the model as a prediction service. The data scientists hand over a trained model as an artifact to the engineering team to deploy on their API infrastructure. This handoff can include putting the trained model in a storage location, checking the model object into a code repository, or uploading it to a models registry. Then engineers who deploy the model need to make the required features available in production for low-latency serving, which can lead to [_training-serving skew_](https://developers.google.com/machine-learning/guides/rules-of-ml/#training-serving_skew).
+
+  * Infrequent release iterations: The process assumes that your data science team manages a few models that don't change frequently—either changing model implementation or retraining the model with new data. A new model version is deployed only a couple of times per year.
+
+  * No CI: Because few implementation changes are assumed, CI is ignored. Usually, testing the code is part of the notebooks or script execution. The scripts and notebooks that implement the experiment steps are source controlled, and they produce artifacts such as trained models, evaluation metrics, and visualizations.
+
+  * No CD: Because there aren't frequent model version deployments, CD isn't considered.
+
+  * Deployment refers to the prediction service: The process is concerned only with deploying the trained model as a prediction service (for example, a microservice with a REST API), rather than deploying the entire ML system.
+
+  * Lack of active performance monitoring: The process doesn't track or log the model predictions and actions, which are required in order to detect model performance degradation and other model behavioral drifts.
+
+
+
+
+The engineering team might have their own complex setup for API configuration, testing, and deployment, including security, regression, and load and canary testing. In addition, production deployment of a new version of an ML model usually goes through A/B testing or online experiments before the model is promoted to serve all the prediction request traffic.
+
+### Challenges
+
+MLOps level 0 is common in many businesses that are beginning to apply ML to their use cases. This manual, data-scientist-driven process might be sufficient when models are rarely changed or trained. In practice, models often break when they are deployed in the real world. The models fail to adapt to changes in the dynamics of the environment, or changes in the data that describes the environment. For more information, see [Why Machine Learning Models Crash and Burn in Production](https://www.forbes.com/sites/forbestechcouncil/2019/04/03/why-machine-learning-models-crash-and-burn-in-production/).
+
+To address these challenges and to maintain your model's accuracy in production, you need to do the following:
+
+  * Actively monitor the quality of your model in production: Monitoring lets you detect performance degradation and model staleness. It acts as a cue to a new experimentation iteration and (manual) retraining of the model on new data.
+
+  * Frequently retrain your production models: To capture the evolving and emerging patterns, you need to retrain your model with the most recent data. For example, if your app recommends fashion products using ML, its recommendations should adapt to the latest trends and products.
+
+  * Continuously experiment with new implementations to produce the model: To harness the latest ideas and advances in technology, you need to try out new implementations such as feature engineering, model architecture, and hyperparameters. For example, if you use computer vision in face detection, face patterns are fixed, but better new techniques can improve the detection accuracy.
+
+
+
+
+To address the challenges of this manual process, MLOps practices for CI/CD and CT are helpful. By deploying an ML training pipeline, you can enable CT, and you can set up a CI/CD system to rapidly test, build, and deploy new implementations of the ML pipeline. These features are discussed in more detail in the next sections.
+
+## MLOps level 1: ML pipeline automation
+
+The goal of level 1 is to perform continuous training of the model by automating the ML pipeline; this lets you achieve continuous delivery of model prediction service. To automate the process of using new data to retrain models in production, you need to introduce automated data and model validation steps to the pipeline, as well as pipeline triggers and metadata management.
+
+The following figure is a schematic representation of an automated ML pipeline for CT.
+
+![Workflow of ML pipeline for CT.](/static/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.svg)
+
+**Figure 3**. ML pipeline automation for CT.
+
+### Characteristics
+
+The following list highlights the characteristics of the MLOps level 1 setup, as shown in Figure 3:
+
+  * Rapid experiment: The steps of the ML experiment are orchestrated. The transition between steps is automated, which leads to rapid iteration of experiments and better readiness to move the whole pipeline to production.
+
+  * CT of the model in production: The model is automatically trained in production using fresh data based on live pipeline triggers, which are discussed in the next section.
+
+  * Experimental-operational symmetry: The pipeline implementation that is used in the development or experiment environment is used in the preproduction and production environment, which is a key aspect of MLOps practice for unifying DevOps.
+
+  * Modularized code for components and pipelines: To construct ML pipelines, components need to be reusable, composable, and potentially shareable across ML pipelines. Therefore, while the EDA code can still live in notebooks, the source code for components must be modularized. In addition, components should ideally be containerized to do the following:
+
+    * Decouple the execution environment from the custom code runtime.
+    * Make code reproducible between development and production environments.
+    * Isolate each component in the pipeline. Components can have their own version of the runtime environment, and have different languages and libraries.
+  * Continuous delivery of models: An ML pipeline in production continuously delivers prediction services to new models that are trained on new data. The model deployment step, which serves the trained and validated model as a prediction service for online predictions, is automated.
+
+  * Pipeline deployment: In level 0, you deploy a trained model as a prediction service to production. For level 1, you deploy a whole training pipeline, which automatically and recurrently runs to serve the trained model as the prediction service.
+
+
+
+
+### Additional components
+
+This section discusses the components that you need to add to the architecture to enable ML continuous training.
+
+#### Data and model validation
+
+When you deploy your ML pipeline to production, one or more of the triggers discussed in the [ML pipeline triggers](#ml_pipeline_triggers) section automatically executes the pipeline. The pipeline expects new, live data to produce a new model version that is trained on the new data (as shown in Figure 3). Therefore, automated _data validation_ and _model validation_ steps are required in the production pipeline to ensure the following expected behavior:
+
+  * Data validation: This step is required before model training to decide whether you should retrain the model or stop the execution of the pipeline. This decision is automatically made if the following was identified by the pipeline.
+
+    * Data schema skews: These skews are considered anomalies in the input data. Therefore, input data that doesn't comply with the expected schema is received by the downstream pipeline steps, including the data processing and model training steps. In this case, you should stop the pipeline so the data science team can investigate. The team might release a fix or an update to the pipeline to handle these changes in the schema. Schema skews include receiving unexpected features, not receiving all the expected features, or receiving features with unexpected values.
+    * Data values skews: These skews are significant changes in the statistical properties of data, which means that data patterns are changing, and you need to trigger a retraining of the model to capture these changes.
+  * Model validation: This step occurs after you successfully train the model given the new data. You evaluate and validate the model before it's promoted to production. This _offline model validation_ step consists of the following.
+
+    * Producing evaluation metric values using the trained model on a test dataset to assess the model's predictive quality.
+    * Comparing the evaluation metric values produced by your newly trained model to the current model, for example, production model, baseline model, or other business-requirement models. You make sure that the new model produces better performance than the current model before promoting it to production.
+    * Making sure that the performance of the model is consistent on various segments of the data. For example, your newly trained customer churn model might produce an overall better predictive accuracy compared to the previous model, but the accuracy values per customer region might have large variance.
+    * Making sure that you test your model for deployment, including infrastructure compatibility and consistency with the prediction service API.
+
+
+
+In addition to offline model validation, a newly deployed model undergoes _online model validation_ —in a canary deployment or an A/B testing setup—before it serves prediction for the online traffic.
+
+#### Feature store
+
+An optional additional component for level 1 ML pipeline automation is a feature store. A feature store is a centralized repository where you standardize the definition, storage, and access of features for training and serving. A feature store needs to provide an API for both high-throughput batch serving and low-latency real-time serving for the feature values, and to support both training and serving workloads.
+
+The feature store helps data scientists do the following:
+
+  * Discover and reuse available feature sets for their entities, instead of re-creating the same or similar ones.
+  * Avoid having similar features that have different definitions by maintaining features and their related metadata.
+  * Serve up-to-date feature values from the feature store.
+  * Avoid training-serving skew by using the feature store as the data source for experimentation, continuous training, and online serving. This approach makes sure that the features used for training are the same ones used during serving:
+
+    * For experimentation, data scientists can get an offline extract from the feature store to run their experiments.
+    * For continuous training, the automated ML training pipeline can fetch a batch of the up-to-date feature values of the dataset that are used for the training task.
+    * For online prediction, the prediction service can fetch in a batch of the feature values related to the requested entity, such as customer demographic features, product features, and current session aggregation features.
+    * For online prediction and feature retrieval, the prediction service identifies the relevant features for an entity. For example, if the entity is a customer, relevant features might include age, purchase history, and browsing behavior. The service batches these feature values together and retrieves all the needed features for the entity at once, rather than individually. This retrieval method helps with efficiency, especially when you need to manage multiple entities.
+
+
+
+#### Metadata management
+
+Information about each execution of the ML pipeline is recorded in order to help with data and artifacts lineage, reproducibility, and comparisons. It also helps you debug errors and anomalies. Each time you execute the pipeline, the ML metadata store records the following metadata:
+
+  * The pipeline and component versions that were executed.
+  * The start and end date, time, and how long the pipeline took to complete each of the steps.
+  * The executor of the pipeline.
+  * The parameter arguments that were passed to the pipeline.
+  * The pointers to the artifacts produced by each step of the pipeline, such as the location of prepared data, validation anomalies, computed statistics, and extracted vocabulary from the categorical features. Tracking these intermediate outputs helps you resume the pipeline from the most recent step if the pipeline stopped due to a failed step, without having to re-execute the steps that have already completed.
+  * A pointer to the previous trained model if you need to roll back to a previous model version or if you need to produce evaluation metrics for a previous model version when the pipeline is given new test data during the model validation step.
+  * The model evaluation metrics produced during the model evaluation step for both the training and the testing sets. These metrics help you compare the performance of a newly trained model to the recorded performance of the previous model during the model validation step.
+
+
+
+#### ML pipeline triggers
+
+You can automate the ML production pipelines to retrain the models with new data, depending on your use case:
+
+  * On demand: Ad hoc manual execution of the pipeline.
+  * On a schedule: New, labeled data is systematically available for the ML system on a daily, weekly, or monthly basis. The retraining frequency also depends on how frequently the data patterns change, and how expensive it is to retrain your models.
+  * On availability of new training data: New data isn't systematically available for the ML system and instead is available on an ad hoc basis when new data is collected and made available in the source databases.
+  * On model performance degradation: The model is retrained when there is noticeable performance degradation.
+  * On significant changes in the data distributions ([_concept drift_](https://en.wikipedia.org/wiki/Concept_drift)). It's hard to assess the complete performance of the online model, but you notice significant changes on the data distributions of the features that are used to perform the prediction. These changes suggest that your model has gone stale, and that needs to be retrained on fresh data.
+
+
+
+### Challenges
+
+Assuming that new implementations of the pipeline aren't frequently deployed and you are managing only a few pipelines, you usually manually test the pipeline and its components. In addition, you manually deploy new pipeline implementations. You also submit the tested source code for the pipeline to the IT team to deploy to the target environment. This setup is suitable when you deploy new models based on new data, rather than based on new ML ideas.
+
+However, you need to try new ML ideas and rapidly deploy new implementations of the ML components. If you manage many ML pipelines in production, you need a CI/CD setup to automate the build, test, and deployment of ML pipelines.
+
+## MLOps level 2: CI/CD pipeline automation
+
+For a rapid and reliable update of the pipelines in production, you need a robust automated CI/CD system. This automated CI/CD system lets your data scientists rapidly explore new ideas around feature engineering, model architecture, and hyperparameters. They can implement these ideas and automatically build, test, and deploy the new pipeline components to the target environment.
+
+The following diagram shows the implementation of the ML pipeline using CI/CD, which has the characteristics of the automated ML pipelines setup plus the automated CI/CD routines.
+
+![Workflow of the ML pipeline with CI/CD integration.](/static/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd.svg)
+
+**Figure 4**. CI/CD and automated ML pipeline.
+
+This MLOps setup includes the following components:
+
+  * Source control
+  * Test and build services
+  * Deployment services
+  * Model registry
+  * Feature store
+  * ML metadata store
+  * ML pipeline orchestrator
+
+
+
+### Characteristics
+
+The following diagram shows the stages of the ML CI/CD automation pipeline:
+
+![Characteristics of the CI/CD automated ML pipeline.](/static/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-5-stages.svg)
+
+**Figure 5**. Stages of the CI/CD automated ML pipeline.
+
+The pipeline consists of the following stages:
+
+  1. Development and experimentation: You iteratively try out new ML algorithms and new modeling where the experiment steps are orchestrated. The output of this stage is the source code of the ML pipeline steps that are then pushed to a source repository.
+
+  2. Pipeline continuous integration: You build source code and run various tests. The outputs of this stage are pipeline components (packages, executables, and artifacts) to be deployed in a later stage.
+
+  3. Pipeline continuous delivery: You deploy the artifacts produced by the CI stage to the target environment. The output of this stage is a deployed pipeline with the new implementation of the model.
+
+  4. Automated triggering: The pipeline is automatically executed in production based on a schedule or in response to a trigger. The output of this stage is a trained model that is pushed to the model registry.
+
+  5. Model continuous delivery: You serve the trained model as a prediction service for the predictions. The output of this stage is a deployed model prediction service.
+
+  6. Monitoring: You collect statistics on the model performance based on live data. The output of this stage is a trigger to execute the pipeline or to execute a new experiment cycle.
+
+
+
+
+The data analysis step is still a manual process for data scientists before the pipeline starts a new iteration of the experiment. The model analysis step is also a manual process.
+
+### Continuous integration
+
+In this setup, the pipeline and its components are built, tested, and packaged when new code is committed or pushed to the source code repository. Besides building packages, container images, and executables, the CI process can include the following tests:
+
+  * Unit testing your feature engineering logic.
+
+  * Unit testing the different methods implemented in your model. For example, you have a function that accepts a categorical data column and you encode the function as a [one-hot](https://en.wikipedia.org/wiki/One-hot) feature.
+
+  * Testing that your model training converges (that is, the loss of your model goes down by iterations and [overfits](https://en.wikipedia.org/wiki/Overfitting) a few sample records).
+
+  * Testing that your model training doesn't produce [NaN](https://en.wikipedia.org/wiki/NaN) values due to dividing by zero or manipulating small or large values.
+
+  * Testing that each component in the pipeline produces the expected artifacts.
+
+  * Testing integration between pipeline components.
+
+
+
+
+### Continuous delivery
+
+In this level, your system continuously delivers new pipeline implementations to the target environment that in turn delivers prediction services of the newly trained model. For rapid and reliable continuous delivery of pipelines and models, you should consider the following:
+
+  * Verifying the compatibility of the model with the target infrastructure before you deploy your model. For example, you need to verify that the packages that are required by the model are installed in the serving environment, and that the required memory, compute, and accelerator resources are available.
+
+  * Testing the prediction service by calling the service API with the expected inputs, and making sure that you get the response that you expect. This test usually captures problems that might occur when you update the model version and it expects a different input.
+
+  * Testing prediction service performance, which involves load testing the service to capture metrics such as [queries per second (QPS)](https://en.wikipedia.org/wiki/Queries_per_second) and model latency.
+
+  * Validating the data either for retraining or batch prediction.
+
+  * Verifying that models meet the predictive performance targets before they are deployed.
+
+  * Automated deployment to a test environment, for example, a deployment that is triggered by pushing code to the development branch.
+
+  * Semi-automated deployment to a pre-production environment, for example, a deployment that is triggered by merging code to the main branch after reviewers approve the changes.
+
+  * Manual deployment to a production environment after several successful runs of the pipeline on the pre-production environment.
+
+
+
+
+To summarize, implementing ML in a production environment doesn't only mean deploying your model as an API for prediction. Rather, it means deploying an ML pipeline that can automate the retraining and deployment of new models. Setting up a CI/CD system lets you automatically test and deploy new pipeline implementations. This system lets you cope with rapid changes in your data and business environment. You don't have to immediately move all of your processes from one level to another. You can gradually implement these practices to help improve the automation of your ML system development and production.
+
+## What's next
+
+  * Learn more about [Architecture for MLOps using TensorFlow Extended, Vertex AI Pipelines, and Cloud Build](/solutions/machine-learning/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build).
+  * Learn about the [Practitioners Guide to Machine Learning Operations (MLOps)](/resources/mlops-whitepaper).
+  * Watch the [MLOps Best Practices on Google Cloud (Cloud Next '19)](https://www.youtube.com/watch?v=20h_RTHEtZI) on YouTube.
+  * For an overview of architectual principles and recommendations that are specific to AI and ML workloads in Google Cloud, see the [AI and ML perspective](/architecture/framework/perspectives/ai-ml) in the Architecture Framework. 
+  * For more reference architectures, diagrams, and best practices, explore the [Cloud Architecture Center](/architecture). 
+
+
+
+## Contributors
+
+Authors: 
+
+  * [Jarek Kazmierczak](https://www.linkedin.com/in/jarek-kazmierczak-1b64166) | Solutions Architect
+  * [Khalid Salama](https://www.linkedin.com/in/khalid-salama-24403144) | Staff Software Engineer, Machine Learning
+  * [Valentin Huerta](https://www.linkedin.com/in/valentínhuerta) | AI Engineer
+
+
+
+Other contributor: [Sunil Kumar Jang Bahadur](https://www.linkedin.com/in/sunilkumar88) | Customer Engineer
+
+Send feedback 
+
+Except as otherwise noted, the content of this page is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). For details, see the [Google Developers Site Policies](https://developers.google.com/site-policies). Java is a registered trademark of Oracle and/or its affiliates.
+
+Last updated 2024-08-28 UTC.
+
+Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Hard to understand","hardToUnderstand","thumb-down"],["Incorrect information or sample code","incorrectInformationOrSampleCode","thumb-down"],["Missing the information/samples I need","missingTheInformationSamplesINeed","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2024-08-28 UTC."],[],[]] 
+
+  * ### Why Google
+
+    * [ Choosing Google Cloud ](/why-google-cloud/)
+    * [ Trust and security ](/trust-center/)
+    * [ Modern Infrastructure Cloud ](/solutions/modern-infrastructure/)
+    * [ Multicloud ](/multicloud/)
+    * [ Global infrastructure ](/infrastructure/)
+    * [ Customers and case studies ](/customers/)
+    * [ Analyst reports ](/analyst-reports/)
+    * [ Whitepapers ](/whitepapers/)
+    * [ Blog ](//cloud.google.com/blog/)
+  * ### Products and pricing
+
+    * [ Google Cloud pricing ](/pricing/)
+    * [ Google Workspace pricing ](//workspace.google.com/pricing.html)
+    * [ See all products ](/products/)
+  * ### Solutions
+
+    * [ Infrastructure modernization ](/solutions/infrastructure-modernization/)
+    * [ Databases ](/solutions/databases/)
+    * [ Application modernization ](/solutions/application-modernization/)
+    * [ Smart analytics ](/solutions/smart-analytics/)
+    * [ Artificial Intelligence ](/solutions/ai/)
+    * [ Security ](/solutions/security/)
+    * [ Productivity & work transformation ](https://workspace.google.com/enterprise/)
+    * [ Industry solutions ](/solutions/#industry-solutions)
+    * [ DevOps solutions ](/solutions/devops/)
+    * [ Small business solutions ](/solutions/#section-14)
+    * [ See all solutions ](/solutions/)
+  * ### Resources
+
+    * [ Google Cloud Affiliate Program ](/affiliate-program/)
+    * [ Google Cloud documentation ](/docs/)
+    * [ Google Cloud quickstarts ](/docs/get-started/)
+    * [ Google Cloud Marketplace ](/marketplace/)
+    * [ Learn about cloud computing ](/discover/)
+    * [ Support ](/support-hub/)
+    * [ Code samples ](/docs/samples)
+    * [ Cloud Architecture Center ](/architecture/)
+    * [ Training ](/learn/training/)
+    * [ Certifications ](/learn/certification/)
+    * [ Google for Developers ](//developers.google.com)
+    * [ Google Cloud for Startups ](/startup/)
+    * [ System status ](//status.cloud.google.com)
+    * [ Release Notes ](/release-notes)
+  * ### Engage
+
+    * [ Contact sales ](/contact/)
+    * [ Find a Partner ](//cloud.google.com/find-a-partner)
+    * [ Become a Partner ](/partners/become-a-partner/)
+    * [ Events ](/events/)
+    * [ Podcasts ](/podcasts/)
+    * [ Developer Center ](/developers/)
+    * [ Press Corner ](https://www.googlecloudpresscorner.com/)
+    * [ Google Cloud on YouTube ](//www.youtube.com/googlecloud)
+    * [ Google Cloud Tech on YouTube ](//www.youtube.com/googlecloudplatform)
+    * [ Follow on X ](//x.com/googlecloud)
+    * [ Join User Research ](//userresearch.google.com/?reserved=1&utm_source=website&Q_Language=en&utm_medium=own_srch&utm_campaign=CloudWebFooter&utm_term=0&utm_content=0&productTag=clou&campaignDate=jul19&pType=devel&referral_code=jk212693)
+    * [ We're hiring. Join Google Cloud! ](//careers.google.com/cloud)
+    * [ Google Cloud Community ](https://www.googlecloudcommunity.com/)
+
+
+
+  * [ About Google ](//about.google/)
+  * [ Privacy ](//policies.google.com/privacy)
+  * [ Site terms ](//www.google.com/intl/en/policies/terms/regional.html)
+  * [ Google Cloud terms ](/product-terms/)
+  * [ Manage cookies ](#)
+  * [ Our third decade of climate action: join us ](/sustainability)
+  * Sign up for the Google Cloud newsletter [ Subscribe ](/newsletter/)
+
+
+
+  * [English](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/)
+  * [Deutsch](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=de)
+  * [Español – América Latina](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=es-419)
+  * [Français](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=fr)
+  * [Indonesia](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=id)
+  * [Italiano](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=it)
+  * [Português – Brasil](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=pt-br)
+  * [中文 – 简体](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=zh-cn)
+  * [日本語](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=ja)
+  * [한국어](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/?hl=ko)
+
+

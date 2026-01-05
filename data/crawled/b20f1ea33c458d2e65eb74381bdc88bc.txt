@@ -1,0 +1,775 @@
+•
+
+NaN / NaN
+
+•
+
+NaN / NaN
+
+Play (k) 
+
+Back  [ ](/ "YouTube Home") RO 
+
+Skip navigation
+
+Search 
+
+Search 
+
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DihSiRrOUwmg%25252F&hl=en-GB&ec=65620)
+
+[ ](/ "YouTube Home") RO 
+
+Advanced RAG 01: Small-to-Big Retrieval with LlamaIndex
+
+Search
+
+Watch Later
+
+Share
+
+Copy link
+
+Info
+
+Shopping
+
+Tap to unmute
+
+2x
+
+If playback doesn't begin shortly, try restarting your device.
+
+•
+
+Up next
+
+LiveUpcoming
+
+CancelPlay now
+
+![](https://i.ytimg.com/an/ruSa8hlUAa3aHQ189oOggQ/featured_channel.jpg?v=62c3c26d)
+
+Sophia Yang
+
+Subscribe
+
+Subscribed
+
+You're signed out
+
+Videos that you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+CancelConfirm
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+0:00
+
+[](https://www.youtube.com/watch?v=LkED9wKI1TY "Next \(SHIFT+n\)")
+
+0:00 / 9:16•Watch full videoLive
+
+•
+
+•
+
+Scroll for details
+
+#  Advanced RAG 01: Small-to-Big Retrieval with LlamaIndex
+
+[![](https://yt3.ggpht.com/W4WMgGDgKT_oK5v-OMwpmmjtSnQhfbS4ijMsGWkCxZyF-JWQHbBCn9brrnwCCeHZyvMVVqo8=s48-c-k-c0x00ffffff-no-rj)](/@SophiaYangDS)
+
+[Sophia Yang](/@SophiaYangDS)
+
+Sophia Yang 
+
+19.4K subscribers
+
+<__slot-el>
+
+Subscribe
+
+<__slot-el>
+
+Subscribed
+
+423
+
+Share
+
+Download
+
+Download 
+
+Save
+
+13K views1 year ago[#ai](/hashtag/ai)
+
+13,514 views • 4 Nov 2023 • #ai 
+
+Show less 
+
+Two primary techniques: 
+
+  * Smaller Child Chunks Referring to Bigger Parent Chunks: Fetch smaller chunks during retrieval first, then reference the parent IDs, and return the bigger chunks. 
+
+…...more 
+
+...more 
+
+Transcript
+
+Follow along using the transcript.
+
+Show transcript
+
+### [Sophia Yang 19.4K subscribers  ](/@SophiaYangDS)
+
+[Videos](/channel/UCruSa8hlUAa3aHQ189oOggQ/videos)
+
+[About](/channel/UCruSa8hlUAa3aHQ189oOggQ/about)
+
+[Videos](/channel/UCruSa8hlUAa3aHQ189oOggQ/videos)[About](/channel/UCruSa8hlUAa3aHQ189oOggQ/about)[LinkedIn](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqa000bDZSTTRaZmo5WFlUMnJpU3pEbEdsdVN4UXxBQ3Jtc0tuQU5RQ2VrU3VXRDJtU2d2THlZTW9JZzJpUnFiSk03UzZrdEFmd0Q4V0N2cTdWSlcwR25peTVZOUZVSUtScGVwdHZGdHhnLTh4RGcyWmdvUUtpb0R5ZVkxVHJNSDFoZUIzelVudVZZMm02eGsza0N5Zw&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsophiamyang%2F)[Twitter](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbFJrWGI4WXlEZWphMENCOFRfTUdZYWlieDFld3xBQ3Jtc0ttbnpqbEZQQ3NFTVdqTHVON2tLZzR4M1dsVzlhUGlkZVBKRGVtNm5XNUxDUHdsMWlGemY5WmxHWml6LWVpNnFUZ2ZJdkxpZzlFUFlQaVdzNG8yM29lVGNMaHQ3VGZpcFdZSENkbHJ5SkFLNDh5cWsxdw&q=https%3A%2F%2Ftwitter.com%2Fsophiamyang)[Discord](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbjRRM2VqYjZnWDVmdFl4QTVQYTVvc1pvTDJPd3xBQ3Jtc0trTUNIeWFWZGd1ZnVfRnJpMVlHNGZZYk9FNFlBS0JkdGpjbFZ1dlhhLUhOeUtSMUFrWjBqRHYwdE1pWHlJTTFWMG5oN2lFT0xUOXNuYzYyRmczWXZFWFlDVHJoaFJ0WTdCQXN1eTBhbmhpdTdwdVVmNA&q=https%3A%2F%2Fdiscord.com%2Finvite%2F6BremEf9db)
+
+Show less 
+
+[](/hashtag/ai)[#ai](/hashtag/ai)
+
+# Advanced RAG 01: Small-to-Big Retrieval with LlamaIndex
+
+13,514 views13K views
+
+4 Nov 2023
+
+423
+
+Share
+
+Download
+
+Download 
+
+Save
+
+##  33 Comments
+
+Sort comments 
+
+Sort by
+
+Top comments  Newest first 
+
+![Default profile photo](https://yt3.ggpht.com/a/default-user=s48-c-k-c0x00ffffff-no-rj)
+
+Add a comment…
+
+[ ![](https://yt3.ggpht.com/ytc/AIdro_n8EP_fkfTIEAoG_yRCjfZs8mmOdHoPYaf-4ZLfKg=s88-c-k-c0x00ffffff-no-rj) ](/@sivi3883)
+
+###  [ @sivi3883  ](/@sivi3883)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=UgxCFGtJGyMULPFS6ul4AaABAg)
+
+Thanks for sharing! Cannot wait to try this and see the difference in the quality of RAG output. Excited to hear more tricks in this series!!!
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+2  [](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ![](https://yt3.ggpht.com/ytc/AIdro_kcqRXDd2pFUuCI8FPj_UfgmFMYoRu1mMCyrFjtt9MJM-8=s88-c-k-c0x00ffffff-no-rj) ](/@danieltost)
+
+###  [ @danieltost  ](/@danieltost)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=UgzGNu01nW_G3pFUIRt4AaABAg)
+
+Loved the small to big retrieval. Simple and elegant. Awesome work Sophia!!
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+1  [](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ![](https://yt3.ggpht.com/ytc/AIdro_nUvtxyPK-wiIPU3w5CZEl6EtN3XTjai7ro9cmwZrvH6wE=s88-c-k-c0x00ffffff-no-rj) ](/@chukypedro818)
+
+###  [ @chukypedro818  ](/@chukypedro818)
+
+[ 1 year ago (edited) ](/watch?v=ihSiRrOUwmg&lc=Ugwnai8qyFw_jtU-ev94AaABAg)
+
+Awesome, I've tried your approach to RAG, and it is far better than the current Langchain RAG that I am using. You are the best, Sophia.
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ![](https://yt3.ggpht.com/ytc/AIdro_lujFU2Gx3f8Vm5qCqERfJFilsYxzTyE--MNF4gUT8=s88-c-k-c0x00ffffff-no-rj) ](/@whlau6191)
+
+###  [ @whlau6191  ](/@whlau6191)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=Ugyn-PoyRTpbA4niVIR4AaABAg)
+
+Sophia, thanks for your sharing! Your presentation is always clear, structural and target oriented. it is so nice that you are one of the speakers in HK pycon. See you! 
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@olliegooding)
+
+###  [ @olliegooding  ](/@olliegooding)
+
+[ 8 months ago ](/watch?v=ihSiRrOUwmg&lc=Ugynrge4cA6kIHgudk14AaABAg)
+
+great explanations!
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@JamesRBentley)
+
+###  [ @JamesRBentley  ](/@JamesRBentley)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=Ugwa1nCKWnc2XByk5l94AaABAg)
+
+Another great video
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@assouliyoussef9912)
+
+###  [ @assouliyoussef9912  ](/@assouliyoussef9912)
+
+[ 8 months ago ](/watch?v=ihSiRrOUwmg&lc=UgwnTj-gUYOCeIjreBZ4AaABAg)
+
+just brilliant , thank you
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@MakeStuffWithAI)
+
+###  [ @MakeStuffWithAI  ](/@MakeStuffWithAI)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=Ugy66MVV85BbKdLqqw14AaABAg)
+
+Awesome tutorial!
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@TheCherryo)
+
+###  [ @TheCherryo  ](/@TheCherryo)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=UgwjOS_D_3MfJiZxdlx4AaABAg)
+
+I thought of something similar to this but never had the time to implement it myself. I am very excited to see all the advancements in RAG and Agent-like applications. Curious to see if there is going to be specialized models that work better with RAG applications.
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@klaudioz_)
+
+###  [ @klaudioz_  ](/@klaudioz_)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=UgxTeQ1F2MJmeSQ3bQl4AaABAg)
+
+Amazing content!!. Thanks for sharing 
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+·
+
+1 reply
+
+·
+
+1 reply
+
+[ ](/@foreignconta)
+
+###  [ @foreignconta  ](/@foreignconta)
+
+[ 1 year ago (edited) ](/watch?v=ihSiRrOUwmg&lc=UgykgYgoZd7Cpb0iBYB4AaABAg)
+
+Actually I do not use llama_index. I have created a separate class which does cosine similarity search for my local LLM's internet search feature.. This small chunks<-> big chunks method looks very interesting. I will watch this video again tomorrow. Very good information!! Thank you.
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+2  [](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+·
+
+1 reply
+
+·
+
+1 reply
+
+[ ](/@amitk3098)
+
+###  [ @amitk3098  ](/@amitk3098)
+
+[ 9 months ago ](/watch?v=ihSiRrOUwmg&lc=UgzblfPi5lQPwgcDi8Z4AaABAg)
+
+Is there anyway I can implement this without langchain and llama-index? I am not in favor having my RAG solution dependent on them.
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@crowofhermes)
+
+###  [ @crowofhermes  ](/@crowofhermes)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=UgxDI9YCyYCCMwkPyDx4AaABAg)
+
+Hi first of all, thank you for the great explanations! may I ask how does the first recursive retriever differs from utilizing `HierarchicalNodeParser + AutoMergingRetriever`? I will check in detail to see if there is something else but they seem pretty similar
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@%E5%AE%87%E5%AE%99%E6%99%BA%E6%85%A7%E5%AD%B8%E9%99%A2)
+
+###  [ @宇宙智慧學院  ](/@%E5%AE%87%E5%AE%99%E6%99%BA%E6%85%A7%E5%AD%B8%E9%99%A2)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=UgxbMPUREVE7ptBmfUZ4AaABAg)
+
+How to compare with graph llama index?
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@ztq121121)
+
+###  [ @ztq121121  ](/@ztq121121)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=UgzXWta6K2dZd3fX9EV4AaABAg)
+
+Thank you for sharing this! I'm curious if there are any benchmarks or evaluations that quantify the extent of improvement that small-to-big retrieval can offer. Is there any research paper that we can use as reference?
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+1  [](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@eklok5000)
+
+###  [ @eklok5000  ](/@eklok5000)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=UgzAp-fUgwaioLv-A814AaABAg)
+
+Really interesting content! I am unfortunately not all that familiar with llms and those techniques so it is sometimes hard to follow. Do you have some resources to catch up on the fundamentals?
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+1  [](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@liju7024)
+
+###  [ @liju7024  ](/@liju7024)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=UgyPBhSMfY5bIIDL0uh4AaABAg)
+
+I still don't understand the connection between child chunck and parent chunck. Can you explain more about it?
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@AbolfazlMahmoodi)
+
+###  [ @AbolfazlMahmoodi  ](/@AbolfazlMahmoodi)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=Ugzi4R6vhMzhsZ6BVwx4AaABAg)
+
+How to reduce cost of openai API call?
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@dhavalthakkar5147)
+
+###  [ @dhavalthakkar5147  ](/@dhavalthakkar5147)
+
+[ 1 year ago ](/watch?v=ihSiRrOUwmg&lc=UgzbNk52FinNp-sIsNB4AaABAg)
+
+Sophia, is there any langchain implementation for the above techniques?
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+[ ](/@avotchiezoa6627)
+
+###  [ @avotchiezoa6627  ](/@avotchiezoa6627)
+
+[ 1 year ago (edited) ](/watch?v=ihSiRrOUwmg&lc=Ugww5JmXwBzYEnE40Ll4AaABAg)
+
+where can i find your background video ? Which apps do you use for power point?
+
+Show less Read more
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Like 
+
+[](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+Dislike 
+
+[Reply](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fwatch%253Fv%253DihSiRrOUwmg&hl=en-GB)
+
+##  Comments 33
+
+Top comments  Newest first 
+
+##  In this video
+
+Transcript
+
+##  Description
+
+Advanced RAG 01: Small-to-Big Retrieval with LlamaIndex
+
+423Likes
+
+13,514Views
+
+20234 Nov
+
+Two primary techniques: 
+
+  * Smaller Child Chunks Referring to Bigger Parent Chunks: Fetch smaller chunks during retrieval first, then reference the parent IDs, and return the bigger chunks. 
+  * Sentence Window Retrieval: Fetch a single sentence during retrieval and return a window of text around the sentence. 
+
+🔗 Blog: [ / advanced-rag-01-small-to-big-retrieval ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVIxazhpSUhzWXhWWHQ5ZTdZcVFDd2lhZVg5Z3xBQ3Jtc0ttUUp3N3A3V2F2V3V5Yk9Ic1ZKRWZrLXF3YlBWT3ROXy1DaE84NlBzcllYOXFaSkdBeG56RnkwOGhVNENGRktYcFZyVXItTGlnS1duRFdpWUVzRFBjS3hodi1VUWlJSUtxS3cxb0dCZjlVQWYwQWdiZw&q=https%3A%2F%2Fsophiamyang.medium.com%2Fadvanced-rag-01-small-to-big-retrieval-172181b396d4&v=ihSiRrOUwmg) 🔗 Notebook: [https://colab.research.google.com/git...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmszdDZjdTRtSXFZV0FBS0NzNm0wQWJucW81d3xBQ3Jtc0tsRDE2eGEtQXp1VmlOSEdWeS1tUEV2NnBsWnhlVXVYR2lfTDNtek1JTjBiRFlfOXhnWGNyMlZKYkhxUnEwWUs5RGdITml5ZDZybE1XMDVCS1Y1R3Iza3RrX1dPdl9UbDZQX1p6eGZSSHUydUlRbVhjcw&q=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Fsophiamyang%2Fdemos%2Fblob%2Fmain%2Fadvanced_rag_small_to_big.ipynb&v=ihSiRrOUwmg) 🔔 SUBSCRIBE to my channel: [https://www.youtube.com/c/SophiaYangD...](https://www.youtube.com/c/SophiaYangDS?sub_confirmation=1) ⭐ Stay in touch ⭐ 📚 DS/ML Book Club: [http://dsbookclub.github.io/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmthTEZzd25QcmdaSkl1QW53Z2lDcGlTWmVDZ3xBQ3Jtc0ttOTAyaEZKUDFzWUdfQ1lRbkoweGc2MHlBZ3UzQml5NE90UGRWWHQ3a09GREpOQlF2NVlwZFBJbFRkNjNsUjBlMDhJZFFpUmhkTTNuLXZPUGRuTDF2Vm41SlQ0OFpRbmkxVzB0N1d2WTBQMGJxUWdwYw&q=http%3A%2F%2Fdsbookclub.github.io%2F&v=ihSiRrOUwmg) ▶ YouTube: [ / sophiayangds ](https://youtube.com/SophiaYangDS) ✍️ Medium: [ / sophiamyang ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE9laFg1WmtpTkhmdllnVk5kNDBJN1dxUTFFZ3xBQ3Jtc0tuLW9SMEJrb2E0S3lwbE9zNVBFZHJwVkxjdG1MYUM2UkRQb2N4dkRDQ2xVamR6SEVCQkctZ0RlUGJIR0p2Y0laMkt3RkVKci1pZkdJMFVkRldBNzlEU3FUeC14RTN5V2p0SDNGMS1xMjlNWkNQdkVORQ&q=https%3A%2F%2Fsophiamyang.medium.com%2F&v=ihSiRrOUwmg) 🐦 Twitter: [ / sophiamyang ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnZYc0tCU29NNkhQX0M4bU9qXzlFaWEwWEN1d3xBQ3Jtc0tsQTd2ZVA1RkZFRGs5eVkycHVKRXhDOTdrOGZZOTMzZWRmenpRUkQyQ19QZldHTnNGZVRFd3A0ZWJ2aXY0bVdrLWxRRXVWOTRRUjRYRnpXblFoQjJJbGJoV3BpUTZxVEw3aFFUYm1PLW5yRVBKbGdGRQ&q=https%3A%2F%2Ftwitter.com%2Fsophiamyang&v=ihSiRrOUwmg) 🤝 Linkedin: [ / sophiamyang ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnRDLWNEejd1RjJpQlZfbGxPSDdfSFhmeURUUXxBQ3Jtc0tuMnZUT2w5WXJOdUI1Rk9DYU10dlc2bVNPZ19WSW1nTGk4T3czY2dHZWNzWGRWUlJJZGVYVGlRTkxtUUtMZ01vZ3BvQVgwSXFSX0pycWZaU2c2NkZGVWk0UGNSeDZhR2JqREgyb0c5Z3B2cXZDRlA1TQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsophiamyang%2F&v=ihSiRrOUwmg) 💚 [#ai](/hashtag/ai)
+
+Show less ...more
+
+Two primary techniques: 
+
+  * Smaller Child Chunks Referring to Bigger Parent Chunks: Fetch smaller chunks during retrieval first, then reference the parent IDs, and return the bigger chunks. 
+  * Sentence Window Retrieval: Fetch a single sentence during retrieval and return a window of text around the sentence. 
+
+🔗 Blog: [ / advanced-rag-01-small-to-big-retrieval ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVIxazhpSUhzWXhWWHQ5ZTdZcVFDd2lhZVg5Z3xBQ3Jtc0ttUUp3N3A3V2F2V3V5Yk9Ic1ZKRWZrLXF3YlBWT3ROXy1DaE84NlBzcllYOXFaSkdBeG56RnkwOGhVNENGRktYcFZyVXItTGlnS1duRFdpWUVzRFBjS3hodi1VUWlJSUtxS3cxb0dCZjlVQWYwQWdiZw&q=https%3A%2F%2Fsophiamyang.medium.com%2Fadvanced-rag-01-small-to-big-retrieval-172181b396d4&v=ihSiRrOUwmg) 🔗 Notebook: [https://colab.research.google.com/git...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmszdDZjdTRtSXFZV0FBS0NzNm0wQWJucW81d3xBQ3Jtc0tsRDE2eGEtQXp1VmlOSEdWeS1tUEV2NnBsWnhlVXVYR2lfTDNtek1JTjBiRFlfOXhnWGNyMlZKYkhxUnEwWUs5RGdITml5ZDZybE1XMDVCS1Y1R3Iza3RrX1dPdl9UbDZQX1p6eGZSSHUydUlRbVhjcw&q=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Fsophiamyang%2Fdemos%2Fblob%2Fmain%2Fadvanced_rag_small_to_big.ipynb&v=ihSiRrOUwmg) 🔔 SUBSCRIBE to my channel: [https://www.youtube.com/c/SophiaYangD...](https://www.youtube.com/c/SophiaYangDS?sub_confirmation=1) ⭐ Stay in touch ⭐ 📚 DS/ML Book Club: [http://dsbookclub.github.io/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmthTEZzd25QcmdaSkl1QW53Z2lDcGlTWmVDZ3xBQ3Jtc0ttOTAyaEZKUDFzWUdfQ1lRbkoweGc2MHlBZ3UzQml5NE90UGRWWHQ3a09GREpOQlF2NVlwZFBJbFRkNjNsUjBlMDhJZFFpUmhkTTNuLXZPUGRuTDF2Vm41SlQ0OFpRbmkxVzB0N1d2WTBQMGJxUWdwYw&q=http%3A%2F%2Fdsbookclub.github.io%2F&v=ihSiRrOUwmg) ▶ YouTube: [ / sophiayangds ](https://youtube.com/SophiaYangDS) ✍️ Medium: [ / sophiamyang ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE9laFg1WmtpTkhmdllnVk5kNDBJN1dxUTFFZ3xBQ3Jtc0tuLW9SMEJrb2E0S3lwbE9zNVBFZHJwVkxjdG1MYUM2UkRQb2N4dkRDQ2xVamR6SEVCQkctZ0RlUGJIR0p2Y0laMkt3RkVKci1pZkdJMFVkRldBNzlEU3FUeC14RTN5V2p0SDNGMS1xMjlNWkNQdkVORQ&q=https%3A%2F%2Fsophiamyang.medium.com%2F&v=ihSiRrOUwmg) 🐦 Twitter: [ / sophiamyang ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnZYc0tCU29NNkhQX0M4bU9qXzlFaWEwWEN1d3xBQ3Jtc0tsQTd2ZVA1RkZFRGs5eVkycHVKRXhDOTdrOGZZOTMzZWRmenpRUkQyQ19QZldHTnNGZVRFd3A0ZWJ2aXY0bVdrLWxRRXVWOTRRUjRYRnpXblFoQjJJbGJoV3BpUTZxVEw3aFFUYm1PLW5yRVBKbGdGRQ&q=https%3A%2F%2Ftwitter.com%2Fsophiamyang&v=ihSiRrOUwmg) 🤝 Linkedin: [ / sophiamyang ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnRDLWNEejd1RjJpQlZfbGxPSDdfSFhmeURUUXxBQ3Jtc0tuMnZUT2w5WXJOdUI1Rk9DYU10dlc2bVNPZ19WSW1nTGk4T3czY2dHZWNzWGRWUlJJZGVYVGlRTkxtUUtMZ01vZ3BvQVgwSXFSX0pycWZaU2c2NkZGVWk0UGNSeDZhR2JqREgyb0c5Z3B2cXZDRlA1TQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsophiamyang%2F&v=ihSiRrOUwmg) 💚 [#ai](/hashtag/ai)…...more 
+
+...more Show less 
+
+Transcript
+
+Follow along using the transcript.
+
+Show transcript
+
+### [Sophia Yang 19.4K subscribers  ](/@SophiaYangDS)
+
+[Videos](/channel/UCruSa8hlUAa3aHQ189oOggQ/videos)
+
+[About](/channel/UCruSa8hlUAa3aHQ189oOggQ/about)
+
+[Videos](/channel/UCruSa8hlUAa3aHQ189oOggQ/videos)[About](/channel/UCruSa8hlUAa3aHQ189oOggQ/about)[LinkedIn](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqa000bDZSTTRaZmo5WFlUMnJpU3pEbEdsdVN4UXxBQ3Jtc0tuQU5RQ2VrU3VXRDJtU2d2THlZTW9JZzJpUnFiSk03UzZrdEFmd0Q4V0N2cTdWSlcwR25peTVZOUZVSUtScGVwdHZGdHhnLTh4RGcyWmdvUUtpb0R5ZVkxVHJNSDFoZUIzelVudVZZMm02eGsza0N5Zw&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsophiamyang%2F)[Twitter](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbFJrWGI4WXlEZWphMENCOFRfTUdZYWlieDFld3xBQ3Jtc0ttbnpqbEZQQ3NFTVdqTHVON2tLZzR4M1dsVzlhUGlkZVBKRGVtNm5XNUxDUHdsMWlGemY5WmxHWml6LWVpNnFUZ2ZJdkxpZzlFUFlQaVdzNG8yM29lVGNMaHQ3VGZpcFdZSENkbHJ5SkFLNDh5cWsxdw&q=https%3A%2F%2Ftwitter.com%2Fsophiamyang)[Discord](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbjRRM2VqYjZnWDVmdFl4QTVQYTVvc1pvTDJPd3xBQ3Jtc0trTUNIeWFWZGd1ZnVfRnJpMVlHNGZZYk9FNFlBS0JkdGpjbFZ1dlhhLUhOeUtSMUFrWjBqRHYwdE1pWHlJTTFWMG5oN2lFT0xUOXNuYzYyRmczWXZFWFlDVHJoaFJ0WTdCQXN1eTBhbmhpdTdwdVVmNA&q=https%3A%2F%2Fdiscord.com%2Finvite%2F6BremEf9db)
+
+##  Transcript
+
+NaN / NaN
+
+[ ![](https://i.ytimg.com/vi/LkED9wKI1TY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAS1q8AdNS_W_aZHxSf7azbhdtgoA) 20:18 20:18 Now playing ](/watch?v=LkED9wKI1TY)
+
+### [ Deep dive: 4 NeurIPS 2023 best paper award papers - emergent ability, scaling, DPO, trustworthiness  Sophia Yang Sophia Yang  • • 10K views 1 year ago ](/watch?v=LkED9wKI1TY)
+
+[ ![](https://i.ytimg.com/vi/q9MD_hU2Yd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBtXGYXSLuLtBckY7ZFDKCmbjn50w) 50:10 50:10 Now playing ](/watch?v=q9MD_hU2Yd8)
+
+### [ A gentle introduction to RAG (using open-source models)  Underfitted Underfitted  • • 14K views 5 months ago ](/watch?v=q9MD_hU2Yd8)
+
+[ ![](https://i.ytimg.com/vi/9QJXvNiJIG8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDgTIukNGyfqvaJuapWUuuUNCuBuQ) 1:50:09 1:50:09 Now playing ](/watch?v=9QJXvNiJIG8)
+
+### [ Mastering Retrieval for LLMs - BM25, Fine-tuned Embeddings, and Re-Rankers  Trelis Research Trelis Research  • • 8.3K views 6 months ago ](/watch?v=9QJXvNiJIG8)
+
+[ ![](https://i.ytimg.com/vi/uFWHweuTCGE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDgQJzLu4MZYUb1vlTmJSvtaA5C8Q) 26:24 26:24 Now playing ](/watch?v=uFWHweuTCGE)
+
+### [ Advanced RAG: Dynamic Chunk/Document Retrieval (with LlamaCloud)  LlamaIndex LlamaIndex  • • 2.4K views 2 months ago ](/watch?v=uFWHweuTCGE)
+
+[ ![](https://i.ytimg.com/vi/sQZLMjaXxoE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDUy9r_sEtDptDJ3n2b0RCH9fzx5A) 1:03:49 1:03:49 Now playing ](/watch?v=sQZLMjaXxoE)
+
+### [ How to Use Small Language Models for Industry Specific Use Cases  HatchWorks AI HatchWorks AI  • • 2K views 9 months ago ](/watch?v=sQZLMjaXxoE)
+
+[ ![](https://i.ytimg.com/vi/TcRRfcbsApw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC-p4BAgZtKe1ix2oJzssoVb1WwCQ) 29:56 29:56 Now playing ](/watch?v=TcRRfcbsApw)
+
+### [ Semantic Chunking for RAG  James Briggs James Briggs  • • 28K views 8 months ago ](/watch?v=TcRRfcbsApw)
+
+[ ![](https://i.ytimg.com/vi/mE7IDf2SmJg/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBnIM06cSk3RB_fD6k7hYHhEhyNBQ) 1:19:27 1:19:27 Now playing ](/watch?v=mE7IDf2SmJg)
+
+### [ Stanford CS25: V3 I Retrieval Augmented Language Models  Stanford Online Stanford Online  Verified  • • 177K views 11 months ago ](/watch?v=mE7IDf2SmJg)
+
+[ ![](https://i.ytimg.com/vi/TdjvzSpjBuI/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4AfwJgALQBYoCDAgAEAEYWiBjKGUwDw==&rs=AOn4CLCwySTElN702KCsB1Os6UMApFwVbA) 19:04 19:04 Now playing ](/watch?v=TdjvzSpjBuI)
+
+### [ Advanced Retrieval Strategies: Deep Memory, Small to Big Retrieval, Structured and Unstructured Data  Activeloop Activeloop  • • 1.8K views 1 year ago ](/watch?v=TdjvzSpjBuI)
+
+[ ![](https://i.ytimg.com/vi/tx5OapbK-8A/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBOp2Kn6riFBoz0VqGKAPTuWnhYlg) 24:27 24:27 Now playing ](/watch?v=tx5OapbK-8A)
+
+### [ How to Build Effective AI Agents (without the hype)  Dave Ebbelaar Dave Ebbelaar  Verified  • • 45K views 1 day ago New ](/watch?v=tx5OapbK-8A)
+
+[ ![](https://i.ytimg.com/vi/cCyYGYyCka4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBWG5McNdK4QgRcG2w5jhWrjb64aQ) 39:57 39:57 Now playing ](/watch?v=cCyYGYyCka4)
+
+### [ Introduction to LlamaIndex with Python (2024)  Alejandro AO - Software & Ai Alejandro AO - Software & Ai  • • 31K views 5 months ago ](/watch?v=cCyYGYyCka4)
+
+[ ![](https://i.ytimg.com/vi/oDzWsynpOyI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAqInuPzj7zgRjvJLh-DhdQt-lZVA) 25:30 25:30 Now playing ](/watch?v=oDzWsynpOyI)
+
+### [ Advanced RAG tutorial with Llamaindex & OpenAI GPT: Sentence Window Retrieval vs Basic Chunking  Hubel Labs Hubel Labs  • • 6.4K views 1 year ago ](/watch?v=oDzWsynpOyI)
+
+[ 36:58 36:58 Now playing ](/watch?v=XpoKB3usmKc)
+
+### [ QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code)  Shaw Talebi Shaw Talebi  • • 73K views 10 months ago ](/watch?v=XpoKB3usmKc)
+
+[ 1:09:00 1:09:00 Now playing ](/watch?v=8OJC21T2SL4)
+
+### [ The 5 Levels Of Text Splitting For Retrieval  Greg Kamradt Greg Kamradt  • • 88K views 1 year ago ](/watch?v=8OJC21T2SL4)
+
+[ 1:22:18 1:22:18 Now playing ](/watch?v=dI_TmTW9S4c)
+
+### [ Building Production RAG Over Complex Documents  Databricks Databricks  • • 22K views 5 months ago ](/watch?v=dI_TmTW9S4c)
+
+[ 17:29 17:29 Now playing ](/watch?v=CSvn8BNnGe4)
+
+### [ Chunking in RAG (with hands-on in LangChain and LlamaIndex) - RAG video series  AI Bites AI Bites  • • 1.5K views 6 months ago ](/watch?v=CSvn8BNnGe4)
+
+[ 45:12 45:12 Now playing ](/watch?v=pira_p6aRVA)
+
+### [ LlamaIndex Webinar: Retrieval-Augmented Fine-Tuning (RAFT)  LlamaIndex LlamaIndex  • • 6.1K views 9 months ago ](/watch?v=pira_p6aRVA)
+
+[ 51:44 51:44 Now playing ](/watch?v=GikIJpUv6oo)
+
+### [ How to train a model to generate image embeddings from scratch  Underfitted Underfitted  • • 14K views 7 months ago ](/watch?v=GikIJpUv6oo)
+
+[ 1:31:13 1:31:13 Now playing ](/watch?v=jkrNMKz9pWU)
+
+### [ A Hackers' Guide to Language Models  Jeremy Howard Jeremy Howard  • • 542K views 1 year ago ](/watch?v=jkrNMKz9pWU)
+
+[ 19:53 19:53 Now playing ](/watch?v=Y0FL7BcSigI)
+
+### [ A deep dive into Retrieval-Augmented Generation with Llamaindex  LlamaIndex LlamaIndex  • • 16K views 1 year ago ](/watch?v=Y0FL7BcSigI)
+
+[ 21:41 21:41 Now playing ](/watch?v=Ylz779Op9Pw)
+
+### [ How to Improve LLMs with RAG (Overview + Python Code)  Shaw Talebi Shaw Talebi  • • 94K views 10 months ago ](/watch?v=Ylz779Op9Pw)
+
+Show more
+
+Saving your choice
+
+An error occurred while saving your choice. Try again.
+
+A Google company
+
+en-GB
+
+Afrikaans Azərbaycan Bahasa Indonesia Bahasa Malaysia Bosanski Català Čeština Dansk Deutsch Eesti English (India) English (UK) English (US) Español (España) Español (Latinoamérica) Español (US) Euskara Filipino Français Français (Canada) Galego Hrvatski IsiZulu Íslenska Italiano Kiswahili Latviešu valoda Lietuvių Magyar Nederlands Norsk O‘zbek Polski Português Português (Brasil) Română Shqip Slovenčina Slovenščina Srpski Suomi Svenska Tiếng Việt Türkçe Беларуская Български Кыргызча Қазақ Тілі Македонски Монгол Русский Српски Українська Ελληνικά Հայերեն עברית اردو العربية فارسی नेपाली मराठी हिन्दी অসমীয়া বাংলা ਪੰਜਾਬੀ ગુજરાતી ଓଡ଼ିଆ தமிழ் తెలుగు ಕನ್ನಡ മലയാളം සිංහල ภาษาไทย ລາວ ဗမာ ქართული አማርኛ ខ្មែរ 中文 (简体) 中文 (繁體) 中文 (香港) 日本語 한국어
+
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DihSiRrOUwmg%25252F&hl=en-GB)
+
+Sign in 
+
+##  Before you continue to YouTube
+
+We use [cookies](https://policies.google.com/technologies/cookies?hl=en-GB) and data to
+
+  * Deliver and maintain Google services
+
+  * Track outages and protect against spam, fraud and abuse
+
+  * Measure audience engagement and site statistics to understand how our services are used and enhance the quality of those services
+
+
+
+
+If you choose to 'Accept all', we will also use cookies and data to
+
+  * Develop and improve new services
+
+  * Deliver and measure the effectiveness of ads
+
+  * Show personalised content, depending on your settings
+
+  * Show personalised ads, depending on your settings
+
+
+
+
+If you choose to 'Reject all', we will not use cookies for these additional purposes.
+
+Non-personalised content and ads are influenced by things like the content that you’re currently viewing and your location (ad serving is based on general location). Personalised content and ads can also include things like video recommendations, a customised YouTube homepage and tailored ads based on past activity, like the videos that you watch and the things that you search for on YouTube. We also use cookies and data to tailor the experience to be age-appropriate, if relevant.
+
+Select 'More options' to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+Reject all
+
+Accept all
+
+[More options](https://consent.youtube.com/d?continue=https://www.youtube.com/watch%3Fv%3DihSiRrOUwmg%252F%26cbrd%3D1&gl=RO&m=0&pc=yt&cm=2&hl=en-GB&src=2)
+
+[Privacy Policy](https://policies.google.com/privacy?hl=en-GB) • [Terms of Service](https://policies.google.com/terms?hl=en-GB)

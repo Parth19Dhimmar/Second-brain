@@ -1,0 +1,78 @@
+import os
+
+import opik
+from loguru import logger
+from opik.configurator.configure import OpikConfigurator
+
+from second_brain_online.config import settings
+
+
+def configure_opik() -> None:
+    
+    if settings.COMET_API_KEY and settings.COMET_PROJECT_NAME:
+        try:
+            client = OpikConfigurator(api_key=settings.COMET_API_KEY)
+            default_workspace = client._get_default_workspace()
+        except Exception:
+            logger.warning("No Default workspace found. Setting workspace to None and enabling interactive mode.")
+            default_workspace = None
+        
+        os.environ["OPIK_PROJECT_NAME"] = settings.COMET_PROJECT_NAME
+        
+        opik.configure(
+            api_key=settings.COMET_API_KEY,
+            workspace=default_workspace,
+            use_local=False,
+            force=True
+        )
+        
+        logger.info(
+            f"Opik configured successfully using workspace '{default_workspace}'"
+        )
+    else:
+        logger.warning(
+            "COMET_API_KEY and COMET_PROJECT_NAME are not set. Set them to enable prompt monitoring with Opik (powered by Comet ML)."
+        )
+        
+def get_or_create_dataset(name: str, prompts: list[str]) -> opik.Dataset | None:
+    
+    client = opik.Opik()
+    
+    try:
+        dataset = client.get_dataset(name=name)
+    except Exception:
+        dataset = None
+    
+    if dataset:
+        logger.warning(f"Dataset '{name}' already exists. Skipping dataset creation.")
+
+        return dataset
+    
+    assert prompts, "Prompts are required to create dataset."
+
+    dataset_items = []
+    for prompt in prompts:
+        dataset_items.append(
+            {
+                "input" : prompt
+            }
+        )
+        
+    dataset = create_dataset(
+        name, 
+        dataset_items
+    )
+    
+    return dataset
+    
+    
+def create_dataset(name: str, dataset_items: list[dict]) -> opik.Dataset:
+    client = opik.Opik()
+    
+    dataset = client.get_or_create_dataset(name=name, description="Opik second-brain-dataset")
+    dataset.insert(items=dataset_items)
+    
+    dataset = client.get_dataset(name=name) # ensuring fresh dataset object 
+    
+    return dataset
+    

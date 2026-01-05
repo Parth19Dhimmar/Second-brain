@@ -1,0 +1,333 @@
+•
+
+NaN / NaN
+
+•
+
+NaN / NaN
+
+Play (k) 
+
+Back  [ ](/ "YouTube Home") RO 
+
+Skip navigation
+
+Search 
+
+Search 
+
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DsNv5jpAwkcU%25252F&hl=en-GB&ec=65620)
+
+[ ](/ "YouTube Home") RO 
+
+How To Reduce LLM Decoding Time With KV-Caching!
+
+Search
+
+Watch Later
+
+Share
+
+Copy link
+
+Info
+
+Shopping
+
+Tap to unmute
+
+2x
+
+If playback doesn't begin shortly, try restarting your device.
+
+•
+
+Up next
+
+LiveUpcoming
+
+CancelPlay now
+
+You're signed out
+
+Videos that you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+CancelConfirm
+
+[The ML Tech Lead!](https://www.youtube.com/channel/UCY6prWg16U5nzvl51cmqo3Q)
+
+Subscribe
+
+Subscribed
+
+My name is Damien, former ML Tech Lead at Meta and more than 10 years in the field of AI/ML! I share my knowledge of the field to help prepare the next generation of ML Engineers 
+
+[How To Get a Job in Machine Learning1:38:27](https://www.youtube.com/watch?v=FRu6DWTG_B8)
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+0:00
+
+[](https://www.youtube.com/watch?v=7wghqMp7NOY "Next \(SHIFT+n\)")
+
+0:00 / 12:12•Watch full videoLive
+
+•
+
+•
+
+Scroll for details
+
+#  How To Reduce LLM Decoding Time With KV-Caching!
+
+[![](https://yt3.ggpht.com/H7dUL_QmC5Wzlw30wQclOSOjcmvjgdHnQHmrRB9rKPHiSMbGsPHEQPzNbtUb9R5wESqOlAB2UBE=s48-c-k-c0x00ffffff-no-rj)](/@TheMLTechLead)
+
+[The ML Tech Lead!](/@TheMLTechLead)
+
+The ML Tech Lead! 
+
+10.6K subscribers
+
+<__slot-el>
+
+Subscribe
+
+<__slot-el>
+
+Subscribed
+
+37
+
+Share
+
+Download
+
+Download 
+
+Save
+
+618 views2 months ago
+
+618 views • 4 Nov 2024 
+
+Show less 
+
+The attention mechanism is known to be pretty slow! If you are not careful, the time complexity of the vanilla attention can be quadratic in the number of tokens in the input sequence! So, we need to be smart about the computations we are doing when we are decoding text sequences. When we decode text, there are actually many tensors that we recompute over and over, so instead of recomputing them, we are going to cache them to save on computation. Let me show you how!…...more 
+
+...more 
+
+Transcript
+
+Follow along using the transcript.
+
+Show transcript
+
+### [The ML Tech Lead! 10.6K subscribers  ](/@TheMLTechLead)
+
+[Videos](/channel/UCY6prWg16U5nzvl51cmqo3Q/videos)
+
+[About](/channel/UCY6prWg16U5nzvl51cmqo3Q/about)
+
+[Videos](/channel/UCY6prWg16U5nzvl51cmqo3Q/videos)[About](/channel/UCY6prWg16U5nzvl51cmqo3Q/about)[LinkedIn Profile](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbFI2eEktXzFpZFpjY05XTTNURkEybGNscnRvUXxBQ3Jtc0tselZGV2FfQjQ0bXY5ekduVEdfdHVEc1lHdkVjS1hTYlM5M2pZMlBwQnUxcjR0NEstS25VOHFPZTgyRHhCRm4tUEQ1SUZhaWRTeXNmS09nbGJYenBQaUJQV0N5TVUwWmJzVlhnYTBZN3NHQlIwZUhqRQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdamienbenveniste%2F)[Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqblVlSmlHZGR6S05fUi0ydG9ueG8zcms3VVZlQXxBQ3Jtc0tsX0YxRWwtT1dyanhUeXlETXZHaTVvUEJBMlYzUDFLVWoxZ1REWE44Z1Z0S0hXUUtkWXRrWThSY192YURDQ1BVZ09aRUF6SVAwNDRhNlhpVEZTT01NQTgxUDFrbW1EeDhoWW9nZHQtUzFzQ3VhbzBvWQ&q=https%3A%2F%2Fwww.instagram.com%2Fdamienbenveniste%2F)
+
+Show less 
+
+# How To Reduce LLM Decoding Time With KV-Caching!
+
+618 views618 views
+
+4 Nov 2024
+
+37
+
+Share
+
+Download
+
+Download 
+
+Save
+
+##  Comments 5
+
+Top comments  Newest first 
+
+##  In this video
+
+Transcript
+
+##  Description
+
+How To Reduce LLM Decoding Time With KV-Caching!
+
+37Likes
+
+618Views
+
+4 Nov2024
+
+The attention mechanism is known to be pretty slow! If you are not careful, the time complexity of the vanilla attention can be quadratic in the number of tokens in the input sequence! So, we need to be smart about the computations we are doing when we are decoding text sequences. When we decode text, there are actually many tensors that we recompute over and over, so instead of recomputing them, we are going to cache them to save on computation. Let me show you how!
+
+Show less ...more
+
+The attention mechanism is known to be pretty slow! If you are not careful, the time complexity of the vanilla attention can be quadratic in the number of tokens in the input sequence! So, we need to be smart about the computations we are doing when we are decoding text sequences. When we decode text, there are actually many tensors that we recompute over and over, so instead of recomputing them, we are going to cache them to save on computation. Let me show you how!…...more 
+
+...more Show less 
+
+Transcript
+
+Follow along using the transcript.
+
+Show transcript
+
+### [The ML Tech Lead! 10.6K subscribers  ](/@TheMLTechLead)
+
+[Videos](/channel/UCY6prWg16U5nzvl51cmqo3Q/videos)
+
+[About](/channel/UCY6prWg16U5nzvl51cmqo3Q/about)
+
+[Videos](/channel/UCY6prWg16U5nzvl51cmqo3Q/videos)[About](/channel/UCY6prWg16U5nzvl51cmqo3Q/about)[LinkedIn Profile](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbFI2eEktXzFpZFpjY05XTTNURkEybGNscnRvUXxBQ3Jtc0tselZGV2FfQjQ0bXY5ekduVEdfdHVEc1lHdkVjS1hTYlM5M2pZMlBwQnUxcjR0NEstS25VOHFPZTgyRHhCRm4tUEQ1SUZhaWRTeXNmS09nbGJYenBQaUJQV0N5TVUwWmJzVlhnYTBZN3NHQlIwZUhqRQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdamienbenveniste%2F)[Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqblVlSmlHZGR6S05fUi0ydG9ueG8zcms3VVZlQXxBQ3Jtc0tsX0YxRWwtT1dyanhUeXlETXZHaTVvUEJBMlYzUDFLVWoxZ1REWE44Z1Z0S0hXUUtkWXRrWThSY192YURDQ1BVZ09aRUF6SVAwNDRhNlhpVEZTT01NQTgxUDFrbW1EeDhoWW9nZHQtUzFzQ3VhbzBvWQ&q=https%3A%2F%2Fwww.instagram.com%2Fdamienbenveniste%2F)
+
+##  Transcript
+
+NaN / NaN
+
+[ ![](https://i.ytimg.com/vi/hMs8VNRy5Ys/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAIvKG9-Hs6D_THxQdAabOCNmusEA) 36:12 36:12 Now playing ](/watch?v=hMs8VNRy5Ys)
+
+### [ Deep Dive: Optimizing LLM inference  Julien Simon Julien Simon  • • 27K views 10 months ago ](/watch?v=hMs8VNRy5Ys)
+
+[ ![](https://i.ytimg.com/vi/KJtZARuO3JY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDnqdN8UlSGGs_v6hoJXerC7v9atQ) 57:45 57:45 Now playing ](/watch?v=KJtZARuO3JY)
+
+### [ Visualizing transformers and attention | Talk for TNG Big Tech Day '24  Grant Sanderson Grant Sanderson  • • 327K views 2 months ago ](/watch?v=KJtZARuO3JY)
+
+[ ![](https://i.ytimg.com/vi/MpwrCrI_Gds/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBAuqvw5Lhy3h8gzrj8P9wcNRBaJQ) 33:54 33:54 Now playing ](/watch?v=MpwrCrI_Gds)
+
+### [ What Is Machine Learning System Design?  The ML Tech Lead! The ML Tech Lead!  • • 3.1K views 6 months ago ](/watch?v=MpwrCrI_Gds)
+
+[ ![](https://i.ytimg.com/vi/80bIUggRJf4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAyp9o833TUvVcrolInYymU6oOxlQ) 8:33 8:33 Now playing ](/watch?v=80bIUggRJf4)
+
+### [ The KV Cache: Memory Usage in Transformers  Efficient NLP Efficient NLP  • • 48K views 1 year ago ](/watch?v=80bIUggRJf4)
+
+[ ![](https://i.ytimg.com/vi/jk2FsJxZFo8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBsyhmLm6yyTyHQHiv9H03XrlJyGg) 44:06 44:06 Now playing ](/watch?v=jk2FsJxZFo8)
+
+### [ LLM inference optimization: Architecture, KV cache and Flash attention  YanAITalk YanAITalk  • • 5.1K views 4 months ago ](/watch?v=jk2FsJxZFo8)
+
+[ ![](https://i.ytimg.com/vi/WzRc9aNfNZ8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD6MiQtLy6UiI4cGm2S52FUmedgRg) 26:41 26:41 Now playing ](/watch?v=WzRc9aNfNZ8)
+
+### [ Understanding XGBoost From A to Z!  The ML Tech Lead! The ML Tech Lead!  • • 2.3K views 7 months ago ](/watch?v=WzRc9aNfNZ8)
+
+[ ![](https://i.ytimg.com/vi/tx5OapbK-8A/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBOp2Kn6riFBoz0VqGKAPTuWnhYlg) 24:27 24:27 Now playing ](/watch?v=tx5OapbK-8A)
+
+### [ How to Build Effective AI Agents (without the hype)  Dave Ebbelaar Dave Ebbelaar  Verified  • • 21K views 21 hours ago New ](/watch?v=tx5OapbK-8A)
+
+[ ![](https://i.ytimg.com/vi/NJ1jAfWR84k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDox9baU9bkUxVVoLcg48DIruDvAg) 55:39 55:39 Now playing ](/watch?v=NJ1jAfWR84k)
+
+### [ Understanding LLM Inference | NVIDIA Experts Deconstruct How AI Works  DataCamp DataCamp  • • 8.1K views Streamed 8 months ago ](/watch?v=NJ1jAfWR84k)
+
+[ ![](https://i.ytimg.com/vi/r3uu-vNmb-8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAMH2eD86J3z--nyjyVhm_yoS81Tg) 15:06 15:06 Now playing ](/watch?v=r3uu-vNmb-8)
+
+### [ How Can We Generate BETTER Sequences with LLMs?  The ML Tech Lead! The ML Tech Lead!  • • 433 views 8 months ago ](/watch?v=r3uu-vNmb-8)
+
+[ ![](https://i.ytimg.com/vi/G3Fqq6cqOrc/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYZSBcKE0wDw==&rs=AOn4CLCqBojBtA_XLeKGIgOMNJkozGINSg) 4:08 4:08 Now playing ](/watch?v=G3Fqq6cqOrc)
+
+### [ KV Cache Explained  Arize AI Arize AI  • • 472 views 2 months ago ](/watch?v=G3Fqq6cqOrc)
+
+[ ![](https://i.ytimg.com/vi/7wghqMp7NOY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAM7WpG9bzQPgLaORQBYXHhrGWgOw) 19:06 19:06 Now playing ](/watch?v=7wghqMp7NOY)
+
+### [ How To Bring Machine Learning Projects to Success  The ML Tech Lead! The ML Tech Lead!  • • 404 views 5 months ago ](/watch?v=7wghqMp7NOY)
+
+[ 19:15 19:15 Now playing ](/watch?v=knDDGYHnnSI)
+
+### [ GraphRAG: The Marriage of Knowledge Graphs and RAG: Emil Eifrem  AI Engineer AI Engineer  • • 83K views 4 months ago ](/watch?v=knDDGYHnnSI)
+
+[ 49:53 49:53 Now playing ](/watch?v=IGu7ivuy1Ag)
+
+### [ How a Transformer works at inference vs training time  Niels Rogge Niels Rogge  • • 59K views 1 year ago ](/watch?v=IGu7ivuy1Ag)
+
+[ 16:39 16:39 Now playing ](/watch?v=T-LEs89qrlQ)
+
+### [ Understanding The Computational Graph in Neural Networks  The ML Tech Lead! The ML Tech Lead!  • • 1.2K views 7 months ago ](/watch?v=T-LEs89qrlQ)
+
+[ 12:05 12:05 Now playing ](/watch?v=hwounCHi9zQ)
+
+### [ Understanding How LoRA Adapters Work!  The ML Tech Lead! The ML Tech Lead!  • • 1.2K views 6 months ago ](/watch?v=hwounCHi9zQ)
+
+[ 26:19 26:19 Now playing ](/watch?v=NaEf_uiFX6o)
+
+### [ Goodbye RAG - Smarter CAG w/ KV Cache Optimization  Discover AI Discover AI  • • 36K views 3 weeks ago ](/watch?v=NaEf_uiFX6o)
+
+[ 13:22 13:22 Now playing ](/watch?v=AH5SIsV9cX8)
+
+### [ The Position Encoding In Transformers  The ML Tech Lead! The ML Tech Lead!  • • 551 views 6 months ago ](/watch?v=AH5SIsV9cX8)
+
+[ 20:18 20:18 Now playing ](/watch?v=zc5NTeJbk-k)
+
+### [ Why Does Diffusion Work Better than Auto-Regression?  Algorithmic Simplicity Algorithmic Simplicity  • • 433K views 11 months ago ](/watch?v=zc5NTeJbk-k)
+
+[ 27:14 27:14 Now playing ](/watch?v=wjZofJX0v4M)
+
+### [ Transformers (how LLMs work) explained visually | DL5  3Blue1Brown 3Blue1Brown  Verified  • • 4.4M views 9 months ago ](/watch?v=wjZofJX0v4M)
+
+[ 42:40 42:40 Now playing ](/watch?v=bZQun8Y4L2A)
+
+### [ State of GPT | BRK216HFS  Microsoft Developer Microsoft Developer  Verified  • • 692K views 1 year ago ](/watch?v=bZQun8Y4L2A)
+
+Show more
+
+Saving your choice
+
+An error occurred while saving your choice. Try again.
+
+A Google company
+
+en-GB
+
+Afrikaans Azərbaycan Bahasa Indonesia Bahasa Malaysia Bosanski Català Čeština Dansk Deutsch Eesti English (India) English (UK) English (US) Español (España) Español (Latinoamérica) Español (US) Euskara Filipino Français Français (Canada) Galego Hrvatski IsiZulu Íslenska Italiano Kiswahili Latviešu valoda Lietuvių Magyar Nederlands Norsk O‘zbek Polski Português Português (Brasil) Română Shqip Slovenčina Slovenščina Srpski Suomi Svenska Tiếng Việt Türkçe Беларуская Български Кыргызча Қазақ Тілі Македонски Монгол Русский Српски Українська Ελληνικά Հայերեն עברית اردو العربية فارسی नेपाली मराठी हिन्दी অসমীয়া বাংলা ਪੰਜਾਬੀ ગુજરાતી ଓଡ଼ିଆ தமிழ் తెలుగు ಕನ್ನಡ മലയാളം සිංහල ภาษาไทย ລາວ ဗမာ ქართული አማርኛ ខ្មែរ 中文 (简体) 中文 (繁體) 中文 (香港) 日本語 한국어
+
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DsNv5jpAwkcU%25252F&hl=en-GB)
+
+Sign in 
+
+##  Before you continue to YouTube
+
+We use [cookies](https://policies.google.com/technologies/cookies?hl=en-GB) and data to
+
+  * Deliver and maintain Google services
+
+  * Track outages and protect against spam, fraud and abuse
+
+  * Measure audience engagement and site statistics to understand how our services are used and enhance the quality of those services
+
+
+
+
+If you choose to 'Accept all', we will also use cookies and data to
+
+  * Develop and improve new services
+
+  * Deliver and measure the effectiveness of ads
+
+  * Show personalised content, depending on your settings
+
+  * Show personalised ads, depending on your settings
+
+
+
+
+If you choose to 'Reject all', we will not use cookies for these additional purposes.
+
+Non-personalised content and ads are influenced by things like the content that you’re currently viewing and your location (ad serving is based on general location). Personalised content and ads can also include things like video recommendations, a customised YouTube homepage and tailored ads based on past activity, like the videos that you watch and the things that you search for on YouTube. We also use cookies and data to tailor the experience to be age-appropriate, if relevant.
+
+Select 'More options' to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+Reject all
+
+Accept all
+
+[More options](https://consent.youtube.com/d?continue=https://www.youtube.com/watch%3Fv%3DsNv5jpAwkcU%252F%26cbrd%3D1&gl=RO&m=0&pc=yt&cm=2&hl=en-GB&src=2)
+
+[Privacy Policy](https://policies.google.com/privacy?hl=en-GB) • [Terms of Service](https://policies.google.com/terms?hl=en-GB)

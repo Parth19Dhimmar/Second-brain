@@ -1,0 +1,205 @@
+[![Hugging Face's logo](/front/assets/huggingface_logo-noborder.svg) Hugging Face](/)
+
+  * [ Models](/models)
+  * [ Datasets](/datasets)
+  * [ Spaces](/spaces)
+  * [ Posts](/posts)
+  * [ Docs](/docs)
+  * [ Enterprise](/enterprise)
+  * [Pricing](/pricing)
+  * [Log In](/login)
+  * [Sign Up](/join)
+
+
+
+Transformers documentation
+
+Using pipelines for a webserver
+
+# Transformers
+
+🏡 View all docsAWS Trainium & InferentiaAccelerateAmazon SageMakerArgillaAutoTrainBitsandbytesChat UICompetitionsDataset viewerDatasetsDiffusersDistilabelEvaluateGoogle CloudGoogle TPUsGradioHubHub Python LibraryHugging Face Generative AI Services (HUGS)Huggingface.jsInference API (serverless)Inference Endpoints (dedicated)LeaderboardsLightevalOptimumPEFTSafetensorsSentence TransformersTRLTasksText Embeddings InferenceText Generation InferenceTokenizersTransformersTransformers.jssmolagentstimm
+
+Search documentation
+
+`⌘K`
+
+mainv4.48.0v4.47.1v4.46.3v4.45.2v4.44.2v4.43.4v4.42.4v4.41.2v4.40.2v4.39.3v4.38.2v4.37.2v4.36.1v4.35.2v4.34.1v4.33.3v4.32.1v4.31.0v4.30.0v4.29.1v4.28.1v4.27.2v4.26.1v4.25.1v4.24.0v4.23.1v4.22.2v4.21.3v4.20.1v4.19.4v4.18.0v4.17.0v4.16.2v4.15.0v4.14.1v4.13.0v4.12.5v4.11.3v4.10.1v4.9.2v4.8.2v4.7.0v4.6.0v4.5.1v4.4.2v4.3.3v4.2.2v4.1.1v4.0.1v3.5.1v3.4.0v3.3.1v3.2.0v3.1.0v3.0.2v2.11.0v2.10.0v2.9.1v2.8.0v2.7.0v2.6.0v2.5.1v2.4.1v2.3.0v2.2.2v2.1.1v2.0.0v1.2.0v1.1.0v1.0.0doc-builder-html ARDEENESFRHIITJAKOPTTETRZH [ 137,791](https://github.com/huggingface/transformers)
+
+Get started
+
+[🤗 Transformers ](/docs/transformers/en/index)[Quick tour ](/docs/transformers/en/quicktour)[Installation ](/docs/transformers/en/installation)[Adding a new model to `transformers` ](/docs/transformers/en/add_new_model)
+
+Tutorials
+
+[Run inference with pipelines ](/docs/transformers/en/pipeline_tutorial)[Write portable code with AutoClass ](/docs/transformers/en/autoclass_tutorial)[Preprocess data ](/docs/transformers/en/preprocessing)[Fine-tune a pretrained model ](/docs/transformers/en/training)[Train with a script ](/docs/transformers/en/run_scripts)[Set up distributed training with 🤗 Accelerate ](/docs/transformers/en/accelerate)[Load and train adapters with 🤗 PEFT ](/docs/transformers/en/peft)[Share your model ](/docs/transformers/en/model_sharing)[Agents 101 ](/docs/transformers/en/agents)[Agents, supercharged - Multi-agents, External tools, and more ](/docs/transformers/en/agents_advanced)[Generation with LLMs ](/docs/transformers/en/llm_tutorial)[Chatting with Transformers ](/docs/transformers/en/conversations)
+
+Task Guides
+
+Natural Language Processing
+
+Audio
+
+Computer Vision
+
+Multimodal
+
+Generation
+
+Prompting
+
+Developer guides
+
+[Use fast tokenizers from 🤗 Tokenizers ](/docs/transformers/en/fast_tokenizers)[Run inference with multilingual models ](/docs/transformers/en/multilingual)[Use model-specific APIs ](/docs/transformers/en/create_a_model)[Share a custom model ](/docs/transformers/en/custom_models)[Chat templates ](/docs/transformers/en/chat_templating)[Trainer ](/docs/transformers/en/trainer)[Run training on Amazon SageMaker ](/docs/transformers/en/sagemaker)[Export to ONNX ](/docs/transformers/en/serialization)[Export to TFLite ](/docs/transformers/en/tflite)[Export to TorchScript ](/docs/transformers/en/torchscript)[Benchmarks ](/docs/transformers/en/benchmarks)[Notebooks with examples ](/docs/transformers/en/notebooks)[Community resources ](/docs/transformers/en/community)[Troubleshoot ](/docs/transformers/en/troubleshooting)[Interoperability with GGUF files ](/docs/transformers/en/gguf)[Interoperability with TikToken files ](/docs/transformers/en/tiktoken)[Modularity in `transformers` ](/docs/transformers/en/modular_transformers)[Model Hacking (overwriting a class to your usage) ](/docs/transformers/en/how_to_hack_models)
+
+Quantization Methods
+
+[Getting started ](/docs/transformers/en/quantization/overview)[bitsandbytes ](/docs/transformers/en/quantization/bitsandbytes)[GPTQ ](/docs/transformers/en/quantization/gptq)[AWQ ](/docs/transformers/en/quantization/awq)[AQLM ](/docs/transformers/en/quantization/aqlm)[VPTQ ](/docs/transformers/en/quantization/vptq)[Quanto ](/docs/transformers/en/quantization/quanto)[EETQ ](/docs/transformers/en/quantization/eetq)[HIGGS ](/docs/transformers/en/quantization/higgs)[HQQ ](/docs/transformers/en/quantization/hqq)[FBGEMM_FP8 ](/docs/transformers/en/quantization/fbgemm_fp8)[Optimum ](/docs/transformers/en/quantization/optimum)[TorchAO ](/docs/transformers/en/quantization/torchao)[BitNet ](/docs/transformers/en/quantization/bitnet)[compressed-tensors ](/docs/transformers/en/quantization/compressed_tensors)[Contribute new quantization method ](/docs/transformers/en/quantization/contribute)
+
+Performance and scalability
+
+[Overview ](/docs/transformers/en/performance)[LLM inference optimization ](/docs/transformers/en/llm_optims)
+
+Efficient training techniques
+
+[Methods and tools for efficient training on a single GPU ](/docs/transformers/en/perf_train_gpu_one)[Multiple GPUs and parallelism ](/docs/transformers/en/perf_train_gpu_many)[Fully Sharded Data Parallel ](/docs/transformers/en/fsdp)[DeepSpeed ](/docs/transformers/en/deepspeed)[Efficient training on CPU ](/docs/transformers/en/perf_train_cpu)[Distributed CPU training ](/docs/transformers/en/perf_train_cpu_many)[Training on TPU with TensorFlow ](/docs/transformers/en/perf_train_tpu_tf)[PyTorch training on Apple silicon ](/docs/transformers/en/perf_train_special)[Custom hardware for training ](/docs/transformers/en/perf_hardware)[Hyperparameter Search using Trainer API ](/docs/transformers/en/hpo_train)
+
+Optimizing inference
+
+[CPU inference ](/docs/transformers/en/perf_infer_cpu)[GPU inference ](/docs/transformers/en/perf_infer_gpu_one)[Multi-GPU inference ](/docs/transformers/en/perf_infer_gpu_multi)
+
+[Instantiate a big model ](/docs/transformers/en/big_models)[Debugging ](/docs/transformers/en/debugging)[XLA Integration for TensorFlow Models ](/docs/transformers/en/tf_xla)[Optimize inference using `torch.compile()` ](/docs/transformers/en/perf_torch_compile)
+
+Contribute
+
+[How to contribute to 🤗 Transformers? ](/docs/transformers/en/contributing)[How to add a model to 🤗 Transformers? ](/docs/transformers/en/add_new_model)[How to add a pipeline to 🤗 Transformers? ](/docs/transformers/en/add_new_pipeline)[Testing ](/docs/transformers/en/testing)[Checks on a Pull Request ](/docs/transformers/en/pr_checks)
+
+Conceptual guides
+
+[Philosophy ](/docs/transformers/en/philosophy)[Glossary ](/docs/transformers/en/glossary)[What 🤗 Transformers can do ](/docs/transformers/en/task_summary)[How 🤗 Transformers solve tasks ](/docs/transformers/en/tasks_explained)[The Transformer model family ](/docs/transformers/en/model_summary)[Summary of the tokenizers ](/docs/transformers/en/tokenizer_summary)[Attention mechanisms ](/docs/transformers/en/attention)[Padding and truncation ](/docs/transformers/en/pad_truncation)[BERTology ](/docs/transformers/en/bertology)[Perplexity of fixed-length models ](/docs/transformers/en/perplexity)[Pipelines for webserver inference ](/docs/transformers/en/pipeline_webserver)[Model training anatomy ](/docs/transformers/en/model_memory_anatomy)[Getting the most out of LLMs ](/docs/transformers/en/llm_tutorial_optimization)
+
+API
+
+Main Classes
+
+[Agents and Tools ](/docs/transformers/en/main_classes/agent)[Auto Classes ](/docs/transformers/en/model_doc/auto)[Backbones ](/docs/transformers/en/main_classes/backbones)[Callbacks ](/docs/transformers/en/main_classes/callback)[Configuration ](/docs/transformers/en/main_classes/configuration)[Data Collator ](/docs/transformers/en/main_classes/data_collator)[Keras callbacks ](/docs/transformers/en/main_classes/keras_callbacks)[Logging ](/docs/transformers/en/main_classes/logging)[Models ](/docs/transformers/en/main_classes/model)[Text Generation ](/docs/transformers/en/main_classes/text_generation)[ONNX ](/docs/transformers/en/main_classes/onnx)[Optimization ](/docs/transformers/en/main_classes/optimizer_schedules)[Model outputs ](/docs/transformers/en/main_classes/output)[Pipelines ](/docs/transformers/en/main_classes/pipelines)[Processors ](/docs/transformers/en/main_classes/processors)[Quantization ](/docs/transformers/en/main_classes/quantization)[Tokenizer ](/docs/transformers/en/main_classes/tokenizer)[Trainer ](/docs/transformers/en/main_classes/trainer)[DeepSpeed ](/docs/transformers/en/main_classes/deepspeed)[ExecuTorch ](/docs/transformers/en/main_classes/executorch)[Feature Extractor ](/docs/transformers/en/main_classes/feature_extractor)[Image Processor ](/docs/transformers/en/main_classes/image_processor)
+
+Models
+
+Text models
+
+Vision models
+
+Audio models
+
+Video models
+
+Multimodal models
+
+Reinforcement learning models
+
+Time series models
+
+Graph models
+
+Internal Helpers
+
+[Custom Layers and Utilities ](/docs/transformers/en/internal/modeling_utils)[Utilities for pipelines ](/docs/transformers/en/internal/pipelines_utils)[Utilities for Tokenizers ](/docs/transformers/en/internal/tokenization_utils)[Utilities for Trainer ](/docs/transformers/en/internal/trainer_utils)[Utilities for Generation ](/docs/transformers/en/internal/generation_utils)[Utilities for Image Processors ](/docs/transformers/en/internal/image_processing_utils)[Utilities for Audio processing ](/docs/transformers/en/internal/audio_utils)[General Utilities ](/docs/transformers/en/internal/file_utils)[Utilities for Time Series ](/docs/transformers/en/internal/time_series_utils)
+
+![Hugging Face's logo](/front/assets/huggingface_logo-noborder.svg)
+
+Join the Hugging Face community
+
+and get access to the augmented documentation experience 
+
+Collaborate on models, datasets and Spaces 
+
+Faster examples with accelerated inference 
+
+Switch between documentation themes 
+
+[Sign Up](/join)
+
+to get started
+
+# [](#using-pipelines-for-a-webserver) Using pipelines for a webserver
+
+Creating an inference engine is a complex topic, and the "best" solution will most likely depend on your problem space. Are you on CPU or GPU? Do you want the lowest latency, the highest throughput, support for many models, or just highly optimize 1 specific model? There are many ways to tackle this topic, so what we are going to present is a good default to get started which may not necessarily be the most optimal solution for you.
+
+The key thing to understand is that we can use an iterator, just like you would [on a dataset](pipeline_tutorial#using-pipelines-on-a-dataset), since a webserver is basically a system that waits for requests and treats them as they come in.
+
+Usually webservers are multiplexed (multithreaded, async, etc..) to handle various requests concurrently. Pipelines on the other hand (and mostly the underlying models) are not really great for parallelism; they take up a lot of RAM, so it’s best to give them all the available resources when they are running or it’s a compute-intensive job.
+
+We are going to solve that by having the webserver handle the light load of receiving and sending requests, and having a single thread handling the actual work. This example is going to use `starlette`. The actual framework is not really important, but you might have to tune or change the code if you are using another one to achieve the same effect.
+
+Create `server.py`:
+
+Copied
+
+```
+from starlette.applications import Starlette from starlette.responses import JSONResponse from starlette.routing import Route from transformers import pipeline import asyncio async def homepage(request): payload = await request.body() string = payload.decode("utf-8") response_q = asyncio.Queue() await request.app.model_queue.put((string, response_q)) output = await response_q.get() return JSONResponse(output) async def server_loop(q): pipe = pipeline(model="google-bert/bert-base-uncased") while True: (string, response_q) = await q.get() out = pipe(string) await response_q.put(out) app = Starlette( routes=[ Route("/", homepage, methods=["POST"]), ], ) @app.on_event("startup") async def startup_event(): q = asyncio.Queue() app.model_queue = q asyncio.create_task(server_loop(q))
+```
+
+Now you can start it with:
+
+Copied
+
+```
+uvicorn server:app
+```
+
+And you can query it:
+
+Copied
+
+```
+curl -X POST -d "test [MASK]" http://localhost:8000/ #[{"score":0.7742936015129089,"token":1012,"token_str":".","sequence":"test."},...]
+```
+
+And there you go, now you have a good idea of how to create a webserver!
+
+What is really important is that we load the model only **once** , so there are no copies of the model on the webserver. This way, no unnecessary RAM is being used. Then the queuing mechanism allows you to do fancy stuff like maybe accumulating a few items before inferring to use dynamic batching:
+
+The code sample below is intentionally written like pseudo-code for readability. Do not run this without checking if it makes sense for your system resources!
+
+Copied
+
+```
+(string, rq) = await q.get() strings = [] queues = [] while True: try: (string, rq) = await asyncio.wait_for(q.get(), timeout=0.001) # 1ms except asyncio.exceptions.TimeoutError: break strings.append(string) queues.append(rq) strings outs = pipe(strings, batch_size=len(strings)) for rq, out in zip(queues, outs): await rq.put(out)
+```
+
+Again, the proposed code is optimized for readability, not for being the best code. First of all, there’s no batch size limit which is usually not a great idea. Next, the timeout is reset on every queue fetch, meaning you could wait much more than 1ms before running the inference (delaying the first request by that much).
+
+It would be better to have a single 1ms deadline.
+
+This will always wait for 1ms even if the queue is empty, which might not be the best since you probably want to start doing inference if there’s nothing in the queue. But maybe it does make sense if batching is really crucial for your use case. Again, there’s really no one best solution.
+
+## [](#few-things-you-might-want-to-consider) Few things you might want to consider
+
+### [](#error-checking) Error checking
+
+There’s a lot that can go wrong in production: out of memory, out of space, loading the model might fail, the query might be wrong, the query might be correct but still fail to run because of a model misconfiguration, and so on.
+
+Generally, it’s good if the server outputs the errors to the user, so adding a lot of `try..except` statements to show those errors is a good idea. But keep in mind it may also be a security risk to reveal all those errors depending on your security context.
+
+### [](#circuit-breaking) Circuit breaking
+
+Webservers usually look better when they do circuit breaking. It means they return proper errors when they’re overloaded instead of just waiting for the query indefinitely. Return a 503 error instead of waiting for a super long time or a 504 after a long time.
+
+This is relatively easy to implement in the proposed code since there is a single queue. Looking at the queue size is a basic way to start returning errors before your webserver fails under load.
+
+### [](#blocking-the-main-thread) Blocking the main thread
+
+Currently PyTorch is not async aware, and computation will block the main thread while running. That means it would be better if PyTorch was forced to run on its own thread/process. This wasn’t done here because the code is a lot more complex (mostly because threads and async and queues don’t play nice together). But ultimately it does the same thing.
+
+This would be important if the inference of single items were long (> 1s) because in this case, it means every query during inference would have to wait for 1s before even receiving an error.
+
+### [](#dynamic-batching) Dynamic batching
+
+In general, batching is not necessarily an improvement over passing 1 item at a time (see [batching details](./main_classes/pipelines#pipeline-batching) for more information). But it can be very effective when used in the correct setting. In the API, there is no dynamic batching by default (too much opportunity for a slowdown). But for BLOOM inference - which is a very large model - dynamic batching is **essential** to provide a decent experience for everyone.
+
+[< > Update on GitHub](https://github.com/huggingface/transformers/blob/main/docs/source/en/pipeline_webserver.md)
+
+[←Perplexity of fixed-length models](/docs/transformers/en/perplexity) [Model training anatomy→](/docs/transformers/en/model_memory_anatomy)
+
+[Using pipelines for a webserver](#using-pipelines-for-a-webserver) [Few things you might want to consider](#few-things-you-might-want-to-consider) [Error checking](#error-checking) [Circuit breaking](#circuit-breaking) [Blocking the main thread](#blocking-the-main-thread) [Dynamic batching](#dynamic-batching)

@@ -1,0 +1,42 @@
+{
+    "id": "06cabf30ba9ec4bd2befc3b1c9acaf8a",
+    "metadata": {
+        "id": "06cabf30ba9ec4bd2befc3b1c9acaf8a",
+        "url": "https://www.rondb.com/",
+        "title": "RonDB - World's fastest Key-Value Store",
+        "properties": {
+            "description": "The most advanced distribution system of NDB Cluster, by Mikael Ronström the inventor of NDB Cluster; made to work for the most advanced ML applications.",
+            "keywords": null,
+            "author": null,
+            "og:title": "RonDB - World's fastest Key-Value Store",
+            "og:description": "The most advanced distribution system of NDB Cluster, by Mikael Ronström the inventor of NDB Cluster; made to work for the most advanced ML applications.",
+            "og:image": "https://cdn.prod.website-files.com/6013cab68382f702f5481fa8/6036472039e68c87bc56073b_graph_ron.png",
+            "og:type": "website",
+            "twitter:card": "summary_large_image"
+        }
+    },
+    "parent_metadata": {
+        "id": "acf9fba7c9b0ce61cffde4d1ddff189d",
+        "url": "https://www.notion.so/Databases-acf9fba7c9b0ce61cffde4d1ddff189d",
+        "title": "📙 Databases",
+        "properties": {
+            "Type": "Node"
+        }
+    },
+    "content": "![](https://cdn.prod.website-files.com/6013cab68382f702f5481fa8/6013cab6837af23632f1fe1c_menu-icon.png)\n\n[](/)\n\n[About](/about)[Github](https://github.com/logicalclocks/rondb)[Blog](/blog)[Benchmark](/benchmark-rondb-the-fastest-key-value-store-on-the-cloud)\n\nResources\n\n[Community](https://community.rondb.com/)[Downloads](/downloads)[Docs](https://docs.rondb.com/)[Bugs](https://github.com/logicalclocks/rondb/issues)\n\n[Contact](#)\n\nThe world's **fastest** **key value store** is now in the cloud.\n\nPowering the world's most advanced and fastest feature store; [Hopsworks](https://www.hopsworks.ai/the-python-centric-feature-store?utm_source=internal&utm_medium=rondb&utm_id=backlink)\n\n**RonDB** as a managed version provides advanced technology with a user friendly interface. You can launch a cluster in less than a minute. Scales to **hundreds of million of operations per second**. There are no other existing managed databases available today that can do this.\n\n## **Scale-Out**\n\nScales linearly with mores CPUs on a single host and/or scale-out by adding new data nodes.\n\n## **Battle tested**\n\nAn open-source distribution of NDB Cluster by Mikael Ronström, the inventor of NDB Cluster. \n\n## **Fastest**\n\nThroughput of up to hundreds of millions of read or write ops/seconds and <1ms latency for individual operations.\n\n## **SQL Support**\n\nAccess using the MySQL Server API for full compatibility with SQL. Native support for parallelizing queries.\n\n![LATS diagram](https://cdn.prod.website-files.com/6013cab68382f702f5481fa8/6034ee493af24635ef60fb45_venn-04.png)\n\n## **The first LATS databasein the cloud.**\n\nRonDB has dedicated support for features required for a high performance online feature store, including **LATS** : low **L** atency, high **A** vailability, high **T** hroughput, scalable **S** torage. RonDB is built with online feature stores in mind providing key capabilities that are unmatched.‍**< 1ms KV lookup>10M KV Lookups/sec>99.999% availability **\n\n[Learn More](/about)\n\n## Contact us\n\n[![Logical Clocks Icon](https://cdn.prod.website-files.com/6013cab68382f702f5481fa8/621f2cc6b7c4660b4ec3c146_Hopsworks%20Icon%20White%20.png)](https://www.hopsworks.ai/)\n\nPowered by Hopsworks © RonDB 2024. All rights reserved \n",
+    "content_quality_score": 0.6,
+    "summary": null,
+    "child_urls": [
+        "https://www.rondb.com/",
+        "https://www.rondb.com/about",
+        "https://www.rondb.com/blog",
+        "https://www.rondb.com/benchmark-rondb-the-fastest-key-value-store-on-the-cloud",
+        "https://www.rondb.com/downloads",
+        "https://github.com/logicalclocks/rondb",
+        "https://community.rondb.com/",
+        "https://docs.rondb.com/",
+        "https://github.com/logicalclocks/rondb/issues",
+        "https://www.hopsworks.ai/the-python-centric-feature-store?utm_source=internal&utm_medium=rondb&utm_id=backlink",
+        "https://www.hopsworks.ai/"
+    ]
+}

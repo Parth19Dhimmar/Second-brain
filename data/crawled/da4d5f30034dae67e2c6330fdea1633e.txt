@@ -1,0 +1,512 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Flangchain-ai%2Flanggraph%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Flangchain-ai%2Flanggraph%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=langchain-ai%2Flanggraph) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ langchain-ai ](/langchain-ai) / **[langgraph](/langchain-ai/langgraph) ** Public
+
+  * [ Notifications ](/login?return_to=%2Flangchain-ai%2Flanggraph) You must be signed in to change notification settings
+  * [ Fork 1.3k ](/login?return_to=%2Flangchain-ai%2Flanggraph)
+  * [ Star  8.3k ](/login?return_to=%2Flangchain-ai%2Flanggraph)
+
+
+
+
+Build resilient language agents as graphs. 
+
+[langchain-ai.github.io/langgraph/](https://langchain-ai.github.io/langgraph/ "https://langchain-ai.github.io/langgraph/")
+
+### License
+
+[ MIT license ](/langchain-ai/langgraph/blob/main/LICENSE)
+
+[ 8.3k stars ](/langchain-ai/langgraph/stargazers) [ 1.3k forks ](/langchain-ai/langgraph/forks) [ Branches ](/langchain-ai/langgraph/branches) [ Tags ](/langchain-ai/langgraph/tags) [ Activity ](/langchain-ai/langgraph/activity)
+
+[ Star  ](/login?return_to=%2Flangchain-ai%2Flanggraph)
+
+[ Notifications ](/login?return_to=%2Flangchain-ai%2Flanggraph) You must be signed in to change notification settings
+
+  * [ Code ](/langchain-ai/langgraph)
+  * [ Issues 58 ](/langchain-ai/langgraph/issues)
+  * [ Pull requests 36 ](/langchain-ai/langgraph/pulls)
+  * [ Discussions ](/langchain-ai/langgraph/discussions)
+  * [ Actions ](/langchain-ai/langgraph/actions)
+  * [ Projects 1 ](/langchain-ai/langgraph/projects)
+  * [ Security ](/langchain-ai/langgraph/security)
+  * [ Insights ](/langchain-ai/langgraph/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/langchain-ai/langgraph)
+  * [ Issues  ](/langchain-ai/langgraph/issues)
+  * [ Pull requests  ](/langchain-ai/langgraph/pulls)
+  * [ Discussions  ](/langchain-ai/langgraph/discussions)
+  * [ Actions  ](/langchain-ai/langgraph/actions)
+  * [ Projects  ](/langchain-ai/langgraph/projects)
+  * [ Security  ](/langchain-ai/langgraph/security)
+  * [ Insights  ](/langchain-ai/langgraph/pulse)
+
+
+
+# langchain-ai/langgraph
+
+main
+
+[**102** Branches](/langchain-ai/langgraph/branches)[**208** Tags](/langchain-ai/langgraph/tags)
+
+[](/langchain-ai/langgraph/branches)[](/langchain-ai/langgraph/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![vbarda](https://avatars.githubusercontent.com/u/19161700?v=4&size=40)](/vbarda)[vbarda](/langchain-ai/langgraph/commits?author=vbarda)[docs: add missing api key to cross-thread persistence howto (](/langchain-ai/langgraph/commit/44840aa23f05edb9758eb63d5cbbef89438b26f7)[#3141](https://github.com/langchain-ai/langgraph/pull/3141)[)](/langchain-ai/langgraph/commit/44840aa23f05edb9758eb63d5cbbef89438b26f7)Jan 22, 2025[44840aa](/langchain-ai/langgraph/commit/44840aa23f05edb9758eb63d5cbbef89438b26f7) · Jan 22, 2025
+
+## History
+
+[3,921 Commits](/langchain-ai/langgraph/commits/main/)[](/langchain-ai/langgraph/commits/main/)  
+[.github](/langchain-ai/langgraph/tree/main/.github ".github")| [.github](/langchain-ai/langgraph/tree/main/.github ".github")| [ci: pin codespell (](/langchain-ai/langgraph/commit/51242e2a325f809ee3ea0f938158803911e32b57 "ci: pin codespell \(#3140\)")[#3140](https://github.com/langchain-ai/langgraph/pull/3140)[)](/langchain-ai/langgraph/commit/51242e2a325f809ee3ea0f938158803911e32b57 "ci: pin codespell \(#3140\)")| Jan 22, 2025  
+[docs](/langchain-ai/langgraph/tree/main/docs "docs")| [docs](/langchain-ai/langgraph/tree/main/docs "docs")| [docs: add missing api key to cross-thread persistence howto (](/langchain-ai/langgraph/commit/44840aa23f05edb9758eb63d5cbbef89438b26f7 "docs: add missing api key to cross-thread persistence howto \(#3141\)")[#3141](https://github.com/langchain-ai/langgraph/pull/3141)[)](/langchain-ai/langgraph/commit/44840aa23f05edb9758eb63d5cbbef89438b26f7 "docs: add missing api key to cross-thread persistence howto \(#3141\)")| Jan 22, 2025  
+[examples](/langchain-ai/langgraph/tree/main/examples "examples")| [examples](/langchain-ai/langgraph/tree/main/examples "examples")| [docs: remove example with missing link (](/langchain-ai/langgraph/commit/d1c29fc8be4dc12abe69b5910842972e6ab1d59c "docs: remove example with missing link \(#2099\)")[#2099](https://github.com/langchain-ai/langgraph/pull/2099)[)](/langchain-ai/langgraph/commit/d1c29fc8be4dc12abe69b5910842972e6ab1d59c "docs: remove example with missing link \(#2099\)")| Oct 14, 2024  
+[libs](/langchain-ai/langgraph/tree/main/libs "libs")| [libs](/langchain-ai/langgraph/tree/main/libs "libs")| [Disable recursing on runnables for task/entrypoint decorated funcs](/langchain-ai/langgraph/commit/12ae29719493e7e0ed63f6bfa79870a725f30fb3 "Disable recursing on runnables for task/entrypoint decorated funcs")| Jan 22, 2025  
+[.gitignore](/langchain-ai/langgraph/blob/main/.gitignore ".gitignore")| [.gitignore](/langchain-ai/langgraph/blob/main/.gitignore ".gitignore")| [Add benchmark/profile commands](/langchain-ai/langgraph/commit/f577529356f6a19dfcac09e7c1851d3c7d9b6fd0 "Add benchmark/profile commands")| Sep 11, 2024  
+[.markdown-link-check.config.json](/langchain-ai/langgraph/blob/main/.markdown-link-check.config.json ".markdown-link-check.config.json")| [.markdown-link-check.config.json](/langchain-ai/langgraph/blob/main/.markdown-link-check.config.json ".markdown-link-check.config.json")| [Use create_react_agent (](/langchain-ai/langgraph/commit/2c32a38c4206ae029df1ba308617846ad52ba0bb "Use create_react_agent \(#441\)")[#441](https://github.com/langchain-ai/langgraph/pull/441)[)](/langchain-ai/langgraph/commit/2c32a38c4206ae029df1ba308617846ad52ba0bb "Use create_react_agent \(#441\)")| May 14, 2024  
+[CONTRIBUTING.md](/langchain-ai/langgraph/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/langchain-ai/langgraph/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [fix(docs): Small nits & typo fixes](/langchain-ai/langgraph/commit/9d755f54e4609121720c79de51520e069a081f67 "fix\(docs\): Small nits & typo fixes")| Dec 3, 2024  
+[LICENSE](/langchain-ai/langgraph/blob/main/LICENSE "LICENSE")| [LICENSE](/langchain-ai/langgraph/blob/main/LICENSE "LICENSE")| [libs: add cli, sdk-py, sdk-js and move core langgraph](/langchain-ai/langgraph/commit/1a06d500d4282cfdb2ae9d7748bb570e8162acdf "libs: add cli, sdk-py, sdk-js and move core langgraph")| Jun 18, 2024  
+[Makefile](/langchain-ai/langgraph/blob/main/Makefile "Makefile")| [Makefile](/langchain-ai/langgraph/blob/main/Makefile "Makefile")| [Update wording](/langchain-ai/langgraph/commit/b6c3a0d0fddd9e71934619ec2c2f322629b72f26 "Update wording")| Dec 17, 2024  
+[README.md](/langchain-ai/langgraph/blob/main/README.md "README.md")| [README.md](/langchain-ai/langgraph/blob/main/README.md "README.md")| [add hyperlink](/langchain-ai/langgraph/commit/ee61d06f8dc8404ea6de960c2e19e9908924c62f "add hyperlink")| Jan 21, 2025  
+[poetry.lock](/langchain-ai/langgraph/blob/main/poetry.lock "poetry.lock")| [poetry.lock](/langchain-ai/langgraph/blob/main/poetry.lock "poetry.lock")| [ci: fix docs runner (](/langchain-ai/langgraph/commit/4c0f8553292cbcc245f0daaa5b1825e829d5e6c9 "ci: fix docs runner \(#3010\)")[#3010](https://github.com/langchain-ai/langgraph/pull/3010)[)](/langchain-ai/langgraph/commit/4c0f8553292cbcc245f0daaa5b1825e829d5e6c9 "ci: fix docs runner \(#3010\)")| Jan 14, 2025  
+[pyproject.toml](/langchain-ai/langgraph/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/langchain-ai/langgraph/blob/main/pyproject.toml "pyproject.toml")| [ci: fix docs runner (](/langchain-ai/langgraph/commit/4c0f8553292cbcc245f0daaa5b1825e829d5e6c9 "ci: fix docs runner \(#3010\)")[#3010](https://github.com/langchain-ai/langgraph/pull/3010)[)](/langchain-ai/langgraph/commit/4c0f8553292cbcc245f0daaa5b1825e829d5e6c9 "ci: fix docs runner \(#3010\)")| Jan 14, 2025  
+[security.md](/langchain-ai/langgraph/blob/main/security.md "security.md")| [security.md](/langchain-ai/langgraph/blob/main/security.md "security.md")| [x (](/langchain-ai/langgraph/commit/76b6394e7f7b3af10bc054e09715a6da1aa9968a "x \(#210\)")[#210](https://github.com/langchain-ai/langgraph/pull/210)[)](/langchain-ai/langgraph/commit/76b6394e7f7b3af10bc054e09715a6da1aa9968a "x \(#210\)")| Mar 15, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+# 🦜🕸️LangGraph
+
+[](#️langgraph)
+
+[![Version](https://camo.githubusercontent.com/291f325393c3f62d28da44bb7c1d9f659e260a36e8b8f1b5b8d79b1aec5ee2f9/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f6c616e676772617068)](https://camo.githubusercontent.com/291f325393c3f62d28da44bb7c1d9f659e260a36e8b8f1b5b8d79b1aec5ee2f9/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f6c616e676772617068) [![Downloads](https://camo.githubusercontent.com/2889feb475ba0094698bdf82a0908a837c1da48ce3ff83a0c9133811b68be8d6/68747470733a2f2f7374617469632e706570792e746563682f62616467652f6c616e6767726170682f6d6f6e7468)](https://pepy.tech/project/langgraph) [![Open Issues](https://camo.githubusercontent.com/5c13e9a7e2e21ad5dcf19f3be58e4b34485296e00539a1a93aec1d0896b2bd0f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d7261772f6c616e67636861696e2d61692f6c616e676772617068)](https://github.com/langchain-ai/langgraph/issues) [![Docs](https://camo.githubusercontent.com/1a5daa2002aae52e28b869f1907ff99534f4cd34dc7753ddebf2caa26ffb7820/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d6c61746573742d626c7565)](https://langchain-ai.github.io/langgraph/)
+
+⚡ Building language agents as graphs ⚡
+
+Note
+
+Looking for the JS version? See the [JS repo](https://github.com/langchain-ai/langgraphjs) and the [JS docs](https://langchain-ai.github.io/langgraphjs/).
+
+## Overview
+
+[](#overview)
+
+[LangGraph](https://langchain-ai.github.io/langgraph/) is a library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. Check out an introductory tutorial [here](https://langchain-ai.github.io/langgraph/tutorials/introduction/).
+
+LangGraph is inspired by [Pregel](https://research.google/pubs/pub37252/) and [Apache Beam](https://beam.apache.org/). The public interface draws inspiration from [NetworkX](https://networkx.org/documentation/latest/). LangGraph is built by LangChain Inc, the creators of LangChain, but can be used without LangChain.
+
+### Why use LangGraph?
+
+[](#why-use-langgraph)
+
+LangGraph provides fine-grained control over both the flow and state of your agent applications. It implements a central [persistence layer](https://langchain-ai.github.io/langgraph/concepts/persistence/), enabling features that are common to most agent architectures:
+
+  * **Memory** : LangGraph persists arbitrary aspects of your application's state, supporting memory of conversations and other updates within and across user interactions;
+  * **Human-in-the-loop** : Because state is checkpointed, execution can be interrupted and resumed, allowing for decisions, validation, and corrections at key stages via human input.
+
+
+
+Standardizing these components allows individuals and teams to focus on the behavior of their agent, instead of its supporting infrastructure.
+
+Through [LangGraph Platform](#langgraph-platform), LangGraph also provides tooling for the development, deployment, debugging, and monitoring of your applications.
+
+LangGraph integrates seamlessly with [LangChain](https://python.langchain.com/docs/introduction/) and [LangSmith](https://docs.smith.langchain.com/) (but does not require them).
+
+To learn more about LangGraph, check out our first LangChain Academy course, _Introduction to LangGraph_ , available for free [here](https://academy.langchain.com/courses/intro-to-langgraph).
+
+### LangGraph Platform
+
+[](#langgraph-platform)
+
+[LangGraph Platform](https://langchain-ai.github.io/langgraph/concepts/langgraph_platform) is infrastructure for deploying LangGraph agents. It is a commercial solution for deploying agentic applications to production, built on the open-source LangGraph framework. The LangGraph Platform consists of several components that work together to support the development, deployment, debugging, and monitoring of LangGraph applications: [LangGraph Server](https://langchain-ai.github.io/langgraph/concepts/langgraph_server) (APIs), [LangGraph SDKs](https://langchain-ai.github.io/langgraph/concepts/sdk) (clients for the APIs), [LangGraph CLI](https://langchain-ai.github.io/langgraph/concepts/langgraph_cli) (command line tool for building the server), and [LangGraph Studio](https://langchain-ai.github.io/langgraph/concepts/langgraph_studio) (UI/debugger).
+
+See deployment options [here](https://langchain-ai.github.io/langgraph/concepts/deployment_options/) (includes a free tier).
+
+Here are some common issues that arise in complex deployments, which LangGraph Platform addresses:
+
+  * **Streaming support** : LangGraph Server provides [multiple streaming modes](https://langchain-ai.github.io/langgraph/concepts/streaming) optimized for various application needs
+  * **Background runs** : Runs agents asynchronously in the background
+  * **Support for long running agents** : Infrastructure that can handle long running processes
+  * **[Double texting](https://langchain-ai.github.io/langgraph/concepts/double_texting)** : Handle the case where you get two messages from the user before the agent can respond
+  * **Handle burstiness** : Task queue for ensuring requests are handled consistently without loss, even under heavy loads
+
+
+
+## Installation
+
+[](#installation)
+
+```
+pip install -U langgraph
+```
+
+## Example
+
+[](#example)
+
+Let's build a tool-calling [ReAct-style](https://langchain-ai.github.io/langgraph/concepts/agentic_concepts/#react-implementation) agent that uses a search tool!
+
+```
+pip install langchain-anthropic
+```
+
+```
+export ANTHROPIC_API_KEY=sk-...
+```
+
+Optionally, we can set up [LangSmith](https://docs.smith.langchain.com/) for best-in-class observability.
+
+```
+export LANGSMITH_TRACING=true export LANGSMITH_API_KEY=lsv2_sk_...
+```
+
+The simplest way to create a tool-calling agent in LangGraph is to use `create_react_agent`:
+
+High-level implementation
+
+```
+from langgraph.prebuilt import create_react_agent from langgraph.checkpoint.memory import MemorySaver from langchain_anthropic import ChatAnthropic from langchain_core.tools import tool # Define the tools for the agent to use @tool def search(query: str): """Call to surf the web.""" # This is a placeholder, but don't tell the LLM that... if "sf" in query.lower() or "san francisco" in query.lower(): return "It's 60 degrees and foggy." return "It's 90 degrees and sunny." tools = [search] model = ChatAnthropic(model="claude-3-5-sonnet-latest", temperature=0) # Initialize memory to persist state between graph runs checkpointer = MemorySaver() app = create_react_agent(model, tools, checkpointer=checkpointer) # Use the agent final_state = app.invoke( {"messages": [{"role": "user", "content": "what is the weather in sf"}]}, config={"configurable": {"thread_id": 42}} ) final_state["messages"][-1].content
+```
+
+```
+`"Based on the search results, I can tell you that the current weather in San Francisco is:\n\nTemperature: 60 degrees Fahrenheit\nConditions: Foggy\n\nSan Francisco is known for its microclimates and frequent fog, especially during the summer months. The temperature of 60°F (about 15.5°C) is quite typical for the city, which tends to have mild temperatures year-round. The fog, often referred to as "Karl the Fog" by locals, is a characteristic feature of San Francisco\'s weather, particularly in the mornings and evenings.\n\nIs there anything else you\'d like to know about the weather in San Francisco or any other location?" `
+```
+
+Now when we pass the same `"thread_id"`, the conversation context is retained via the saved state (i.e. stored list of messages)
+
+```
+final_state = app.invoke( {"messages": [{"role": "user", "content": "what about ny"}]}, config={"configurable": {"thread_id": 42}} ) final_state["messages"][-1].content
+```
+
+```
+`"Based on the search results, I can tell you that the current weather in New York City is:\n\nTemperature: 90 degrees Fahrenheit (approximately 32.2 degrees Celsius)\nConditions: Sunny\n\nThis weather is quite different from what we just saw in San Francisco. New York is experiencing much warmer temperatures right now. Here are a few points to note:\n\n1. The temperature of 90°F is quite hot, typical of summer weather in New York City.\n2. The sunny conditions suggest clear skies, which is great for outdoor activities but also means it might feel even hotter due to direct sunlight.\n3. This kind of weather in New York often comes with high humidity, which can make it feel even warmer than the actual temperature suggests.\n\nIt's interesting to see the stark contrast between San Francisco's mild, foggy weather and New York's hot, sunny conditions. This difference illustrates how varied weather can be across different parts of the United States, even on the same day.\n\nIs there anything else you'd like to know about the weather in New York or any other location?" `
+```
+
+Tip
+
+LangGraph is a **low-level** framework that allows you to implement any custom agent architectures. Click on the low-level implementation below to see how to implement a tool-calling agent from scratch.
+
+Low-level implementation
+
+```
+from typing import Literal from langchain_anthropic import ChatAnthropic from langchain_core.tools import tool from langgraph.checkpoint.memory import MemorySaver from langgraph.graph import END, START, StateGraph, MessagesState from langgraph.prebuilt import ToolNode # Define the tools for the agent to use @tool def search(query: str): """Call to surf the web.""" # This is a placeholder, but don't tell the LLM that... if "sf" in query.lower() or "san francisco" in query.lower(): return "It's 60 degrees and foggy." return "It's 90 degrees and sunny." tools = [search] tool_node = ToolNode(tools) model = ChatAnthropic(model="claude-3-5-sonnet-latest", temperature=0).bind_tools(tools) # Define the function that determines whether to continue or not def should_continue(state: MessagesState) -> Literal["tools", END]: messages = state['messages'] last_message = messages[-1] # If the LLM makes a tool call, then we route to the "tools" node if last_message.tool_calls: return "tools" # Otherwise, we stop (reply to the user) return END # Define the function that calls the model def call_model(state: MessagesState): messages = state['messages'] response = model.invoke(messages) # We return a list, because this will get added to the existing list return {"messages": [response]} # Define a new graph workflow = StateGraph(MessagesState) # Define the two nodes we will cycle between workflow.add_node("agent", call_model) workflow.add_node("tools", tool_node) # Set the entrypoint as `agent` # This means that this node is the first one called workflow.add_edge(START, "agent") # We now add a conditional edge workflow.add_conditional_edges( # First, we define the start node. We use `agent`. # This means these are the edges taken after the `agent` node is called. "agent", # Next, we pass in the function that will determine which node is called next. should_continue, ) # We now add a normal edge from `tools` to `agent`. # This means that after `tools` is called, `agent` node is called next. workflow.add_edge("tools", 'agent') # Initialize memory to persist state between graph runs checkpointer = MemorySaver() # Finally, we compile it! # This compiles it into a LangChain Runnable, # meaning you can use it as you would any other runnable. # Note that we're (optionally) passing the memory when compiling the graph app = workflow.compile(checkpointer=checkpointer) # Use the agent final_state = app.invoke( {"messages": [{"role": "user", "content": "what is the weather in sf"}]}, config={"configurable": {"thread_id": 42}} ) final_state["messages"][-1].content
+```
+
+**Step-by-step Breakdown** :
+
+Initialize the model and tools.
+
+  * We use `ChatAnthropic` as our LLM. **NOTE:** we need to make sure the model knows that it has these tools available to call. We can do this by converting the LangChain tools into the format for OpenAI tool calling using the `.bind_tools()` method. 
+  * We define the tools we want to use - a search tool in our case. It is really easy to create your own tools - see documentation here on how to do that [here](https://python.langchain.com/docs/modules/agents/tools/custom_tools). 
+
+Initialize graph with state.
+
+  * We initialize graph (`StateGraph`) by passing state schema (in our case `MessagesState`)
+  * `MessagesState` is a prebuilt state schema that has one attribute -- a list of LangChain `Message` objects, as well as logic for merging the updates from each node into the state.
+
+Define graph nodes.
+
+There are two main nodes we need:
+
+  * The `agent` node: responsible for deciding what (if any) actions to take.
+  * The `tools` node that invokes tools: if the agent decides to take an action, this node will then execute that action.
+
+Define entry point and graph edges.
+
+First, we need to set the entry point for graph execution - `agent` node.
+
+Then we define one normal and one conditional edge. Conditional edge means that the destination depends on the contents of the graph's state (`MessagesState`). In our case, the destination is not known until the agent (LLM) decides.
+
+  * Conditional edge: after the agent is called, we should either: 
+    * a. Run tools if the agent said to take an action, OR
+    * b. Finish (respond to the user) if the agent did not ask to run tools
+  * Normal edge: after the tools are invoked, the graph should always return to the agent to decide what to do next
+
+Compile the graph.
+
+  * When we compile the graph, we turn it into a LangChain [Runnable](https://python.langchain.com/v0.2/docs/concepts/#runnable-interface), which automatically enables calling `.invoke()`, `.stream()` and `.batch()` with your inputs 
+  * We can also optionally pass checkpointer object for persisting state between graph runs, and enabling memory, human-in-the-loop workflows, time travel and more. In our case we use `MemorySaver` - a simple in-memory checkpointer 
+
+Execute the graph.
+
+  1. LangGraph adds the input message to the internal state, then passes the state to the entrypoint node, `"agent"`.
+  2. The `"agent"` node executes, invoking the chat model.
+  3. The chat model returns an `AIMessage`. LangGraph adds this to the state.
+  4. Graph cycles the following steps until there are no more `tool_calls` on `AIMessage`: 
+     * If `AIMessage` has `tool_calls`, `"tools"` node executes
+     * The `"agent"` node executes again and returns `AIMessage`
+  5. Execution progresses to the special `END` value and outputs the final state. And as a result, we get a list of all our chat messages as output.
+
+
+
+## Documentation
+
+[](#documentation)
+
+  * [Tutorials](https://langchain-ai.github.io/langgraph/tutorials/): Learn to build with LangGraph through guided examples.
+  * [How-to Guides](https://langchain-ai.github.io/langgraph/how-tos/): Accomplish specific things within LangGraph, from streaming, to adding memory & persistence, to common design patterns (branching, subgraphs, etc.), these are the place to go if you want to copy and run a specific code snippet.
+  * [Conceptual Guides](https://langchain-ai.github.io/langgraph/concepts/high_level/): In-depth explanations of the key concepts and principles behind LangGraph, such as nodes, edges, state and more.
+  * [API Reference](https://langchain-ai.github.io/langgraph/reference/graphs/): Review important classes and methods, simple examples of how to use the graph and checkpointing APIs, higher-level prebuilt components and more.
+  * [LangGraph Platform](https://langchain-ai.github.io/langgraph/concepts/#langgraph-platform): LangGraph Platform is a commercial solution for deploying agentic applications in production, built on the open-source LangGraph framework.
+
+
+
+## Contributing
+
+[](#contributing)
+
+For more information on how to contribute, see [here](https://github.com/langchain-ai/langgraph/blob/main/CONTRIBUTING.md).
+
+## About
+
+Build resilient language agents as graphs. 
+
+[langchain-ai.github.io/langgraph/](https://langchain-ai.github.io/langgraph/ "https://langchain-ai.github.io/langgraph/")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/langchain-ai/langgraph/activity)
+
+[ Custom properties](/langchain-ai/langgraph/custom-properties)
+
+### Stars
+
+[ **8.3k** stars](/langchain-ai/langgraph/stargazers)
+
+### Watchers
+
+[ **68** watching](/langchain-ai/langgraph/watchers)
+
+### Forks
+
+[ **1.3k** forks](/langchain-ai/langgraph/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Flangchain-ai%2Flanggraph&report=langchain-ai+%28user%29)
+
+##  [Releases 200](/langchain-ai/langgraph/releases)
+
+[ 0.2.66 Latest  Jan 21, 2025 ](/langchain-ai/langgraph/releases/tag/0.2.66)
+
+[+ 199 releases](/langchain-ai/langgraph/releases)
+
+##  [Packages 0](/orgs/langchain-ai/packages?repo_name=langgraph)
+
+No packages published 
+
+##  [Used by 9.9k](/langchain-ai/langgraph/network/dependents)
+
+[
+
+  * ![@Ash2809](https://avatars.githubusercontent.com/u/128780437?s=64&v=4)
+  * ![@couchbaselabs](https://avatars.githubusercontent.com/u/636956?s=64&v=4)
+  * ![@LangGraph-GUI](https://avatars.githubusercontent.com/u/173017689?s=64&v=4)
+  * ![@plon-Susk7](https://avatars.githubusercontent.com/u/89684873?s=64&v=4)
+  * ![@TATA-IQ](https://avatars.githubusercontent.com/u/133328746?s=64&v=4)
+  * ![@SBDI](https://avatars.githubusercontent.com/u/56833115?s=64&v=4)
+  * ![@tanzeel0](https://avatars.githubusercontent.com/u/93648765?s=64&v=4)
+  * ![@vijayakanth06](https://avatars.githubusercontent.com/u/172112022?s=64&v=4)
+
++ 9,936  ](/langchain-ai/langgraph/network/dependents)
+
+##  [Contributors 122](/langchain-ai/langgraph/graphs/contributors)
+
+  * [ ![@nfcampos](https://avatars.githubusercontent.com/u/56902?s=64&v=4) ](https://github.com/nfcampos)
+  * [ ![@vbarda](https://avatars.githubusercontent.com/u/19161700?s=64&v=4) ](https://github.com/vbarda)
+  * [ ![@hinthornw](https://avatars.githubusercontent.com/u/13333726?s=64&v=4) ](https://github.com/hinthornw)
+  * [ ![@eyurtsev](https://avatars.githubusercontent.com/u/3205522?s=64&v=4) ](https://github.com/eyurtsev)
+  * [ ![@dqbd](https://avatars.githubusercontent.com/u/1443449?s=64&v=4) ](https://github.com/dqbd)
+  * [ ![@hwchase17](https://avatars.githubusercontent.com/u/11986836?s=64&v=4) ](https://github.com/hwchase17)
+  * [ ![@isahers1](https://avatars.githubusercontent.com/u/78627776?s=64&v=4) ](https://github.com/isahers1)
+  * [ ![@andrewnguonly](https://avatars.githubusercontent.com/u/7654246?s=64&v=4) ](https://github.com/andrewnguonly)
+  * [ ![@rlancemartin](https://avatars.githubusercontent.com/u/122662504?s=64&v=4) ](https://github.com/rlancemartin)
+  * [ ![@ccurme](https://avatars.githubusercontent.com/u/26529506?s=64&v=4) ](https://github.com/ccurme)
+  * [ ![@bracesproul](https://avatars.githubusercontent.com/u/46789226?s=64&v=4) ](https://github.com/bracesproul)
+  * [ ![@jacoblee93](https://avatars.githubusercontent.com/u/6952323?s=64&v=4) ](https://github.com/jacoblee93)
+  * [ ![@baskaryan](https://avatars.githubusercontent.com/u/22008038?s=64&v=4) ](https://github.com/baskaryan)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+
+
+
+[+ 108 contributors](/langchain-ai/langgraph/graphs/contributors)
+
+## Languages
+
+  * [ Python 96.7% ](/langchain-ai/langgraph/search?l=python)
+  * [ TypeScript 2.7% ](/langchain-ai/langgraph/search?l=typescript)
+  * Other 0.6%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

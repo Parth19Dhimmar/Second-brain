@@ -1,0 +1,27 @@
+{
+    "id": "bdd0cd738ebf8ecb746fd4cdcd69129e",
+    "metadata": {
+        "id": "bdd0cd738ebf8ecb746fd4cdcd69129e",
+        "url": "https://www.notion.so/Metrics-bdd0cd738ebf8ecb746fd4cdcd69129e",
+        "title": "Metrics",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ]
+        }
+    },
+    "parent_metadata": {
+        "id": "eac5ddcdf07fdc57ecbc4575ea198a94",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n\t[https://www.evidentlyai.com/ranking-metrics/ndcg-metric](https://www.evidentlyai.com/ranking-metrics/ndcg-metric)\n\t[https://www.evidentlyai.com/ranking-metrics/evaluating-recommender-systems](https://www.evidentlyai.com/ranking-metrics/evaluating-recommender-systems)\n\n# Resources [Science]\n\n# Tools\n\n\t[https://www.evidentlyai.com/](https://www.evidentlyai.com/)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://www.evidentlyai.com/",
+        "https://www.evidentlyai.com/ranking-metrics/ndcg-metric/",
+        "https://www.evidentlyai.com/ranking-metrics/evaluating-recommender-systems/"
+    ]
+}

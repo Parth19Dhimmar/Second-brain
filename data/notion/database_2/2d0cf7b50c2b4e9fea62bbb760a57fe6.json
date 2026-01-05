@@ -1,0 +1,31 @@
+{
+    "id": "2d0cf7b50c2b4e9fea62bbb760a57fe6",
+    "metadata": {
+        "id": "2d0cf7b50c2b4e9fea62bbb760a57fe6",
+        "url": "https://www.notion.so/Orchestrators-2d0cf7b50c2b4e9fea62bbb760a57fe6",
+        "title": "Orchestrators",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "803c851a0afb850cbe5ec4d5b26e4d9e",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Tools\n\n\t# Fully Open-source\n\t\n\t[https://github.com/Netflix/metaflow](https://github.com/Netflix/metaflow)\n\t[https://github.com/apache/airflow](https://github.com/apache/airflow)\n\t[https://argoproj.github.io/workflows/](https://argoproj.github.io/workflows/)\n\t[https://www.dbos.dev/](https://www.dbos.dev/)\n\t\n\t# Semi Open-source + Fully managed option\n\t\n\t[https://www.zenml.io/](https://www.zenml.io/)\n\t[https://www.prefect.io/](https://www.prefect.io/)\n\t[https://dagster.io/](https://dagster.io/)\n\t[https://github.com/kedro-org/kedro](https://github.com/kedro-org/kedro)\n\t[https://temporal.io/](https://temporal.io/)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://github.com/apache/airflow/",
+        "https://github.com/kedro-org/kedro/",
+        "https://temporal.io/",
+        "https://argoproj.github.io/workflows/",
+        "https://github.com/Netflix/metaflow/",
+        "https://www.prefect.io/",
+        "https://www.zenml.io/",
+        "https://dagster.io/",
+        "https://www.dbos.dev/"
+    ]
+}

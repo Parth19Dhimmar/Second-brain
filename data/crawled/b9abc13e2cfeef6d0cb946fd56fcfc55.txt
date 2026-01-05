@@ -1,0 +1,146 @@
+[Lightning AI Studios: Never set up a local environment again →](https://lightning.ai)
+
+# LLM Learning Lab
+
+Immerse yourself in a curated collection of blogs, tutorials, and how-to videos to help you unlock the transformative potential of large language models.
+
+Previous
+
+[](https://lightning.ai/pages/blog/scaling-large-language-models-with-pytorch-lightning/)
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/10/fsdp-blog-300x178.png)
+
+###  Scaling Large (Language) Models with PyTorch Lightning
+
+[Read more](https://lightning.ai/pages/blog/scaling-large-language-models-with-pytorch-lightning/)
+
+[](https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/)
+
+###  How to build a chatbot using open-source LLMs like Llama 2 and Falcon
+
+[Read more](https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/)
+
+[](https://lightning.ai/pages/community/finetuning-falcon-efficiently/)
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/06/Screenshot-2023-06-14-at-9.09.01-PM-300x226.png)
+
+###  Finetuning Falcon LLMs More Efficiently With LoRA and Adapters
+
+[Read more](https://lightning.ai/pages/community/finetuning-falcon-efficiently/)
+
+[](https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/)
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/06/Untitled-5-300x135.png)
+
+###  Falcon – A guide to finetune and inference
+
+[Read more](https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/)
+
+Next
+
+  * 1
+  * 2
+  * 3
+  * 4
+
+
+
+## What do you want to learn about today?
+
+AdapterApple SiliconAutoscalingDeepSpeedDiffusion ModelsDistributed TrainingFalconGPT-NeoXGPTQHyperparameter TuningInferenceInstruction TuningLLaMALLMsLong Short-Term MemoryLoRAModel OptimizationModel PerformanceNeutral NetworksNLPObject DetectionPretrainingPrompt TuningQLoRAQuantizationScalingScikit-learnShardingStable DiffusionStableLMSynthetic Data GenerationTranscriptionTransfer LearningTransformer
+
+[](https://lightning.ai/pages/blog/lora-insights/)
+
+Blog
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/10/lora-expimage7-300x177.png)
+
+#####  Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments 
+
+[Read more]()
+
+[](https://lightning.ai/pages/community/announcements/lightning-2.1-train-bigger-better-faster/)
+
+Blog
+
+#####  Lightning 2.1: Train Bigger, Better, Faster 
+
+[Read more]()
+
+[](https://lightning.ai/pages/community/article/neurips2023-llm-efficiency-guide/)
+
+Blog
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/08/screenshot_2023-08-11_at_9.22.46_am-300x174.png)
+
+#####  The NeurIPS 2023 LLM Efficiency Challenge Starter Guide 
+
+[Read more]()
+
+[](https://lightning.ai/pages/blog/pytorch-memory-vit-llm/)
+
+Blog
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/07/pytorch-memory-hero-300x160.png)
+
+#####  Optimizing Memory Usage for Training LLMs and Vision Transformers in PyTorch 
+
+[Read more]()
+
+[](https://lightning.ai/pages/blog/faster-pytorch-training-by-reducing-peak-memory/)
+
+Blog
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/06/Screenshot-2023-06-21-at-11.48.35-PM-300x167.png)
+
+#####  Faster PyTorch Training by Reducing Peak Memory (combining backward pass + optimizer step) 
+
+[Read more]()
+
+[](https://lightning.ai/pages/community/article/efficient-initialization-of-large-models/)
+
+Blog
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/06/Untitled-1-300x199.png)
+
+#####  Efficient Initialization of Large Models 
+
+[Read more]()
+
+[](https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/)
+
+Blog
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/04/image-4-300x150.png)
+
+#####  The Ultimate Battle of Language Models: Lit-LLaMA vs GPT3.5 vs Bloom vs … 
+
+[Read more]()
+
+[](https://lightning.ai/pages/community/article/lora-llm/)
+
+Blog
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/04/lora-thumbnail-300x140.png)
+
+#####  Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA) 
+
+[Read more]()
+
+## Check out the LLM Glossary
+
+We have broken down complex jargon into simple definitions to give you a deeper understanding of the evolving field of LLMs.
+
+[Go to Glossary](https://lightning.ai/pages/glossary/)
+
+## Join the biggest online community for open source AI!
+
+Lightning's Discord server is where thousands of AI researchers, ML engineers, and PyTorch Lightning enthusiasts are collaborating on a daily basis! Members get to enjoy:
+
+  * Exclusive live events: Tune into regular live-streamed discussions, thought-provoking debates, and demos of valuable resources.
+  * Support from experts: Receive guidance, mentorship, and support at every step of your AI journey.
+  * Networking opportunities: Connect with like-minded individuals, forge valuable connections with experts and build your professional network.
+
+[Join today!](https://discord.gg/XncpTy7DSt)
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/03/discord-icon-1.svg)

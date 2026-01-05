@@ -1,0 +1,28 @@
+{
+    "id": "f5eb8aebbcabce20d7b64d895f39cecc",
+    "metadata": {
+        "id": "f5eb8aebbcabce20d7b64d895f39cecc",
+        "url": "https://www.notion.so/Polars-f5eb8aebbcabce20d7b64d895f39cecc",
+        "title": "Polars",
+        "properties": {
+            "Created": {
+                "id": "KHP_",
+                "type": "created_time",
+                "created_time": "2024-07-09T14:33:00.000Z"
+            },
+            "Tags": []
+        }
+    },
+    "parent_metadata": {
+        "id": "cc849fd3ff1e9fd76ab07f613a0f6d96",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Articles\n\n\t- [I wrote one of the fastest DataFrame libraries](https://pola.rs/posts/i-wrote-one-of-the-fastest-dataframe-libraries/)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://pola.rs/posts/i-wrote-one-of-the-fastest-dataframe-libraries/"
+    ]
+}

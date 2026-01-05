@@ -1,0 +1,47 @@
+# Resources [Community]
+
+	[https://python.langchain.com/docs/how_to/document_loader_pdf/#use-of-multimodal-models](https://python.langchain.com/docs/how_to/document_loader_pdf/#use-of-multimodal-models)
+	[https://blog.vespa.ai/the-rise-of-vision-driven-document-retrieval-for-rag/](https://blog.vespa.ai/the-rise-of-vision-driven-document-retrieval-for-rag/)
+	[https://readmedium.com/en/https:/levelup.gitconnected.com/comparing-6-frameworks-for-rule-based-pdf-parsing-f9e7ca5b6cc9](https://readmedium.com/en/https:/levelup.gitconnected.com/comparing-6-frameworks-for-rule-based-pdf-parsing-f9e7ca5b6cc9)
+
+# Models
+
+	# PDFs
+	
+	[https://huggingface.co/vidore/colpali-v1.2](https://huggingface.co/vidore/colpali-v1.2)
+	[https://huggingface.co/google/paligemma-3b-mix-448](https://huggingface.co/google/paligemma-3b-mix-448)
+	[https://huggingface.co/mistralai/Pixtral-12B-2409](https://huggingface.co/mistralai/Pixtral-12B-2409)
+	
+	# HTML
+	
+	[https://huggingface.co/jinaai/ReaderLM-v2](https://huggingface.co/jinaai/ReaderLM-v2)
+
+# Resources [Science]
+
+# Tools
+
+	# APIs (low code)
+	
+	[https://github.com/mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+	[https://unstructured.io/](https://unstructured.io/)
+	[https://docs.cloud.llamaindex.ai/llamaparse/getting_started](https://docs.cloud.llamaindex.ai/llamaparse/getting_started)
+	
+	# Python packages (code)
+	
+	[https://github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+	[https://github.com/DS4SD/docling](https://github.com/DS4SD/docling)
+	[https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
+	[https://pypdf2.readthedocs.io/en/3.x/](https://pypdf2.readthedocs.io/en/3.x/)
+	[https://github.com/Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)
+	
+	[https://github.com/VikParuchuri/marker](https://github.com/VikParuchuri/marker)
+	[https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html)
+	[https://github.com/camelot-dev/camelot](https://github.com/camelot-dev/camelot)
+	
+	# No-code:
+	
+	[https://azure.microsoft.com/en-gb/products/ai-services/ai-document-intelligence](https://azure.microsoft.com/en-gb/products/ai-services/ai-document-intelligence)
+	
+	# Enterprise ready
+	
+	[https://github.com/NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest)

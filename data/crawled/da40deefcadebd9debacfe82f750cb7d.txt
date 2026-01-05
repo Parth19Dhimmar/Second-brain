@@ -1,0 +1,452 @@
+[🎓 Free introductory course "LLM evaluations for AI product teams". Save your seat](/llm-evaluations-course)![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc2747cf_vector.svg)
+
+[![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/66180fbf4f40e9ed73ca2d39_evidently_ai_logo_fi.png)](/)
+
+Product
+
+[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664e1f22864ff24118d07024_chat-text-duotone%20\(1\).svg)LLM observabilityEvaluate LLM-powered products, from RAGs to AI assistants.](/llm-observability)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664d50547ea050df1ee60188_chart-line-duotone.svg)ML observabilityMonitor data drift, data quality, and performance for production ML models.](/ml-monitoring)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664e1f2301afb605005be14d_lock-simple-open-duotone.svg)Open-sourceOpen-source Python library for ML monitoring with 20m+ downloads.](/evidently-oss)
+
+[Pricing](/pricing)[Docs](https://docs.evidentlyai.com/)
+
+Resources
+
+[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abba265e01ed75b39988c_book-duotone.svg)BlogInsights on building AI products](/blog)[![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/675a45076643cf7042075aac_star-duotone%20\(1\).svg)LLM benchmarks100+ LLM benchmarks and datasets](/llm-evaluation-benchmarks-datasets)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb7fbdd19d6d3f1875c_code-duotone%20\(1\).svg)TutorialsAI observability and MLOps tutorials](/mlops-tutorials)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb798a210c5d2640337_lightbulb-duotone%20\(1\).svg)ML and LLM system design500 ML and LLM use cases](/ml-system-design)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb798a210c5d2640368_check-duotone%20\(1\).svg)GuidesIn-depth AI quality and MLOps guides ](/mlops-guides)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdbd5bfc045c59b3467f_gear-duotone%20\(1\).svg)ML and AI platforms45+ internal ML and AI platforms](/ml-platforms)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb7ee755c4dc43cefc2_users-three-duotone%20\(1\).svg)CommunityGet support and chat about AI products](/community)
+
+##### [Course on LLM evaluations for AI product teams![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/673f571568470a0a8d49aa43_three-cheerful-robot-students-take-exam%20\(4\).jpg)](/llm-evaluations-course)[Sign up now![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc27473e_Group%209.svg)](/llm-evaluations-course)
+
+[Get demo](/get-demo)[Sign up](/register)
+
+[GitHub](https://github.com/evidentlyai/evidently)
+
+[Get demo](/get-demo)[Sign up](/register)
+
+![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abe8f5bd7dda2d12a1e6d_list-bold.svg)
+
+###### Ranking and Recommendation Metrics Guide
+
+# Normalized Discounted Cumulative Gain (NDCG) explained
+
+Last updated:
+
+January 9, 2025
+
+contents**‍**
+
+[ How to compute NDCG](#how-to-compute-ndcg)
+
+[NDCG formula](#ndcg-formula)
+
+[Relevance score](#relevance-score)
+
+[K parameter](#k-parameter)
+
+[Cumulative gain](#cumulative-gain)
+
+[Discounted gain (DCG)](#discounted-gain-dcg)
+
+[Normalized DCG (NDCG)](#normalized-dcg-ndcg)
+
+[Interpretation](#interpretation)
+
+[Pros and cons](#pros-and-cons)
+
+[NDCG vs MAP](#ndcg-vs-map)
+
+[NDCG vs MRR](#ndcg-vs-mrr)
+
+[Evaluating ranking with Evidently](#evaluating-ranking-with-evidently)
+
+Normalized Discounted Cumulative Gain (NDCG) is a metric that evaluates the quality of recommendation and information retrieval systems. NDCG helps measure a machine learning algorithm's ability to sort items based on relevance. 
+
+In this article, we explain it step by step.
+
+We also introduce [Evidently](https://github.com/evidentlyai/evidently), an open-source Python library for ML model evaluation and monitoring. 
+
+## TL;DR
+
+  * **Normalized Discounted Cumulative Gain (NDCG)** is a ranking quality metric. It compares rankings to an ideal order where all relevant items are at the top of the list.
+  * NDCG at K is determined by dividing the **Discounted Cumulative Gain** (DCG) by the**ideal DCG** representing a perfect ranking. 
+  * DCG measures the **total item relevance in a list** with a discount that helps address the diminishing value of items further down the list.
+  * You can aggregate the NDCG results across all users to get an overall measure of the ranking quality in the dataset. 
+  * NDCG **can take values from 0 to 1** , where 1 indicates a match with the ideal order, and lower values represent a lower quality of ranking.
+
+
+
+![Evidently Classification Performance Report](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/662c488bf7fc70afcba17ffa_cropped_00_main_01_hero-min-p-2000.png)
+
+Start with AI observability
+
+Want to keep tabs on your ranking and recommendation models? Automate the quality checks with Evidently Cloud. Powered by the leading open-source Evidently library with 20m+ downloads.
+
+[Start free ⟶](/register)[Or try open source ⟶](https://github.com/evidentlyai/evidently)
+
+![Evidently Classification Performance Report](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/662c488bf7fc70afcba17ffa_cropped_00_main_01_hero-min-p-2000.png)
+
+Start with AI observability
+
+Want to keep tabs on your ranking and recommendation models? Automate the quality checks with Evidently Cloud. Powered by the leading open-source Evidently library with 20m+ downloads.
+
+[Start free ⟶](/register)[Or try open source ⟶](https://github.com/evidentlyai/evidently)
+
+Consider an example: you are looking for a movie to watch, and there are many options! Some are a perfect match for your taste. Some are less so, but still are interesting and entertaining. Preferences, relevance, and tastes are not always as simple as binary “yes” or “no.” If you watch all the movies under consideration, you can probably assign a score to each and make an orderly list, sorting them from the best to worst.
+
+Now, let’s turn the table and imagine that you are developing a recommender system for movie recommendations. Knowing what you know – your ground truth about movies you liked – how can the ideal output of such a system look? Intuitively, it should look the same: if you create a long list of movies to watch, you should sort it based on relevance: the best movies on the top, the fine choices after it, and so on.
+
+NDCG is a metric that helps evaluate the ranking quality with a similar principle. We assume that there is some ideal ranking with all the items sorted in decreasing order of relevance. NDCG helps measure how close the algorithm output comes to this perfect order. 
+
+![Normalized Discounted Cumulative Gain \(NDCG\)](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9d9_657789f98238bac999396657_ndcg1.png)
+
+## How to compute NDCG
+
+NDCG stands for **Normalized Discounted Cumulative Gain.** As usual with ranking, you often compute NDCG at **K** , defining a cutoff point for the top-ranked items you consider.
+
+### NDCG formula
+
+To calculate NDCG, you must divide a given list's discounted cumulative gain (DCG) by the ideal DCG representing a perfect ranking order.
+
+![NDCG formula](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9bc_65778a1b0605ecaf394b136d_ndcg2.png)
+
+The formula might not be easy to grasp initially, so let’s unpack it. We will explain this metric step by step by covering:
+
+  * What is the **relevance** in recommendations and ranking?
+  * What is **K** (the @K part of the formula)?
+  * What is gain and cumulative gain (the **CG** part of the formula? 
+  * What is a discount, and how do you compute discounted cumulative gain (the **DCG**)?
+  * Finally, how do we normalize the DCG to get the **NDCG?**
+
+
+
+### Relevance score
+
+> **TL;DR**. A relevance score is a ground truth or target value necessary for evaluating ranking system quality. It can be a binary label (relevant or not) or a numerical score (e.g., 1 to 5).
+
+A ranking or recommender system typically returns a **sorted list** of the relevant items. If you deal with recommendations, this might be a list of items (products, articles, songs, etc.) for a specific user, ranked by their likely match. If you deal with search and retrieval, this can be a list of items or answers most relevant to a specific query.
+
+![Recommender system sorted list ](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9ed_65774504c9aaf12aca69c337_ranking_evalutions2.png)
+
+To evaluate the ranking quality, you need some **ground truth** to this. The ground truth helps assess whether the recommended items matched the user’s preferences or query. When a recommender system is in production, you can capture the relevant user actions and interactions. Say, you can track if the user clicks on the item shown in the recommendation block. 
+
+Often, this relevance is **binary** : say, the user clicked on, watched, or purchased an item (or not). Sometimes, this can be a **numerical score** , such as a rating where different weights are assigned to specific user actions, reflecting a relative degree of match. 
+
+The way you get the relevance score depends on the case. For example, if you collect data about user actions in the app, you can develop a custom formula to define the relevance based on a particular user action. Say, a click is good (score 1), but adding the item to favorites is better (score 2). Putting a product in the basket is even more valuable (score 3), and finally, completing the purchase (score 5) best reflects the item's relevance.
+
+However, this granularity can be pretty complex to implement in production, so having a binary “relevant or not” label based on actions like clicks is a popular approach. 
+
+Once you have the ground truth, you can define how good your system is by comparing the ranked list (what the recommender system predicted to be relevant) and the actual relevance score. You can use various metrics in this context, with NDCG being one of them. Unlike some other metrics, NDCG can handle binary and numerical relevance scores.
+
+> ‍**Want to understand which other metrics exist?** Check out this introduction to [recommendations metrics](https://www.evidentlyai.com/ranking-metrics/evaluating-recommender-systems).
+
+### K parameter
+
+> **TL;DR**. **K** is a user-assigned parameter that defines the cutoff point (list length) while evaluating ranking quality. For example, you can only look at top-10 items.
+
+When evaluating the quality of recommendations or ranking, you must also define the depth of the ranked list you will look at. 
+
+The **K parameter** represents the cutoff point in the list where you’d look for relevant items. 
+
+For example, you might consider top-10 search results or top-3 recommendations since this is the app’s recommendation block size. Or, you might look at the top 30 recommendations if you expect the user behavior to be explorative and know this to be the average number of items to view.
+
+![K parameter example](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9c3_65778b48c5b384ec853d8365_ndcg4.png)
+
+This K is a use-case-specific parameter that you can set. You might also evaluate metrics at different levels of K, treating each as an additional quality measure: for example, look at top-3 and top-30 results in parallel. 
+
+### Cumulative gain
+
+> **TL;DR**. Cumulative gain is a measure of the total relevance of the ranked list. It sums up the relevance scores of the individual items in the list.
+
+Before explaining the **discount** , let’s introduce the idea of cumulative gain. 
+
+A **gain** of a single recommended item is its relevance score, be it binary or graded. The **cumulative gain** is a sum of scores of all relevant items among the top-K results in the list.
+
+![Cumulative gain formula](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9c6_65778cf257e250a8b547fee8_ndcg6.png)
+
+For example, if you have a binary notion of relevance, and out of 5 recommended items, 3 got a click, the cumulative gain of a given list will be 1+1+1=3. If you have graded scores from 1 to 5, and all your top 5 recommendations got a 5-star, the total gain will be 25.
+
+However, this way of computing gain has a limitation – it does not take into account the ordering. If you change the position of the relevant items, the outcome will be the same.
+
+Let’s consider two situations with binary relevance:
+
+  * Relevant items take positions 3 to 5. The items in positions 1 and 2 are not relevant.
+  * Relevant items take positions 1 to 3. The items in positions 4 and 5 are not relevant.
+
+
+
+![Cumulative gain example](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9e9_65778d21c47ce3a6884d0fe4_ndcg7.png)
+
+As we swap positions, the cumulative gain stays the same.
+
+However, intuitively, the second result seems like a much better outcome. The ranking often matters: having the most relevant results at the top might be just what we expect. For example, the best search result should be the first, not the last, on the page. 
+
+We should reflect it in our evaluation: give credit to the system when it can place more relevant items higher and penalize it for placing relevant results lower on the list. To do that, we can introduce a **discount.**
+
+### Discounted gain (DCG)
+
+> **TL;DR:** A logarithmic**discount** helps assign lower gain when relevant items appear further down in the ranked list.
+
+To compute the DCG - discounted cumulative gain – we introduce the discount that gives less weight to relevant items that appear lower. This way, instead of simply summing up the item’s relevance, we adjust the contribution of each item based on its position. 
+
+But how exactly do you come up with the discount?
+
+A common way to introduce this discount in the industry is a logarithmic penalty. As you move down the list, you divide each item’s gain by a growing number, computed as an inverse logarithm of the position number. This discount helps factor in the diminishing value of relevant items further down. This is quite intuitive: a good match at rank 10 is less valuable than at rank 1. 
+
+‍**DCG formula.** For each item in the top K positions, we calculate the discounted gain using the formula:
+
+![Discounted gain \(DCG\) formula](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9cf_65778cdc6b7b673e1fc61310_ndcg5.png)
+
+Where **rel (i)** is the relevance score of the item at position i.
+
+> **Note:** there is also an [alternative](https://en.wikipedia.org/wiki/Discounted_cumulative_gain#cite_note-4) DCG formula that gives an even higher penalty.
+
+Using the logarithmic discount, you can ensure that the difference between positions 1 and 2 is more substantial than between positions 2 and 3, and so on. This mirrors the intuition that highest-ranked items have a more significant impact on the user experience, and there is often a substantial drop-off as one moves down the list. Consider search engine results where users are less likely to explore the results beyond the first page.
+
+In essence, each position in the fixed list has an assigned value factor. The second place is divided by 1.58, the 3rd place is divided by 2, and so on. 
+
+![Alternative DCG formula](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9d5_657869f6a5568b2b9beea08b_ndcg8.png)
+
+**Let’s take an example of DCG computation.** Suppose we have a ranked list with binary scores [1, 0, 1, 1, 0], and we want to calculate DCG@3.
+
+We can sum the relevance scores of all items up to position K = 3, weighted by the corresponding logarithmic discount.
+
+  * The item at rank 1 is relevant and contributes 1/1=1. There is no discount in rank 1.
+  * The item at rank 2 is irrelevant, so it contributes 0.
+  * The item at rank 3 is relevant but is divided by 2: 1/2 = 0.5.
+
+
+
+The resulting sum is 1 + 0 + 0.5 = 1.5. This is the discounted gain of the list at K = 3.
+
+![DCG example computation](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9d2_65786a23436c09a6ec96b069_ndcg9.png)
+
+The cumulative gain of the same list would have equaled 1+0+1 = 2 without the discount. 
+
+What if we swap the order and put the 3rd relevant item in the second position? Our ranked list looks like a ranked list: [1, 1, 0, 1, 0].
+
+  * The item at rank 1 contributes 1 like before.
+  * The item at rank 2 now contributes 1/1.585 ≈ 0.63.
+  * The item at rank 3 is irrelevant, so it contributes 0.
+
+
+
+The resulting sum equals 1 + 0.63 + 0 = 1.63. This is the new discounted gain of the list at K = 3. We improved the DCG @3 by moving the relevant item higher up (from position 3 to position 2).
+
+![DCG example computation](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9e3_65786a51cdbb10517ddad96d_ndcg10.png)
+
+The Discounted Cumulative Gain (DCG) helps address the ranking order. However, there is still a limitation. The absolute values of DCG depend on the number of items in the list and the relevance scores assigned. This makes it hard to compare the DCG scores across use cases and lists.
+
+Longer lists have higher potential DCG values since more items can contribute to the score. DCG at 10 can be higher than DCG at 3 simply due to the length of the list rather than the inherently better ranking. Using binary or graded relevance will also lead to different gain values.
+
+Finally, even an “ideal” recommendation algorithm won’t always be able to get DCG@k = 1 due to the applied discount.
+
+To address this, you can normalize the DCG.
+
+### Normalized DCG (NDCG)
+
+> **TLDR:** To normalize DCG, you can divide it by the ideal ranking (IDCG@k), where every item appears in the order of relevance. 
+
+To get the normalized DCG (NDCG), you must divide the computed DCG by the ideal DCG (IDCG) for the given list. IDCG represents the maximum achievable DCG with the same set of relevance scores but in the perfect ranking order. 
+
+What exactly is ideal? In the case of binary relevance scores, all relevant items should be at the start of the list. In the case of graded relevance, you should place all items in a descending order of relevance.
+
+Here is the final NDCG formula: 
+
+![Normalized DCG \(NDCG\) formula](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9bc_65778a1b0605ecaf394b136d_ndcg2.png)
+
+Normalized DCG enables fair comparisons between different lists, regardless of their length and the scale of relevance scores. As the final step, you typically compute an average NDCG for all users or queries to get a single score for the overall dataset. 
+
+## Interpretation
+
+NDCG can take values from 0 to 1. 
+
+  * NDCG equals 1 in the case of ideal ranking when items are perfectly sorted by relevance. 
+  * NDCG equals 0 when there are no relevant objects in top-K.
+  * NDCG can be between 0 and 1 in all other cases. The higher the NDCG, the better. 
+
+
+
+In essence, NDCG@k is a ranking metric that helps consider both the relevance of items and their positions in the list. A higher NDCG@k value indicates that the system is doing a better job of presenting relevant items at the top of the list.
+
+### Pros and cons
+
+Like any metric, NDCG has its pros and cons.
+
+Pros:
+
+  * **Rank-aware metric**. NDCG considers the entire ranking order and assigns higher weights to relevant items at higher positions. This is useful in many scenarios where you expect the items to be sorted by relevance. This differentiates NDCG from purely predictive quality metrics like [Precision and Recall](https://www.evidentlyai.com/ranking-metrics/precision-recall-at-k). 
+  * **Handles both binary and numeral scores.** You can use the NDCG metric with different relevance scales, making it versatile across various applications. This differs from [MAP@K](https://www.evidentlyai.com/ranking-metrics/mean-average-precision-map), which is also rank-aware but can only handle binary inputs.
+  * **Normalized metric.** The normalization aspect of NDCG allows for fair comparisons between lists of varying lengths and relevance distributions. A metric on a scale of 0 to 1 is convenient to deal with. 
+
+
+
+Cons: 
+
+  * **Limited interpretability**. NDCG might be harder to interpret since the log discount might appear arbitrary.
+
+
+
+### NDCG vs MAP
+
+![NDCG vs MAP](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9e0_65786a8f76d31121ac899381_ndcg11.png)
+
+NDCG might appear similar to Mean Average Precision (MAP), which is another rank-aware metric that considers the positions of relevant items up to a K. Both NDCG and MAP reflect the quality of ranking, but with some distinctions. 
+
+> **How to compute MAP?** You must calculate and average the Precision (the share of relevant items up to a given position) at each relevant position in top K. Read the [complete guide to MAP](https://www.evidentlyai.com/ranking-metrics/mean-average-precision-map) for a step-by-step explanation.
+
+**First, MAP works for binary relevance**. MAP is designed to evaluate a ranking or recommender system with a binary relevance function. NDCG can handle both binary and graded relevance. This is useful when you deal with use cases like search: the documents are usually not wholly relevant or irrelevant but exist on a particular scale. 
+
+**Second, NDCG and MAP account for diminishing ranks differently.** Both NDCG and MAP at K consider the order of items and thus are suitable when you care about ranking quality. However, they treat decreasing ranks differently. 
+
+MAP gives more weight to the relevant items at the top of the list. Since the metric is based on Precision values at each relevant position in the ranked list, it is more sensitive to changes in the early positions. Any non-relevant items at the beginning of the list influence the aggregation at each subsequent Precision calculation and contribute to the overall MAP score. MAP drops more rapidly if there are non-relevant items at the top.
+
+DCG assigns diminishing weights to items as you move down the list, but they are logarithmic. The contribution of items decreases, but not extremely rapidly. Check out [this video](https://www.youtube.com/watch?v=qm1In7NH8WE) for a walkthrough explanation: DCG has a sharper elbow and a heavier tail compared to the more rapid descent of MAP as you move down the K. 
+
+Ultimately, the choice between MAP and NDCG depends on the nature of the data and the importance of considering accounting for graded relevance, where NDCG excels. Due to MAP bias towards the top ranks, it is often suitable when the emphasis is on Precision at higher ranks.
+
+### NDCG vs MRR
+
+![NDCG vs MRR](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9ca_6578787444d41844e4e93fe6_ndcg12.png)
+
+**MRR (Mean Reciprocal Rank)** is another ranking metric used in information retrieval and recommendation systems. It focuses on the position of the first relevant item in the ranked list. 
+
+> **How to compute MRR?** MRR is calculated by taking the reciprocal of the rank of the first relevant item and averaging these reciprocal ranks across multiple queries or instances. Read the [complete guide to MRR](https://www.evidentlyai.com/ranking-metrics/mean-reciprocal-rank-mrr) for a step-by-step explanation.
+
+Let’s compare MRR to NDCG. 
+
+**MRR is very simple to explain.** It provides a straightforward measure of how quickly you find a relevant item in the list.
+
+**MRR disregards the ranks after the first relevant item**. However, MRR considers only the position of the first relevant item in the list. It does not care what happens after it. This is different from NDCG, which focuses on the entire ranking.
+
+**MRR handles only binary relevance.** MRR can only handle binary relevance scores and treats the items as either relevant or not. NDCG can work with both binary and numerical relevance scores.
+
+Depending on the scenario, you might prefer NDCG to MRR or vice versa. MRR aligns well with scenarios where the primary goal is to present the most relevant item as early as possible or when there is a single most relevant and correct answer. This is common in information retrieval. On the other hand, NDCG fits well with scenarios where you care about the order of many relevant items, such as recommendation systems.
+
+You can also look at both metrics to evaluate different aspects of the system simultaneously: how quickly you hit the first correct answer (MRR) and how well-ranked the rest of the list is (NDCG).
+
+## Evaluating ranking with Evidently
+
+[Evidently](https://github.com/evidentlyai/evidently) is an open-source Python library that helps evaluate, test and monitor machine learning models, including ranking and recommendations. Evidently computes and visualizes 15+ different ranking metrics, from NDCG, MAP and MRR to behavioral metrics like serendipity and diversity. 
+
+By passing your dataset, you can quickly generate a comprehensive report with multiple metrics and interactive visualizations out of the box. 
+
+![NDCG metric with Evidently AI](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c43276eacc9d38bcbe9e6_657878bbe786a1d088d8de34_ndcg13.png)
+
+You can also use Evidently to run CI/CD tests, for example, to evaluate the model quality after retraining. You can also deploy a live monitoring dashboard to keep track of the model metrics and test results over time.
+
+Would you like to learn more? Check out the open-source [Getting Started tutorials](https://docs.evidentlyai.com).
+
+##### Get started with AI observability
+
+> Try our open-source library with over 25 million downloads, or sign up to Evidently Cloud to run no-code checks and bring all the team to a single workspace to collaborate on AI quality.[Sign up free ⟶](https://www.evidentlyai.com/register)[Or try open source ⟶](https://github.com/evidentlyai/evidently)
+
+[RANKING QUALITY GUIDE](/ranking-metrics)
+
+[Metrics overview](/ranking-metrics/evaluating-recommender-systems)
+
+[Precision and Recall at K](/ranking-metrics/precision-recall-at-k)
+
+[Mean Average Precision (MAP)](/ranking-metrics/mean-average-precision-map)
+
+[Normalized Discounted Cumulative Gain (NDCG)](/ranking-metrics/ndcg-metric)
+
+[Mean Reciprocal Rank (MRR)](/ranking-metrics/mean-reciprocal-rank-mrr)
+
+Get started with AI observability
+
+[Sign up](/register)[Get demo](/get-demo)
+
+[Try open source![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc27473e_Group%209.svg)](https://github.com/evidentlyai/evidently)
+
+WRITTEN BY
+
+![Evidently AI logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/663e5a2bef9e93f84fbb5ef1_66266589274806473c5ff4e1_64405645c79bf610ee86e32d_evidently_ai_logo_red_square%2520\(1\).png)
+
+#### Evidently AI Team
+
+share on
+
+[![LinkedIn logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc27475f_Group%2068.svg)](https://www.linkedin.com/)[![Twitter logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/665498e176df469709a54190_x-logo%20\(1\).svg)](http://twitter.com/)[![Facebook logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc274774_Group%2065.svg)](http://facebook.com)
+
+## Read next
+
+[![Mean Average Precision \(MAP\) in ranking and recommendations](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c432b08687cce06cf3d01_657787707dbfa09e6cf02810_map_guide-min.png)Mean Average Precision (MAP)Mean Average Precision (MAP) at K reflects both the share of relevant recommendations and how good the system is at placing more relevant items at the top of the list. You can compute it as the mean of Average Precision (AP) across all users or queries.](/ranking-metrics/mean-average-precision-map)
+
+[![Mean Reciprocal Rank \(MRR\) explained](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c4327893f6579e99bc3bb_65787c6e4d178108c353cf02_mrr_guide-min.png)Mean Reciprocal Rank (MRR)The Mean Reciprocal Rank (MRR) at K helps assess the ranking quality by considering the position of the first relevant item in the list. You can calculate it as the mean of the reciprocal ranks across all users or queries.](/ranking-metrics/mean-reciprocal-rank-mrr)
+
+🎓 Free course on LLM evaluations for AI product teams.[ Sign up **⟶**](/llm-evaluations-course)
+
+[![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/66180fbf4f40e9ed73ca2d39_evidently_ai_logo_fi.png)](/)
+
+Product
+
+[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664e1f22864ff24118d07024_chat-text-duotone%20\(1\).svg)LLM observabilityEvaluate LLM-powered products, from RAGs to AI assistants.](/llm-observability)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664d50547ea050df1ee60188_chart-line-duotone.svg)ML observabilityMonitor data drift, data quality, and performance for production ML models.](/ml-monitoring)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664e1f2301afb605005be14d_lock-simple-open-duotone.svg)Open-sourceOpen-source Python library for ML monitoring with 20m+ downloads.](/evidently-oss)
+
+[Pricing](/pricing)[Docs](https://docs.evidentlyai.com/)
+
+Resources
+
+[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abba265e01ed75b39988c_book-duotone.svg)BlogInsights on building AI products](/blog)[![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/675a45076643cf7042075aac_star-duotone%20\(1\).svg)LLM benchmarks100+ LLM benchmarks and datasets](/llm-evaluation-benchmarks-datasets)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb7fbdd19d6d3f1875c_code-duotone%20\(1\).svg)TutorialsAI observability and MLOps tutorials](/mlops-tutorials)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb798a210c5d2640337_lightbulb-duotone%20\(1\).svg)ML and LLM system design500 ML and LLM use cases](/ml-system-design)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb798a210c5d2640368_check-duotone%20\(1\).svg)GuidesIn-depth AI quality and MLOps guides](/mlops-guides)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdbd5bfc045c59b3467f_gear-duotone%20\(1\).svg)ML and AI platforms45+ internal ML and AI platforms](/ml-platforms)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb7ee755c4dc43cefc2_users-three-duotone%20\(1\).svg)CommunityGet support and chat about AI products](/community)
+
+##### [Course on LLM evaluations for AI product teams![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/673f571568470a0a8d49aa43_three-cheerful-robot-students-take-exam%20\(4\).jpg)](/llm-evaluations-course)[Sign up now![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc27473e_Group%209.svg)](/llm-evaluations-course)
+
+[Get demo](/get-demo)[Sign up](/register)
+
+[GitHub](https://github.com/evidentlyai/evidently)
+
+[Get demo](/get-demo)[Sign up](/register)
+
+![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abe8f5bd7dda2d12a1e6d_list-bold.svg)
+
+## Get Started with AI Observability
+
+Book a personalized 1:1 demo with our team or sign up for a free account.
+
+[Start free](/register)[Get demo](/get-demo)
+
+![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc274771_Group%2069.svg)
+
+No credit card required
+
+[![Evidently AI logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664ac309d9d1086b0e8309f9_evidently%20logo_white.png)](/)
+
+Evaluate, test and monitor your AI-powered products.
+
+Subscribe to our monthly newsletter
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+[LLM observability](/llm-observability)[ML observability](/ml-monitoring)[Open-source](/evidently-oss)
+
+[Blog](/blog)[Tutorials](/mlops-tutorials)[Guides](/mlops-guides)[ML platforms](/ml-platforms)[ML use cases](/ml-system-design)[ML observability course](/ml-observability-course)
+
+[Pricing](/pricing)[Docs](https://docs.evidentlyai.com/)[GitHub](https://github.com/evidentlyai/evidently)[Community](/community)
+
+[Privacy policy](/privacy)[Terms of service](/terms)
+
+© 2025, Evidently AI. All rights reserved
+
+[![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc274742_Group%2027.svg)](https://www.linkedin.com/company/evidently-ai/)[![Twitter logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664f62d9e2ffd7e31ffae6c8_x-logo-duotone%20\(1\).svg)](http://twitter.com/EvidentlyAI)[![Discord logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664f6316d09cc4b5e975db27_discord-logo-duotone%20\(2\).svg)](https://discord.com/invite/PyAJuUD5mB)[![YouTube logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664f634afd92ff37de706ab9_youtube-logo-duotone.svg)](https://www.youtube.com/c/evidentlyai)
+
+By clicking “Accept”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our [Privacy Policy](/privacy) for more information.
+
+[Deny](#)[Accept](#)
+
+Privacy Preferences
+
+Essential cookies
+
+Required
+
+Marketing cookies
+
+Essential
+
+Personalization cookies
+
+Essential
+
+Analytics cookies
+
+Essential
+
+[Reject all cookies](#)[Allow all cookies](#)[Save preferences](#)

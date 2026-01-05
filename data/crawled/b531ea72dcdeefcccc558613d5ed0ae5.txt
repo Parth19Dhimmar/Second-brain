@@ -1,0 +1,1093 @@
+[ ![Real Python](/static/real-python-logo.893c30edea53.svg) ](/)
+
+  * [Start Here](/start-here/)
+  * [ Learn Python ](#)
+
+[Python Tutorials →In-depth articles and video courses](/search?kind=article&kind=course&order=newest) [Learning Paths →Guided study plans for accelerated learning](/learning-paths/) [Quizzes →Check your learning progress](/quizzes/) [Browse Topics →Focus on a specific area or skill level](/tutorials/all/) [Community Chat →Learn with other Pythonistas](/community/) [Office Hours →Live Q&A calls with Python experts](/office-hours/) [Podcast →Hear what’s new in the world of Python](/podcasts/rpp/) [Books →Round out your knowledge and learn offline](/products/books/) [Reference →Concise definitions for common Python terms](/ref/) [Code Mentor →BetaPersonalized code assistance & learning tools](/mentor/) [Unlock All Content →](/account/join/)
+
+  * [ More ](#)
+
+[Learner Stories](/learner-stories/) [Python Newsletter](/newsletter/) [Python Job Board](https://www.pythonjobshq.com) [Meet the Team](/team/) [Become a Tutorial Writer](/write-for-us/) [Become a Video Instructor](/become-an-instructor/)
+
+
+
+
+  * [ Search](/search "Search")
+
+
+
+[](/search "Search") /
+
+  * [Join](/account/join/)
+  * [Sign‑In](/account/login/?next=%2Fintro-to-pyenv%2F)
+
+
+
+— FREE Email Series —
+
+🐍 Python Tricks 💌
+
+![Python Tricks Dictionary Merge](/static/pytrick-dict-merge.4201a0125a5e.png)
+
+Get Python Tricks »
+
+🔒 No spam. Unsubscribe any time.
+
+[Browse Topics](/tutorials/all/) [Guided Learning Paths](/learning-paths/) [ Basics](/search?level=basics) [ Intermediate](/search?level=intermediate) [ Advanced](/search?level=advanced) [api](/tutorials/api/) [best-practices](/tutorials/best-practices/) [career](/tutorials/career/) [community](/tutorials/community/) [databases](/tutorials/databases/) [data-science](/tutorials/data-science/) [data-structures](/tutorials/data-structures/) [data-viz](/tutorials/data-viz/) [devops](/tutorials/devops/) [django](/tutorials/django/) [docker](/tutorials/docker/) [editors](/tutorials/editors/) [flask](/tutorials/flask/) [front-end](/tutorials/front-end/) [gamedev](/tutorials/gamedev/) [gui](/tutorials/gui/) [machine-learning](/tutorials/machine-learning/) [numpy](/tutorials/numpy/) [projects](/tutorials/projects/) [python](/tutorials/python/) [testing](/tutorials/testing/) [tools](/tutorials/tools/) [web-dev](/tutorials/web-dev/) [web-scraping](/tutorials/web-scraping/)
+
+![](https://img.realpython.net/65057938e7722ed9b52008422bcf8ee0)
+
+[Table of Contents](#toc)
+
+  * [Why Use pyenv?](#why-use-pyenv)
+    * [Why Not Use System Python?](#why-not-use-system-python)
+    * [What About a Package Manager?](#what-about-a-package-manager)
+  * [Installing pyenv](#installing-pyenv)
+    * [Build Dependencies](#build-dependencies)
+    * [Using the pyenv-installer](#using-the-pyenv-installer)
+  * [Using pyenv to Install Python](#using-pyenv-to-install-python)
+    * [Installation Location](#installation-location)
+    * [Using Your New Python](#using-your-new-python)
+  * [Exploring pyenv Commands](#exploring-pyenv-commands)
+    * [install](#install)
+    * [versions](#versions)
+    * [which](#which)
+    * [global](#global)
+    * [local](#local)
+    * [shell](#shell)
+  * [Specifying Your Python Version](#specifying-your-python-version)
+  * [Virtual Environments and pyenv](#virtual-environments-and-pyenv)
+    * [Creating Virtual Environments](#creating-virtual-environments)
+    * [Activating Your Versions](#activating-your-versions)
+  * [Working With Multiple Environments](#working-with-multiple-environments)
+  * [Activating Multiple Versions Simultaneously](#activating-multiple-versions-simultaneously)
+  * [Conclusion](#conclusion)
+  * [Bonus: Displaying Your Environment Name in Your Command Prompt](#bonus-displaying-your-environment-name-in-your-command-prompt)
+
+
+
+Mark as Completed
+
+[](/feedback/survey/article/intro-to-pyenv/liked/?from=article-sidebar "Liked it") [](/feedback/survey/article/intro-to-pyenv/disliked/?from=article-sidebar "Disliked it")
+
+Share
+
+Recommended Video Course[Start Managing Multiple Python Versions With pyenv](/courses/start-with-pyenv/)
+
+![](https://img.realpython.net/257f65e32c1713399c59dacea36eb818)
+
+![Managing Multiple Python Versions With pyenv](https://files.realpython.com/media/Getting-Started-With-pyenv_Watermarked.7b1dd55b32a1.jpg)
+
+# Managing Multiple Python Versions With pyenv
+
+by [Logan Jones](#author) [74 Comments](#reader-comments) [advanced](/tutorials/advanced/) [tools](/tutorials/tools/)
+
+Mark as Completed Share
+
+Table of Contents
+
+  * [Why Use pyenv?](#why-use-pyenv)
+    * [Why Not Use System Python?](#why-not-use-system-python)
+    * [What About a Package Manager?](#what-about-a-package-manager)
+  * [Installing pyenv](#installing-pyenv)
+    * [Build Dependencies](#build-dependencies)
+    * [Using the pyenv-installer](#using-the-pyenv-installer)
+  * [Using pyenv to Install Python](#using-pyenv-to-install-python)
+    * [Installation Location](#installation-location)
+    * [Using Your New Python](#using-your-new-python)
+  * [Exploring pyenv Commands](#exploring-pyenv-commands)
+    * [install](#install)
+    * [versions](#versions)
+    * [which](#which)
+    * [global](#global)
+    * [local](#local)
+    * [shell](#shell)
+  * [Specifying Your Python Version](#specifying-your-python-version)
+  * [Virtual Environments and pyenv](#virtual-environments-and-pyenv)
+    * [Creating Virtual Environments](#creating-virtual-environments)
+    * [Activating Your Versions](#activating-your-versions)
+  * [Working With Multiple Environments](#working-with-multiple-environments)
+  * [Activating Multiple Versions Simultaneously](#activating-multiple-versions-simultaneously)
+  * [Conclusion](#conclusion)
+  * [Bonus: Displaying Your Environment Name in Your Command Prompt](#bonus-displaying-your-environment-name-in-your-command-prompt)
+
+
+
+![](https://img.realpython.net/6601e3f85c7a16343a4d7237c68a1d06)
+
+[Remove ads](/account/join/)
+
+Watch Now This tutorial has a related video course created by the Real Python team. Watch it together with the written tutorial to deepen your understanding: [**Start Managing Multiple Python Versions With pyenv**](/courses/start-with-pyenv/)
+
+Have you ever wanted to contribute to a project that supports multiple versions of Python but aren’t sure how you would easily [test](https://realpython.com/python-testing/) all the versions? Are you ever curious about the latest and greatest versions of Python? Maybe you’d like to try out these new features, but you don’t want to worry about messing up your [development environment](https://realpython.com/effective-python-environment/). Luckily, managing multiple versions of Python doesn’t have to be confusing if you use `pyenv`. 
+
+This article will provide you with a great overview of how to maximize your time spent working on projects and minimize the time spent in headaches trying to use the right version of Python.
+
+**In this article, you’ll learn how to:**
+
+  1. Install multiple versions of Python
+  2. Install the latest development version of Python
+  3. Switch between the installed versions
+  4. Use virtual environments with `pyenv`
+  5. Activate different Python versions and virtual environments automatically
+
+
+
+**Take the Quiz:** Test your knowledge with our interactive “Managing Multiple Python Versions With pyenv” quiz. You’ll receive a score upon completion to help you track your learning progress:
+
+[ ![Managing Multiple Python Versions With pyenv](https://files.realpython.com/media/Getting-Started-With-pyenv_Watermarked.7b1dd55b32a1.jpg) ](/quizzes/intro-to-pyenv/)
+
+**Interactive Quiz**
+
+[Managing Multiple Python Versions With pyenv](/quizzes/intro-to-pyenv/)
+
+In this quiz, you'll test your understanding of how to use pyenv to manage multiple versions of Python. Pyenv allows you to try out new Python features without disrupting your development environment, and quickly switch between different Python versions.
+
+**Free Download:** [Get a sample chapter from Python Tricks: The Book](https://realpython.com/bonus/python-tricks-sample-pdf/) that shows you Python’s best practices with simple examples you can apply instantly to write more beautiful + Pythonic code.
+
+## Why Use `pyenv`?[](#why-use-pyenv "Permanent link")
+
+`pyenv` is a wonderful tool for managing multiple Python versions. Even if you already have Python installed on your system, it is worth having `pyenv` installed so that you can easily try out new language features or help contribute to a project that is on a different version of Python. Using `pyenv` is also a great way to [install pre-release versions of Python](https://realpython.com/python-pre-release/) so that you can test them for bugs.
+
+![](https://img.realpython.net/16bf1efe41b538fae54711c58c701f0e)
+
+[ Remove ads](/account/join/)
+
+### Why Not Use System Python?[](#why-not-use-system-python "Permanent link")
+
+“System Python” is the Python that comes installed on your operating system. If you’re on Mac or Linux, then by default, when you type `python` in your terminal, you get a nice [Python REPL](https://realpython.com/python-repl/). 
+
+So, why not use it? One way to look at it is that this Python really _belongs_ to the operating system. After all, it came installed with the operating system. That’s even reflected when you run `which`:
+
+Shell
+
+```
+`$ whichpython /usr/bin/python `
+```
+
+Copied!
+
+Here, `python` is available to all users as evidenced by its location `/usr/bin/python`. Chances are, this isn’t the version of Python you want either:
+
+Shell
+
+```
+`$ python-V Python 2.7.12 `
+```
+
+Copied!
+
+To install a package into your system Python, you have to run `sudo pip install`. That’s because you’re installing the Python package globally, which is a real problem if another user comes along and wants to install a slightly older version of the package.
+
+Problems with multiple versions of the same package tend to creep up on you and bite you when you least expect it. One common way this problem presents itself is a popular and stable package suddenly misbehaving on your system. After hours of troubleshooting and Googling, you may find that you’ve installed the wrong version of a [dependency](https://realpython.com/courses/managing-python-dependencies/), and it’s ruining your day.
+
+Even if your Python version is installed in `/usr/local/bin/python3`, you’re still not safe. You will run into the same permissions and flexibility problems described above.
+
+In addition, you don’t really have much control over what version of Python comes installed on your OS. If you want to use the latest features in Python, and you’re on Ubuntu for example, you might just be out of luck. The default versions might be too old, which means you’ll just have to wait for a new OS to come out.
+
+Finally, some operating systems actually use the packaged Python for operation. Take `yum` for example, which makes heavy use of Python to do its job. If you install a new version of Python and aren’t careful to install it into your user space, you could seriously damage your ability to use your OS.
+
+### What About a Package Manager?[](#what-about-a-package-manager "Permanent link")
+
+The next logical place to look is package managers. Programs such as `apt`, `yum`, `brew`, or `port` are typical next options. After all, this is how you install most [packages](https://realpython.com/python-modules-packages/) to your system. Unfortunately, you’ll find some of the same problems using a package manager.
+
+By default, package managers tend to install their packages into the global system space instead of the user space. Again, these system level packages pollute your development environment and make it hard to share a workspace with others.
+
+Once again, you still don’t have control over what version of Python you can install. It’s true some repositories give you a greater selection, but by default, you’re looking at whatever version of Python your particular vendor is up to on any given day.
+
+Even if you do install Python from a package manager, consider what would happen if you’re writing a package and want to support and test on Python 3.4 - 3.7.
+
+What would happen on your system when you type `python3`? How would you switch quickly between the different versions? You can certainly do it, but it is tedious and prone to error. Nevermind the fact that if you want [PyPy](https://realpython.com/pypy-faster-python/), Jython, or Miniconda, then you’re probably just out of luck with your package manager.
+
+With these constraints in mind, let’s recap the criteria that would let you install and manage Python versions easily and flexibly:
+
+  1. Install Python in your user space
+  2. Install multiple versions of Python
+  3. Specify the exact Python version you want
+  4. Switch between the installed versions
+
+
+
+`pyenv` lets you do all of these things and more.
+
+![](https://img.realpython.net/c34848d05efe728b284c7a87c7fcd5c9)
+
+[ Remove ads](/account/join/)
+
+## Installing `pyenv`[](#installing-pyenv "Permanent link")
+
+Before you install `pyenv` itself, you’re going to need some OS-specific dependencies. These dependencies are mostly development utilities written in C and are required because `pyenv` installs Python by building from source. For a more detailed breakdown and explanation of the build dependencies, you can check out the [official docs.](https://devguide.python.org/setup/#build-dependencies) In this tutorial, you’ll see the most common ways to install these dependencies.
+
+**Note:** `pyenv` did not originally support Windows. However, there appears to be some basic support with the [pyenv-win](https://github.com/pyenv-win/pyenv-win) project that recently became active. If you use Windows, feel free to check it out.
+
+### Build Dependencies[](#build-dependencies "Permanent link")
+
+`pyenv` builds Python from source, which means you’ll need build dependencies to actually use `pyenv`. The build dependencies vary by platform. If you are on **Ubuntu/Debian** and want to install the build dependencies, you could use the following:
+
+Shell
+
+```
+`$ sudoapt-getinstall-ymakebuild-essentiallibssl-devzlib1g-dev\ libbz2-devlibreadline-devlibsqlite3-devwgetcurlllvmlibncurses5-dev\ libncursesw5-devxz-utilstk-devlibffi-devliblzma-devpython-openssl `
+```
+
+Copied!
+
+This uses [Apt](https://wiki.debian.org/Apt) to install all the build dependencies. Let this run, and you’ll be ready to go for Debian systems.
+
+If you use **Fedora/CentOS/RHEL** , you could use `yum` to install your build dependencies:
+
+Shell
+
+```
+`$ sudoyuminstallgcczlib-develbzip2bzip2-develreadline-develsqlite\ sqlite-developenssl-develxzxz-devellibffi-devel `
+```
+
+Copied!
+
+This command will install all the build dependencies for Python using `yum`.
+
+**macOS** users can use the following command:
+
+Shell
+
+```
+`$ brewinstallopensslreadlinesqlite3xzzlib `
+```
+
+Copied!
+
+This command relies on [Homebrew](https://brew.sh/) and installs the few dependencies for macOS users. 
+
+**Tip:** When running Mojave or higher (10.14+) you will also need to install the [additional SDK headers](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_release_notes#3035624):
+
+Shell
+
+```
+`$ sudoinstaller-pkg/Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg-target/ `
+```
+
+Copied!
+
+Thanks to Rodrigo Viera for the update.
+
+If you’re instead using **openSUSE** then you would run the following:
+
+Shell
+
+```
+`$ zypperinzlib-develbzip2libbz2-devellibffi-devel\ libopenssl-develreadline-develsqlite3sqlite3-develxzxz-devel `
+```
+
+Copied!
+
+Once again, this command installs all the Python build dependencies for your system. 
+
+Finally, for **Alpine** users, you can use this:
+
+Shell
+
+```
+`$ apkaddlibffi-devncurses-devopenssl-devreadline-dev\ tk-devxz-devzlib-dev `
+```
+
+Copied!
+
+This command uses [`apk`](https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management) as the package manager and will install all build dependencies for Python on Alpine.
+
+![](https://img.realpython.net/39d33f31dff9ce5e91d62b0a7b0c7420)
+
+[ Remove ads](/account/join/)
+
+### Using the pyenv-installer[](#using-the-pyenv-installer "Permanent link")
+
+After you’ve installed the build dependencies, you’re ready to install `pyenv` itself. I recommend using the [pyenv-installer project](https://github.com/pyenv/pyenv-installer):
+
+Shell
+
+```
+`$ curlhttps://pyenv.run|bash `
+```
+
+Copied!
+
+This will install `pyenv` along with a few plugins that are useful:
+
+  1. **`pyenv`** : The actual `pyenv` application
+  2. **`pyenv-virtualenv`** : Plugin for `pyenv` and virtual environments
+  3. **`pyenv-update`** : Plugin for updating `pyenv`
+  4. **`pyenv-doctor`** : Plugin to verify that `pyenv` and build dependencies are installed
+  5. **`pyenv-which-ext`** : Plugin to automatically lookup system commands
+
+
+
+**Note:** The above command is the same as downloading the [pyenv-installer script](https://github.com/pyenv/pyenv-installer/blob/master/bin/pyenv-installer) and running it locally. So if you’d like to see exactly what you’re running, you can view the file yourself. Alternatively, if you really don’t want to run a script, you can checkout the [manual installation instructions.](https://github.com/pyenv/pyenv#basic-github-checkout)
+
+At the end of the run, you should see something like this:
+
+Shell
+
+```
+`WARNING: seems you still have not added 'pyenv' to the load path. Load pyenv automatically by adding the following to ~/.bashrc: export PATH="$HOME/.pyenv/bin:$PATH" eval "$(pyenv init -)" eval "$(pyenv virtualenv-init -)" `
+```
+
+Copied!
+
+The output will be based on your shell. But you should follow the instructions to add `pyenv` to your path and to initialize `pyenv`/`pyenv-virtualenv` auto completion. Once you’ve done this, you need to reload your shell:
+
+Shell
+
+```
+`$ exec"$SHELL"# Or just restart your terminal `
+```
+
+Copied!
+
+That’s it. You now have `pyenv` and four useful plugins installed.
+
+## Using `pyenv` to Install Python[](#using-pyenv-to-install-python "Permanent link")
+
+Now that you have `pyenv` installed, installing Python is the next step. You have many versions of Python to choose from. If you wanted to see all the available [CPython](https://realpython.com/cpython-source-code-guide/) 3.6 through 3.8, you can do this:
+
+Shell
+
+```
+`$ pyenvinstall--list|grep" 3\.[678]" 3.6.0 3.6-dev 3.6.1 3.6.2 3.6.3 3.6.4 3.6.5 3.6.6 3.6.7 3.6.8 3.7.0 3.7-dev 3.7.1 3.7.2 3.8-dev `
+```
+
+Copied!
+
+The above shows all the Python versions that `pyenv` knows about that match the regular expression. In this case, that is all available CPython versions 3.6 through 3.8. Likewise, if you wanted to see all the Jython versions, you could do this:
+
+Shell
+
+```
+`$ pyenvinstall--list|grep"jython" jython-dev jython-2.5.0 jython-2.5-dev jython-2.5.1 jython-2.5.2 jython-2.5.3 jython-2.5.4-rc1 jython-2.7.0 jython-2.7.1 `
+```
+
+Copied!
+
+Again, you can see all the Jython versions that `pyenv` has to offer. If you want to see all the versions, you can do the following:
+
+Shell
+
+```
+`$ pyenvinstall--list ... # Therearealot `
+```
+
+Copied!
+
+Once you find the version you want, you can install it with a single command:
+
+Shell
+
+```
+`$ pyenvinstall-v3.7.2 /tmp/python-build.20190208022403.30568 ~ Downloading Python-3.7.2.tar.xz... -> https://www.python.org/ftp/python/3.7.2/Python-3.7.2.tar.xz Installing Python-3.7.2... /tmp/python-build.20190208022403.30568/Python-3.7.2 /tmp/python-build.20190208022403.30568 ~ [...] Installing collected packages: setuptools, pip Successfully installed pip-18.1 setuptools-40.6.2 Installed Python-3.7.2 to /home/realpython/.pyenv/versions/3.7.2 `
+```
+
+Copied!
+
+**Having Problems?** The [`pyenv` documentation](https://github.com/pyenv/pyenv) has great installation notes as well as a useful [FAQ](https://github.com/pyenv/pyenv/wiki) along with [common build problems](https://github.com/pyenv/pyenv/wiki/Common-build-problems).
+
+This will take a while because `pyenv` is building Python from source, but once it’s done, you’ll have Python 3.7.2 available on your local machine. If you don’t want to see all the output, just remove the `-v` flag. Even development versions of CPython can be installed:
+
+Shell
+
+```
+`$ pyenvinstall3.8-dev `
+```
+
+Copied!
+
+**Pro Tip:** If you’ve been using `pyenv` for a while and don’t see the version you’re looking for, you may need to run `pyenv update` to update the tool and make sure you have access to the latest versions.
+
+For the rest of the tutorial, the examples assume you’ve installed `3.6.8` and `2.7.15`, but you’re free to substitute these values for the Python versions you actually installed. Also note that the system Python version in the examples is `2.7.12`.
+
+![](https://img.realpython.net/fc3dcce3b30783158d89077cf5a8810e)
+
+[ Remove ads](/account/join/)
+
+### Installation Location[](#installation-location "Permanent link")
+
+As mentioned before, `pyenv` works by building Python from source. Each version that you have installed is located nicely in your `pyenv` root directory:
+
+Shell
+
+```
+`$ ls~/.pyenv/versions/ 2.7.15 3.6.8 3.8-dev `
+```
+
+Copied!
+
+All of your versions will be located here. This is handy because removing these versions is trivial:
+
+Shell
+
+```
+`$ rm-rf~/.pyenv/versions/2.7.15 `
+```
+
+Copied!
+
+Of course `pyenv` also provides a command to uninstall a particular Python version:
+
+Shell
+
+```
+`$ pyenvuninstall2.7.15 `
+```
+
+Copied!
+
+### Using Your New Python[](#using-your-new-python "Permanent link")
+
+Now that you’ve installed a couple of different Python versions, let’s see some basics on how to use them. First, check what versions of Python you have available:
+
+Shell
+
+```
+`$ pyenvversions * system (set by /home/realpython/.pyenv/version) 2.7.15 3.6.8 3.8-dev `
+```
+
+Copied!
+
+The `*` indicates that the `system` Python version is active currently. You’ll also notice that this is set by a file in your root `pyenv` directory. This means that, by default, you are still using your system Python:
+
+Shell
+
+```
+`$ python-V Python 2.7.12 `
+```
+
+Copied!
+
+If you try to confirm this using `which`, you’ll see this:
+
+Shell
+
+```
+`$ whichpython /home/realpython/.pyenv/shims/python `
+```
+
+Copied!
+
+This might be surprising, but this is how `pyenv` works. `pyenv` inserts itself into your [`PATH`](https://realpython.com/add-python-to-path/) and from your OS’s perspective _is_ the executable that is getting called. If you want to see the actual path, you can run the following:
+
+Shell
+
+```
+`$ pyenvwhichpython /usr/bin/python `
+```
+
+Copied!
+
+If, for example, you wanted to use version 2.7.15, then you can use the `global` command:
+
+Shell
+
+```
+`$ pyenvglobal2.7.15 $ python-V Python 2.7.15 $ pyenvversions  system * 2.7.15 (set by /home/realpython/.pyenv/version) 3.6.8 3.8-dev `
+```
+
+Copied!
+
+**Pro Tip:** A great way to get peace of mind that the version of Python you just installed is working properly is to run the built-in test suite:
+
+Shell
+
+```
+`$ pyenvglobal3.8-dev $ python-mtest `
+```
+
+Copied!
+
+This will kick off lots of internal Python tests that will verify your installation. You can just kick back and watch the tests pass.
+
+If you ever want to go back to the system version of Python as the default, you can run this:
+
+Shell
+
+```
+`$ pyenvglobalsystem $ python-V Python 2.7.12 `
+```
+
+Copied!
+
+You can now switch between different versions of Python with ease. This is just the beginning. If you have many versions that you want to switch between, typing these commands consistently is tedious. This section goes over the basics, but a better workflow is described in [working with multiple environments.](#working-with-multiple-environments)
+
+![](https://img.realpython.net/913fd28f526ec8aca047551bce4892b6)
+
+[ Remove ads](/account/join/)
+
+## Exploring `pyenv` Commands[](#exploring-pyenv-commands "Permanent link")
+
+`pyenv` offers many commands. You can see a complete list of all available commands with this:
+
+Shell
+
+```
+`$ pyenvcommands activate commands completions deactivate ... virtualenvs whence which `
+```
+
+Copied!
+
+This outputs all command names. Each command has a `--help` flag that will give you more detailed information. For example, if you wanted to see more information on the `shims` command you could run the following:
+
+Shell
+
+```
+`$ pyenvshims--help Usage: pyenv shims [--short] List existing pyenv shims `
+```
+
+Copied!
+
+The help message describes what the command is used for and any options you can use in conjunction with the command. In the following sections, you’ll find a quick, high-level overview of the most used commands.
+
+### `install`[](#install "Permanent link")
+
+You’ve already seen the `install` command above. This command can be used to install a specific version of Python. For example, if you wanted to install `3.6.8` you would use this:
+
+Shell
+
+```
+`$ pyenvinstall3.6.8 `
+```
+
+Copied!
+
+The output shows us `pyenv` downloading and installing Python. Some of the common flags you may want to use are the following:
+
+Flag | Description  
+---|---  
+`-l/--list` | Lists all available Python versions for installation  
+`-g/--debug` | Builds a debug version of Python  
+`-v/--verbose` | Verbose mode: print compilation status to stdout  
+  
+### `versions`[](#versions "Permanent link")
+
+The `versions` command displays all currently installed Python versions:
+
+Shell
+
+```
+`$ pyenvversions * system (set by /home/realpython/.pyenv/version) 2.7.15 3.6.8 3.8-dev `
+```
+
+Copied!
+
+This output shows not only that `2.7.15`, `3.6.8`, `3.8-dev`, and your `system` Python are installed, but also shows you that the `system` Python is active. If you only care about the current active version, you can use the following command:
+
+Shell
+
+```
+`$ pyenvversion system (set by /home/realpython/.pyenv/version) `
+```
+
+Copied!
+
+This command is similar to `versions` but only shows you the current active Python version.
+
+### `which`[](#which "Permanent link")
+
+The `which` command is helpful for determining the full path to a system executable. Because `pyenv` works by using shims, this command allows you to see the full path to the executable `pyenv` is running. For example, if you wanted to see where [`pip`](https://realpython.com/courses/what-is-pip/) is installed, you could run this:
+
+Shell
+
+```
+`$ pyenvwhichpip /home/realpython/.pyenv/versions/3.6.8/bin/pip `
+```
+
+Copied!
+
+The output displays the full system path for `pip`. This can be helpful when you’ve installed command-line applications.
+
+![](https://img.realpython.net/e8b8e877da2a454b3a6930fecd28c95c)
+
+[ Remove ads](/account/join/)
+
+### `global`[](#global "Permanent link")
+
+The `global` command sets the global Python version. This can be overridden with other commands, but is useful for ensuring you use a particular Python version by default. If you wanted to use `3.6.8` by default, then you could run this:
+
+Shell
+
+```
+`$ pyenvglobal3.6.8 `
+```
+
+Copied!
+
+This command sets the `~/.pyenv/version` to `3.6.8`. For more information, see the section on [specifying your Python version](#specifying-your-python-version).
+
+### `local`[](#local "Permanent link")
+
+The `local` command is often used to set an application-specific Python version. You could use it to set the version to `2.7.15`:
+
+Shell
+
+```
+`$ pyenvlocal2.7.15 `
+```
+
+Copied!
+
+This command creates a `.python-version` file in your current directory. If you have `pyenv` active in your environment, this file will automatically activate this version for you.
+
+### `shell`[](#shell "Permanent link")
+
+The `shell` command is used to set a shell-specific Python version. For example, if you wanted to test out the `3.8-dev` version of Python, you can do this:
+
+Shell
+
+```
+`$ pyenvshell3.8-dev `
+```
+
+Copied!
+
+This command activates the version specified by setting the `PYENV_VERSION` environment variable. This command overwrites any applications or global settings you may have. If you want to deactivate the version, you can use the `--unset` flag.
+
+## Specifying Your Python Version[](#specifying-your-python-version "Permanent link")
+
+One of the more confusing parts of `pyenv` is how exactly the `python` command gets resolved and what commands can be used to modify it. As mentioned in the commands, there are 3 ways to modify which version of `python` you’re using. So how do all these commands interact with one another? The resolution order looks a little something like this:
+
+[![Pyenv pyramid for order of resolution](https://files.realpython.com/media/pyenv-pyramid.d2f35a19ded9.png)](https://files.realpython.com/media/pyenv-pyramid.d2f35a19ded9.png)
+
+This pyramid is meant to be read from top to bottom. The first of these options that `pyenv` can find is the option it will use. Let’s see a quick example:
+
+Shell
+
+```
+`$ pyenvversions * system (set by /home/realpython/.pyenv/version) 2.7.15 3.6.8 3.8-dev `
+```
+
+Copied!
+
+Here, your `system` Python is being used as denoted by the `*`. To exercise the next most global setting, you use `global`:
+
+Shell
+
+```
+`$ pyenvglobal3.6.8 $ pyenvversions  system 2.7.15 * 3.6.8 (set by /home/realpython/.pyenv/version) 3.8-dev `
+```
+
+Copied!
+
+You can see that now `pyenv` wants to use `3.6.8` as our Python version. It even indicates the location of the file it found. That file does indeed exist, and you can list its contents:
+
+Shell
+
+```
+`$ cat~/.pyenv/version 3.6.8 `
+```
+
+Copied!
+
+Now, let’s create a `.python-version` file with `local`:
+
+Shell
+
+```
+`$ pyenvlocal2.7.15 $ pyenvversions  system * 2.7.15 (set by /home/realpython/.python-version) 3.6.8 3.8-dev $ ls-a . .. .python-version $ cat.python-version 2.7.15 `
+```
+
+Copied!
+
+Here again, `pyenv` indicates how it would resolve our `python` command. This time it comes from `~/.python-version`. Note that the searching for `.python-version` is [recursive](https://realpython.com/python-recursion/):
+
+Shell
+
+```
+`$ mkdirsubdirectory $ cdsubdirectory $ ls-la# Notice no .python-version file . .. $ pyenvversions  system * 2.7.15 (set by /home/realpython/.python-version) 3.6.8 3.8-dev `
+```
+
+Copied!
+
+Even though there isn’t a `.python-version` in `subdirectory`, the version is still set to `2.7.15` because `.python-version` exists in a parent directory.
+
+Finally, you can set the Python version with `shell`:
+
+Shell
+
+```
+`$ pyenvshell3.8-dev $ pyenvversions  system 2.7.15 3.6.8 * 3.8-dev (set by PYENV_VERSION environment variable) `
+```
+
+Copied!
+
+All this did is set the `$PYENV_VERSION` environment variable:
+
+Shell
+
+```
+`$ echo$PYENV_VERSION 3.8-dev `
+```
+
+Copied!
+
+If you’re feeling overwhelmed by the options, the section on [working with multiple environments](#working-with-multiple-environments) goes over an opinionated process for managing these files, mostly using `local`.
+
+![](https://img.realpython.net/8c80de229a52f9edcdfefa85a454bbbe)
+
+[ Remove ads](/account/join/)
+
+## Virtual Environments and `pyenv`[](#virtual-environments-and-pyenv "Permanent link")
+
+Virtual environments are a big part of managing Python installations and applications. If you haven’t heard of virtual environments before, you can check out [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/).
+
+Virtual environments and `pyenv` are a match made in heaven. `pyenv` has a wonderful plugin called [`pyenv-virtualenv`](https://github.com/pyenv/pyenv-virtualenv) that makes working with multiple Python version _and_ multiple virtual environments a breeze. If you’re wondering what the difference is between `pyenv`, `pyenv-virtualenv`, and tools like `virtualenv` or `venv`, then don’t worry. You’re not alone.
+
+Here’s what you need to know:
+
+  * **pyenv** manages multiple versions of Python itself.
+  * **virtualenv/venv** manages virtual environments for a specific Python version.
+  * **pyenv-virtualenv** manages virtual environments for across varying versions of Python.
+
+
+
+If you’re a die-hard `virtualenv` or `venv` user, don’t worry: `pyenv` plays nicely with either. In fact, you can keep the same workflow you’ve had if you’d prefer, though I think `pyenv-virtualenv` makes for a nicer experience when you’re switching between multiple environments that require different Python versions.
+
+The good news is that since you used the `pyenv-installer` script to install `pyenv`, you already have `pyenv-virtualenv` installed and ready to go.
+
+### Creating Virtual Environments[](#creating-virtual-environments "Permanent link")
+
+Creating a virtual environment is a single command:
+
+Shell
+
+```
+`$ pyenvvirtualenv<python_version><environment_name> `
+```
+
+Copied!
+
+Technically, the `<python_version>` is optional, but you should consider always specifying it so that you’re certain of what Python version you’re using.
+
+The `<environment_name>` is just a name for you to help keep your environments separate. A good practice is to name your environments the same name as your project. For example, if you were working on `myproject` and wanted to develop against Python 3.6.8, you would run this:
+
+Shell
+
+```
+`$ pyenvvirtualenv3.6.8myproject `
+```
+
+Copied!
+
+The output includes messages that show a couple of extra [Python packages](https://realpython.com/python-modules-packages/) getting installed, namely [`wheel`](https://realpython.com/python-wheels/), [`pip`](https://realpython.com/what-is-pip/), and `setuptools`. This is strictly for convenience and just sets up a more full featured environment for each of your virtual environments.
+
+### Activating Your Versions[](#activating-your-versions "Permanent link")
+
+Now that you’ve created your virtual environment, using it is the next step. Normally, you should activate your environments by running the following:
+
+Shell
+
+```
+`$ pyenvlocalmyproject `
+```
+
+Copied!
+
+You’ve seen the `pyenv local` command before, but this time, instead of specifying a Python version, you specify an environment. This creates a `.python-version` file in your current working directory and because you ran `eval "$(pyenv virtualenv-init -)"` in your environment, the environment will automatically be activated.
+
+You can verify this by running the following:
+
+Shell
+
+```
+`$ pyenvwhichpython /home/realpython/.pyenv/versions/myproject/bin/python `
+```
+
+Copied!
+
+You can see a new version has been created called `myproject` and the `python` executable is pointing to that version. If you look at any executable this environment provides, you will see the same thing. Take, for example, `pip`:
+
+Shell
+
+```
+`$ pyenvwhichpip /home/realpython/.pyenv/versions/myproject/bin/pip `
+```
+
+Copied!
+
+If you did not configure `eval "$(pyenv virtualenv-init -)"` to run in your shell, you can manually activate/deactivate your Python versions with this:
+
+Shell
+
+```
+`$ pyenvactivate<environment_name> $ pyenvdeactivate `
+```
+
+Copied!
+
+The above is what `pyenv-virtualenv` is doing when it enters or exits a directory with a `.python-version` file in it.
+
+![](https://img.realpython.net/babd32c4a9b6cf2453889710f58b5914)
+
+[ Remove ads](/account/join/)
+
+## Working With Multiple Environments[](#working-with-multiple-environments "Permanent link")
+
+Putting everything you’ve learned together, you can work effectively with multiple environments. Let’s assume you have the following versions installed:
+
+Shell
+
+```
+`$ pyenvversions * system (set by /home/realpython/.pyenv/version) 2.7.15 3.6.8 3.8-dev `
+```
+
+Copied!
+
+Now you want to work on two different, aptly named, projects:
+
+  1. **project1** supports Python 2.7 and 3.6.
+  2. **project2** supports Python 3.6 and experiments with 3.8-dev.
+
+
+
+You can see that, by default, you are using the system Python, which is indicated by the `*` in the `pyenv versions` output. First, create a virtual environment for the first project:
+
+Shell
+
+```
+`$ cdproject1/ $ pyenvwhichpython /usr/bin/python $ pyenvvirtualenv3.6.8project1 ... $ pyenvlocalproject1 $ python-V /home/realpython/.pyenv/versions/project1/bin/python `
+```
+
+Copied!
+
+Finally, notice that when you `cd` out of the directory, you default back to the system Python:
+
+Shell
+
+```
+`$ cd$HOME $ pyenvwhichpython /usr/bin/python `
+```
+
+Copied!
+
+You can follow the above steps and create a virtual environment for project2:
+
+Shell
+
+```
+`$ cdproject2/ $ pyenvwhichpython /usr/bin/python $ pyenvvirtualenv3.8-devproject2 ... $ pyenvlocal3.8-dev $ pyenvwhichpython /home/realpython/.pyenv/versions/3.8-dev/bin/python `
+```
+
+Copied!
+
+These are one time steps for your projects. Now, as you `cd` between the projects, your environments will automatically activate:
+
+Shell
+
+```
+`$ cdproject2/ $ python-V Python 3.8.0a0 $ cd../project1 $ python-V Python 3.6.8 `
+```
+
+Copied!
+
+No more remembering to activate environments: you can switch between all your projects, and `pyenv` will take care of automatically activating the correct Python versions _and_ the correct virtual environments.
+
+## Activating Multiple Versions Simultaneously[](#activating-multiple-versions-simultaneously "Permanent link")
+
+As described in the example above, `project2` uses experimental features in 3.8. Suppose you wanted to ensure that your code still works on Python 3.6. If you try running `python3.6`, you’ll get this:
+
+Shell
+
+```
+`$ cdproject2/ $ python3.6-V pyenv: python3.6: command not found The `python3.6' command exists in these Python versions: 3.6.8 3.6.8/envs/project1 project1 `
+```
+
+Copied!
+
+`pyenv` informs you that, while Python 3.6 is not available in the current active environment, it is available in other environments. `pyenv` gives you a way to activate multiple environments at once using a familiar command:
+
+Shell
+
+```
+`$ pyenvlocalproject23.6.8 `
+```
+
+Copied!
+
+This indicates to `pyenv` that you would like to use the virtual environment `project2` as the first option. So if a command, for example `python`, can be resolved in both environments, it will pick `project2` before `3.6.8`. Let’s see what happens if you run this:
+
+Shell
+
+```
+`$ python3.6-V Python 3.6.8 `
+```
+
+Copied!
+
+Here, `pyenv` attempts to find the `python3.6` command, and because it finds it in an environment that is active, it allows the command to execute. This is extremely useful for tools like [tox](https://tox.readthedocs.io/en/latest/) that require multiple versions of Python to be available on your `PATH` in order to execute.
+
+**Pro Tip:** If you’re using tox and `pyenv`, you should checkout the [tox-pyenv](https://pypi.org/project/tox-pyenv/) package.
+
+Suppose that in the above example, you’ve found a compatibility problem with your library and would like to do some local testing. The testing requires that you install all the dependencies. You should follow the steps to create a new environment:
+
+Shell
+
+```
+`$ pyenvvirtualenv3.6.8project2-tmp $ pyenvlocalproject2-tmp `
+```
+
+Copied!
+
+Once you’re satisfied with your local testing, you can easily switch back to your default environment:
+
+Shell
+
+```
+`$ pyenvlocalproject23.6.8 `
+```
+
+Copied!
+
+![](https://img.realpython.net/4abc783883f79f916711682eb20f448e)
+
+[ Remove ads](/account/join/)
+
+## Conclusion[](#conclusion "Permanent link")
+
+You can now more easily contribute to a project that wants to support multiple environments. You can also more easily test out the latest and greatest Python versions without having to worry about messing up your development machine, all with a wonderful tool: `pyenv`.
+
+You’ve seen how `pyenv` can help you:
+
+  * Install multiple versions of Python
+  * Switch between the installed versions
+  * Use virtual environments with `pyenv`
+  * Activate different Python versions and virtual environments automatically
+
+
+
+If you still have questions, feel free to reach out either in the comments section or on Twitter. Additionally, the [pyenv documentation](https://github.com/pyenv/pyenv) is a great resource.
+
+## Bonus: Displaying Your Environment Name in Your Command Prompt[](#bonus-displaying-your-environment-name-in-your-command-prompt "Permanent link")
+
+If you’re like me and constantly switching between various virtual environments and Python versions, it’s easy to get confused about which version is currently active. I use [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and the [agnoster theme](https://github.com/agnoster/agnoster-zsh-theme), which by default makes my prompt look like this:
+
+[![Agnoster theme with no pyenv prompt](https://files.realpython.com/media/agnoster-no-pyenv-prompt.01f0966b78d7.png)](https://files.realpython.com/media/agnoster-no-pyenv-prompt.01f0966b78d7.png)
+
+At a glance, I don’t know which Python version is active. To figure it out, I would have to run `python -V` or `pyenv version`. To help reduce my time spent on figuring out my active Python environment, I add the `pyenv` virtual environment I’m using to my prompt:
+
+[![Environment name being shown in ZSH command prompt](https://files.realpython.com/media/ljones-agnoster-pyenv-prompt.0b24a4a8f077.png)](https://files.realpython.com/media/ljones-agnoster-pyenv-prompt.0b24a4a8f077.png)
+
+My Python version in this case is `project1-venv` and is displayed immediately at the beginning of the prompt. This allows me to quickly see what version of Python I’m using right away. If you’d like to use this too, you can use my [agnoster-pyenv theme](https://gist.github.com/loganasherjones/bd9b7614f80b96cf700fd60e9e256f41).
+
+**Take the Quiz:** Test your knowledge with our interactive “Managing Multiple Python Versions With pyenv” quiz. You’ll receive a score upon completion to help you track your learning progress:
+
+[ ![Managing Multiple Python Versions With pyenv](https://files.realpython.com/media/Getting-Started-With-pyenv_Watermarked.7b1dd55b32a1.jpg) ](/quizzes/intro-to-pyenv/)
+
+**Interactive Quiz**
+
+[Managing Multiple Python Versions With pyenv](/quizzes/intro-to-pyenv/)
+
+In this quiz, you'll test your understanding of how to use pyenv to manage multiple versions of Python. Pyenv allows you to try out new Python features without disrupting your development environment, and quickly switch between different Python versions.
+
+Mark as Completed
+
+[](/feedback/survey/article/intro-to-pyenv/liked/?from=article-footer "Liked it") [](/feedback/survey/article/intro-to-pyenv/disliked/?from=article-footer "Disliked it")
+
+Share
+
+Watch Now This tutorial has a related video course created by the Real Python team. Watch it together with the written tutorial to deepen your understanding: [**Start Managing Multiple Python Versions With pyenv**](/courses/start-with-pyenv/)
+
+🐍 Python Tricks 💌
+
+Get a short & sweet **Python Trick** delivered to your inbox every couple of days. No spam ever. Unsubscribe any time. Curated by the Real Python team.
+
+![Python Tricks Dictionary Merge](/static/pytrick-dict-merge.4201a0125a5e.png)
+
+Send Me Python Tricks »
+
+About **Logan Jones**
+
+[ ![Logan Jones](/cdn-cgi/image/width=300,height=300,fit=crop,gravity=auto,format=auto/https://files.realpython.com/media/me-prof-square-smaller.f000e4b46788.png) ![Logan Jones](/cdn-cgi/image/width=300,height=300,fit=crop,gravity=auto,format=auto/https://files.realpython.com/media/me-prof-square-smaller.f000e4b46788.png) ](/team/ljones/)
+
+Hi, I'm Logan, an open source contributor, writer for Real Python, software developer, and always trying to get better. Feel free to reach out and let's get better together!
+
+[» More about Logan](/team/ljones/)
+
+_Each tutorial at Real Python is created by a team of developers so that it meets our high quality standards. The team members who worked on this tutorial are:_
+
+[![Aldren Santos](/cdn-cgi/image/width=959,height=959,fit=crop,gravity=auto,format=auto/https://files.realpython.com/media/PP.9b8b026f75b8.jpg)](/team/asantos/)
+
+[Aldren](/team/asantos/)
+
+[![Brad Solomon](/cdn-cgi/image/width=1188,height=1188,fit=crop,gravity=auto,format=auto/https://files.realpython.com/media/Screen_Shot_2021-09-28_at_3.13.21_PM.3310c56e90bd.jpg)](/team/bsolomon/)
+
+[Brad](/team/bsolomon/)
+
+[![Joanna Jablonski](/cdn-cgi/image/width=800,height=800,fit=crop,gravity=auto,format=auto/https://files.realpython.com/media/jjablonksi-avatar.e37c4f83308e.jpg)](/team/jjablonski/)
+
+[Joanna](/team/jjablonski/)
+
+Master _Real-World Python Skills_ With Unlimited Access to Real Python
+
+![Locked learning resources](/static/videos/lesson-locked.f5105cfd26db.svg)
+
+**Join us and get access to thousands of tutorials, hands-on video courses, and a community of expert Pythonistas:**
+
+[Level Up Your Python Skills »](/account/join/?utm_source=rp_article_footer&utm_content=intro-to-pyenv)
+
+Master _Real-World Python Skills_ With Unlimited Access to Real Python
+
+![Locked learning resources](/static/videos/lesson-locked.f5105cfd26db.svg)
+
+**Join us and get access to thousands of tutorials, hands-on video courses, and a community of expert Pythonistas:**
+
+[Level Up Your Python Skills »](/account/join/?utm_source=rp_article_footer&utm_content=intro-to-pyenv)
+
+What Do You Think?
+
+**Rate this article:**
+
+[](/feedback/survey/article/intro-to-pyenv/liked/?from=article-comments "Liked it") [](/feedback/survey/article/intro-to-pyenv/disliked/?from=article-comments "Disliked it")
+
+[LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Frealpython.com%2Fintro-to-pyenv%2F) [Twitter](https://twitter.com/intent/tweet/?text=Interesting%20Python%20article%20on%20%40realpython%3A%20Managing%20Multiple%20Python%20Versions%20With%20pyenv&url=https%3A%2F%2Frealpython.com%2Fintro-to-pyenv%2F) [Bluesky](https://bsky.app/intent/compose?text=Interesting%20Python%20article%20on%20%40realpython.com%3A%20Managing%20Multiple%20Python%20Versions%20With%20pyenv%20https%3A%2F%2Frealpython.com%2Fintro-to-pyenv%2F) [Facebook](https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Frealpython.com%2Fintro-to-pyenv%2F) Email
+
+What’s your #1 takeaway or favorite thing you learned? How are you going to put your newfound skills to use? Leave a comment below and let us know.
+
+**Commenting Tips:** The most useful comments are those written with the goal of learning from or helping out other students. [Get tips for asking good questions](https://realpython.com/python-beginner-tips/#tip-9-ask-good-questions) and [get answers to common questions in our support portal](https://support.realpython.com).
+
+Looking for a real-time conversation? Visit the [Real Python Community Chat](/community/) or join the next [“Office Hours” Live Q&A Session](/office-hours/). Happy Pythoning! 
+
+Keep Learning
+
+Related Topics: [advanced](/tutorials/advanced/) [tools](/tutorials/tools/)
+
+Recommended Video Course: [Start Managing Multiple Python Versions With pyenv](/courses/start-with-pyenv/)
+
+Related Tutorials:
+
+  * [Python Virtual Environments: A Primer](/python-virtual-environments-a-primer/?utm_source=realpython&utm_medium=web&utm_campaign=related-post&utm_content=intro-to-pyenv)
+  * [Dependency Management With Python Poetry](/dependency-management-python-poetry/?utm_source=realpython&utm_medium=web&utm_campaign=related-post&utm_content=intro-to-pyenv)
+  * [Async IO in Python: A Complete Walkthrough](/async-io-python/?utm_source=realpython&utm_medium=web&utm_campaign=related-post&utm_content=intro-to-pyenv)
+  * [Primer on Python Decorators](/primer-on-python-decorators/?utm_source=realpython&utm_medium=web&utm_campaign=related-post&utm_content=intro-to-pyenv)
+  * [How to Use Generators and yield in Python](/introduction-to-python-generators/?utm_source=realpython&utm_medium=web&utm_campaign=related-post&utm_content=intro-to-pyenv)
+
+
+
+## Keep reading Real Python by creating a free account or signing in:
+
+[![Keep reading](/static/videos/lesson-locked.f5105cfd26db.svg)](/account/signup/?intent=continue_reading&utm_source=rp&utm_medium=web&utm_campaign=rwn&utm_content=v1&next=%2Fintro-to-pyenv%2F)
+
+[Continue »](/account/signup/?intent=continue_reading&utm_source=rp&utm_medium=web&utm_campaign=rwn&utm_content=v1&next=%2Fintro-to-pyenv%2F)
+
+Already have an account? [Sign-In](/account/login/?next=/intro-to-pyenv/)
+
+Almost there! Complete this form and click the button below to gain instant access:
+
+×
+
+![Python Tricks: The Book](https://files.realpython.com/media/pytricks-book-mockup.e2bdf7273464.png)
+
+"Python Tricks: The Book" – Free Sample Chapter (PDF)
+
+Send My Sample Chapter »
+
+🔒 No spam. We take your privacy seriously.
+
+![](https://img.realpython.net/cc86980015e727765da60f4377ac2185)
+
+[Remove ads](/account/join/)
+
+© 2012–2025 Real Python ⋅ [Newsletter](/newsletter/) ⋅ [Podcast](/podcasts/rpp/) ⋅ [YouTube](https://www.youtube.com/realpython) ⋅ [Twitter](https://twitter.com/realpython) ⋅ [Facebook](https://facebook.com/LearnRealPython) ⋅ [Instagram](https://www.instagram.com/realpython/) ⋅ [Python Tutorials](/) ⋅ [Search](/search) ⋅ [Privacy Policy](/privacy-policy/) ⋅ [Energy Policy](/energy-policy/) ⋅ [Advertise](/sponsorships/) ⋅ [Contact](/contact/) Happy Pythoning!

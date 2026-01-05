@@ -1,0 +1,516 @@
+[ Tell 120+K peers about your AI research → Learn more 💡 ![](https://neptune.ai/wp-content/themes/neptune/img/icon-cancel.svg) ](/neurips-2024)
+
+[ ![logo](https://neptune.ai/wp-content/themes/neptune/img/logo-neptune.svg) ](https://neptune.ai "neptune.ai")
+
+  * [Product![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/09/show.svg)Overview](#)
+      * [Walkthrough [2 min]](https://neptune.ai/resources/foundation-model-training)
+      * [Deployment options](https://neptune.ai/product/deployment-options)
+      * [Security](https://security.neptune.ai/)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/compare-1.svg)Compare](#)
+      * [Neptune vs WandB](https://neptune.ai/vs/wandb)
+      * [Neptune vs MLflow](https://neptune.ai/vs/mlflow)
+      * [Neptune vs TensorBoard](https://neptune.ai/vs/tensorboard)
+      * [Other comparisons](https://neptune.ai/vs)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/07/bg-5.jpg?fit=768%2C432&ssl=1)Live Neptune projectPlay with a public example project that showcases Neptune's upcoming product release. It offers enhanced scalability and exciting new features. ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](https://scale.neptune.ai/o/neptune/org/LLM-training-example/runs/compare?viewId=9d0e032a-5a78-4a0e-81d1-98e0a7c81a8f&detailsTab=metadata&dash=charts&type=run&experimentOnly=true&compare=u0MsW4a1PJIUJ75nglpjHa9XUKFfAmcBRbLhNatCHX20)
+
+  * [Solutions![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/bulb.svg)By role](#)
+      * [AI Researcher](https://neptune.ai/product/ai-researcher)
+      * [ML Team Lead](https://neptune.ai/product/ml-team-lead)
+      * [ML Platform Engineer](https://neptune.ai/product/ml-platform)
+      * [Academia & Kagglers](https://neptune.ai/research)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/star.svg)By use case](#)
+      * [Monitor training](https://neptune.ai/product/monitor-training)
+      * [Compare experiments](https://neptune.ai/product/compare-experiments)
+      * [Collaborate with a team](https://neptune.ai/product/team-collaboration)
+      * [Reports](https://neptune.ai/product/reports)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/11/deepsense.ai-logo-e1667753808279.png?fit=75%2C75&ssl=1)Case studyHow deepsense.ai Tracked and Analyzed 120K+ Models Using Neptune ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/customers/deepsense-ai)[ ![Menu thumbnail](https://neptune.ai/wp-content/uploads/2023/06/Respo_square.svg)Case studyHow ReSpo.Vision Uses Neptune to Easily Track Training Pipelines at Scale ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/customers/respo-vision)
+
+[See all case studies ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg)](/resources?ct=case-study)
+
+  * [Developers![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Menu Item](#)
+      * [Documentation](https://docs.neptune.ai/)
+      * [Quickstart](https://docs.neptune.ai/usage/quickstart/)
+      * [Integrations](https://docs.neptune.ai/integrations/)
+      * [Code examples](https://github.com/neptune-ai/examples)
+
+  * [Resources![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/test-tube.svg)Use Neptune](#)
+      * [Play with public sandbox](https://scale.neptune.ai/o/neptune/org/LLM-training-example/runs/compare?viewId=9d0e032a-5a78-4a0e-81d1-98e0a7c81a8f&detailsTab=metadata&dash=charts&type=run&experimentOnly=true&compare=u0MsW4a1PJIUJ75nglpjHa9XUKFfAmcBRbLhNatCHX20)
+      * [Case studies](/resources?ct=case-study)
+      * [Example projects](/resources?ct=example-project)
+      * [Video tutorials](/resources?ct=video)
+      * [All Neptune resources](/resources)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/file.svg)Learn AI/ML](#)
+      * [Blog](https://neptune.ai/blog)
+      * [Experiment Tracking Learning Hub](https://neptune.ai/experiment-tracking-learn-hub)
+      * [LLMOps Learning Hub](https://neptune.ai/llmops-learning-hub)
+      * [MLOps Learning Hub](https://neptune.ai/mlops-learn-hub)
+      * [100 Second Research Playlist](https://www.youtube.com/watch?v=_sKZsx7Iprg&list=PLKePQLVx9tOcAGAKvmRuQ5Y1_k6wqG0cX&pp=iAQB)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/12/Building-The-Most-Scalable-Experiment-Tracker-For-Foundation-Models.png?fit=768%2C403&ssl=1)ArticleFrom Research to Production: Building The Most Scalable Experiment Tracker For Foundation ModelsAurimas Griciūnas discusses the journey and challenges behind building the most scalable experiment tracker for foundation model training. ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/blog/building-the-most-scalable-experiment-tracker-for-foundation-models)[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/11/reasercher-3-levels-challenge.webp?fit=768%2C432&ssl=1)VideoBreaking Down AI Research Across 3 Levels of DifficultyWe challenged AI/ML researchers to explain their work across 3 levels of difficulty: for a young learner, university student, and a fellow researcher.  ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](https://www.youtube.com/watch?v=zSEv3KBGlJQ&list=PLKePQLVx9tOfqC8ho2g_tQVxRga-XbIWa&index=3&t=9s)
+
+  * [Pricing](https://neptune.ai/pricing)
+  * [Enterprise](https://neptune.ai/product/enterprise)
+  * [Company![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Menu Item](#)
+      * [About us](https://neptune.ai/about-us)
+      * [Customers](https://neptune.ai/customers)
+      * [Careers](https://neptune.ai/jobs)
+      * [In the news](/about-us/#press)
+      * [Security](https://security.neptune.ai/)
+      * [Contact us](https://neptune.ai/contact-us)
+
+
+
+
+![search](https://neptune.ai/wp-content/themes/neptune/img/icon-search.svg)
+
+What do you want to find? 
+
+Search
+
+![cancel](https://neptune.ai/wp-content/themes/neptune/img/icon-cancel.svg)
+
+[ Log in  ](https://app.neptune.ai/login) [ Sign up  ](https://app.neptune.ai/register) [ Contact us  ](https://neptune.ai/contact-us)
+
+  * [Product![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/09/show.svg)Overview](#)
+      * [Walkthrough [2 min]](https://neptune.ai/resources/foundation-model-training)
+      * [Deployment options](https://neptune.ai/product/deployment-options)
+      * [Security](https://security.neptune.ai/)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/compare-1.svg)Compare](#)
+      * [Neptune vs WandB](https://neptune.ai/vs/wandb)
+      * [Neptune vs MLflow](https://neptune.ai/vs/mlflow)
+      * [Neptune vs TensorBoard](https://neptune.ai/vs/tensorboard)
+      * [Other comparisons](https://neptune.ai/vs)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/07/bg-5.jpg?fit=768%2C432&ssl=1)Live Neptune projectPlay with a public example project that showcases Neptune's upcoming product release. It offers enhanced scalability and exciting new features. ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](https://scale.neptune.ai/o/neptune/org/LLM-training-example/runs/compare?viewId=9d0e032a-5a78-4a0e-81d1-98e0a7c81a8f&detailsTab=metadata&dash=charts&type=run&experimentOnly=true&compare=u0MsW4a1PJIUJ75nglpjHa9XUKFfAmcBRbLhNatCHX20)
+
+  * [Solutions![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/bulb.svg)By role](#)
+      * [AI Researcher](https://neptune.ai/product/ai-researcher)
+      * [ML Team Lead](https://neptune.ai/product/ml-team-lead)
+      * [ML Platform Engineer](https://neptune.ai/product/ml-platform)
+      * [Academia & Kagglers](https://neptune.ai/research)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/star.svg)By use case](#)
+      * [Monitor training](https://neptune.ai/product/monitor-training)
+      * [Compare experiments](https://neptune.ai/product/compare-experiments)
+      * [Collaborate with a team](https://neptune.ai/product/team-collaboration)
+      * [Reports](https://neptune.ai/product/reports)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/11/deepsense.ai-logo-e1667753808279.png?fit=75%2C75&ssl=1)Case studyHow deepsense.ai Tracked and Analyzed 120K+ Models Using Neptune ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/customers/deepsense-ai)[ ![Menu thumbnail](https://neptune.ai/wp-content/uploads/2023/06/Respo_square.svg)Case studyHow ReSpo.Vision Uses Neptune to Easily Track Training Pipelines at Scale ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/customers/respo-vision)
+
+[See all case studies ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg)](/resources?ct=case-study)
+
+  * [Developers![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Menu Item](#)
+      * [Documentation](https://docs.neptune.ai/)
+      * [Quickstart](https://docs.neptune.ai/usage/quickstart/)
+      * [Integrations](https://docs.neptune.ai/integrations/)
+      * [Code examples](https://github.com/neptune-ai/examples)
+
+  * [Resources![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/test-tube.svg)Use Neptune](#)
+      * [Play with public sandbox](https://scale.neptune.ai/o/neptune/org/LLM-training-example/runs/compare?viewId=9d0e032a-5a78-4a0e-81d1-98e0a7c81a8f&detailsTab=metadata&dash=charts&type=run&experimentOnly=true&compare=u0MsW4a1PJIUJ75nglpjHa9XUKFfAmcBRbLhNatCHX20)
+      * [Case studies](/resources?ct=case-study)
+      * [Example projects](/resources?ct=example-project)
+      * [Video tutorials](/resources?ct=video)
+      * [All Neptune resources](/resources)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/file.svg)Learn AI/ML](#)
+      * [Blog](https://neptune.ai/blog)
+      * [Experiment Tracking Learning Hub](https://neptune.ai/experiment-tracking-learn-hub)
+      * [LLMOps Learning Hub](https://neptune.ai/llmops-learning-hub)
+      * [MLOps Learning Hub](https://neptune.ai/mlops-learn-hub)
+      * [100 Second Research Playlist](https://www.youtube.com/watch?v=_sKZsx7Iprg&list=PLKePQLVx9tOcAGAKvmRuQ5Y1_k6wqG0cX&pp=iAQB)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/12/Building-The-Most-Scalable-Experiment-Tracker-For-Foundation-Models.png?fit=768%2C403&ssl=1)ArticleFrom Research to Production: Building The Most Scalable Experiment Tracker For Foundation ModelsAurimas Griciūnas discusses the journey and challenges behind building the most scalable experiment tracker for foundation model training. ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/blog/building-the-most-scalable-experiment-tracker-for-foundation-models)[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/11/reasercher-3-levels-challenge.webp?fit=768%2C432&ssl=1)VideoBreaking Down AI Research Across 3 Levels of DifficultyWe challenged AI/ML researchers to explain their work across 3 levels of difficulty: for a young learner, university student, and a fellow researcher.  ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](https://www.youtube.com/watch?v=zSEv3KBGlJQ&list=PLKePQLVx9tOfqC8ho2g_tQVxRga-XbIWa&index=3&t=9s)
+
+  * [Pricing](https://neptune.ai/pricing)
+  * [Enterprise](https://neptune.ai/product/enterprise)
+  * [Company![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Menu Item](#)
+      * [About us](https://neptune.ai/about-us)
+      * [Customers](https://neptune.ai/customers)
+      * [Careers](https://neptune.ai/jobs)
+      * [In the news](/about-us/#press)
+      * [Security](https://security.neptune.ai/)
+      * [Contact us](https://neptune.ai/contact-us)
+
+
+
+
+[ Log in  ](https://app.neptune.ai/login) [ Sign up  ](https://app.neptune.ai/register) [ Contact us  ](https://neptune.ai/contact-us)
+
+#  **Neptune Blog**
+
+Learn from AI/ML engineers, researchers, and folks building foundation models: best practices, tool reviews, and real-world examples. 
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/hero/hero-stars--414w.png)
+
+Topics ![arrow](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down--blog-subheader.svg)
+
+  * All posts 
+  * Computer Vision 
+  * General 
+  * LLMOps 
+  * ML Model Development 
+  * ML Tools 
+  * MLOps 
+  * Natural Language Processing 
+  * Paper Reflections 
+  * Product Updates 
+  * Reinforcement Learning 
+  * Tabular Data 
+  * Time Series 
+
+
+
+![search](https://neptune.ai/wp-content/themes/neptune/img/icon-search.svg)
+
+##  ![](https://neptune.ai/wp-content/themes/neptune/img/c-icon-header--feature.svg) Featured
+
+  * LLMOps
+
+
+
+###  From Research to Production: Building The Most Scalable Experiment Tracker For Foundation Models 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/07/Aurimas-Griciunas.jpg?fit=600%2C600&ssl=1)
+
+Aurimas Griciunas 
+
+- 3 min 
+
+TL;DR At a large-scale model training (in huge models),... 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg)
+
+![Feed image](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/12/The-Neptune-Scale-experiment-tracker-in-action.png?fit=768%2C388&ssl=1) [](https://neptune.ai/blog/building-the-most-scalable-experiment-tracker-for-foundation-models)
+
+  * LLMOps
+
+
+
+###  Observability in LLMOps: Different Levels of Scale 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/07/Aurimas-Griciunas.jpg?fit=600%2C600&ssl=1)
+
+Aurimas Griciunas 
+
+- 3 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/observability-in-llmops)
+
+  * LLMOps
+
+
+
+###  Fine-Tuning Llama 3 with LoRA: Step-by-Step Guide 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/11/boris.jpeg?fit=800%2C800&ssl=1)
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/10/Kilian-Kluge-.jpeg?fit=400%2C400&ssl=1)
+
+Boris Martirosyan ,  Kilian Kluge 
+
+- 10 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/fine-tuning-llama-3-with-lora)
+
+![](https://neptune.ai/wp-content/uploads/2024/07/Demo-4.png)
+
+[ ](https://neptune.ai/product/foundational-model-training)
+
+##  ![](https://neptune.ai/wp-content/themes/neptune/img/c-icon-header--all.svg) See all
+
+  * LLMOps
+
+
+
+###  How to Build and Evaluate a RAG System Using LangChain, Ragas, and neptune.ai 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/12/image4.png?fit=1099%2C1099&ssl=1)
+
+Isaac Chung 
+
+- 8 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/building-and-evaluating-rag-system-using-langchain-ragas-neptune)
+
+  * LLMOps
+  * Paper Reflections
+
+
+
+###  Position: Understanding LLMs Requires More Than Statistical Generalization [Paper Reflection] 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/11/Patrik-Reizinger.jpeg?fit=800%2C800&ssl=1)
+
+Patrik Reizinger 
+
+- 3 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/understanding-llms-requires-more-than-statistical-generalization)
+
+![](https://neptune.ai/wp-content/uploads/2024/07/case-study-2-1.png)
+
+[ ](https://neptune.ai/customers/elevatus)
+
+  * LLMOps
+
+
+
+###  Transformers Key-Value Caching Explained 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/11/Michal_Oleszak.jpeg?fit=1599%2C1406&ssl=1)
+
+Michał Oleszak 
+
+- 8 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/transformers-key-value-caching)
+
+  * LLMOps
+  * Paper Reflections
+
+
+
+###  Learn From Failure: Fine-Tuning LLMs With Trial-and-Error Data For Intuitionistic Propositional Logic Proving [Paper Reflection] 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/11/Chenyang-An-.jpeg?fit=200%2C200&ssl=1)
+
+Chenyang An 
+
+- 3 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/fine-tuning-llms-with-trial-and-error-data-for-intuitionistic-propositional-logic-proving)
+
+  * LLMOps
+
+
+
+###  How to Run LLMs Locally 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/06/Gabriel-Goncalves.jpeg?fit=800%2C800&ssl=1)
+
+Gabriel Gonçalves 
+
+- 9 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/running-llms-locally)
+
+  * Product Updates
+
+
+
+###  Scale And Track Your AI/ML Workflows: neptune.ai + Flyte & Union Integration 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/11/Patrycja-Jenkner.jpg?fit=531%2C532&ssl=1)
+
+Patrycja Jenkner 
+
+- 2 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/flyte-union-integration)
+
+  * LLMOps
+
+
+
+###  LLM Hallucinations 101: Why Do They Appear? Can We Avoid Them? 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/09/Aitor-Mira-Abad.jpeg?fit=350%2C350&ssl=1)
+
+Aitor Mira Abad 
+
+- 9 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/llm-hallucinations)
+
+  * LLMOps
+
+
+
+###  LLM Guardrails: Secure and Controllable Deployment 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/09/Natalia-Kuzminykh.jpg?fit=150%2C150&ssl=1)
+
+Natalia Kuzminykh 
+
+- 7 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/llm-guardrails)
+
+![](https://neptune.ai/wp-content/uploads/2024/07/resources.png)
+
+[ ](https://neptune.ai/resources)
+
+  * LLMOps
+  * Reinforcement Learning
+
+
+
+###  Reinforcement Learning From Human Feedback (RLHF) For LLMs 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/11/Michal_Oleszak.jpeg?fit=1599%2C1406&ssl=1)
+
+Michał Oleszak 
+
+- 8 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/reinforcement-learning-from-human-feedback-for-llms)
+
+  * LLMOps
+
+
+
+###  LLMs For Structured Data 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/09/Ricardo-Cardoso-Pereira.jpeg?fit=800%2C800&ssl=1)
+
+Ricardo Cardoso Pereira 
+
+- 6 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/llm-for-structured-data)
+
+  * LLMOps
+
+
+
+###  Strategies For Effective Prompt Engineering 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/08/Lucia-Cordero-Sanchez.jpg?fit=150%2C150&ssl=1)
+
+Lucía Cordero Sánchez 
+
+- 13 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/prompt-engineering-strategies)
+
+  * LLMOps
+
+
+
+###  LLM Evaluation For Text Summarization 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/11/Gourav-Bais.jpeg?fit=800%2C800&ssl=1)
+
+Gourav Bais 
+
+- 10 min 
+
+Read more ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) [](https://neptune.ai/blog/llm-evaluation-text-summarization)
+
+![Previous](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-left.svg)
+
+  * [1](https://neptune.ai/blog#p-blog-all-posts)
+  * [2](https://neptune.ai/blog/page/2#p-blog-all-posts)
+  * [3](https://neptune.ai/blog/page/3#p-blog-all-posts)
+  * …
+  * [28](https://neptune.ai/blog/page/28#p-blog-all-posts)
+
+
+
+[![Next](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-right.svg)](https://neptune.ai/blog/page/2#p-blog-all-posts)
+
+![No results](https://neptune.ai/wp-content/themes/neptune/img/no-results.png)
+
+######  Unfortunately nothing was found. 
+
+##  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-search-results-header.svg) Results for: ()
+
+##  **Monitor your model training at scale**
+
+Join 60,000+ researchers and practitioners who use Neptune to debug training failures, spot anomalies, and compare experiments
+
+[ Try Neptune for free  ](https://app.neptune.ai/register/) [ See docs  ](https://docs.neptune.ai/)
+
+[ Take an interactive product tour  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) ](https://app.neptune.ai/o/showcase/org/onboarding-project/runs/table?viewId=98f66b32-2279-4b73-8210-863021c440ac&product_tour_id=444083)
+
+#### Newsletter
+
+Top articles, case studies, events (and more) in your inbox every month.
+
+Get Newsletter
+
+  * [Product](#)
+    * [Resources](https://neptune.ai/resources)
+    * [Pricing](https://neptune.ai/pricing)
+    * [Deployment options](https://neptune.ai/product/deployment-options)
+    * [Service status](https://status.neptune.ai/)
+
+
+  * [Solutions](#)
+    * [AI Researcher](https://neptune.ai/product/ai-researcher)
+    * [ML Team Lead](https://neptune.ai/product/ml-team-lead)
+    * [ML Platform Engineer](https://neptune.ai/product/ml-platform)
+    * [Enterprise](https://neptune.ai/product/enterprise)
+    * [Academic Research](https://neptune.ai/research)
+
+
+  * [Documentation](#)
+    * [Quickstart](https://docs.neptune.ai/usage/quickstart/)
+    * [Neptune docs](https://docs.neptune.ai/)
+    * [Neptune integrations](https://docs.neptune.ai/integrations/)
+
+
+  * [Compare](#)
+    * [Neptune vs Weights & Biases](https://neptune.ai/vs/wandb)
+    * [Neptune vs MLflow](https://neptune.ai/vs/mlflow)
+    * [Neptune vs TensorBoard](https://neptune.ai/vs/tensorboard)
+    * [Other comparisons](/vs)
+    * [ML experiment tracking tools](/blog/best-ml-experiment-tracking-tools)
+
+
+  * [Community](#)
+    * [Blog](https://neptune.ai/blog)
+    * [Experiment Tracking Learning Hub](https://neptune.ai/experiment-tracking-learn-hub)
+    * [LLMOps Learning Hub](https://neptune.ai/llmops-learning-hub)
+    * [MLOps Learning Hub](https://neptune.ai/mlops-learn-hub)
+    * [How to Build an Experiment Tracker](https://neptune.ai/blog/build-experiment-tracking-tool)
+
+
+  * [Company](#)
+    * [About us](https://neptune.ai/about-us)
+    * [Customers](https://neptune.ai/customers)
+    * [Careers](https://neptune.ai/jobs)
+    * [Security portal and SOC 2](https://security.neptune.ai/)
+    * [Contact us](https://neptune.ai/contact-us)
+
+
+
+[ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-linked-in.svg) ](https://www.linkedin.com/company/neptuneai) [ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-twitter.svg) ](https://twitter.com/neptune_ai) [ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-github.svg) ](https://github.com/neptune-ai) [ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-facebook.svg) ](https://www.facebook.com/neptuneAI) [ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-youtube.svg) ](https://www.youtube.com/channel/UCvOJU-ubyUqxGSDRN7xK4Ng) [ ![social icon](https://neptune.ai/wp-content/uploads/2023/01/icon-spotify.svg) ](https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x) [ ![social icon](https://neptune.ai/wp-content/uploads/2023/01/icon-apple-podcast.svg) ](https://podcasts.apple.com/us/podcast/mlops-live/id1634179447)
+
+Copyright © 2025 Neptune Labs. All rights reserved.
+
+![](https://neptune.ai/wp-content/themes/neptune/img/footer-stars--414w.png) ![](https://pixel.wp.com/g.gif?v=ext&blog=211928962&post=1058&tz=0&srv=neptune.ai&hp=atomic&ac=2&amp=0&j=1%3A14.3-a.3&host=neptune.ai&ref=&fcp=0&rand=0.4883251036924243)
+
+![](https://bat.bing.com/action/0?ti=97011748&tm=gtm002&Ver=2&mid=797a8ef8-246c-4026-9f88-37ff87f1ff13&bo=1&sid=f6e1c3c0d8b211efa2fb35197f87b25f&vid=f6e22aa0d8b211ef9213076847423bc0&vids=1&msclkid=N&uach=pv%3D10.0&pi=918639831&lg=en-GB&sw=1920&sh=1080&sc=24&nwd=1&tl=Blog%20-%20neptune.ai&p=https%3A%2F%2Fneptune.ai%2Fblog&r=&lt=1889&evt=pageLoad&sv=1&cdb=AQkR&rn=693953)
+
+Manage your cookies 
+
+We use the necessary cookies to make Neptune work. We’d like to use other cookies to improve your visit, tailor ads, and analyze our website’s performance, but only if you accept.  [ Read more ](https://neptune.ai/privacy-policy)
+
+Save & Close 
+
+Accept all 
+
+Decline all 
+
+Customize  Hide details 

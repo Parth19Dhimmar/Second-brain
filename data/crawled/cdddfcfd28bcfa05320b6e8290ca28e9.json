@@ -1,0 +1,39 @@
+{
+    "id": "cdddfcfd28bcfa05320b6e8290ca28e9",
+    "metadata": {
+        "id": "cdddfcfd28bcfa05320b6e8290ca28e9",
+        "url": "https://huggingface.co/spaces/mteb/leaderboard/",
+        "title": "MTEB Leaderboard - a Hugging Face Space by mteb",
+        "properties": {
+            "description": "Discover amazing ML apps made by the community",
+            "keywords": null,
+            "author": null,
+            "og:title": "MTEB Leaderboard - a Hugging Face Space by mteb",
+            "og:type": "website",
+            "og:url": "https://huggingface.co/spaces/mteb/leaderboard",
+            "og:image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/mteb/leaderboard.png",
+            "twitter:card": "summary_large_image",
+            "twitter:site": "@huggingface",
+            "twitter:image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/mteb/leaderboard.png"
+        }
+    },
+    "parent_metadata": {
+        "id": "675bcbbc0abcb0a7ee1bd3da473f6b32",
+        "url": "https://www.notion.so/Embeddings-675bcbbc0abcb0a7ee1bd3da473f6b32",
+        "title": "Embeddings",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "content": "# [Spaces](/spaces) [![Hugging Face's logo](/front/assets/huggingface_logo-noborder.svg)](/)\n\n[![](https://cdn-avatars.huggingface.co/v1/production/uploads/1664267264786-5f1eb362eec0ad2a071ad6e2.png)](/mteb)\n\n[mteb](/mteb)\n\n/\n\n[leaderboard](/spaces/mteb/leaderboard)\n\nlike 4.58k\n\nRunning on CPU Upgrade\n\n[ App ](/spaces/mteb/leaderboard)[ Files Files ](/spaces/mteb/leaderboard/tree/main)[ Community 150 ](/spaces/mteb/leaderboard/discussions)\n\nFetching metadata from the HF Docker repository...\n\nRefreshing\n",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://huggingface.co/spaces",
+        "https://huggingface.co/",
+        "https://huggingface.co/mteb",
+        "https://huggingface.co/spaces/mteb/leaderboard",
+        "https://huggingface.co/spaces/mteb/leaderboard/tree/main",
+        "https://huggingface.co/spaces/mteb/leaderboard/discussions"
+    ]
+}

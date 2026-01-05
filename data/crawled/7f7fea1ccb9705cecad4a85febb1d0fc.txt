@@ -1,0 +1,640 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Frun-llama%2Fllama_index%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Frun-llama%2Fllama_index%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=run-llama%2Fllama_index) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ run-llama ](/run-llama) / **[llama_index](/run-llama/llama_index) ** Public
+
+  * [ Notifications ](/login?return_to=%2Frun-llama%2Fllama_index) You must be signed in to change notification settings
+  * [ Fork 5.5k ](/login?return_to=%2Frun-llama%2Fllama_index)
+  * [ Star  38.2k ](/login?return_to=%2Frun-llama%2Fllama_index)
+
+
+
+
+LlamaIndex is the leading framework for building LLM-powered agents over your data. 
+
+[docs.llamaindex.ai](https://docs.llamaindex.ai "https://docs.llamaindex.ai")
+
+### License
+
+[ MIT license ](/run-llama/llama_index/blob/main/LICENSE)
+
+[ 38.2k stars ](/run-llama/llama_index/stargazers) [ 5.5k forks ](/run-llama/llama_index/forks) [ Branches ](/run-llama/llama_index/branches) [ Tags ](/run-llama/llama_index/tags) [ Activity ](/run-llama/llama_index/activity)
+
+[ Star  ](/login?return_to=%2Frun-llama%2Fllama_index)
+
+[ Notifications ](/login?return_to=%2Frun-llama%2Fllama_index) You must be signed in to change notification settings
+
+  * [ Code ](/run-llama/llama_index)
+  * [ Issues 615 ](/run-llama/llama_index/issues)
+  * [ Pull requests 74 ](/run-llama/llama_index/pulls)
+  * [ Discussions ](/run-llama/llama_index/discussions)
+  * [ Actions ](/run-llama/llama_index/actions)
+  * [ Projects 1 ](/run-llama/llama_index/projects)
+  * [ Security ](/run-llama/llama_index/security)
+  * [ Insights ](/run-llama/llama_index/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/run-llama/llama_index)
+  * [ Issues  ](/run-llama/llama_index/issues)
+  * [ Pull requests  ](/run-llama/llama_index/pulls)
+  * [ Discussions  ](/run-llama/llama_index/discussions)
+  * [ Actions  ](/run-llama/llama_index/actions)
+  * [ Projects  ](/run-llama/llama_index/projects)
+  * [ Security  ](/run-llama/llama_index/security)
+  * [ Insights  ](/run-llama/llama_index/pulse)
+
+
+
+# run-llama/llama_index
+
+main
+
+[**214** Branches](/run-llama/llama_index/branches)[**382** Tags](/run-llama/llama_index/tags)
+
+[](/run-llama/llama_index/branches)[](/run-llama/llama_index/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![sourabhdesai](https://avatars.githubusercontent.com/u/3005241?v=4&size=40)](/sourabhdesai)[sourabhdesai](/run-llama/llama_index/commits?author=sourabhdesai)[Add framework integration for composite retrieval (](/run-llama/llama_index/commit/b020aa0c1b1b2d1b984a0be8b09b69018d1b6d55)[#17536](https://github.com/run-llama/llama_index/pull/17536)[)](/run-llama/llama_index/commit/b020aa0c1b1b2d1b984a0be8b09b69018d1b6d55)Jan 22, 2025[b020aa0](/run-llama/llama_index/commit/b020aa0c1b1b2d1b984a0be8b09b69018d1b6d55) · Jan 22, 2025
+
+## History
+
+[5,874 Commits](/run-llama/llama_index/commits/main/)[](/run-llama/llama_index/commits/main/)  
+[.github](/run-llama/llama_index/tree/main/.github ".github")| [.github](/run-llama/llama_index/tree/main/.github ".github")| [MultiAgentWorkflow (](/run-llama/llama_index/commit/d77f15a9d0cbab21854d50c99cd8434e7fb74cea "MultiAgentWorkflow \(#17237\)")[#17237](https://github.com/run-llama/llama_index/pull/17237)[)](/run-llama/llama_index/commit/d77f15a9d0cbab21854d50c99cd8434e7fb74cea "MultiAgentWorkflow \(#17237\)")| Jan 17, 2025  
+[_llama-index/llama_index/_bundle](/run-llama/llama_index/tree/main/_llama-index/llama_index/_bundle "This path skips through empty directories")| [_llama-index/llama_index/_bundle](/run-llama/llama_index/tree/main/_llama-index/llama_index/_bundle "This path skips through empty directories")| [v0.10.0 (](/run-llama/llama_index/commit/369973f4e8c1d6928149f0904b25473faeadb116 "v0.10.0 \(#10537\)")[#10537](https://github.com/run-llama/llama_index/pull/10537)[)](/run-llama/llama_index/commit/369973f4e8c1d6928149f0904b25473faeadb116 "v0.10.0 \(#10537\)")| Feb 12, 2024  
+[benchmarks](/run-llama/llama_index/tree/main/benchmarks "benchmarks")| [benchmarks](/run-llama/llama_index/tree/main/benchmarks "benchmarks")| [v0.10.0 (](/run-llama/llama_index/commit/369973f4e8c1d6928149f0904b25473faeadb116 "v0.10.0 \(#10537\)")[#10537](https://github.com/run-llama/llama_index/pull/10537)[)](/run-llama/llama_index/commit/369973f4e8c1d6928149f0904b25473faeadb116 "v0.10.0 \(#10537\)")| Feb 12, 2024  
+[docs](/run-llama/llama_index/tree/main/docs "docs")| [docs](/run-llama/llama_index/tree/main/docs "docs")| [Add framework integration for composite retrieval (](/run-llama/llama_index/commit/b020aa0c1b1b2d1b984a0be8b09b69018d1b6d55 "Add framework integration for composite retrieval \(#17536\)")[#17536](https://github.com/run-llama/llama_index/pull/17536)[)](/run-llama/llama_index/commit/b020aa0c1b1b2d1b984a0be8b09b69018d1b6d55 "Add framework integration for composite retrieval \(#17536\)")| Jan 22, 2025  
+[experimental](/run-llama/llama_index/tree/main/experimental "experimental")| [experimental](/run-llama/llama_index/tree/main/experimental "experimental")| [openai_fine_tuning fix for asyncio (](/run-llama/llama_index/commit/ca0d87a2524a9c8612b56379ea547fcc2550ecc0 "openai_fine_tuning fix for asyncio \(#12667\)
+* Add files via upload
+Adding nest_asyncio.apply\(\) to resolve RuntimeError: asyncio.run\(\) cannot be called from a running event loop
+* Delete experimental/openai_fine_tuning/openai_fine_tuning-2.ipynb
+* Update openai_fine_tuning.ipynb with asyncio to fix runtime error")[#12667](https://github.com/run-llama/llama_index/pull/12667)[)](/run-llama/llama_index/commit/ca0d87a2524a9c8612b56379ea547fcc2550ecc0 "openai_fine_tuning fix for asyncio \(#12667\)
+* Add files via upload
+Adding nest_asyncio.apply\(\) to resolve RuntimeError: asyncio.run\(\) cannot be called from a running event loop
+* Delete experimental/openai_fine_tuning/openai_fine_tuning-2.ipynb
+* Update openai_fine_tuning.ipynb with asyncio to fix runtime error")| Apr 9, 2024  
+[llama-datasets](/run-llama/llama_index/tree/main/llama-datasets "llama-datasets")| [llama-datasets](/run-llama/llama_index/tree/main/llama-datasets "llama-datasets")| [Move llama-dataset metadata from llama-hub repo to llama-index (](/run-llama/llama_index/commit/b3112de72f6253510ee9a94a9b18fd0e602ea4c0 "Move llama-dataset metadata from llama-hub repo to llama-index \(#11488\)
+* copy dataset metadata
+* update library.json and download modules
+* working
+* pants tailor
+* use main not dev branch")[#11488](https://github.com/run-llama/llama_index/pull/11488)[)](/run-llama/llama_index/commit/b3112de72f6253510ee9a94a9b18fd0e602ea4c0 "Move llama-dataset metadata from llama-hub repo to llama-index \(#11488\)
+* copy dataset metadata
+* update library.json and download modules
+* working
+* pants tailor
+* use main not dev branch")| Feb 29, 2024  
+[llama-index-cli](/run-llama/llama_index/tree/main/llama-index-cli "llama-index-cli")| [llama-index-cli](/run-llama/llama_index/tree/main/llama-index-cli "llama-index-cli")| [feat: Hyperbrowser Web Reader (](/run-llama/llama_index/commit/0a6eaa89335a1fd292026fe3aab28569ef864078 "feat: Hyperbrowser Web Reader \(#17489\)")[#17489](https://github.com/run-llama/llama_index/pull/17489)[)](/run-llama/llama_index/commit/0a6eaa89335a1fd292026fe3aab28569ef864078 "feat: Hyperbrowser Web Reader \(#17489\)")| Jan 17, 2025  
+[llama-index-core](/run-llama/llama_index/tree/main/llama-index-core "llama-index-core")| [llama-index-core](/run-llama/llama_index/tree/main/llama-index-core "llama-index-core")| [Contextual Retrieval (](/run-llama/llama_index/commit/be222f4591903cd0ac0ba94343116a6831519a4b "Contextual Retrieval \(#17367\)")[#17367](https://github.com/run-llama/llama_index/pull/17367)[)](/run-llama/llama_index/commit/be222f4591903cd0ac0ba94343116a6831519a4b "Contextual Retrieval \(#17367\)")| Jan 21, 2025  
+[llama-index-experimental](/run-llama/llama_index/tree/main/llama-index-experimental "llama-index-experimental")| [llama-index-experimental](/run-llama/llama_index/tree/main/llama-index-experimental "llama-index-experimental")| [fix and update pants/cicd (](/run-llama/llama_index/commit/8ac7dc5af380c8b7102a5daaf62964ba10ab6fa8 "fix and update pants/cicd \(#17538\)")[#17538](https://github.com/run-llama/llama_index/pull/17538)[)](/run-llama/llama_index/commit/8ac7dc5af380c8b7102a5daaf62964ba10ab6fa8 "fix and update pants/cicd \(#17538\)")| Jan 17, 2025  
+[llama-index-finetuning](/run-llama/llama_index/tree/main/llama-index-finetuning "llama-index-finetuning")| [llama-index-finetuning](/run-llama/llama_index/tree/main/llama-index-finetuning "llama-index-finetuning")| [v0.12.0 (](/run-llama/llama_index/commit/49416d288626930a16fdf8776e9ca617ddb51404 "v0.12.0 \(#16986\)")[#16986](https://github.com/run-llama/llama_index/pull/16986)[)](/run-llama/llama_index/commit/49416d288626930a16fdf8776e9ca617ddb51404 "v0.12.0 \(#16986\)")| Nov 18, 2024  
+[llama-index-integrations](/run-llama/llama_index/tree/main/llama-index-integrations "llama-index-integrations")| [llama-index-integrations](/run-llama/llama_index/tree/main/llama-index-integrations "llama-index-integrations")| [Add framework integration for composite retrieval (](/run-llama/llama_index/commit/b020aa0c1b1b2d1b984a0be8b09b69018d1b6d55 "Add framework integration for composite retrieval \(#17536\)")[#17536](https://github.com/run-llama/llama_index/pull/17536)[)](/run-llama/llama_index/commit/b020aa0c1b1b2d1b984a0be8b09b69018d1b6d55 "Add framework integration for composite retrieval \(#17536\)")| Jan 22, 2025  
+[llama-index-networks](/run-llama/llama_index/tree/main/llama-index-networks "llama-index-networks")| [llama-index-networks](/run-llama/llama_index/tree/main/llama-index-networks "llama-index-networks")| [tests: update fastapi (](/run-llama/llama_index/commit/a360c37b2f160f7879966aee03423b70e897d596 "tests: update fastapi \(#17167\)
+* update fastapi
+* bump version")[#17167](https://github.com/run-llama/llama_index/pull/17167)[)](/run-llama/llama_index/commit/a360c37b2f160f7879966aee03423b70e897d596 "tests: update fastapi \(#17167\)
+* update fastapi
+* bump version")| Dec 5, 2024  
+[llama-index-packs](/run-llama/llama_index/tree/main/llama-index-packs "llama-index-packs")| [llama-index-packs](/run-llama/llama_index/tree/main/llama-index-packs "llama-index-packs")| [API Migration (](/run-llama/llama_index/commit/6f3a661f45b433a07cfbc99f5e57b16faac1d54f "API Migration \(#17545\)")[#17545](https://github.com/run-llama/llama_index/pull/17545)[)](/run-llama/llama_index/commit/6f3a661f45b433a07cfbc99f5e57b16faac1d54f "API Migration \(#17545\)")| Jan 20, 2025  
+[llama-index-utils](/run-llama/llama_index/tree/main/llama-index-utils "llama-index-utils")| [llama-index-utils](/run-llama/llama_index/tree/main/llama-index-utils "llama-index-utils")| [v0.12.0 (](/run-llama/llama_index/commit/49416d288626930a16fdf8776e9ca617ddb51404 "v0.12.0 \(#16986\)")[#16986](https://github.com/run-llama/llama_index/pull/16986)[)](/run-llama/llama_index/commit/49416d288626930a16fdf8776e9ca617ddb51404 "v0.12.0 \(#16986\)")| Nov 18, 2024  
+[scripts](/run-llama/llama_index/tree/main/scripts "scripts")| [scripts](/run-llama/llama_index/tree/main/scripts "scripts")| [Add `bottom_n`, `package_tuple_to_str`, and restrict `num_workers` to…](/run-llama/llama_index/commit/acea53c2c6ce71a9b4d0e1b96d17fd1a5b299eaf "Add `bottom_n`, `package_tuple_to_str`, and restrict `num_workers` to 1 \(#17222\)")| Dec 11, 2024  
+[.gitignore](/run-llama/llama_index/blob/main/.gitignore ".gitignore")| [.gitignore](/run-llama/llama_index/blob/main/.gitignore ".gitignore")| [feat: Multimodal Node (](/run-llama/llama_index/commit/795bebc2bad31db51b854a5c062bedca42397630 "feat: Multimodal Node \(#16962\)
+* clean gitignore
+* first draft
+* fix python versioning and typing
+* fix typing
+* make embedding storage more flexible
+* test mimetype guessing
+* add pants build file to the new package
+* add unit tests
+* add unit tests
+* use the right config value
+* better get/set_content
+* try
+* revert
+* pants explicit dependency
+* fix tests
+* try
+* fix one more test
+* do not load path, same as url
+* oops..
+* try")[#16962](https://github.com/run-llama/llama_index/pull/16962)[)](/run-llama/llama_index/commit/795bebc2bad31db51b854a5c062bedca42397630 "feat: Multimodal Node \(#16962\)
+* clean gitignore
+* first draft
+* fix python versioning and typing
+* fix typing
+* make embedding storage more flexible
+* test mimetype guessing
+* add pants build file to the new package
+* add unit tests
+* add unit tests
+* use the right config value
+* better get/set_content
+* try
+* revert
+* pants explicit dependency
+* fix tests
+* try
+* fix one more test
+* do not load path, same as url
+* oops..
+* try")| Nov 20, 2024  
+[.pre-commit-config.yaml](/run-llama/llama_index/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/run-llama/llama_index/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [remove unnecessary exclude line in pre-commit-config; update docs (](/run-llama/llama_index/commit/a2e5e7a79b8a4148654dcb4386a8405c9a8f3329 "remove unnecessary exclude line in pre-commit-config; update docs \(#17431\)")[#1…](https://github.com/run-llama/llama_index/pull/17431)| Jan 5, 2025  
+[.readthedocs.yaml](/run-llama/llama_index/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [.readthedocs.yaml](/run-llama/llama_index/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [update install command (](/run-llama/llama_index/commit/a18e9643261634191ee6aaea1c9bab6f9be5027b "update install command \(#16435\)")[#16435](https://github.com/run-llama/llama_index/pull/16435)[)](/run-llama/llama_index/commit/a18e9643261634191ee6aaea1c9bab6f9be5027b "update install command \(#16435\)")| Oct 9, 2024  
+[BUILD](/run-llama/llama_index/blob/main/BUILD "BUILD")| [BUILD](/run-llama/llama_index/blob/main/BUILD "BUILD")| [v0.10.0 (](/run-llama/llama_index/commit/369973f4e8c1d6928149f0904b25473faeadb116 "v0.10.0 \(#10537\)")[#10537](https://github.com/run-llama/llama_index/pull/10537)[)](/run-llama/llama_index/commit/369973f4e8c1d6928149f0904b25473faeadb116 "v0.10.0 \(#10537\)")| Feb 12, 2024  
+[CHANGELOG.md](/run-llama/llama_index/blob/main/CHANGELOG.md "CHANGELOG.md")| [CHANGELOG.md](/run-llama/llama_index/blob/main/CHANGELOG.md "CHANGELOG.md")| [v0.12.12 (](/run-llama/llama_index/commit/1183f72f83e1992eae28ee3181bd4080596b4df2 "v0.12.12 \(#17561\)")[#17561](https://github.com/run-llama/llama_index/pull/17561)[)](/run-llama/llama_index/commit/1183f72f83e1992eae28ee3181bd4080596b4df2 "v0.12.12 \(#17561\)")| Jan 20, 2025  
+[CITATION.cff](/run-llama/llama_index/blob/main/CITATION.cff "CITATION.cff")| [CITATION.cff](/run-llama/llama_index/blob/main/CITATION.cff "CITATION.cff")| `[prettier](/run-llama/llama_index/commit/5076bc39e2479bed6462c0470feb34bb6b37281e "`prettier` in `pre-commit`: formatting non-Python \(#8072\)")` [in](/run-llama/llama_index/commit/5076bc39e2479bed6462c0470feb34bb6b37281e "`prettier` in `pre-commit`: formatting non-Python \(#8072\)") `[pre-commit](/run-llama/llama_index/commit/5076bc39e2479bed6462c0470feb34bb6b37281e "`prettier` in `pre-commit`: formatting non-Python \(#8072\)")`[: formatting non-Python (](/run-llama/llama_index/commit/5076bc39e2479bed6462c0470feb34bb6b37281e "`prettier` in `pre-commit`: formatting non-Python \(#8072\)")[#8072](https://github.com/run-llama/llama_index/pull/8072)[)](/run-llama/llama_index/commit/5076bc39e2479bed6462c0470feb34bb6b37281e "`prettier` in `pre-commit`: formatting non-Python \(#8072\)")| Oct 12, 2023  
+[CODE_OF_CONDUCT.md](/run-llama/llama_index/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/run-llama/llama_index/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Create CODE_OF_CONDUCT.md (](/run-llama/llama_index/commit/732e443bc0872668b8bc99ae62e21a72750db6c7 "Create CODE_OF_CONDUCT.md \(#11983\)")[#11983](https://github.com/run-llama/llama_index/pull/11983)[)](/run-llama/llama_index/commit/732e443bc0872668b8bc99ae62e21a72750db6c7 "Create CODE_OF_CONDUCT.md \(#11983\)")| Mar 19, 2024  
+[CONTRIBUTING.md](/run-llama/llama_index/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/run-llama/llama_index/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [note on contributing integrations (](/run-llama/llama_index/commit/6450228a1aeeb519f7a14bf99f0a827e1c642ec9 "note on contributing integrations \(#17481\)")[#17481](https://github.com/run-llama/llama_index/pull/17481)[)](/run-llama/llama_index/commit/6450228a1aeeb519f7a14bf99f0a827e1c642ec9 "note on contributing integrations \(#17481\)")| Jan 10, 2025  
+[LICENSE](/run-llama/llama_index/blob/main/LICENSE "LICENSE")| [LICENSE](/run-llama/llama_index/blob/main/LICENSE "LICENSE")| [Updated `ruff` and `Makefile`, added `toml-sort` and `pre-commit-hook…](/run-llama/llama_index/commit/4297f300ad72aff8bb24ae72e7976888f3f3f468 "Updated `ruff` and `Makefile`, added `toml-sort` and `pre-commit-hooks` \(#7889\)")| Oct 4, 2023  
+[Makefile](/run-llama/llama_index/blob/main/Makefile "Makefile")| [Makefile](/run-llama/llama_index/blob/main/Makefile "Makefile")| [Unit Tests for](/run-llama/llama_index/commit/535d0a4655df8de89501e2aa60a0afa61571ba10 "Unit Tests for `llama-index-llms-bedrock-converse` \(#16379\)
+* Removed unused `llama-index-llms-anthropic` dependency. Incremented to `0.3.0`.
+* Expanded range for `pytest` and `pytest-mock` to support `pytest-asyncio`
+* Unit tests for main functions
+* remove lock
+* make coverage checks more narrow
+* rename test
+* update makefile
+* wrong arg names
+* even better workflow
+* improve check
+* try again?
+* ok, i think this works
+* Streamlined unit tests.
+* Consolidated mock exception
+---------
+Co-authored-by: Logan Markewich <logan.markewich@live.com>") `[llama-index-llms-bedrock-converse](/run-llama/llama_index/commit/535d0a4655df8de89501e2aa60a0afa61571ba10 "Unit Tests for `llama-index-llms-bedrock-converse` \(#16379\)
+* Removed unused `llama-index-llms-anthropic` dependency. Incremented to `0.3.0`.
+* Expanded range for `pytest` and `pytest-mock` to support `pytest-asyncio`
+* Unit tests for main functions
+* remove lock
+* make coverage checks more narrow
+* rename test
+* update makefile
+* wrong arg names
+* even better workflow
+* improve check
+* try again?
+* ok, i think this works
+* Streamlined unit tests.
+* Consolidated mock exception
+---------
+Co-authored-by: Logan Markewich <logan.markewich@live.com>")` [(](/run-llama/llama_index/commit/535d0a4655df8de89501e2aa60a0afa61571ba10 "Unit Tests for `llama-index-llms-bedrock-converse` \(#16379\)
+* Removed unused `llama-index-llms-anthropic` dependency. Incremented to `0.3.0`.
+* Expanded range for `pytest` and `pytest-mock` to support `pytest-asyncio`
+* Unit tests for main functions
+* remove lock
+* make coverage checks more narrow
+* rename test
+* update makefile
+* wrong arg names
+* even better workflow
+* improve check
+* try again?
+* ok, i think this works
+* Streamlined unit tests.
+* Consolidated mock exception
+---------
+Co-authored-by: Logan Markewich <logan.markewich@live.com>")[#16379](https://github.com/run-llama/llama_index/pull/16379)[)](/run-llama/llama_index/commit/535d0a4655df8de89501e2aa60a0afa61571ba10 "Unit Tests for `llama-index-llms-bedrock-converse` \(#16379\)
+* Removed unused `llama-index-llms-anthropic` dependency. Incremented to `0.3.0`.
+* Expanded range for `pytest` and `pytest-mock` to support `pytest-asyncio`
+* Unit tests for main functions
+* remove lock
+* make coverage checks more narrow
+* rename test
+* update makefile
+* wrong arg names
+* even better workflow
+* improve check
+* try again?
+* ok, i think this works
+* Streamlined unit tests.
+* Consolidated mock exception
+---------
+Co-authored-by: Logan Markewich <logan.markewich@live.com>")| Oct 6, 2024  
+[README.md](/run-llama/llama_index/blob/main/README.md "README.md")| [README.md](/run-llama/llama_index/blob/main/README.md "README.md")| [chore: docs readme (](/run-llama/llama_index/commit/8a56a71b7abdba6dc89145922c4b04682993a53a "chore: docs readme \(#17547\)")[#17547](https://github.com/run-llama/llama_index/pull/17547)[)](/run-llama/llama_index/commit/8a56a71b7abdba6dc89145922c4b04682993a53a "chore: docs readme \(#17547\)")| Jan 20, 2025  
+[SECURITY.md](/run-llama/llama_index/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md](/run-llama/llama_index/blob/main/SECURITY.md "SECURITY.md")| [v0.10.32 (](/run-llama/llama_index/commit/7c48797a04eb3b5f1bc2863632aff653a0aae821 "v0.10.32 \(#13119\)")[#13119](https://github.com/run-llama/llama_index/pull/13119)[)](/run-llama/llama_index/commit/7c48797a04eb3b5f1bc2863632aff653a0aae821 "v0.10.32 \(#13119\)")| Apr 26, 2024  
+[STALE.md](/run-llama/llama_index/blob/main/STALE.md "STALE.md")| [STALE.md](/run-llama/llama_index/blob/main/STALE.md "STALE.md")| [Policy for removing stale packages (](/run-llama/llama_index/commit/f7dc9efe49f299e98cb4b7b68fce1bf776112554 "Policy for removing stale packages \(#16975\)")[#16975](https://github.com/run-llama/llama_index/pull/16975)[)](/run-llama/llama_index/commit/f7dc9efe49f299e98cb4b7b68fce1bf776112554 "Policy for removing stale packages \(#16975\)")| Nov 20, 2024  
+[pants.toml](/run-llama/llama_index/blob/main/pants.toml "pants.toml")| [pants.toml](/run-llama/llama_index/blob/main/pants.toml "pants.toml")| [fix and update pants/cicd (](/run-llama/llama_index/commit/8ac7dc5af380c8b7102a5daaf62964ba10ab6fa8 "fix and update pants/cicd \(#17538\)")[#17538](https://github.com/run-llama/llama_index/pull/17538)[)](/run-llama/llama_index/commit/8ac7dc5af380c8b7102a5daaf62964ba10ab6fa8 "fix and update pants/cicd \(#17538\)")| Jan 17, 2025  
+[poetry.lock](/run-llama/llama_index/blob/main/poetry.lock "poetry.lock")| [poetry.lock](/run-llama/llama_index/blob/main/poetry.lock "poetry.lock")| [v0.12.12 (](/run-llama/llama_index/commit/1183f72f83e1992eae28ee3181bd4080596b4df2 "v0.12.12 \(#17561\)")[#17561](https://github.com/run-llama/llama_index/pull/17561)[)](/run-llama/llama_index/commit/1183f72f83e1992eae28ee3181bd4080596b4df2 "v0.12.12 \(#17561\)")| Jan 20, 2025  
+[pyproject.toml](/run-llama/llama_index/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/run-llama/llama_index/blob/main/pyproject.toml "pyproject.toml")| [v0.12.12 (](/run-llama/llama_index/commit/1183f72f83e1992eae28ee3181bd4080596b4df2 "v0.12.12 \(#17561\)")[#17561](https://github.com/run-llama/llama_index/pull/17561)[)](/run-llama/llama_index/commit/1183f72f83e1992eae28ee3181bd4080596b4df2 "v0.12.12 \(#17561\)")| Jan 20, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+# 🗂️ LlamaIndex 🦙
+
+[](#️-llamaindex-)
+
+[![PyPI - Downloads](https://camo.githubusercontent.com/ba9a895a6a7cd7f864b60234c0b6c7f1a9511add2a120f962292925f2af60cef/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f6c6c616d612d696e646578)](https://pypi.org/project/llama-index/) [![GitHub contributors](https://camo.githubusercontent.com/4c145cf56b2756e2cfd49538dbaa7a862c3d9b8f7c45fd7db104395b3e2e890d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6a657272796a6c69752f6c6c616d615f696e646578)](https://github.com/jerryjliu/llama_index/graphs/contributors) [![Discord](https://camo.githubusercontent.com/386981e9c77fd5aeaa3a46d377f3b27fcd188239a8de14a3dac5eeb8571061ad/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f31303539313939323137343936373732363838)](https://discord.gg/dGcwcsnxhU) [![Ask AI](https://camo.githubusercontent.com/d6a767a97d692d60d670d466ac7b9ba3339d92c8d116d702d3b51d3737ebb927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50686f726d2d41736b5f41492d2532334632373737412e7376673f266c6f676f3d646174613a696d6167652f7376672b786d6c3b6261736536342c50484e325a79423361575230614430694e534967614756705a326830505349304969426d6157787350534a756232356c4969423462577875637a30696148523063446f764c336433647935334d793576636d63764d6a41774d43397a646d636950676f67494478775958526f49475139496b30304c6a517a494445754f446779595445754e4451674d5334304e434177494441674d5330754d446b344c6a51794e6d4d744c6a41314c6a45794d7930754d5445314c6a497a4c5334784f5449754d7a49794c5334774e7a55754d446b744c6a45324c6a45324e5330754d6a55314c6a49794e6d45784c6a4d314d7941784c6a4d314d794177494441674d5330754e546b314c6a49784d6d4d744c6a41354f5334774d5449744c6a45354d6934774d5451744c6a49334f5334774d445a734c5445754e546b7a4c5334784e4859744c6a51774e6d67784c6a59314f474d754d446b754d4441784c6a45334c5334784e6a6b754d6a51324c5334784f5446684c6a59774d7934324d444d674d434177494441674c6a49744c6a45774e6934314d6a6b754e544935494441674d434177494334784d7a67744c6a45334c6a59314e4334324e5451674d434177494441674c6a41324e5330754d6a52734c6a41794f4330754d7a4a684c6a6b7a4c6a6b7a494441674d4341774c5334774d7a59744c6a49304f5334314e6a63754e545933494441674d4341774c5334784d444d744c6a49754e5441794c6a55774d694177494441674d4330754d5459344c5334784d7a67754e6a41344c6a59774f434177494441674d4330754d6a51744c6a41324e3077794c6a517a4e7934334d6a6b674d5334324d6a55754e6a63785953347a4d6a49754d7a4979494441674d4341774c5334794d7a49754d4455344c6a4d334e53347a4e7a55674d434177494441744c6a45784e6934794d7a4a734c5334784d5459674d5334304e5330754d4455344c6a59354e7930754d4455344c6a63314e4577754e7a4131494452734c53347a4e5463744c6a41334f5577754e6a41794c6a6b774e6b4d754e6a45334c6a63794e6934324e6a4d754e5463304c6a637a4f5334304e5452684c6a6b314f4334354e5467674d434177494445674c6a49334e4330754d6a67314c6a6b334d5334354e7a45674d434177494445674c6a4d7a4e7930754d54526a4c6a45784f5330754d4449324c6a49794e7930754d444d304c6a4d794e5330754d44493254444d754d6a4d794c6a4532597934784e546b754d4445304c6a4d7a4e6934774d7934304e546b754d446779595445754d54637a494445754d54637a494441674d434178494334314e4455754e445133597934774e6934774f5451754d5441354c6a45354d6934784e4451754d6a6b7a595445754d7a6b79494445754d7a6b79494441674d434178494334774e7a67754e5468734c5334774d6a6b754d7a4a614969426d615778735053496a526a49334e7a64424969382b4369416750484268644767675a443069545451754d446779494449754d444133595445754e445531494445754e445531494441674d4341784c5334774f5467754e444933597930754d4455754d5449304c5334784d5451754d6a4d794c5334784f5449754d7a4930595445754d544d674d5334784d794177494441674d5330754d6a55304c6a49794e7941784c6a4d314d7941784c6a4d314d794177494441674d5330754e546b314c6a49784e474d744c6a45754d4445794c5334784f544d754d4445304c5334794f4334774d445a734c5445754e5459744c6a45774f4334774d7a51744c6a51774e6934774d7930754d7a5134494445754e5455354c6a45314e474d754d446b674d4341754d54637a4c5334774d5334794e4467744c6a417a4d3245754e6a417a4c6a59774d794177494441674d4341754d6930754d5441324c6a557a4d6934314d7a49674d434177494441674c6a457a4f5330754d5463794c6a59324c6a5932494441674d434177494334774e6a51744c6a49304d5777754d4449354c53347a4d6a46684c6a6b304c6a6b30494441674d4341774c5334774d7a59744c6a49314c6a55334c6a5533494441674d4341774c5334784d444d744c6a49774d6934314d4449754e544179494441674d4341774c5334784e6a67744c6a457a4f4334324d4455754e6a4131494441674d4341774c5334794e4330754d445933544445754d6a637a4c6a67794e324d744c6a41354e4330754d4441344c5334784e6a67754d4445744c6a49794d5334774e5455744c6a41314d7934774e4455744c6a41344e4334784d5451744c6a41354d6934794d445a4d4c6a63774e534130494441674d7934354d7a68734c6a49314e5330794c6a6b784d5545784c6a4178494445754d4445674d434177494445674c6a4d354d7934314e7a49754f5459794c6a6b324d694177494441674d5341754e6a59324c6a49344e6d45754f5463754f5463674d434177494445674c6a4d7a4f4330754d5452444d5334784d6a49754d5449674d5334794d7934784d5341784c6a4d794f4334784d546c734d5334314f544d754d54526a4c6a45324c6a41784e43347a4c6a41304e7934304d6a4d754d5745784c6a4533494445754d5463674d434177494445674c6a55304e5334304e44686a4c6a41324d5334774f5455754d5441354c6a45354d7934784e4451754d6a6b31595445754e444132494445754e444132494441674d434178494334774e7a63754e54677a624330754d4449344c6a4d794d6c6f6949475a7062477739496e646f6158526c4969382b4369416750484268644767675a443069545451754d446779494449754d444133595445754e445531494445754e445531494441674d4341784c5334774f5467754e444933597930754d4455754d5449304c5334784d5451754d6a4d794c5334784f5449754d7a4930595445754d544d674d5334784d794177494441674d5330754d6a55304c6a49794e7941784c6a4d314d7941784c6a4d314d794177494441674d5330754e546b314c6a49784e474d744c6a45754d4445794c5334784f544d754d4445304c5334794f4334774d445a734c5445754e5459744c6a45774f4334774d7a51744c6a51774e6934774d7930754d7a5134494445754e5455354c6a45314e474d754d446b674d4341754d54637a4c5334774d5334794e4467744c6a417a4d3245754e6a417a4c6a59774d794177494441674d4341754d6930754d5441324c6a557a4d6934314d7a49674d434177494441674c6a457a4f5330754d5463794c6a59324c6a5932494441674d434177494334774e6a51744c6a49304d5777754d4449354c53347a4d6a46684c6a6b304c6a6b30494441674d4341774c5334774d7a59744c6a49314c6a55334c6a5533494441674d4341774c5334784d444d744c6a49774d6934314d4449754e544179494441674d4341774c5334784e6a67744c6a457a4f4334324d4455754e6a4131494441674d4341774c5334794e4330754d445933544445754d6a637a4c6a67794e324d744c6a41354e4330754d4441344c5334784e6a67754d4445744c6a49794d5334774e5455744c6a41314d7934774e4455744c6a41344e4334784d5451744c6a41354d6934794d445a4d4c6a63774e534130494441674d7934354d7a68734c6a49314e5330794c6a6b784d5545784c6a4178494445754d4445674d434177494445674c6a4d354d7934314e7a49754f5459794c6a6b324d694177494441674d5341754e6a59324c6a49344e6d45754f5463754f5463674d434177494445674c6a4d7a4f4330754d5452444d5334784d6a49754d5449674d5334794d7934784d5341784c6a4d794f4334784d546c734d5334314f544d754d54526a4c6a45324c6a41784e43347a4c6a41304e7934304d6a4d754d5745784c6a4533494445754d5463674d434177494445674c6a55304e5334304e44686a4c6a41324d5334774f5455754d5441354c6a45354d7934784e4451754d6a6b31595445754e444132494445754e444132494441674d434178494334774e7a63754e54677a624330754d4449344c6a4d794d6c6f6949475a7062477739496e646f6158526c4969382b436a777663335a6e50676f3d)](https://www.phorm.ai/query?projectId=c5863b56-6703-4a5d-87b6-7e6031bf16b6)
+
+LlamaIndex (GPT Index) is a data framework for your LLM application. Building with LlamaIndex typically involves working with LlamaIndex core and a chosen set of integrations (or plugins). There are two ways to start building with LlamaIndex in Python:
+
+  1. **Starter** : [`llama-index`](https://pypi.org/project/llama-index/). A starter Python package that includes core LlamaIndex as well as a selection of integrations.
+
+  2. **Customized** : [`llama-index-core`](https://pypi.org/project/llama-index-core/). Install core LlamaIndex and add your chosen LlamaIndex integration packages on [LlamaHub](https://llamahub.ai/) that are required for your application. There are over 300 LlamaIndex integration packages that work seamlessly with core, allowing you to build with your preferred LLM, embedding, and vector store providers.
+
+
+
+
+The LlamaIndex Python library is namespaced such that import statements which include `core` imply that the core package is being used. In contrast, those statements without `core` imply that an integration package is being used.
+
+```
+# typical pattern from llama_index.core.xxx import ClassABC # core submodule xxx from llama_index.xxx.yyy import ( SubclassABC, ) # integration yyy for submodule xxx # concrete example from llama_index.core.llms import LLM from llama_index.llms.openai import OpenAI
+```
+
+### Important Links
+
+[](#important-links)
+
+LlamaIndex.TS [(Typescript/Javascript)](https://github.com/run-llama/LlamaIndexTS)
+
+[Documentation](https://docs.llamaindex.ai/en/stable/)
+
+[X (formerly Twitter)](https://x.com/llama_index)
+
+[Discord](https://discord.gg/dGcwcsnxhU)
+
+### Ecosystem
+
+[](#ecosystem)
+
+  * LlamaHub [(community library of data loaders)](https://llamahub.ai)
+  * LlamaLab [(cutting-edge AGI projects using LlamaIndex)](https://github.com/run-llama/llama-lab)
+
+
+
+## 🚀 Overview
+
+[](#-overview)
+
+**NOTE** : This README is not updated as frequently as the documentation. Please check out the documentation above for the latest updates!
+
+### Context
+
+[](#context)
+
+  * LLMs are a phenomenal piece of technology for knowledge generation and reasoning. They are pre-trained on large amounts of publicly available data.
+  * How do we best augment LLMs with our own private data?
+
+
+
+We need a comprehensive toolkit to help perform this data augmentation for LLMs.
+
+### Proposed Solution
+
+[](#proposed-solution)
+
+That's where **LlamaIndex** comes in. LlamaIndex is a "data framework" to help you build LLM apps. It provides the following tools:
+
+  * Offers **data connectors** to ingest your existing data sources and data formats (APIs, PDFs, docs, SQL, etc.).
+  * Provides ways to **structure your data** (indices, graphs) so that this data can be easily used with LLMs.
+  * Provides an **advanced retrieval/query interface over your data** : Feed in any LLM input prompt, get back retrieved context and knowledge-augmented output.
+  * Allows easy integrations with your outer application framework (e.g. with LangChain, Flask, Docker, ChatGPT, or anything else).
+
+
+
+LlamaIndex provides tools for both beginner users and advanced users. Our high-level API allows beginner users to use LlamaIndex to ingest and query their data in 5 lines of code. Our lower-level APIs allow advanced users to customize and extend any module (data connectors, indices, retrievers, query engines, reranking modules), to fit their needs.
+
+## 💡 Contributing
+
+[](#-contributing)
+
+Interested in contributing? Contributions to LlamaIndex core as well as contributing integrations that build on the core are both accepted and highly encouraged! See our [Contribution Guide](/run-llama/llama_index/blob/main/CONTRIBUTING.md) for more details.
+
+New integrations should meaningfully integrate with existing LlamaIndex framework components. At the discretion of LlamaIndex maintainers, some integrations may be declined.
+
+## 📄 Documentation
+
+[](#-documentation)
+
+Full documentation can be found [here](https://docs.llamaindex.ai/en/latest/)
+
+Please check it out for the most up-to-date tutorials, how-to guides, references, and other resources!
+
+## 💻 Example Usage
+
+[](#-example-usage)
+
+```
+# custom selection of integrations to work with core pip install llama-index-core pip install llama-index-llms-openai pip install llama-index-llms-replicate pip install llama-index-embeddings-huggingface
+```
+
+Examples are in the `docs/examples` folder. Indices are in the `indices` folder (see list of indices below).
+
+To build a simple vector store index using OpenAI:
+
+```
+import os os.environ["OPENAI_API_KEY"] = "YOUR_OPENAI_API_KEY" from llama_index.core import VectorStoreIndex, SimpleDirectoryReader documents = SimpleDirectoryReader("YOUR_DATA_DIRECTORY").load_data() index = VectorStoreIndex.from_documents(documents)
+```
+
+To build a simple vector store index using non-OpenAI LLMs, e.g. Llama 2 hosted on [Replicate](https://replicate.com/), where you can easily create a free trial API token:
+
+```
+import os os.environ["REPLICATE_API_TOKEN"] = "YOUR_REPLICATE_API_TOKEN" from llama_index.core import Settings, VectorStoreIndex, SimpleDirectoryReader from llama_index.embeddings.huggingface import HuggingFaceEmbedding from llama_index.llms.replicate import Replicate from transformers import AutoTokenizer # set the LLM llama2_7b_chat = "meta/llama-2-7b-chat:8e6975e5ed6174911a6ff3d60540dfd4844201974602551e10e9e87ab143d81e" Settings.llm = Replicate( model=llama2_7b_chat, temperature=0.01, additional_kwargs={"top_p": 1, "max_new_tokens": 300}, ) # set tokenizer to match LLM Settings.tokenizer = AutoTokenizer.from_pretrained( "NousResearch/Llama-2-7b-chat-hf" ) # set the embed model Settings.embed_model = HuggingFaceEmbedding( model_name="BAAI/bge-small-en-v1.5" ) documents = SimpleDirectoryReader("YOUR_DATA_DIRECTORY").load_data() index = VectorStoreIndex.from_documents( documents, )
+```
+
+To query:
+
+```
+query_engine = index.as_query_engine() query_engine.query("YOUR_QUESTION")
+```
+
+By default, data is stored in-memory. To persist to disk (under `./storage`):
+
+```
+index.storage_context.persist()
+```
+
+To reload from disk:
+
+```
+from llama_index.core import StorageContext, load_index_from_storage # rebuild storage context storage_context = StorageContext.from_defaults(persist_dir="./storage") # load index index = load_index_from_storage(storage_context)
+```
+
+## 🔧 Dependencies
+
+[](#-dependencies)
+
+We use poetry as the package manager for all Python packages. As a result, the dependencies of each Python package can be found by referencing the `pyproject.toml` file in each of the package's folders.
+
+```
+cd <desired-package-folder> pip install poetry poetry install --with dev
+```
+
+## 📖 Citation
+
+[](#-citation)
+
+Reference to cite if you use LlamaIndex in a paper:
+
+```
+`@software{Liu_LlamaIndex_2022, author = {Liu, Jerry}, doi = {10.5281/zenodo.1234}, month = {11}, title = {{LlamaIndex}}, url = {https://github.com/jerryjliu/llama_index}, year = {2022} } `
+```
+
+## About
+
+LlamaIndex is the leading framework for building LLM-powered agents over your data. 
+
+[docs.llamaindex.ai](https://docs.llamaindex.ai "https://docs.llamaindex.ai")
+
+### Topics
+
+[ application ](/topics/application "Topic: application") [ data ](/topics/data "Topic: data") [ framework ](/topics/framework "Topic: framework") [ agents ](/topics/agents "Topic: agents") [ fine-tuning ](/topics/fine-tuning "Topic: fine-tuning") [ multi-agents ](/topics/multi-agents "Topic: multi-agents") [ rag ](/topics/rag "Topic: rag") [ vector-database ](/topics/vector-database "Topic: vector-database") [ llm ](/topics/llm "Topic: llm") [ llamaindex ](/topics/llamaindex "Topic: llamaindex")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+### Citation
+
+Cite this repository 
+
+Loading
+
+Something went wrong. 
+
+[ Activity](/run-llama/llama_index/activity)
+
+[ Custom properties](/run-llama/llama_index/custom-properties)
+
+### Stars
+
+[ **38.2k** stars](/run-llama/llama_index/stargazers)
+
+### Watchers
+
+[ **253** watching](/run-llama/llama_index/watchers)
+
+### Forks
+
+[ **5.5k** forks](/run-llama/llama_index/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Frun-llama%2Fllama_index&report=run-llama+%28user%29)
+
+##  [Releases 414](/run-llama/llama_index/releases)
+
+[ v0.12.12 Latest  Jan 20, 2025 ](/run-llama/llama_index/releases/tag/v0.12.12)
+
+[+ 413 releases](/run-llama/llama_index/releases)
+
+##  [Used by 15.7k](/run-llama/llama_index/network/dependents)
+
+[
+
+  * ![@blackarmy2006](https://avatars.githubusercontent.com/u/195459551?s=64&v=4)
+  * ![@VU-cs5891](https://avatars.githubusercontent.com/u/184953315?s=64&v=4)
+  * ![@VU-cs5891](https://avatars.githubusercontent.com/u/184953315?s=64&v=4)
+  * ![@CalvHobbes](https://avatars.githubusercontent.com/u/516406?s=64&v=4)
+  * ![@GNITOAHC](https://avatars.githubusercontent.com/u/91186819?s=64&v=4)
+  * ![@Thakor-Yashpal](https://avatars.githubusercontent.com/u/75574310?s=64&v=4)
+  * ![@Guillermot852](https://avatars.githubusercontent.com/u/108614207?s=64&v=4)
+  * ![@HriThIk1999999](https://avatars.githubusercontent.com/u/164558451?s=64&v=4)
+
++ 15,712  ](/run-llama/llama_index/network/dependents)
+
+##  [Contributors 1,390](/run-llama/llama_index/graphs/contributors)
+
+  * [ ![@jerryjliu](https://avatars.githubusercontent.com/u/4858925?s=64&v=4) ](https://github.com/jerryjliu)
+  * [ ![@logan-markewich](https://avatars.githubusercontent.com/u/22285038?s=64&v=4) ](https://github.com/logan-markewich)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@Disiok](https://avatars.githubusercontent.com/u/5567282?s=64&v=4) ](https://github.com/Disiok)
+  * [ ![@nerdai](https://avatars.githubusercontent.com/u/92402603?s=64&v=4) ](https://github.com/nerdai)
+  * [ ![@hatianzhang](https://avatars.githubusercontent.com/u/2142132?s=64&v=4) ](https://github.com/hatianzhang)
+  * [ ![@ravi03071991](https://avatars.githubusercontent.com/u/12198101?s=64&v=4) ](https://github.com/ravi03071991)
+  * [ ![@masci](https://avatars.githubusercontent.com/u/7241?s=64&v=4) ](https://github.com/masci)
+  * [ ![@jamesbraza](https://avatars.githubusercontent.com/u/8990777?s=64&v=4) ](https://github.com/jamesbraza)
+  * [ ![@seldo](https://avatars.githubusercontent.com/u/185893?s=64&v=4) ](https://github.com/seldo)
+  * [ ![@sourabhdesai](https://avatars.githubusercontent.com/u/3005241?s=64&v=4) ](https://github.com/sourabhdesai)
+  * [ ![@EmanuelCampos](https://avatars.githubusercontent.com/u/16262455?s=64&v=4) ](https://github.com/EmanuelCampos)
+  * [ ![@mattf](https://avatars.githubusercontent.com/u/112653?s=64&v=4) ](https://github.com/mattf)
+  * [ ![@Javtor](https://avatars.githubusercontent.com/u/8462127?s=64&v=4) ](https://github.com/Javtor)
+
+
+
+[+ 1,376 contributors](/run-llama/llama_index/graphs/contributors)
+
+## Languages
+
+  * [ Python 50.5% ](/run-llama/llama_index/search?l=python)
+  * [ Jupyter Notebook 47.0% ](/run-llama/llama_index/search?l=jupyter-notebook)
+  * [ Makefile 1.7% ](/run-llama/llama_index/search?l=makefile)
+  * [ JavaScript 0.4% ](/run-llama/llama_index/search?l=javascript)
+  * [ Starlark 0.3% ](/run-llama/llama_index/search?l=starlark)
+  * [ Scheme 0.1% ](/run-llama/llama_index/search?l=scheme)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

@@ -1,0 +1,50 @@
+{
+    "id": "a3ce0e2ca50dca9274dd0be2fcf17d5d",
+    "metadata": {
+        "id": "a3ce0e2ca50dca9274dd0be2fcf17d5d",
+        "url": "https://aligneval.com/",
+        "title": "AlignEval: Making Evals Easy, Fun, and Semi-Automated",
+        "properties": {
+            "description": "A prototype tool/game to help you look at your data, label it, evaluate output, and optimize evaluators.",
+            "keywords": null,
+            "author": null,
+            "og:title": "AlignEval: Making Evals Easy, Fun, and Semi-Automated",
+            "og:description": "A prototype tool/game to help you look at your data, label it, evaluate output, and optimize evaluators.",
+            "og:url": "https://aligneval.com",
+            "og:site_name": "AlignEval",
+            "og:locale": "en_US",
+            "og:image": "https://aligneval.com/og-image.jpg",
+            "og:image:secure_url": "https://aligneval.com/og-image.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "AlignEval: Upload, Label, Evaluate, Optimize",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:creator": "@eugeneyan",
+            "twitter:title": "AlignEval: Making Evals Easy, Fun, and Semi-Automated",
+            "twitter:description": "A prototype tool/game to help you look at your data, label it, evaluate output, and optimize evaluators.",
+            "twitter:image": "https://aligneval.com/og-image.jpg",
+            "twitter:image:secure_url": "https://aligneval.com/og-image.jpg",
+            "twitter:image:alt": "AlignEval: Upload, Label, Evaluate, Optimize"
+        }
+    },
+    "parent_metadata": {
+        "id": "035afecace4f6302efc2d972efaccca2",
+        "url": "https://www.notion.so/Evaluate-LLMs-RAG-035afecace4f6302efc2d972efaccca2",
+        "title": "Evaluate LLMs & RAG",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "content": "#### Usage Statistics\n\n**Uploaded:** 629 files, 316819 rows\n\n**Labeled:** 524 files, 16188 rows\n\n**Evaluated:** 350 files, 9752 rows\n\n**Optimized:** 90 files, 900 trials\n\n# ![ALIGN Eval Logo](/favicon.svg)AlignEval: Making Evals Easy, Fun, and Semi-Automated![ALIGN Eval Logo](/info-icon.svg)\n\n🎮 Welcome to AlignEval! 🎮\n\nAlignEval is a **game/tool** to help you build and optimize LLM-evaluators. We do so by aligning annotators to AI output, and aligning AI to annotator input.\n\nTo progress, gain XP by adding labels while you **look at your data**.\n\n  1. **🐣 Upload:** Initialize your character by uploading a csv containing input-output pairs. Having existing labels counts towards your XP!\n  2. **👀 Label:** As a **Labeling Novice** , **look at your data and label it**. Each labeled sample gets you 1 XP. Gain 20 XP to progress to the next character class!\n  3. **💥 Evaluate:** At 20 XP, you're now an **Evaluation Adept**! You can now craft evaluation prompts and cast the **\"Evaluate\"** spell on your data.\n  4. **🔮 Optimize:** At 50 XP, you're now an **Optimization Master**! Improve your LLM-evaluators with the unlocked **\"Optimize\"** spell. (No, it's not dspy.)\n\n\n\n**New Game+:** While we frame AlignEval as a game to build LLM-evaluators, you can use it to craft and optimize **any prompt that does binary classification**!\n\nAlignEval is currently a public beta. Read [how it was built](https://eugeneyan.com/writing/aligneval/) or share feedback on [GitHub](https://github.com/eugeneyan/align-app) or [X](https://x.com/eugeneyan).\n\nDon't show this again\n\n## 🎮 To begin, initialize your character with a CSV file!\n\n  * 📜 The CSV file must include the following columns:\n    * **`id`** : Unique identifier for each row\n    * **`input`** : Context used to generate `output`\n    * **`output`** : Generated text to be evaluated\n    * **`label`** : Ground truth (values optional but counts towards XP)\n  * 🚨 The **`label`** column only accepts binary labels, either **`0`** or **`1`**.\n    * **`0`** : Output **PASSES** your evaluation\n    * **`1`** : Output **FAILS** your evaluation\n  * 🚫 **Character XP limit** : Only the first 100 rows will be uploaded and considered for XP.\n  * 🎁 **Starter pack** : [Download a partially labeled CSV](#) from the Factual Inconsistency Benchmark ([details](https://huggingface.co/datasets/r-three/fib)).\n  * 📌 **Pro tip** : For maximum effectiveness on \"Evaluate\" and \"Optimize\", have a balance of **`1`** and **`0`** labels.\n\n\n\nChoose CSV file\n\nCreated by [Eugene Yan](https://eugeneyan.com).\n\n[![X](/x.svg)](https://x.com/eugeneyan)[![GitHub](/github.svg)](https://github.com/eugeneyan/align-app)\n",
+    "content_quality_score": 0.9,
+    "summary": null,
+    "child_urls": [
+        "https://aligneval.com/",
+        "https://eugeneyan.com/writing/aligneval/",
+        "https://github.com/eugeneyan/align-app",
+        "https://x.com/eugeneyan",
+        "https://huggingface.co/datasets/r-three/fib",
+        "https://eugeneyan.com"
+    ]
+}

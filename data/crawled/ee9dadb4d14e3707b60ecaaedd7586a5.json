@@ -1,0 +1,27 @@
+{
+    "id": "ee9dadb4d14e3707b60ecaaedd7586a5",
+    "metadata": {
+        "id": "ee9dadb4d14e3707b60ecaaedd7586a5",
+        "url": "https://www.notion.so/Embeddings-ee9dadb4d14e3707b60ecaaedd7586a5",
+        "title": "Embeddings",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "9867416eb5c2fdcf5d250d88ebabeb6f",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Leaderboards and Benchmarks\n\n\t- [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)\n\t- [https://github.com/embeddings-benchmark/mteb/tree/main](https://github.com/embeddings-benchmark/mteb/tree/main)\n\t-\n\n# Articles\n\n\t- [Embeddings [by Open AI]](https://platform.openai.com/docs/guides/embeddings)\n\t-\n\n# Tools\n\n\t[https://github.com/qdrant/fastembed](https://github.com/qdrant/fastembed)\n\t[https://github.com/UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://huggingface.co/spaces/mteb/leaderboard/",
+        "https://github.com/UKPLab/sentence-transformers/",
+        "https://platform.openai.com/docs/guides/embeddings/",
+        "https://github.com/embeddings-benchmark/mteb/tree/main/",
+        "https://github.com/qdrant/fastembed/"
+    ]
+}

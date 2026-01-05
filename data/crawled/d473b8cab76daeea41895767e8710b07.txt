@@ -1,0 +1,153 @@
+[](/)
+
+Products
+
+Solutions
+
+Resources
+
+Company
+
+[Contact](https://aerospike.com/forms/contact-us/)
+
+Login
+
+[Try now](/try-now)
+
+[](/search)
+
+![](/bg-image-lossless.jpeg)
+
+# Build for infinite scale, speed, and savings
+
+The massively scalable, millisecond latency, real-time database.
+
+[Try Aerospike now](/try-now)
+
+Aerospike is a distributed NoSQL database with blazing-fast reads/writes and unmatched uptime.
+
+<1ms
+
+Read and write times
+
+10x
+
+Ingestion volume
+
+80%
+
+Fewer servers
+
+## What Aerospike can do for you
+
+### Always-on, secure managed Aerospike
+
+Focus on delivering value to customers rather than managing, optimizing, and securing your database and infrastructure.
+
+### Be ready for an AI-driven future
+
+With the ability to ingest massive amounts of streaming data from tens of thousands of sources, Aerospike helps deliver more accurate AI.
+
+### Eliminate friction
+
+Simultaneously achieve superior performance, increased scale and reduced operational costs.
+
+### Why leading companies choose Aerospike
+
+[See all customer stories](/customers)
+
+[![Airtel-logo](https://images.ctfassets.net/drk57q8lctrm/7cP2voPqGtx2FiT8ZxNLWD/6a8335bbf349063cacdf593686e56e8f/airtel-logo.svg)](/customers/airtel-aerospike-customer-story/)
+
+[![DBS Logo](https://images.ctfassets.net/drk57q8lctrm/6HCaDtzlif8UXKYbQ7ZMQM/323bfcabd27a1d75591e32bdfc72920d/dbs-bank-logo.svg)](https://aerospike.com/resources/webinars/dbs-fireside-chat-modernising-finserv-applications-for-real-time-decisioning/)
+
+[![PayPal logo](https://images.ctfassets.net/drk57q8lctrm/21FLkQ2lbOCWynXsDZvXO5/485a163f199ef7749b914e54d4dc3335/paypal-logo.webp)](/customers/paypal-aerospike-customer-story/)
+
+[![Adobe logo ](https://images.ctfassets.net/drk57q8lctrm/19gJVR9SNHCZgZSb83bAXc/c1ce53e62d38ca893a0d861cf676efb7/Adobe_Corporate_logo.svg)](/customers/adobe-aerospike-customer-story/)
+
+[![Rakuten logo](https://images.ctfassets.net/drk57q8lctrm/76dCdJCwCiIly5IgXRtlgC/9a35bc5ff6fe8bd572a5a224c10f37d8/rakuten-logo.svg)](https://aerospike.com/resources/webinars/rakuten-aerospike-targeted-ads/)
+
+[![Lexis Nexis Risk Solutions logo](https://images.ctfassets.net/drk57q8lctrm/6Fhy5z8QTKJnWMFSazkX7p/7ebea22be2ac161b290c8771396578cd/lexisnexis-risk-solutions-logo.svg)](/customers/lexisnexis-aerospike-customer-story/)
+
+[![Criteo logo](https://images.ctfassets.net/drk57q8lctrm/75m8dGKOGuwQfjO0rfUXdJ/370e6f00d94358b16214be1ec588dfa9/criteo-logo.svg)](/resources/customer-stories/criteo-real-time-ad-bidding/)
+
+[![Experian logo](https://images.ctfassets.net/drk57q8lctrm/1NIUjFYmJX050g1GvqzmMh/801006d72b93f918156136e4ad7f1025/experian-logo.svg)](/blog/welcome-experian-to-aerospike-cloud-managed-service/)
+
+[![Snap logo](https://images.ctfassets.net/drk57q8lctrm/1M9Ubs4AXsV6CLXYC0QDDd/66746d329222392bb8cf72e499dc45d9/snap-inc-logo.svg)](/resources/videos/snapchat-any-cloud-strategy/)
+
+[![Sony Interactive Entertainment logo](https://images.ctfassets.net/drk57q8lctrm/2k20vVwOIkWEXpm1ySoSJ7/ba007cb9ea4b962172c1c29c0d55d8f2/sony-interactive-entertainment-logo.webp)](/resources/customer-stories/sony)
+
+## Multi-model for developers
+
+[Aerospike Graph](https://aerospike.com/products/graph-database/), utilizing Apache TinkerPop and Gremlin, suits applications that rely on vital data relationships, ensuring easy integration and powerful traversal capabilities.
+
+Support for flexible [JSON document models](https://aerospike.com/blog/query-json-documents-faster-and-more-with-new-cdt-indexing/) to query support to store, search, and manage complex, hierarchical data sets and workloads.
+
+Develop applications that draw similarity-based insights against very large data sets to make complex decisions in real-time with [Aerospike Vector Search](https://aerospike.com/products/vector-database-search-llm/).
+
+Aerospike's [Key-Value Store](https://aerospike.com/docs/server/guide/kvs) provides a high-performance, scalable solution for applications that require simple, efficient access to large volumes of data with low-latency read and write operations, making it ideal for caching, session management, and real-time analytics.
+
+[Docs](/docs)[Try now](/try-now)
+
+  * Java
+  * C#
+  * Go
+  * Node.js
+  * Python
+
+
+
+## Infinite scalability, lowest latency, lowest costs
+
+Count on the real-time database that’s always on – globally.
+
+[![Grow](https://images.ctfassets.net/drk57q8lctrm/4lpdvTGoNmLafmN8zFSl8M/06b1fbc97eec57ad9522fd6669fba909/grow_icon_1_.svg?w=200&h=200&fit=pad)Grow from gigabytes to petabytes without tradeoffsPredictable and consistent performance, for any amount of data.How we make it happen](/products/database)
+
+[![Do more](https://images.ctfassets.net/drk57q8lctrm/4iNkpw5boUp5A5GzkZqbCB/066321b6aa1438e5a860357ac34de847/do_more_icon.svg?w=200&h=200&fit=pad)Do more with sub-millisecond accessSee how our patented Hybrid Memory Architecture™ helps you work faster.All about HMA](https://aerospike.com/blog/hybrid-memory-architecture-optimization/)
+
+[![CO2](https://images.ctfassets.net/drk57q8lctrm/47x7Fv3TEU2UTkhb1ycsDr/8d292eaac52e14b93487049261b12ebb/co2_icon.svg?w=200&h=200&fit=pad)Meet sustainability and profitability goalsUse fewer servers than ever before to reduce your carbon footprint and infrastructure costs.Too good to be true?](/solutions/use-cases/database-sustainability/)
+
+## Latest from Aerospike
+
+Learn more from technical insights and success stories.
+
+[Resource library](/resources/)[Blog](/blog)
+
+  * [BlogAnnouncing new features to boost LRU cache performanceDiscover how Aerospike Database 7.1 optimizes LRU cache with automated touch operations, reducing unnecessary writes and boosting cache efficiency.](/blog/lru-cache-enhancement/)
+  * [BlogAerospike Database 7.1 Enhances Caching and Storage SpeedDiscover how Aerospike Database 7.1 accelerates caching and storage solutions with LRU cache evictions and optimized NVMe block storage for improved performance.](/blog/database-7-1-enhancements/)
+  * [White paperFive Signs You Have Outgrown RedisWhat are five signs that your firm may have outgrown Redis?](/resources/white-papers/five-signs-you-have-outgrown-redis/)
+
+
+
+About
+
+[Careers](/careers)
+
+[Legal notices](/legal)
+
+[Privacy policy](/legal/privacy-policy)
+
+[Terms of service](/legal/terms-conditions)
+
+[Marketing preference center](https://pages.aerospike.com/Subscription_Management.html)
+
+Update Cookie Preferences
+
+Support
+
+[Support portal](https://aerospike.my.site.com/login)
+
+[Knowledge base](https://support.aerospike.com/s/)
+
+[Community forum](https://discuss.aerospike.com/)
+
+(+1) 408-462-AERO (2376)
+
+2440 W. El Camino Real, Suite 100 Mountain View, CA 94040
+
+[Contact us](https://aerospike.com/forms/contact-us/)
+
+[](https://discord.gg/NfC93wJEJU)[](https://github.com/aerospike)[](https://stackoverflow.com/questions/tagged/aerospike)[](https://www.youtube.com/aerospike)[](https://twitter.com/aerospikedb)[](https://www.linkedin.com/company/2696852)
+
+[](/)
+
+© 2025 Aerospike, Inc. – All rights reservedAerospike® is a registered trademark of Aerospike, Inc.

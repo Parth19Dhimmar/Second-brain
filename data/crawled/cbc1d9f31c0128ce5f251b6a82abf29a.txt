@@ -1,0 +1,517 @@
+[Follow us on Twitter or LinkedIn to stay up to date with future analysis](https://twitter.com/ArtificialAnlys)[](https://twitter.com/ArtificialAnlys)[](https://www.linkedin.com/company/artificial-analysis/)
+
+Menu
+
+[![logo](/img/general-frontend/iconwithoutbg.svg)Artificial Analysis](/)
+
+Language ModelsSpeech, Image & Video ModelsLeaderboards🏆 ArenasAbout
+
+Email address
+
+Subscribe
+
+[HOME](/)
+
+LANGUAGE MODELS
+
+SPEECH, IMAGE & VIDEO MODELS
+
+Leaderboards
+
+🏆 Arenas
+
+About
+
+Email address
+
+Subscribe
+
+[](https://twitter.com/ArtificialAnlys)
+
+## Independent analysis of AI models and API providers
+
+Understand the AI landscape to choose the best model and provider for your use-case
+
+Artificial Analysis AI Review2024 Highlights
+
+Read our analysis of key developments in AI in 2024
+
+[Download report](/downloads/ai-review/2024/Artificial-Analysis-AI-Review-2024-Highlights.pdf)
+
+Highlights
+
+Quality
+
+Artificial Analysis Quality Index; Higher is better
+
+86848280807975747473736868o1-previewLogo of o1-preview which relates to the data aboveo1-previewo1-miniLogo of o1-mini which relates to the data aboveo1-miniGemini 2.0 Flash (exp)Logo of Gemini 2.0 Flash (exp) which relates to the data aboveGemini 2.0Flash (exp)Claude 3.5 Sonnet (Oct)Logo of Claude 3.5 Sonnet (Oct) which relates to the data aboveClaude 3.5Sonnet (Oct)Gemini 1.5 Pro (Sep)Logo of Gemini 1.5 Pro (Sep) which relates to the data aboveGemini 1.5 Pro(Sep)DeepSeek V3Logo of DeepSeek V3 which relates to the data aboveDeepSeek V3Nova ProLogo of Nova Pro which relates to the data aboveNova ProLlama 3.3 70BLogo of Llama 3.3 70B which relates to the data aboveLlama 3.3 70BMistral Large 2 (Nov '24)Logo of Mistral Large 2 (Nov '24) which relates to the data aboveMistral Large2 (Nov '24)GPT-4o miniLogo of GPT-4o mini which relates to the data aboveGPT-4o miniGPT-4o (Nov '24)Logo of GPT-4o (Nov '24) which relates to the data aboveGPT-4o (Nov'24)Claude 3.5 HaikuLogo of Claude 3.5 Haiku which relates to the data aboveClaude 3.5HaikuLlama 3.1 70BLogo of Llama 3.1 70B which relates to the data aboveLlama 3.1 70B
+
+Speed
+
+Output Tokens per Second; Higher is better
+
+219169143104898573727265613718o1-miniLogo of o1-mini which relates to the data aboveo1-miniGemini 2.0 Flash (exp)Logo of Gemini 2.0 Flash (exp) which relates to the data aboveGemini 2.0Flash (exp)o1-previewLogo of o1-preview which relates to the data aboveo1-previewGPT-4o (Nov '24)Logo of GPT-4o (Nov '24) which relates to the data aboveGPT-4o (Nov'24)Nova ProLogo of Nova Pro which relates to the data aboveNova ProGPT-4o miniLogo of GPT-4o mini which relates to the data aboveGPT-4o miniLlama 3.1 70BLogo of Llama 3.1 70B which relates to the data aboveLlama 3.1 70BClaude 3.5 Sonnet (Oct)Logo of Claude 3.5 Sonnet (Oct) which relates to the data aboveClaude 3.5Sonnet (Oct)Llama 3.3 70BLogo of Llama 3.3 70B which relates to the data aboveLlama 3.3 70BClaude 3.5 HaikuLogo of Claude 3.5 Haiku which relates to the data aboveClaude 3.5HaikuGemini 1.5 Pro (Sep)Logo of Gemini 1.5 Pro (Sep) which relates to the data aboveGemini 1.5 Pro(Sep)Mistral Large 2 (Nov '24)Logo of Mistral Large 2 (Nov '24) which relates to the data aboveMistral Large2 (Nov '24)DeepSeek V3Logo of DeepSeek V3 which relates to the data aboveDeepSeek V3
+
+Price
+
+USD per 1M Tokens; Lower is better
+
+0.30.70.70.91.41.62.234.45.3627.6GPT-4o miniLogo of GPT-4o mini which relates to the data aboveGPT-4o miniLlama 3.3 70BLogo of Llama 3.3 70B which relates to the data aboveLlama 3.3 70BLlama 3.1 70BLogo of Llama 3.1 70B which relates to the data aboveLlama 3.1 70BDeepSeek V3Logo of DeepSeek V3 which relates to the data aboveDeepSeek V3Nova ProLogo of Nova Pro which relates to the data aboveNova ProClaude 3.5 HaikuLogo of Claude 3.5 Haiku which relates to the data aboveClaude 3.5HaikuGemini 1.5 Pro (Sep)Logo of Gemini 1.5 Pro (Sep) which relates to the data aboveGemini 1.5 Pro(Sep)Mistral Large 2 (Nov '24)Logo of Mistral Large 2 (Nov '24) which relates to the data aboveMistral Large2 (Nov '24)GPT-4o (Nov '24)Logo of GPT-4o (Nov '24) which relates to the data aboveGPT-4o (Nov'24)o1-miniLogo of o1-mini which relates to the data aboveo1-miniClaude 3.5 Sonnet (Oct)Logo of Claude 3.5 Sonnet (Oct) which relates to the data aboveClaude 3.5Sonnet (Oct)o1-previewLogo of o1-preview which relates to the data aboveo1-preview0.30.70.70.91.41.62.234.45.3627.6
+
+[How do providers handle repeated prompts?Caching Analysis](/models/caching)[Which models perform best in different languages?Multilingual Capabilities](/models/multilingual)[Which models are best for conversations?Speech to Speech Analysis](/models/speech-to-speech)[Who has the best Video Generation model?Video Arena](/text-to-video/arena)[Which model is fastest with 100k token prompts?Long Context Latency](/models/prompt-options/single/100k?models_selected=gpt-4o-mini%2Cllama-3-1-instruct-405b%2Cllama-3-2-instruct-90b-vision%2Cllama-3-1-instruct-70b%2Cllama-3-1-instruct-8b%2Cgemini-1-5-pro%2Cgemini-1-5-flash%2Cclaude-35-sonnet%2Cclaude-3-haiku%2Cmistral-large-2%2Cmistral-nemo%2Cjamba-1-5-large#latency)
+
+## Language Model Comparison Highlights
+
+[Comprehensive Model Comparison](/models)
+
+## Quality Evaluations
+
+6 of 8 quality evaluations selected
+
+17 of 95 models selected
+
++ Add model from specific provider
+
+Evaluation results measured independently by Artificial Analysis; Higher is better
+
+Artificial Analysis Quality Index
+
+8684828080797574747473737068686654o1-previewLogo of o1-preview which relates to the data aboveo1-previewo1-miniLogo of o1-mini which relates to the data aboveo1-miniGemini 2.0 Flash (exp)Logo of Gemini 2.0 Flash (exp) which relates to the data aboveGemini 2.0Flash (exp)Claude 3.5 Sonnet (Oct)Logo of Claude 3.5 Sonnet (Oct) which relates to the data aboveClaude 3.5Sonnet (Oct)Gemini 1.5 Pro (Sep)Logo of Gemini 1.5 Pro (Sep) which relates to the data aboveGemini 1.5 Pro(Sep)DeepSeek V3Logo of DeepSeek V3 which relates to the data aboveDeepSeek V3Nova ProLogo of Nova Pro which relates to the data aboveNova ProLlama 3.3 70BLogo of Llama 3.3 70B which relates to the data aboveLlama 3.3 70BMistral Large 2 (Nov '24)Logo of Mistral Large 2 (Nov '24) which relates to the data aboveMistral Large2 (Nov '24)Llama 3.1 405BLogo of Llama 3.1 405B which relates to the data aboveLlama 3.1 405BGPT-4o miniLogo of GPT-4o mini which relates to the data aboveGPT-4o miniGPT-4o (Nov '24)Logo of GPT-4o (Nov '24) which relates to the data aboveGPT-4o (Nov'24)Nova LiteLogo of Nova Lite which relates to the data aboveNova LiteClaude 3.5 HaikuLogo of Claude 3.5 Haiku which relates to the data aboveClaude 3.5HaikuLlama 3.1 70BLogo of Llama 3.1 70B which relates to the data aboveLlama 3.1 70BNova MicroLogo of Nova Micro which relates to the data aboveNova MicroLlama 3.1 8BLogo of Llama 3.1 8B which relates to the data aboveLlama 3.1 8B8684828080797574747473737068686654
+
+Reasoning & Knowledge (MMLU)
+
+91%89%87%87%87%86%86%86%85%85%84%84%82%81%79%76%71%o1-previewLogo of o1-preview which relates to the data aboveo1-previewClaude 3.5 Sonnet (Oct)Logo of Claude 3.5 Sonnet (Oct) which relates to the data aboveClaude 3.5Sonnet (Oct)Llama 3.1 405BLogo of Llama 3.1 405B which relates to the data aboveLlama 3.1 405BGemini 2.0 Flash (exp)Logo of Gemini 2.0 Flash (exp) which relates to the data aboveGemini 2.0Flash (exp)DeepSeek V3Logo of DeepSeek V3 which relates to the data aboveDeepSeek V3GPT-4o (Nov '24)Logo of GPT-4o (Nov '24) which relates to the data aboveGPT-4o (Nov'24)Llama 3.3 70BLogo of Llama 3.3 70B which relates to the data aboveLlama 3.3 70BGemini 1.5 Pro (Sep)Logo of Gemini 1.5 Pro (Sep) which relates to the data aboveGemini 1.5 Pro(Sep)o1-miniLogo of o1-mini which relates to the data aboveo1-miniMistral Large 2 (Nov '24)Logo of Mistral Large 2 (Nov '24) which relates to the data aboveMistral Large2 (Nov '24)Llama 3.1 70BLogo of Llama 3.1 70B which relates to the data aboveLlama 3.1 70BNova ProLogo of Nova Pro which relates to the data aboveNova ProGPT-4o miniLogo of GPT-4o mini which relates to the data aboveGPT-4o miniClaude 3.5 HaikuLogo of Claude 3.5 Haiku which relates to the data aboveClaude 3.5HaikuNova LiteLogo of Nova Lite which relates to the data aboveNova LiteNova MicroLogo of Nova Micro which relates to the data aboveNova MicroLlama 3.1 8BLogo of Llama 3.1 8B which relates to the data aboveLlama 3.1 8B91%89%87%87%87%86%86%86%85%85%84%84%82%81%79%76%71%
+
+Scientific Reasoning & Knowledge (GPQA Diamond)
+
+67%59%58%58%57%50%50%49%48%47%44%43%43%39%38%37%27%o1-previewLogo of o1-preview which relates to the data aboveo1-previewGemini 2.0 Flash (exp)Logo of Gemini 2.0 Flash (exp) which relates to the data aboveGemini 2.0Flash (exp)o1-miniLogo of o1-mini which relates to the data aboveo1-miniClaude 3.5 Sonnet (Oct)Logo of Claude 3.5 Sonnet (Oct) which relates to the data aboveClaude 3.5Sonnet (Oct)Gemini 1.5 Pro (Sep)Logo of Gemini 1.5 Pro (Sep) which relates to the data aboveGemini 1.5 Pro(Sep)Llama 3.1 405BLogo of Llama 3.1 405B which relates to the data aboveLlama 3.1 405BDeepSeek V3Logo of DeepSeek V3 which relates to the data aboveDeepSeek V3Llama 3.3 70BLogo of Llama 3.3 70B which relates to the data aboveLlama 3.3 70BNova ProLogo of Nova Pro which relates to the data aboveNova ProMistral Large 2 (Nov '24)Logo of Mistral Large 2 (Nov '24) which relates to the data aboveMistral Large2 (Nov '24)GPT-4o miniLogo of GPT-4o mini which relates to the data aboveGPT-4o miniLlama 3.1 70BLogo of Llama 3.1 70B which relates to the data aboveLlama 3.1 70BNova LiteLogo of Nova Lite which relates to the data aboveNova LiteGPT-4o (Nov '24)Logo of GPT-4o (Nov '24) which relates to the data aboveGPT-4o (Nov'24)Nova MicroLogo of Nova Micro which relates to the data aboveNova MicroClaude 3.5 HaikuLogo of Claude 3.5 Haiku which relates to the data aboveClaude 3.5HaikuLlama 3.1 8BLogo of Llama 3.1 8B which relates to the data aboveLlama 3.1 8B67%59%58%58%57%50%50%49%48%47%44%43%43%39%38%37%27%
+
+Quantitative Reasoning (MATH-500)
+
+95%92%90%88%85%79%79%76%76%75%74%72%70%69%67%64%50%o1-miniLogo of o1-mini which relates to the data aboveo1-minio1-previewLogo of o1-preview which relates to the data aboveo1-previewGemini 2.0 Flash (exp)Logo of Gemini 2.0 Flash (exp) which relates to the data aboveGemini 2.0Flash (exp)Gemini 1.5 Pro (Sep)Logo of Gemini 1.5 Pro (Sep) which relates to the data aboveGemini 1.5 Pro(Sep)DeepSeek V3Logo of DeepSeek V3 which relates to the data aboveDeepSeek V3GPT-4o miniLogo of GPT-4o mini which relates to the data aboveGPT-4o miniNova ProLogo of Nova Pro which relates to the data aboveNova ProLlama 3.3 70BLogo of Llama 3.3 70B which relates to the data aboveLlama 3.3 70BClaude 3.5 Sonnet (Oct)Logo of Claude 3.5 Sonnet (Oct) which relates to the data aboveClaude 3.5Sonnet (Oct)Nova LiteLogo of Nova Lite which relates to the data aboveNova LiteGPT-4o (Nov '24)Logo of GPT-4o (Nov '24) which relates to the data aboveGPT-4o (Nov'24)Mistral Large 2 (Nov '24)Logo of Mistral Large 2 (Nov '24) which relates to the data aboveMistral Large2 (Nov '24)Llama 3.1 405BLogo of Llama 3.1 405B which relates to the data aboveLlama 3.1 405BNova MicroLogo of Nova Micro which relates to the data aboveNova MicroClaude 3.5 HaikuLogo of Claude 3.5 Haiku which relates to the data aboveClaude 3.5HaikuLlama 3.1 70BLogo of Llama 3.1 70B which relates to the data aboveLlama 3.1 70BLlama 3.1 8BLogo of Llama 3.1 8B which relates to the data aboveLlama 3.1 8B95%92%90%88%85%79%79%76%76%75%74%72%70%69%67%64%50%
+
+Coding (HumanEval)
+
+97%96%96%93%92%91%90%88%88%88%87%87%86%84%80%80%67%o1-miniLogo of o1-mini which relates to the data aboveo1-minio1-previewLogo of o1-preview which relates to the data aboveo1-previewClaude 3.5 Sonnet (Oct)Logo of Claude 3.5 Sonnet (Oct) which relates to the data aboveClaude 3.5Sonnet (Oct)GPT-4o (Nov '24)Logo of GPT-4o (Nov '24) which relates to the data aboveGPT-4o (Nov'24)DeepSeek V3Logo of DeepSeek V3 which relates to the data aboveDeepSeek V3Gemini 2.0 Flash (exp)Logo of Gemini 2.0 Flash (exp) which relates to the data aboveGemini 2.0Flash (exp)Mistral Large 2 (Nov '24)Logo of Mistral Large 2 (Nov '24) which relates to the data aboveMistral Large2 (Nov '24)GPT-4o miniLogo of GPT-4o mini which relates to the data aboveGPT-4o miniGemini 1.5 Pro (Sep)Logo of Gemini 1.5 Pro (Sep) which relates to the data aboveGemini 1.5 Pro(Sep)Nova ProLogo of Nova Pro which relates to the data aboveNova ProLlama 3.1 405BLogo of Llama 3.1 405B which relates to the data aboveLlama 3.1 405BClaude 3.5 HaikuLogo of Claude 3.5 Haiku which relates to the data aboveClaude 3.5HaikuLlama 3.3 70BLogo of Llama 3.3 70B which relates to the data aboveLlama 3.3 70BNova LiteLogo of Nova Lite which relates to the data aboveNova LiteLlama 3.1 70BLogo of Llama 3.1 70B which relates to the data aboveLlama 3.1 70BNova MicroLogo of Nova Micro which relates to the data aboveNova MicroLlama 3.1 8BLogo of Llama 3.1 8B which relates to the data aboveLlama 3.1 8B97%96%96%93%92%91%90%88%88%88%87%87%86%84%80%80%67%
+
+Artificial Analysis Multilingual Index
+
+88%86%86%85%84%84%84%83%83%83%80%78%77%76%71%61%Claude 3.5 Sonnet (Oct)Logo of Claude 3.5 Sonnet (Oct) which relates to the data aboveClaude 3.5Sonnet (Oct)o1-previewLogo of o1-preview which relates to the data aboveo1-previewDeepSeek V3Logo of DeepSeek V3 which relates to the data aboveDeepSeek V3Gemini 1.5 Pro (Sep)Logo of Gemini 1.5 Pro (Sep) which relates to the data aboveGemini 1.5 Pro(Sep)GPT-4o (Nov '24)Logo of GPT-4o (Nov '24) which relates to the data aboveGPT-4o (Nov'24)Llama 3.3 70BLogo of Llama 3.3 70B which relates to the data aboveLlama 3.3 70BGemini 2.0 Flash (exp)Logo of Gemini 2.0 Flash (exp) which relates to the data aboveGemini 2.0Flash (exp)o1-miniLogo of o1-mini which relates to the data aboveo1-miniMistral Large 2 (Nov '24)Logo of Mistral Large 2 (Nov '24) which relates to the data aboveMistral Large2 (Nov '24)Nova ProLogo of Nova Pro which relates to the data aboveNova ProGPT-4o miniLogo of GPT-4o mini which relates to the data aboveGPT-4o miniClaude 3.5 HaikuLogo of Claude 3.5 Haiku which relates to the data aboveClaude 3.5HaikuLlama 3.1 405BLogo of Llama 3.1 405B which relates to the data aboveLlama 3.1 405BNova LiteLogo of Nova Lite which relates to the data aboveNova LiteNova MicroLogo of Nova Micro which relates to the data aboveNova MicroLlama 3.1 8BLogo of Llama 3.1 8B which relates to the data aboveLlama 3.1 8B88%86%86%85%84%84%84%83%83%83%80%78%77%76%71%61%
+
+Artificial Analysis independently runs quality evaluations on every language model endpoint covered on our site. Our current set of evaluations includes MMLU, GPQA, MATH-500, and HumanEval. Different use-cases warrant considering different evaluation tests. 
+
+Artificial Analysis Quality Index: Average result across our evaluations covering different dimensions of model intelligence. Currently includes MMLU, GPQA, Math & HumanEval. OpenAI o1 model figures are preliminary and are based on figures stated by OpenAI. See [methodology](/methodology) for more details.
+
+Artificial Analysis Multilingual Index: Reflects performance across a range of languages. Calculated as the average of Multilingual MMLU (general reasoning) and MGSM (mathematical reasoning) evaluation scores. See our[ multilingual capabilities page](/models/multilingual) for further analysis.
+
+Median across providers: All quality evaluation results above, including Artificial Analysis Quality Index, are represented as the median result across all providers which support each model. 
+
+## Quality vs. Price
+
+17 of 95 models selected
+
++ Add model from specific provider
+
+Artificial Analysis Quality Index, Price: USD per 1M Tokens
+
+Most attractive quadrant
+
+[o1-preview ](/models/o1/providers)
+
+[o1-mini ](/models/o1-mini/providers)
+
+[GPT-4o mini ](/models/gpt-4o-mini/providers)
+
+[GPT-4o (Nov '24) ](/models/gpt-4o/providers)
+
+[Llama 3.3 70B ](/models/llama-3-3-instruct-70b/providers)
+
+[Llama 3.1 405B ](/models/llama-3-1-instruct-405b/providers)
+
+[Llama 3.1 70B ](/models/llama-3-1-instruct-70b/providers)
+
+[Llama 3.1 8B ](/models/llama-3-1-instruct-8b/providers)
+
+[Gemini 1.5 Pro (Sep) ](/models/gemini-1-5-pro/providers)
+
+[Claude 3.5 Sonnet (Oct) ](/models/claude-35-sonnet/providers)
+
+[Claude 3.5 Haiku ](/models/claude-3-5-haiku/providers)
+
+[Mistral Large 2 (Nov '24) ](/models/mistral-large-2/providers)
+
+[Nova Pro ](/models/nova-pro/providers)
+
+[Nova Lite ](/models/nova-lite/providers)
+
+[Nova Micro ](/models/nova-micro/providers)
+
+[DeepSeek V3 ](/models/deepseek-v3/providers)
+
+Artificial Analysis$0.00$5.00$10.00$15.00$20.00$25.00$30.00Price (USD per M Tokens)4550556065707580859095Artificial Analysis Quality IndexLlama 3.1 8BLlama 3.1 8BNova MicroNova MicroLlama 3.1 70BLlama 3.1 70BClaude 3.5 HaikuClaude 3.5 HaikuNova LiteNova LiteGPT-4o miniGPT-4o miniGPT-4o (Nov '24)GPT-4o (Nov '24)Llama 3.1 405BLlama 3.1 405BMistral Large 2 (Nov '24)Mistral Large 2 (Nov '24)Llama 3.3 70BLlama 3.3 70BNova ProNova ProDeepSeek V3DeepSeek V3Gemini 1.5 Pro (Sep)Gemini 1.5 Pro (Sep)Claude 3.5 Sonnet (Oct)Claude 3.5 Sonnet (Oct)o1-minio1-minio1-previewo1-preview
+
+While higher quality models are typically more expensive, they do not all follow the same price-quality curve.
+
+Artificial Analysis Quality Index: Average result across our evaluations covering different dimensions of model intelligence. Currently includes MMLU, GPQA, Math & HumanEval. OpenAI o1 model figures are preliminary and are based on figures stated by OpenAI. See [methodology](/methodology) for more details.
+
+Price: Price per token, represented as USD per million Tokens. Price is a blend of Input & Output token prices (3:1 ratio).
+
+Median across providers: Figures represent median (P50) across all providers which support the model.
+
+## Quality vs. Output Speed
+
+17 of 95 models selected
+
++ Add model from specific provider
+
+Artificial Analysis Quality Index, Output Speed: Output Tokens per Second, Price: USD per 1M Tokens
+
+Most attractive quadrant
+
+Size represents Price (USD per M Tokens)
+
+[o1-preview ](/models/o1/providers)
+
+[o1-mini ](/models/o1-mini/providers)
+
+[GPT-4o mini ](/models/gpt-4o-mini/providers)
+
+[GPT-4o (Nov '24) ](/models/gpt-4o/providers)
+
+[Llama 3.3 70B ](/models/llama-3-3-instruct-70b/providers)
+
+[Llama 3.1 405B ](/models/llama-3-1-instruct-405b/providers)
+
+[Llama 3.1 70B ](/models/llama-3-1-instruct-70b/providers)
+
+[Llama 3.1 8B ](/models/llama-3-1-instruct-8b/providers)
+
+[Gemini 2.0 Flash (exp) ](/models/gemini-2-0-flash-experimental/providers)
+
+[Gemini 1.5 Pro (Sep) ](/models/gemini-1-5-pro/providers)
+
+[Claude 3.5 Sonnet (Oct) ](/models/claude-35-sonnet/providers)
+
+[Claude 3.5 Haiku ](/models/claude-3-5-haiku/providers)
+
+[Mistral Large 2 (Nov '24) ](/models/mistral-large-2/providers)
+
+[Nova Pro ](/models/nova-pro/providers)
+
+[Nova Lite ](/models/nova-lite/providers)
+
+[Nova Micro ](/models/nova-micro/providers)
+
+[DeepSeek V3 ](/models/deepseek-v3/providers)
+
+Artificial Analysis020406080100120140160180200220240Output Speed (Output Tokens per Second)4550556065707580859095Artificial Analysis Quality IndexLlama 3.1 405BLlama 3.1 405BDeepSeek V3DeepSeek V3Mistral Large 2 (Nov '24)Mistral Large 2 (Nov '24)Claude 3.5 HaikuClaude 3.5 HaikuLlama 3.1 70BLlama 3.1 70BGemini 1.5 Pro (Sep)Gemini 1.5 Pro (Sep)Llama 3.3 70BLlama 3.3 70BClaude 3.5 Sonnet (Oct)Claude 3.5 Sonnet (Oct)GPT-4o miniGPT-4o miniNova ProNova ProGPT-4o (Nov '24)GPT-4o (Nov '24)Nova LiteNova Liteo1-previewo1-previewGemini 2.0 Flash (exp)Gemini 2.0 Flash (exp)Llama 3.1 8BLlama 3.1 8BNova MicroNova Microo1-minio1-mini
+
+There is a trade-off between model quality and output speed, with higher quality models typically having lower output speed.
+
+Artificial Analysis Quality Index: Average result across our evaluations covering different dimensions of model intelligence. Currently includes MMLU, GPQA, Math & HumanEval. OpenAI o1 model figures are preliminary and are based on figures stated by OpenAI. See [methodology](/methodology) for more details.
+
+Output Speed: Tokens per second received while the model is generating tokens (ie. after first chunk has been received from the API for models which support streaming).
+
+Price: Price per token, represented as USD per million Tokens. Price is a blend of Input & Output token prices (3:1 ratio).
+
+Median across providers: Figures represent median (P50) across all providers which support the model.
+
+## Output Speed
+
+17 of 95 models selected
+
++ Add model from specific provider
+
+Output Tokens per Second; Higher is better
+
+Artificial Analysis21919418516914414310489857372726561373018o1-miniLogo of o1-mini which relates to the data aboveo1-miniNova MicroLogo of Nova Micro which relates to the data aboveNova MicroLlama 3.1 8BLogo of Llama 3.1 8B which relates to the data aboveLlama 3.1 8BGemini 2.0 Flash (exp)Logo of Gemini 2.0 Flash (exp) which relates to the data aboveGemini 2.0Flash (exp)Nova LiteLogo of Nova Lite which relates to the data aboveNova Liteo1-previewLogo of o1-preview which relates to the data aboveo1-previewGPT-4o (Nov '24)Logo of GPT-4o (Nov '24) which relates to the data aboveGPT-4o (Nov'24)Nova ProLogo of Nova Pro which relates to the data aboveNova ProGPT-4o miniLogo of GPT-4o mini which relates to the data aboveGPT-4o miniLlama 3.1 70BLogo of Llama 3.1 70B which relates to the data aboveLlama 3.1 70BLlama 3.3 70BLogo of Llama 3.3 70B which relates to the data aboveLlama 3.3 70BClaude 3.5 Sonnet (Oct)Logo of Claude 3.5 Sonnet (Oct) which relates to the data aboveClaude 3.5Sonnet (Oct)Claude 3.5 HaikuLogo of Claude 3.5 Haiku which relates to the data aboveClaude 3.5HaikuGemini 1.5 Pro (Sep)Logo of Gemini 1.5 Pro (Sep) which relates to the data aboveGemini 1.5 Pro(Sep)Mistral Large 2 (Nov '24)Logo of Mistral Large 2 (Nov '24) which relates to the data aboveMistral Large2 (Nov '24)Llama 3.1 405BLogo of Llama 3.1 405B which relates to the data aboveLlama 3.1 405BDeepSeek V3Logo of DeepSeek V3 which relates to the data aboveDeepSeek V3
+
+Output Speed: Tokens per second received while the model is generating tokens (ie. after first chunk has been received from the API for models which support streaming).
+
+Median across providers: Figures represent median (P50) across all providers which support the model.
+
+## Latency
+
+17 of 95 models selected
+
++ Add model from specific provider
+
+Seconds to First Token Received; Lower is better
+
+Artificial Analysis0.310.320.320.370.420.460.460.470.530.660.720.730.740.941.0210.6920.35Llama 3.1 8BLogo of Llama 3.1 8B which relates to the data aboveLlama 3.1 8BNova LiteLogo of Nova Lite which relates to the data aboveNova LiteNova MicroLogo of Nova Micro which relates to the data aboveNova MicroNova ProLogo of Nova Pro which relates to the data aboveNova ProLlama 3.1 70BLogo of Llama 3.1 70B which relates to the data aboveLlama 3.1 70BLlama 3.3 70BLogo of Llama 3.3 70B which relates to the data aboveLlama 3.3 70BGemini 2.0 Flash (exp)Logo of Gemini 2.0 Flash (exp) which relates to the data aboveGemini 2.0Flash (exp)GPT-4o (Nov '24)Logo of GPT-4o (Nov '24) which relates to the data aboveGPT-4o (Nov'24)Mistral Large 2 (Nov '24)Logo of Mistral Large 2 (Nov '24) which relates to the data aboveMistral Large2 (Nov '24)GPT-4o miniLogo of GPT-4o mini which relates to the data aboveGPT-4o miniLlama 3.1 405BLogo of Llama 3.1 405B which relates to the data aboveLlama 3.1 405BGemini 1.5 Pro (Sep)Logo of Gemini 1.5 Pro (Sep) which relates to the data aboveGemini 1.5 Pro(Sep)Claude 3.5 HaikuLogo of Claude 3.5 Haiku which relates to the data aboveClaude 3.5HaikuDeepSeek V3Logo of DeepSeek V3 which relates to the data aboveDeepSeek V3Claude 3.5 Sonnet (Oct)Logo of Claude 3.5 Sonnet (Oct) which relates to the data aboveClaude 3.5Sonnet (Oct)o1-miniLogo of o1-mini which relates to the data aboveo1-minio1-previewLogo of o1-preview which relates to the data aboveo1-preview0.310.320.320.370.420.460.460.470.530.660.720.730.740.941.02
+
+Latency: Time to first token of tokens received, in seconds, after API request sent. For models which do not support streaming, this represents time to receive the completion.
+
+Median across providers: Figures represent median (P50) across all providers which support the model.
+
+## Pricing: Input and Output Prices
+
+17 of 95 models selected
+
++ Add model from specific provider
+
+USD per 1M Tokens
+
+Input price 
+
+Output price 
+
+Artificial Analysis00.040.060.10.150.590.60.80.80.91.2522.5333.515.7500.140.240.10.60.750.843.21.1561012153.563Gemini 2.0 Flash (exp)Logo of Gemini 2.0 Flash (exp) which relates to the data aboveGemini 2.0Flash (exp)Nova MicroLogo of Nova Micro which relates to the data aboveNova MicroNova LiteLogo of Nova Lite which relates to the data aboveNova LiteLlama 3.1 8BLogo of Llama 3.1 8B which relates to the data aboveLlama 3.1 8BGPT-4o miniLogo of GPT-4o mini which relates to the data aboveGPT-4o miniLlama 3.3 70BLogo of Llama 3.3 70B which relates to the data aboveLlama 3.3 70BLlama 3.1 70BLogo of Llama 3.1 70B which relates to the data aboveLlama 3.1 70BClaude 3.5 HaikuLogo of Claude 3.5 Haiku which relates to the data aboveClaude 3.5HaikuNova ProLogo of Nova Pro which relates to the data aboveNova ProDeepSeek V3Logo of DeepSeek V3 which relates to the data aboveDeepSeek V3Gemini 1.5 Pro (Sep)Logo of Gemini 1.5 Pro (Sep) which relates to the data aboveGemini 1.5 Pro(Sep)Mistral Large 2 (Nov '24)Logo of Mistral Large 2 (Nov '24) which relates to the data aboveMistral Large2 (Nov '24)GPT-4o (Nov '24)Logo of GPT-4o (Nov '24) which relates to the data aboveGPT-4o (Nov'24)o1-miniLogo of o1-mini which relates to the data aboveo1-miniClaude 3.5 Sonnet (Oct)Logo of Claude 3.5 Sonnet (Oct) which relates to the data aboveClaude 3.5Sonnet (Oct)Llama 3.1 405BLogo of Llama 3.1 405B which relates to the data aboveLlama 3.1 405Bo1-previewLogo of o1-preview which relates to the data aboveo1-preview0.040.060.10.150.590.60.80.80.91.2522.5333.515.750.140.240.10.60.750.843.21.1561012153.563
+
+Prices vary by orders of magnitude (>10X) between cheaper and more expensive models & providers.
+
+Input Price: Price per token included in the request/message sent to the API, represented as USD per million Tokens.
+
+Output Price: Price per token generated by the model (received from the API), represented as USD per million Tokens.
+
+Median across providers: Figures represent median (P50) across all providers which support the model.
+
+## API Provider Highlights: Llama 3.3 Instruct 70B
+
+More Information: Llama 3.3 Instruct 70B selected
+
+## Output Speed vs. Price: Llama 3.3 Instruct 70B
+
+13 of 13 providers selected
+
+Output Speed: Output Tokens per Second, Price: USD per 1M Tokens
+
+Most attractive quadrant
+
+[Cerebras ](/models/llama-3-3-instruct-70b/providers)
+
+[Hyperbolic ](/models/llama-3-3-instruct-70b/providers)
+
+[Amazon ](/models/llama-3-3-instruct-70b/providers)
+
+[Nebius Fast ](/models/llama-3-3-instruct-70b/providers)
+
+[Nebius Base ](/models/llama-3-3-instruct-70b/providers)
+
+[Azure ](/models/llama-3-3-instruct-70b/providers)
+
+[Fireworks ](/models/llama-3-3-instruct-70b/providers)
+
+[Deepinfra (Turbo, FP8) ](/models/llama-3-3-instruct-70b/providers)
+
+[Deepinfra ](/models/llama-3-3-instruct-70b/providers)
+
+[Groq (Spec decoding) ](/models/llama-3-3-instruct-70b/providers)
+
+[Groq ](/models/llama-3-3-instruct-70b/providers)
+
+[SambaNova ](/models/llama-3-3-instruct-70b/providers)
+
+[Together.ai ](/models/llama-3-3-instruct-70b/providers)
+
+Artificial Analysis$0.00$0.10$0.20$0.30$0.40$0.50$0.60$0.70$0.80$0.90$1.00Price (USD per 1M Tokens)02004006008001000120014001600180020002200Output Speed (Output Tokens per Second)AzureAzureHyperbolicHyperbolicDeepinfraDeepinfraDeepinfra (Turbo, FP8)Deepinfra (Turbo, FP8)AmazonAmazonNebius BaseNebius BaseNebius FastNebius FastFireworksFireworksTogether.aiTogether.aiGroqGroqSambaNovaSambaNovaGroq (Spec decoding)Groq (Spec decoding)CerebrasCerebras
+
+Smaller, emerging providers are offering high output speed and at competitive prices.
+
+Price: Price per token, represented as USD per million Tokens. Price is a blend of Input & Output token prices (3:1 ratio).
+
+Output Speed: Tokens per second received while the model is generating tokens (ie. after first chunk has been received from the API for models which support streaming).
+
+Median: Figures represent median (P50) measurement over the past 14 days or otherwise to reflect sustained changes in performance.
+
+Notes: Llama 3.3 70B, Cerebras: 33k context, Llama 3.3 70B (Spec decoding), Groq: 8k context, Llama 3.3 70B, SambaNova: 4k context
+
+## Pricing (Input and Output Prices): Llama 3.3 Instruct 70B
+
+13 of 13 providers selected
+
+Price: USD per 1M Tokens; Lower is better
+
+Input price 
+
+Output price 
+
+Artificial Analysis0.130.130.230.250.40.590.590.60.710.710.850.880.90.40.40.40.750.40.990.791.20.710.711.20.880.9Nebius BaseLogo of Nebius Base which relates to the data aboveNebius BaseDeepinfra (Turbo, FP8)Logo of Deepinfra (Turbo, FP8) which relates to the data aboveDeepinfra(Turbo, FP8)DeepinfraLogo of Deepinfra which relates to the data aboveDeepinfraNebius FastLogo of Nebius Fast which relates to the data aboveNebius FastHyperbolicLogo of Hyperbolic which relates to the data aboveHyperbolicGroq (Spec decoding)Logo of Groq (Spec decoding) which relates to the data aboveGroq (Specdecoding)GroqLogo of Groq which relates to the data aboveGroqSambaNovaLogo of SambaNova which relates to the data aboveSambaNovaAmazonLogo of Amazon which relates to the data aboveAmazonAzureLogo of Azure which relates to the data aboveAzureCerebrasLogo of Cerebras which relates to the data aboveCerebrasTogether.aiLogo of Together.ai which relates to the data aboveTogether.aiFireworksLogo of Fireworks which relates to the data aboveFireworks0.130.130.230.250.40.590.590.60.710.710.850.880.90.40.40.40.750.40.990.791.20.710.711.20.880.9
+
+The relative importance of input vs. output token prices varies by use-case. E.g. Generation tasks are typically more input token weighted while document-focused tasks (e.g. RAG) are more output token weighted.
+
+Input Price: Price per token included in the request/message sent to the API, represented as USD per million Tokens.
+
+Output Price: Price per token generated by the model (received from the API), represented as USD per million Tokens.
+
+Notes: Llama 3.3 70B, Cerebras: 33k context, Llama 3.3 70B (Spec decoding), Groq: 8k context, Llama 3.3 70B, SambaNova: 4k context
+
+## Output Speed: Llama 3.3 Instruct 70B
+
+13 of 13 providers selected
+
+Output Speed: Output Tokens per Second
+
+Artificial Analysis2167184336827516811171483131302419CerebrasLogo of Cerebras which relates to the data aboveCerebrasGroq (Spec decoding)Logo of Groq (Spec decoding) which relates to the data aboveGroq (Specdecoding)SambaNovaLogo of SambaNova which relates to the data aboveSambaNovaGroqLogo of Groq which relates to the data aboveGroqTogether.aiLogo of Together.ai which relates to the data aboveTogether.aiFireworksLogo of Fireworks which relates to the data aboveFireworksNebius FastLogo of Nebius Fast which relates to the data aboveNebius FastNebius BaseLogo of Nebius Base which relates to the data aboveNebius BaseAmazonLogo of Amazon which relates to the data aboveAmazonDeepinfra (Turbo, FP8)Logo of Deepinfra (Turbo, FP8) which relates to the data aboveDeepinfra(Turbo, FP8)DeepinfraLogo of Deepinfra which relates to the data aboveDeepinfraHyperbolicLogo of Hyperbolic which relates to the data aboveHyperbolicAzureLogo of Azure which relates to the data aboveAzure16811171483131302419
+
+Output Speed: Tokens per second received while the model is generating tokens (ie. after first chunk has been received from the API for models which support streaming).
+
+Median across providers: Figures represent median (P50) across all providers which support the model.
+
+Notes: Llama 3.3 70B, Cerebras: 33k context, Llama 3.3 70B (Spec decoding), Groq: 8k context, Llama 3.3 70B, SambaNova: 4k context
+
+## Output Speed, Over Time: Llama 3.3 Instruct 70B
+
+13 of 13 providers selected
+
+Output Tokens per Second; Higher is better
+
+Artificial AnalysisJan 01Jan 02
+
+Smaller, emerging providers offer high output speed, though precise speeds delivered vary day-to-day.
+
+Output Speed: Tokens per second received while the model is generating tokens (ie. after first chunk has been received from the API for models which support streaming).
+
+Over time measurement: Median measurement per day, based on 8 measurements each day at different times. Labels represent start of week's measurements.
+
+Notes: Llama 3.3 70B, Cerebras: 33k context, Llama 3.3 70B (Spec decoding), Groq: 8k context, Llama 3.3 70B, SambaNova: 4k context
+
+See more information on any of our supported models
+
+Model Name| Creator| License| Context Window| Further analysis  
+---|---|---|---|---  
+![OpenAI logo](/img/logos/openai.svg)  
+[![OpenAI logo](/img/logos/openai_small.svg)o1-preview](/models/o1/providers)| [OpenAI](/models/o1/providers)| [Proprietary](/models/o1/providers)| [128k](/models/o1/providers)|  [ Model](/models/o1)[ API Providers](/models/o1/providers)  
+[![OpenAI logo](/img/logos/openai_small.svg)o1-mini](/models/o1-mini/providers)| [OpenAI](/models/o1-mini/providers)| [Proprietary](/models/o1-mini/providers)| [128k](/models/o1-mini/providers)|  [ Model](/models/o1-mini)[ API Providers](/models/o1-mini/providers)  
+[![OpenAI logo](/img/logos/openai_small.svg)GPT-4o (Aug '24)](/models/gpt-4o-2024-08-06/providers)| [OpenAI](/models/gpt-4o-2024-08-06/providers)| [Proprietary](/models/gpt-4o-2024-08-06/providers)| [128k](/models/gpt-4o-2024-08-06/providers)|  [ Model](/models/gpt-4o-2024-08-06)[ API Providers](/models/gpt-4o-2024-08-06/providers)  
+[![OpenAI logo](/img/logos/openai_small.svg)GPT-4o (May '24)](/models/gpt-4o-2024-05-13/providers)| [OpenAI](/models/gpt-4o-2024-05-13/providers)| [Proprietary](/models/gpt-4o-2024-05-13/providers)| [128k](/models/gpt-4o-2024-05-13/providers)|  [ Model](/models/gpt-4o-2024-05-13)[ API Providers](/models/gpt-4o-2024-05-13/providers)  
+[![OpenAI logo](/img/logos/openai_small.svg)GPT-4o mini](/models/gpt-4o-mini/providers)| [OpenAI](/models/gpt-4o-mini/providers)| [Proprietary](/models/gpt-4o-mini/providers)| [128k](/models/gpt-4o-mini/providers)|  [ Model](/models/gpt-4o-mini)[ API Providers](/models/gpt-4o-mini/providers)  
+[![OpenAI logo](/img/logos/openai_small.svg)GPT-4o (Nov '24)](/models/gpt-4o/providers)| [OpenAI](/models/gpt-4o/providers)| [Proprietary](/models/gpt-4o/providers)| [128k](/models/gpt-4o/providers)|  [ Model](/models/gpt-4o)[ API Providers](/models/gpt-4o/providers)  
+[![OpenAI logo](/img/logos/openai_small.svg)GPT-4o mini Realtime (Dec '24)](/models/gpt-4o-mini-realtime-dec-2024/providers)| [OpenAI](/models/gpt-4o-mini-realtime-dec-2024/providers)| [Proprietary](/models/gpt-4o-mini-realtime-dec-2024/providers)| [128k](/models/gpt-4o-mini-realtime-dec-2024/providers)|  [ Model](/models/gpt-4o-mini-realtime-dec-2024)[ API Providers](/models/gpt-4o-mini-realtime-dec-2024/providers)  
+[![OpenAI logo](/img/logos/openai_small.svg)GPT-4o Realtime (Dec '24)](/models/gpt-4o-realtime-dec-2024/providers)| [OpenAI](/models/gpt-4o-realtime-dec-2024/providers)| [Proprietary](/models/gpt-4o-realtime-dec-2024/providers)| [128k](/models/gpt-4o-realtime-dec-2024/providers)|  [ Model](/models/gpt-4o-realtime-dec-2024)[ API Providers](/models/gpt-4o-realtime-dec-2024/providers)  
+[![OpenAI logo](/img/logos/openai_small.svg)GPT-4 Turbo](/models/gpt-4-turbo/providers)| [OpenAI](/models/gpt-4-turbo/providers)| [Proprietary](/models/gpt-4-turbo/providers)| [128k](/models/gpt-4-turbo/providers)|  [ Model](/models/gpt-4-turbo)[ API Providers](/models/gpt-4-turbo/providers)  
+[![OpenAI logo](/img/logos/openai_small.svg)GPT-4](/models/gpt-4/providers)| [OpenAI](/models/gpt-4/providers)| [Proprietary](/models/gpt-4/providers)| [8k](/models/gpt-4/providers)|  [ Model](/models/gpt-4)[ API Providers](/models/gpt-4/providers)  
+![Meta logo](/img/logos/meta.svg)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 3.3 Instruct 70B](/models/llama-3-3-instruct-70b/providers)| [Meta](/models/llama-3-3-instruct-70b/providers)| [Open](/models/llama-3-3-instruct-70b/providers)| [128k](/models/llama-3-3-instruct-70b/providers)|  [ Model](/models/llama-3-3-instruct-70b)[ API Providers](/models/llama-3-3-instruct-70b/providers)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 3.1 Instruct 405B](/models/llama-3-1-instruct-405b/providers)| [Meta](/models/llama-3-1-instruct-405b/providers)| [Open](/models/llama-3-1-instruct-405b/providers)| [128k](/models/llama-3-1-instruct-405b/providers)|  [ Model](/models/llama-3-1-instruct-405b)[ API Providers](/models/llama-3-1-instruct-405b/providers)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 3.1 Instruct 70B](/models/llama-3-1-instruct-70b/providers)| [Meta](/models/llama-3-1-instruct-70b/providers)| [Open](/models/llama-3-1-instruct-70b/providers)| [128k](/models/llama-3-1-instruct-70b/providers)|  [ Model](/models/llama-3-1-instruct-70b)[ API Providers](/models/llama-3-1-instruct-70b/providers)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 3.2 Instruct 90B (Vision)](/models/llama-3-2-instruct-90b-vision/providers)| [Meta](/models/llama-3-2-instruct-90b-vision/providers)| [Open](/models/llama-3-2-instruct-90b-vision/providers)| [128k](/models/llama-3-2-instruct-90b-vision/providers)|  [ Model](/models/llama-3-2-instruct-90b-vision)[ API Providers](/models/llama-3-2-instruct-90b-vision/providers)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 3.2 Instruct 11B (Vision)](/models/llama-3-2-instruct-11b-vision/providers)| [Meta](/models/llama-3-2-instruct-11b-vision/providers)| [Open](/models/llama-3-2-instruct-11b-vision/providers)| [128k](/models/llama-3-2-instruct-11b-vision/providers)|  [ Model](/models/llama-3-2-instruct-11b-vision)[ API Providers](/models/llama-3-2-instruct-11b-vision/providers)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 3.1 Instruct 8B](/models/llama-3-1-instruct-8b/providers)| [Meta](/models/llama-3-1-instruct-8b/providers)| [Open](/models/llama-3-1-instruct-8b/providers)| [128k](/models/llama-3-1-instruct-8b/providers)|  [ Model](/models/llama-3-1-instruct-8b)[ API Providers](/models/llama-3-1-instruct-8b/providers)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 3.2 Instruct 3B](/models/llama-3-2-instruct-3b/providers)| [Meta](/models/llama-3-2-instruct-3b/providers)| [Open](/models/llama-3-2-instruct-3b/providers)| [128k](/models/llama-3-2-instruct-3b/providers)|  [ Model](/models/llama-3-2-instruct-3b)[ API Providers](/models/llama-3-2-instruct-3b/providers)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 3.2 Instruct 1B](/models/llama-3-2-instruct-1b/providers)| [Meta](/models/llama-3-2-instruct-1b/providers)| [Open](/models/llama-3-2-instruct-1b/providers)| [128k](/models/llama-3-2-instruct-1b/providers)|  [ Model](/models/llama-3-2-instruct-1b)[ API Providers](/models/llama-3-2-instruct-1b/providers)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 3 Instruct 70B](/models/llama-3-instruct-70b/providers)| [Meta](/models/llama-3-instruct-70b/providers)| [Open](/models/llama-3-instruct-70b/providers)| [8k](/models/llama-3-instruct-70b/providers)|  [ Model](/models/llama-3-instruct-70b)[ API Providers](/models/llama-3-instruct-70b/providers)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 3 Instruct 8B](/models/llama-3-instruct-8b/providers)| [Meta](/models/llama-3-instruct-8b/providers)| [Open](/models/llama-3-instruct-8b/providers)| [8k](/models/llama-3-instruct-8b/providers)|  [ Model](/models/llama-3-instruct-8b)[ API Providers](/models/llama-3-instruct-8b/providers)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 2 Chat 70B](/models/llama-2-chat-70b/providers)| [Meta](/models/llama-2-chat-70b/providers)| [Open](/models/llama-2-chat-70b/providers)| [4k](/models/llama-2-chat-70b/providers)|  [ Model](/models/llama-2-chat-70b)[ API Providers](/models/llama-2-chat-70b/providers)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 2 Chat 13B](/models/llama-2-chat-13b/providers)| [Meta](/models/llama-2-chat-13b/providers)| [Open](/models/llama-2-chat-13b/providers)| [4k](/models/llama-2-chat-13b/providers)|  [ Model](/models/llama-2-chat-13b)[ API Providers](/models/llama-2-chat-13b/providers)  
+[![Meta logo](/img/logos/meta_small.svg)Llama 2 Chat 7B](/models/llama-2-chat-7b/providers)| [Meta](/models/llama-2-chat-7b/providers)| [Open](/models/llama-2-chat-7b/providers)| [4k](/models/llama-2-chat-7b/providers)|  [ Model](/models/llama-2-chat-7b)[ API Providers](/models/llama-2-chat-7b/providers)  
+![Google logo](/img/logos/google.svg)  
+[![Google logo](/img/logos/google_small.svg)Gemini 2.0 Flash (experimental)](/models/gemini-2-0-flash-experimental/providers)| [Google](/models/gemini-2-0-flash-experimental/providers)| [Proprietary](/models/gemini-2-0-flash-experimental/providers)| [1m](/models/gemini-2-0-flash-experimental/providers)|  [ Model](/models/gemini-2-0-flash-experimental)[ API Providers](/models/gemini-2-0-flash-experimental/providers)  
+[![Google logo](/img/logos/google_small.svg)Gemini 1.5 Pro (Sep '24)](/models/gemini-1-5-pro/providers)| [Google](/models/gemini-1-5-pro/providers)| [Proprietary](/models/gemini-1-5-pro/providers)| [2m](/models/gemini-1-5-pro/providers)|  [ Model](/models/gemini-1-5-pro)[ API Providers](/models/gemini-1-5-pro/providers)  
+[![Google logo](/img/logos/google_small.svg)Gemini 1.5 Flash (Sep '24)](/models/gemini-1-5-flash/providers)| [Google](/models/gemini-1-5-flash/providers)| [Proprietary](/models/gemini-1-5-flash/providers)| [1m](/models/gemini-1-5-flash/providers)|  [ Model](/models/gemini-1-5-flash)[ API Providers](/models/gemini-1-5-flash/providers)  
+[![Google logo](/img/logos/google_small.svg)Gemma 2 27B](/models/gemma-2-27b/providers)| [Google](/models/gemma-2-27b/providers)| [Open](/models/gemma-2-27b/providers)| [8k](/models/gemma-2-27b/providers)|  [ Model](/models/gemma-2-27b)[ API Providers](/models/gemma-2-27b/providers)  
+[![Google logo](/img/logos/google_small.svg)Gemma 2 9B](/models/gemma-2-9b/providers)| [Google](/models/gemma-2-9b/providers)| [Open](/models/gemma-2-9b/providers)| [8k](/models/gemma-2-9b/providers)|  [ Model](/models/gemma-2-9b)[ API Providers](/models/gemma-2-9b/providers)  
+[![Google logo](/img/logos/google_small.svg)Gemini 1.5 Flash-8B](/models/gemini-1-5-flash-8b/providers)| [Google](/models/gemini-1-5-flash-8b/providers)| [Proprietary](/models/gemini-1-5-flash-8b/providers)| [1m](/models/gemini-1-5-flash-8b/providers)|  [ Model](/models/gemini-1-5-flash-8b)[ API Providers](/models/gemini-1-5-flash-8b/providers)  
+[![Google logo](/img/logos/google_small.svg)Gemini Experimental (Dec '24)](/models/gemini-experimental-dec-2024/providers)| [Google](/models/gemini-experimental-dec-2024/providers)| [Proprietary](/models/gemini-experimental-dec-2024/providers)| [2m](/models/gemini-experimental-dec-2024/providers)|  [ Model](/models/gemini-experimental-dec-2024)[ API Providers](/models/gemini-experimental-dec-2024/providers)  
+[![Google logo](/img/logos/google_small.svg)Gemini 1.5 Pro (May '24)](/models/gemini-1-5-pro-may-2024/providers)| [Google](/models/gemini-1-5-pro-may-2024/providers)| [Proprietary](/models/gemini-1-5-pro-may-2024/providers)| [2m](/models/gemini-1-5-pro-may-2024/providers)|  [ Model](/models/gemini-1-5-pro-may-2024)[ API Providers](/models/gemini-1-5-pro-may-2024/providers)  
+[![Google logo](/img/logos/google_small.svg)Gemini 1.5 Flash (May '24)](/models/gemini-1-5-flash-may-2024/providers)| [Google](/models/gemini-1-5-flash-may-2024/providers)| [Proprietary](/models/gemini-1-5-flash-may-2024/providers)| [1m](/models/gemini-1-5-flash-may-2024/providers)|  [ Model](/models/gemini-1-5-flash-may-2024)[ API Providers](/models/gemini-1-5-flash-may-2024/providers)  
+[![Google logo](/img/logos/google_small.svg)Gemini 1.0 Pro](/models/gemini-pro/providers)| [Google](/models/gemini-pro/providers)| [Proprietary](/models/gemini-pro/providers)| [33k](/models/gemini-pro/providers)|  [ Model](/models/gemini-pro)[ API Providers](/models/gemini-pro/providers)  
+![Anthropic logo](/img/logos/anthropic.svg)  
+[![Anthropic logo](/img/logos/anthropic_small.svg)Claude 3.5 Sonnet (Oct '24)](/models/claude-35-sonnet/providers)| [Anthropic](/models/claude-35-sonnet/providers)| [Proprietary](/models/claude-35-sonnet/providers)| [200k](/models/claude-35-sonnet/providers)|  [ Model](/models/claude-35-sonnet)[ API Providers](/models/claude-35-sonnet/providers)  
+[![Anthropic logo](/img/logos/anthropic_small.svg)Claude 3.5 Sonnet (June '24)](/models/claude-35-sonnet-june-24/providers)| [Anthropic](/models/claude-35-sonnet-june-24/providers)| [Proprietary](/models/claude-35-sonnet-june-24/providers)| [200k](/models/claude-35-sonnet-june-24/providers)|  [ Model](/models/claude-35-sonnet-june-24)[ API Providers](/models/claude-35-sonnet-june-24/providers)  
+[![Anthropic logo](/img/logos/anthropic_small.svg)Claude 3 Opus](/models/claude-3-opus/providers)| [Anthropic](/models/claude-3-opus/providers)| [Proprietary](/models/claude-3-opus/providers)| [200k](/models/claude-3-opus/providers)|  [ Model](/models/claude-3-opus)[ API Providers](/models/claude-3-opus/providers)  
+[![Anthropic logo](/img/logos/anthropic_small.svg)Claude 3.5 Haiku](/models/claude-3-5-haiku/providers)| [Anthropic](/models/claude-3-5-haiku/providers)| [Proprietary](/models/claude-3-5-haiku/providers)| [200k](/models/claude-3-5-haiku/providers)|  [ Model](/models/claude-3-5-haiku)[ API Providers](/models/claude-3-5-haiku/providers)  
+[![Anthropic logo](/img/logos/anthropic_small.svg)Claude 3 Haiku](/models/claude-3-haiku/providers)| [Anthropic](/models/claude-3-haiku/providers)| [Proprietary](/models/claude-3-haiku/providers)| [200k](/models/claude-3-haiku/providers)|  [ Model](/models/claude-3-haiku)[ API Providers](/models/claude-3-haiku/providers)  
+[![Anthropic logo](/img/logos/anthropic_small.svg)Claude 3 Sonnet](/models/claude-3-sonnet/providers)| [Anthropic](/models/claude-3-sonnet/providers)| [Proprietary](/models/claude-3-sonnet/providers)| [200k](/models/claude-3-sonnet/providers)|  [ Model](/models/claude-3-sonnet)[ API Providers](/models/claude-3-sonnet/providers)  
+[![Anthropic logo](/img/logos/anthropic_small.svg)Claude 2.1](/models/claude-21/providers)| [Anthropic](/models/claude-21/providers)| [Proprietary](/models/claude-21/providers)| [200k](/models/claude-21/providers)|  [ Model](/models/claude-21)[ API Providers](/models/claude-21/providers)  
+[![Anthropic logo](/img/logos/anthropic_small.svg)Claude 2.0](/models/claude-2/providers)| [Anthropic](/models/claude-2/providers)| [Proprietary](/models/claude-2/providers)| [100k](/models/claude-2/providers)|  [ Model](/models/claude-2)[ API Providers](/models/claude-2/providers)  
+![Mistral logo](/img/logos/mistral.webp)  
+[![Mistral logo](/img/logos/mistral_small.png)Pixtral Large](/models/pixtral-large-2411/providers)| [Mistral](/models/pixtral-large-2411/providers)| [Open](/models/pixtral-large-2411/providers)| [128k](/models/pixtral-large-2411/providers)|  [ Model](/models/pixtral-large-2411)[ API Providers](/models/pixtral-large-2411/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Mistral Large 2 (Jul '24)](/models/mistral-large-2407/providers)| [Mistral](/models/mistral-large-2407/providers)| [Open](/models/mistral-large-2407/providers)| [128k](/models/mistral-large-2407/providers)|  [ Model](/models/mistral-large-2407)[ API Providers](/models/mistral-large-2407/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Mistral Large 2 (Nov '24)](/models/mistral-large-2/providers)| [Mistral](/models/mistral-large-2/providers)| [Open](/models/mistral-large-2/providers)| [128k](/models/mistral-large-2/providers)|  [ Model](/models/mistral-large-2)[ API Providers](/models/mistral-large-2/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Mistral Small (Sep '24)](/models/mistral-small/providers)| [Mistral](/models/mistral-small/providers)| [Open](/models/mistral-small/providers)| [33k](/models/mistral-small/providers)|  [ Model](/models/mistral-small)[ API Providers](/models/mistral-small/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Mixtral 8x22B Instruct](/models/mistral-8x22b-instruct/providers)| [Mistral](/models/mistral-8x22b-instruct/providers)| [Open](/models/mistral-8x22b-instruct/providers)| [65k](/models/mistral-8x22b-instruct/providers)|  [ Model](/models/mistral-8x22b-instruct)[ API Providers](/models/mistral-8x22b-instruct/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Pixtral 12B (2409)](/models/pixtral/providers)| [Mistral](/models/pixtral/providers)| [Open](/models/pixtral/providers)| [128k](/models/pixtral/providers)|  [ Model](/models/pixtral)[ API Providers](/models/pixtral/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Ministral 8B](/models/ministral-8b/providers)| [Mistral](/models/ministral-8b/providers)| [Open](/models/ministral-8b/providers)| [128k](/models/ministral-8b/providers)|  [ Model](/models/ministral-8b)[ API Providers](/models/ministral-8b/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Mistral NeMo](/models/mistral-nemo/providers)| [Mistral](/models/mistral-nemo/providers)| [Open](/models/mistral-nemo/providers)| [128k](/models/mistral-nemo/providers)|  [ Model](/models/mistral-nemo)[ API Providers](/models/mistral-nemo/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Ministral 3B](/models/ministral-3b/providers)| [Mistral](/models/ministral-3b/providers)| [Proprietary](/models/ministral-3b/providers)| [128k](/models/ministral-3b/providers)|  [ Model](/models/ministral-3b)[ API Providers](/models/ministral-3b/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Mixtral 8x7B Instruct](/models/mixtral-8x7b-instruct/providers)| [Mistral](/models/mixtral-8x7b-instruct/providers)| [Open](/models/mixtral-8x7b-instruct/providers)| [33k](/models/mixtral-8x7b-instruct/providers)|  [ Model](/models/mixtral-8x7b-instruct)[ API Providers](/models/mixtral-8x7b-instruct/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Codestral-Mamba](/models/codestral-mamba/providers)| [Mistral](/models/codestral-mamba/providers)| [Open](/models/codestral-mamba/providers)| [256k](/models/codestral-mamba/providers)|  [ Model](/models/codestral-mamba)[ API Providers](/models/codestral-mamba/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Codestral (Jan '25)](/models/codestral/providers)| [Mistral](/models/codestral/providers)| [Proprietary](/models/codestral/providers)| [256k](/models/codestral/providers)|  [ Model](/models/codestral)[ API Providers](/models/codestral/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Mistral Small (Feb '24)](/models/mistral-small-2402/providers)| [Mistral](/models/mistral-small-2402/providers)| [Proprietary](/models/mistral-small-2402/providers)| [33k](/models/mistral-small-2402/providers)|  [ Model](/models/mistral-small-2402)[ API Providers](/models/mistral-small-2402/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Mistral Large (Feb '24)](/models/mistral-large/providers)| [Mistral](/models/mistral-large/providers)| [Proprietary](/models/mistral-large/providers)| [33k](/models/mistral-large/providers)|  [ Model](/models/mistral-large)[ API Providers](/models/mistral-large/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Mistral 7B Instruct](/models/mistral-7b-instruct/providers)| [Mistral](/models/mistral-7b-instruct/providers)| [Open](/models/mistral-7b-instruct/providers)| [8k](/models/mistral-7b-instruct/providers)|  [ Model](/models/mistral-7b-instruct)[ API Providers](/models/mistral-7b-instruct/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Mistral Medium](/models/mistral-medium/providers)| [Mistral](/models/mistral-medium/providers)| [Proprietary](/models/mistral-medium/providers)| [33k](/models/mistral-medium/providers)|  [ Model](/models/mistral-medium)[ API Providers](/models/mistral-medium/providers)  
+[![Mistral logo](/img/logos/mistral_small.png)Codestral (May '24)](/models/codestral-2405/providers)| [Mistral](/models/codestral-2405/providers)| [Open](/models/codestral-2405/providers)| [33k](/models/codestral-2405/providers)|  [ Model](/models/codestral-2405)[ API Providers](/models/codestral-2405/providers)  
+![Cohere logo](/img/logos/cohere.svg)  
+[![Cohere logo](/img/logos/cohere_small.png)Command-R+ (Aug '24)](/models/command-r-plus/providers)| [Cohere](/models/command-r-plus/providers)| [Open](/models/command-r-plus/providers)| [128k](/models/command-r-plus/providers)|  [ Model](/models/command-r-plus)[ API Providers](/models/command-r-plus/providers)  
+[![Cohere logo](/img/logos/cohere_small.png)Command-R+ (Apr '24)](/models/command-r-plus-04-2024/providers)| [Cohere](/models/command-r-plus-04-2024/providers)| [Open](/models/command-r-plus-04-2024/providers)| [128k](/models/command-r-plus-04-2024/providers)|  [ Model](/models/command-r-plus-04-2024)[ API Providers](/models/command-r-plus-04-2024/providers)  
+[![Cohere logo](/img/logos/cohere_small.png)Command-R (Mar '24)](/models/command-r-03-2024/providers)| [Cohere](/models/command-r-03-2024/providers)| [Open](/models/command-r-03-2024/providers)| [128k](/models/command-r-03-2024/providers)|  [ Model](/models/command-r-03-2024)[ API Providers](/models/command-r-03-2024/providers)  
+[![Cohere logo](/img/logos/cohere_small.png)Aya Expanse 32B](/models/aya-expanse-32b/providers)| [Cohere](/models/aya-expanse-32b/providers)| [Open](/models/aya-expanse-32b/providers)| [128k](/models/aya-expanse-32b/providers)|  [ Model](/models/aya-expanse-32b)[ API Providers](/models/aya-expanse-32b/providers)  
+[![Cohere logo](/img/logos/cohere_small.png)Aya Expanse 8B](/models/aya-expanse-8b/providers)| [Cohere](/models/aya-expanse-8b/providers)| [Open](/models/aya-expanse-8b/providers)| [8k](/models/aya-expanse-8b/providers)|  [ Model](/models/aya-expanse-8b)[ API Providers](/models/aya-expanse-8b/providers)  
+[![Cohere logo](/img/logos/cohere_small.png)Command-R (Aug '24)](/models/command-r/providers)| [Cohere](/models/command-r/providers)| [Open](/models/command-r/providers)| [128k](/models/command-r/providers)|  [ Model](/models/command-r)[ API Providers](/models/command-r/providers)  
+![Perplexity logo](/img/logos/perplexity.svg)  
+[![Perplexity logo](/img/logos/perplexity_small.png)Sonar 3.1 Small](/models/sonar-3-1-small-chat/providers)| [Perplexity](/models/sonar-3-1-small-chat/providers)| [Proprietary](/models/sonar-3-1-small-chat/providers)| [127k](/models/sonar-3-1-small-chat/providers)|  [ Model](/models/sonar-3-1-small-chat)[ API Providers](/models/sonar-3-1-small-chat/providers)  
+[![Perplexity logo](/img/logos/perplexity_small.png)Sonar 3.1 Large](/models/sonar-3-1-large-chat/providers)| [Perplexity](/models/sonar-3-1-large-chat/providers)| [Proprietary](/models/sonar-3-1-large-chat/providers)| [127k](/models/sonar-3-1-large-chat/providers)|  [ Model](/models/sonar-3-1-large-chat)[ API Providers](/models/sonar-3-1-large-chat/providers)  
+![xAI logo](/img/logos/xai.svg)  
+[![xAI logo](/img/logos/xai.svg)Grok Beta](/models/grok-beta/providers)| [xAI](/models/grok-beta/providers)| [Proprietary](/models/grok-beta/providers)| [128k](/models/grok-beta/providers)|  [ Model](/models/grok-beta)[ API Providers](/models/grok-beta/providers)  
+![Amazon logo](/img/logos/aws.webp)  
+[![Amazon logo](/img/logos/aws_small.png)Nova Pro](/models/nova-pro/providers)| [Amazon](/models/nova-pro/providers)| [Proprietary](/models/nova-pro/providers)| [300k](/models/nova-pro/providers)|  [ Model](/models/nova-pro)[ API Providers](/models/nova-pro/providers)  
+[![Amazon logo](/img/logos/aws_small.png)Nova Lite](/models/nova-lite/providers)| [Amazon](/models/nova-lite/providers)| [Proprietary](/models/nova-lite/providers)| [300k](/models/nova-lite/providers)|  [ Model](/models/nova-lite)[ API Providers](/models/nova-lite/providers)  
+[![Amazon logo](/img/logos/aws_small.png)Nova Micro](/models/nova-micro/providers)| [Amazon](/models/nova-micro/providers)| [Proprietary](/models/nova-micro/providers)| [130k](/models/nova-micro/providers)|  [ Model](/models/nova-micro)[ API Providers](/models/nova-micro/providers)  
+![Microsoft Azure logo](/img/logos/microsoft.webp)  
+[![Microsoft Azure logo](/img/logos/microsoft_small.svg)Phi-4](/models/phi-4/providers)| [Microsoft Azure](/models/phi-4/providers)| [Open](/models/phi-4/providers)| [16k](/models/phi-4/providers)|  [ Model](/models/phi-4)[ API Providers](/models/phi-4/providers)  
+[![Microsoft Azure logo](/img/logos/microsoft_small.svg)Phi-3 Medium Instruct 14B](/models/phi-3-medium/providers)| [Microsoft Azure](/models/phi-3-medium/providers)| [Open](/models/phi-3-medium/providers)| [128k](/models/phi-3-medium/providers)|  [ Model](/models/phi-3-medium)[ API Providers](/models/phi-3-medium/providers)  
+[![Microsoft Azure logo](/img/logos/microsoft_small.svg)Phi-3 Mini Instruct 3.8B](/models/phi-3-mini/providers)| [Microsoft Azure](/models/phi-3-mini/providers)| [Open](/models/phi-3-mini/providers)| [4k](/models/phi-3-mini/providers)|  [ Model](/models/phi-3-mini)[ API Providers](/models/phi-3-mini/providers)  
+![Upstage logo](/img/logos/upstage.png)  
+[![Upstage logo](/img/logos/upstage_small.png)Solar Mini](/models/solar-mini/providers)| [Upstage](/models/solar-mini/providers)| [Open](/models/solar-mini/providers)| [4k](/models/solar-mini/providers)|  [ Model](/models/solar-mini)[ API Providers](/models/solar-mini/providers)  
+![Databricks logo](/img/logos/databricks.svg)  
+[![Databricks logo](/img/logos/databricks_small.png)DBRX Instruct](/models/dbrx/providers)| [Databricks](/models/dbrx/providers)| [Open](/models/dbrx/providers)| [33k](/models/dbrx/providers)|  [ Model](/models/dbrx)[ API Providers](/models/dbrx/providers)  
+![NVIDIA logo](/img/logos/nvidia.svg)  
+[![NVIDIA logo](/img/logos/nvidia_small.svg)Llama 3.1 Nemotron Instruct 70B](/models/llama-3-1-nemotron-instruct-70b/providers)| [NVIDIA](/models/llama-3-1-nemotron-instruct-70b/providers)| [Open](/models/llama-3-1-nemotron-instruct-70b/providers)| [128k](/models/llama-3-1-nemotron-instruct-70b/providers)|  [ Model](/models/llama-3-1-nemotron-instruct-70b)[ API Providers](/models/llama-3-1-nemotron-instruct-70b/providers)  
+![Reka AI logo](/img/logos/reka.png)  
+[![Reka AI logo](/img/logos/reka_small.jpg)Reka Flash (Sep '24)](/models/reka-flash/providers)| [Reka AI](/models/reka-flash/providers)| [Proprietary](/models/reka-flash/providers)| [128k](/models/reka-flash/providers)|  [ Model](/models/reka-flash)[ API Providers](/models/reka-flash/providers)  
+[![Reka AI logo](/img/logos/reka_small.jpg)Reka Core](/models/reka-core/providers)| [Reka AI](/models/reka-core/providers)| [Proprietary](/models/reka-core/providers)| [128k](/models/reka-core/providers)|  [ Model](/models/reka-core)[ API Providers](/models/reka-core/providers)  
+[![Reka AI logo](/img/logos/reka_small.jpg)Reka Flash (Feb '24)](/models/reka-flash-02-2024/providers)| [Reka AI](/models/reka-flash-02-2024/providers)| [Proprietary](/models/reka-flash-02-2024/providers)| [128k](/models/reka-flash-02-2024/providers)|  [ Model](/models/reka-flash-02-2024)[ API Providers](/models/reka-flash-02-2024/providers)  
+[![Reka AI logo](/img/logos/reka_small.jpg)Reka Edge](/models/reka-edge/providers)| [Reka AI](/models/reka-edge/providers)| [Proprietary](/models/reka-edge/providers)| [128k](/models/reka-edge/providers)|  [ Model](/models/reka-edge)[ API Providers](/models/reka-edge/providers)  
+![AI21 Labs logo](/img/logos/ai21.svg)  
+[![AI21 Labs logo](/img/logos/ai21_small.png)Jamba 1.5 Large](/models/jamba-1-5-large/providers)| [AI21 Labs](/models/jamba-1-5-large/providers)| [Open](/models/jamba-1-5-large/providers)| [256k](/models/jamba-1-5-large/providers)|  [ Model](/models/jamba-1-5-large)[ API Providers](/models/jamba-1-5-large/providers)  
+[![AI21 Labs logo](/img/logos/ai21_small.png)Jamba 1.5 Mini](/models/jamba-1-5-mini/providers)| [AI21 Labs](/models/jamba-1-5-mini/providers)| [Open](/models/jamba-1-5-mini/providers)| [256k](/models/jamba-1-5-mini/providers)|  [ Model](/models/jamba-1-5-mini)[ API Providers](/models/jamba-1-5-mini/providers)  
+[![AI21 Labs logo](/img/logos/ai21_small.png)Jamba Instruct](/models/jamba-instruct/providers)| [AI21 Labs](/models/jamba-instruct/providers)| [Proprietary](/models/jamba-instruct/providers)| [256k](/models/jamba-instruct/providers)|  [ Model](/models/jamba-instruct)[ API Providers](/models/jamba-instruct/providers)  
+![DeepSeek logo](/img/logos/deepseek.png)  
+[![DeepSeek logo](/img/logos/deepseek_small.jpg)DeepSeek V3](/models/deepseek-v3/providers)| [DeepSeek](/models/deepseek-v3/providers)| [Open](/models/deepseek-v3/providers)| [128k](/models/deepseek-v3/providers)|  [ Model](/models/deepseek-v3)[ API Providers](/models/deepseek-v3/providers)  
+[![DeepSeek logo](/img/logos/deepseek_small.jpg)DeepSeek-V2.5 (Dec '24)](/models/deepseek-v2-5/providers)| [DeepSeek](/models/deepseek-v2-5/providers)| [Open](/models/deepseek-v2-5/providers)| [128k](/models/deepseek-v2-5/providers)|  [ Model](/models/deepseek-v2-5)[ API Providers](/models/deepseek-v2-5/providers)  
+[![DeepSeek logo](/img/logos/deepseek_small.jpg)DeepSeek-Coder-V2](/models/deepseek-coder-v2/providers)| [DeepSeek](/models/deepseek-coder-v2/providers)| [Open](/models/deepseek-coder-v2/providers)| [128k](/models/deepseek-coder-v2/providers)|  [ Model](/models/deepseek-coder-v2)[ API Providers](/models/deepseek-coder-v2/providers)  
+[![DeepSeek logo](/img/logos/deepseek_small.jpg)DeepSeek-V2.5](/models/deepseek-v2-5-sep-2024/providers)| [DeepSeek](/models/deepseek-v2-5-sep-2024/providers)| [Open](/models/deepseek-v2-5-sep-2024/providers)| [128k](/models/deepseek-v2-5-sep-2024/providers)|  [ Model](/models/deepseek-v2-5-sep-2024)[ API Providers](/models/deepseek-v2-5-sep-2024/providers)  
+[![DeepSeek logo](/img/logos/deepseek_small.jpg)DeepSeek-V2-Chat](/models/deepseek-v2/providers)| [DeepSeek](/models/deepseek-v2/providers)| [Open](/models/deepseek-v2/providers)| [128k](/models/deepseek-v2/providers)|  [ Model](/models/deepseek-v2)[ API Providers](/models/deepseek-v2/providers)  
+![Snowflake logo](/img/logos/snowflake.svg)  
+[![Snowflake logo](/img/logos/snowflake_small.svg)Arctic Instruct](/models/arctic-instruct/providers)| [Snowflake](/models/arctic-instruct/providers)| [Open](/models/arctic-instruct/providers)| [4k](/models/arctic-instruct/providers)|  [ Model](/models/arctic-instruct)[ API Providers](/models/arctic-instruct/providers)  
+![Alibaba logo](/img/logos/BABA_BIG.svg)  
+[![Alibaba logo](/img/logos/BABA_SMALL.svg)Qwen2.5 Instruct 72B](/models/qwen2-5-72b-instruct/providers)| [Alibaba](/models/qwen2-5-72b-instruct/providers)| [Open](/models/qwen2-5-72b-instruct/providers)| [131k](/models/qwen2-5-72b-instruct/providers)|  [ Model](/models/qwen2-5-72b-instruct)[ API Providers](/models/qwen2-5-72b-instruct/providers)  
+[![Alibaba logo](/img/logos/BABA_SMALL.svg)Qwen2.5 Coder Instruct 32B](/models/qwen2-5-coder-32b-instruct/providers)| [Alibaba](/models/qwen2-5-coder-32b-instruct/providers)| [Open](/models/qwen2-5-coder-32b-instruct/providers)| [131k](/models/qwen2-5-coder-32b-instruct/providers)|  [ Model](/models/qwen2-5-coder-32b-instruct)[ API Providers](/models/qwen2-5-coder-32b-instruct/providers)  
+[![Alibaba logo](/img/logos/BABA_SMALL.svg)Qwen2 Instruct 72B](/models/qwen2-72b-instruct/providers)| [Alibaba](/models/qwen2-72b-instruct/providers)| [Open](/models/qwen2-72b-instruct/providers)| [131k](/models/qwen2-72b-instruct/providers)|  [ Model](/models/qwen2-72b-instruct)[ API Providers](/models/qwen2-72b-instruct/providers)  
+[![Alibaba logo](/img/logos/BABA_SMALL.svg)QwQ 32B-Preview](/models/QwQ-32B-Preview/providers)| [Alibaba](/models/QwQ-32B-Preview/providers)| [Open](/models/QwQ-32B-Preview/providers)| [33k](/models/QwQ-32B-Preview/providers)|  [ Model](/models/QwQ-32B-Preview)[ API Providers](/models/QwQ-32B-Preview/providers)  
+![01.AI logo](/img/logos/01ai.jpg)  
+[![01.AI logo](/img/logos/01ai_small.jpg)Yi-Large](/models/yi-large/providers)| [01.AI](/models/yi-large/providers)| [Proprietary](/models/yi-large/providers)| [32k](/models/yi-large/providers)|  [ Model](/models/yi-large)[ API Providers](/models/yi-large/providers)  
+![OpenChat logo](/img/logos/openchat.png)  
+[![OpenChat logo](/img/logos/openchat_small.png)OpenChat 3.5 (1210)](/models/openchat-35/providers)| [OpenChat](/models/openchat-35/providers)| [Open](/models/openchat-35/providers)| [8k](/models/openchat-35/providers)|  [ Model](/models/openchat-35)[ API Providers](/models/openchat-35/providers)  
+  
+## Footer
+
+### Key Links
+
+  * [Mixtral 8x7b](/models/mixtral-8x7b-instruct)
+  * [Llama 2](/models/llama-2-chat-70b)
+  * [GPT 4](/models/gpt-4)
+  * [GPT 3.5](/models/gpt-35-turbo)
+  * [Gemini Pro](/models/gemini-pro)
+
+
+
+### Artificial Analysis
+
+  * [FAQ](/faq)
+  * [Contact & Data access](/contact)
+  * [Terms of Use](/docs/legal/Terms-of-Use.pdf)
+  * [Privacy Policy](/docs/legal/Privacy-Policy.pdf)
+  * hello@artificialanalysis.ai
+
+
+
+### Subscribe to our newsletter
+
+Email address
+
+Subscribe
+
+[Twitter](https://twitter.com/ArtificialAnlys)[LinkedIn](https://www.linkedin.com/company/artificial-analysis/)

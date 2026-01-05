@@ -1,0 +1,26 @@
+{
+    "id": "b45c793bd16843dfafde1fbdd99966e2",
+    "metadata": {
+        "id": "b45c793bd16843dfafde1fbdd99966e2",
+        "url": "https://www.notion.so/Sources-b45c793bd16843dfafde1fbdd99966e2",
+        "title": "📙 Sources",
+        "properties": {
+            "Type": [
+                "Node"
+            ]
+        }
+    },
+    "parent_metadata": {
+        "id": "bd73924cb2f5abda7e24d7baec0bcf12",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n\t# Newsletters\n\t\n\t[https://www.shyamsankar.com/](https://www.shyamsankar.com/)\n\n# Resources [Science]\n\n# Tools\n\n\t[https://developer.nvidia.com/merlin](https://developer.nvidia.com/merlin)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://developer.nvidia.com/merlin/",
+        "https://www.shyamsankar.com/"
+    ]
+}

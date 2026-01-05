@@ -1,0 +1,39 @@
+{
+    "id": "f4eaf879c2c809d7ecadfae41fb3a5c1",
+    "metadata": {
+        "id": "f4eaf879c2c809d7ecadfae41fb3a5c1",
+        "url": "https://www.notion.so/Sources-f4eaf879c2c809d7ecadfae41fb3a5c1",
+        "title": "📙 Sources",
+        "properties": {
+            "Type": "Node"
+        }
+    },
+    "parent_metadata": {
+        "id": "c85b12a1a00d4bab6cba3beeaebbdb7a",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Blogs & YouTube Channels\n\n\t- MLOps.community\n\t\t- [YouTube Channel](https://www.youtube.com/@MLOps)\n\t\n\t- [https://madewithml.com/](https://madewithml.com/)\n\t- [https://huyenchip.com/](https://huyenchip.com/)\n\t- [https://neptune.ai/blog](https://neptune.ai/blog)\n\t- [https://neptune.ai/experiment-tracking-learn-hub](https://neptune.ai/experiment-tracking-learn-hub)\n\t- [https://neptune.ai/llmops-learning-hub](https://neptune.ai/llmops-learning-hub)\n\t- [https://ml-ops.org/](https://ml-ops.org/)\n\t- [https://www.hopsworks.ai/blog](https://www.hopsworks.ai/blog)\n\t- [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)\n\t- [https://www.newsletter.swirlai.com/](https://www.newsletter.swirlai.com/)\n\t\n\t[https://www.zenml.io/blog](https://www.zenml.io/blog)\n\t[https://www.evidentlyai.com/blog](https://www.evidentlyai.com/blog)\n\n# Awesome Lists\n\n\t- [https://github.com/tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)\n\t- [https://www.zenml.io/llmops-database](https://www.zenml.io/llmops-database)\n\t- [https://github.com/visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)\n\t- [https://github.com/kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops)\n\n# Courses\n\n\t[https://mlops-coding-course.fmind.dev/](https://mlops-coding-course.fmind.dev/)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://neptune.ai/llmops-learning-hub/",
+        "https://www.newsletter.swirlai.com/",
+        "https://madewithml.com/",
+        "https://mlops-coding-course.fmind.dev/",
+        "https://ml-ops.org/",
+        "https://github.com/tensorchord/Awesome-LLMOps/",
+        "https://www.hopsworks.ai/blog/",
+        "https://neptune.ai/experiment-tracking-learn-hub/",
+        "https://www.youtube.com/@MLOps/",
+        "https://www.zenml.io/llmops-database/",
+        "https://www.zenml.io/blog/",
+        "https://github.com/visenger/awesome-mlops/",
+        "https://www.evidentlyai.com/blog/",
+        "https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning/",
+        "https://neptune.ai/blog/",
+        "https://huyenchip.com/",
+        "https://github.com/kelvins/awesome-mlops/"
+    ]
+}

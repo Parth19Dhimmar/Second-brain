@@ -1,0 +1,952 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ftriton-lang%2Ftriton%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ftriton-lang%2Ftriton%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=triton-lang%2Ftriton) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ triton-lang ](/triton-lang) / **[triton](/triton-lang/triton) ** Public
+
+  * [ Notifications ](/login?return_to=%2Ftriton-lang%2Ftriton) You must be signed in to change notification settings
+  * [ Fork 1.8k ](/login?return_to=%2Ftriton-lang%2Ftriton)
+  * [ Star  14.3k ](/login?return_to=%2Ftriton-lang%2Ftriton)
+
+
+
+
+Development repository for the Triton language and compiler 
+
+[triton-lang.org/](https://triton-lang.org/ "https://triton-lang.org/")
+
+### License
+
+[ MIT license ](/triton-lang/triton/blob/main/LICENSE)
+
+[ 14.3k stars ](/triton-lang/triton/stargazers) [ 1.8k forks ](/triton-lang/triton/forks) [ Branches ](/triton-lang/triton/branches) [ Tags ](/triton-lang/triton/tags) [ Activity ](/triton-lang/triton/activity)
+
+[ Star  ](/login?return_to=%2Ftriton-lang%2Ftriton)
+
+[ Notifications ](/login?return_to=%2Ftriton-lang%2Ftriton) You must be signed in to change notification settings
+
+  * [ Code ](/triton-lang/triton)
+  * [ Issues 697 ](/triton-lang/triton/issues)
+  * [ Pull requests 64 ](/triton-lang/triton/pulls)
+  * [ Discussions ](/triton-lang/triton/discussions)
+  * [ Actions ](/triton-lang/triton/actions)
+  * [ Projects 1 ](/triton-lang/triton/projects)
+  * [ Wiki ](/triton-lang/triton/wiki)
+  * [ Security ](/triton-lang/triton/security)
+  * [ Insights ](/triton-lang/triton/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/triton-lang/triton)
+  * [ Issues  ](/triton-lang/triton/issues)
+  * [ Pull requests  ](/triton-lang/triton/pulls)
+  * [ Discussions  ](/triton-lang/triton/discussions)
+  * [ Actions  ](/triton-lang/triton/actions)
+  * [ Projects  ](/triton-lang/triton/projects)
+  * [ Wiki  ](/triton-lang/triton/wiki)
+  * [ Security  ](/triton-lang/triton/security)
+  * [ Insights  ](/triton-lang/triton/pulse)
+
+
+
+# triton-lang/triton
+
+main
+
+[**200** Branches](/triton-lang/triton/branches)[**11** Tags](/triton-lang/triton/tags)
+
+[](/triton-lang/triton/branches)[](/triton-lang/triton/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![Mogball](https://avatars.githubusercontent.com/u/15016832?v=4&size=40)](/Mogball)[Mogball](/triton-lang/triton/commits?author=Mogball)[[LAYOUTS] Don't hoist into ifs outside of loops (](/triton-lang/triton/commit/032fa41a45847cdc00119ed3bdd5bc0adab9c938)[#5801](https://github.com/triton-lang/triton/pull/5801)[)](/triton-lang/triton/commit/032fa41a45847cdc00119ed3bdd5bc0adab9c938)Feb 4, 2025[032fa41](/triton-lang/triton/commit/032fa41a45847cdc00119ed3bdd5bc0adab9c938) · Feb 4, 2025
+
+## History
+
+[3,338 Commits](/triton-lang/triton/commits/main/)[](/triton-lang/triton/commits/main/)  
+[.github](/triton-lang/triton/tree/main/.github ".github")| [.github](/triton-lang/triton/tree/main/.github ".github")| [[DEV] Unify Makefile and cuda CI commands (](/triton-lang/triton/commit/c75c6b034756629b891e7b2df406f634552331d5 "\[DEV\] Unify Makefile and cuda CI commands \(#5753\)
+Now `make test` runs the exact commands used in CI, so there should be
+no spurious local failures due to the specific `pytest` command used.")[#5753](https://github.com/triton-lang/triton/pull/5753)[)](/triton-lang/triton/commit/c75c6b034756629b891e7b2df406f634552331d5 "\[DEV\] Unify Makefile and cuda CI commands \(#5753\)
+Now `make test` runs the exact commands used in CI, so there should be
+no spurious local failures due to the specific `pytest` command used.")| Jan 30, 2025  
+[bin](/triton-lang/triton/tree/main/bin "bin")| [bin](/triton-lang/triton/tree/main/bin "bin")| [[BACKEND] Refactor shared memory layout representation (](/triton-lang/triton/commit/2778526b797aa88b67a8ac0629433a33d422e608 "\[BACKEND\] Refactor shared memory layout representation \(#5786\)
+Create a new parent layout Trait meant to be shared by all the different
+layouts for shared memory.
+Also remove hasLeadingOffset and move the mma tiled layout separately
+from the swizzled layout used for Ampere and AMD.
+A follow up cleanup would be to add element type size in the NVMMA
+shared layout as right now the layout depends on the type size which is
+not correct.")[#5786](https://github.com/triton-lang/triton/pull/5786)[)](/triton-lang/triton/commit/2778526b797aa88b67a8ac0629433a33d422e608 "\[BACKEND\] Refactor shared memory layout representation \(#5786\)
+Create a new parent layout Trait meant to be shared by all the different
+layouts for shared memory.
+Also remove hasLeadingOffset and move the mma tiled layout separately
+from the swizzled layout used for Ampere and AMD.
+A follow up cleanup would be to add element type size in the NVMMA
+shared layout as right now the layout depends on the type size which is
+not correct.")| Feb 1, 2025  
+[cmake](/triton-lang/triton/tree/main/cmake "cmake")| [cmake](/triton-lang/triton/tree/main/cmake "cmake")| [[BACKEND] bump to](/triton-lang/triton/commit/9a491048ed813410b8ea79216ee920580f83c3de "\[BACKEND\] bump to llvm/llvm-project@c118864223c6 \(#5684\)
+Pulls in https://github.com/llvm/llvm-project/pull/123200 which is
+useful and also handles https://github.com/triton-lang/triton/pull/5664.
+Integrations were required due to
+https://github.com/llvm/llvm-project/pull/123026,
+https://github.com/llvm/llvm-project/pull/123321 and
+https://github.com/llvm/llvm-project/pull/123326.
+Also closes https://github.com/triton-lang/triton/pull/5685") [llvm/llvm-project@`c118864223c6`](https://github.com/llvm/llvm-project/commit/c118864223c6) [(](/triton-lang/triton/commit/9a491048ed813410b8ea79216ee920580f83c3de "\[BACKEND\] bump to llvm/llvm-project@c118864223c6 \(#5684\)
+Pulls in https://github.com/llvm/llvm-project/pull/123200 which is
+useful and also handles https://github.com/triton-lang/triton/pull/5664.
+Integrations were required due to
+https://github.com/llvm/llvm-project/pull/123026,
+https://github.com/llvm/llvm-project/pull/123321 and
+https://github.com/llvm/llvm-project/pull/123326.
+Also closes https://github.com/triton-lang/triton/pull/5685")[#5684](https://github.com/triton-lang/triton/pull/5684)[)](/triton-lang/triton/commit/9a491048ed813410b8ea79216ee920580f83c3de "\[BACKEND\] bump to llvm/llvm-project@c118864223c6 \(#5684\)
+Pulls in https://github.com/llvm/llvm-project/pull/123200 which is
+useful and also handles https://github.com/triton-lang/triton/pull/5664.
+Integrations were required due to
+https://github.com/llvm/llvm-project/pull/123026,
+https://github.com/llvm/llvm-project/pull/123321 and
+https://github.com/llvm/llvm-project/pull/123326.
+Also closes https://github.com/triton-lang/triton/pull/5685")| Jan 29, 2025  
+[docs](/triton-lang/triton/tree/main/docs "docs")| [docs](/triton-lang/triton/tree/main/docs "docs")| [[Docs] add doc for](/triton-lang/triton/commit/126a7e1c304a280ed47d498912e408579d527b82 "\[Docs\] add doc for `tl.assume` \(#5546\)
+add docs for `tl.assume` as described in title.
+the relative code is in `python/triton/language/core.py` line: 2435
+Signed-off-by: yangzb <2500223255@qq.com>
+Co-authored-by: yangzb <yangzb3@weituinfo.com>") `[tl.assume](/triton-lang/triton/commit/126a7e1c304a280ed47d498912e408579d527b82 "\[Docs\] add doc for `tl.assume` \(#5546\)
+add docs for `tl.assume` as described in title.
+the relative code is in `python/triton/language/core.py` line: 2435
+Signed-off-by: yangzb <2500223255@qq.com>
+Co-authored-by: yangzb <yangzb3@weituinfo.com>")` [(](/triton-lang/triton/commit/126a7e1c304a280ed47d498912e408579d527b82 "\[Docs\] add doc for `tl.assume` \(#5546\)
+add docs for `tl.assume` as described in title.
+the relative code is in `python/triton/language/core.py` line: 2435
+Signed-off-by: yangzb <2500223255@qq.com>
+Co-authored-by: yangzb <yangzb3@weituinfo.com>")[#5546](https://github.com/triton-lang/triton/pull/5546)[)](/triton-lang/triton/commit/126a7e1c304a280ed47d498912e408579d527b82 "\[Docs\] add doc for `tl.assume` \(#5546\)
+add docs for `tl.assume` as described in title.
+the relative code is in `python/triton/language/core.py` line: 2435
+Signed-off-by: yangzb <2500223255@qq.com>
+Co-authored-by: yangzb <yangzb3@weituinfo.com>")| Jan 7, 2025  
+[include](/triton-lang/triton/tree/main/include "include")| [include](/triton-lang/triton/tree/main/include "include")| [[LAYOUTS] Remove HoistLayoutConversion in favour of backwardsRemat (](/triton-lang/triton/commit/1e0e51c4aeb3e1beea000da5d0e494f8b9ac40dd "\[LAYOUTS\] Remove HoistLayoutConversion in favour of backwardsRemat \(#5788\)
+Reland of https://github.com/triton-lang/triton/pull/5673")[#…](https://github.com/triton-lang/triton/pull/5788)| Feb 3, 2025  
+[lib](/triton-lang/triton/tree/main/lib "lib")| [lib](/triton-lang/triton/tree/main/lib "lib")| [[LAYOUTS] Don't hoist into ifs outside of loops (](/triton-lang/triton/commit/032fa41a45847cdc00119ed3bdd5bc0adab9c938 "\[LAYOUTS\] Don't hoist into ifs outside of loops \(#5801\)
+Hoisting layout conversions into ifs relies on the assumption that the
+if infrequently executes, but this assumption only makes sense in a
+loop. A single top-level if in a kernel either executes or it doesn't,
+and if the hoist is incorrect, it can lead to a slowdown.")[#5801](https://github.com/triton-lang/triton/pull/5801)[)](/triton-lang/triton/commit/032fa41a45847cdc00119ed3bdd5bc0adab9c938 "\[LAYOUTS\] Don't hoist into ifs outside of loops \(#5801\)
+Hoisting layout conversions into ifs relies on the assumption that the
+if infrequently executes, but this assumption only makes sense in a
+loop. A single top-level if in a kernel either executes or it doesn't,
+and if the hoist is incorrect, it can lead to a slowdown.")| Feb 4, 2025  
+[python](/triton-lang/triton/tree/main/python "python")| [python](/triton-lang/triton/tree/main/python "python")| [[NFC] Move element bit width into NVMMASharedEncoding (](/triton-lang/triton/commit/ca582a2ab4bc790c5f734558f8f060a96331721e "\[NFC\] Move element bit width into NVMMASharedEncoding \(#5794\)
+Until now the layout was different based on the element type in the
+memdesc. Layouts should be self contained therefore we move the
+information into the layout, this allows cleaning up some interface for
+linear layout.")[#5794](https://github.com/triton-lang/triton/pull/5794)[)](/triton-lang/triton/commit/ca582a2ab4bc790c5f734558f8f060a96331721e "\[NFC\] Move element bit width into NVMMASharedEncoding \(#5794\)
+Until now the layout was different based on the element type in the
+memdesc. Layouts should be self contained therefore we move the
+information into the layout, this allows cleaning up some interface for
+linear layout.")| Feb 3, 2025  
+[test](/triton-lang/triton/tree/main/test "test")| [test](/triton-lang/triton/tree/main/test "test")| [[LAYOUTS] Don't hoist into ifs outside of loops (](/triton-lang/triton/commit/032fa41a45847cdc00119ed3bdd5bc0adab9c938 "\[LAYOUTS\] Don't hoist into ifs outside of loops \(#5801\)
+Hoisting layout conversions into ifs relies on the assumption that the
+if infrequently executes, but this assumption only makes sense in a
+loop. A single top-level if in a kernel either executes or it doesn't,
+and if the hoist is incorrect, it can lead to a slowdown.")[#5801](https://github.com/triton-lang/triton/pull/5801)[)](/triton-lang/triton/commit/032fa41a45847cdc00119ed3bdd5bc0adab9c938 "\[LAYOUTS\] Don't hoist into ifs outside of loops \(#5801\)
+Hoisting layout conversions into ifs relies on the assumption that the
+if infrequently executes, but this assumption only makes sense in a
+loop. A single top-level if in a kernel either executes or it doesn't,
+and if the hoist is incorrect, it can lead to a slowdown.")| Feb 4, 2025  
+[third_party](/triton-lang/triton/tree/main/third_party "third_party")| [third_party](/triton-lang/triton/tree/main/third_party "third_party")| [[NFC] Move element bit width into NVMMASharedEncoding (](/triton-lang/triton/commit/ca582a2ab4bc790c5f734558f8f060a96331721e "\[NFC\] Move element bit width into NVMMASharedEncoding \(#5794\)
+Until now the layout was different based on the element type in the
+memdesc. Layouts should be self contained therefore we move the
+information into the layout, this allows cleaning up some interface for
+linear layout.")[#5794](https://github.com/triton-lang/triton/pull/5794)[)](/triton-lang/triton/commit/ca582a2ab4bc790c5f734558f8f060a96331721e "\[NFC\] Move element bit width into NVMMASharedEncoding \(#5794\)
+Until now the layout was different based on the element type in the
+memdesc. Layouts should be self contained therefore we move the
+information into the layout, this allows cleaning up some interface for
+linear layout.")| Feb 3, 2025  
+[unittest](/triton-lang/triton/tree/main/unittest "unittest")| [unittest](/triton-lang/triton/tree/main/unittest "unittest")| [[NFC] Move element bit width into NVMMASharedEncoding (](/triton-lang/triton/commit/ca582a2ab4bc790c5f734558f8f060a96331721e "\[NFC\] Move element bit width into NVMMASharedEncoding \(#5794\)
+Until now the layout was different based on the element type in the
+memdesc. Layouts should be self contained therefore we move the
+information into the layout, this allows cleaning up some interface for
+linear layout.")[#5794](https://github.com/triton-lang/triton/pull/5794)[)](/triton-lang/triton/commit/ca582a2ab4bc790c5f734558f8f060a96331721e "\[NFC\] Move element bit width into NVMMASharedEncoding \(#5794\)
+Until now the layout was different based on the element type in the
+memdesc. Layouts should be self contained therefore we move the
+information into the layout, this allows cleaning up some interface for
+linear layout.")| Feb 3, 2025  
+[utils](/triton-lang/triton/tree/main/utils "utils")| [utils](/triton-lang/triton/tree/main/utils "utils")| [Fix typos discovered by codespell (](/triton-lang/triton/commit/17fd7a77a9153d8b43a4e8aa51d491fbbc8b185c "Fix typos discovered by codespell \(#5533\)
+```
+codespell --ignore-words-list=ans,conver,destop,dout,interm,latops,nd,olt,repid,subtile,valu \\
+     --skip="./third_party/*,*.mlir,*.pdf"
+```
+https://pypi.org/project/codespell
+`conver` should be removed from the `ignore-words-list` and the
+following line should be cleaned up:
+https://github.com/triton-lang/triton/blob/25732f0a063f025a4eb6f01a2e0939ef43a8afc7/include/triton/Dialect/TritonGPU/Transforms/Passes.td#L122
+Should codespell be added to pre-commit and/or GitHub Actions?
+<!---
+The core Triton is a small number of people, and we receive many PRs
+\(thank
+you!\). To help us review your code more quickly, **if you are a new
+contributor \(less than 3 PRs merged\) we ask that you complete the
+following
+tasks and include the filled-out checklist in your PR description.**
+Complete the following tasks before sending your PR, and replace `\[ \]`
+with
+`\[x\]` to indicate you have done them.
+-->
+# New contributor declaration
+- \[x\] I am making a trivial change, such as fixing a typo in a comment.
+- \[ \] I have written a PR description following these
+ \[rules\]\(https://cbea.ms/git-commit/#why-not-how\).
+- \[ \] I have run `pre-commit run --from-ref origin/main --to-ref HEAD`.
+- Select one of the following.
+ - \[ \] I have added tests.
+  - `/test` for `lit` tests
+  - `/unittest` for C++ tests
+  - `/python/test` for end-to-end tests
+- \[x\] This PR does not add a test but this could be easily added to
+pre-commit and/or GitHub Actions if desired.
+- Select one of the following.
+ - \[ \] I have not added any `lit` tests.
+- \[ \] The `lit` tests I have added follow these \[best
+practices\]\(https://mlir.llvm.org/getting_started/TestingGuide/#filecheck-best-practices\),
+including the "tests should be minimal" section. \(Usually running Python
+code
+  and using the instructions it generates is not minimal.\)
+---------
+Co-authored-by: Keren Zhou <robinho364@gmail.com>")[#5533](https://github.com/triton-lang/triton/pull/5533)[)](/triton-lang/triton/commit/17fd7a77a9153d8b43a4e8aa51d491fbbc8b185c "Fix typos discovered by codespell \(#5533\)
+```
+codespell --ignore-words-list=ans,conver,destop,dout,interm,latops,nd,olt,repid,subtile,valu \\
+     --skip="./third_party/*,*.mlir,*.pdf"
+```
+https://pypi.org/project/codespell
+`conver` should be removed from the `ignore-words-list` and the
+following line should be cleaned up:
+https://github.com/triton-lang/triton/blob/25732f0a063f025a4eb6f01a2e0939ef43a8afc7/include/triton/Dialect/TritonGPU/Transforms/Passes.td#L122
+Should codespell be added to pre-commit and/or GitHub Actions?
+<!---
+The core Triton is a small number of people, and we receive many PRs
+\(thank
+you!\). To help us review your code more quickly, **if you are a new
+contributor \(less than 3 PRs merged\) we ask that you complete the
+following
+tasks and include the filled-out checklist in your PR description.**
+Complete the following tasks before sending your PR, and replace `\[ \]`
+with
+`\[x\]` to indicate you have done them.
+-->
+# New contributor declaration
+- \[x\] I am making a trivial change, such as fixing a typo in a comment.
+- \[ \] I have written a PR description following these
+ \[rules\]\(https://cbea.ms/git-commit/#why-not-how\).
+- \[ \] I have run `pre-commit run --from-ref origin/main --to-ref HEAD`.
+- Select one of the following.
+ - \[ \] I have added tests.
+  - `/test` for `lit` tests
+  - `/unittest` for C++ tests
+  - `/python/test` for end-to-end tests
+- \[x\] This PR does not add a test but this could be easily added to
+pre-commit and/or GitHub Actions if desired.
+- Select one of the following.
+ - \[ \] I have not added any `lit` tests.
+- \[ \] The `lit` tests I have added follow these \[best
+practices\]\(https://mlir.llvm.org/getting_started/TestingGuide/#filecheck-best-practices\),
+including the "tests should be minimal" section. \(Usually running Python
+code
+  and using the instructions it generates is not minimal.\)
+---------
+Co-authored-by: Keren Zhou <robinho364@gmail.com>")| Jan 5, 2025  
+[.clang-format](/triton-lang/triton/blob/main/.clang-format ".clang-format")| [.clang-format](/triton-lang/triton/blob/main/.clang-format ".clang-format")| [Merge `triton-mlir` branch - Complete rewrite of the backend from scr…](/triton-lang/triton/commit/20100a7254e62efd0fced864b52a877c520fc38a "Merge `triton-mlir` branch - Complete rewrite of the backend from scratch \(#1004\)
+This PR merges the `triton-mlir` branch, in which we have been quietly
+rewriting the Triton backend from scratch to increase maintainability,
+stability and ultimately performance. Changes to the runtime are
+minimal, and this new version aims to remain backward-compatible with
+the previous commit. The legacy backend is now officially deprecated,
+but can still be accessed via the `legacy-backend` tag.
+Co-authored-by: Keren Zhou <kerenzhou@openai.com>
+Co-authored-by: Yan Chunwei <yanchunwei@outlook.com>
+Co-authored-by: goostavz <109190422+goostavz@users.noreply.github.com>
+Co-authored-by: Shintaro Iwasaki <siwasaki@fb.com>
+Co-authored-by: Yan Da <dyanab@connect.ust.hk>
+Co-authored-by: Jun Yang <yangjunpro@gmail.com>
+Co-authored-by: Ian Bearman <ianb@microsoft.com>
+Co-authored-by: Jason Ansel <jansel@jansel.net>
+Co-authored-by: Qingyi Liu <qingyil@nvidia.com>
+Co-authored-by: ben-zhang-609 <110140741+ben-zhang-609@users.noreply.github.com>
+Co-authored-by: Chenggang Zhao <lyricz@yeah.net>
+Co-authored-by: ben-zhang-609 <benzh609@gmail.com>
+Co-authored-by: dongdongl <dongdongl@nvidia.com>")| Dec 21, 2022  
+[.editorconfig](/triton-lang/triton/blob/main/.editorconfig ".editorconfig")| [.editorconfig](/triton-lang/triton/blob/main/.editorconfig ".editorconfig")| [[CI][TEST] update `pre-commit` hooks and use `pre-commit` for style t…](/triton-lang/triton/commit/5b36cb48ad9ce566dd24ff7183f207a1cb9358b5 "\[CI\]\[TEST\] update `pre-commit` hooks and use `pre-commit` for style tests in CI \(#1409\)
+Ref issue:
+- #1408
+Changes:
+- Add `.editorconfig`
+- Add `pre-commit-hooks`:
+  ```yaml
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+   rev: v4.4.0
+   hooks:
+    - id: check-symlinks
+    - id: destroyed-symlinks
+    - id: trailing-whitespace
+    - id: end-of-file-fixer
+    - id: check-yaml
+    - id: check-toml
+    - id: check-ast
+    - id: check-added-large-files
+    - id: check-merge-conflict
+    - id: check-executables-have-shebangs
+    - id: check-shebang-scripts-are-executable
+    - id: detect-private-key
+    - id: debug-statements
+  ```
+- Add `flake8` to `pre-commit` config and add `.flake8` file
+- Use `pre-commit` for style tests in CI
+- Run `pre-commit` and fix existing violations:
+  - fix trailing spaces
+  - fix end-of-files
+  - fix mod file mode with `chmod -x`
+  - run `autopep8` on existing code
+  - fix `flake8` violations")| Mar 25, 2023  
+[.git-blame-ignore-revs](/triton-lang/triton/blob/main/.git-blame-ignore-revs ".git-blame-ignore-revs")| [.git-blame-ignore-revs](/triton-lang/triton/blob/main/.git-blame-ignore-revs ".git-blame-ignore-revs")| [Add .git-blame-ignore-revs. (](/triton-lang/triton/commit/54220c010fb2b0a3e6a9ce4b3ddaa2fe5704a035 "Add .git-blame-ignore-revs. \(#3117\)
+I've been making some big NFC changes, and these can clog up `git
+blame`. Add
+a file that lists "uninteresting" revisions. You can \(optionally!\)
+instruct
+git to ignore the revs in here during blame.
+I got this list of commits by looking through the list of Triton commits
+that
+touch 30+ files. ChatGPT wrote the following bash script for me.
+  git log --pretty=format:"%H" --name-only | \\
+  awk -v N="30" '
+	/^\[0-9a-f\]{40}$/ {
+	  if \(count > N\) print hash;
+	  hash=$0; count=0;
+	}
+	NF { count++ }
+	END { if \(count > N\) print hash }
+  ' | xargs git show --stat")[#3117](https://github.com/triton-lang/triton/pull/3117)[)](/triton-lang/triton/commit/54220c010fb2b0a3e6a9ce4b3ddaa2fe5704a035 "Add .git-blame-ignore-revs. \(#3117\)
+I've been making some big NFC changes, and these can clog up `git
+blame`. Add
+a file that lists "uninteresting" revisions. You can \(optionally!\)
+instruct
+git to ignore the revs in here during blame.
+I got this list of commits by looking through the list of Triton commits
+that
+touch 30+ files. ChatGPT wrote the following bash script for me.
+  git log --pretty=format:"%H" --name-only | \\
+  awk -v N="30" '
+	/^\[0-9a-f\]{40}$/ {
+	  if \(count > N\) print hash;
+	  hash=$0; count=0;
+	}
+	NF { count++ }
+	END { if \(count > N\) print hash }
+  ' | xargs git show --stat")| Feb 13, 2024  
+[.gitignore](/triton-lang/triton/blob/main/.gitignore ".gitignore")| [.gitignore](/triton-lang/triton/blob/main/.gitignore ".gitignore")| [Add support for Nvidia Blackwell GPUs (](/triton-lang/triton/commit/b39c1e14b8f2029bc6a8798e4914d2692edf97d8 "Add support for Nvidia Blackwell GPUs \(#5724\)
+Initial support for Nvidia Blackwell GPUs \(sm_100\).
+The key contributions included in this PR are:
+* Support for 5th generation Tensor Core.
+* Modeling and support of Tensor Memory.
+* Native support for microscaling formats mxfp4 and mxfp8.
+* Improvements to the software pipeliner to take advantage of Tensor
+Cores and Tensor memory
+This was developed in close collaboration between Nvidia and OpenAI.
+From Nvidia:
+dePaul Miller \(@depaulmillz\)
+Samantha Hirsch \(@Sam3077\)
+Yujia Zhai \(@yzhaiustc\)
+Shang Zhang \(@shangz-ai\)
+Pradeep Ramani \(@ionthruster\)
+Matthew Brookhart \(@mbrookhart\)
+Masahiro Masuda \(@masahi\)
+Chris Sullivan \(@csullivan\)
+Clive Unger \(@CliveUnger\)
+Jason Knight \(@binarybana\)
+From OpenAI:
+Pawel Szczerbuk \(@pawelszczerbuk\)
+Peter Bell \(@peterbell10\)
+Phil Tillet \(@ptillet\)
+Jeff Niu \(@jeffniu-openai\)
+Thomas Raoux \(@ThomasRaoux\)
+Co-authored-by: Baogang Song <baogang@openai.com>
+Co-authored-by: Pawel Szczerbuk <pawel.szczerbuk@openai.com>
+Co-authored-by: Sergei Vorobev <xvorsx@gmail.com>
+Co-authored-by: ionthruster <pradeepramni@gmail.com>
+Co-authored-by: dePaul Miller <depaulmillz@users.noreply.github.com>
+Co-authored-by: Matthew Brookhart <mbrookhart@nvidia.com>
+Co-authored-by: Chris Sullivan <chris@sullivan.ai>
+Co-authored-by: Masahiro Masuda <mmasuda@nvidia.com>
+Co-authored-by: Chris Sullivan <chrsullivan@nvidia.com>
+Co-authored-by: peterbell10 <peterbell10@openai.com>
+Co-authored-by: jeffniu-openai <jeffniu@openai.com>")[#5724](https://github.com/triton-lang/triton/pull/5724)[)](/triton-lang/triton/commit/b39c1e14b8f2029bc6a8798e4914d2692edf97d8 "Add support for Nvidia Blackwell GPUs \(#5724\)
+Initial support for Nvidia Blackwell GPUs \(sm_100\).
+The key contributions included in this PR are:
+* Support for 5th generation Tensor Core.
+* Modeling and support of Tensor Memory.
+* Native support for microscaling formats mxfp4 and mxfp8.
+* Improvements to the software pipeliner to take advantage of Tensor
+Cores and Tensor memory
+This was developed in close collaboration between Nvidia and OpenAI.
+From Nvidia:
+dePaul Miller \(@depaulmillz\)
+Samantha Hirsch \(@Sam3077\)
+Yujia Zhai \(@yzhaiustc\)
+Shang Zhang \(@shangz-ai\)
+Pradeep Ramani \(@ionthruster\)
+Matthew Brookhart \(@mbrookhart\)
+Masahiro Masuda \(@masahi\)
+Chris Sullivan \(@csullivan\)
+Clive Unger \(@CliveUnger\)
+Jason Knight \(@binarybana\)
+From OpenAI:
+Pawel Szczerbuk \(@pawelszczerbuk\)
+Peter Bell \(@peterbell10\)
+Phil Tillet \(@ptillet\)
+Jeff Niu \(@jeffniu-openai\)
+Thomas Raoux \(@ThomasRaoux\)
+Co-authored-by: Baogang Song <baogang@openai.com>
+Co-authored-by: Pawel Szczerbuk <pawel.szczerbuk@openai.com>
+Co-authored-by: Sergei Vorobev <xvorsx@gmail.com>
+Co-authored-by: ionthruster <pradeepramni@gmail.com>
+Co-authored-by: dePaul Miller <depaulmillz@users.noreply.github.com>
+Co-authored-by: Matthew Brookhart <mbrookhart@nvidia.com>
+Co-authored-by: Chris Sullivan <chris@sullivan.ai>
+Co-authored-by: Masahiro Masuda <mmasuda@nvidia.com>
+Co-authored-by: Chris Sullivan <chrsullivan@nvidia.com>
+Co-authored-by: peterbell10 <peterbell10@openai.com>
+Co-authored-by: jeffniu-openai <jeffniu@openai.com>")| Jan 28, 2025  
+[.pre-commit-config.yaml](/triton-lang/triton/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/triton-lang/triton/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Enable](/triton-lang/triton/commit/194000a4996366ccdf991f806fec2f0cff5d6cd6 "Enable `yapf` for `test_line_info.py` \(#5612\)
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>") `[yapf](/triton-lang/triton/commit/194000a4996366ccdf991f806fec2f0cff5d6cd6 "Enable `yapf` for `test_line_info.py` \(#5612\)
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>")` [for](/triton-lang/triton/commit/194000a4996366ccdf991f806fec2f0cff5d6cd6 "Enable `yapf` for `test_line_info.py` \(#5612\)
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>") `[test_line_info.py](/triton-lang/triton/commit/194000a4996366ccdf991f806fec2f0cff5d6cd6 "Enable `yapf` for `test_line_info.py` \(#5612\)
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>")` [(](/triton-lang/triton/commit/194000a4996366ccdf991f806fec2f0cff5d6cd6 "Enable `yapf` for `test_line_info.py` \(#5612\)
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>")[#5612](https://github.com/triton-lang/triton/pull/5612)[)](/triton-lang/triton/commit/194000a4996366ccdf991f806fec2f0cff5d6cd6 "Enable `yapf` for `test_line_info.py` \(#5612\)
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>")| Jan 15, 2025  
+[CMakeLists.txt](/triton-lang/triton/blob/main/CMakeLists.txt "CMakeLists.txt")| [CMakeLists.txt](/triton-lang/triton/blob/main/CMakeLists.txt "CMakeLists.txt")| [Update cmake files with Windows related changes (](/triton-lang/triton/commit/a612088cbcc7ad475fff86d918f48e74cfd415ca "Update cmake files with Windows related changes \(#5369\)
+The changes mainly affect compilation options.
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>")[#5369](https://github.com/triton-lang/triton/pull/5369)[)](/triton-lang/triton/commit/a612088cbcc7ad475fff86d918f48e74cfd415ca "Update cmake files with Windows related changes \(#5369\)
+The changes mainly affect compilation options.
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>")| Dec 8, 2024  
+[CONTRIBUTING.md](/triton-lang/triton/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/triton-lang/triton/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [[DOC] Update core maintainers list (](/triton-lang/triton/commit/d2c885285b1040164d4289b5951ab2b872d3840c "\[DOC\] Update core maintainers list \(#5767\)")[#5767](https://github.com/triton-lang/triton/pull/5767)[)](/triton-lang/triton/commit/d2c885285b1040164d4289b5951ab2b872d3840c "\[DOC\] Update core maintainers list \(#5767\)")| Jan 31, 2025  
+[LICENSE](/triton-lang/triton/blob/main/LICENSE "LICENSE")| [LICENSE](/triton-lang/triton/blob/main/LICENSE "LICENSE")| [[CI][TEST] update `pre-commit` hooks and use `pre-commit` for style t…](/triton-lang/triton/commit/5b36cb48ad9ce566dd24ff7183f207a1cb9358b5 "\[CI\]\[TEST\] update `pre-commit` hooks and use `pre-commit` for style tests in CI \(#1409\)
+Ref issue:
+- #1408
+Changes:
+- Add `.editorconfig`
+- Add `pre-commit-hooks`:
+  ```yaml
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+   rev: v4.4.0
+   hooks:
+    - id: check-symlinks
+    - id: destroyed-symlinks
+    - id: trailing-whitespace
+    - id: end-of-file-fixer
+    - id: check-yaml
+    - id: check-toml
+    - id: check-ast
+    - id: check-added-large-files
+    - id: check-merge-conflict
+    - id: check-executables-have-shebangs
+    - id: check-shebang-scripts-are-executable
+    - id: detect-private-key
+    - id: debug-statements
+  ```
+- Add `flake8` to `pre-commit` config and add `.flake8` file
+- Use `pre-commit` for style tests in CI
+- Run `pre-commit` and fix existing violations:
+  - fix trailing spaces
+  - fix end-of-files
+  - fix mod file mode with `chmod -x`
+  - run `autopep8` on existing code
+  - fix `flake8` violations")| Mar 25, 2023  
+[Makefile](/triton-lang/triton/blob/main/Makefile "Makefile")| [Makefile](/triton-lang/triton/blob/main/Makefile "Makefile")| [[INTERP] Support tensor descriptor ops (](/triton-lang/triton/commit/3c4e3a91fd4c481459c9527a3e5c8dcd26b890d5 "\[INTERP\] Support tensor descriptor ops \(#5795\)
+This adds support for descriptor creation, load, store, gather and
+scatter.")[#5795](https://github.com/triton-lang/triton/pull/5795)[)](/triton-lang/triton/commit/3c4e3a91fd4c481459c9527a3e5c8dcd26b890d5 "\[INTERP\] Support tensor descriptor ops \(#5795\)
+This adds support for descriptor creation, load, store, gather and
+scatter.")| Feb 3, 2025  
+[README.md](/triton-lang/triton/blob/main/README.md "README.md")| [README.md](/triton-lang/triton/blob/main/README.md "README.md")| [[DEV] Unify Makefile and cuda CI commands (](/triton-lang/triton/commit/c75c6b034756629b891e7b2df406f634552331d5 "\[DEV\] Unify Makefile and cuda CI commands \(#5753\)
+Now `make test` runs the exact commands used in CI, so there should be
+no spurious local failures due to the specific `pytest` command used.")[#5753](https://github.com/triton-lang/triton/pull/5753)[)](/triton-lang/triton/commit/c75c6b034756629b891e7b2df406f634552331d5 "\[DEV\] Unify Makefile and cuda CI commands \(#5753\)
+Now `make test` runs the exact commands used in CI, so there should be
+no spurious local failures due to the specific `pytest` command used.")| Jan 30, 2025  
+[pyproject.toml](/triton-lang/triton/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/triton-lang/triton/blob/main/pyproject.toml "pyproject.toml")| [Enable](/triton-lang/triton/commit/194000a4996366ccdf991f806fec2f0cff5d6cd6 "Enable `yapf` for `test_line_info.py` \(#5612\)
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>") `[yapf](/triton-lang/triton/commit/194000a4996366ccdf991f806fec2f0cff5d6cd6 "Enable `yapf` for `test_line_info.py` \(#5612\)
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>")` [for](/triton-lang/triton/commit/194000a4996366ccdf991f806fec2f0cff5d6cd6 "Enable `yapf` for `test_line_info.py` \(#5612\)
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>") `[test_line_info.py](/triton-lang/triton/commit/194000a4996366ccdf991f806fec2f0cff5d6cd6 "Enable `yapf` for `test_line_info.py` \(#5612\)
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>")` [(](/triton-lang/triton/commit/194000a4996366ccdf991f806fec2f0cff5d6cd6 "Enable `yapf` for `test_line_info.py` \(#5612\)
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>")[#5612](https://github.com/triton-lang/triton/pull/5612)[)](/triton-lang/triton/commit/194000a4996366ccdf991f806fec2f0cff5d6cd6 "Enable `yapf` for `test_line_info.py` \(#5612\)
+Signed-off-by: Anatoly Myachev <anatoly.myachev@intel.com>")| Jan 15, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [MIT license](#)
+
+
+
+[![Triton logo](https://camo.githubusercontent.com/94edaa23faf33f9f7e76384487d4480ebd006ce791e63aba1fdbe0cf4adc06df/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f777a514b457354466b72674e514f394a6a68474835774676736c4a723173614c744c614a5f613646705f674e454e70767433564737426d7a74776e67553968464a615534435077476977316f7051744476546b4c72785752624f5f613132512d70644553574867746d686549486350624f4c355a4d43345453694a566535747931773d7733353137)](https://camo.githubusercontent.com/94edaa23faf33f9f7e76384487d4480ebd006ce791e63aba1fdbe0cf4adc06df/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f777a514b457354466b72674e514f394a6a68474835774676736c4a723173614c744c614a5f613646705f674e454e70767433564737426d7a74776e67553968464a615534435077476977316f7051744476546b4c72785752624f5f613132512d70644553574867746d686549486350624f4c355a4d43345453694a566535747931773d7733353137)
+
+**`Documentation`** | **`Nightly Wheels`**  
+---|---  
+[![Documentation](https://github.com/triton-lang/triton/actions/workflows/documentation.yml/badge.svg)](https://triton-lang.org/) | [![Wheels](https://github.com/triton-lang/triton/actions/workflows/wheels.yml/badge.svg?branch=release/2.0.x)](https://github.com/triton-lang/triton/actions/workflows/wheels.yml)  
+  
+# Triton
+
+[](#triton)
+
+This is the development repository of Triton, a language and compiler for writing highly efficient custom Deep-Learning primitives. The aim of Triton is to provide an open-source environment to write fast code at higher productivity than CUDA, but also with higher flexibility than other existing DSLs.
+
+The foundations of this project are described in the following MAPL2019 publication: [Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations](http://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf). Please consider citing this work if you use Triton!
+
+The [official documentation](https://triton-lang.org) contains installation instructions and tutorials. See also these third-party [Triton puzzles](https://github.com/srush/Triton-Puzzles), which can all be run using the Triton interpreter -- no GPU required.
+
+# Quick Installation
+
+[](#quick-installation)
+
+You can install the latest stable release of Triton from pip:
+
+```
+pip install triton
+```
+
+Binary wheels are available for CPython 3.9-3.13.
+
+# Enabling Blackwell Support
+
+[](#enabling-blackwell-support)
+
+The main branch now features support for NVIDIA Blackwell GPUs using 5th generation tensor cores. To enable this, you will need two additional steps:
+
+  1. Build a pre-release PyTorch from source with CUDA 12.8
+  2. Build triton from the latest source
+
+
+
+First, to build pytorch you need to have CUDA 12.8 installed locally. If not, follow the [instructions for your platform](https://developer.nvidia.com/cuda-downloads)
+
+```
+# Clone and checkout pytorch 2.6 release candidate git clone https://github.com/pytorch/pytorch cd pytorch git checkout v2.6.0-rc9 git submodule sync git submodule update --init --recursive -j 8 # Install build dependencies (assumes you already have a system compiler) pip install -r requirements.txt pip install mkl-static mkl-include wheel # Build PyTorch (will take a long time) export CUDA_HOME=/usr/local/cuda-12.8 export CUDA_PATH=$CUDA_HOME export TORCH_CUDA_ARCH_LIST=Blackwell python setup.py develop # Optional, package build into a wheel to install on other machines. python setup.py bdist_wheel ls dist # Wheel should be output in this directory
+```
+
+Note that if you use the domain libraries (`torchvision`, `torchtext`, `torchaudio`, etc.) these will need to be built from source as well, otherwise their custom PyTorch extensions will not work.
+
+Finally, follow the instructions below to install triton from source.
+
+# Install from source
+
+[](#install-from-source)
+
+```
+git clone https://github.com/triton-lang/triton.git cd triton pip install ninja cmake wheel pybind11 # build-time dependencies pip install -e python
+```
+
+Or with a virtualenv:
+
+```
+git clone https://github.com/triton-lang/triton.git cd triton python -m venv .venv --prompt triton source .venv/bin/activate pip install ninja cmake wheel pybind11 # build-time dependencies pip install -e python
+```
+
+# Building with a custom LLVM
+
+[](#building-with-a-custom-llvm)
+
+Triton uses LLVM to generate code for GPUs and CPUs. Normally, the Triton build downloads a prebuilt LLVM, but you can also build LLVM from source and use that.
+
+LLVM does not have a stable API, so the Triton build will not work at an arbitrary LLVM version.
+
+  1. Find the version of LLVM that Triton builds against. Check `cmake/llvm-hash.txt` to see the current version. For example, if it says: 49af6502c6dcb4a7f7520178bd14df396f78240c
+
+This means that the version of Triton you have builds against [LLVM](https://github.com/llvm/llvm-project) 49af6502.
+
+  2. `git checkout` LLVM at this revision. Optionally, make additional modifications to LLVM.
+
+  3. [Build LLVM](https://llvm.org/docs/CMake.html). For example, you might run
+
+```
+`$ cd $HOME/llvm-project # your clone of LLVM. $ mkdir build $ cd build $ cmake -G Ninja -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_ASSERTIONS=ON ../llvm -DLLVM_ENABLE_PROJECTS="mlir;llvm" -DLLVM_TARGETS_TO_BUILD="host;NVPTX;AMDGPU" $ ninja `
+```
+
+  4. Grab a snack, this will take a while.
+
+  5. Build Triton as above, but set the following environment variables.
+
+```
+`# Modify as appropriate to point to your LLVM build. $ export LLVM_BUILD_DIR=$HOME/llvm-project/build $ cd <triton install> $ LLVM_INCLUDE_DIRS=$LLVM_BUILD_DIR/include \ LLVM_LIBRARY_DIR=$LLVM_BUILD_DIR/lib \ LLVM_SYSPATH=$LLVM_BUILD_DIR \ pip install -e python `
+```
+
+
+
+
+# Tips for building
+
+[](#tips-for-building)
+
+  * Set `TRITON_BUILD_WITH_CLANG_LLD=true` as an environment variable to use clang and lld. lld in particular results in faster builds.
+
+  * Set `TRITON_BUILD_WITH_CCACHE=true` to build with ccache.
+
+  * Set `TRITON_HOME=/some/path` to change the location of the `.triton` directory where Triton's cache is located and downloads are stored during the build. By default, this is the user's home directory. It can be changed anytime.
+
+  * Pass `--no-build-isolation` to `pip install` to make nop builds faster. Without this, every invocation of `pip install` uses a different symlink to cmake, and this forces ninja to rebuild most of the `.a` files.
+
+  * vscode intellisense has some difficulty figuring out how to build Triton's C++ (probably because, in our build, users don't invoke cmake directly, but instead use setup.py). Teach vscode how to compile Triton as follows.
+
+    * Do a local build. Run command `pip install -e python`
+    * Get the full path to the `compile_commands.json` file produced by the build: `find python/build -name 'compile_commands.json' | xargs readlink -f`. You might get a full path similar to `/Users/{username}/triton/python/build/cmake.macosx-11.1-arm64-cpython-3.12/compile_commands.json`
+    * In vscode, install the [C/C++ extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools), then open the command palette (`Shift + Command + P` on Mac, or `Shift + Ctrl + P` on Windows/Linux) and open `C/C++: Edit Configurations (UI)`.
+    * Open "Advanced Settings" and paste the full path to `compile_commands.json` into the "Compile Commands" textbox.
+
+
+
+# Running tests
+
+[](#running-tests)
+
+There currently isn't a turnkey way to run all the Triton tests, but you can follow the following recipe.
+
+```
+# One-time setup. Note this will reinstall local Triton because torch # overwrites it with the public version. $ make dev-install # To run all tests (requires a GPU) $ make test # Or, to run tests without a gpu $ make test-nogpu
+```
+
+# Tips for hacking
+
+[](#tips-for-hacking)
+
+For detailed instructions on how to debug Triton's frontend, please refer to this [tutorial](https://triton-lang.org/main/programming-guide/chapter-3/debugging.html). The following includes additional tips for hacking on Triton's backend.
+
+**Helpful environment variables**
+
+  * `MLIR_ENABLE_DUMP=1` dumps the IR before every MLIR pass Triton runs, for all kernels. Use `MLIR_ENABLE_DUMP=kernelName` to dump for a specific kernel only.
+
+    * Triton cache can interfere with the dump. In cases where `MLIR_ENABLE_DUMP=1` does not work, try cleaning your triton cache: `rm -r ~/.triton/cache/*`
+  * `MLIR_DUMP_PATH` specifies where `MLIR_ENABLE_DUMP` will dump to. If unset will dump to stderr.
+
+  * `LLVM_IR_ENABLE_DUMP=1` dumps the IR before every pass run over the LLVM IR.
+
+  * `TRITON_REPRODUCER_PATH=<reproducer_path>` will generate an MLIR reproducer file at `<reproducer_path>` before each MLIR compiler stage. If any of the stages fail, `<reproducer_path>` will be a local MLIR reproducer captured right before the failing pass.
+
+  * `TRITON_INTERPRET=1` uses the Triton interpreter instead of running on the GPU. You can insert Python breakpoints in your kernel code!
+
+  * `TRITON_ENABLE_LLVM_DEBUG=1` passes `-debug` to LLVM, printing a lot of debugging information to stdout. If this is too noisy, run with just `TRITON_LLVM_DEBUG_ONLY` instead to limit the output.
+
+An alternative way to reduce output noisiness is running with `LLVM_IR_ENABLE_DUMP=1`, extract the IR before the LLVM pass of interest, and then run LLVM's `opt` standalone, perhaps passing `-debug-only=foo` on the command line.
+
+  * `TRITON_LLVM_DEBUG_ONLY=<comma-separated>` is the equivalent of LLVM's `-debug-only` command-line option. This limits the LLVM debug output to specific pass or component names (which are specified using `#define DEBUG_TYPE` throughout LLVM and Triton) in order to allow the debug output to be less noisy. `TRITON_LLVM_DEBUG_ONLY` allows for one or more comma separated values to be specified (eg `TRITON_LLVM_DEBUG_ONLY="tritongpu-remove-layout-conversions"` or `TRITON_LLVM_DEBUG_ONLY="tritongpu-remove-layout-conversions,regalloc"`).
+
+  * `TRITON_ENABLE_ASAN=1` invokes the LLVM address sanitizer for memory leak and out of bounds access detection. Currently only supported on the AMD backend. This must be run using the ASAN libraries documented [here](https://rocm.docs.amd.com/projects/llvm-project/en/latest/conceptual/using-gpu-sanitizer.html).
+
+When enabling the address sanitizer it is recommended to disable various memory caching strategies both within the ROCm stack and PyTorch. This will give the address sanitizer the best chance at finding the memory fault where it originates. See this [test](https://github.com/triton-lang/triton/blob/main/third_party/amd/python/test/test_address_sanitizer.py) for more details.
+
+  * `USE_IR_LOC={ttir,ttgir}` reparses the IR such that the location information will be the line number of the IR file with that particular extension, instead of line number of the python file. This can provide a direct mapping from the IR to llir/ptx. When used with performance tools, it can provide a breakdown on IR instructions.
+
+  * `TRITON_PRINT_AUTOTUNING=1` prints out the best autotuning config and total time spent for each kernel after autotuning is complete.
+
+  * `DISABLE_LLVM_OPT` will disable llvm optimizations for make_llir and make_ptx if its value is true when parsing as Bool. Otherwise, it will be parsed as a list of flags to disable llvm optimizations. One usage case is `DISABLE_LLVM_OPT="disable-lsr"` Loop strength reduction is known to cause up to 10% performance changes for certain kernels with register pressure.
+
+  * `TRITON_ALWAYS_COMPILE=1` forces to compile kernels regardless of cache hit.
+
+  * `MLIR_ENABLE_TIMING` dumps the timing information for each MLIR pass.
+
+  * `LLVM_ENABLE_TIMING` dumps the timing information for each LLVM pass.
+
+  * `TRITON_DEFAULT_FP_FUSION` overrides the default behavior of allowing fp fusion (mul+add->fma).
+
+  * `MLIR_ENABLE_DIAGNOSTICS=<comma-separated>` controls diagnostic emission in MLIR. Options are: `warnings`, `remarks`, `stacktraces`, `operations`. Use comma-separated values to customize output. For example, `MLIR_ENABLE_DIAGNOSTICS=remarks,operations` enables remarks and IR operations, while `MLIR_ENABLE_DIAGNOSTICS=warnings,stacktraces` enables warnings with stacktraces. By default, only errors are shown. Setting `warnings` includes errors and warnings; `remarks` includes errors, warnings, and remarks.
+
+  * `MLIR_ENABLE_REMARK` is deprecated. Please use `MLIR_ENABLE_DIAGNOSTICS=remarks`.
+
+  * `TRITON_KERNEL_DUMP` enables the dumping of the IR from each compilation stage and the final ptx/amdgcn.
+
+  * `TRITON_DUMP_DIR` specifies the directory to save the dumped IR and ptx/amdgcn when `TRITON_KERNEL_DUMP` is set to 1.
+
+  * `TRITON_KERNEL_OVERRIDE` enables the override of the compiled kernel with a user-specified IR/ptx/amdgcn at the beginning of each compilation stage.
+
+  * `TRITON_OVERRIDE_DIR` specifies the directory from which to load the IR/ptx/amdgcn files when `TRITON_KERNEL_OVERRIDE` is set to 1.
+
+
+
+
+**Kernel Override Steps**
+
+```
+export TRITON_ALWAYS_COMPILE=1 export TRITON_KERNEL_DUMP=1 export TRITON_DUMP_DIR=<dump_dir> export TRITON_KERNEL_OVERRIDE=1 export TRITON_OVERRIDE_DIR=<override_dir> # Step 1: Run the kernel once to dump kernel's IRs and ptx/amdgcn in $TRITON_DUMP_DIR # Step 2: Copy $TRITON_DUMP_DIR/<kernel_hash> to $TRITON_OVERRIDE_DIR # Step 3: Delete the stages that you do not want to override and modify the stage you do want to override # Step 4: Run the kernel again to see the overridden result
+```
+
+# Changelog
+
+[](#changelog)
+
+Version 2.0 is out! New features include:
+
+  * Many, many bug fixes
+  * Performance improvements
+  * Backend rewritten to use MLIR
+  * Support for kernels that contain back-to-back matmuls (e.g., flash attention)
+
+
+
+# Contributing
+
+[](#contributing)
+
+Community contributions are more than welcome, whether it be to fix bugs or to add new features at [github](https://github.com/triton-lang/triton/). For more detailed instructions, please visit our [contributor's guide](/triton-lang/triton/blob/main/CONTRIBUTING.md).
+
+# Compatibility
+
+[](#compatibility)
+
+Supported Platforms:
+
+  * Linux
+
+
+
+Supported Hardware:
+
+  * NVIDIA GPUs (Compute Capability 8.0+)
+  * AMD GPUs (ROCm 6.2+)
+  * Under development: CPUs
+
+
+
+## About
+
+Development repository for the Triton language and compiler 
+
+[triton-lang.org/](https://triton-lang.org/ "https://triton-lang.org/")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+[ Activity](/triton-lang/triton/activity)
+
+[ Custom properties](/triton-lang/triton/custom-properties)
+
+### Stars
+
+[ **14.3k** stars](/triton-lang/triton/stargazers)
+
+### Watchers
+
+[ **197** watching](/triton-lang/triton/watchers)
+
+### Forks
+
+[ **1.8k** forks](/triton-lang/triton/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Ftriton-lang%2Ftriton&report=triton-lang+%28user%29)
+
+##  [Releases](/triton-lang/triton/releases)
+
+[ 11 tags ](/triton-lang/triton/tags)
+
+##  [Packages 0](/orgs/triton-lang/packages?repo_name=triton)
+
+No packages published 
+
+##  [Used by 51.1k](/triton-lang/triton/network/dependents)
+
+[
+
+  * ![@temirov](https://avatars.githubusercontent.com/u/1078274?s=64&v=4)
+  * ![@FutureFacts](https://avatars.githubusercontent.com/u/23240458?s=64&v=4)
+  * ![@Uday-Sagar](https://avatars.githubusercontent.com/u/97347857?s=64&v=4)
+  * ![@kris893](https://avatars.githubusercontent.com/u/47133978?s=64&v=4)
+  * ![@Cubos1998](https://avatars.githubusercontent.com/u/151392074?s=64&v=4)
+  * ![@FoxHound0x00](https://avatars.githubusercontent.com/u/60322825?s=64&v=4)
+  * ![@MuhammadNizamani](https://avatars.githubusercontent.com/u/49721249?s=64&v=4)
+  * ![@kimdanny](https://avatars.githubusercontent.com/u/34687639?s=64&v=4)
+
++ 51,125  ](/triton-lang/triton/network/dependents)
+
+##  [Contributors 377](/triton-lang/triton/graphs/contributors)
+
+  * [ ![@ptillet](https://avatars.githubusercontent.com/u/614788?s=64&v=4) ](https://github.com/ptillet)
+  * [ ![@Jokeren](https://avatars.githubusercontent.com/u/2306281?s=64&v=4) ](https://github.com/Jokeren)
+  * [ ![@ThomasRaoux](https://avatars.githubusercontent.com/u/24322263?s=64&v=4) ](https://github.com/ThomasRaoux)
+  * [ ![@jlebar](https://avatars.githubusercontent.com/u/150663?s=64&v=4) ](https://github.com/jlebar)
+  * [ ![@antiagainst](https://avatars.githubusercontent.com/u/487928?s=64&v=4) ](https://github.com/antiagainst)
+  * [ ![@zahimoud](https://avatars.githubusercontent.com/u/128723247?s=64&v=4) ](https://github.com/zahimoud)
+  * [ ![@peterbell10](https://avatars.githubusercontent.com/u/13238737?s=64&v=4) ](https://github.com/peterbell10)
+  * [ ![@pawelszczerbuk](https://avatars.githubusercontent.com/u/153013546?s=64&v=4) ](https://github.com/pawelszczerbuk)
+  * [ ![@anmyachev](https://avatars.githubusercontent.com/u/45976948?s=64&v=4) ](https://github.com/anmyachev)
+  * [ ![@daadaada](https://avatars.githubusercontent.com/u/29946339?s=64&v=4) ](https://github.com/daadaada)
+  * [ ![@lezcano](https://avatars.githubusercontent.com/u/3291265?s=64&v=4) ](https://github.com/lezcano)
+  * [ ![@zhanglx13](https://avatars.githubusercontent.com/u/3949632?s=64&v=4) ](https://github.com/zhanglx13)
+  * [ ![@htyu](https://avatars.githubusercontent.com/u/15899383?s=64&v=4) ](https://github.com/htyu)
+  * [ ![@binarman](https://avatars.githubusercontent.com/u/3631351?s=64&v=4) ](https://github.com/binarman)
+
+
+
+[+ 363 contributors](/triton-lang/triton/graphs/contributors)
+
+## Languages
+
+  * [ C++ 38.1% ](/triton-lang/triton/search?l=c%2B%2B)
+  * [ MLIR 35.7% ](/triton-lang/triton/search?l=mlir)
+  * [ Python 25.3% ](/triton-lang/triton/search?l=python)
+  * [ CMake 0.7% ](/triton-lang/triton/search?l=cmake)
+  * [ C 0.1% ](/triton-lang/triton/search?l=c)
+  * [ Makefile 0.1% ](/triton-lang/triton/search?l=makefile)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

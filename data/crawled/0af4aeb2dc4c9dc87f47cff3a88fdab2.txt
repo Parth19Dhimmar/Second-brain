@@ -1,0 +1,1694 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Ftrl%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Ftrl%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=huggingface%2Ftrl) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ huggingface ](/huggingface) / **[trl](/huggingface/trl) ** Public
+
+generated from [fastai/nbdev_template](/fastai/nbdev_template)
+
+  * [ Notifications ](/login?return_to=%2Fhuggingface%2Ftrl) You must be signed in to change notification settings
+  * [ Fork 1.4k ](/login?return_to=%2Fhuggingface%2Ftrl)
+  * [ Star  10.7k ](/login?return_to=%2Fhuggingface%2Ftrl)
+
+
+
+
+Train transformer language models with reinforcement learning. 
+
+[hf.co/docs/trl](http://hf.co/docs/trl "http://hf.co/docs/trl")
+
+### License
+
+[ Apache-2.0 license ](/huggingface/trl/blob/main/LICENSE)
+
+[ 10.7k stars ](/huggingface/trl/stargazers) [ 1.4k forks ](/huggingface/trl/forks) [ Branches ](/huggingface/trl/branches) [ Tags ](/huggingface/trl/tags) [ Activity ](/huggingface/trl/activity)
+
+[ Star  ](/login?return_to=%2Fhuggingface%2Ftrl)
+
+[ Notifications ](/login?return_to=%2Fhuggingface%2Ftrl) You must be signed in to change notification settings
+
+  * [ Code ](/huggingface/trl)
+  * [ Issues 132 ](/huggingface/trl/issues)
+  * [ Pull requests 46 ](/huggingface/trl/pulls)
+  * [ Discussions ](/huggingface/trl/discussions)
+  * [ Actions ](/huggingface/trl/actions)
+  * [ Projects 0 ](/huggingface/trl/projects)
+  * [ Security ](/huggingface/trl/security)
+  * [ Insights ](/huggingface/trl/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/huggingface/trl)
+  * [ Issues  ](/huggingface/trl/issues)
+  * [ Pull requests  ](/huggingface/trl/pulls)
+  * [ Discussions  ](/huggingface/trl/discussions)
+  * [ Actions  ](/huggingface/trl/actions)
+  * [ Projects  ](/huggingface/trl/projects)
+  * [ Security  ](/huggingface/trl/security)
+  * [ Insights  ](/huggingface/trl/pulse)
+
+
+
+# huggingface/trl
+
+main
+
+[**43** Branches](/huggingface/trl/branches)[**47** Tags](/huggingface/trl/tags)
+
+[](/huggingface/trl/branches)[](/huggingface/trl/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+![dawidm](https://avatars.githubusercontent.com/u/6854796?v=4&size=40)![qgallouedec](https://avatars.githubusercontent.com/u/45557362?v=4&size=40)[dawidm](/huggingface/trl/commits?author=dawidm)and[qgallouedec](/huggingface/trl/commits?author=qgallouedec)[🧩 PPO/RLOO/OnlineDPO sequence generation: make deepsped 3 weight gath…](/huggingface/trl/commit/d4222a1e08def2be56572eb2973ef3bf50143a4f)Jan 21, 2025[d4222a1](/huggingface/trl/commit/d4222a1e08def2be56572eb2973ef3bf50143a4f) · Jan 21, 2025
+
+## History
+
+[1,160 Commits](/huggingface/trl/commits/main/)[](/huggingface/trl/commits/main/)  
+[.github](/huggingface/trl/tree/main/.github ".github")| [.github](/huggingface/trl/tree/main/.github ".github")| [👨‍👨‍👧‍👧 GRPO (](/huggingface/trl/commit/0f5ffad26e96d1a0eef568be91da956e81b4a11b "👨‍👨‍👧‍👧 GRPO \(#2565\)
+* init grpo \[ci skip\]
+* initial version
+* refine args defs
+* model card
+* initial doc
+* fix badges
+* fix spaces
+* try link to super in doc
+* temperature, fix indexing, and std=0.0
+* grpo script for cli
+* peft support
+* move data preparation in `compute_loss`
+* weird doc trial
+* fix device and some logging
+* unwrap_model_for_generation for distributed setting
+* Compat with distrib training
+* revert grpo config doc trial \(didn't work\)
+* test
+* allow model to be str and processing_class to be none; fix loss computation
+* advantage is always 0.0: don't log
+* fix peft not installed
+* proper reward model for testing
+* fix script for cli
+* add trl grpo to cli doc
+* test peft
+* flush left
+* fix reward calculation
+* new reward model
+* support any reward model
+* fix reward processing class def
+* log reward std
+* fix reward logging
+* fix grad computation
+* skip embed layer in test
+* remove optimizer_cls_and_kwargs
+* improve GRPO default args
+* reduce mem usage for grpo test
+* reduce mem usage in test grpo
+* reduce memory usage for test
+* Fix the test
+* remove redondant
+* fix min version
+* Update test_grpo_trainer.py
+* Update test_grpo_trainer.py
+* Fix test, finally found the solution!
+* some doc
+* Update doc-builder workflow to use specific commit sha
+* more doc
+* advantages
+* drop cancel fo no grad
+* logged metrics \[ci skip\]
+* completion col is ignored \[ci skip\]
+* fix latex
+* double space? ~?
+* try a latex fix
+* with branch
+* Empty commit
+* Empty commit
+* double space seems to be the solution")[#2565](https://github.com/huggingface/trl/pull/2565)[)](/huggingface/trl/commit/0f5ffad26e96d1a0eef568be91da956e81b4a11b "👨‍👨‍👧‍👧 GRPO \(#2565\)
+* init grpo \[ci skip\]
+* initial version
+* refine args defs
+* model card
+* initial doc
+* fix badges
+* fix spaces
+* try link to super in doc
+* temperature, fix indexing, and std=0.0
+* grpo script for cli
+* peft support
+* move data preparation in `compute_loss`
+* weird doc trial
+* fix device and some logging
+* unwrap_model_for_generation for distributed setting
+* Compat with distrib training
+* revert grpo config doc trial \(didn't work\)
+* test
+* allow model to be str and processing_class to be none; fix loss computation
+* advantage is always 0.0: don't log
+* fix peft not installed
+* proper reward model for testing
+* fix script for cli
+* add trl grpo to cli doc
+* test peft
+* flush left
+* fix reward calculation
+* new reward model
+* support any reward model
+* fix reward processing class def
+* log reward std
+* fix reward logging
+* fix grad computation
+* skip embed layer in test
+* remove optimizer_cls_and_kwargs
+* improve GRPO default args
+* reduce mem usage for grpo test
+* reduce mem usage in test grpo
+* reduce memory usage for test
+* Fix the test
+* remove redondant
+* fix min version
+* Update test_grpo_trainer.py
+* Update test_grpo_trainer.py
+* Fix test, finally found the solution!
+* some doc
+* Update doc-builder workflow to use specific commit sha
+* more doc
+* advantages
+* drop cancel fo no grad
+* logged metrics \[ci skip\]
+* completion col is ignored \[ci skip\]
+* fix latex
+* double space? ~?
+* try a latex fix
+* with branch
+* Empty commit
+* Empty commit
+* double space seems to be the solution")| Jan 20, 2025  
+[commands](/huggingface/trl/tree/main/commands "commands")| [commands](/huggingface/trl/tree/main/commands "commands")| [🕹️ CLI refactor (](/huggingface/trl/commit/ca850be0a265f985cd4ce6d24c6b1b6746116f4b "🕹️ CLI refactor \(#2380\)
+* Refactor main function in dpo.py
+* Update setup.py and add cli.py
+* Add examples to package data
+* style
+* Refactor setup.py file
+* Add new file t.py
+* Move dpo to package
+* Update MANIFEST.in and setup.py, refactor trl/cli.py
+* Add __init__.py to trl/scripts directory
+* Add license header to __init__.py
+* File moved instruction
+* Add Apache License and update file path
+* Move dpo.py to new location
+* Refactor CLI and DPO script
+* Refactor import structure in scripts package
+* env
+* rm config from chat arg
+* rm old cli
+* chat init
+* test cli \[skip ci\]
+* Add `datast_config_name` to `ScriptArguments` \(#2440\)
+* add missing arg
+* Add test cases for 'trl sft' and 'trl dpo' commands
+* Add sft.py script and update cli.py to include sft command
+* Move sft script
+* chat
+* style \[ci skip\]
+* kto
+* rm example config
+* first step on doc
+* see #2442
+* see #2443
+* fix chat windows
+* ©️ Copyrights update \(#2454\)
+* First changes
+* Other files
+* Finally
+* rm comment
+* fix nashmd
+* Fix example
+* Fix example \[ci skip\]
+* 💬 Fix chat for windows \(#2443\)
+* fix chat for windows
+* add some tests back
+* Revert "add some tests back"
+This reverts commit 350aef52f53f8cf34fccd7ad0f78a3dd63867e06.
+* 🆔 Add `datast_config` to `ScriptArguments` \(#2440\)
+* datast_config_name
+* Update trl/utils.py \[ci skip\]
+* sort import
+* typo \[ci skip\]
+* Trigger CI
+* Rename `dataset_config_name` to `dataset_config`
+* 🏎 Fix deepspeed preparation of `ref_model` in `OnlineDPOTrainer` \(#2417\)
+* Remove unused deepspeed code
+* add model prep back
+* add deepspeed even if it doesn't work
+* rm old code
+* Fix config name
+* Remove `make dev` in favor of `pip install -e .\[dev\]`
+* Update script paths and remove old symlink related things
+* Fix chat script path \[ci skip\]
+* style")[#2380](https://github.com/huggingface/trl/pull/2380)[)](/huggingface/trl/commit/ca850be0a265f985cd4ce6d24c6b1b6746116f4b "🕹️ CLI refactor \(#2380\)
+* Refactor main function in dpo.py
+* Update setup.py and add cli.py
+* Add examples to package data
+* style
+* Refactor setup.py file
+* Add new file t.py
+* Move dpo to package
+* Update MANIFEST.in and setup.py, refactor trl/cli.py
+* Add __init__.py to trl/scripts directory
+* Add license header to __init__.py
+* File moved instruction
+* Add Apache License and update file path
+* Move dpo.py to new location
+* Refactor CLI and DPO script
+* Refactor import structure in scripts package
+* env
+* rm config from chat arg
+* rm old cli
+* chat init
+* test cli \[skip ci\]
+* Add `datast_config_name` to `ScriptArguments` \(#2440\)
+* add missing arg
+* Add test cases for 'trl sft' and 'trl dpo' commands
+* Add sft.py script and update cli.py to include sft command
+* Move sft script
+* chat
+* style \[ci skip\]
+* kto
+* rm example config
+* first step on doc
+* see #2442
+* see #2443
+* fix chat windows
+* ©️ Copyrights update \(#2454\)
+* First changes
+* Other files
+* Finally
+* rm comment
+* fix nashmd
+* Fix example
+* Fix example \[ci skip\]
+* 💬 Fix chat for windows \(#2443\)
+* fix chat for windows
+* add some tests back
+* Revert "add some tests back"
+This reverts commit 350aef52f53f8cf34fccd7ad0f78a3dd63867e06.
+* 🆔 Add `datast_config` to `ScriptArguments` \(#2440\)
+* datast_config_name
+* Update trl/utils.py \[ci skip\]
+* sort import
+* typo \[ci skip\]
+* Trigger CI
+* Rename `dataset_config_name` to `dataset_config`
+* 🏎 Fix deepspeed preparation of `ref_model` in `OnlineDPOTrainer` \(#2417\)
+* Remove unused deepspeed code
+* add model prep back
+* add deepspeed even if it doesn't work
+* rm old code
+* Fix config name
+* Remove `make dev` in favor of `pip install -e .\[dev\]`
+* Update script paths and remove old symlink related things
+* Fix chat script path \[ci skip\]
+* style")| Dec 13, 2024  
+[docker](/huggingface/trl/tree/main/docker "docker")| [docker](/huggingface/trl/tree/main/docker "docker")| [[](/huggingface/trl/commit/ef209e311f25a017518cedd95a7964eea09c87b3 "\[`core` / tests \] v1 slow tests \(#1218\)
+* v1 slow tests
+* nit
+* add qlora tests for DPO
+* add decorator
+* release memory + log reports
+* report to none to avoid seg fault issues
+* update setup
+* fix
+* add exampel testing
+* fix nit
+* change temp filename
+* add workflow file
+* fix comment
+* add slack push script
+* more tests for DPO
+* add dpo example tests
+* another makefile command
+* fix
+* add paths + clean up
+* nit
+* Update slow-tests.yml
+* trigger tests
+* up
+* up
+* more fixes
+* fix
+* final fixes
+* minor fixes
+* oops
+* add more text
+* fix
+* more
+* trigger CI
+* up
+* fix
+* remove
+* run the tests on 2 GPUs only
+* final fix SFT
+* revert config files + address comments
+* fix
+* add Phi
+* final fixes
+* final fix")`[core](/huggingface/trl/commit/ef209e311f25a017518cedd95a7964eea09c87b3 "\[`core` / tests \] v1 slow tests \(#1218\)
+* v1 slow tests
+* nit
+* add qlora tests for DPO
+* add decorator
+* release memory + log reports
+* report to none to avoid seg fault issues
+* update setup
+* fix
+* add exampel testing
+* fix nit
+* change temp filename
+* add workflow file
+* fix comment
+* add slack push script
+* more tests for DPO
+* add dpo example tests
+* another makefile command
+* fix
+* add paths + clean up
+* nit
+* Update slow-tests.yml
+* trigger tests
+* up
+* up
+* more fixes
+* fix
+* final fixes
+* minor fixes
+* oops
+* add more text
+* fix
+* more
+* trigger CI
+* up
+* fix
+* remove
+* run the tests on 2 GPUs only
+* final fix SFT
+* revert config files + address comments
+* fix
+* add Phi
+* final fixes
+* final fix")` [/ tests ] v1 slow tests (](/huggingface/trl/commit/ef209e311f25a017518cedd95a7964eea09c87b3 "\[`core` / tests \] v1 slow tests \(#1218\)
+* v1 slow tests
+* nit
+* add qlora tests for DPO
+* add decorator
+* release memory + log reports
+* report to none to avoid seg fault issues
+* update setup
+* fix
+* add exampel testing
+* fix nit
+* change temp filename
+* add workflow file
+* fix comment
+* add slack push script
+* more tests for DPO
+* add dpo example tests
+* another makefile command
+* fix
+* add paths + clean up
+* nit
+* Update slow-tests.yml
+* trigger tests
+* up
+* up
+* more fixes
+* fix
+* final fixes
+* minor fixes
+* oops
+* add more text
+* fix
+* more
+* trigger CI
+* up
+* fix
+* remove
+* run the tests on 2 GPUs only
+* final fix SFT
+* revert config files + address comments
+* fix
+* add Phi
+* final fixes
+* final fix")[#1218](https://github.com/huggingface/trl/pull/1218)[)](/huggingface/trl/commit/ef209e311f25a017518cedd95a7964eea09c87b3 "\[`core` / tests \] v1 slow tests \(#1218\)
+* v1 slow tests
+* nit
+* add qlora tests for DPO
+* add decorator
+* release memory + log reports
+* report to none to avoid seg fault issues
+* update setup
+* fix
+* add exampel testing
+* fix nit
+* change temp filename
+* add workflow file
+* fix comment
+* add slack push script
+* more tests for DPO
+* add dpo example tests
+* another makefile command
+* fix
+* add paths + clean up
+* nit
+* Update slow-tests.yml
+* trigger tests
+* up
+* up
+* more fixes
+* fix
+* final fixes
+* minor fixes
+* oops
+* add more text
+* fix
+* more
+* trigger CI
+* up
+* fix
+* remove
+* run the tests on 2 GPUs only
+* final fix SFT
+* revert config files + address comments
+* fix
+* add Phi
+* final fixes
+* final fix")| Jan 17, 2024  
+[docs/source](/huggingface/trl/tree/main/docs/source "This path skips through empty directories")| [docs/source](/huggingface/trl/tree/main/docs/source "This path skips through empty directories")| [🧩 PPO/RLOO/OnlineDPO sequence generation: make deepsped 3 weight gath…](/huggingface/trl/commit/d4222a1e08def2be56572eb2973ef3bf50143a4f "🧩 PPO/RLOO/OnlineDPO sequence generation: make deepsped 3 weight gathering optional \(#2557\)
+* PPO/RLOO/OnlineDPO: add ds3_gather_for_generation argument to control weights gathering for generation
+* code formatting
+* rephrase and document
+* more doc
+* style \[ci skip\]
+* Trigger CI
+---------
+Co-authored-by: Quentin Gallouédec <45557362+qgallouedec@users.noreply.github.com>
+Co-authored-by: Quentin Gallouédec <quentin.gallouedec@huggingface.co>")| Jan 21, 2025  
+[examples](/huggingface/trl/tree/main/examples "examples")| [examples](/huggingface/trl/tree/main/examples "examples")| [🎴 Add readme for datasets (](/huggingface/trl/commit/ed7de87dc766478c024b68f12530d1b0e7c3ff23 "🎴 Add readme for datasets \(#2491\)
+* adding readme for ultrafeedback dataset
+* using ModelCard as DatasetsCard like hf datasets is understaffed
+* more info in readme.md of the dataset
+* generated readme for all dataset scripts
+* precommit
+* fixing test
+* md format; corrections; generation script link
+* some collections
+---------
+Co-authored-by: Quentin Gallouédec <45557362+qgallouedec@users.noreply.github.com>
+Co-authored-by: Quentin Gallouédec <quentin.gallouedec@huggingface.co>")[#2491](https://github.com/huggingface/trl/pull/2491)[)](/huggingface/trl/commit/ed7de87dc766478c024b68f12530d1b0e7c3ff23 "🎴 Add readme for datasets \(#2491\)
+* adding readme for ultrafeedback dataset
+* using ModelCard as DatasetsCard like hf datasets is understaffed
+* more info in readme.md of the dataset
+* generated readme for all dataset scripts
+* precommit
+* fixing test
+* md format; corrections; generation script link
+* some collections
+---------
+Co-authored-by: Quentin Gallouédec <45557362+qgallouedec@users.noreply.github.com>
+Co-authored-by: Quentin Gallouédec <quentin.gallouedec@huggingface.co>")| Jan 8, 2025  
+[scripts](/huggingface/trl/tree/main/scripts "scripts")| [scripts](/huggingface/trl/tree/main/scripts "scripts")| [👨‍👨‍👧‍👧 GRPO (](/huggingface/trl/commit/0f5ffad26e96d1a0eef568be91da956e81b4a11b "👨‍👨‍👧‍👧 GRPO \(#2565\)
+* init grpo \[ci skip\]
+* initial version
+* refine args defs
+* model card
+* initial doc
+* fix badges
+* fix spaces
+* try link to super in doc
+* temperature, fix indexing, and std=0.0
+* grpo script for cli
+* peft support
+* move data preparation in `compute_loss`
+* weird doc trial
+* fix device and some logging
+* unwrap_model_for_generation for distributed setting
+* Compat with distrib training
+* revert grpo config doc trial \(didn't work\)
+* test
+* allow model to be str and processing_class to be none; fix loss computation
+* advantage is always 0.0: don't log
+* fix peft not installed
+* proper reward model for testing
+* fix script for cli
+* add trl grpo to cli doc
+* test peft
+* flush left
+* fix reward calculation
+* new reward model
+* support any reward model
+* fix reward processing class def
+* log reward std
+* fix reward logging
+* fix grad computation
+* skip embed layer in test
+* remove optimizer_cls_and_kwargs
+* improve GRPO default args
+* reduce mem usage for grpo test
+* reduce mem usage in test grpo
+* reduce memory usage for test
+* Fix the test
+* remove redondant
+* fix min version
+* Update test_grpo_trainer.py
+* Update test_grpo_trainer.py
+* Fix test, finally found the solution!
+* some doc
+* Update doc-builder workflow to use specific commit sha
+* more doc
+* advantages
+* drop cancel fo no grad
+* logged metrics \[ci skip\]
+* completion col is ignored \[ci skip\]
+* fix latex
+* double space? ~?
+* try a latex fix
+* with branch
+* Empty commit
+* Empty commit
+* double space seems to be the solution")[#2565](https://github.com/huggingface/trl/pull/2565)[)](/huggingface/trl/commit/0f5ffad26e96d1a0eef568be91da956e81b4a11b "👨‍👨‍👧‍👧 GRPO \(#2565\)
+* init grpo \[ci skip\]
+* initial version
+* refine args defs
+* model card
+* initial doc
+* fix badges
+* fix spaces
+* try link to super in doc
+* temperature, fix indexing, and std=0.0
+* grpo script for cli
+* peft support
+* move data preparation in `compute_loss`
+* weird doc trial
+* fix device and some logging
+* unwrap_model_for_generation for distributed setting
+* Compat with distrib training
+* revert grpo config doc trial \(didn't work\)
+* test
+* allow model to be str and processing_class to be none; fix loss computation
+* advantage is always 0.0: don't log
+* fix peft not installed
+* proper reward model for testing
+* fix script for cli
+* add trl grpo to cli doc
+* test peft
+* flush left
+* fix reward calculation
+* new reward model
+* support any reward model
+* fix reward processing class def
+* log reward std
+* fix reward logging
+* fix grad computation
+* skip embed layer in test
+* remove optimizer_cls_and_kwargs
+* improve GRPO default args
+* reduce mem usage for grpo test
+* reduce mem usage in test grpo
+* reduce memory usage for test
+* Fix the test
+* remove redondant
+* fix min version
+* Update test_grpo_trainer.py
+* Update test_grpo_trainer.py
+* Fix test, finally found the solution!
+* some doc
+* Update doc-builder workflow to use specific commit sha
+* more doc
+* advantages
+* drop cancel fo no grad
+* logged metrics \[ci skip\]
+* completion col is ignored \[ci skip\]
+* fix latex
+* double space? ~?
+* try a latex fix
+* with branch
+* Empty commit
+* Empty commit
+* double space seems to be the solution")| Jan 20, 2025  
+[tests](/huggingface/trl/tree/main/tests "tests")| [tests](/huggingface/trl/tree/main/tests "tests")| [🧰 Tool fine-tuning support DPO (](/huggingface/trl/commit/d9f056862f2bd1514fad068f49f6bc05d8494d4a "🧰 Tool fine-tuning support DPO \(#2479\)
+* adding tool fine-tuning support for DPO
+* precommit
+* adding test for DPOTrainer with tool usage
+* style
+* fix test
+* a comment
+---------
+Co-authored-by: Quentin Gallouédec <45557362+qgallouedec@users.noreply.github.com>
+Co-authored-by: Quentin Gallouédec <quentin.gallouedec@huggingface.co>")[#2479](https://github.com/huggingface/trl/pull/2479)[)](/huggingface/trl/commit/d9f056862f2bd1514fad068f49f6bc05d8494d4a "🧰 Tool fine-tuning support DPO \(#2479\)
+* adding tool fine-tuning support for DPO
+* precommit
+* adding test for DPOTrainer with tool usage
+* style
+* fix test
+* a comment
+---------
+Co-authored-by: Quentin Gallouédec <45557362+qgallouedec@users.noreply.github.com>
+Co-authored-by: Quentin Gallouédec <quentin.gallouedec@huggingface.co>")| Jan 21, 2025  
+[trl](/huggingface/trl/tree/main/trl "trl")| [trl](/huggingface/trl/tree/main/trl "trl")| [🧩 PPO/RLOO/OnlineDPO sequence generation: make deepsped 3 weight gath…](/huggingface/trl/commit/d4222a1e08def2be56572eb2973ef3bf50143a4f "🧩 PPO/RLOO/OnlineDPO sequence generation: make deepsped 3 weight gathering optional \(#2557\)
+* PPO/RLOO/OnlineDPO: add ds3_gather_for_generation argument to control weights gathering for generation
+* code formatting
+* rephrase and document
+* more doc
+* style \[ci skip\]
+* Trigger CI
+---------
+Co-authored-by: Quentin Gallouédec <45557362+qgallouedec@users.noreply.github.com>
+Co-authored-by: Quentin Gallouédec <quentin.gallouedec@huggingface.co>")| Jan 21, 2025  
+[.gitignore](/huggingface/trl/blob/main/.gitignore ".gitignore")| [.gitignore](/huggingface/trl/blob/main/.gitignore ".gitignore")| [🕹️ CLI refactor (](/huggingface/trl/commit/ca850be0a265f985cd4ce6d24c6b1b6746116f4b "🕹️ CLI refactor \(#2380\)
+* Refactor main function in dpo.py
+* Update setup.py and add cli.py
+* Add examples to package data
+* style
+* Refactor setup.py file
+* Add new file t.py
+* Move dpo to package
+* Update MANIFEST.in and setup.py, refactor trl/cli.py
+* Add __init__.py to trl/scripts directory
+* Add license header to __init__.py
+* File moved instruction
+* Add Apache License and update file path
+* Move dpo.py to new location
+* Refactor CLI and DPO script
+* Refactor import structure in scripts package
+* env
+* rm config from chat arg
+* rm old cli
+* chat init
+* test cli \[skip ci\]
+* Add `datast_config_name` to `ScriptArguments` \(#2440\)
+* add missing arg
+* Add test cases for 'trl sft' and 'trl dpo' commands
+* Add sft.py script and update cli.py to include sft command
+* Move sft script
+* chat
+* style \[ci skip\]
+* kto
+* rm example config
+* first step on doc
+* see #2442
+* see #2443
+* fix chat windows
+* ©️ Copyrights update \(#2454\)
+* First changes
+* Other files
+* Finally
+* rm comment
+* fix nashmd
+* Fix example
+* Fix example \[ci skip\]
+* 💬 Fix chat for windows \(#2443\)
+* fix chat for windows
+* add some tests back
+* Revert "add some tests back"
+This reverts commit 350aef52f53f8cf34fccd7ad0f78a3dd63867e06.
+* 🆔 Add `datast_config` to `ScriptArguments` \(#2440\)
+* datast_config_name
+* Update trl/utils.py \[ci skip\]
+* sort import
+* typo \[ci skip\]
+* Trigger CI
+* Rename `dataset_config_name` to `dataset_config`
+* 🏎 Fix deepspeed preparation of `ref_model` in `OnlineDPOTrainer` \(#2417\)
+* Remove unused deepspeed code
+* add model prep back
+* add deepspeed even if it doesn't work
+* rm old code
+* Fix config name
+* Remove `make dev` in favor of `pip install -e .\[dev\]`
+* Update script paths and remove old symlink related things
+* Fix chat script path \[ci skip\]
+* style")[#2380](https://github.com/huggingface/trl/pull/2380)[)](/huggingface/trl/commit/ca850be0a265f985cd4ce6d24c6b1b6746116f4b "🕹️ CLI refactor \(#2380\)
+* Refactor main function in dpo.py
+* Update setup.py and add cli.py
+* Add examples to package data
+* style
+* Refactor setup.py file
+* Add new file t.py
+* Move dpo to package
+* Update MANIFEST.in and setup.py, refactor trl/cli.py
+* Add __init__.py to trl/scripts directory
+* Add license header to __init__.py
+* File moved instruction
+* Add Apache License and update file path
+* Move dpo.py to new location
+* Refactor CLI and DPO script
+* Refactor import structure in scripts package
+* env
+* rm config from chat arg
+* rm old cli
+* chat init
+* test cli \[skip ci\]
+* Add `datast_config_name` to `ScriptArguments` \(#2440\)
+* add missing arg
+* Add test cases for 'trl sft' and 'trl dpo' commands
+* Add sft.py script and update cli.py to include sft command
+* Move sft script
+* chat
+* style \[ci skip\]
+* kto
+* rm example config
+* first step on doc
+* see #2442
+* see #2443
+* fix chat windows
+* ©️ Copyrights update \(#2454\)
+* First changes
+* Other files
+* Finally
+* rm comment
+* fix nashmd
+* Fix example
+* Fix example \[ci skip\]
+* 💬 Fix chat for windows \(#2443\)
+* fix chat for windows
+* add some tests back
+* Revert "add some tests back"
+This reverts commit 350aef52f53f8cf34fccd7ad0f78a3dd63867e06.
+* 🆔 Add `datast_config` to `ScriptArguments` \(#2440\)
+* datast_config_name
+* Update trl/utils.py \[ci skip\]
+* sort import
+* typo \[ci skip\]
+* Trigger CI
+* Rename `dataset_config_name` to `dataset_config`
+* 🏎 Fix deepspeed preparation of `ref_model` in `OnlineDPOTrainer` \(#2417\)
+* Remove unused deepspeed code
+* add model prep back
+* add deepspeed even if it doesn't work
+* rm old code
+* Fix config name
+* Remove `make dev` in favor of `pip install -e .\[dev\]`
+* Update script paths and remove old symlink related things
+* Fix chat script path \[ci skip\]
+* style")| Dec 13, 2024  
+[.pre-commit-config.yaml](/huggingface/trl/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/huggingface/trl/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [[pre-commit] update pre-commit yaml (](/huggingface/trl/commit/850ddcf598984013007d384c6b3e311def2a616e "\[pre-commit\] update pre-commit yaml \(#2002\)
+* update pre-commit yaml
+* fix test
+* use element_type")[#2002](https://github.com/huggingface/trl/pull/2002)[)](/huggingface/trl/commit/850ddcf598984013007d384c6b3e311def2a616e "\[pre-commit\] update pre-commit yaml \(#2002\)
+* update pre-commit yaml
+* fix test
+* use element_type")| Sep 2, 2024  
+[CITATION.cff](/huggingface/trl/blob/main/CITATION.cff "CITATION.cff")| [CITATION.cff](/huggingface/trl/blob/main/CITATION.cff "CITATION.cff")| [Bump version](/huggingface/trl/commit/f68d11f9f9b5c8afe020bff0decad161d0958bdd "Bump version")| Dec 15, 2024  
+[CODE_OF_CONDUCT.md](/huggingface/trl/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/huggingface/trl/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Add issue/PR templates, code of conduct & better contributing guide (](/huggingface/trl/commit/dcee683d968444179f57bffa5a49a7ec13f57654 "Add issue/PR templates, code of conduct & better contributing guide \(#1963\)
+* Add issue/PR templates, code of conduct & better contributing guide
+* Apply suggestions from code review
+Co-authored-by: Quentin Gallouédec <45557362+qgallouedec@users.noreply.github.com>
+---------
+Co-authored-by: Quentin Gallouédec <45557362+qgallouedec@users.noreply.github.com>")[#…](https://github.com/huggingface/trl/pull/1963)| Aug 24, 2024  
+[CONTRIBUTING.md](/huggingface/trl/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/huggingface/trl/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [✂️ Truncate by default (](/huggingface/trl/commit/fd4b283b82975a84316b9406c6f7bd17142df48c "✂️ Truncate by default \(#2587\)
+* set default for max_length and max prompt lenngth and add guidelines for defaults
+* remove dep kwargs
+* truncate prompt in prm
+* Update CONTRIBUTING.md \[ci skip\]")[#2587](https://github.com/huggingface/trl/pull/2587)[)](/huggingface/trl/commit/fd4b283b82975a84316b9406c6f7bd17142df48c "✂️ Truncate by default \(#2587\)
+* set default for max_length and max prompt lenngth and add guidelines for defaults
+* remove dep kwargs
+* truncate prompt in prm
+* Update CONTRIBUTING.md \[ci skip\]")| Jan 17, 2025  
+[LICENSE](/huggingface/trl/blob/main/LICENSE "LICENSE")| [LICENSE](/huggingface/trl/blob/main/LICENSE "LICENSE")| [Initial commit](/huggingface/trl/commit/5ca5b61e528c26242702e97333de3f9c3c16870b "Initial commit")| Mar 27, 2020  
+[MANIFEST.in](/huggingface/trl/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](/huggingface/trl/blob/main/MANIFEST.in "MANIFEST.in")| [🃏 Model card for TRL (](/huggingface/trl/commit/c00722ce0a250cd48b685380d5e1041eacdd00ff "🃏 Model card for TRL \(#2123\)
+* template and util
+* test for online dpo
+* template in package_data
+* template in manifest
+* standardize push_to_hub
+* wandb badge and quick start
+* bco
+* xpo
+* simplify `create_model_card`
+* cpo
+* kto
+* dpo
+* gkd
+* orpo
+* style
+* nash-md
+* alignprop
+* bco citation
+* citation template
+* cpo citation
+* ddpo
+* fix alignprop
+* dpo
+* gkd citation
+* kto
+* online dpo citation
+* orpo citation
+* citation in utils
+* optional citation
+* reward
+* optional trainer citation
+* sft
+* remove add_model_tags bco
+* Remove unnecessary code for adding model tags
+* Fix model tag issue and update URL format
+* Remove unused code for adding model tags
+* Add citation for XPOTrainer
+* Remove unused code in SFTTrainer
+* Add model card generation in RLOOTrainer
+* Remove unused import and method call in reward_trainer.py
+* Add model card generation
+* Remove unused code and update error message in ORPOTrainer class
+* Add import statements and create model card in IterativeSFTTrainer
+* Add dataset name to push_to_hub\(\) call
+* Update trainer.push_to_hub\(\) dataset names
+* script args
+* test
+* better doc
+* fix tag test
+* fix test tag
+* Add tags parameter to create_model_card method
+* doc
+* script args
+* Update trl/templates/model_card.md
+Co-authored-by: lewtun <lewis.c.tunstall@gmail.com>
+* unittest's `assertIn` instead of `assert`
+* Update trl/templates/model_card.md
+Co-authored-by: lewtun <lewis.c.tunstall@gmail.com>
+---------
+Co-authored-by: lewtun <lewis.c.tunstall@gmail.com>")[#2123](https://github.com/huggingface/trl/pull/2123)[)](/huggingface/trl/commit/c00722ce0a250cd48b685380d5e1041eacdd00ff "🃏 Model card for TRL \(#2123\)
+* template and util
+* test for online dpo
+* template in package_data
+* template in manifest
+* standardize push_to_hub
+* wandb badge and quick start
+* bco
+* xpo
+* simplify `create_model_card`
+* cpo
+* kto
+* dpo
+* gkd
+* orpo
+* style
+* nash-md
+* alignprop
+* bco citation
+* citation template
+* cpo citation
+* ddpo
+* fix alignprop
+* dpo
+* gkd citation
+* kto
+* online dpo citation
+* orpo citation
+* citation in utils
+* optional citation
+* reward
+* optional trainer citation
+* sft
+* remove add_model_tags bco
+* Remove unnecessary code for adding model tags
+* Fix model tag issue and update URL format
+* Remove unused code for adding model tags
+* Add citation for XPOTrainer
+* Remove unused code in SFTTrainer
+* Add model card generation in RLOOTrainer
+* Remove unused import and method call in reward_trainer.py
+* Add model card generation
+* Remove unused code and update error message in ORPOTrainer class
+* Add import statements and create model card in IterativeSFTTrainer
+* Add dataset name to push_to_hub\(\) call
+* Update trainer.push_to_hub\(\) dataset names
+* script args
+* test
+* better doc
+* fix tag test
+* fix test tag
+* Add tags parameter to create_model_card method
+* doc
+* script args
+* Update trl/templates/model_card.md
+Co-authored-by: lewtun <lewis.c.tunstall@gmail.com>
+* unittest's `assertIn` instead of `assert`
+* Update trl/templates/model_card.md
+Co-authored-by: lewtun <lewis.c.tunstall@gmail.com>
+---------
+Co-authored-by: lewtun <lewis.c.tunstall@gmail.com>")| Sep 27, 2024  
+[Makefile](/huggingface/trl/blob/main/Makefile "Makefile")| [Makefile](/huggingface/trl/blob/main/Makefile "Makefile")| [🕹️ CLI refactor (](/huggingface/trl/commit/ca850be0a265f985cd4ce6d24c6b1b6746116f4b "🕹️ CLI refactor \(#2380\)
+* Refactor main function in dpo.py
+* Update setup.py and add cli.py
+* Add examples to package data
+* style
+* Refactor setup.py file
+* Add new file t.py
+* Move dpo to package
+* Update MANIFEST.in and setup.py, refactor trl/cli.py
+* Add __init__.py to trl/scripts directory
+* Add license header to __init__.py
+* File moved instruction
+* Add Apache License and update file path
+* Move dpo.py to new location
+* Refactor CLI and DPO script
+* Refactor import structure in scripts package
+* env
+* rm config from chat arg
+* rm old cli
+* chat init
+* test cli \[skip ci\]
+* Add `datast_config_name` to `ScriptArguments` \(#2440\)
+* add missing arg
+* Add test cases for 'trl sft' and 'trl dpo' commands
+* Add sft.py script and update cli.py to include sft command
+* Move sft script
+* chat
+* style \[ci skip\]
+* kto
+* rm example config
+* first step on doc
+* see #2442
+* see #2443
+* fix chat windows
+* ©️ Copyrights update \(#2454\)
+* First changes
+* Other files
+* Finally
+* rm comment
+* fix nashmd
+* Fix example
+* Fix example \[ci skip\]
+* 💬 Fix chat for windows \(#2443\)
+* fix chat for windows
+* add some tests back
+* Revert "add some tests back"
+This reverts commit 350aef52f53f8cf34fccd7ad0f78a3dd63867e06.
+* 🆔 Add `datast_config` to `ScriptArguments` \(#2440\)
+* datast_config_name
+* Update trl/utils.py \[ci skip\]
+* sort import
+* typo \[ci skip\]
+* Trigger CI
+* Rename `dataset_config_name` to `dataset_config`
+* 🏎 Fix deepspeed preparation of `ref_model` in `OnlineDPOTrainer` \(#2417\)
+* Remove unused deepspeed code
+* add model prep back
+* add deepspeed even if it doesn't work
+* rm old code
+* Fix config name
+* Remove `make dev` in favor of `pip install -e .\[dev\]`
+* Update script paths and remove old symlink related things
+* Fix chat script path \[ci skip\]
+* style")[#2380](https://github.com/huggingface/trl/pull/2380)[)](/huggingface/trl/commit/ca850be0a265f985cd4ce6d24c6b1b6746116f4b "🕹️ CLI refactor \(#2380\)
+* Refactor main function in dpo.py
+* Update setup.py and add cli.py
+* Add examples to package data
+* style
+* Refactor setup.py file
+* Add new file t.py
+* Move dpo to package
+* Update MANIFEST.in and setup.py, refactor trl/cli.py
+* Add __init__.py to trl/scripts directory
+* Add license header to __init__.py
+* File moved instruction
+* Add Apache License and update file path
+* Move dpo.py to new location
+* Refactor CLI and DPO script
+* Refactor import structure in scripts package
+* env
+* rm config from chat arg
+* rm old cli
+* chat init
+* test cli \[skip ci\]
+* Add `datast_config_name` to `ScriptArguments` \(#2440\)
+* add missing arg
+* Add test cases for 'trl sft' and 'trl dpo' commands
+* Add sft.py script and update cli.py to include sft command
+* Move sft script
+* chat
+* style \[ci skip\]
+* kto
+* rm example config
+* first step on doc
+* see #2442
+* see #2443
+* fix chat windows
+* ©️ Copyrights update \(#2454\)
+* First changes
+* Other files
+* Finally
+* rm comment
+* fix nashmd
+* Fix example
+* Fix example \[ci skip\]
+* 💬 Fix chat for windows \(#2443\)
+* fix chat for windows
+* add some tests back
+* Revert "add some tests back"
+This reverts commit 350aef52f53f8cf34fccd7ad0f78a3dd63867e06.
+* 🆔 Add `datast_config` to `ScriptArguments` \(#2440\)
+* datast_config_name
+* Update trl/utils.py \[ci skip\]
+* sort import
+* typo \[ci skip\]
+* Trigger CI
+* Rename `dataset_config_name` to `dataset_config`
+* 🏎 Fix deepspeed preparation of `ref_model` in `OnlineDPOTrainer` \(#2417\)
+* Remove unused deepspeed code
+* add model prep back
+* add deepspeed even if it doesn't work
+* rm old code
+* Fix config name
+* Remove `make dev` in favor of `pip install -e .\[dev\]`
+* Update script paths and remove old symlink related things
+* Fix chat script path \[ci skip\]
+* style")| Dec 13, 2024  
+[README.md](/huggingface/trl/blob/main/README.md "README.md")| [README.md](/huggingface/trl/blob/main/README.md "README.md")| [🏞️ Proper dataset for documentation images (](/huggingface/trl/commit/5e204e1eaa5a66f6ade973306235eefdeff0a3ca "🏞️ Proper dataset for documentation images \(#2499\)
+* first images
+* almost all!
+* Final
+* Some were missing")[#2499](https://github.com/huggingface/trl/pull/2499)[)](/huggingface/trl/commit/5e204e1eaa5a66f6ade973306235eefdeff0a3ca "🏞️ Proper dataset for documentation images \(#2499\)
+* first images
+* almost all!
+* Final
+* Some were missing")| Dec 18, 2024  
+[pyproject.toml](/huggingface/trl/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/huggingface/trl/blob/main/pyproject.toml "pyproject.toml")| [🧹 Style (](/huggingface/trl/commit/5368be1e1e066e4d09acebe435c7cbbef65ad3de "🧹 Style \(#2132\)
+* drop `# flake8: noqa` in examples
+* `__init__.py`
+* fix init
+* unwrap_model_for_generation
+* ignore import violation in init")[#2132](https://github.com/huggingface/trl/pull/2132)[)](/huggingface/trl/commit/5368be1e1e066e4d09acebe435c7cbbef65ad3de "🧹 Style \(#2132\)
+* drop `# flake8: noqa` in examples
+* `__init__.py`
+* fix init
+* unwrap_model_for_generation
+* ignore import violation in init")| Sep 26, 2024  
+[requirements.txt](/huggingface/trl/blob/main/requirements.txt "requirements.txt")| [requirements.txt](/huggingface/trl/blob/main/requirements.txt "requirements.txt")| [🖇️ Better dependency and partitioning of CI tests (](/huggingface/trl/commit/06be6f409ac648b1f36d50849552a8dfce3d50d1 "🖇️ Better dependency and partitioning of CI tests \(#2298\)
+* clean deps
+* new tests
+* tests
+* Add tests without optional dependencies workflow
+* Update dependencies in tests.yml
+* cpu version of torch
+* Update dependencies and installation commands
+* Disable fail-fast in test workflow
+* Update test matrix in workflows file
+* try fix windows
+* Remove "rich" from required packages in setup.py
+* Update dependency installation in tests.yml
+* Add torch and deepspeed installation for windows-latest
+* Fix conditional statement in workflow file
+* Add torch and deepspeed installation for Windows
+* Fix if statement
+* Update torch and deepspeed dependencies
+* Update liger package requirement for non-Windows platforms
+* remove scipy dep
+* Add torch GPU requirement for testing_utils
+* Update trl/trainer/judges.py")[#2298](https://github.com/huggingface/trl/pull/2298)[)](/huggingface/trl/commit/06be6f409ac648b1f36d50849552a8dfce3d50d1 "🖇️ Better dependency and partitioning of CI tests \(#2298\)
+* clean deps
+* new tests
+* tests
+* Add tests without optional dependencies workflow
+* Update dependencies in tests.yml
+* cpu version of torch
+* Update dependencies and installation commands
+* Disable fail-fast in test workflow
+* Update test matrix in workflows file
+* try fix windows
+* Remove "rich" from required packages in setup.py
+* Update dependency installation in tests.yml
+* Add torch and deepspeed installation for windows-latest
+* Fix conditional statement in workflow file
+* Add torch and deepspeed installation for Windows
+* Fix if statement
+* Update torch and deepspeed dependencies
+* Update liger package requirement for non-Windows platforms
+* remove scipy dep
+* Add torch GPU requirement for testing_utils
+* Update trl/trainer/judges.py")| Oct 31, 2024  
+[setup.cfg](/huggingface/trl/blob/main/setup.cfg "setup.cfg")| [setup.cfg](/huggingface/trl/blob/main/setup.cfg "setup.cfg")| [FEAT: Add CLIs in TRL ! (](/huggingface/trl/commit/a2aa0f0b09671eaf81a945eb5e4913165fee92fa "FEAT: Add CLIs in TRL ! \(#1419\)
+* CLI V1
+* v1 CLI
+* add rich enhancmeents
+* revert unindented change
+* some comments
+* cleaner CLI
+* fix
+* fix
+* remove print callback
+* move to cli instead of trl_cli
+* revert unneeded changes
+* fix test
+* Update trl/commands/sft.py
+Co-authored-by: Leandro von Werra <lvwerra@users.noreply.github.com>
+* remove redundant strings
+* fix import issue
+* fix other issues
+* add packing
+* add config parser
+* some refactor
+* cleaner
+* add example config yaml file
+* small refactor
+* change a bit the logic
+* fix issues here and there
+* add CLI in docs
+* move to examples/sft
+* remove redundant licenses
+* make it work on dpo
+* set to None
+* switch to accelerate and fix many things
+* add docs
+* more docs
+* added tests
+* doc clarification
+* more docs
+* fix CI for windows and python 3.8
+* fix
+* attempt to fix CI
+* fix?
+* test
+* fix
+* tweak?
+* fix
+* test
+* another test
+* fix
+* test
+* fix
+* fix
+* fix
+* skip tests for windows
+* test @lvwerra approach
+* make dev
+* revert unneeded changes
+* fix sft dpo
+* optimize a bit
+* address final comments
+* update docs
+* final comment
+---------
+Co-authored-by: Leandro von Werra <lvwerra@users.noreply.github.com>")[#1419](https://github.com/huggingface/trl/pull/1419)[)](/huggingface/trl/commit/a2aa0f0b09671eaf81a945eb5e4913165fee92fa "FEAT: Add CLIs in TRL ! \(#1419\)
+* CLI V1
+* v1 CLI
+* add rich enhancmeents
+* revert unindented change
+* some comments
+* cleaner CLI
+* fix
+* fix
+* remove print callback
+* move to cli instead of trl_cli
+* revert unneeded changes
+* fix test
+* Update trl/commands/sft.py
+Co-authored-by: Leandro von Werra <lvwerra@users.noreply.github.com>
+* remove redundant strings
+* fix import issue
+* fix other issues
+* add packing
+* add config parser
+* some refactor
+* cleaner
+* add example config yaml file
+* small refactor
+* change a bit the logic
+* fix issues here and there
+* add CLI in docs
+* move to examples/sft
+* remove redundant licenses
+* make it work on dpo
+* set to None
+* switch to accelerate and fix many things
+* add docs
+* more docs
+* added tests
+* doc clarification
+* more docs
+* fix CI for windows and python 3.8
+* fix
+* attempt to fix CI
+* fix?
+* test
+* fix
+* tweak?
+* fix
+* test
+* another test
+* fix
+* test
+* fix
+* fix
+* fix
+* skip tests for windows
+* test @lvwerra approach
+* make dev
+* revert unneeded changes
+* fix sft dpo
+* optimize a bit
+* address final comments
+* update docs
+* final comment
+---------
+Co-authored-by: Leandro von Werra <lvwerra@users.noreply.github.com>")| Mar 18, 2024  
+[setup.py](/huggingface/trl/blob/main/setup.py "setup.py")| [setup.py](/huggingface/trl/blob/main/setup.py "setup.py")| [⚡ Add uv installation instructions (](/huggingface/trl/commit/a5c88d6c7508beb107219de7a656118ac4a36f1f "⚡ Add uv installation instructions \(#2601\)
+* add uv
+* Update docs/source/installation.mdx
+* Update docs/source/installation.mdx
+* pypi -> PyPI
+---------
+Co-authored-by: Quentin Gallouédec <45557362+qgallouedec@users.noreply.github.com>
+Co-authored-by: Quentin Gallouédec <quentin.gallouedec@huggingface.co>")[#2601](https://github.com/huggingface/trl/pull/2601)[)](/huggingface/trl/commit/a5c88d6c7508beb107219de7a656118ac4a36f1f "⚡ Add uv installation instructions \(#2601\)
+* add uv
+* Update docs/source/installation.mdx
+* Update docs/source/installation.mdx
+* pypi -> PyPI
+---------
+Co-authored-by: Quentin Gallouédec <45557362+qgallouedec@users.noreply.github.com>
+Co-authored-by: Quentin Gallouédec <quentin.gallouedec@huggingface.co>")| Jan 21, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [Apache-2.0 license](#)
+
+
+
+# TRL - Transformer Reinforcement Learning
+
+[](#trl---transformer-reinforcement-learning)
+
+[![TRL Banner](https://camo.githubusercontent.com/9585eb3e70c8138cbc0f73de7e970be4c668e957e45d16fc3ee6687fcc1da905/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f74726c2d6c69622f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f74726c5f62616e6e65725f6461726b2e706e67)](https://camo.githubusercontent.com/9585eb3e70c8138cbc0f73de7e970be4c668e957e45d16fc3ee6687fcc1da905/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f74726c2d6c69622f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f74726c5f62616e6e65725f6461726b2e706e67)
+
+A comprehensive library to post-train foundation models
+
+[](#----a-comprehensive-library-to-post-train-foundation-models)
+
+[![License](https://camo.githubusercontent.com/99b8018d502ee74bee76bfcd3a51609f880cbc2b2402a4a591051a2290b4577f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f68756767696e67666163652f74726c2e7376673f636f6c6f723d626c7565)](https://github.com/huggingface/trl/blob/main/LICENSE) [![Documentation](https://camo.githubusercontent.com/a9f4da9d12a7a0a9f25eca313c899474b6ba821144cd3c877dc21aaad1dcda01/68747470733a2f2f696d672e736869656c64732e696f2f776562736974652f687474702f68756767696e67666163652e636f2f646f63732f74726c2f696e6465782e7376673f646f776e5f636f6c6f723d72656426646f776e5f6d6573736167653d6f66666c696e652675705f636f6c6f723d626c75652675705f6d6573736167653d6f6e6c696e65)](https://huggingface.co/docs/trl/index) [![GitHub release](https://camo.githubusercontent.com/27936e2e5eb979a234030045b7ee31f33baf9fad0c88374717c97f1c20e02ab8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f68756767696e67666163652f74726c2e737667)](https://github.com/huggingface/trl/releases)
+
+## Overview
+
+[](#overview)
+
+TRL is a cutting-edge library designed for post-training foundation models using advanced techniques like Supervised Fine-Tuning (SFT), Proximal Policy Optimization (PPO), and Direct Preference Optimization (DPO). Built on top of the [🤗 Transformers](https://github.com/huggingface/transformers) ecosystem, TRL supports a variety of model architectures and modalities, and can be scaled-up across various hardware setups.
+
+## Highlights
+
+[](#highlights)
+
+  * **Efficient and scalable** :
+
+    * Leverages [🤗 Accelerate](https://github.com/huggingface/accelerate) to scale from single GPU to multi-node clusters using methods like DDP and DeepSpeed.
+    * Full integration with [`PEFT`](https://github.com/huggingface/peft) enables training on large models with modest hardware via quantization and LoRA/QLoRA.
+    * Integrates [Unsloth](https://github.com/unslothai/unsloth) for accelerating training using optimized kernels.
+  * **Command Line Interface (CLI)** : A simple interface lets you fine-tune and interact with models without needing to write code.
+
+  * **Trainers** : Various fine-tuning methods are easily accessible via trainers like [`SFTTrainer`](https://huggingface.co/docs/trl/sft_trainer), [`DPOTrainer`](https://huggingface.co/docs/trl/dpo_trainer), [`RewardTrainer`](https://huggingface.co/docs/trl/reward_trainer), [`ORPOTrainer`](https://huggingface.co/docs/trl/orpo_trainer) and more.
+
+  * **AutoModels** : Use pre-defined model classes like [`AutoModelForCausalLMWithValueHead`](https://huggingface.co/docs/trl/models#trl.AutoModelForCausalLMWithValueHead) to simplify reinforcement learning (RL) with LLMs.
+
+
+
+
+## Installation
+
+[](#installation)
+
+### Python Package
+
+[](#python-package)
+
+Install the library using `pip`:
+
+```
+pip install trl
+```
+
+### From source
+
+[](#from-source)
+
+If you want to use the latest features before an official release, you can install TRL from source:
+
+```
+pip install git+https://github.com/huggingface/trl.git
+```
+
+### Repository
+
+[](#repository)
+
+If you want to use the examples you can clone the repository with the following command:
+
+```
+git clone https://github.com/huggingface/trl.git
+```
+
+## Command Line Interface (CLI)
+
+[](#command-line-interface-cli)
+
+You can use the TRL Command Line Interface (CLI) to quickly get started with Supervised Fine-tuning (SFT) and Direct Preference Optimization (DPO), or vibe check your model with the chat CLI:
+
+**SFT:**
+
+```
+trl sft --model_name_or_path Qwen/Qwen2.5-0.5B \ --dataset_name trl-lib/Capybara \ --output_dir Qwen2.5-0.5B-SFT
+```
+
+**DPO:**
+
+```
+trl dpo --model_name_or_path Qwen/Qwen2.5-0.5B-Instruct \ --dataset_name argilla/Capybara-Preferences \ --output_dir Qwen2.5-0.5B-DPO 
+```
+
+**Chat:**
+
+```
+trl chat --model_name_or_path Qwen/Qwen2.5-0.5B-Instruct
+```
+
+Read more about CLI in the [relevant documentation section](https://huggingface.co/docs/trl/main/en/clis) or use `--help` for more details.
+
+## How to use
+
+[](#how-to-use)
+
+For more flexibility and control over training, TRL provides dedicated trainer classes to post-train language models or PEFT adapters on a custom dataset. Each trainer in TRL is a light wrapper around the 🤗 Transformers trainer and natively supports distributed training methods like DDP, DeepSpeed ZeRO, and FSDP.
+
+### `SFTTrainer`
+
+[](#sfttrainer)
+
+Here is a basic example of how to use the `SFTTrainer`:
+
+```
+from trl import SFTConfig, SFTTrainer from datasets import load_dataset dataset = load_dataset("trl-lib/Capybara", split="train") training_args = SFTConfig(output_dir="Qwen/Qwen2.5-0.5B-SFT") trainer = SFTTrainer( args=training_args, model="Qwen/Qwen2.5-0.5B", train_dataset=dataset, ) trainer.train()
+```
+
+### `RewardTrainer`
+
+[](#rewardtrainer)
+
+Here is a basic example of how to use the `RewardTrainer`:
+
+```
+from trl import RewardConfig, RewardTrainer from datasets import load_dataset from transformers import AutoModelForSequenceClassification, AutoTokenizer tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-0.5B-Instruct") model = AutoModelForSequenceClassification.from_pretrained( "Qwen/Qwen2.5-0.5B-Instruct", num_labels=1 ) model.config.pad_token_id = tokenizer.pad_token_id dataset = load_dataset("trl-lib/ultrafeedback_binarized", split="train") training_args = RewardConfig(output_dir="Qwen2.5-0.5B-Reward", per_device_train_batch_size=2) trainer = RewardTrainer( args=training_args, model=model, processing_class=tokenizer, train_dataset=dataset, ) trainer.train()
+```
+
+### `RLOOTrainer`
+
+[](#rlootrainer)
+
+`RLOOTrainer` implements a [REINFORCE-style optimization](https://huggingface.co/papers/2402.14740) for RLHF that is more performant and memory-efficient than PPO. Here is a basic example of how to use the `RLOOTrainer`:
+
+```
+from trl import RLOOConfig, RLOOTrainer, apply_chat_template from datasets import load_dataset from transformers import ( AutoModelForCausalLM, AutoModelForSequenceClassification, AutoTokenizer, ) tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-0.5B-Instruct") reward_model = AutoModelForSequenceClassification.from_pretrained( "Qwen/Qwen2.5-0.5B-Instruct", num_labels=1 ) ref_policy = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-0.5B-Instruct") policy = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-0.5B-Instruct") dataset = load_dataset("trl-lib/ultrafeedback-prompt") dataset = dataset.map(apply_chat_template, fn_kwargs={"tokenizer": tokenizer}) dataset = dataset.map(lambda x: tokenizer(x["prompt"]), remove_columns="prompt") training_args = RLOOConfig(output_dir="Qwen2.5-0.5B-RL") trainer = RLOOTrainer( config=training_args, processing_class=tokenizer, policy=policy, ref_policy=ref_policy, reward_model=reward_model, train_dataset=dataset["train"], eval_dataset=dataset["test"], ) trainer.train()
+```
+
+### `DPOTrainer`
+
+[](#dpotrainer)
+
+`DPOTrainer` implements the popular [Direct Preference Optimization (DPO) algorithm](https://huggingface.co/papers/2305.18290) that was used to post-train Llama 3 and many other models. Here is a basic example of how to use the `DPOTrainer`:
+
+```
+from datasets import load_dataset from transformers import AutoModelForCausalLM, AutoTokenizer from trl import DPOConfig, DPOTrainer model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-0.5B-Instruct") tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-0.5B-Instruct") dataset = load_dataset("trl-lib/ultrafeedback_binarized", split="train") training_args = DPOConfig(output_dir="Qwen2.5-0.5B-DPO") trainer = DPOTrainer(model=model, args=training_args, train_dataset=dataset, processing_class=tokenizer) trainer.train()
+```
+
+## Development
+
+[](#development)
+
+If you want to contribute to `trl` or customize it to your needs make sure to read the [contribution guide](https://github.com/huggingface/trl/blob/main/CONTRIBUTING.md) and make sure you make a dev install:
+
+```
+git clone https://github.com/huggingface/trl.git cd trl/ pip install -e .[dev]
+```
+
+## Citation
+
+[](#citation)
+
+```
+@misc{vonwerra2022trl, author = {Leandro von Werra and Younes Belkada and Lewis Tunstall and Edward Beeching and Tristan Thrush and Nathan Lambert and Shengyi Huang and Kashif Rasul and Quentin Gallouédec}, title = {TRL: Transformer Reinforcement Learning}, year = {2020}, publisher = {GitHub}, journal = {GitHub repository}, howpublished = {\url{https://github.com/huggingface/trl}} }
+```
+
+## License
+
+[](#license)
+
+This repository's source code is available under the [Apache-2.0 License](/huggingface/trl/blob/main/LICENSE).
+
+## About
+
+Train transformer language models with reinforcement learning. 
+
+[hf.co/docs/trl](http://hf.co/docs/trl "http://hf.co/docs/trl")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Citation
+
+Cite this repository 
+
+Loading
+
+Something went wrong. 
+
+[ Activity](/huggingface/trl/activity)
+
+[ Custom properties](/huggingface/trl/custom-properties)
+
+### Stars
+
+[ **10.7k** stars](/huggingface/trl/stargazers)
+
+### Watchers
+
+[ **78** watching](/huggingface/trl/watchers)
+
+### Forks
+
+[ **1.4k** forks](/huggingface/trl/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhuggingface%2Ftrl&report=huggingface+%28user%29)
+
+##  [Releases 46](/huggingface/trl/releases)
+
+[ v0.13.0 Latest  Dec 16, 2024 ](/huggingface/trl/releases/tag/v0.13.0)
+
+[+ 45 releases](/huggingface/trl/releases)
+
+##  [Packages 0](/orgs/huggingface/packages?repo_name=trl)
+
+No packages published 
+
+##  [Used by 5.5k](/huggingface/trl/network/dependents)
+
+[
+
+  * ![@maods2](https://avatars.githubusercontent.com/u/50838415?s=64&v=4)
+  * ![@cleonguyen](https://avatars.githubusercontent.com/u/195049806?s=64&v=4)
+  * ![@juan43ramirez](https://avatars.githubusercontent.com/u/43017198?s=64&v=4)
+  * ![@zahemen9900](https://avatars.githubusercontent.com/u/129889183?s=64&v=4)
+  * ![@Krupique](https://avatars.githubusercontent.com/u/30851656?s=64&v=4)
+  * ![@nsnithya](https://avatars.githubusercontent.com/u/1800314?s=64&v=4)
+  * ![@4gatepylon](https://avatars.githubusercontent.com/u/19270029?s=64&v=4)
+  * ![@pixas](https://avatars.githubusercontent.com/u/58799127?s=64&v=4)
+
++ 5,529  ](/huggingface/trl/network/dependents)
+
+##  [Contributors 278](/huggingface/trl/graphs/contributors)
+
+  * [ ![@younesbelkada](https://avatars.githubusercontent.com/u/49240599?s=64&v=4) ](https://github.com/younesbelkada)
+  * [ ![@qgallouedec](https://avatars.githubusercontent.com/u/45557362?s=64&v=4) ](https://github.com/qgallouedec)
+  * [ ![@lewtun](https://avatars.githubusercontent.com/u/26859204?s=64&v=4) ](https://github.com/lewtun)
+  * [ ![@kashif](https://avatars.githubusercontent.com/u/8100?s=64&v=4) ](https://github.com/kashif)
+  * [ ![@lvwerra](https://avatars.githubusercontent.com/u/8264887?s=64&v=4) ](https://github.com/lvwerra)
+  * [ ![@vwxyzjn](https://avatars.githubusercontent.com/u/5555347?s=64&v=4) ](https://github.com/vwxyzjn)
+  * [ ![@edbeeching](https://avatars.githubusercontent.com/u/7275864?s=64&v=4) ](https://github.com/edbeeching)
+  * [ ![@natolambert](https://avatars.githubusercontent.com/u/10695622?s=64&v=4) ](https://github.com/natolambert)
+  * [ ![@mnoukhov](https://avatars.githubusercontent.com/u/3391297?s=64&v=4) ](https://github.com/mnoukhov)
+  * [ ![@alvarobartt](https://avatars.githubusercontent.com/u/36760800?s=64&v=4) ](https://github.com/alvarobartt)
+  * [ ![@gaetanlop](https://avatars.githubusercontent.com/u/66413927?s=64&v=4) ](https://github.com/gaetanlop)
+  * [ ![@August-murr](https://avatars.githubusercontent.com/u/145011209?s=64&v=4) ](https://github.com/August-murr)
+  * [ ![@tomaarsen](https://avatars.githubusercontent.com/u/37621491?s=64&v=4) ](https://github.com/tomaarsen)
+  * [ ![@pacman100](https://avatars.githubusercontent.com/u/13534540?s=64&v=4) ](https://github.com/pacman100)
+
+
+
+[+ 264 contributors](/huggingface/trl/graphs/contributors)
+
+## Languages
+
+  * [ Python 99.4% ](/huggingface/trl/search?l=python)
+  * Other 0.6%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

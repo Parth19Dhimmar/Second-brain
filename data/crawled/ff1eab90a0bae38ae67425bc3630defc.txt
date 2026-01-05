@@ -1,0 +1,1279 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fkedro-org%2Fkedro%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fkedro-org%2Fkedro%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=kedro-org%2Fkedro) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ kedro-org ](/kedro-org) / **[kedro](/kedro-org/kedro) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fkedro-org%2Fkedro) You must be signed in to change notification settings
+  * [ Fork 916 ](/login?return_to=%2Fkedro-org%2Fkedro)
+  * [ Star  10.1k ](/login?return_to=%2Fkedro-org%2Fkedro)
+
+
+
+
+Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular. 
+
+[kedro.org](https://kedro.org "https://kedro.org")
+
+### License
+
+[ Apache-2.0 license ](/kedro-org/kedro/blob/main/LICENSE.md)
+
+[ 10.1k stars ](/kedro-org/kedro/stargazers) [ 916 forks ](/kedro-org/kedro/forks) [ Branches ](/kedro-org/kedro/branches) [ Tags ](/kedro-org/kedro/tags) [ Activity ](/kedro-org/kedro/activity)
+
+[ Star  ](/login?return_to=%2Fkedro-org%2Fkedro)
+
+[ Notifications ](/login?return_to=%2Fkedro-org%2Fkedro) You must be signed in to change notification settings
+
+  * [ Code ](/kedro-org/kedro)
+  * [ Issues 220 ](/kedro-org/kedro/issues)
+  * [ Pull requests 9 ](/kedro-org/kedro/pulls)
+  * [ Discussions ](/kedro-org/kedro/discussions)
+  * [ Actions ](/kedro-org/kedro/actions)
+  * [ Projects 2 ](/kedro-org/kedro/projects)
+  * [ Wiki ](/kedro-org/kedro/wiki)
+  * [ Security ](/kedro-org/kedro/security)
+  * [ Insights ](/kedro-org/kedro/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/kedro-org/kedro)
+  * [ Issues  ](/kedro-org/kedro/issues)
+  * [ Pull requests  ](/kedro-org/kedro/pulls)
+  * [ Discussions  ](/kedro-org/kedro/discussions)
+  * [ Actions  ](/kedro-org/kedro/actions)
+  * [ Projects  ](/kedro-org/kedro/projects)
+  * [ Wiki  ](/kedro-org/kedro/wiki)
+  * [ Security  ](/kedro-org/kedro/security)
+  * [ Insights  ](/kedro-org/kedro/pulse)
+
+
+
+# kedro-org/kedro
+
+main
+
+[**30** Branches](/kedro-org/kedro/branches)[**60** Tags](/kedro-org/kedro/tags)
+
+[](/kedro-org/kedro/branches)[](/kedro-org/kedro/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![merelcht](https://avatars.githubusercontent.com/u/49397448?v=4&size=40)](/merelcht)[merelcht](/kedro-org/kedro/commits?author=merelcht)[Fix flaky session and thread_runner tests (](/kedro-org/kedro/commit/5e81f547bf2d0c07bc99a47b63d773081bd1bcfb)[#4419](https://github.com/kedro-org/kedro/pull/4419)[)](/kedro-org/kedro/commit/5e81f547bf2d0c07bc99a47b63d773081bd1bcfb)Jan 16, 2025[5e81f54](/kedro-org/kedro/commit/5e81f547bf2d0c07bc99a47b63d773081bd1bcfb) · Jan 16, 2025
+
+## History
+
+[3,397 Commits](/kedro-org/kedro/commits/main/)[](/kedro-org/kedro/commits/main/)  
+[.github](/kedro-org/kedro/tree/main/.github ".github")| [.github](/kedro-org/kedro/tree/main/.github ".github")| [Renamed job (](/kedro-org/kedro/commit/f72d5cded31ba821c2c6cac93b28a5bd6ca46a5d "Renamed job \(#4411\)
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>")[#4411](https://github.com/kedro-org/kedro/pull/4411)[)](/kedro-org/kedro/commit/f72d5cded31ba821c2c6cac93b28a5bd6ca46a5d "Renamed job \(#4411\)
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>")| Jan 13, 2025  
+[docs](/kedro-org/kedro/tree/main/docs "docs")| [docs](/kedro-org/kedro/tree/main/docs "docs")| [Removed Output to a file docs section (](/kedro-org/kedro/commit/1536a2aa652b50fe4447a96dadadec8312698a4c "Removed Output to a file docs section \(#4421\)
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>")[#4421](https://github.com/kedro-org/kedro/pull/4421)[)](/kedro-org/kedro/commit/1536a2aa652b50fe4447a96dadadec8312698a4c "Removed Output to a file docs section \(#4421\)
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>")| Jan 14, 2025  
+[features](/kedro-org/kedro/tree/main/features "features")| [features](/kedro-org/kedro/tree/main/features "features")| [Change pyproject.toml on Kedro project template to be compatible with…](/kedro-org/kedro/commit/9464dc716c987ac0bcadba49aa97a4fa1ae18248 "Change pyproject.toml on Kedro project template to be compatible with `uv`, `rye`, `pdm` \(#4263\)
+* Changes to pyproject.toml template
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* add requires-python to pyproject.toml
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Failing test
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Change requirements.txt to -e .
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Revert
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Changes to pyproject.toml template
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* add requires-python to pyproject.toml
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Failing test
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Change requirements.txt to -e .
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Revert
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Formatting on cookiecutter placeholders on default template
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Add change to release notes
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Elaborate on release notes
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Update pyproject.toml on test_project
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Syntax issues
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Changes to pyproject.toml template
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* add requires-python to pyproject.toml
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Failing test
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Change requirements.txt to -e .
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Revert
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* add requires-python to pyproject.toml
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Failing test
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Change requirements.txt to -e .
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Revert
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Formatting on cookiecutter placeholders on default template
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Add change to release notes
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Elaborate on release notes
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Update pyproject.toml on test_project
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Syntax issues
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Fix accidentally removed line
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+* Fix duplicated line
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>
+---------
+Signed-off-by: Laura Couto <laurarccouto@gmail.com>")| Nov 13, 2024  
+[kedro](/kedro-org/kedro/tree/main/kedro "kedro")| [kedro](/kedro-org/kedro/tree/main/kedro "kedro")| [Add support for %load_ext kedro (](/kedro-org/kedro/commit/1ed504cf52067d516490e8118a7b602a498cd856 "Add support for %load_ext kedro \(#4406\)
+* initial test draft
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* initial test draft
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* fix lint
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update release note
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update type for ipython
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update type for ipython
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* fix lint
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* mypy ignore
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+---------
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>")[#4406](https://github.com/kedro-org/kedro/pull/4406)[)](/kedro-org/kedro/commit/1ed504cf52067d516490e8118a7b602a498cd856 "Add support for %load_ext kedro \(#4406\)
+* initial test draft
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* initial test draft
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* fix lint
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update release note
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update type for ipython
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update type for ipython
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* fix lint
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* mypy ignore
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+---------
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>")| Jan 15, 2025  
+[kedro_benchmarks](/kedro-org/kedro/tree/main/kedro_benchmarks "kedro_benchmarks")| [kedro_benchmarks](/kedro-org/kedro/tree/main/kedro_benchmarks "kedro_benchmarks")| [Refactor Runners, introduce](/kedro-org/kedro/commit/18bde07267263326ad783b61a1eeb7edccb32676 "Refactor Runners, introduce `Task` class \(#4206\)
+* Introduce task class + small refactoring
+* Merge in main and make release_datasets private
+* Fix session tests
+* Make Task runnable and call inside runners
+* Move helper methods from parallel runner to task
+* Mark run_node as deprecated
+* Refactor helper methods to go inside Task, making hook_manager an optional argument, and adding parallel as boolean flag
+---------
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+Signed-off-by: Merel Theisen <49397448+merelcht@users.noreply.github.com>
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>") `[Task](/kedro-org/kedro/commit/18bde07267263326ad783b61a1eeb7edccb32676 "Refactor Runners, introduce `Task` class \(#4206\)
+* Introduce task class + small refactoring
+* Merge in main and make release_datasets private
+* Fix session tests
+* Make Task runnable and call inside runners
+* Move helper methods from parallel runner to task
+* Mark run_node as deprecated
+* Refactor helper methods to go inside Task, making hook_manager an optional argument, and adding parallel as boolean flag
+---------
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+Signed-off-by: Merel Theisen <49397448+merelcht@users.noreply.github.com>
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>")` [class (](/kedro-org/kedro/commit/18bde07267263326ad783b61a1eeb7edccb32676 "Refactor Runners, introduce `Task` class \(#4206\)
+* Introduce task class + small refactoring
+* Merge in main and make release_datasets private
+* Fix session tests
+* Make Task runnable and call inside runners
+* Move helper methods from parallel runner to task
+* Mark run_node as deprecated
+* Refactor helper methods to go inside Task, making hook_manager an optional argument, and adding parallel as boolean flag
+---------
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+Signed-off-by: Merel Theisen <49397448+merelcht@users.noreply.github.com>
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>")[#4206](https://github.com/kedro-org/kedro/pull/4206)[)](/kedro-org/kedro/commit/18bde07267263326ad783b61a1eeb7edccb32676 "Refactor Runners, introduce `Task` class \(#4206\)
+* Introduce task class + small refactoring
+* Merge in main and make release_datasets private
+* Fix session tests
+* Make Task runnable and call inside runners
+* Move helper methods from parallel runner to task
+* Mark run_node as deprecated
+* Refactor helper methods to go inside Task, making hook_manager an optional argument, and adding parallel as boolean flag
+---------
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+Signed-off-by: Merel Theisen <49397448+merelcht@users.noreply.github.com>
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>")| Nov 1, 2024  
+[static](/kedro-org/kedro/tree/main/static "static")| [static](/kedro-org/kedro/tree/main/static "static")| [Update kedro-catalog-0.19.json (](/kedro-org/kedro/commit/0fc8089b637a0679f71e2bddc91f0676fc2914a2 "Update kedro-catalog-0.19.json \(#3724\)
+* Update kedro-catalog-0.19.json
+Signed-off-by: Anthony De Bortoli <anthony.debortoli@protonmail.com>
+* Update set_up_vscode.md
+Signed-off-by: Anthony De Bortoli <anthony.debortoli@protonmail.com>
+---------
+Signed-off-by: Anthony De Bortoli <anthony.debortoli@protonmail.com>")[#3724](https://github.com/kedro-org/kedro/pull/3724)[)](/kedro-org/kedro/commit/0fc8089b637a0679f71e2bddc91f0676fc2914a2 "Update kedro-catalog-0.19.json \(#3724\)
+* Update kedro-catalog-0.19.json
+Signed-off-by: Anthony De Bortoli <anthony.debortoli@protonmail.com>
+* Update set_up_vscode.md
+Signed-off-by: Anthony De Bortoli <anthony.debortoli@protonmail.com>
+---------
+Signed-off-by: Anthony De Bortoli <anthony.debortoli@protonmail.com>")| Mar 20, 2024  
+[tests](/kedro-org/kedro/tree/main/tests "tests")| [tests](/kedro-org/kedro/tree/main/tests "tests")| [Fix flaky session and thread_runner tests (](/kedro-org/kedro/commit/5e81f547bf2d0c07bc99a47b63d773081bd1bcfb "Fix flaky session and thread_runner tests \(#4419\)
+* Try fix flaky session test
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Try change test with mocking
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Change logs property
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Fix dict access
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Use dict only for flaky test
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Change number of workers
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Clean up
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Add other flaky test fix too
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Try fix flaky iteration
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* remove redundant list conversion
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Modify list differently
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Try rename variables
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* See what happens
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Set workers to 1
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+---------
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>")[#4419](https://github.com/kedro-org/kedro/pull/4419)[)](/kedro-org/kedro/commit/5e81f547bf2d0c07bc99a47b63d773081bd1bcfb "Fix flaky session and thread_runner tests \(#4419\)
+* Try fix flaky session test
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Try change test with mocking
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Change logs property
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Fix dict access
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Use dict only for flaky test
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Change number of workers
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Clean up
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Add other flaky test fix too
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Try fix flaky iteration
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* remove redundant list conversion
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Modify list differently
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Try rename variables
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* See what happens
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+* Set workers to 1
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>
+---------
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>")| Jan 16, 2025  
+[tools](/kedro-org/kedro/tree/main/tools "tools")| [tools](/kedro-org/kedro/tree/main/tools "tools")| [Remove duplicate tools/cli.py code (](/kedro-org/kedro/commit/9883223c9e03a58c2acc572ac65ce0d223d899ad "Remove duplicate tools/cli.py code \(#3961\)
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>")[#3961](https://github.com/kedro-org/kedro/pull/3961)[)](/kedro-org/kedro/commit/9883223c9e03a58c2acc572ac65ce0d223d899ad "Remove duplicate tools/cli.py code \(#3961\)
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>")| Jun 20, 2024  
+[.gitignore](/kedro-org/kedro/blob/main/.gitignore ".gitignore")| [.gitignore](/kedro-org/kedro/blob/main/.gitignore ".gitignore")| [Resolve all path in Kedro (](/kedro-org/kedro/commit/67a4df06c996b8f09e49d095780a234b6fb829d2 "Resolve all path in Kedro \(#3742\)
+* Kedro need more uv
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>
+* remove docker
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>
+* fix broken type hint and resolve project path
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* fix type hint
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* remove duplicate logic
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* adding nok.py is definitely an accident
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* fix test
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* remove print
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* add test
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>
+---------
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>")[#3742](https://github.com/kedro-org/kedro/pull/3742)[)](/kedro-org/kedro/commit/67a4df06c996b8f09e49d095780a234b6fb829d2 "Resolve all path in Kedro \(#3742\)
+* Kedro need more uv
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>
+* remove docker
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>
+* fix broken type hint and resolve project path
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* fix type hint
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* remove duplicate logic
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* adding nok.py is definitely an accident
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* fix test
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* remove print
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* add test
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>
+---------
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>")| Apr 2, 2024  
+[.gitpod.yml](/kedro-org/kedro/blob/main/.gitpod.yml ".gitpod.yml")| [.gitpod.yml](/kedro-org/kedro/blob/main/.gitpod.yml ".gitpod.yml")| [Kedro need more uv (](/kedro-org/kedro/commit/b77de75ca6d53d315727241309f71e187d948b48 "Kedro need more uv \(#3740\)
+* Kedro need more uv
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>
+* remove docker
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>
+---------
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>")[#3740](https://github.com/kedro-org/kedro/pull/3740)[)](/kedro-org/kedro/commit/b77de75ca6d53d315727241309f71e187d948b48 "Kedro need more uv \(#3740\)
+* Kedro need more uv
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>
+* remove docker
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>
+---------
+Signed-off-by: Nok <nok.lam.chan@quantumblack.com>")| Mar 27, 2024  
+[.pre-commit-config.yaml](/kedro-org/kedro/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/kedro-org/kedro/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Replace trufflehog with detect-secrets (](/kedro-org/kedro/commit/396a1f52e4770595bf300a644eff409dba7cdf00 "Replace trufflehog with detect-secrets \(#4404\)
+* Added secret-scan
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed trufflehog
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed secret scan pre-commit hook
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Added action to detect secrets
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Renamed scan command for GH action
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Detect secrets test
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed test check
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Updated release notes
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+---------
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>")[#4404](https://github.com/kedro-org/kedro/pull/4404)[)](/kedro-org/kedro/commit/396a1f52e4770595bf300a644eff409dba7cdf00 "Replace trufflehog with detect-secrets \(#4404\)
+* Added secret-scan
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed trufflehog
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed secret scan pre-commit hook
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Added action to detect secrets
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Renamed scan command for GH action
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Detect secrets test
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed test check
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Updated release notes
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+---------
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>")| Jan 9, 2025  
+[.readthedocs.yml](/kedro-org/kedro/blob/main/.readthedocs.yml ".readthedocs.yml")| [.readthedocs.yml](/kedro-org/kedro/blob/main/.readthedocs.yml ".readthedocs.yml")| [[Ready] Add Sphinx extension to reflect a page's last update time + a…](/kedro-org/kedro/commit/3fe6e49a7349415a612ab87469cd56b0f19d8091 "\[Ready\] Add Sphinx extension to reflect a page's last update time + add favicon \(#3547\)
+* First extension for last update date info
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Add favicon too
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+---------
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>")| Jan 31, 2024  
+[.secrets.baseline](/kedro-org/kedro/blob/main/.secrets.baseline ".secrets.baseline")| [.secrets.baseline](/kedro-org/kedro/blob/main/.secrets.baseline ".secrets.baseline")| [Replace trufflehog with detect-secrets (](/kedro-org/kedro/commit/396a1f52e4770595bf300a644eff409dba7cdf00 "Replace trufflehog with detect-secrets \(#4404\)
+* Added secret-scan
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed trufflehog
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed secret scan pre-commit hook
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Added action to detect secrets
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Renamed scan command for GH action
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Detect secrets test
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed test check
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Updated release notes
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+---------
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>")[#4404](https://github.com/kedro-org/kedro/pull/4404)[)](/kedro-org/kedro/commit/396a1f52e4770595bf300a644eff409dba7cdf00 "Replace trufflehog with detect-secrets \(#4404\)
+* Added secret-scan
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed trufflehog
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed secret scan pre-commit hook
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Added action to detect secrets
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Renamed scan command for GH action
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Detect secrets test
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed test check
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Updated release notes
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+---------
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>")| Jan 9, 2025  
+[.vale.ini](/kedro-org/kedro/blob/main/.vale.ini ".vale.ini")| [.vale.ini](/kedro-org/kedro/blob/main/.vale.ini ".vale.ini")| [Setup Vale linter as a GHA workflow (](/kedro-org/kedro/commit/7065cac70b5ab128314aa9c7e2ec84b5a5b3b660 "Setup Vale linter as a GHA workflow \(#2953\)
+* Add vale GHA
+Signed-off-by: Ankita Katiyar <ankitakatiyar2401@gmail.com>
+* Update condition
+Signed-off-by: Ankita Katiyar <ankitakatiyar2401@gmail.com>
+* Update .github/styles/Kedro/ignore.txt
+Co-authored-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* add some styles
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Remove styles for now
+Signed-off-by: Ankita Katiyar <ankitakatiyar2401@gmail.com>
+---------
+Signed-off-by: Ankita Katiyar <ankitakatiyar2401@gmail.com>
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+Co-authored-by: Jo Stichbury <jo_stichbury@mckinsey.com>")[#2953](https://github.com/kedro-org/kedro/pull/2953)[)](/kedro-org/kedro/commit/7065cac70b5ab128314aa9c7e2ec84b5a5b3b660 "Setup Vale linter as a GHA workflow \(#2953\)
+* Add vale GHA
+Signed-off-by: Ankita Katiyar <ankitakatiyar2401@gmail.com>
+* Update condition
+Signed-off-by: Ankita Katiyar <ankitakatiyar2401@gmail.com>
+* Update .github/styles/Kedro/ignore.txt
+Co-authored-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* add some styles
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Remove styles for now
+Signed-off-by: Ankita Katiyar <ankitakatiyar2401@gmail.com>
+---------
+Signed-off-by: Ankita Katiyar <ankitakatiyar2401@gmail.com>
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+Co-authored-by: Jo Stichbury <jo_stichbury@mckinsey.com>")| Aug 22, 2023  
+[CITATION.cff](/kedro-org/kedro/blob/main/CITATION.cff "CITATION.cff")| [CITATION.cff](/kedro-org/kedro/blob/main/CITATION.cff "CITATION.cff")| [Release 0.19.10 (](/kedro-org/kedro/commit/e2c241bb34cbfdcbe12a3a42e75a4a7d61cdb4a4 "Release 0.19.10 \(#4352\)
+* bump version to 0.19.10
+* update command ref
+* update 3.13 badge
+* add py313
+* merge main and update release note")[#4352](https://github.com/kedro-org/kedro/pull/4352)[)](/kedro-org/kedro/commit/e2c241bb34cbfdcbe12a3a42e75a4a7d61cdb4a4 "Release 0.19.10 \(#4352\)
+* bump version to 0.19.10
+* update command ref
+* update 3.13 badge
+* add py313
+* merge main and update release note")| Nov 26, 2024  
+[CODEOWNERS](/kedro-org/kedro/blob/main/CODEOWNERS "CODEOWNERS")| [CODEOWNERS](/kedro-org/kedro/blob/main/CODEOWNERS "CODEOWNERS")| [Remove](/kedro-org/kedro/commit/aa455cd522cb3baa55d5f1848232530e90919a6b "Remove @stichbury from docs codeowners \(#3645\)
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>") [@stichbury](https://github.com/stichbury) [from docs codeowners (](/kedro-org/kedro/commit/aa455cd522cb3baa55d5f1848232530e90919a6b "Remove @stichbury from docs codeowners \(#3645\)
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>")[#3645](https://github.com/kedro-org/kedro/pull/3645)[)](/kedro-org/kedro/commit/aa455cd522cb3baa55d5f1848232530e90919a6b "Remove @stichbury from docs codeowners \(#3645\)
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>")| Feb 22, 2024  
+[CODE_OF_CONDUCT.md](/kedro-org/kedro/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/kedro-org/kedro/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Fix contact method on Code of Conduct (](/kedro-org/kedro/commit/cdcd6652a023eae76c3a2cf531e55dd846685acb "Fix contact method on Code of Conduct \(#2479\)
+Signed-off-by: Juan Luis Cano Rodríguez <juan_luis_cano@mckinsey.com>")[#2479](https://github.com/kedro-org/kedro/pull/2479)[)](/kedro-org/kedro/commit/cdcd6652a023eae76c3a2cf531e55dd846685acb "Fix contact method on Code of Conduct \(#2479\)
+Signed-off-by: Juan Luis Cano Rodríguez <juan_luis_cano@mckinsey.com>")| Mar 29, 2023  
+[CONTRIBUTING.md](/kedro-org/kedro/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/kedro-org/kedro/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Add architecture graphic back to docs with revisions (](/kedro-org/kedro/commit/67ccff3342278303b743e9f996d819d45c70b91f "Add architecture graphic back to docs with revisions \(#2916\)
+* Revise FAQs and README
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Add back the data layers FAQ as I've no idea where else it fits
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* minor changes from review
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Re-add kedro arch diagram, with revised graphic
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* fix broken anchor
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* fix broken anchor
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Update docs/source/extend_kedro/architecture_overview.md
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* Update docs/source/extend_kedro/architecture_overview.md
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* Update docs/source/extend_kedro/architecture_overview.md
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* Update docs/source/extend_kedro/architecture_overview.md
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* Changes to architecture page following review
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Change diagram following reivew
+* Add links to API docs
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Added in type of users
+* Fix linting error
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+---------
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+Co-authored-by: Yetunde Dada <43755008+yetudada@users.noreply.github.com>")[#2916](https://github.com/kedro-org/kedro/pull/2916)[)](/kedro-org/kedro/commit/67ccff3342278303b743e9f996d819d45c70b91f "Add architecture graphic back to docs with revisions \(#2916\)
+* Revise FAQs and README
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Add back the data layers FAQ as I've no idea where else it fits
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* minor changes from review
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Re-add kedro arch diagram, with revised graphic
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* fix broken anchor
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* fix broken anchor
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Update docs/source/extend_kedro/architecture_overview.md
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* Update docs/source/extend_kedro/architecture_overview.md
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* Update docs/source/extend_kedro/architecture_overview.md
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* Update docs/source/extend_kedro/architecture_overview.md
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+* Changes to architecture page following review
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Change diagram following reivew
+* Add links to API docs
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+* Added in type of users
+* Fix linting error
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+---------
+Signed-off-by: Jo Stichbury <jo_stichbury@mckinsey.com>
+Co-authored-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>
+Co-authored-by: Yetunde Dada <43755008+yetudada@users.noreply.github.com>")| Aug 18, 2023  
+[LICENSE.md](/kedro-org/kedro/blob/main/LICENSE.md "LICENSE.md")| [LICENSE.md](/kedro-org/kedro/blob/main/LICENSE.md "LICENSE.md")| [Revert to GitHub Apache 2.0 license template (](/kedro-org/kedro/commit/055ae0ba6fd1aa6f2ae6330f4d8e860cc11fc36d "Revert to GitHub Apache 2.0 license template \(#1287\)")[#1287](https://github.com/kedro-org/kedro/discussions/1287)[)](/kedro-org/kedro/commit/055ae0ba6fd1aa6f2ae6330f4d8e860cc11fc36d "Revert to GitHub Apache 2.0 license template \(#1287\)")| Nov 4, 2021  
+[MANIFEST.in](/kedro-org/kedro/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](/kedro-org/kedro/blob/main/MANIFEST.in "MANIFEST.in")| [Make it possible to use Kedro after uninstalling Rich. (](/kedro-org/kedro/commit/a53500afe5cd9739362b066e24771cd26b0c63bb "Make it possible to use Kedro after uninstalling Rich. \(#3838\)
+* attempt to configure fallback logger
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Set up fallback for logging on the logging function itself
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Update kedro/logging.py
+Co-authored-by: Sajid Alam <90610031+SajidAlamQB@users.noreply.github.com>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Changes to rich variable on logging
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* attempt to configure fallback logger
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Set up fallback for logging on the logging function itself
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Update kedro/logging.py
+Co-authored-by: Sajid Alam <90610031+SajidAlamQB@users.noreply.github.com>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Changes to rich variable on logging
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* adapt default logging
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Update kedro/logging.py
+Co-authored-by: Juan Luis Cano Rodríguez <juan_luis_cano@mckinsey.com>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Create separate logging config file for rich
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Hello linter my old friend
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Alternative for rich in kedro ipython
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Remove unnecessary try/except block
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Update pyproject.toml
+Co-authored-by: Juan Luis Cano Rodríguez <juan_luis_cano@mckinsey.com>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Resolve merge conflict
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Fix config file paths
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Update kedro/ipython/__init__.py
+Co-authored-by: Deepyaman Datta <deepyaman.datta@utexas.edu>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Update kedro/ipython/__init__.py
+Co-authored-by: Deepyaman Datta <deepyaman.datta@utexas.edu>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Prevent kedro ipython from reimporting rich multiple times
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Logging config
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Change test config
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Remove ' yEs ' tests
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Tests to cover ipython changes
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Add test for import
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Ignore test coverage on import try/except
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Unpin cookiecutter version
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Add changes to documentation
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Update RELEASE.md
+Co-authored-by: Merel Theisen <49397448+merelcht@users.noreply.github.com>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Change RICH variable name to RICH_INTALLED
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Add info about uninstalling rich on logging doc page
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+---------
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+Co-authored-by: Sajid Alam <90610031+SajidAlamQB@users.noreply.github.com>
+Co-authored-by: Juan Luis Cano Rodríguez <juan_luis_cano@mckinsey.com>
+Co-authored-by: Deepyaman Datta <deepyaman.datta@utexas.edu>
+Co-authored-by: Merel Theisen <49397448+merelcht@users.noreply.github.com>")[#3838](https://github.com/kedro-org/kedro/pull/3838)[)](/kedro-org/kedro/commit/a53500afe5cd9739362b066e24771cd26b0c63bb "Make it possible to use Kedro after uninstalling Rich. \(#3838\)
+* attempt to configure fallback logger
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Set up fallback for logging on the logging function itself
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Update kedro/logging.py
+Co-authored-by: Sajid Alam <90610031+SajidAlamQB@users.noreply.github.com>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Changes to rich variable on logging
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* attempt to configure fallback logger
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Set up fallback for logging on the logging function itself
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Update kedro/logging.py
+Co-authored-by: Sajid Alam <90610031+SajidAlamQB@users.noreply.github.com>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Changes to rich variable on logging
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* adapt default logging
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Update kedro/logging.py
+Co-authored-by: Juan Luis Cano Rodríguez <juan_luis_cano@mckinsey.com>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Create separate logging config file for rich
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Hello linter my old friend
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Alternative for rich in kedro ipython
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Remove unnecessary try/except block
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Update pyproject.toml
+Co-authored-by: Juan Luis Cano Rodríguez <juan_luis_cano@mckinsey.com>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Resolve merge conflict
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Fix config file paths
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Update kedro/ipython/__init__.py
+Co-authored-by: Deepyaman Datta <deepyaman.datta@utexas.edu>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Update kedro/ipython/__init__.py
+Co-authored-by: Deepyaman Datta <deepyaman.datta@utexas.edu>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Prevent kedro ipython from reimporting rich multiple times
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Logging config
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Change test config
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Remove ' yEs ' tests
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Tests to cover ipython changes
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Add test for import
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Ignore test coverage on import try/except
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Lint
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Unpin cookiecutter version
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Add changes to documentation
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Update RELEASE.md
+Co-authored-by: Merel Theisen <49397448+merelcht@users.noreply.github.com>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+* Change RICH variable name to RICH_INTALLED
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+* Add info about uninstalling rich on logging doc page
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+---------
+Signed-off-by: lrcouto <laurarccouto@gmail.com>
+Signed-off-by: L. R. Couto <57910428+lrcouto@users.noreply.github.com>
+Co-authored-by: Sajid Alam <90610031+SajidAlamQB@users.noreply.github.com>
+Co-authored-by: Juan Luis Cano Rodríguez <juan_luis_cano@mckinsey.com>
+Co-authored-by: Deepyaman Datta <deepyaman.datta@utexas.edu>
+Co-authored-by: Merel Theisen <49397448+merelcht@users.noreply.github.com>")| May 21, 2024  
+[Makefile](/kedro-org/kedro/blob/main/Makefile "Makefile")| [Makefile](/kedro-org/kedro/blob/main/Makefile "Makefile")| [Replace trufflehog with detect-secrets (](/kedro-org/kedro/commit/396a1f52e4770595bf300a644eff409dba7cdf00 "Replace trufflehog with detect-secrets \(#4404\)
+* Added secret-scan
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed trufflehog
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed secret scan pre-commit hook
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Added action to detect secrets
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Renamed scan command for GH action
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Detect secrets test
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed test check
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Updated release notes
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+---------
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>")[#4404](https://github.com/kedro-org/kedro/pull/4404)[)](/kedro-org/kedro/commit/396a1f52e4770595bf300a644eff409dba7cdf00 "Replace trufflehog with detect-secrets \(#4404\)
+* Added secret-scan
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed trufflehog
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed secret scan pre-commit hook
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Added action to detect secrets
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Renamed scan command for GH action
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Detect secrets test
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Removed test check
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+* Updated release notes
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>
+---------
+Signed-off-by: Elena Khaustova <ymax70rus@gmail.com>")| Jan 9, 2025  
+[README.md](/kedro-org/kedro/blob/main/README.md "README.md")| [README.md](/kedro-org/kedro/blob/main/README.md "README.md")| [Release 0.19.10 (](/kedro-org/kedro/commit/e2c241bb34cbfdcbe12a3a42e75a4a7d61cdb4a4 "Release 0.19.10 \(#4352\)
+* bump version to 0.19.10
+* update command ref
+* update 3.13 badge
+* add py313
+* merge main and update release note")[#4352](https://github.com/kedro-org/kedro/pull/4352)[)](/kedro-org/kedro/commit/e2c241bb34cbfdcbe12a3a42e75a4a7d61cdb4a4 "Release 0.19.10 \(#4352\)
+* bump version to 0.19.10
+* update command ref
+* update 3.13 badge
+* add py313
+* merge main and update release note")| Nov 26, 2024  
+[RELEASE.md](/kedro-org/kedro/blob/main/RELEASE.md "RELEASE.md")| [RELEASE.md](/kedro-org/kedro/blob/main/RELEASE.md "RELEASE.md")| [Add support for %load_ext kedro (](/kedro-org/kedro/commit/1ed504cf52067d516490e8118a7b602a498cd856 "Add support for %load_ext kedro \(#4406\)
+* initial test draft
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* initial test draft
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* fix lint
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update release note
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update type for ipython
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update type for ipython
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* fix lint
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* mypy ignore
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+---------
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>")[#4406](https://github.com/kedro-org/kedro/pull/4406)[)](/kedro-org/kedro/commit/1ed504cf52067d516490e8118a7b602a498cd856 "Add support for %load_ext kedro \(#4406\)
+* initial test draft
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* initial test draft
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* fix lint
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update release note
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update type for ipython
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update type for ipython
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* fix lint
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* mypy ignore
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+---------
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>")| Jan 15, 2025  
+[SECURITY.md](/kedro-org/kedro/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md](/kedro-org/kedro/blob/main/SECURITY.md "SECURITY.md")| [Create SECURITY.md (](/kedro-org/kedro/commit/12bb1dd23855454a0e18a67843fc88540cc2eaf8 "Create SECURITY.md \(#3698\)
+* Create SECURITY.md
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>")[#3698](https://github.com/kedro-org/kedro/pull/3698)[)](/kedro-org/kedro/commit/12bb1dd23855454a0e18a67843fc88540cc2eaf8 "Create SECURITY.md \(#3698\)
+* Create SECURITY.md
+Signed-off-by: Merel Theisen <merel.theisen@quantumblack.com>")| Mar 14, 2024  
+[asv.conf.json](/kedro-org/kedro/blob/main/asv.conf.json "asv.conf.json")| [asv.conf.json](/kedro-org/kedro/blob/main/asv.conf.json "asv.conf.json")| [Update asv.conf.json (](/kedro-org/kedro/commit/974c517cc212cf479107d6d2dbb2ebba26e20d06 "Update asv.conf.json \(#4269\)
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>")[#4269](https://github.com/kedro-org/kedro/pull/4269)[)](/kedro-org/kedro/commit/974c517cc212cf479107d6d2dbb2ebba26e20d06 "Update asv.conf.json \(#4269\)
+Signed-off-by: Nok Lam Chan <nok.lam.chan@quantumblack.com>")| Oct 31, 2024  
+[behave.ini](/kedro-org/kedro/blob/main/behave.ini "behave.ini")| [behave.ini](/kedro-org/kedro/blob/main/behave.ini "behave.ini")| [First commit of version 0.14](/kedro-org/kedro/commit/d3218bd89ce8d1148b1f79dfe589065f47037be6 "First commit of version 0.14")| May 16, 2019  
+[kedro_technical_charter.pdf](/kedro-org/kedro/blob/main/kedro_technical_charter.pdf "kedro_technical_charter.pdf")| [kedro_technical_charter.pdf](/kedro-org/kedro/blob/main/kedro_technical_charter.pdf "kedro_technical_charter.pdf")| [Setup Technical Steering Committee (](/kedro-org/kedro/commit/acc1e2d4cfaa11d216a9d27eca1e38e9e3ce7b8a "Setup Technical Steering Committee \(#1201\)
+* Add technical charter and contribution guidelines
+Signed-off-by: Yetunde Dada <yetudada@users.noreply.github.com>
+Co-authored-by: Yetunde Dada <yetudada@users.noreply.github.com>
+Co-authored-by: Merel Theisen <49397448+MerelTheisenQB@users.noreply.github.com>
+Co-authored-by: Lorena Bălan <lorena.balan@quantumblack.com>
+Co-authored-by: Ivan Danov <idanov@users.noreply.github.com>")[#1201](https://github.com/kedro-org/kedro/pull/1201)[)](/kedro-org/kedro/commit/acc1e2d4cfaa11d216a9d27eca1e38e9e3ce7b8a "Setup Technical Steering Committee \(#1201\)
+* Add technical charter and contribution guidelines
+Signed-off-by: Yetunde Dada <yetudada@users.noreply.github.com>
+Co-authored-by: Yetunde Dada <yetudada@users.noreply.github.com>
+Co-authored-by: Merel Theisen <49397448+MerelTheisenQB@users.noreply.github.com>
+Co-authored-by: Lorena Bălan <lorena.balan@quantumblack.com>
+Co-authored-by: Ivan Danov <idanov@users.noreply.github.com>")| Feb 18, 2022  
+[pyproject.toml](/kedro-org/kedro/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/kedro-org/kedro/blob/main/pyproject.toml "pyproject.toml")| [Add support for %load_ext kedro (](/kedro-org/kedro/commit/1ed504cf52067d516490e8118a7b602a498cd856 "Add support for %load_ext kedro \(#4406\)
+* initial test draft
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* initial test draft
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* fix lint
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update release note
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update type for ipython
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update type for ipython
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* fix lint
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* mypy ignore
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+---------
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>")[#4406](https://github.com/kedro-org/kedro/pull/4406)[)](/kedro-org/kedro/commit/1ed504cf52067d516490e8118a7b602a498cd856 "Add support for %load_ext kedro \(#4406\)
+* initial test draft
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* initial test draft
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* fix lint
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update release note
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update type for ipython
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* update type for ipython
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* fix lint
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+* mypy ignore
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>
+---------
+Signed-off-by: ravi_kumar_pilla <ravi_kumar_pilla@mckinsey.com>")| Jan 15, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [Apache-2.0 license](#)
+  * [Security](#)
+
+
+
+![Kedro](https://raw.githubusercontent.com/kedro-org/kedro/main/.github/demo-light.png)
+
+[![Python version](https://camo.githubusercontent.com/9f151187ffe261aa2f949a066260af1c5dc944f7c515a4cc30748cc03858e485/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332e39253230253743253230332e3130253230253743253230332e3131253230253743253230332e3132253230253743253230332e31332d626c75652e737667)](https://pypi.org/project/kedro/) [![PyPI version](https://camo.githubusercontent.com/5be626db5a5e19e376784fa4b83feb610ed291626005853cbbae8188c7cf4078/68747470733a2f2f62616467652e667572792e696f2f70792f6b6564726f2e737667)](https://pypi.org/project/kedro/) [![Conda version](https://camo.githubusercontent.com/7571520fdf61ff43ac2fb4be64bc137daa9d8db268e587a5a4b331194eb5239f/68747470733a2f2f696d672e736869656c64732e696f2f636f6e64612f766e2f636f6e64612d666f7267652f6b6564726f2e737667)](https://anaconda.org/conda-forge/kedro) [![License](https://camo.githubusercontent.com/c355f200ea90fddaa407b6eaab303663a669248ea3ca7b1fcf77dbe04ff5f48c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d417061636865253230322e302d626c75652e737667)](https://github.com/kedro-org/kedro/blob/main/LICENSE.md) [![Slack Organisation](https://camo.githubusercontent.com/474e87ec7fc31da5d52618b790501c8b83db52ff666cebd4461450cb9e2ada78/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736c61636b2d636861742d626c756576696f6c65742e7376673f6c6162656c3d4b6564726f253230536c61636b266c6f676f3d736c61636b)](https://slack.kedro.org) [![Slack Archive](https://camo.githubusercontent.com/1fa7a28ba0941fae036a005d890d2c6880d51f0d126f2761273c9e42f2c1d42e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736c61636b2d617263686976652d626c756576696f6c65742e7376673f6c6162656c3d4b6564726f253230536c61636b253230)](https://linen-slack.kedro.org/) [![GitHub Actions Workflow Status - Main](https://camo.githubusercontent.com/4cbc320710cfdb051ada5e5868b85bdf3c70c5a77222639e82d06e18371a43ef/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6b6564726f2d6f72672f6b6564726f2f616c6c2d636865636b732e796d6c3f6c6162656c3d6d61696e)](https://camo.githubusercontent.com/4cbc320710cfdb051ada5e5868b85bdf3c70c5a77222639e82d06e18371a43ef/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6b6564726f2d6f72672f6b6564726f2f616c6c2d636865636b732e796d6c3f6c6162656c3d6d61696e) [![GitHub Actions Workflow Status - Develop](https://camo.githubusercontent.com/a8382667eaef214514497cef224f89fd92622fbe244042014084aeff2f19f3ba/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6b6564726f2d6f72672f6b6564726f2f616c6c2d636865636b732e796d6c3f6272616e63683d646576656c6f70266c6162656c3d646576656c6f70)](https://camo.githubusercontent.com/a8382667eaef214514497cef224f89fd92622fbe244042014084aeff2f19f3ba/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6b6564726f2d6f72672f6b6564726f2f616c6c2d636865636b732e796d6c3f6272616e63683d646576656c6f70266c6162656c3d646576656c6f70) [![Documentation](https://camo.githubusercontent.com/6c293deb289676f9d6472c15a250f74cfb834d4cd0e2b547ce5712861fc4ce7c/68747470733a2f2f72656164746865646f63732e6f72672f70726f6a656374732f6b6564726f2f62616467652f3f76657273696f6e3d737461626c65)](https://docs.kedro.org/) [![OpenSSF Best Practices](https://camo.githubusercontent.com/cd6b63bf31fbde15824d2b9b75837c4a9e5c256956db882e833bac7b1c1a240a/68747470733a2f2f626573747072616374696365732e636f7265696e6672617374727563747572652e6f72672f70726f6a656374732f363731312f6261646765)](https://bestpractices.coreinfrastructure.org/projects/6711) [![Monthly downloads](https://camo.githubusercontent.com/79d8da3e3df326a9ce2591774737ae64a1dcc766b2f95aa078de01ec3929582c/68747470733a2f2f7374617469632e706570792e746563682f62616467652f6b6564726f2f6d6f6e7468)](https://pepy.tech/project/kedro) [![Total downloads](https://camo.githubusercontent.com/ec41a37c31f392d84d00d603759ccf12ea9eab9d3b0405b46c7b155702deae11/68747470733a2f2f7374617469632e706570792e746563682f62616467652f6b6564726f)](https://pepy.tech/project/kedro)
+
+[![Powered by Kedro](https://camo.githubusercontent.com/83d38171bffd5f937a363bb83437ae6fbe6a238b6ad19fd80cd2b2f4501fa373/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f77657265645f62792d6b6564726f2d6666633930303f6c6f676f3d6b6564726f)](https://kedro.org)
+
+## What is Kedro?
+
+[](#what-is-kedro)
+
+Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular. You can find out more at [kedro.org](https://kedro.org).
+
+Kedro is an open-source Python framework hosted by the [LF AI & Data Foundation](https://lfaidata.foundation/).
+
+## How do I install Kedro?
+
+[](#how-do-i-install-kedro)
+
+To install Kedro from the Python Package Index (PyPI) run:
+
+```
+`pip install kedro `
+```
+
+It is also possible to install Kedro using `conda`:
+
+```
+`conda install -c conda-forge kedro `
+```
+
+Our [Get Started guide](https://docs.kedro.org/en/stable/get_started/install.html) contains full installation instructions, and includes how to set up Python virtual environments.
+
+### Installation from source
+
+[](#installation-from-source)
+
+To access the latest Kedro version before its official release, install it from the `main` branch.
+
+```
+`pip install git+https://github.com/kedro-org/kedro@main `
+```
+
+## What are the main features of Kedro?
+
+[](#what-are-the-main-features-of-kedro)
+
+Feature | What is this?  
+---|---  
+Project Template | A standard, modifiable and easy-to-use project template based on [Cookiecutter Data Science](https://github.com/drivendata/cookiecutter-data-science/).  
+Data Catalog | A series of lightweight data connectors used to save and load data across many different file formats and file systems, including local and network file systems, cloud object stores, and HDFS. The Data Catalog also includes data and model versioning for file-based systems.  
+Pipeline Abstraction | Automatic resolution of dependencies between pure Python functions and data pipeline visualisation using [Kedro-Viz](https://github.com/kedro-org/kedro-viz).  
+Coding Standards | Test-driven development using [`pytest`](https://github.com/pytest-dev/pytest), produce well-documented code using [Sphinx](http://www.sphinx-doc.org/en/master/), create linted code with support for [`ruff`](https://github.com/astral-sh/ruff) and make use of the standard Python logging library.  
+Flexible Deployment | Deployment strategies that include single or distributed-machine deployment as well as additional support for deploying on Argo, Prefect, Kubeflow, AWS Batch, and Databricks.  
+  
+## How do I use Kedro?
+
+[](#how-do-i-use-kedro)
+
+The [Kedro documentation](https://docs.kedro.org/en/stable/) first explains [how to install Kedro](https://docs.kedro.org/en/stable/get_started/install.html) and then introduces [key Kedro concepts](https://docs.kedro.org/en/stable/get_started/kedro_concepts.html).
+
+You can then review the [spaceflights tutorial](https://docs.kedro.org/en/stable/tutorial/spaceflights_tutorial.html) to build a Kedro project for hands-on experience.
+
+For new and intermediate Kedro users, there's a comprehensive section on [how to visualise Kedro projects using Kedro-Viz](https://docs.kedro.org/en/stable/visualisation/index.html).
+
+[![](https://raw.githubusercontent.com/kedro-org/kedro-viz/main/.github/img/banner.png)](https://raw.githubusercontent.com/kedro-org/kedro-viz/main/.github/img/banner.png) _A pipeline visualisation generated using Kedro-Viz_
+
+Additional documentation explains [how to work with Kedro and Jupyter notebooks](https://docs.kedro.org/en/stable/notebooks_and_ipython/index.html), and there are a set of advanced user guides for advanced for key Kedro features. We also recommend the [API reference documentation](/kedro-org/kedro/blob/main/kedro) for further information.
+
+## Why does Kedro exist?
+
+[](#why-does-kedro-exist)
+
+Kedro is built upon our collective best-practice (and mistakes) trying to deliver real-world ML applications that have vast amounts of raw unvetted data. We developed Kedro to achieve the following:
+
+  * To address the main shortcomings of Jupyter notebooks, one-off scripts, and glue-code because there is a focus on creating **maintainable data science code**
+  * To enhance **team collaboration** when different team members have varied exposure to software engineering concepts
+  * To increase efficiency, because applied concepts like modularity and separation of concerns inspire the creation of **reusable analytics code**
+
+
+
+Find out more about how Kedro can answer your use cases from the [product FAQs on the Kedro website](https://kedro.org/#faq).
+
+## The humans behind Kedro
+
+[](#the-humans-behind-kedro)
+
+The [Kedro product team](https://docs.kedro.org/en/stable/contribution/technical_steering_committee.html#kedro-maintainers) and a number of [open source contributors from across the world](https://github.com/kedro-org/kedro/releases) maintain Kedro.
+
+## Can I contribute?
+
+[](#can-i-contribute)
+
+Yes! We welcome all kinds of contributions. Check out our [guide to contributing to Kedro](https://github.com/kedro-org/kedro/wiki/Contribute-to-Kedro).
+
+## Where can I learn more?
+
+[](#where-can-i-learn-more)
+
+There is a growing community around Kedro. We encourage you to ask and answer technical questions on [Slack](https://slack.kedro.org/) and bookmark the [Linen archive of past discussions](https://linen-slack.kedro.org/).
+
+We keep a list of [technical FAQs in the Kedro documentation](https://docs.kedro.org/en/stable/faq/faq.html) and you can find a growing list of blog posts, videos and projects that use Kedro over on the [`awesome-kedro` GitHub repository](https://github.com/kedro-org/awesome-kedro). If you have created anything with Kedro we'd love to include it on the list. Just make a PR to add it!
+
+## How can I cite Kedro?
+
+[](#how-can-i-cite-kedro)
+
+If you're an academic, Kedro can also help you, for example, as a tool to solve the problem of reproducible research. Use the "Cite this repository" button on [our repository](https://github.com/kedro-org/kedro) to generate a citation from the [CITATION.cff file](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files).
+
+## Python version support policy
+
+[](#python-version-support-policy)
+
+  * The core [Kedro Framework](https://github.com/kedro-org/kedro) supports all Python versions that are actively maintained by the CPython core team. When a [Python version reaches end of life](https://devguide.python.org/versions/#versions), support for that version is dropped from Kedro. This is not considered a breaking change.
+  * The [Kedro Datasets](https://github.com/kedro-org/kedro-plugins/tree/main/kedro-datasets) package follows the [NEP 29](https://numpy.org/neps/nep-0029-deprecation_policy.html) Python version support policy. This means that `kedro-datasets` generally drops Python version support before `kedro`. This is because `kedro-datasets` has a lot of dependencies that follow NEP 29 and the more conservative version support approach of the Kedro Framework makes it hard to manage those dependencies properly.
+
+
+
+## ☕️ Kedro Coffee Chat 🔶
+
+[](#️-kedro-coffee-chat-)
+
+We appreciate our community and want to stay connected. For that, we offer a public Coffee Chat format where we share updates and cool stuff around Kedro once every two weeks and give you time to ask your questions live.
+
+Check out the upcoming demo topics and dates at the [Kedro Coffee Chat wiki page](https://github.com/kedro-org/kedro/wiki/Kedro-Coffee-Chat).
+
+Follow our Slack [announcement channel](https://kedro-org.slack.com/archives/C03RKAQ0MGQ) to see Kedro Coffee Chat announcements and access demo recordings.
+
+## About
+
+Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular. 
+
+[kedro.org](https://kedro.org "https://kedro.org")
+
+### Topics
+
+[ python ](/topics/python "Topic: python") [ machine-learning ](/topics/machine-learning "Topic: machine-learning") [ pipeline ](/topics/pipeline "Topic: pipeline") [ hacktoberfest ](/topics/hacktoberfest "Topic: hacktoberfest") [ machine-learning-engineering ](/topics/machine-learning-engineering "Topic: machine-learning-engineering") [ mlops ](/topics/mlops "Topic: mlops") [ kedro ](/topics/kedro "Topic: kedro") [ experiment-tracking ](/topics/experiment-tracking "Topic: experiment-tracking")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+### Citation
+
+Cite this repository 
+
+Loading
+
+Something went wrong. 
+
+[ Activity](/kedro-org/kedro/activity)
+
+[ Custom properties](/kedro-org/kedro/custom-properties)
+
+### Stars
+
+[ **10.1k** stars](/kedro-org/kedro/stargazers)
+
+### Watchers
+
+[ **110** watching](/kedro-org/kedro/watchers)
+
+### Forks
+
+[ **916** forks](/kedro-org/kedro/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fkedro-org%2Fkedro&report=kedro-org+%28user%29)
+
+##  [Releases 55](/kedro-org/kedro/releases)
+
+[ 0.19.10 Latest  Nov 26, 2024 ](/kedro-org/kedro/releases/tag/0.19.10)
+
+[+ 54 releases](/kedro-org/kedro/releases)
+
+##  [Used by 2.7k](/kedro-org/kedro/network/dependents)
+
+[
+
+  * ![@daviseemann](https://avatars.githubusercontent.com/u/6035208?s=64&v=4)
+  * ![@taytaybear](https://avatars.githubusercontent.com/u/189316835?s=64&v=4)
+  * ![@rick-62](https://avatars.githubusercontent.com/u/11626460?s=64&v=4)
+  * ![@magicdragon919](https://avatars.githubusercontent.com/u/192167019?s=64&v=4)
+  * ![@rashidakanchwala](https://avatars.githubusercontent.com/u/37628668?s=64&v=4)
+  * ![@everycure-org](https://avatars.githubusercontent.com/u/162148032?s=64&v=4)
+  * ![@Rohanrn9882](https://avatars.githubusercontent.com/u/105193321?s=64&v=4)
+  * ![@daviseemann](https://avatars.githubusercontent.com/u/6035208?s=64&v=4)
+
++ 2,735  ](/kedro-org/kedro/network/dependents)
+
+##  [Contributors 229](/kedro-org/kedro/graphs/contributors)
+
+  * [ ![@merelcht](https://avatars.githubusercontent.com/u/49397448?s=64&v=4) ](https://github.com/merelcht)
+  * [ ![@lorenabalan](https://avatars.githubusercontent.com/u/6642900?s=64&v=4) ](https://github.com/lorenabalan)
+  * [ ![@noklam](https://avatars.githubusercontent.com/u/18221871?s=64&v=4) ](https://github.com/noklam)
+  * [ ![@stichbury](https://avatars.githubusercontent.com/u/5180475?s=64&v=4) ](https://github.com/stichbury)
+  * [ ![@deepyaman](https://avatars.githubusercontent.com/u/14007150?s=64&v=4) ](https://github.com/deepyaman)
+  * [ ![@idanov](https://avatars.githubusercontent.com/u/3482916?s=64&v=4) ](https://github.com/idanov)
+  * [ ![@antonymilne](https://avatars.githubusercontent.com/u/49395058?s=64&v=4) ](https://github.com/antonymilne)
+  * [ ![@ankatiyar](https://avatars.githubusercontent.com/u/110245118?s=64&v=4) ](https://github.com/ankatiyar)
+  * [ ![@921kiyo](https://avatars.githubusercontent.com/u/8097799?s=64&v=4) ](https://github.com/921kiyo)
+  * [ ![@limdauto](https://avatars.githubusercontent.com/u/2032984?s=64&v=4) ](https://github.com/limdauto)
+  * [ ![@astrojuanlu](https://avatars.githubusercontent.com/u/316517?s=64&v=4) ](https://github.com/astrojuanlu)
+  * [ ![@SajidAlamQB](https://avatars.githubusercontent.com/u/90610031?s=64&v=4) ](https://github.com/SajidAlamQB)
+  * [ ![@andrii-ivaniuk](https://avatars.githubusercontent.com/u/24272541?s=64&v=4) ](https://github.com/andrii-ivaniuk)
+  * [ ![@yetudada](https://avatars.githubusercontent.com/u/43755008?s=64&v=4) ](https://github.com/yetudada)
+
+
+
+[+ 215 contributors](/kedro-org/kedro/graphs/contributors)
+
+## Languages
+
+  * [ Python 98.5% ](/kedro-org/kedro/search?l=python)
+  * Other 1.5%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

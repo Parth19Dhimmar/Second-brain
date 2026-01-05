@@ -1,0 +1,1657 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ffmind%2Fmlops-python-package%2Ftree%2Fmain%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ffmind%2Fmlops-python-package%2Ftree%2Fmain%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=fmind%2Fmlops-python-package) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ fmind ](/fmind) / **[mlops-python-package](/fmind/mlops-python-package) ** Public
+
+  * [ Notifications ](/login?return_to=%2Ffmind%2Fmlops-python-package) You must be signed in to change notification settings
+  * [ Fork 143 ](/login?return_to=%2Ffmind%2Fmlops-python-package)
+  * [ Star  944 ](/login?return_to=%2Ffmind%2Fmlops-python-package)
+
+
+
+
+Kickstart your MLOps initiative with a flexible, robust, and productive Python package. 
+
+[fmind.github.io/mlops-python-package/](https://fmind.github.io/mlops-python-package/ "https://fmind.github.io/mlops-python-package/")
+
+### License
+
+[ MIT license ](/fmind/mlops-python-package/blob/main/LICENSE.txt)
+
+[ 944 stars ](/fmind/mlops-python-package/stargazers) [ 143 forks ](/fmind/mlops-python-package/forks) [ Branches ](/fmind/mlops-python-package/branches) [ Tags ](/fmind/mlops-python-package/tags) [ Activity ](/fmind/mlops-python-package/activity)
+
+[ Star  ](/login?return_to=%2Ffmind%2Fmlops-python-package)
+
+[ Notifications ](/login?return_to=%2Ffmind%2Fmlops-python-package) You must be signed in to change notification settings
+
+  * [ Code ](/fmind/mlops-python-package)
+  * [ Issues 0 ](/fmind/mlops-python-package/issues)
+  * [ Pull requests 1 ](/fmind/mlops-python-package/pulls)
+  * [ Actions ](/fmind/mlops-python-package/actions)
+  * [ Security ](/fmind/mlops-python-package/security)
+  * [ Insights ](/fmind/mlops-python-package/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/fmind/mlops-python-package)
+  * [ Issues  ](/fmind/mlops-python-package/issues)
+  * [ Pull requests  ](/fmind/mlops-python-package/pulls)
+  * [ Actions  ](/fmind/mlops-python-package/actions)
+  * [ Security  ](/fmind/mlops-python-package/security)
+  * [ Insights  ](/fmind/mlops-python-package/pulse)
+
+
+
+# fmind/mlops-python-package
+
+main
+
+[**4** Branches](/fmind/mlops-python-package/branches)[**13** Tags](/fmind/mlops-python-package/tags)
+
+[](/fmind/mlops-python-package/branches)[](/fmind/mlops-python-package/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![fmind](https://avatars.githubusercontent.com/u/3929438?v=4&size=40)](/fmind)[fmind](/fmind/mlops-python-package/commits?author=fmind)[Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c)[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c)Dec 14, 2024[f16d240](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c) · Dec 14, 2024
+
+## History
+
+[44 Commits](/fmind/mlops-python-package/commits/main/)[](/fmind/mlops-python-package/commits/main/)  
+[.github](/fmind/mlops-python-package/tree/main/.github ".github")| [.github](/fmind/mlops-python-package/tree/main/.github ".github")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[confs](/fmind/mlops-python-package/tree/main/confs "confs")| [confs](/fmind/mlops-python-package/tree/main/confs "confs")| [Observability (](/fmind/mlops-python-package/commit/be5bf88dc792886f5e36ee2fdd4f07c20e4926b3 "Observability \(#15\)")[#15](https://github.com/fmind/mlops-python-package/pull/15)[)](/fmind/mlops-python-package/commit/be5bf88dc792886f5e36ee2fdd4f07c20e4926b3 "Observability \(#15\)")| Jul 23, 2024  
+[data](/fmind/mlops-python-package/tree/main/data "data")| [data](/fmind/mlops-python-package/tree/main/data "data")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[docs](/fmind/mlops-python-package/tree/main/docs "docs")| [docs](/fmind/mlops-python-package/tree/main/docs "docs")| [Initial commit](/fmind/mlops-python-package/commit/618b83a0f1d8f218d131a8f415e95a44929654af "Initial commit")| Jun 23, 2023  
+[notebooks](/fmind/mlops-python-package/tree/main/notebooks "notebooks")| [notebooks](/fmind/mlops-python-package/tree/main/notebooks "notebooks")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[outputs](/fmind/mlops-python-package/tree/main/outputs "outputs")| [outputs](/fmind/mlops-python-package/tree/main/outputs "outputs")| [Release v0.2.0](/fmind/mlops-python-package/commit/09cc69e809a935bc92b657fb8afff2a339f6bb97 "Release v0.2.0")| Feb 11, 2024  
+[src/bikes](/fmind/mlops-python-package/tree/main/src/bikes "This path skips through empty directories")| [src/bikes](/fmind/mlops-python-package/tree/main/src/bikes "This path skips through empty directories")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[tasks](/fmind/mlops-python-package/tree/main/tasks "tasks")| [tasks](/fmind/mlops-python-package/tree/main/tasks "tasks")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[tests](/fmind/mlops-python-package/tree/main/tests "tests")| [tests](/fmind/mlops-python-package/tree/main/tests "tests")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[.cruft.json](/fmind/mlops-python-package/blob/main/.cruft.json ".cruft.json")| [.cruft.json](/fmind/mlops-python-package/blob/main/.cruft.json ".cruft.json")| [feat(cruft): adopt cruft and link it to cookiecutter-mlops-package](/fmind/mlops-python-package/commit/302800ce27881e2a8def2367aa1e087c57a5cbe2 "feat\(cruft\): adopt cruft and link it to cookiecutter-mlops-package
+BREAKING CHANGE:")| Jul 28, 2024  
+[.gitignore](/fmind/mlops-python-package/blob/main/.gitignore ".gitignore")| [.gitignore](/fmind/mlops-python-package/blob/main/.gitignore ".gitignore")| [v0.7.0 (](/fmind/mlops-python-package/commit/7be3a29637d839599d5788398391feebcb2740d3 "v0.7.0 \(#8\)")[#8](https://github.com/fmind/mlops-python-package/pull/8)[)](/fmind/mlops-python-package/commit/7be3a29637d839599d5788398391feebcb2740d3 "v0.7.0 \(#8\)")| Mar 16, 2024  
+[.pre-commit-config.yaml](/fmind/mlops-python-package/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/fmind/mlops-python-package/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[.python-version](/fmind/mlops-python-package/blob/main/.python-version ".python-version")| [.python-version](/fmind/mlops-python-package/blob/main/.python-version ".python-version")| [breath ...](/fmind/mlops-python-package/commit/cd7542a9e2fe7fb11be907a088c53401cb6e8b13 "breath ...")| Feb 6, 2024  
+[CHANGELOG.md](/fmind/mlops-python-package/blob/main/CHANGELOG.md "CHANGELOG.md")| [CHANGELOG.md](/fmind/mlops-python-package/blob/main/CHANGELOG.md "CHANGELOG.md")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[CODE_OF_CONDUCT.md](/fmind/mlops-python-package/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/fmind/mlops-python-package/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Create CODE_OF_CONDUCT.md](/fmind/mlops-python-package/commit/babe0f827e10d043e64c38fed800c097330e402c "Create CODE_OF_CONDUCT.md")| Feb 27, 2024  
+[Dockerfile](/fmind/mlops-python-package/blob/main/Dockerfile "Dockerfile")| [Dockerfile](/fmind/mlops-python-package/blob/main/Dockerfile "Dockerfile")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[LICENSE.txt](/fmind/mlops-python-package/blob/main/LICENSE.txt "LICENSE.txt")| [LICENSE.txt](/fmind/mlops-python-package/blob/main/LICENSE.txt "LICENSE.txt")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[MLproject](/fmind/mlops-python-package/blob/main/MLproject "MLproject")| [MLproject](/fmind/mlops-python-package/blob/main/MLproject "MLproject")| [Observability (](/fmind/mlops-python-package/commit/be5bf88dc792886f5e36ee2fdd4f07c20e4926b3 "Observability \(#15\)")[#15](https://github.com/fmind/mlops-python-package/pull/15)[)](/fmind/mlops-python-package/commit/be5bf88dc792886f5e36ee2fdd4f07c20e4926b3 "Observability \(#15\)")| Jul 23, 2024  
+[README.md](/fmind/mlops-python-package/blob/main/README.md "README.md")| [README.md](/fmind/mlops-python-package/blob/main/README.md "README.md")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[docker-compose.yml](/fmind/mlops-python-package/blob/main/docker-compose.yml "docker-compose.yml")| [docker-compose.yml](/fmind/mlops-python-package/blob/main/docker-compose.yml "docker-compose.yml")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[invoke.yaml](/fmind/mlops-python-package/blob/main/invoke.yaml "invoke.yaml")| [invoke.yaml](/fmind/mlops-python-package/blob/main/invoke.yaml "invoke.yaml")| [feat(cruft): adopt cruft and link it to cookiecutter-mlops-package](/fmind/mlops-python-package/commit/302800ce27881e2a8def2367aa1e087c57a5cbe2 "feat\(cruft\): adopt cruft and link it to cookiecutter-mlops-package
+BREAKING CHANGE:")| Jul 28, 2024  
+[mlops-python-package.code-workspace](/fmind/mlops-python-package/blob/main/mlops-python-package.code-workspace "mlops-python-package.code-workspace")| [mlops-python-package.code-workspace](/fmind/mlops-python-package/blob/main/mlops-python-package.code-workspace "mlops-python-package.code-workspace")| [v0.9.0 (](/fmind/mlops-python-package/commit/63c42434088720cd8dc62027c77d5d39657f6f8e "v0.9.0 \(#11\)")[#11](https://github.com/fmind/mlops-python-package/pull/11)[)](/fmind/mlops-python-package/commit/63c42434088720cd8dc62027c77d5d39657f6f8e "v0.9.0 \(#11\)")| Mar 19, 2024  
+[pyproject.toml](/fmind/mlops-python-package/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/fmind/mlops-python-package/blob/main/pyproject.toml "pyproject.toml")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[python_env.yaml](/fmind/mlops-python-package/blob/main/python_env.yaml "python_env.yaml")| [python_env.yaml](/fmind/mlops-python-package/blob/main/python_env.yaml "python_env.yaml")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[requirements.txt](/fmind/mlops-python-package/blob/main/requirements.txt "requirements.txt")| [requirements.txt](/fmind/mlops-python-package/blob/main/requirements.txt "requirements.txt")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+[uv.lock](/fmind/mlops-python-package/blob/main/uv.lock "uv.lock")| [uv.lock](/fmind/mlops-python-package/blob/main/uv.lock "uv.lock")| [Release/v3.0.0 (](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")[#31](https://github.com/fmind/mlops-python-package/pull/31)[)](/fmind/mlops-python-package/commit/f16d240dabf0c16012a7a2adce5d76428a25624c "Release/v3.0.0 \(#31\)")| Dec 14, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [MIT license](#)
+
+
+
+# MLOps Python Package
+
+[](#mlops-python-package)
+
+[![check.yml](https://github.com/fmind/mlops-python-package/actions/workflows/check.yml/badge.svg)](https://github.com/fmind/mlops-python-package/actions/workflows/check.yml) [![publish.yml](https://github.com/fmind/mlops-python-package/actions/workflows/publish.yml/badge.svg)](https://github.com/fmind/mlops-python-package/actions/workflows/publish.yml) [![Documentation](https://camo.githubusercontent.com/251f10d0f9b855a4e73c586408ec216d9b8f8d9811bfe16663fd9e10f67c667b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63756d656e746174696f6e2d617661696c61626c652d627269676874677265656e2e737667)](https://fmind.github.io/mlops-python-package/) [![License](https://camo.githubusercontent.com/56182833ebd0f942b34461fd4f099d8a29d392d22d7a1fdba6c36fa3f04d17cc/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f666d696e642f6d6c6f70732d707974686f6e2d7061636b616765)](https://github.com/fmind/mlops-python-package/blob/main/LICENCE.txt) [![Release](https://camo.githubusercontent.com/cc73bef87346ec4bbb4c2860de9fd98e847f82ed76fb499467285a680bf61f86/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f666d696e642f6d6c6f70732d707974686f6e2d7061636b616765)](https://github.com/fmind/mlops-python-package/releases)
+
+**This repository contains a Python code base with best practices designed to support your MLOps initiatives.**
+
+The package leverages several [tools](#tools) and [tips](#tips) to make your MLOps experience as flexible, robust, productive as possible.
+
+You can use this package as part of your MLOps toolkit or platform (e.g., Model Registry, Experiment Tracking, Realtime Inference, ...).
+
+**Related Resources** :
+
+  * **[LLMOps Coding Package (Example)](https://github.com/callmesora/llmops-python-package/)** : Example with best practices and tools to support your LLMOps projects.
+  * **[MLOps Coding Course (Learning)](https://github.com/MLOps-Courses/mlops-coding-course)** : Learn how to create, develop, and maintain a state-of-the-art MLOps code base.
+  * **[Cookiecutter MLOps Package (Template)](https://github.com/fmind/cookiecutter-mlops-package)** : Start building and deploying Python packages and Docker images for MLOps tasks.
+
+
+
+# Table of Contents
+
+[](#table-of-contents)
+
+  * [MLOps Python Package](#mlops-python-package)
+  * [Table of Contents](#table-of-contents)
+  * [Install](#install)
+    * [Prerequisites](#prerequisites)
+    * [Installation](#installation)
+    * [Next Steps](#next-steps)
+  * [Usage](#usage)
+    * [Configuration](#configuration)
+    * [Execution](#execution)
+    * [Automation](#automation)
+    * [Workflows](#workflows)
+  * [Tools](#tools)
+    * [Automation](#automation-1)
+      * [Commits: Commitizen](#commits-commitizen)
+      * [Git Hooks: Pre-Commit](#git-hooks-pre-commit)
+      * [Tasks: PyInvoke](#tasks-pyinvoke)
+    * [CI/CD](#cicd)
+      * [Runner: GitHub Actions](#runner-github-actions)
+    * [CLI](#cli)
+      * [Parser: Argparse](#parser-argparse)
+      * [Logging: Loguru](#logging-loguru)
+    * [Code](#code)
+      * [Coverage: Coverage](#coverage-coverage)
+      * [Editor: VS Code](#editor-vs-code)
+      * [Formatting: Ruff](#formatting-ruff)
+      * [Quality: Ruff](#quality-ruff)
+      * [Security: Bandit](#security-bandit)
+      * [Testing: Pytest](#testing-pytest)
+      * [Typing: Mypy](#typing-mypy)
+      * [Versioning: Git](#versioning-git)
+    * [Configs](#configs)
+      * [Format: YAML](#format-yaml)
+      * [Parser: OmegaConf](#parser-omegaconf)
+      * [Reader: Cloudpathlib](#reader-cloudpathlib)
+      * [Validator: Pydantic](#validator-pydantic)
+    * [Data](#data)
+      * [Container: Pandas](#container-pandas)
+      * [Format: Parquet](#format-parquet)
+      * [Schema: Pandera](#schema-pandera)
+    * [Docs](#docs)
+      * [API: pdoc](#api-pdoc)
+      * [Format: Google](#format-google)
+      * [Hosting: GitHub Pages](#hosting-github-pages)
+    * [Model](#model)
+      * [Evaluation: Scikit-Learn Metrics](#evaluation-scikit-learn-metrics)
+      * [Format: Mlflow Model](#format-mlflow-model)
+      * [Registry: Mlflow Registry](#registry-mlflow-registry)
+      * [Tracking: Mlflow Tracking](#tracking-mlflow-tracking)
+    * [Package](#package)
+      * [Evolution: Changelog](#evolution-changelog)
+      * [Format: Wheel](#format-wheel)
+      * [Manager: uv](#manager-uv)
+      * [Runtime: Docker](#runtime-docker)
+    * [Programming](#programming)
+      * [Language: Python](#language-python)
+      * [Version: Pyenv](#version-pyenv)
+    * [Observability](#observability)
+      * [Reproducibility: Mlflow Project](#reproducibility-mlflow-project)
+      * [Monitoring : Mlflow Evaluate](#monitoring--mlflow-evaluate)
+      * [Alerting: Plyer](#alerting-plyer)
+      * [Lineage: Mlflow Dataset](#lineage-mlflow-dataset)
+      * [Explainability: SHAP](#explainability-shap)
+      * [Infrastructure: Mlflow System Metrics](#infrastructure-mlflow-system-metrics)
+  * [Tips](#tips)
+    * [AI/ML Practices](#aiml-practices)
+      * [Data Catalog](#data-catalog)
+      * [Hyperparameter Optimization](#hyperparameter-optimization)
+      * [Data Splits](#data-splits)
+    * [Design Patterns](#design-patterns)
+      * [Directed-Acyclic Graph](#directed-acyclic-graph)
+      * [Program Service](#program-service)
+      * [Soft Coding](#soft-coding)
+      * [SOLID Principles](#solid-principles)
+      * [IO Separation](#io-separation)
+    * [Python Powers](#python-powers)
+      * [Context Manager](#context-manager)
+      * [Python Package](#python-package)
+    * [Software Engineering](#software-engineering)
+      * [Code Typing](#code-typing)
+      * [Config Typing](#config-typing)
+      * [Dataframe Typing](#dataframe-typing)
+      * [Object Oriented](#object-oriented)
+      * [Semantic Versioning](#semantic-versioning)
+    * [Testing Tricks](#testing-tricks)
+      * [Parallel Testing](#parallel-testing)
+      * [Test Fixtures](#test-fixtures)
+    * [VS Code](#vs-code)
+      * [Code Workspace](#code-workspace)
+      * [GitHub Copilot](#github-copilot)
+      * [VSCode VIM](#vscode-vim)
+  * [Resources](#resources)
+    * [Python](#python)
+    * [AI/ML/MLOps](#aimlmlops)
+
+
+
+# Install
+
+[](#install)
+
+This section details the requirements, actions, and next steps to kickstart your MLOps project.
+
+## Prerequisites
+
+[](#prerequisites)
+
+  * [Python>=3.12](https://www.python.org/downloads/): to benefit from [the latest features and performance improvements](https://docs.python.org/3/whatsnew/3.12.html)
+  * [uv>=0.5.5](https://docs.astral.sh/uv/): to initialize the project [virtual environment](https://docs.python.org/3/library/venv.html) and its dependencies
+
+
+
+## Installation
+
+[](#installation)
+
+  1. [Clone this GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) on your computer
+
+
+
+```
+# with ssh (recommended) $ git clone git@github.com:fmind/mlops-python-package # with https $ git clone https://github.com/fmind/mlops-python-package
+```
+
+  1. [Run the project installation with uv](https://docs.astral.sh/uv/)
+
+
+
+```
+$ cd mlops-python-package/ $ uv sync
+```
+
+  1. Adapt the code base to your desire
+
+
+
+## Next Steps
+
+[](#next-steps)
+
+Going from there, there are dozens of ways to integrate this package to your MLOps platform.
+
+For instance, you can use Databricks or AWS as your compute platform and model registry.
+
+It's up to you to adapt the package code to the solution you target. Good luck champ!
+
+# Usage
+
+[](#usage)
+
+This section explains how configure the project code and execute it on your system.
+
+## Configuration
+
+[](#configuration)
+
+You can add or edit config files in the `confs/` folder to change the program behavior.
+
+```
+# confs/training.yaml job: KIND: TrainingJob inputs: KIND: ParquetReader path: data/inputs_train.parquet targets: KIND: ParquetReader path: data/targets_train.parquet
+```
+
+This config file instructs the program to start a `TrainingJob` with 2 parameters:
+
+  * `inputs`: dataset that contains the model inputs
+  * `targets`: dataset that contains the model target
+
+
+
+You can find all the parameters of your program in the `src/[package]/jobs/*.py` files.
+
+You can also print the full schema supported by this package using `uv run bikes --schema`.
+
+## Execution
+
+[](#execution)
+
+The project code can be executed with uv during your development:
+
+```
+$ uv run [package] confs/tuning.yaml $ uv run [package] confs/training.yaml $ uv run [package] confs/promotion.yaml $ uv run [package] confs/inference.yaml $ uv run [package] confs/evaluations.yaml $ uv run [package] confs/explanations.yaml
+```
+
+In production, you can build, ship, and run the project as a Python package:
+
+```
+uv build uv publish # optional python -m pip install [package] [package] confs/inference.yaml
+```
+
+You can also install and use this package as a library for another AI/ML project:
+
+```
+from [package] import jobs job = jobs.TrainingJob(...) with job as runner: runner.run()
+```
+
+**Additional tips** :
+
+  * You can pass extra configs from the command line using the `--extras` flag 
+    * Use it to pass runtime values (e.g., a result from previous job executions)
+  * You can pass several config files in the command-line to merge them from left to right 
+    * You can define common configurations shared between jobs (e.g., model params)
+  * The right job task will be selected automatically thanks to [Pydantic Discriminated Unions](https://docs.pydantic.dev/latest/concepts/unions/#discriminated-unions)
+    * This is a great way to run any job supported by the application (training, tuning, ...)
+
+
+
+## Automation
+
+[](#automation)
+
+This project includes several automation tasks to easily repeat common actions.
+
+You can invoke the actions from the [command-line](https://www.pyinvoke.org/) or [VS Code extension](https://marketplace.visualstudio.com/items?itemName=dchanco.vsc-invoke).
+
+```
+# execute the project DAG $ inv projects # create a code archive $ inv packages # list other actions $ inv --list
+```
+
+**Available tasks** :
+
+  * **checks.all (checks)** - Run all check tasks.
+  * **checks.code** - Check the codes with ruff.
+  * **checks.coverage** - Check the coverage with coverage.
+  * **checks.format** - Check the formats with ruff.
+  * **checks.security** - Check the security with bandit.
+  * **checks.test** - Check the tests with pytest.
+  * **checks.type** - Check the types with mypy.
+  * **cleans.all (cleans)** - Run all tools and folders tasks.
+  * **cleans.cache** - Clean the cache folder.
+  * **cleans.coverage** - Clean the coverage tool.
+  * **cleans.dist** - Clean the dist folder.
+  * **cleans.docs** - Clean the docs folder.
+  * **cleans.environment** - Clean the project environment file.
+  * **cleans.folders** - Run all folders tasks.
+  * **cleans.mlruns** - Clean the mlruns folder.
+  * **cleans.mypy** - Clean the mypy tool.
+  * **cleans.outputs** - Clean the outputs folder.
+  * **cleans.projects** - Run all projects tasks.
+  * **cleans.pytest** - Clean the pytest tool.
+  * **cleans.python** - Clean python caches and bytecodes.
+  * **cleans.requirements** - Clean the project requirements file.
+  * **cleans.reset** - Run all tools, folders, and sources tasks.
+  * **cleans.ruff** - Clean the ruff tool.
+  * **cleans.sources** - Run all sources tasks.
+  * **cleans.tools** - Run all tools tasks.
+  * **cleans.uv** - Clean uv lock file.
+  * **cleans.venv** - Clean the venv folder.
+  * **commits.all (commits)** - Run all commit tasks.
+  * **commits.bump** - Bump the version of the package.
+  * **commits.commit** - Commit all changes with a message.
+  * **commits.info** - Print a guide for messages.
+  * **containers.all (containers)** - Run all container tasks.
+  * **containers.build** - Build the container image with the given tag.
+  * **containers.compose** - Start up docker compose.
+  * **containers.run** - Run the container image with the given tag.
+  * **docs.all (docs)** - Run all docs tasks.
+  * **docs.api** - Document the API with pdoc using the given format and output directory.
+  * **docs.serve** - Serve the API docs with pdoc using the given format and computer port.
+  * **formats.all** - (formats) Run all format tasks.
+  * **formats.imports** - Format python imports with ruff.
+  * **formats.sources** - Format python sources with ruff.
+  * **installs.all (installs)** - Run all install tasks.
+  * **installs.pre-commit** - Install pre-commit hooks on git.
+  * **installs.uv** - Install uv packages.
+  * **mlflow.all (mlflow)** - Run all mlflow tasks.
+  * **mlflow.doctor** - Run mlflow doctor to diagnose issues.
+  * **mlflow.serve** - Start mlflow server with the given host, port, and backend uri.
+  * **packages.all (packages)** - Run all package tasks.
+  * **packages.build** - Build a python package with the given format.
+  * **projects.all (projects)** - Run all project tasks.
+  * **projects.environment** - Export the project environment file.
+  * **projects.requirements** - Export the project requirements file.
+  * **projects.run** - Run an mlflow project from MLproject file.
+
+
+
+## Workflows
+
+[](#workflows)
+
+This package supports two GitHub Workflows in `.github/workflows`:
+
+  * `check.yml`: validate the quality of the package on each Pull Request
+  * `publish.yml`: build and publish the docs and packages on code release.
+
+
+
+You can use and extend these workflows to automate repetitive package management tasks.
+
+# Tools
+
+[](#tools)
+
+This sections motivates the use of developer tools to improve your coding experience.
+
+## Automation
+
+[](#automation-1)
+
+Pre-defined actions to automate your project development.
+
+### Commits: [Commitizen](https://commitizen-tools.github.io/commitizen/)
+
+[](#commits-commitizen)
+
+  * **Motivations** : 
+    * Format your code commits
+    * Generate a standard changelog
+    * Integrate well with [SemVer](https://semver.org/) and [PEP 440](https://peps.python.org/pep-0440/)
+  * **Limitations** : 
+    * Learning curve for new users
+  * **Alternatives** : 
+    * Do It Yourself (DIY)
+
+
+
+### Git Hooks: [Pre-Commit](https://pre-commit.com/)
+
+[](#git-hooks-pre-commit)
+
+  * **Motivations** : 
+    * Check your code locally before a commit
+    * Avoid wasting resources on your CI/CD
+    * Can perform extra actions (e.g., file cleanup)
+  * **Limitations** : 
+    * Add overhead before your commit
+  * **Alternatives** : 
+    * [Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks): less convenient to use
+
+
+
+### Tasks: [PyInvoke](https://www.pyinvoke.org/)
+
+[](#tasks-pyinvoke)
+
+  * **Motivations** : 
+    * Automate project workflows
+    * Sane syntax compared to alternatives
+    * Good trade-off between power/simplicity
+  * **Limitations** : 
+    * Not familiar to most developers
+  * **Alternatives** : 
+    * [Make](https://www.gnu.org/software/make/manual/make.html): most popular, but awful syntax
+
+
+
+## CI/CD
+
+[](#cicd)
+
+Execution of automated workflows on code push and releases.
+
+### Runner: [GitHub Actions](https://github.com/features/actions)
+
+[](#runner-github-actions)
+
+  * **Motivations** : 
+    * Native on GitHub
+    * Simple workflow syntax
+    * Lots of configs if needed
+  * **Limitations** : 
+    * SaaS Service
+  * **Alternatives** : 
+    * [GitLab](https://about.gitlab.com/): can be installed on-premise
+
+
+
+## CLI
+
+[](#cli)
+
+Integrations with the Command-Line Interface (CLI) of your system.
+
+### Parser: [Argparse](https://docs.python.org/3/library/argparse.html)
+
+[](#parser-argparse)
+
+  * **Motivations** : 
+    * Provide CLI arguments
+    * Included in Python runtime
+    * Sufficient for providing configs
+  * **Limitations** : 
+    * More verbose for advanced parsing
+  * **Alternatives** : 
+    * [Typer](https://typer.tiangolo.com/): code typing for the win
+    * [Fire](https://github.com/google/python-fire): simple but no typing
+    * [Click](https://click.palletsprojects.com/en/latest/): more verbose
+
+
+
+### Logging: [Loguru](https://loguru.readthedocs.io/en/stable/)
+
+[](#logging-loguru)
+
+  * **Motivations** : 
+    * Show progress to the user
+    * Work fine out of the box
+    * Saner logging syntax
+  * **Limitations** : 
+    * Doesn't let you deviate from the base usage
+  * **Alternatives** : 
+    * [Logging](https://docs.python.org/3/library/logging.html): available by default, but feel dated
+
+
+
+## Code
+
+[](#code)
+
+Edition, validation, and versioning of your project source code.
+
+### Coverage: [Coverage](https://coverage.readthedocs.io/en/latest/)
+
+[](#coverage-coverage)
+
+  * **Motivations** : 
+    * Report code covered by tests
+    * Identify code path to test
+    * Show maturity to users
+  * **Limitations** : 
+    * None
+  * **Alternatives** : 
+    * None?
+
+
+
+### Editor: [VS Code](https://code.visualstudio.com/)
+
+[](#editor-vs-code)
+
+  * **Motivations** : 
+    * Open source
+    * Free, simple, open source
+    * Great plugins for Python development
+  * **Limitations** : 
+    * Require some configuration for Python
+  * **Alternatives** : 
+    * [PyCharm](https://www.jetbrains.com/pycharm/): provide a lot, cost a lot
+    * [Vim](https://www.vim.org/): I love it, but there is a VS Code plugin
+    * [Spacemacs](https://www.spacemacs.org/): I love it even more, but not everybody loves LISP
+
+
+
+### Formatting: [Ruff](https://docs.astral.sh/ruff/)
+
+[](#formatting-ruff)
+
+  * **Motivations** : 
+    * Super fast compared to others
+    * Don't waste time arranging your code
+    * Make your code more readable/maintainable
+  * **Limitations** : 
+    * Still in version 0.x, but more and more adopted
+  * **Alternatives** : 
+    * [YAPF](https://github.com/google/yapf): more config options that you don't need
+    * [Isort](https://pycqa.github.io/isort/) + [Black](https://black.readthedocs.io/en/stable/): slower and need two tools
+
+
+
+### Quality: [Ruff](https://docs.astral.sh/ruff/)
+
+[](#quality-ruff)
+
+  * **Motivations** : 
+    * Improve your code quality
+    * Super fast compared to others
+    * [Great integration with VS Code](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)
+  * **Limitations** : 
+    * None
+  * **Alternatives** : 
+    * [PyLint](https://www.pylint.org/): too slow and too complex system
+    * [Flake8](https://flake8.pycqa.org/en/latest/): too much plugins, I prefer Pylint in practice
+
+
+
+### Security: [Bandit](https://bandit.readthedocs.io/en/latest/)
+
+[](#security-bandit)
+
+  * **Motivations** : 
+    * Detect security issues
+    * Complement linting solutions
+    * Not to heavy to use and enable
+  * **Limitations** : 
+    * None
+  * **Alternatives** : 
+    * None
+
+
+
+### Testing: [Pytest](https://docs.pytest.org/en/latest/)
+
+[](#testing-pytest)
+
+  * **Motivations** : 
+    * Write tests or pay the price
+    * Super easy to write new test cases
+    * Tons of good plugins (xdist, sugar, cov, ...)
+  * **Limitations** : 
+    * Doesn't support parallel execution out of the box
+  * **Alternatives** : 
+    * [Unittest](https://docs.python.org/fr/3/library/unittest.html): more verbose, less fun
+
+
+
+### Typing: [Mypy](https://mypy-lang.org/)
+
+[](#typing-mypy)
+
+  * **Motivations** : 
+    * Static typing is cool!
+    * Communicate types to use
+    * Official type checker for Python
+  * **Limitations** : 
+    * Can have overhead for complex typing
+  * **Alternatives** : 
+    * [PyRight](https://github.com/microsoft/pyright): check big code base by MicroSoft
+    * [PyType](https://google.github.io/pytype/): check big code base by Google
+    * [Pyre](https://pyre-check.org/): check big code base by Facebook
+
+
+
+### Versioning: [Git](https://git-scm.com/)
+
+[](#versioning-git)
+
+  * **Motivations** : 
+    * If you don't version your code, you are a fool
+    * Most popular source code manager (what else?)
+    * Provide hooks to perform automation on some events
+  * **Limitations** : 
+    * Git can be hard: <https://xkcd.com/1597/>
+  * **Alternatives** : 
+    * [Mercurial](https://www.mercurial-scm.org/): loved it back then, but git is the only real option
+
+
+
+## Configs
+
+[](#configs)
+
+Manage the configs files of your project to change executions.
+
+### Format: [YAML](https://yaml.org/)
+
+[](#format-yaml)
+
+  * **Motivations** : 
+    * Change execution without changing code
+    * Readable syntax, support comments
+    * Allow to use OmegaConf <3
+  * **Limitations** : 
+    * Not supported out of the box by Python
+  * **Alternatives** : 
+    * [JSON](https://www.json.org/json-en.html): no comments, more verbose
+    * [TOML](https://toml.io/en/): less suited to config merge/sharing
+
+
+
+### Parser: [OmegaConf](https://omegaconf.readthedocs.io/en/2.3_branch/)
+
+[](#parser-omegaconf)
+
+  * **Motivations** : 
+    * Parse and merge YAML files
+    * Powerful, doesn't get in your way
+    * Achieve a lot with few lines of code
+  * **Limitations** : 
+    * Do not support remote files (e.g., s3, gcs, ...) 
+      * You can combine it with [cloudpathlib](https://cloudpathlib.drivendata.org/stable/)
+  * **Alternatives** : 
+    * [Hydra](https://hydra.cc/docs/intro/): powerful, but gets in your way
+    * [DynaConf](https://www.dynaconf.com/): more suited for app development
+
+
+
+### Reader: [Cloudpathlib](https://cloudpathlib.drivendata.org/stable/)
+
+[](#reader-cloudpathlib)
+
+  * **Motivations** : 
+    * Read files from cloud storage
+    * Better integration with cloud platforms
+    * Support several platforms: AWS, GCP, and Azure
+  * **Limitations** : 
+    * Support of Python typing is not great at the moment
+  * **Alternatives** : 
+    * Cloud SDK (GCP, AWS, Azure, ...): vendor specific, overkill for this task
+
+
+
+### Validator: [Pydantic](https://docs.pydantic.dev/latest/)
+
+[](#validator-pydantic)
+
+  * **Motivations** : 
+    * Validate your config before execution
+    * Pydantic should be builtin (period)
+    * Super charge your Python class
+  * **Limitations** : 
+    * None
+  * **Alternatives** : 
+    * [Dataclass](https://docs.python.org/3/library/dataclasses.html): simpler, but much less powerful
+    * [Attrs](https://www.attrs.org/en/stable/): no validation, less intuitive to use
+
+
+
+## Data
+
+[](#data)
+
+Define the datasets to provide data inputs and outputs.
+
+### Container: [Pandas](https://pandas.pydata.org/)
+
+[](#container-pandas)
+
+  * **Motivations** : 
+    * Load data files in memory
+    * Lingua franca for Python
+    * Most popular options
+  * **Limitations** : 
+    * Lot of [gotchas](https://www.tutorialspoint.com/python_pandas/python_pandas_caveats_and_gotchas.htm)
+  * **Alternatives** : 
+    * [Polars](https://www.pola.rs/): faster, saner, but less integrations
+    * [Pyspark](https://spark.apache.org/docs/latest/api/python/): powerful, popular, distributed, so much overhead
+    * Dask, Ray, Modin, Vaex, ...: less integration (even if it looks like pandas)
+
+
+
+### Format: [Parquet](https://parquet.apache.org/)
+
+[](#format-parquet)
+
+  * **Motivations** : 
+    * Store your data on disk
+    * Column-oriented (good for analysis)
+    * Much more efficient and saner than text based
+  * **Limitations** : 
+    * None
+  * **Alternatives** : 
+    * [CSV](https://en.wikipedia.org/wiki/Comma-separated_values): human readable, but that's the sole benefit
+    * [Avro](https://avro.apache.org/): good alternative for row-oriented workflow
+
+
+
+### Schema: [Pandera](https://pandera.readthedocs.io/en/stable/)
+
+[](#schema-pandera)
+
+  * **Motivations** : 
+    * Typing for dataframe
+    * Communicate data fields
+    * Support pandas and [others](https://pandera.readthedocs.io/en/stable/supported_libraries.html)
+  * **Limitations** : 
+    * None
+  * **Alternatives** : 
+    * [Great Expectations](https://greatexpectations.io/): powerful, but much more difficult to integrate
+
+
+
+## Docs
+
+[](#docs)
+
+Generate and share the project documentations.
+
+### API: [pdoc](https://pdoc.dev/)
+
+[](#api-pdoc)
+
+  * **Motivations** : 
+    * Share docs with others
+    * Simple tool, only does API docs
+    * Get the job done, get out of your way
+  * **Limitations** : 
+    * Only support API docs (i.e., no custom docs)
+  * **Alternatives** : 
+    * [Sphinx](https://www.sphinx-doc.org/en/master/): Most complete, overkill for simple projects
+    * [Mkdocs](https://www.mkdocs.org/): no support for API doc, which is the core feature
+
+
+
+### Format: [Google](https://google.github.io/styleguide/pyguide.html)
+
+[](#format-google)
+
+  * **Motivations** : 
+    * Common style for docstrings
+    * Most writeable out of alternatives
+    * I often write a single line for simplicity
+  * **Limitations** : 
+    * None
+  * **Alternatives** : 
+    * [Numpy](https://numpydoc.readthedocs.io/en/latest/format.html): less writeable
+    * [Sphinx](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html): baroque style
+
+
+
+### Hosting: [GitHub Pages](https://pages.github.com/)
+
+[](#hosting-github-pages)
+
+  * **Motivations** : 
+    * Easy to setup
+    * Free and simple
+    * Integrated with GitHub
+  * **Limitations** : 
+    * Only support static content
+  * **Alternatives** : 
+    * [ReadTheDocs](https://about.readthedocs.com/?ref=readthedocs.com): provide more features
+
+
+
+## Model
+
+[](#model)
+
+Toolkit to handle machine learning models.
+
+### Evaluation: [Scikit-Learn Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
+[](#evaluation-scikit-learn-metrics)
+
+  * **Motivations** : 
+    * Bring common metrics
+    * Avoid reinventing the wheel
+    * Avoid implementation mistakes
+  * **Limitations** : 
+    * Limited set of metric to be chosen
+  * **Alternatives** : 
+    * Implement your own: for custom metrics
+
+
+
+### Format: [Mlflow Model](https://mlflow.org/docs/latest/models.html)
+
+[](#format-mlflow-model)
+
+  * **Motivations** : 
+    * Standard ML format
+    * Store model dependencies
+    * Strong community ecosystem
+  * **Limitations** : 
+    * None
+  * **Alternatives** : 
+    * [Pickle](https://docs.python.org/3/library/pickle.html): work out of the box, but less suited for big array
+    * [ONNX](https://onnx.ai/): great for deep learning, [no guaranteed compatibility for the rest](https://onnxruntime.ai/docs/reference/compatibility.html)
+
+
+
+### Registry: [Mlflow Registry](https://mlflow.org/docs/latest/model-registry.html)
+
+[](#registry-mlflow-registry)
+
+  * **Motivations** : 
+    * Save and load models
+    * Separate production from consumption
+    * Popular, open source, work on local system
+  * **Limitations** : 
+    * None
+  * **Alternatives** : 
+    * [Neptune.ai](https://neptune.ai/): SaaS solution
+    * [Weights and Biases](https://wandb.ai/site): SaaS solution
+
+
+
+### Tracking: [Mlflow Tracking](https://mlflow.org/docs/latest/tracking.html)
+
+[](#tracking-mlflow-tracking)
+
+  * **Motivations** : 
+    * Keep track of metrics and params
+    * Allow to compare model performances
+    * Popular, open source, work on local system
+  * **Limitations** : 
+    * None
+  * **Alternatives** : 
+    * [Neptune.ai](https://neptune.ai/): SaaS solution
+    * [Weights and Biases](https://wandb.ai/site): SaaS solution
+
+
+
+## Package
+
+[](#package)
+
+Define and build modern Python package.
+
+### Evolution: [Changelog](https://en.wikipedia.org/wiki/Changelog)
+
+[](#evolution-changelog)
+
+  * **Motivation** : 
+    * Communicate changes to user
+    * Can be updated with [Commitizen](https://commitizen-tools.github.io/commitizen/changelog/)
+    * Standardized with [Keep a Changelog](https://keepachangelog.com/)
+  * **Limitations** : 
+    * None
+  * **Alternatives** : 
+    * None
+
+
+
+### Format: [Wheel](https://peps.python.org/pep-0427/)
+
+[](#format-wheel)
+
+  * **Motivations** : 
+    * [Has several advantages](https://realpython.com/python-wheels/#advantages-of-python-wheels)
+    * Create source code archive
+    * Most modern Python format
+  * **Limitations** : 
+    * Doesn't ship with C/C++ dependencies (e.g., CUDA) 
+      * i.e., use Docker containers for this case
+  * **Alternatives** : 
+    * [Source](https://docs.python.org/3/distutils/sourcedist.html): older format, less powerful
+    * [Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html): slow and hard to manage
+
+
+
+### Manager: [uv](https://docs.astral.sh/uv/)
+
+[](#manager-uv)
+
+  * **Motivations** : 
+    * Define and build Python package
+    * Fast and compliant package manager
+    * Pack every metadata in a single static file
+  * **Limitations** : 
+    * Cannot add dependencies beyond Python (e.g., CUDA) 
+      * i.e., use Docker container for this use case
+  * **Alternatives** : 
+    * [Setuptools](https://docs.python.org/3/distutils/setupscript.html): dynamic file is slower and more risky
+    * [Poetry](https://python-poetry.org/): previous solution of this package
+    * Pdm, Hatch, PipEnv: <https://xkcd.com/1987/>
+
+
+
+### Runtime: [Docker](https://www.docker.com/resources/what-container/)
+
+[](#runtime-docker)
+
+  * **Motivations** : 
+    * Create isolated runtime
+    * Container is the de facto standard
+    * Package C/C++ dependencies with your project
+  * **Limitations** : 
+    * Some company might block Docker Desktop, you should use alternatives
+  * **Alternatives** : 
+    * [Conda](https://docs.conda.io/en/latest/): slow and heavy resolver
+
+
+
+## Programming
+
+[](#programming)
+
+Select your programming environment.
+
+### Language: [Python](https://www.python.org/)
+
+[](#language-python)
+
+  * **Motivations** : 
+    * Great language for AI/ML projects
+    * Robust with additional tools
+    * Hundreds of great libs
+  * **Limitations** : 
+    * Slow without C bindings
+  * **Alternatives** : 
+    * [R](https://www.r-project.org/): specific purpose language
+    * [Julia](https://julialang.org/): specific purpose language
+
+
+
+### Version: [Pyenv](https://github.com/pyenv/pyenv)
+
+[](#version-pyenv)
+
+  * **Motivations** : 
+    * Switch between Python version
+    * Allow to select the best version
+    * Support global and local dispatch
+  * **Limitations** : 
+    * Require some shell configurations
+  * **Alternatives** : 
+    * Manual installation: time consuming
+
+
+
+## Observability
+
+[](#observability)
+
+### Reproducibility: [Mlflow Project](https://mlflow.org/docs/latest/projects.html)
+
+[](#reproducibility-mlflow-project)
+
+  * **Motivations** : 
+    * Share common project formats.
+    * Ensure the project can be reused.
+    * Avoid randomness in project execution.
+  * **Limitations** : 
+    * Mlflow Project is best suited for small projects.
+  * **Alternatives** : 
+    * [DVC](https://dvc.org/): both data and models.
+    * [Metaflow](https://metaflow.org/): focus on machine learning.
+    * **[Apache Airflow](https://airflow.apache.org/)** : for large scale projects.
+
+
+
+### Monitoring : [Mlflow Evaluate](https://mlflow.org/docs/latest/model-evaluation/index.html)
+
+[](#monitoring--mlflow-evaluate)
+
+  * **Motivations** : 
+    * Compute the model metrics.
+    * Validate model with thresholds.
+    * Perform post-training evaluations.
+  * **Limitations** : 
+    * Mlflow Evaluate is less feature-rich as alternatives.
+  * **Alternatives** : 
+    * **[Giskard](https://www.giskard.ai/)** : open-core and super complete.
+    * **[Evidently](https://www.evidentlyai.com/)** : open-source with more metrics.
+    * [Arize AI](https://arize.com/): more feature-rich but less flexible.
+    * [Graphana](https://grafana.com/): you must do everything yourself.
+
+
+
+### Alerting: [Plyer](https://github.com/kivy/plyer)
+
+[](#alerting-plyer)
+
+  * **Motivations** : 
+    * Simple solution.
+    * Send notifications on system.
+    * Cross-system: Mac, Linux, Windows.
+  * **Limitations** : 
+    * Should not be used for large scale projects.
+  * **Alternatives** : 
+    * [Slack](https://slack.com/): for chat-oriented solutions.
+    * [Datadog](https://www.datadoghq.com/): for infrastructure oriented solutions.
+
+
+
+### Lineage: [Mlflow Dataset](https://mlflow.org/docs/latest/tracking/data-api.html)
+
+[](#lineage-mlflow-dataset)
+
+  * **Motivations** : 
+    * Store information in Mlflow.
+    * Track metadata about run datasets.
+    * Keep URI of the dataset source (e.g., website).
+  * **Limitations** : 
+    * Not as feature-rich as alternative solutions.
+  * **Alternatives** : 
+    * [Databricks Lineage](https://docs.databricks.com/en/admin/system-tables/lineage.html): limited to Databricks.
+    * [OpenLineage and Marquez](https://marquezproject.github.io/): open-source and flexible.
+
+
+
+### Explainability: [SHAP](https://shap.readthedocs.io/en/latest/)
+
+[](#explainability-shap)
+
+  * **Motivations** : 
+    * Most popular toolkit.
+    * Support various models (linear, model, ...).
+    * Integration with Mlflow through the [SHAP module](https://mlflow.org/docs/latest/python_api/mlflow.shap.html).
+  * **Limitations** : 
+    * Super slow on large dataset.
+    * Mlflow SHAP module is not mature enough.
+  * **Alternatives** : 
+    * [LIME](https://github.com/marcotcr/lime): not maintained anymore.
+
+
+
+### Infrastructure: [Mlflow System Metrics](https://mlflow.org/docs/latest/system-metrics/index.html)
+
+[](#infrastructure-mlflow-system-metrics)
+
+  * **Motivations** : 
+    * Track infrastructure information (RAM, CPU, ...).
+    * Integrated with Mlflow tracking.
+    * Provide hardware insights.
+  * **Limitations** : 
+    * Not as mature as alternative solutions.
+  * **Alternatives** : 
+    * [Datadog](https://www.datadoghq.com/): popular and mature solution.
+
+
+
+# Tips
+
+[](#tips)
+
+This sections gives some tips and tricks to enrich the develop experience.
+
+## [AI/ML Practices](https://machinelearningmastery.com/)
+
+[](#aiml-practices)
+
+### [Data Catalog](https://docs.kedro.org/en/stable/data/data_catalog.html)
+
+[](#data-catalog)
+
+**You should decouple the pointer to your data from how to access it.**
+
+In your code, you can refer to your dataset with a tag (e.g., `inputs`, `targets`).
+
+This tag can then be associated to a reader/writer implementation in a configuration file:
+
+```
+inputs: KIND: ParquetReader path: data/inputs_train.parquet targets: KIND: ParquetReader path: data/targets_train.parquet
+```
+
+In this package, the implementation are described in `src/[package]/io/datasets.py` and selected by `KIND`.
+
+### [Hyperparameter Optimization](https://en.wikipedia.org/wiki/Hyperparameter_optimization)
+
+[](#hyperparameter-optimization)
+
+**You should select the best hyperparameters for your model using optimization search.**
+
+The simplest projects can use a `sklearn.model_selection.GridSearchCV` to scan the whole search space.
+
+This package provides a simple interface to this hyperparameter search facility in `src/[package]/utils/searchers.py`.
+
+For more complex project, we recommend to use more complex strategy (e.g., [Bayesian](https://en.wikipedia.org/wiki/Bayesian_optimization)) and software package (e.g., [Optuna](https://optuna.org/)).
+
+### [Data Splits](https://machinelearningmastery.com/difference-test-validation-datasets/)
+
+[](#data-splits)
+
+**You should properly split your dataset into a training, validation, and testing sets.**
+
+  * _Training_ : used for fitting the model parameters
+  * _Validation_ : used to find the best hyperparameters
+  * _Testing_ : used to evaluate the final model performance
+
+
+
+The sets should be exclusive, and the testing set should never be used as training inputs!
+
+This package provides a simple deterministic strategy implemented in `src/[package]/utils/splitters.py`.
+
+## [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
+
+[](#design-patterns)
+
+### [Directed-Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+
+[](#directed-acyclic-graph)
+
+**You should use Directed-Acyclic Graph (DAG) to connect the steps of your ML pipeline.**
+
+A DAG can express the dependencies between steps while keeping the individual step independent.
+
+This package provides a simple DAG example in `tasks/dags.py`. This approach is based on [PyInvoke](https://www.pyinvoke.org/).
+
+In production, we recommend to use a scalable system such as [Airflow](https://airflow.apache.org/), [Dagster](https://dagster.io/), [Prefect](https://www.prefect.io/), [Metaflow](https://metaflow.org/), or [ZenML](https://zenml.io/).
+
+### [Program Service](https://en.wikipedia.org/wiki/Systemd)
+
+[](#program-service)
+
+**You should provide a global context for the execution of your program.**
+
+There are several approaches such as [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern), [Global Variable](https://en.wikipedia.org/wiki/Global_variable), or [Component](https://github.com/stuartsierra/component).
+
+This package takes inspiration from [Clojure mount](https://github.com/tolitius/mount). It provides an implementation in `src/[package]/io/services.py`.
+
+### [Soft Coding](https://en.wikipedia.org/wiki/Softcoding)
+
+[](#soft-coding)
+
+**You should separate the program implementation from the program configuration.**
+
+Exposing configurations to users allow them to influence the execution behavior without code changes.
+
+This package seeks to expose as much parameter as possible to the users in configurations stored in the `confs/` folder.
+
+### [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)
+
+[](#solid-principles)
+
+**You should implement the SOLID principles to make your code as flexible as possible.**
+
+  * _Single responsibility principle_ : Class has one job to do. Each change in requirements can be done by changing just one class.
+  * _Open/closed principle_ : Class is happy (open) to be used by others. Class is not happy (closed) to be changed by others.
+  * _Liskov substitution principle_ : Class can be replaced by any of its children. Children classes inherit parent's behaviours.
+  * _Interface segregation principle_ : When classes promise each other something, they should separate these promises (interfaces) into many small promises, so it's easier to understand.
+  * _Dependency inversion principle_ : When classes talk to each other in a very specific way, they both depend on each other to never change. Instead classes should use promises (interfaces, parents), so classes can change as long as they keep the promise.
+
+
+
+In practice, this mean you can implement software contracts with interface and swap the implementation.
+
+For instance, you can implement several jobs in `src/[package]/jobs/*.py` and swap them in your configuration.
+
+To learn more about the mechanism select for this package, you can check the documentation for [Pydantic Tagged Unions](https://docs.pydantic.dev/dev-v2/usage/types/unions/#discriminated-unions-aka-tagged-unions).
+
+### [IO Separation](https://en.wikibooks.org/wiki/Haskell/Understanding_monads/IO)
+
+[](#io-separation)
+
+**You should separate the code interacting with the external world from the rest.**
+
+The external is messy and full of risks: missing files, permission issue, out of disk ...
+
+To isolate these risks, you can put all the related code in an `io` package and use interfaces
+
+## [Python Powers](https://realpython.com/)
+
+[](#python-powers)
+
+### [Context Manager](https://docs.python.org/3/library/contextlib.html)
+
+[](#context-manager)
+
+**You should use Python context manager to control and enhance an execution.**
+
+Python provides contexts that can be used to extend a code block. For instance:
+
+```
+# in src/[package]/scripts.py with job as runner: # context runner.run() # run in context
+```
+
+This pattern has the same benefit as [Monad](https://en.wikipedia.org/wiki/Monad_\(functional_programming\)), a powerful programming pattern.
+
+The package uses `src/[package]/jobs/*.py` to handle exception and services.
+
+### [Python Package](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+
+[](#python-package)
+
+**You should create Python package to create both library and application for others.**
+
+Using Python package for your AI/ML project has the following benefits:
+
+  * Build code archive (i.e., wheel) that be uploaded to Pypi.org
+  * Install Python package as a library (e.g., like pandas)
+  * Expose script entry points to run a CLI or a GUI
+
+
+
+To build a Python package with uv, you simply have to type in a terminal:
+
+```
+# for all uv project uv build # for this project only inv packages
+```
+
+## [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering)
+
+[](#software-engineering)
+
+### [Code Typing](https://docs.python.org/3/library/typing.html)
+
+[](#code-typing)
+
+**You should type your Python code to make it more robust and explicit for your user.**
+
+Python provides the [typing module](https://docs.python.org/3/library/typing.html) for adding type hints and [mypy](https://mypy-lang.org/) to checking them.
+
+```
+# in src/[package]/core/models.py @abc.abstractmethod def fit(self, inputs: schemas.Inputs, targets: schemas.Targets) -> "Model": """Fit the model on the given inputs and target.""" @abc.abstractmethod def predict(self, inputs: schemas.Inputs) -> schemas.Outputs: """Generate an output with the model for the given inputs."""
+```
+
+This code snippet clearly state the inputs and outputs of the method, both for the developer and the type checker.
+
+The package aims to type every functions and classes to facilitate the developer experience and fix mistakes before execution.
+
+### [Config Typing](https://docs.pydantic.dev/latest/)
+
+[](#config-typing)
+
+**You should type your configuration to avoid exceptions during the program execution.**
+
+Pydantic allows to define classes that can validate your configs during the program startup.
+
+```
+# in src/[package]/utils/splitters.py class TrainTestSplitter(Splitter): shuffle: bool = False # required (time sensitive) test_size: int | float = 24 * 30 * 2 # 2 months random_state: int = 42
+```
+
+This code snippet allows to communicate the values expected and avoid error that could be avoided.
+
+The package combines both OmegaConf and Pydantic to parse YAML files and validate them as soon as possible.
+
+### [Dataframe Typing](https://pandera.readthedocs.io/en/stable/)
+
+[](#dataframe-typing)
+
+**You should type your dataframe to communicate and validate their fields.**
+
+Pandera supports dataframe typing for Pandas and other library like PySpark:
+
+```
+# in src/package/schemas.py class InputsSchema(Schema): instant: papd.Index[papd.UInt32] = pa.Field(ge=0, check_name=True) dteday: papd.Series[papd.DateTime] = pa.Field() season: papd.Series[papd.UInt8] = pa.Field(isin=[1, 2, 3, 4]) yr: papd.Series[papd.UInt8] = pa.Field(ge=0, le=1) mnth: papd.Series[papd.UInt8] = pa.Field(ge=1, le=12) hr: papd.Series[papd.UInt8] = pa.Field(ge=0, le=23) holiday: papd.Series[papd.Bool] = pa.Field() weekday: papd.Series[papd.UInt8] = pa.Field(ge=0, le=6) workingday: papd.Series[papd.Bool] = pa.Field() weathersit: papd.Series[papd.UInt8] = pa.Field(ge=1, le=4) temp: papd.Series[papd.Float16] = pa.Field(ge=0, le=1) atemp: papd.Series[papd.Float16] = pa.Field(ge=0, le=1) hum: papd.Series[papd.Float16] = pa.Field(ge=0, le=1) windspeed: papd.Series[papd.Float16] = pa.Field(ge=0, le=1) casual: papd.Series[papd.UInt32] = pa.Field(ge=0) registered: papd.Series[papd.UInt32] = pa.Field(ge=0)
+```
+
+This code snippet defines the fields of the dataframe and some of its constraint.
+
+The package encourages to type every dataframe used in `src/[package]/core/schemas.py`.
+
+### [Object Oriented](https://en.wikipedia.org/wiki/Object-oriented_programming)
+
+[](#object-oriented)
+
+**You should use the Objected Oriented programming to benefit from[polymorphism](https://en.wikipedia.org/wiki/Polymorphism_\(computer_science\)).**
+
+Polymorphism combined with SOLID Principles allows to easily swap your code components.
+
+```
+class Reader(abc.ABC, pdt.BaseModel): @abc.abstractmethod def read(self) -> pd.DataFrame: """Read a dataframe from a dataset."""
+```
+
+This code snippet uses the [abc module](https://docs.python.org/3/library/abc.html) to define code interfaces for a dataset with a read/write method.
+
+The package defines class interface whenever possible to provide intuitive and replaceable parts for your AI/ML project.
+
+### [Semantic Versioning](https://semver.org/)
+
+[](#semantic-versioning)
+
+**You should use semantic versioning to communicate the level of compatibility of your releases.**
+
+Semantic Versioning (SemVer) provides a simple schema to communicate code changes. For package X.Y.Z:
+
+  * _Major_ (X): major release with breaking changed (i.e., imply actions from the benefit)
+  * _Minor_ (Y): minor release with new features (i.e., provide new capabilities)
+  * _Patch_ (Z): patch release to fix bugs (i.e., correct wrong behavior)
+
+
+
+Uv and this package leverage Semantic Versioning to let developers control the speed of adoption for new releases.
+
+## [Testing Tricks](https://en.wikipedia.org/wiki/Software_testing)
+
+[](#testing-tricks)
+
+### [Parallel Testing](https://pytest-xdist.readthedocs.io/en/stable/)
+
+[](#parallel-testing)
+
+**You can run your tests in parallel to speed up the validation of your code base.**
+
+Pytest can be extended with the [pytest-xdist plugin](https://pytest-xdist.readthedocs.io/en/stable/) for this purpose.
+
+This package enables Pytest in its automation tasks by default.
+
+### [Test Fixtures](https://docs.pytest.org/en/latest/explanation/fixtures.html)
+
+[](#test-fixtures)
+
+**You should define reusable objects and actions for your tests with[fixtures](https://docs.pytest.org/en/latest/explanation/fixtures.html).**
+
+Fixture can prepare objects for your test cases, such as dataframes, models, files.
+
+This package defines fixtures in `tests/conftest.py` to improve your testing experience.
+
+## [VS Code](https://code.visualstudio.com/)
+
+[](#vs-code)
+
+### [Code Workspace](https://code.visualstudio.com/docs/editor/workspaces)
+
+[](#code-workspace)
+
+**You can use VS Code workspace to define configurations for your project.**
+
+[Code Workspace](https://code.visualstudio.com/docs/editor/workspaces) can enable features (e.g. formatting) and set the default interpreter.
+
+```
+{ "settings": { "editor.formatOnSave": true, "python.defaultInterpreterPath": ".venv/bin/python", ... }, }
+```
+
+This package defines a workspace file that you can load from `[package].code-workspace`.
+
+### [GitHub Copilot](https://github.com/features/copilot)
+
+[](#github-copilot)
+
+**You can use GitHub Copilot to increase your coding productivity by 30%.**
+
+[GitHub Copilot](https://github.com/features/copilot) has been a huge productivity thanks to its smart completion.
+
+You should become familiar with the solution in less than a single coding session.
+
+### [VSCode VIM](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+
+[](#vscode-vim)
+
+**You can use VIM keybindings to more efficiently navigate and modify your code.**
+
+Learning VIM is one of the best investment for a career in IT. It can make you 30% more productive.
+
+Compared to GitHub Copilot, VIM can take much more time to master. You can expect a ROI in less than a month.
+
+# Resources
+
+[](#resources)
+
+This section provides resources for building packages for Python and AI/ML/MLOps.
+
+## Python
+
+[](#python)
+
+  * <https://github.com/krzjoa/awesome-python-data-science#readme>
+  * <https://github.com/ml-tooling/best-of-ml-python>
+  * <https://github.com/ml-tooling/best-of-python>
+  * <https://github.com/ml-tooling/best-of-python-dev>
+  * <https://github.com/vinta/awesome-python>
+
+
+
+## AI/ML/MLOps
+
+[](#aimlmlops)
+
+  * <https://github.com/josephmisiti/awesome-machine-learning>
+  * <https://github.com/visenger/awesome-mlops>
+
+
+
+## About
+
+Kickstart your MLOps initiative with a flexible, robust, and productive Python package. 
+
+[fmind.github.io/mlops-python-package/](https://fmind.github.io/mlops-python-package/ "https://fmind.github.io/mlops-python-package/")
+
+### Topics
+
+[ python ](/topics/python "Topic: python") [ data-science ](/topics/data-science "Topic: data-science") [ machine-learning ](/topics/machine-learning "Topic: machine-learning") [ automation ](/topics/automation "Topic: automation") [ data-pipelines ](/topics/data-pipelines "Topic: data-pipelines") [ mlops ](/topics/mlops "Topic: mlops") [ mlflow ](/topics/mlflow "Topic: mlflow") [ pydantic ](/topics/pydantic "Topic: pydantic") [ pandera ](/topics/pandera "Topic: pandera")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+[ Activity](/fmind/mlops-python-package/activity)
+
+### Stars
+
+[ **944** stars](/fmind/mlops-python-package/stargazers)
+
+### Watchers
+
+[ **12** watching](/fmind/mlops-python-package/watchers)
+
+### Forks
+
+[ **143** forks](/fmind/mlops-python-package/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Ffmind%2Fmlops-python-package&report=fmind+%28user%29)
+
+##  [Releases 13](/fmind/mlops-python-package/releases)
+
+[ v3.0.0 Latest  Dec 14, 2024 ](/fmind/mlops-python-package/releases/tag/v3.0.0)
+
+[+ 12 releases](/fmind/mlops-python-package/releases)
+
+##  [Packages 1](/users/fmind/packages?repo_name=mlops-python-package)
+
+  * [ mlops-python-package ](/users/fmind/packages/container/package/mlops-python-package)
+
+
+
+## Languages
+
+  * [ Jupyter Notebook 94.5% ](/fmind/mlops-python-package/search?l=jupyter-notebook)
+  * [ Python 5.5% ](/fmind/mlops-python-package/search?l=python)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

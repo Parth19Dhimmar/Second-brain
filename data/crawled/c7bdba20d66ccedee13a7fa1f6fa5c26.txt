@@ -1,0 +1,618 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Flighteval%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Flighteval%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=huggingface%2Flighteval) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ huggingface ](/huggingface) / **[lighteval](/huggingface/lighteval) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fhuggingface%2Flighteval) You must be signed in to change notification settings
+  * [ Fork 122 ](/login?return_to=%2Fhuggingface%2Flighteval)
+  * [ Star  982 ](/login?return_to=%2Fhuggingface%2Flighteval)
+
+
+
+
+Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends 
+
+### License
+
+[ MIT license ](/huggingface/lighteval/blob/main/LICENSE)
+
+[ 982 stars ](/huggingface/lighteval/stargazers) [ 122 forks ](/huggingface/lighteval/forks) [ Branches ](/huggingface/lighteval/branches) [ Tags ](/huggingface/lighteval/tags) [ Activity ](/huggingface/lighteval/activity)
+
+[ Star  ](/login?return_to=%2Fhuggingface%2Flighteval)
+
+[ Notifications ](/login?return_to=%2Fhuggingface%2Flighteval) You must be signed in to change notification settings
+
+  * [ Code ](/huggingface/lighteval)
+  * [ Issues 66 ](/huggingface/lighteval/issues)
+  * [ Pull requests 18 ](/huggingface/lighteval/pulls)
+  * [ Actions ](/huggingface/lighteval/actions)
+  * [ Projects 0 ](/huggingface/lighteval/projects)
+  * [ Security ](/huggingface/lighteval/security)
+  * [ Insights ](/huggingface/lighteval/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/huggingface/lighteval)
+  * [ Issues  ](/huggingface/lighteval/issues)
+  * [ Pull requests  ](/huggingface/lighteval/pulls)
+  * [ Actions  ](/huggingface/lighteval/actions)
+  * [ Projects  ](/huggingface/lighteval/projects)
+  * [ Security  ](/huggingface/lighteval/security)
+  * [ Insights  ](/huggingface/lighteval/pulse)
+
+
+
+# huggingface/lighteval
+
+main
+
+[**198** Branches](/huggingface/lighteval/branches)[**8** Tags](/huggingface/lighteval/tags)
+
+[](/huggingface/lighteval/branches)[](/huggingface/lighteval/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![JoelNiklaus](https://avatars.githubusercontent.com/u/3775944?v=4&size=40)](/JoelNiklaus)[JoelNiklaus](/huggingface/lighteval/commits?author=JoelNiklaus)[Made judge response processing more robust. (](/huggingface/lighteval/commit/0140578560789a4e2b1b90435f708daf60c2047c)[#491](https://github.com/huggingface/lighteval/pull/491)[)](/huggingface/lighteval/commit/0140578560789a4e2b1b90435f708daf60c2047c)Jan 20, 2025[0140578](/huggingface/lighteval/commit/0140578560789a4e2b1b90435f708daf60c2047c) · Jan 20, 2025
+
+## History
+
+[291 Commits](/huggingface/lighteval/commits/main/)[](/huggingface/lighteval/commits/main/)  
+[.github](/huggingface/lighteval/tree/main/.github ".github")| [.github](/huggingface/lighteval/tree/main/.github ".github")| [Add litellm inference (](/huggingface/lighteval/commit/a2541b121bc2003a41a9373f4cb6b3ead2000818 "Add litellm inference \(#385\)
+This PR enables running inference using any model provider supported by litellm as well as using litellm for llm as a judge.
+---------
+Co-authored-by: Egor Lebedev <egor.lebe@inbox.ru>
+Co-authored-by: Kryvich <44714498+Kryuski@users.noreply.github.com>
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+Co-authored-by: Nazim Ali <nazimali@gmail.com>
+Co-authored-by: vsabolcec <60775189+vsabolcec@users.noreply.github.com>
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>
+Co-authored-by: Nathan Habib <nathan.habib@huggingface.co>
+Co-authored-by: Albert Villanova del Moral <8515462+albertvillanova@users.noreply.github.com>")[#385](https://github.com/huggingface/lighteval/pull/385)[)](/huggingface/lighteval/commit/a2541b121bc2003a41a9373f4cb6b3ead2000818 "Add litellm inference \(#385\)
+This PR enables running inference using any model provider supported by litellm as well as using litellm for llm as a judge.
+---------
+Co-authored-by: Egor Lebedev <egor.lebe@inbox.ru>
+Co-authored-by: Kryvich <44714498+Kryuski@users.noreply.github.com>
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+Co-authored-by: Nazim Ali <nazimali@gmail.com>
+Co-authored-by: vsabolcec <60775189+vsabolcec@users.noreply.github.com>
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>
+Co-authored-by: Nathan Habib <nathan.habib@huggingface.co>
+Co-authored-by: Albert Villanova del Moral <8515462+albertvillanova@users.noreply.github.com>")| Jan 2, 2025  
+[assets](/huggingface/lighteval/tree/main/assets "assets")| [assets](/huggingface/lighteval/tree/main/assets "assets")| [readme rewrite (](/huggingface/lighteval/commit/ba2024802dfb3ced3487d498e5c5ecc00c11634f "readme rewrite \(#327\)
+* change readme
+* push logo
+* change readme
+* change readme
+* update readme
+* update readme
+* update readme
+* update readme
+* update readme
+* Update README.md
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+* Update README.md
+* Update README.md
+* Update README.md
+* Update README.md
+---------
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>")[#327](https://github.com/huggingface/lighteval/pull/327)[)](/huggingface/lighteval/commit/ba2024802dfb3ced3487d498e5c5ecc00c11634f "readme rewrite \(#327\)
+* change readme
+* push logo
+* change readme
+* change readme
+* update readme
+* update readme
+* update readme
+* update readme
+* update readme
+* Update README.md
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+* Update README.md
+* Update README.md
+* Update README.md
+* Update README.md
+---------
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>")| Sep 24, 2024  
+[community_tasks](/huggingface/lighteval/tree/main/community_tasks "community_tasks")| [community_tasks](/huggingface/lighteval/tree/main/community_tasks "community_tasks")| [Update arabic_evals.py: Fix custom arabic tasks [2nd attempt] (](/huggingface/lighteval/commit/fbca143616c37f4336f80768cc4bdddb97bf3b06 "Update arabic_evals.py: Fix custom arabic tasks \[2nd attempt\] \(#444\)
+Fix alghafa prompt function by explicitly determining the list of choices based on task_name. 
+\(Not all subsets of AlGhafa Native share same columns\)
+---------
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>")[#444](https://github.com/huggingface/lighteval/pull/444)[)](/huggingface/lighteval/commit/fbca143616c37f4336f80768cc4bdddb97bf3b06 "Update arabic_evals.py: Fix custom arabic tasks \[2nd attempt\] \(#444\)
+Fix alghafa prompt function by explicitly determining the list of choices based on task_name. 
+\(Not all subsets of AlGhafa Native share same columns\)
+---------
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>")| Dec 20, 2024  
+[docs/source](/huggingface/lighteval/tree/main/docs/source "This path skips through empty directories")| [docs/source](/huggingface/lighteval/tree/main/docs/source "This path skips through empty directories")| [Homogeneize generation params (](/huggingface/lighteval/commit/5a28b229ee256cf6ddc9bf0196c4db28ce8df919 "Homogeneize generation params \(#428\)
+This PR does 3 things:
+  Provide an homogeneized API for people to use to provide model generation parameters in model configs. Those parameters are notably provided to all models which can take them \(vllm, open ai, tgi, transformers, ...\)
+  Renames BaseModel to TransformersModel
+  Also allows TransformersModels to use a transformers.GenerationConfig object directly, when created programmatically
+I would put system_prompt, fewshot_seeds, and use_chat_template in the GenerationParameters too since they are generation parameters logically, but it can be another PR
+---------
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>
+Co-authored-by: Albert Villanova del Moral <8515462+albertvillanova@users.noreply.github.com>")[#428](https://github.com/huggingface/lighteval/pull/428)[)](/huggingface/lighteval/commit/5a28b229ee256cf6ddc9bf0196c4db28ce8df919 "Homogeneize generation params \(#428\)
+This PR does 3 things:
+  Provide an homogeneized API for people to use to provide model generation parameters in model configs. Those parameters are notably provided to all models which can take them \(vllm, open ai, tgi, transformers, ...\)
+  Renames BaseModel to TransformersModel
+  Also allows TransformersModels to use a transformers.GenerationConfig object directly, when created programmatically
+I would put system_prompt, fewshot_seeds, and use_chat_template in the GenerationParameters too since they are generation parameters logically, but it can be another PR
+---------
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>
+Co-authored-by: Albert Villanova del Moral <8515462+albertvillanova@users.noreply.github.com>")| Jan 2, 2025  
+[examples](/huggingface/lighteval/tree/main/examples "examples")| [examples](/huggingface/lighteval/tree/main/examples "examples")| [Homogeneize generation params (](/huggingface/lighteval/commit/5a28b229ee256cf6ddc9bf0196c4db28ce8df919 "Homogeneize generation params \(#428\)
+This PR does 3 things:
+  Provide an homogeneized API for people to use to provide model generation parameters in model configs. Those parameters are notably provided to all models which can take them \(vllm, open ai, tgi, transformers, ...\)
+  Renames BaseModel to TransformersModel
+  Also allows TransformersModels to use a transformers.GenerationConfig object directly, when created programmatically
+I would put system_prompt, fewshot_seeds, and use_chat_template in the GenerationParameters too since they are generation parameters logically, but it can be another PR
+---------
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>
+Co-authored-by: Albert Villanova del Moral <8515462+albertvillanova@users.noreply.github.com>")[#428](https://github.com/huggingface/lighteval/pull/428)[)](/huggingface/lighteval/commit/5a28b229ee256cf6ddc9bf0196c4db28ce8df919 "Homogeneize generation params \(#428\)
+This PR does 3 things:
+  Provide an homogeneized API for people to use to provide model generation parameters in model configs. Those parameters are notably provided to all models which can take them \(vllm, open ai, tgi, transformers, ...\)
+  Renames BaseModel to TransformersModel
+  Also allows TransformersModels to use a transformers.GenerationConfig object directly, when created programmatically
+I would put system_prompt, fewshot_seeds, and use_chat_template in the GenerationParameters too since they are generation parameters logically, but it can be another PR
+---------
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>
+Co-authored-by: Albert Villanova del Moral <8515462+albertvillanova@users.noreply.github.com>")| Jan 2, 2025  
+[src/lighteval](/huggingface/lighteval/tree/main/src/lighteval "This path skips through empty directories")| [src/lighteval](/huggingface/lighteval/tree/main/src/lighteval "This path skips through empty directories")| [Made judge response processing more robust. (](/huggingface/lighteval/commit/0140578560789a4e2b1b90435f708daf60c2047c "Made judge response processing more robust. \(#491\)")[#491](https://github.com/huggingface/lighteval/pull/491)[)](/huggingface/lighteval/commit/0140578560789a4e2b1b90435f708daf60c2047c "Made judge response processing more robust. \(#491\)")| Jan 20, 2025  
+[tests](/huggingface/lighteval/tree/main/tests "tests")| [tests](/huggingface/lighteval/tree/main/tests "tests")| [Fix math extraction (](/huggingface/lighteval/commit/90d44c1e79345a104f8e3f908b259dfbdf394249 "Fix math extraction \(#503\)
+* extract matching
+* better docstring
+* lazy imports
+* bump up math
+* Update src/lighteval/metrics/dynamic_metrics.py
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+* fix pr commnets
+* Apply suggestions from code review
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+* rename comparisson -> comparison
+* fix expr numbers extraction with currency or units
+* add test for correct extraction of failed answer
+---------
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>")[#503](https://github.com/huggingface/lighteval/pull/503)[)](/huggingface/lighteval/commit/90d44c1e79345a104f8e3f908b259dfbdf394249 "Fix math extraction \(#503\)
+* extract matching
+* better docstring
+* lazy imports
+* bump up math
+* Update src/lighteval/metrics/dynamic_metrics.py
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+* fix pr commnets
+* Apply suggestions from code review
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+* rename comparisson -> comparison
+* fix expr numbers extraction with currency or units
+* add test for correct extraction of failed answer
+---------
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>")| Jan 18, 2025  
+[.gitattributes](/huggingface/lighteval/blob/main/.gitattributes ".gitattributes")| [.gitattributes](/huggingface/lighteval/blob/main/.gitattributes ".gitattributes")| [Init](/huggingface/lighteval/commit/e469d7e278e9a30fa5013afd47bfb50c3a7ae3bc "Init
+Co-authored-by: Nathan Habib <nathan.habib@huggingface.co>
+Co-authored-by: Thom Wolf <thom@huggingface.co>")| Jan 26, 2024  
+[.gitignore](/huggingface/lighteval/blob/main/.gitignore ".gitignore")| [.gitignore](/huggingface/lighteval/blob/main/.gitignore ".gitignore")| [Add config files for models (](/huggingface/lighteval/commit/efa17331783c8d4e6899dce5b798aca9f704212c "Add config files for models \(#131\)
+* added the different configs through yaml files
+* edited task examples path
+---------
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>")[#131](https://github.com/huggingface/lighteval/pull/131)[)](/huggingface/lighteval/commit/efa17331783c8d4e6899dce5b798aca9f704212c "Add config files for models \(#131\)
+* added the different configs through yaml files
+* edited task examples path
+---------
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>")| Apr 3, 2024  
+[.pre-commit-config.yaml](/huggingface/lighteval/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/huggingface/lighteval/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Now only uses functions for prompt definition (](/huggingface/lighteval/commit/4651531e4716911f9934b09d6b813fdbe18e7149 "Now only uses functions for prompt definition \(#213\)
+* add function prompt assigment
+* add json casting
+* fix ruff setting + fmt
+* replaced json tasks by python tasks, step 1
+* wip
+* simplification part 1
+* fix extended tasks + typo
+* fix
+* fix nanotron example
+* small fix
+* now use function, not string, to pass prompts in examples
+* moved everyone to function calling
+* LightevalTask now only takes functions
+* removed templated type which messed up the test suite
+* last fix + doc udpate
+* Update src/lighteval/tasks/registry.py
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>
+---------
+Co-authored-by: Hynek Kydlíček <kydlicek.hynek@gmail.com>
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>")[#213](https://github.com/huggingface/lighteval/pull/213)[)](/huggingface/lighteval/commit/4651531e4716911f9934b09d6b813fdbe18e7149 "Now only uses functions for prompt definition \(#213\)
+* add function prompt assigment
+* add json casting
+* fix ruff setting + fmt
+* replaced json tasks by python tasks, step 1
+* wip
+* simplification part 1
+* fix extended tasks + typo
+* fix
+* fix nanotron example
+* small fix
+* now use function, not string, to pass prompts in examples
+* moved everyone to function calling
+* LightevalTask now only takes functions
+* removed templated type which messed up the test suite
+* last fix + doc udpate
+* Update src/lighteval/tasks/registry.py
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>
+---------
+Co-authored-by: Hynek Kydlíček <kydlicek.hynek@gmail.com>
+Co-authored-by: Nathan Habib <30601243+NathanHB@users.noreply.github.com>")| Jul 9, 2024  
+[LICENSE](/huggingface/lighteval/blob/main/LICENSE "LICENSE")| [LICENSE](/huggingface/lighteval/blob/main/LICENSE "LICENSE")| [Create LICENSE (](/huggingface/lighteval/commit/927e63ef0809ce21ff4942fddd90a062bab9f25a "Create LICENSE \(#86\)
+Adds license file to fit Pytoml info")[#86](https://github.com/huggingface/lighteval/pull/86)[)](/huggingface/lighteval/commit/927e63ef0809ce21ff4942fddd90a062bab9f25a "Create LICENSE \(#86\)
+Adds license file to fit Pytoml info")| Mar 4, 2024  
+[MANIFEST.in](/huggingface/lighteval/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](/huggingface/lighteval/blob/main/MANIFEST.in "MANIFEST.in")| [Fix missing json file (](/huggingface/lighteval/commit/01a5129f9a821a66a451ce233c947d5c7a093283 "Fix missing json file \(#264\)
+* change priority when choosing model dtype
+* adds json files to manifest so that they are included in compiled package
+* cleanup")[#264](https://github.com/huggingface/lighteval/pull/264)[)](/huggingface/lighteval/commit/01a5129f9a821a66a451ce233c947d5c7a093283 "Fix missing json file \(#264\)
+* change priority when choosing model dtype
+* adds json files to manifest so that they are included in compiled package
+* cleanup")| Aug 14, 2024  
+[Makefile](/huggingface/lighteval/blob/main/Makefile "Makefile")| [Makefile](/huggingface/lighteval/blob/main/Makefile "Makefile")| [Makefile](/huggingface/lighteval/commit/2abd238e8a4593d6c324f2d2f2587df2b4b4532a "Makefile")| Jan 26, 2024  
+[README.md](/huggingface/lighteval/blob/main/README.md "README.md")| [README.md](/huggingface/lighteval/blob/main/README.md "README.md")| [fix README link (](/huggingface/lighteval/commit/a7aa6edbc29c2c18e2242452c34b34143de3f5d4 "fix README link \(#500\)")[#500](https://github.com/huggingface/lighteval/pull/500)[)](/huggingface/lighteval/commit/a7aa6edbc29c2c18e2242452c34b34143de3f5d4 "fix README link \(#500\)")| Jan 14, 2025  
+[pyproject.toml](/huggingface/lighteval/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/huggingface/lighteval/blob/main/pyproject.toml "pyproject.toml")| [Extractive Match metric (](/huggingface/lighteval/commit/59624c88b55f48a94a40243a873165e94c801f9c "Extractive Match metric \(#495\)
+* extract matching
+* better docstring
+* lazy imports
+* bump up math
+* Update src/lighteval/metrics/dynamic_metrics.py
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+* fix pr commnets
+* Apply suggestions from code review
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+* rename comparisson -> comparison
+---------
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>")[#495](https://github.com/huggingface/lighteval/pull/495)[)](/huggingface/lighteval/commit/59624c88b55f48a94a40243a873165e94c801f9c "Extractive Match metric \(#495\)
+* extract matching
+* better docstring
+* lazy imports
+* bump up math
+* Update src/lighteval/metrics/dynamic_metrics.py
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+* fix pr commnets
+* Apply suggestions from code review
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>
+* rename comparisson -> comparison
+---------
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>")| Jan 15, 2025  
+[setup.py](/huggingface/lighteval/blob/main/setup.py "setup.py")| [setup.py](/huggingface/lighteval/blob/main/setup.py "setup.py")| [add license header to src files (](/huggingface/lighteval/commit/2d529ac8ad0bee826d82e8b8e1ade2cdb52de2b2 "add license header to src files \(#89\)
+
+---------
+Co-authored-by: Nathan Habib <nathan.habib@huggingface.com>
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>")[#89](https://github.com/huggingface/lighteval/pull/89)[)](/huggingface/lighteval/commit/2d529ac8ad0bee826d82e8b8e1ade2cdb52de2b2 "add license header to src files \(#89\)
+
+---------
+Co-authored-by: Nathan Habib <nathan.habib@huggingface.com>
+Co-authored-by: Clémentine Fourrier <22726840+clefourrier@users.noreply.github.com>")| Mar 6, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [MIT license](#)
+
+
+
+[![lighteval library logo](/huggingface/lighteval/raw/main/assets/lighteval-doc.svg)](/huggingface/lighteval/blob/main/assets/lighteval-doc.svg)
+
+_Your go-to toolkit for lightning-fast, flexible LLM evaluation, from Hugging Face's Leaderboard and Evals Team._
+
+[![Tests](https://github.com/huggingface/lighteval/actions/workflows/tests.yaml/badge.svg?branch=main)](https://github.com/huggingface/lighteval/actions/workflows/tests.yaml?query=branch%3Amain) [![Quality](https://github.com/huggingface/lighteval/actions/workflows/quality.yaml/badge.svg?branch=main)](https://github.com/huggingface/lighteval/actions/workflows/quality.yaml?query=branch%3Amain) [![Python versions](https://camo.githubusercontent.com/4382201c4835515843e125958a7f0501f93858ff0d41f95a809731ad717c7892/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f6c696768746576616c)](https://www.python.org/downloads/) [![License](https://camo.githubusercontent.com/28f4d479bf0a9b033b3a3b95ab2adc343da448a025b01aefdc0fbc7f0e169eb8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667)](https://github.com/huggingface/lighteval/blob/main/LICENSE) [![Version](https://camo.githubusercontent.com/99b811e9bc783c5ae7c027bb086f927415eeab8ab7de2806a96c7b6dbad81c1f/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f6c696768746576616c)](https://pypi.org/project/lighteval/)
+
+**Documentation** : [Lighteval's Wiki](https://huggingface.co/docs/lighteval/index)
+
+### Unlock the Power of LLM Evaluation with Lighteval 🚀
+
+[](#unlock-the-power-of-llm-evaluation-with-lighteval-)
+
+**Lighteval** is your all-in-one toolkit for evaluating LLMs across multiple backends—whether it's [transformers](https://github.com/huggingface/transformers), [tgi](https://github.com/huggingface/text-generation-inference), [vllm](https://github.com/vllm-project/vllm), or [nanotron](https://github.com/huggingface/nanotron)—with ease. Dive deep into your model’s performance by saving and exploring detailed, sample-by-sample results to debug and see how your models stack-up.
+
+Customization at your fingertips: letting you either browse all our existing [tasks](https://github.com/huggingface/lighteval/wiki/Available-Tasks) and [metrics](https://github.com/huggingface/lighteval/wiki/Metric-List) or effortlessly [create your own](https://github.com/huggingface/lighteval/wiki/Adding-a-Custom-Task), tailored to your needs.
+
+Seamlessly experiment, benchmark, and store your results on the Hugging Face Hub, S3, or locally.
+
+## 🔑 Key Features
+
+[](#-key-features)
+
+  * **Speed** : [Use vllm as backend for fast evals](https://huggingface.co/docs/lighteval/use-vllm-as-backend).
+  * **Completeness** : [Use the accelerate backend to launch any models hosted on Hugging Face](https://huggingface.co/docs/lighteval/quicktour#accelerate).
+  * **Seamless Storage** : [Save results in S3 or Hugging Face Datasets](https://huggingface.co/docs/lighteval/saving-and-reading-results).
+  * **Python API** : [Simple integration with the Python API](https://huggingface.co/docs/lighteval/using-the-python-api).
+  * **Custom Tasks** : [Easily add custom tasks](https://huggingface.co/docs/lighteval/adding-a-custom-task).
+  * **Versatility** : Tons of [metrics](https://huggingface.co/docs/lighteval/metric-list) and [tasks](https://huggingface.co/docs/lighteval/available-tasks) ready to go.
+
+
+
+## ⚡️ Installation
+
+[](#️-installation)
+
+```
+pip install lighteval
+```
+
+Lighteval allows for many extras when installing, see [here](https://huggingface.co/docs/lighteval/installation) for a complete list.
+
+If you want to push results to the Hugging Face Hub, add your access token as an environment variable:
+
+```
+huggingface-cli login
+```
+
+## 🚀 Quickstart
+
+[](#-quickstart)
+
+Lighteval offers two main entry points for model evaluation:
+
+  * `lighteval accelerate` : evaluate models on CPU or one or more GPUs using [🤗 Accelerate](https://github.com/huggingface/accelerate)
+  * `lighteval nanotron`: evaluate models in distributed settings using [⚡️ Nanotron](https://github.com/huggingface/nanotron)
+  * `lighteval vllm`: evaluate models on one or more GPUs using [🚀 VLLM](https://github.com/vllm-project/vllm)
+  * `lighteval endpoint`
+    * `inference-endpoint`: evaluate models on one or more GPUs using [🔗 Inference Endpoint](https://huggingface.co/inference-endpoints/dedicated)
+    * `tgi`: evaluate models on one or more GPUs using [🔗 Text Generation Inference](https://huggingface.co/docs/text-generation-inference/en/index)
+    * `openai`: evaluate models on one or more GPUs using [🔗 OpenAI API](https://platform.openai.com/)
+
+
+
+Here’s a quick command to evaluate using the Accelerate backend:
+
+```
+lighteval accelerate \ "pretrained=gpt2" \ "leaderboard|truthfulqa:mc|0|0"
+```
+
+## 🙏 Acknowledgements
+
+[](#-acknowledgements)
+
+Lighteval started as an extension of the fantastic [Eleuther AI Harness](https://github.com/EleutherAI/lm-evaluation-harness) (which powers the [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)) and draws inspiration from the amazing [HELM](https://crfm.stanford.edu/helm/latest/) framework.
+
+While evolving Lighteval into its own standalone tool, we are grateful to the Harness and HELM teams for their pioneering work on LLM evaluations.
+
+## 🌟 Contributions Welcome 💙💚💛💜🧡
+
+[](#-contributions-welcome-)
+
+Got ideas? Found a bug? Want to add a [task](https://huggingface.co/docs/lighteval/adding-a-custom-task) or [metric](https://huggingface.co/docs/lighteval/adding-a-new-metric)? Contributions are warmly welcomed!
+
+If you're adding a new feature, please open an issue first.
+
+If you open a PR, don't forget to run the styling!
+
+```
+pip install -e .[dev] pre-commit install pre-commit run --all-files
+```
+
+## 📜 Citation
+
+[](#-citation)
+
+```
+@misc{lighteval, author = {Fourrier, Clémentine and Habib, Nathan and Wolf, Thomas and Tunstall, Lewis}, title = {LightEval: A lightweight framework for LLM evaluation}, year = {2023}, version = {0.5.0}, url = {https://github.com/huggingface/lighteval} }
+```
+
+## About
+
+Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends 
+
+### Topics
+
+[ evaluation ](/topics/evaluation "Topic: evaluation") [ evaluation-metrics ](/topics/evaluation-metrics "Topic: evaluation-metrics") [ evaluation-framework ](/topics/evaluation-framework "Topic: evaluation-framework") [ huggingface ](/topics/huggingface "Topic: huggingface")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+[ Activity](/huggingface/lighteval/activity)
+
+[ Custom properties](/huggingface/lighteval/custom-properties)
+
+### Stars
+
+[ **982** stars](/huggingface/lighteval/stargazers)
+
+### Watchers
+
+[ **29** watching](/huggingface/lighteval/watchers)
+
+### Forks
+
+[ **122** forks](/huggingface/lighteval/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhuggingface%2Flighteval&report=huggingface+%28user%29)
+
+##  [Releases 8](/huggingface/lighteval/releases)
+
+[ v0.7.0 Latest  Jan 3, 2025 ](/huggingface/lighteval/releases/tag/v0.7.0)
+
+[+ 7 releases](/huggingface/lighteval/releases)
+
+##  [Contributors 48](/huggingface/lighteval/graphs/contributors)
+
+  * [ ![@clefourrier](https://avatars.githubusercontent.com/u/22726840?s=64&v=4) ](https://github.com/clefourrier)
+  * [ ![@NathanHB](https://avatars.githubusercontent.com/u/30601243?s=64&v=4) ](https://github.com/NathanHB)
+  * [ ![@hynky1999](https://avatars.githubusercontent.com/u/39408646?s=64&v=4) ](https://github.com/hynky1999)
+  * [ ![@albertvillanova](https://avatars.githubusercontent.com/u/8515462?s=64&v=4) ](https://github.com/albertvillanova)
+  * [ ![@thomwolf](https://avatars.githubusercontent.com/u/7353373?s=64&v=4) ](https://github.com/thomwolf)
+  * [ ![@sadra-barikbin](https://avatars.githubusercontent.com/u/22097587?s=64&v=4) ](https://github.com/sadra-barikbin)
+  * [ ![@lewtun](https://avatars.githubusercontent.com/u/26859204?s=64&v=4) ](https://github.com/lewtun)
+  * [ ![@JoelNiklaus](https://avatars.githubusercontent.com/u/3775944?s=64&v=4) ](https://github.com/JoelNiklaus)
+  * [ ![@shaltielshmid](https://avatars.githubusercontent.com/u/20192446?s=64&v=4) ](https://github.com/shaltielshmid)
+  * [ ![@Wauplin](https://avatars.githubusercontent.com/u/11801849?s=64&v=4) ](https://github.com/Wauplin)
+  * [ ![@chuandudx](https://avatars.githubusercontent.com/u/22084988?s=64&v=4) ](https://github.com/chuandudx)
+  * [ ![@alielfilali01](https://avatars.githubusercontent.com/u/58257628?s=64&v=4) ](https://github.com/alielfilali01)
+  * [ ![@ryan-minato](https://avatars.githubusercontent.com/u/82735346?s=64&v=4) ](https://github.com/ryan-minato)
+  * [ ![@PhilipMay](https://avatars.githubusercontent.com/u/229382?s=64&v=4) ](https://github.com/PhilipMay)
+
+
+
+[+ 34 contributors](/huggingface/lighteval/graphs/contributors)
+
+## Languages
+
+  * [ Python 100.0% ](/huggingface/lighteval/search?l=python)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

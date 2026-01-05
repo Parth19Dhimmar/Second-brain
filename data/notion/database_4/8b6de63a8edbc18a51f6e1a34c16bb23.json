@@ -1,0 +1,31 @@
+{
+    "id": "8b6de63a8edbc18a51f6e1a34c16bb23",
+    "metadata": {
+        "id": "8b6de63a8edbc18a51f6e1a34c16bb23",
+        "url": "https://www.notion.so/Architecture-System-Design-8b6de63a8edbc18a51f6e1a34c16bb23",
+        "title": "Architecture & System Design",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ],
+            "Language": null,
+            "Created": {
+                "id": "tmas",
+                "type": "created_time",
+                "created_time": "2024-10-30T12:44:00.000Z"
+            }
+        }
+    },
+    "parent_metadata": {
+        "id": "d8d9dfbf1df8ea902c094ccc4f9240de",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Community\n\n[https://www.youtube.com/watch?v=evmZTh7l6UE](https://www.youtube.com/watch?v=evmZTh7l6UE)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://www.youtube.com/watch?v=evmZTh7l6UE/"
+    ]
+}

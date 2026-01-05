@@ -1,0 +1,923 @@
+[![Logo](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/65255680bc6fa3c9a26b3ec4_untitled-ui-logo.webp)![The image is blank, so there are no elements to describe or keywords to apply.](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/6525583e3561d9a2bf3dc002_Vectors-Wrapper.svg)](/)
+
+Product
+
+DATA SCience
+
+[Iterate at warp speedAccelerate your ML workflow seamlessly](/features/iterate-at-warp-speed)[Auto-track everythingAutomatic logging and versioning](/features/auto-track-everything)[Shared ML building blocksBoost team productivity with reusable components](/features/shared-ml-building-blocks)
+
+Infrastructure
+
+[Backend flexibility, zero lock-inOne framework for all your MLOps and LLMOps needs](/features/backend-flexibility-zero-lock-in)[Limitless scalingEffortlessly deploy across clouds](/features/limitless-scaling)[Streamline cloud expensesGain clarity on resource usage and costs](/features/streamline-cloud-expenses)
+
+Organization
+
+[ZenML ProOur managed control plane for MLOps](/pro)[ZenML vs Other ToolsCompare ZenML to other ML tools](/compare)[Integrations50+ integrations to ease your workflow](/integrations)
+
+Solutions
+
+GENAI & LLMS
+
+[Finetuning LLMsCustomize large language models for specific tasks](https://github.com/zenml-io/zenml-projects/tree/main/llm-lora-finetuning)[Productionalizing a RAG applicationDeploy and scale RAG systems](https://docs.zenml.io/user-guide/llmops-guide)[LLMOps DatabaseA curated knowledge base of real-world implementations](/llmops-database)
+
+mlops
+
+[Building Enterprise MLOpsPlatform architecture and best practices](/whitepaper-architecting-an-enterprise-grade-mlops-platform)[Abstract cloud computeSimplify management of cloud-based ML resources](https://www.zenml.io/features/backend-flexibility-zero-lock-in)[Track metrics and metadataMonitor and analyze ML model performance and data](https://docs.zenml.io/user-guide/starter-guide/track-ml-models)
+
+Success Stories
+
+[![Teal "adeo" logo on a white background.](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/65ddeac9b6199bfeb57b7223_adeo_logo-min.png)![Green triangle logo with the words "Leroy Merlin" in black text.](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/65c49832a235dab4e3e0a3ce_leroy-merlin.svg)Adeo Leroy MerlinRetail](/case-study/adeo-leroy-merlin)[![Logo of Brevo, previously known as Sendinblue, displayed in green and black text.](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/652d3e5d29d36f927c2bb623_brevo.webp)BrevoEmail Marketing](/case-study/brevo)
+
+Developers
+
+Documentation
+
+[DocsComprehensive guides to use ZenML](https://docs.zenml.io)[Deploying ZenML Understanding ZenML system architecture](/deployments)[TutorialsComprehensive guides to use ZenML](https://docs.zenml.io/getting-started/deploying-zenml)
+
+[GUIDES](https://docs.zenml.io/user-guide/starter-guide)[QuickstartQuickly get your hands dirty](https://colab.research.google.com/github/zenml-io/zenml/blob/main/examples/quickstart/quickstart.ipynb)[ShowcaseProjects of ML use cases built with ZenML](https://github.com/zenml-io/zenml-projects)[Starter GuideGet started with the basics](https://docs.zenml.io/user-guide/starter-guide)
+
+COMMUNITY
+
+[SlackJoin our Slack Community](/slack)[ChangelogDiscover what’s new on ZenML](https://community.zenml.io/changelog)[RoadmapJoin us on our MLOps journey](/roadmap)
+
+[Pricing](/pricing)[Blog](/blog)
+
+[Sign In](https://cloud.zenml.io/login)[Start Free](https://cloud.zenml.io/signup?utm_source=website&utm_medium=website_nav&utm_campaign=cloud_promotion&utm_content=signup_link)
+
+# LLMOps Database
+
+A curated knowledge base of real-world LLMOps implementations, with detailed summaries and technical notes. Check out our topic-based summary blogs [here](https://www.zenml.io/category/llmops).[Submit your use case.](https://docs.google.com/forms/d/e/1FAIpQLSfrRC0_k3LrrHRBCjtxULmER1-RJgtt1lveyezMY98Li_5lWw/viewform)
+
+Filters
+
+[Clear](#)
+
+Search filter
+
+[Clear](#)
+
+Filter by tag
+
+[Clear](#)
+
+agent_based
+
+amazon_aws
+
+anthropic
+
+api_gateway
+
+argilla
+
+aws
+
+cache
+
+caption_generation
+
+chatbot
+
+chromadb
+
+chunking
+
+cicd
+
+circleci
+
+classification
+
+cloudflare
+
+code_generation
+
+code_interpretation
+
+cohere
+
+compliance
+
+content_moderation
+
+continuous_deployment
+
+continuous_integration
+
+cost_optimization
+
+crewai
+
+customer_support
+
+data_analysis
+
+data_cleaning
+
+data_integration
+
+databases
+
+databricks
+
+devops
+
+docker
+
+document_processing
+
+documentation
+
+elasticsearch
+
+embeddings
+
+error_handling
+
+fallback_strategies
+
+fastapi
+
+few_shot
+
+fine_tuning
+
+fraud_detection
+
+google
+
+google_gcp
+
+guardrails
+
+healthcare
+
+high_stakes_application
+
+hugging_face
+
+human_in_the_loop
+
+instruction_tuning
+
+internet_of_things
+
+knowledge_distillation
+
+kubernetes
+
+langchain
+
+latency_optimization
+
+legacy_system_integration
+
+llama_index
+
+load_balancing
+
+meta
+
+microservices
+
+microsoft
+
+microsoft_azure
+
+mistral
+
+model_optimization
+
+monitoring
+
+multi_agent_systems
+
+multi_modality
+
+nvidia
+
+open_source
+
+openai
+
+orchestration
+
+pinecone
+
+poc
+
+postgresql
+
+prompt_engineering
+
+pytorch
+
+qdrant
+
+question_answering
+
+rag
+
+realtime_application
+
+redis
+
+regulatory_compliance
+
+reliability
+
+reranking
+
+scalability
+
+scaling
+
+security
+
+semantic_search
+
+serverless
+
+spacy
+
+speech_recognition
+
+sqlite
+
+structured_output
+
+summarization
+
+system_prompts
+
+tensorflow
+
+token_optimization
+
+translation
+
+triton
+
+unstructured_data
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+### Looking to Get Ahead in LLMOps?
+
+Subscribe to the ZenML newsletter and receive regular product updates, tutorials, examples, and more.
+
+Showing
+
+240
+
+of
+
+240
+
+results
+
+[A2IMultilingual Document Processing Pipeline with Human-in-the-Loop Validation[amazon_aws,](/llmops-tags/amazon-aws)[anthropic,](/llmops-tags/anthropic)[cicd,](/llmops-tags/cicd)[document_processing,](/llmops-tags/document-processing)[fastapi,](/llmops-tags/fastapi)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[microservices,](/llmops-tags/microservices)[multi_modality,](/llmops-tags/multi-modality)[postgresql,](/llmops-tags/postgresql)[prompt_engineering,](/llmops-tags/prompt-engineering)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[structured_output,](/llmops-tags/structured-output)[system_prompts,](/llmops-tags/system-prompts)[translation,](/llmops-tags/translation)](/llmops-database/multilingual-document-processing-pipeline-with-human-in-the-loop-validation)
+
+Tech
+
+2024
+
+[ADPBuilding an Enterprise-Wide Generative AI Platform for HR and Payroll Services[cost_optimization,](/llmops-tags/cost-optimization)[databases,](/llmops-tags/databases)[databricks,](/llmops-tags/databricks)[fine_tuning,](/llmops-tags/fine-tuning)[guardrails,](/llmops-tags/guardrails)[high_stakes_application,](/llmops-tags/high-stakes-application)[legacy_system_integration,](/llmops-tags/legacy-system-integration)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)](/llmops-database/building-an-enterprise-wide-generative-ai-platform-for-hr-and-payroll-services)
+
+HR
+
+2023
+
+[AWS GenAIICBuilding Production-Grade Heterogeneous RAG Systems[amazon_aws,](/llmops-tags/amazon-aws)[anthropic,](/llmops-tags/anthropic)[caption_generation,](/llmops-tags/caption-generation)[code_generation,](/llmops-tags/code-generation)[databases,](/llmops-tags/databases)[elasticsearch,](/llmops-tags/elasticsearch)[embeddings,](/llmops-tags/embeddings)[monitoring,](/llmops-tags/monitoring)[multi_agent_systems,](/llmops-tags/multi-agent-systems)[multi_modality,](/llmops-tags/multi-modality)[prompt_engineering,](/llmops-tags/prompt-engineering)[rag,](/llmops-tags/rag)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)[system_prompts,](/llmops-tags/system-prompts)[unstructured_data,](/llmops-tags/unstructured-data)](/llmops-database/building-production-grade-heterogeneous-rag-systems)
+
+Tech
+
+2024
+
+[AWS GenAIICOptimizing RAG Systems: Lessons from Production[amazon_aws,](/llmops-tags/amazon-aws)[chunking,](/llmops-tags/chunking)[elasticsearch,](/llmops-tags/elasticsearch)[embeddings,](/llmops-tags/embeddings)[error_handling,](/llmops-tags/error-handling)[monitoring,](/llmops-tags/monitoring)[prompt_engineering,](/llmops-tags/prompt-engineering)[rag,](/llmops-tags/rag)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[semantic_search,](/llmops-tags/semantic-search)[serverless,](/llmops-tags/serverless)[structured_output,](/llmops-tags/structured-output)[unstructured_data,](/llmops-tags/unstructured-data)](/llmops-database/optimizing-rag-systems-lessons-from-production)
+
+Tech
+
+2024
+
+[Aachen Uniklinik / Aurea SoftwareNatural Language Interface for Healthcare Data Analytics using LLMs[api_gateway,](/llmops-tags/api-gateway)[data_analysis,](/llmops-tags/data-analysis)[data_cleaning,](/llmops-tags/data-cleaning)[databases,](/llmops-tags/databases)[embeddings,](/llmops-tags/embeddings)[error_handling,](/llmops-tags/error-handling)[healthcare,](/llmops-tags/healthcare)[microservices,](/llmops-tags/microservices)[openai,](/llmops-tags/openai)[postgresql,](/llmops-tags/postgresql)[prompt_engineering,](/llmops-tags/prompt-engineering)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)](/llmops-database/natural-language-interface-for-healthcare-data-analytics-using-llms)
+
+Healthcare
+
+[AccentureImplementing Generative AI in Manufacturing: A Multi-Use Case Study[amazon_aws,](/llmops-tags/amazon-aws)[compliance,](/llmops-tags/compliance)[document_processing,](/llmops-tags/document-processing)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[fallback_strategies,](/llmops-tags/fallback-strategies)[google_gcp,](/llmops-tags/google-gcp)[guardrails,](/llmops-tags/guardrails)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[internet_of_things,](/llmops-tags/internet-of-things)[legacy_system_integration,](/llmops-tags/legacy-system-integration)[microsoft_azure,](/llmops-tags/microsoft-azure)[monitoring,](/llmops-tags/monitoring)[multi_agent_systems,](/llmops-tags/multi-agent-systems)[orchestration,](/llmops-tags/orchestration)[poc,](/llmops-tags/poc)[prompt_engineering,](/llmops-tags/prompt-engineering)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[security,](/llmops-tags/security)](/llmops-database/implementing-generative-ai-in-manufacturing-a-multi-use-case-study)
+
+Tech
+
+2023
+
+[AccentureEnterprise Knowledge Base Assistant Using Multi-Model GenAI Architecture[amazon_aws,](/llmops-tags/amazon-aws)[anthropic,](/llmops-tags/anthropic)[chatbot,](/llmops-tags/chatbot)[customer_support,](/llmops-tags/customer-support)[elasticsearch,](/llmops-tags/elasticsearch)[embeddings,](/llmops-tags/embeddings)[fastapi,](/llmops-tags/fastapi)[healthcare,](/llmops-tags/healthcare)[langchain,](/llmops-tags/langchain)[pinecone,](/llmops-tags/pinecone)[prompt_engineering,](/llmops-tags/prompt-engineering)[question_answering,](/llmops-tags/question-answering)[rag,](/llmops-tags/rag)[redis,](/llmops-tags/redis)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[semantic_search,](/llmops-tags/semantic-search)[translation,](/llmops-tags/translation)](/llmops-database/enterprise-knowledge-base-assistant-using-multi-model-genai-architecture)
+
+Healthcare
+
+2023
+
+[AccentureSpecialized Language Models for Contact Center Transformation[customer_support,](/llmops-tags/customer-support)[databricks,](/llmops-tags/databricks)[fine_tuning,](/llmops-tags/fine-tuning)[latency_optimization,](/llmops-tags/latency-optimization)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[multi_modality,](/llmops-tags/multi-modality)[prompt_engineering,](/llmops-tags/prompt-engineering)[realtime_application,](/llmops-tags/realtime-application)[scaling,](/llmops-tags/scaling)](/llmops-database/specialized-language-models-for-contact-center-transformation)
+
+Consulting
+
+[AccoladeEnhancing Healthcare Service Delivery with RAG and LLM-Powered Search[amazon_aws,](/llmops-tags/amazon-aws)[api_gateway,](/llmops-tags/api-gateway)[compliance,](/llmops-tags/compliance)[databases,](/llmops-tags/databases)[databricks,](/llmops-tags/databricks)[error_handling,](/llmops-tags/error-handling)[fastapi,](/llmops-tags/fastapi)[healthcare,](/llmops-tags/healthcare)[high_stakes_application,](/llmops-tags/high-stakes-application)[prompt_engineering,](/llmops-tags/prompt-engineering)[question_answering,](/llmops-tags/question-answering)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)[system_prompts,](/llmops-tags/system-prompts)](/llmops-database/enhancing-healthcare-service-delivery-with-rag-and-llm-powered-search)
+
+Healthcare
+
+[ActiveloopEnterprise-Grade Memory Agents for Patent Processing with Deep Lake[amazon_aws,](/llmops-tags/amazon-aws)[chunking,](/llmops-tags/chunking)[databases,](/llmops-tags/databases)[document_processing,](/llmops-tags/document-processing)[embeddings,](/llmops-tags/embeddings)[fine_tuning,](/llmops-tags/fine-tuning)[langchain,](/llmops-tags/langchain)[llama_index,](/llmops-tags/llama-index)[microsoft_azure,](/llmops-tags/microsoft-azure)[model_optimization,](/llmops-tags/model-optimization)[multi_agent_systems,](/llmops-tags/multi-agent-systems)[openai,](/llmops-tags/openai)[orchestration,](/llmops-tags/orchestration)[prompt_engineering,](/llmops-tags/prompt-engineering)[rag,](/llmops-tags/rag)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[semantic_search,](/llmops-tags/semantic-search)[serverless,](/llmops-tags/serverless)[structured_output,](/llmops-tags/structured-output)[unstructured_data,](/llmops-tags/unstructured-data)](/llmops-database/enterprise-grade-memory-agents-for-patent-processing-with-deep-lake)
+
+Legal
+
+2023
+
+[AcxiomLLM Observability for Enhanced Audience Segmentation Systems[agent_based,](/llmops-tags/agent-based)[amazon_aws,](/llmops-tags/amazon-aws)[anthropic,](/llmops-tags/anthropic)[data_analysis,](/llmops-tags/data-analysis)[data_integration,](/llmops-tags/data-integration)[databricks,](/llmops-tags/databricks)[error_handling,](/llmops-tags/error-handling)[langchain,](/llmops-tags/langchain)[multi_agent_systems,](/llmops-tags/multi-agent-systems)[prompt_engineering,](/llmops-tags/prompt-engineering)[rag,](/llmops-tags/rag)[structured_output,](/llmops-tags/structured-output)[token_optimization,](/llmops-tags/token-optimization)](/llmops-database/llm-observability-for-enhanced-audience-segmentation-systems)
+
+Media & Entertainment
+
+2025
+
+[AddverbMulti-Lingual Voice Control System for AGV Management Using Edge LLMs[fastapi,](/llmops-tags/fastapi)[internet_of_things,](/llmops-tags/internet-of-things)[latency_optimization,](/llmops-tags/latency-optimization)[meta,](/llmops-tags/meta)[model_optimization,](/llmops-tags/model-optimization)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[realtime_application,](/llmops-tags/realtime-application)[speech_recognition,](/llmops-tags/speech-recognition)[translation,](/llmops-tags/translation)[triton,](/llmops-tags/triton)](/llmops-database/multi-lingual-voice-control-system-for-agv-management-using-edge-llms)
+
+Tech
+
+2024
+
+[AdyenSmart Ticket Routing and Support Agent Copilot using LLMs[classification,](/llmops-tags/classification)[cost_optimization,](/llmops-tags/cost-optimization)[customer_support,](/llmops-tags/customer-support)[document_processing,](/llmops-tags/document-processing)[kubernetes,](/llmops-tags/kubernetes)[langchain,](/llmops-tags/langchain)[latency_optimization,](/llmops-tags/latency-optimization)[microservices,](/llmops-tags/microservices)[microsoft_azure,](/llmops-tags/microsoft-azure)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[rag,](/llmops-tags/rag)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[semantic_search,](/llmops-tags/semantic-search)](/llmops-database/smart-ticket-routing-and-support-agent-copilot-using-llms)
+
+Finance
+
+2023
+
+[AgmatixGenerative AI Assistant for Agricultural Field Trial Analysis[amazon_aws,](/llmops-tags/amazon-aws)[anthropic,](/llmops-tags/anthropic)[api_gateway,](/llmops-tags/api-gateway)[compliance,](/llmops-tags/compliance)[data_analysis,](/llmops-tags/data-analysis)[data_cleaning,](/llmops-tags/data-cleaning)[data_integration,](/llmops-tags/data-integration)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)[serverless,](/llmops-tags/serverless)[system_prompts,](/llmops-tags/system-prompts)](/llmops-database/generative-ai-assistant-for-agricultural-field-trial-analysis)
+
+Other
+
+2024
+
+[AieraBuilding and Evaluating a Financial Earnings Call Summarization System[anthropic,](/llmops-tags/anthropic)[data_analysis,](/llmops-tags/data-analysis)[embeddings,](/llmops-tags/embeddings)[fastapi,](/llmops-tags/fastapi)[google_gcp,](/llmops-tags/google-gcp)[hugging_face,](/llmops-tags/hugging-face)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)[summarization,](/llmops-tags/summarization)[system_prompts,](/llmops-tags/system-prompts)](/llmops-database/building-and-evaluating-a-financial-earnings-call-summarization-system)
+
+Finance
+
+2023
+
+[Aimpoint DigitalAI Agent System for Automated Travel Itinerary Generation[chatbot,](/llmops-tags/chatbot)[databases,](/llmops-tags/databases)[databricks,](/llmops-tags/databricks)[embeddings,](/llmops-tags/embeddings)[fastapi,](/llmops-tags/fastapi)[langchain,](/llmops-tags/langchain)[meta,](/llmops-tags/meta)[monitoring,](/llmops-tags/monitoring)[multi_agent_systems,](/llmops-tags/multi-agent-systems)[prompt_engineering,](/llmops-tags/prompt-engineering)[rag,](/llmops-tags/rag)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)](/llmops-database/ai-agent-system-for-automated-travel-itinerary-generation)
+
+Consulting
+
+2024
+
+[AirBnBEvolving a Conversational AI Platform for Production LLM Applications[api_gateway,](/llmops-tags/api-gateway)[chatbot,](/llmops-tags/chatbot)[customer_support,](/llmops-tags/customer-support)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[fallback_strategies,](/llmops-tags/fallback-strategies)[guardrails,](/llmops-tags/guardrails)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[microservices,](/llmops-tags/microservices)[monitoring,](/llmops-tags/monitoring)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[system_prompts,](/llmops-tags/system-prompts)](/llmops-database/evolving-a-conversational-ai-platform-for-production-llm-applications)
+
+Tech
+
+2024
+
+[AirbnbLLM Integration for Customer Support Automation and Enhancement[chatbot,](/llmops-tags/chatbot)[classification,](/llmops-tags/classification)[customer_support,](/llmops-tags/customer-support)[devops,](/llmops-tags/devops)[fine_tuning,](/llmops-tags/fine-tuning)[latency_optimization,](/llmops-tags/latency-optimization)[microsoft_azure,](/llmops-tags/microsoft-azure)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[prompt_engineering,](/llmops-tags/prompt-engineering)[pytorch,](/llmops-tags/pytorch)[question_answering,](/llmops-tags/question-answering)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[semantic_search,](/llmops-tags/semantic-search)[system_prompts,](/llmops-tags/system-prompts)[token_optimization,](/llmops-tags/token-optimization)](/llmops-database/llm-integration-for-customer-support-automation-and-enhancement)
+
+Tech
+
+2022
+
+[AirtopBuilding and Debugging Web Automation Agents with LangChain Ecosystem[agent_based,](/llmops-tags/agent-based)[anthropic,](/llmops-tags/anthropic)[data_analysis,](/llmops-tags/data-analysis)[data_integration,](/llmops-tags/data-integration)[error_handling,](/llmops-tags/error-handling)[fastapi,](/llmops-tags/fastapi)[google_gcp,](/llmops-tags/google-gcp)[langchain,](/llmops-tags/langchain)[monitoring,](/llmops-tags/monitoring)[multi_agent_systems,](/llmops-tags/multi-agent-systems)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[structured_output,](/llmops-tags/structured-output)[unstructured_data,](/llmops-tags/unstructured-data)](/llmops-database/building-and-debugging-web-automation-agents-with-langchain-ecosystem)
+
+Tech
+
+2024
+
+[AirtrainCost Reduction Through Fine-tuning: Healthcare Chatbot and E-commerce Product Classification[classification,](/llmops-tags/classification)[compliance,](/llmops-tags/compliance)[cost_optimization,](/llmops-tags/cost-optimization)[devops,](/llmops-tags/devops)[embeddings,](/llmops-tags/embeddings)[fine_tuning,](/llmops-tags/fine-tuning)[google_gcp,](/llmops-tags/google-gcp)[healthcare,](/llmops-tags/healthcare)[high_stakes_application,](/llmops-tags/high-stakes-application)[mistral,](/llmops-tags/mistral)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[openai,](/llmops-tags/openai)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[security,](/llmops-tags/security)](/llmops-database/cost-reduction-through-fine-tuning-healthcare-chatbot-and-e-commerce-product-classification)
+
+Healthcare
+
+2024
+
+[Alaska AirlinesAI-Powered Natural Language Flight Search Implementation[api_gateway,](/llmops-tags/api-gateway)[chatbot,](/llmops-tags/chatbot)[compliance,](/llmops-tags/compliance)[customer_support,](/llmops-tags/customer-support)[databases,](/llmops-tags/databases)[error_handling,](/llmops-tags/error-handling)[fallback_strategies,](/llmops-tags/fallback-strategies)[google_gcp,](/llmops-tags/google-gcp)[microservices,](/llmops-tags/microservices)[monitoring,](/llmops-tags/monitoring)[prompt_engineering,](/llmops-tags/prompt-engineering)[question_answering,](/llmops-tags/question-answering)[realtime_application,](/llmops-tags/realtime-application)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)[system_prompts,](/llmops-tags/system-prompts)[translation,](/llmops-tags/translation)](/llmops-database/ai-powered-natural-language-flight-search-implementation)
+
+Tech
+
+2024
+
+[AllianzAI-Powered Insurance Claims Chatbot with Continuous Feedback Loop[chatbot,](/llmops-tags/chatbot)[continuous_deployment,](/llmops-tags/continuous-deployment)[customer_support,](/llmops-tags/customer-support)[devops,](/llmops-tags/devops)[error_handling,](/llmops-tags/error-handling)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[latency_optimization,](/llmops-tags/latency-optimization)[microsoft_azure,](/llmops-tags/microsoft-azure)[monitoring,](/llmops-tags/monitoring)[prompt_engineering,](/llmops-tags/prompt-engineering)[realtime_application,](/llmops-tags/realtime-application)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)](/llmops-database/ai-powered-insurance-claims-chatbot-with-continuous-feedback-loop)
+
+Insurance
+
+2023
+
+[Allianz DirectRAG-Powered Agent Assist Tool for Insurance Contact Centers[amazon_aws,](/llmops-tags/amazon-aws)[customer_support,](/llmops-tags/customer-support)[databases,](/llmops-tags/databases)[databricks,](/llmops-tags/databricks)[langchain,](/llmops-tags/langchain)[microsoft_azure,](/llmops-tags/microsoft-azure)[prompt_engineering,](/llmops-tags/prompt-engineering)[question_answering,](/llmops-tags/question-answering)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[semantic_search,](/llmops-tags/semantic-search)](/llmops-database/rag-powered-agent-assist-tool-for-insurance-contact-centers)
+
+Insurance
+
+2024
+
+[AltanaSupply Chain Intelligence Platform Using Compound AI Systems[amazon_aws,](/llmops-tags/amazon-aws)[data_analysis,](/llmops-tags/data-analysis)[data_integration,](/llmops-tags/data-integration)[databases,](/llmops-tags/databases)[databricks,](/llmops-tags/databricks)[fine_tuning,](/llmops-tags/fine-tuning)[high_stakes_application,](/llmops-tags/high-stakes-application)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[microsoft_azure,](/llmops-tags/microsoft-azure)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[prompt_engineering,](/llmops-tags/prompt-engineering)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)](/llmops-database/supply-chain-intelligence-platform-using-compound-ai-systems)
+
+Tech
+
+2024
+
+[AmazonHIPAA-Compliant LLM-Based Chatbot for Pharmacy Customer Service[amazon_aws,](/llmops-tags/amazon-aws)[compliance,](/llmops-tags/compliance)[continuous_deployment,](/llmops-tags/continuous-deployment)[customer_support,](/llmops-tags/customer-support)[embeddings,](/llmops-tags/embeddings)[error_handling,](/llmops-tags/error-handling)[fallback_strategies,](/llmops-tags/fallback-strategies)[guardrails,](/llmops-tags/guardrails)[healthcare,](/llmops-tags/healthcare)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[load_balancing,](/llmops-tags/load-balancing)[microservices,](/llmops-tags/microservices)[monitoring,](/llmops-tags/monitoring)[orchestration,](/llmops-tags/orchestration)[question_answering,](/llmops-tags/question-answering)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[security,](/llmops-tags/security)[serverless,](/llmops-tags/serverless)](/llmops-database/hipaa-compliant-llm-based-chatbot-for-pharmacy-customer-service)
+
+Healthcare
+
+2023
+
+[AmazonBuilding a Commonsense Knowledge Graph for E-commerce Product Recommendations[amazon_aws,](/llmops-tags/amazon-aws)[data_cleaning,](/llmops-tags/data-cleaning)[data_integration,](/llmops-tags/data-integration)[databases,](/llmops-tags/databases)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[guardrails,](/llmops-tags/guardrails)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[monitoring,](/llmops-tags/monitoring)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)](/llmops-database/building-a-commonsense-knowledge-graph-for-e-commerce-product-recommendations)
+
+E-commerce
+
+2024
+
+[Amazon (Alexa)Managing Model Updates and Robustness in Production Voice Assistants[amazon_aws,](/llmops-tags/amazon-aws)[cost_optimization,](/llmops-tags/cost-optimization)[devops,](/llmops-tags/devops)[error_handling,](/llmops-tags/error-handling)[fallback_strategies,](/llmops-tags/fallback-strategies)[fine_tuning,](/llmops-tags/fine-tuning)[latency_optimization,](/llmops-tags/latency-optimization)[legacy_system_integration,](/llmops-tags/legacy-system-integration)[microservices,](/llmops-tags/microservices)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[question_answering,](/llmops-tags/question-answering)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[speech_recognition,](/llmops-tags/speech-recognition)](/llmops-database/managing-model-updates-and-robustness-in-production-voice-assistants)
+
+Tech
+
+2023
+
+[Amazon FinanceScaling RAG Accuracy from 49% to 86% in Finance Q&A Assistant[amazon_aws,](/llmops-tags/amazon-aws)[chatbot,](/llmops-tags/chatbot)[chunking,](/llmops-tags/chunking)[elasticsearch,](/llmops-tags/elasticsearch)[embeddings,](/llmops-tags/embeddings)[error_handling,](/llmops-tags/error-handling)[fastapi,](/llmops-tags/fastapi)[guardrails,](/llmops-tags/guardrails)[open_source,](/llmops-tags/open-source)[prompt_engineering,](/llmops-tags/prompt-engineering)[question_answering,](/llmops-tags/question-answering)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)[system_prompts,](/llmops-tags/system-prompts)](/llmops-database/scaling-rag-accuracy-from-49-to-86-in-finance-q-a-assistant)
+
+Finance
+
+2024
+
+[AngelListLLM-Powered Investment Document Analysis and Processing[amazon_aws,](/llmops-tags/amazon-aws)[classification,](/llmops-tags/classification)[document_processing,](/llmops-tags/document-processing)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[langchain,](/llmops-tags/langchain)[load_balancing,](/llmops-tags/load-balancing)[microsoft_azure,](/llmops-tags/microsoft-azure)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)[scaling,](/llmops-tags/scaling)[security,](/llmops-tags/security)[system_prompts,](/llmops-tags/system-prompts)](/llmops-database/llm-powered-investment-document-analysis-and-processing)
+
+Finance
+
+2023
+
+[AnthropicPrivacy-Preserving LLM Usage Analysis System for Production AI Safety[anthropic,](/llmops-tags/anthropic)[compliance,](/llmops-tags/compliance)[content_moderation,](/llmops-tags/content-moderation)[error_handling,](/llmops-tags/error-handling)[guardrails,](/llmops-tags/guardrails)[high_stakes_application,](/llmops-tags/high-stakes-application)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[monitoring,](/llmops-tags/monitoring)[prompt_engineering,](/llmops-tags/prompt-engineering)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)](/llmops-database/privacy-preserving-llm-usage-analysis-system-for-production-ai-safety)
+
+Tech
+
+2024
+
+[AnthropicBuilding a Privacy-Preserving LLM Usage Analytics System (Clio)[anthropic,](/llmops-tags/anthropic)[chatbot,](/llmops-tags/chatbot)[code_generation,](/llmops-tags/code-generation)[compliance,](/llmops-tags/compliance)[documentation,](/llmops-tags/documentation)[embeddings,](/llmops-tags/embeddings)[error_handling,](/llmops-tags/error-handling)[guardrails,](/llmops-tags/guardrails)[high_stakes_application,](/llmops-tags/high-stakes-application)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[monitoring,](/llmops-tags/monitoring)[multi_modality,](/llmops-tags/multi-modality)[prompt_engineering,](/llmops-tags/prompt-engineering)[question_answering,](/llmops-tags/question-answering)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)[system_prompts,](/llmops-tags/system-prompts)[translation,](/llmops-tags/translation)](/llmops-database/building-a-privacy-preserving-llm-usage-analytics-system-clio)
+
+Tech
+
+2023
+
+[AnzenUsing LLMs to Scale Insurance Operations at a Small Company[amazon_aws,](/llmops-tags/amazon-aws)[classification,](/llmops-tags/classification)[compliance,](/llmops-tags/compliance)[devops,](/llmops-tags/devops)[document_processing,](/llmops-tags/document-processing)[documentation,](/llmops-tags/documentation)[embeddings,](/llmops-tags/embeddings)[error_handling,](/llmops-tags/error-handling)[fallback_strategies,](/llmops-tags/fallback-strategies)[google_gcp,](/llmops-tags/google-gcp)[guardrails,](/llmops-tags/guardrails)[high_stakes_application,](/llmops-tags/high-stakes-application)[hugging_face,](/llmops-tags/hugging-face)[monitoring,](/llmops-tags/monitoring)[open_source,](/llmops-tags/open-source)[prompt_engineering,](/llmops-tags/prompt-engineering)[question_answering,](/llmops-tags/question-answering)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)](/llmops-database/using-llms-to-scale-insurance-operations-at-a-small-company)
+
+Insurance
+
+2023
+
+[AnzenBuilding Robust Legal Document Processing Applications with LLMs[chunking,](/llmops-tags/chunking)[classification,](/llmops-tags/classification)[compliance,](/llmops-tags/compliance)[document_processing,](/llmops-tags/document-processing)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[fine_tuning,](/llmops-tags/fine-tuning)[guardrails,](/llmops-tags/guardrails)[high_stakes_application,](/llmops-tags/high-stakes-application)[monitoring,](/llmops-tags/monitoring)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)[system_prompts,](/llmops-tags/system-prompts)](/llmops-database/building-robust-legal-document-processing-applications-with-llms)
+
+Insurance
+
+2023
+
+[AppFolioBuilding a Property Management AI Copilot with LangGraph and LangSmith[agent_based,](/llmops-tags/agent-based)[chatbot,](/llmops-tags/chatbot)[cicd,](/llmops-tags/cicd)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[few_shot,](/llmops-tags/few-shot)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[langchain,](/llmops-tags/langchain)[monitoring,](/llmops-tags/monitoring)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[realtime_application,](/llmops-tags/realtime-application)[reliability,](/llmops-tags/reliability)[structured_output,](/llmops-tags/structured-output)](/llmops-database/building-a-property-management-ai-copilot-with-langgraph-and-langsmith)
+
+Tech
+
+2024
+
+[ApplaudLessons from Deploying an HR-Aware AI Assistant: Five Key Implementation Insights[compliance,](/llmops-tags/compliance)[customer_support,](/llmops-tags/customer-support)[databases,](/llmops-tags/databases)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[guardrails,](/llmops-tags/guardrails)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[monitoring,](/llmops-tags/monitoring)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)[system_prompts,](/llmops-tags/system-prompts)](/llmops-database/lessons-from-deploying-an-hr-aware-ai-assistant-five-key-implementation-insights)
+
+HR
+
+2024
+
+[Arcade AIBuilding a Tool Calling Platform for LLM Agents[amazon_aws,](/llmops-tags/amazon-aws)[api_gateway,](/llmops-tags/api-gateway)[cicd,](/llmops-tags/cicd)[compliance,](/llmops-tags/compliance)[continuous_deployment,](/llmops-tags/continuous-deployment)[continuous_integration,](/llmops-tags/continuous-integration)[cost_optimization,](/llmops-tags/cost-optimization)[devops,](/llmops-tags/devops)[error_handling,](/llmops-tags/error-handling)[guardrails,](/llmops-tags/guardrails)[latency_optimization,](/llmops-tags/latency-optimization)[load_balancing,](/llmops-tags/load-balancing)[microservices,](/llmops-tags/microservices)[microsoft_azure,](/llmops-tags/microsoft-azure)[multi_agent_systems,](/llmops-tags/multi-agent-systems)[orchestration,](/llmops-tags/orchestration)[realtime_application,](/llmops-tags/realtime-application)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[security,](/llmops-tags/security)[serverless,](/llmops-tags/serverless)[structured_output,](/llmops-tags/structured-output)](/llmops-database/building-a-tool-calling-platform-for-llm-agents)
+
+Tech
+
+2024
+
+[AssembledAutomating Test Generation with LLMs at Scale[anthropic,](/llmops-tags/anthropic)[cicd,](/llmops-tags/cicd)[code_generation,](/llmops-tags/code-generation)[code_interpretation,](/llmops-tags/code-interpretation)[continuous_deployment,](/llmops-tags/continuous-deployment)[continuous_integration,](/llmops-tags/continuous-integration)[devops,](/llmops-tags/devops)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[monitoring,](/llmops-tags/monitoring)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)[security,](/llmops-tags/security)[system_prompts,](/llmops-tags/system-prompts)](/llmops-database/automating-test-generation-with-llms-at-scale)
+
+Tech
+
+2023
+
+[Athena IntelligenceOptimizing Research Report Generation with LangChain Stack and LLM Observability[data_analysis,](/llmops-tags/data-analysis)[document_processing,](/llmops-tags/document-processing)[langchain,](/llmops-tags/langchain)[monitoring,](/llmops-tags/monitoring)[multi_agent_systems,](/llmops-tags/multi-agent-systems)[openai,](/llmops-tags/openai)[orchestration,](/llmops-tags/orchestration)[prompt_engineering,](/llmops-tags/prompt-engineering)[rag,](/llmops-tags/rag)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)](/llmops-database/optimizing-research-report-generation-with-langchain-stack-and-llm-observability)
+
+Tech
+
+2024
+
+[Austrian Post GroupLLM-Based Agents for User Story Quality Enhancement in Agile Development[crewai,](/llmops-tags/crewai)[document_processing,](/llmops-tags/document-processing)[documentation,](/llmops-tags/documentation)[guardrails,](/llmops-tags/guardrails)[monitoring,](/llmops-tags/monitoring)[multi_agent_systems,](/llmops-tags/multi-agent-systems)[openai,](/llmops-tags/openai)[poc,](/llmops-tags/poc)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)[system_prompts,](/llmops-tags/system-prompts)](/llmops-database/llm-based-agents-for-user-story-quality-enhancement-in-agile-development)
+
+Government
+
+2024
+
+[BNY MellonEnterprise-Wide Virtual Assistant for Employee Knowledge Access[chatbot,](/llmops-tags/chatbot)[chunking,](/llmops-tags/chunking)[compliance,](/llmops-tags/compliance)[databases,](/llmops-tags/databases)[document_processing,](/llmops-tags/document-processing)[documentation,](/llmops-tags/documentation)[google_gcp,](/llmops-tags/google-gcp)[guardrails,](/llmops-tags/guardrails)[monitoring,](/llmops-tags/monitoring)[prompt_engineering,](/llmops-tags/prompt-engineering)[question_answering,](/llmops-tags/question-answering)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)](/llmops-database/enterprise-wide-virtual-assistant-for-employee-knowledge-access)
+
+Finance
+
+2024
+
+[BQAIntelligent Document Processing for Education Quality Assessment Reports[amazon_aws,](/llmops-tags/amazon-aws)[document_processing,](/llmops-tags/document-processing)[error_handling,](/llmops-tags/error-handling)[fastapi,](/llmops-tags/fastapi)[langchain,](/llmops-tags/langchain)[microsoft_azure,](/llmops-tags/microsoft-azure)[postgresql,](/llmops-tags/postgresql)[prompt_engineering,](/llmops-tags/prompt-engineering)[redis,](/llmops-tags/redis)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)](/llmops-database/intelligent-document-processing-for-education-quality-assessment-reports)
+
+Education
+
+2025
+
+[BabbelBuilding an AI-Assisted Content Creation Platform for Language Learning[amazon_aws,](/llmops-tags/amazon-aws)[compliance,](/llmops-tags/compliance)[cost_optimization,](/llmops-tags/cost-optimization)[document_processing,](/llmops-tags/document-processing)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[guardrails,](/llmops-tags/guardrails)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[langchain,](/llmops-tags/langchain)[openai,](/llmops-tags/openai)[orchestration,](/llmops-tags/orchestration)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[system_prompts,](/llmops-tags/system-prompts)[translation,](/llmops-tags/translation)](/llmops-database/building-an-ai-assisted-content-creation-platform-for-language-learning)
+
+Education
+
+2023
+
+[Bainbridge CapitalDeploying LLM-Based Recommendation Systems in Private Equity[amazon_aws,](/llmops-tags/amazon-aws)[api_gateway,](/llmops-tags/api-gateway)[cost_optimization,](/llmops-tags/cost-optimization)[data_analysis,](/llmops-tags/data-analysis)[data_cleaning,](/llmops-tags/data-cleaning)[embeddings,](/llmops-tags/embeddings)[hugging_face,](/llmops-tags/hugging-face)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[openai,](/llmops-tags/openai)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[semantic_search,](/llmops-tags/semantic-search)[serverless,](/llmops-tags/serverless)[structured_output,](/llmops-tags/structured-output)](/llmops-database/deploying-llm-based-recommendation-systems-in-private-equity)
+
+Finance
+
+2024
+
+[BarclaysMLOps Evolution and LLM Integration at a Major Bank[amazon_aws,](/llmops-tags/amazon-aws)[cicd,](/llmops-tags/cicd)[compliance,](/llmops-tags/compliance)[continuous_deployment,](/llmops-tags/continuous-deployment)[continuous_integration,](/llmops-tags/continuous-integration)[cost_optimization,](/llmops-tags/cost-optimization)[databases,](/llmops-tags/databases)[devops,](/llmops-tags/devops)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[fallback_strategies,](/llmops-tags/fallback-strategies)[fraud_detection,](/llmops-tags/fraud-detection)[google_gcp,](/llmops-tags/google-gcp)[guardrails,](/llmops-tags/guardrails)[high_stakes_application,](/llmops-tags/high-stakes-application)[latency_optimization,](/llmops-tags/latency-optimization)[legacy_system_integration,](/llmops-tags/legacy-system-integration)[microservices,](/llmops-tags/microservices)[microsoft_azure,](/llmops-tags/microsoft-azure)[monitoring,](/llmops-tags/monitoring)[open_source,](/llmops-tags/open-source)[prompt_engineering,](/llmops-tags/prompt-engineering)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)](/llmops-database/mlops-evolution-and-llm-integration-at-a-major-bank)
+
+Finance
+
+2024
+
+[BarclaysEnterprise Challenges and Opportunities in Large-Scale LLM Deployment[amazon_aws,](/llmops-tags/amazon-aws)[compliance,](/llmops-tags/compliance)[cost_optimization,](/llmops-tags/cost-optimization)[devops,](/llmops-tags/devops)[fine_tuning,](/llmops-tags/fine-tuning)[google_gcp,](/llmops-tags/google-gcp)[guardrails,](/llmops-tags/guardrails)[high_stakes_application,](/llmops-tags/high-stakes-application)[latency_optimization,](/llmops-tags/latency-optimization)[legacy_system_integration,](/llmops-tags/legacy-system-integration)[microsoft_azure,](/llmops-tags/microsoft-azure)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[openai,](/llmops-tags/openai)[orchestration,](/llmops-tags/orchestration)[prompt_engineering,](/llmops-tags/prompt-engineering)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[security,](/llmops-tags/security)[system_prompts,](/llmops-tags/system-prompts)[token_optimization,](/llmops-tags/token-optimization)](/llmops-database/enterprise-challenges-and-opportunities-in-large-scale-llm-deployment)
+
+Tech
+
+2024
+
+[BasetenMission-Critical LLM Inference Platform Architecture[amazon_aws,](/llmops-tags/amazon-aws)[chunking,](/llmops-tags/chunking)[continuous_deployment,](/llmops-tags/continuous-deployment)[continuous_integration,](/llmops-tags/continuous-integration)[cost_optimization,](/llmops-tags/cost-optimization)[devops,](/llmops-tags/devops)[docker,](/llmops-tags/docker)[error_handling,](/llmops-tags/error-handling)[fallback_strategies,](/llmops-tags/fallback-strategies)[fastapi,](/llmops-tags/fastapi)[google_gcp,](/llmops-tags/google-gcp)[healthcare,](/llmops-tags/healthcare)[high_stakes_application,](/llmops-tags/high-stakes-application)[kubernetes,](/llmops-tags/kubernetes)[latency_optimization,](/llmops-tags/latency-optimization)[load_balancing,](/llmops-tags/load-balancing)[microservices,](/llmops-tags/microservices)[microsoft_azure,](/llmops-tags/microsoft-azure)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[nvidia,](/llmops-tags/nvidia)[orchestration,](/llmops-tags/orchestration)[pytorch,](/llmops-tags/pytorch)[realtime_application,](/llmops-tags/realtime-application)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[serverless,](/llmops-tags/serverless)[token_optimization,](/llmops-tags/token-optimization)[triton,](/llmops-tags/triton)](/llmops-database/mission-critical-llm-inference-platform-architecture)
+
+Tech
+
+2025
+
+[BenchSciDomain-Specific LLMs for Drug Discovery Biomarker Identification[compliance,](/llmops-tags/compliance)[databases,](/llmops-tags/databases)[error_handling,](/llmops-tags/error-handling)[google_gcp,](/llmops-tags/google-gcp)[guardrails,](/llmops-tags/guardrails)[healthcare,](/llmops-tags/healthcare)[high_stakes_application,](/llmops-tags/high-stakes-application)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[multi_modality,](/llmops-tags/multi-modality)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)](/llmops-database/domain-specific-llms-for-drug-discovery-biomarker-identification)
+
+Healthcare
+
+2023
+
+[BitoMulti-Model LLM Orchestration with Rate Limit Management[anthropic,](/llmops-tags/anthropic)[code_generation,](/llmops-tags/code-generation)[code_interpretation,](/llmops-tags/code-interpretation)[cost_optimization,](/llmops-tags/cost-optimization)[embeddings,](/llmops-tags/embeddings)[error_handling,](/llmops-tags/error-handling)[fallback_strategies,](/llmops-tags/fallback-strategies)[guardrails,](/llmops-tags/guardrails)[latency_optimization,](/llmops-tags/latency-optimization)[load_balancing,](/llmops-tags/load-balancing)[openai,](/llmops-tags/openai)[orchestration,](/llmops-tags/orchestration)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)](/llmops-database/multi-model-llm-orchestration-with-rate-limit-management)
+
+Tech
+
+2023
+
+[Block (Square)Building Production-Grade Generative AI Applications with Comprehensive LLMOps[amazon_aws,](/llmops-tags/amazon-aws)[chatbot,](/llmops-tags/chatbot)[chromadb,](/llmops-tags/chromadb)[cicd,](/llmops-tags/cicd)[cost_optimization,](/llmops-tags/cost-optimization)[customer_support,](/llmops-tags/customer-support)[databricks,](/llmops-tags/databricks)[docker,](/llmops-tags/docker)[document_processing,](/llmops-tags/document-processing)[elasticsearch,](/llmops-tags/elasticsearch)[embeddings,](/llmops-tags/embeddings)[error_handling,](/llmops-tags/error-handling)[fastapi,](/llmops-tags/fastapi)[few_shot,](/llmops-tags/few-shot)[fine_tuning,](/llmops-tags/fine-tuning)[high_stakes_application,](/llmops-tags/high-stakes-application)[kubernetes,](/llmops-tags/kubernetes)[langchain,](/llmops-tags/langchain)[latency_optimization,](/llmops-tags/latency-optimization)[microsoft_azure,](/llmops-tags/microsoft-azure)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[openai,](/llmops-tags/openai)[postgresql,](/llmops-tags/postgresql)[prompt_engineering,](/llmops-tags/prompt-engineering)[rag,](/llmops-tags/rag)[redis,](/llmops-tags/redis)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)](/llmops-database/building-production-grade-generative-ai-applications-with-comprehensive-llmops)
+
+Tech
+
+2023
+
+[Blueprint AIAutomated Software Development Insights and Communication Platform[anthropic,](/llmops-tags/anthropic)[cache,](/llmops-tags/cache)[code_generation,](/llmops-tags/code-generation)[continuous_integration,](/llmops-tags/continuous-integration)[devops,](/llmops-tags/devops)[document_processing,](/llmops-tags/document-processing)[error_handling,](/llmops-tags/error-handling)[latency_optimization,](/llmops-tags/latency-optimization)[load_balancing,](/llmops-tags/load-balancing)[monitoring,](/llmops-tags/monitoring)[open_source,](/llmops-tags/open-source)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)[system_prompts,](/llmops-tags/system-prompts)](/llmops-database/automated-software-development-insights-and-communication-platform)
+
+Tech
+
+2023
+
+[BoschEnterprise-Wide Generative AI Implementation for Marketing Content Generation and Translation[compliance,](/llmops-tags/compliance)[content_moderation,](/llmops-tags/content-moderation)[document_processing,](/llmops-tags/document-processing)[documentation,](/llmops-tags/documentation)[fine_tuning,](/llmops-tags/fine-tuning)[google_gcp,](/llmops-tags/google-gcp)[guardrails,](/llmops-tags/guardrails)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[security,](/llmops-tags/security)[translation,](/llmops-tags/translation)](/llmops-database/enterprise-wide-generative-ai-implementation-for-marketing-content-generation-and-translation)
+
+Tech
+
+2023
+
+[Bud Financial / Scotts Miracle-GroBuilding Personalized Financial and Gardening Experiences with LLMs[compliance,](/llmops-tags/compliance)[customer_support,](/llmops-tags/customer-support)[google_gcp,](/llmops-tags/google-gcp)[kubernetes,](/llmops-tags/kubernetes)[microsoft_azure,](/llmops-tags/microsoft-azure)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[multi_agent_systems,](/llmops-tags/multi-agent-systems)[multi_modality,](/llmops-tags/multi-modality)[prompt_engineering,](/llmops-tags/prompt-engineering)[realtime_application,](/llmops-tags/realtime-application)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)[unstructured_data,](/llmops-tags/unstructured-data)](/llmops-database/building-personalized-financial-and-gardening-experiences-with-llms)
+
+Finance
+
+2024
+
+[Build Great AILLM-Powered 3D Model Generation for 3D Printing[anthropic,](/llmops-tags/anthropic)[code_generation,](/llmops-tags/code-generation)[error_handling,](/llmops-tags/error-handling)[fine_tuning,](/llmops-tags/fine-tuning)[latency_optimization,](/llmops-tags/latency-optimization)[meta,](/llmops-tags/meta)[multi_agent_systems,](/llmops-tags/multi-agent-systems)[multi_modality,](/llmops-tags/multi-modality)[open_source,](/llmops-tags/open-source)[openai,](/llmops-tags/openai)[poc,](/llmops-tags/poc)[prompt_engineering,](/llmops-tags/prompt-engineering)[rag,](/llmops-tags/rag)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[structured_output,](/llmops-tags/structured-output)](/llmops-database/llm-powered-3d-model-generation-for-3d-printing)
+
+Tech
+
+2024
+
+[BuzzfeedProduction-Ready LLM Integration Using Retrieval-Augmented Generation and Custom ReAct Implementation[content_moderation,](/llmops-tags/content-moderation)[databases,](/llmops-tags/databases)[embeddings,](/llmops-tags/embeddings)[fine_tuning,](/llmops-tags/fine-tuning)[google_gcp,](/llmops-tags/google-gcp)[langchain,](/llmops-tags/langchain)[monitoring,](/llmops-tags/monitoring)[openai,](/llmops-tags/openai)[pinecone,](/llmops-tags/pinecone)[prompt_engineering,](/llmops-tags/prompt-engineering)[question_answering,](/llmops-tags/question-answering)[rag,](/llmops-tags/rag)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)](/llmops-database/production-ready-llm-integration-using-retrieval-augmented-generation-and-custom-react-implementation)
+
+Media & Entertainment
+
+2023
+
+[CambriumLLMs and Protein Engineering: Building a Sustainable Materials Platform[compliance,](/llmops-tags/compliance)[databases,](/llmops-tags/databases)[documentation,](/llmops-tags/documentation)[healthcare,](/llmops-tags/healthcare)[high_stakes_application,](/llmops-tags/high-stakes-application)[hugging_face,](/llmops-tags/hugging-face)[langchain,](/llmops-tags/langchain)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[reliability,](/llmops-tags/reliability)[security,](/llmops-tags/security)[semantic_search,](/llmops-tags/semantic-search)](/llmops-database/llms-and-protein-engineering-building-a-sustainable-materials-platform)
+
+Tech
+
+2023
+
+[Campfire AIFour Critical Lessons from Building 50+ Global Chatbots: A Practitioner's Guide to Real-World Implementation[chatbot,](/llmops-tags/chatbot)[customer_support,](/llmops-tags/customer-support)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[fallback_strategies,](/llmops-tags/fallback-strategies)[guardrails,](/llmops-tags/guardrails)[microsoft_azure,](/llmops-tags/microsoft-azure)[model_optimization,](/llmops-tags/model-optimization)[monitoring,](/llmops-tags/monitoring)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)](/llmops-database/four-critical-lessons-from-building-50-global-chatbots-a-practitioner-s-guide-to-real-world-implementation)
+
+Tech
+
+2024
+
+[CanvaAutomating Post Incident Review Summaries with GPT-4[compliance,](/llmops-tags/compliance)[databases,](/llmops-tags/databases)[devops,](/llmops-tags/devops)[document_processing,](/llmops-tags/document-processing)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[monitoring,](/llmops-tags/monitoring)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[security,](/llmops-tags/security)[structured_output,](/llmops-tags/structured-output)[system_prompts,](/llmops-tags/system-prompts)](/llmops-database/automating-post-incident-review-summaries-with-gpt-4)
+
+Tech
+
+2023
+
+[CanvaSystematic LLM Evaluation Framework for Content Generation[document_processing,](/llmops-tags/document-processing)[documentation,](/llmops-tags/documentation)[error_handling,](/llmops-tags/error-handling)[guardrails,](/llmops-tags/guardrails)[human_in_the_loop,](/llmops-tags/human-in-the-loop)[monitoring,](/llmops-tags/monitoring)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[structured_output,](/llmops-tags/structured-output)](/llmops-database/systematic-llm-evaluation-framework-for-content-generation)
+
+Tech
+
+2023
+
+[CanvaLLM Feature Extraction for Content Categorization and Search Query Understanding[api_gateway,](/llmops-tags/api-gateway)[classification,](/llmops-tags/classification)[content_moderation,](/llmops-tags/content-moderation)[cost_optimization,](/llmops-tags/cost-optimization)[data_integration,](/llmops-tags/data-integration)[embeddings,](/llmops-tags/embeddings)[error_handling,](/llmops-tags/error-handling)[fallback_strategies,](/llmops-tags/fallback-strategies)[few_shot,](/llmops-tags/few-shot)[latency_optimization,](/llmops-tags/latency-optimization)[monitoring,](/llmops-tags/monitoring)[open_source,](/llmops-tags/open-source)[openai,](/llmops-tags/openai)[prompt_engineering,](/llmops-tags/prompt-engineering)[reliability,](/llmops-tags/reliability)[scalability,](/llmops-tags/scalability)[scaling,](/llmops-tags/scaling)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)](/llmops-database/llm-feature-extraction-for-content-categorization-and-search-query-understanding)
+
+Tech
+
+2023
+
+[CaptideMulti-Agent Financial Analysis System for Equity Research[agent_based,](/llmops-tags/agent-based)[data_analysis,](/llmops-tags/data-analysis)[documentation,](/llmops-tags/documentation)[fastapi,](/llmops-tags/fastapi)[langchain,](/llmops-tags/langchain)[monitoring,](/llmops-tags/monitoring)[multi_agent_systems,](/llmops-tags/multi-agent-systems)[openai,](/llmops-tags/openai)[rag,](/llmops-tags/rag)[regulatory_compliance,](/llmops-tags/regulatory-compliance)[semantic_search,](/llmops-tags/semantic-search)[structured_output,](/llmops-tags/structured-output)[unstructured_data,](/llmops-tags/unstructured-data)](/llmops-database/multi-agent-financial-analysis-system-for-equity-research)
+
+Finance
+
+2025
+
+[Previous](?ffd2bd95_page=1)[Next](?ffd2bd95_page=2)
+
+[agent_based,](/llmops-tags/agent-based)
+
+[amazon_aws,](/llmops-tags/amazon-aws)
+
+[anthropic,](/llmops-tags/anthropic)
+
+[api_gateway,](/llmops-tags/api-gateway)
+
+[argilla,](/llmops-tags/argilla)
+
+[aws,](/llmops-tags/aws)
+
+[cache,](/llmops-tags/cache)
+
+[caption_generation,](/llmops-tags/caption-generation)
+
+[chatbot,](/llmops-tags/chatbot)
+
+[chromadb,](/llmops-tags/chromadb)
+
+[chunking,](/llmops-tags/chunking)
+
+[cicd,](/llmops-tags/cicd)
+
+[circleci,](/llmops-tags/circleci)
+
+[classification,](/llmops-tags/classification)
+
+[cloudflare,](/llmops-tags/cloudflare)
+
+[code_generation,](/llmops-tags/code-generation)
+
+[code_interpretation,](/llmops-tags/code-interpretation)
+
+[cohere,](/llmops-tags/cohere)
+
+[compliance,](/llmops-tags/compliance)
+
+[content_moderation,](/llmops-tags/content-moderation)
+
+[continuous_deployment,](/llmops-tags/continuous-deployment)
+
+[continuous_integration,](/llmops-tags/continuous-integration)
+
+[cost_optimization,](/llmops-tags/cost-optimization)
+
+[crewai,](/llmops-tags/crewai)
+
+[customer_support,](/llmops-tags/customer-support)
+
+[data_analysis,](/llmops-tags/data-analysis)
+
+[data_cleaning,](/llmops-tags/data-cleaning)
+
+[data_integration,](/llmops-tags/data-integration)
+
+[databases,](/llmops-tags/databases)
+
+[databricks,](/llmops-tags/databricks)
+
+[devops,](/llmops-tags/devops)
+
+[docker,](/llmops-tags/docker)
+
+[document_processing,](/llmops-tags/document-processing)
+
+[documentation,](/llmops-tags/documentation)
+
+[elasticsearch,](/llmops-tags/elasticsearch)
+
+[embeddings,](/llmops-tags/embeddings)
+
+[error_handling,](/llmops-tags/error-handling)
+
+[fallback_strategies,](/llmops-tags/fallback-strategies)
+
+[fastapi,](/llmops-tags/fastapi)
+
+[few_shot,](/llmops-tags/few-shot)
+
+[fine_tuning,](/llmops-tags/fine-tuning)
+
+[fraud_detection,](/llmops-tags/fraud-detection)
+
+[google,](/llmops-tags/google)
+
+[google_gcp,](/llmops-tags/google-gcp)
+
+[guardrails,](/llmops-tags/guardrails)
+
+[healthcare,](/llmops-tags/healthcare)
+
+[high_stakes_application,](/llmops-tags/high-stakes-application)
+
+[hugging_face,](/llmops-tags/hugging-face)
+
+[human_in_the_loop,](/llmops-tags/human-in-the-loop)
+
+[instruction_tuning,](/llmops-tags/instruction-tuning)
+
+[internet_of_things,](/llmops-tags/internet-of-things)
+
+[knowledge_distillation,](/llmops-tags/knowledge-distillation)
+
+[kubernetes,](/llmops-tags/kubernetes)
+
+[langchain,](/llmops-tags/langchain)
+
+[latency_optimization,](/llmops-tags/latency-optimization)
+
+[legacy_system_integration,](/llmops-tags/legacy-system-integration)
+
+[llama_index,](/llmops-tags/llama-index)
+
+[load_balancing,](/llmops-tags/load-balancing)
+
+[meta,](/llmops-tags/meta)
+
+[microservices,](/llmops-tags/microservices)
+
+[microsoft,](/llmops-tags/microsoft)
+
+[microsoft_azure,](/llmops-tags/microsoft-azure)
+
+[mistral,](/llmops-tags/mistral)
+
+[model_optimization,](/llmops-tags/model-optimization)
+
+[monitoring,](/llmops-tags/monitoring)
+
+[multi_agent_systems,](/llmops-tags/multi-agent-systems)
+
+[multi_modality,](/llmops-tags/multi-modality)
+
+[nvidia,](/llmops-tags/nvidia)
+
+[open_source,](/llmops-tags/open-source)
+
+[openai,](/llmops-tags/openai)
+
+[orchestration,](/llmops-tags/orchestration)
+
+[pinecone,](/llmops-tags/pinecone)
+
+[poc,](/llmops-tags/poc)
+
+[postgresql,](/llmops-tags/postgresql)
+
+[prompt_engineering,](/llmops-tags/prompt-engineering)
+
+[pytorch,](/llmops-tags/pytorch)
+
+[qdrant,](/llmops-tags/qdrant)
+
+[question_answering,](/llmops-tags/question-answering)
+
+[rag,](/llmops-tags/rag)
+
+[realtime_application,](/llmops-tags/realtime-application)
+
+[redis,](/llmops-tags/redis)
+
+[regulatory_compliance,](/llmops-tags/regulatory-compliance)
+
+[reliability,](/llmops-tags/reliability)
+
+[reranking,](/llmops-tags/reranking)
+
+[scalability,](/llmops-tags/scalability)
+
+[scaling,](/llmops-tags/scaling)
+
+[security,](/llmops-tags/security)
+
+[semantic_search,](/llmops-tags/semantic-search)
+
+[serverless,](/llmops-tags/serverless)
+
+[spacy,](/llmops-tags/spacy)
+
+[speech_recognition,](/llmops-tags/speech-recognition)
+
+[sqlite,](/llmops-tags/sqlite)
+
+[structured_output,](/llmops-tags/structured-output)
+
+[summarization,](/llmops-tags/summarization)
+
+[system_prompts,](/llmops-tags/system-prompts)
+
+[tensorflow,](/llmops-tags/tensorflow)
+
+[token_optimization,](/llmops-tags/token-optimization)
+
+[translation,](/llmops-tags/translation)
+
+[triton,](/llmops-tags/triton)
+
+[unstructured_data,](/llmops-tags/unstructured-data)
+
+## Start Your Free Trial Now
+
+No new paradigms - Bring your own tools and infrastructure
+
+No data leaves your servers, we only track metadata
+
+Free trial included - no strings attached, cancel anytime
+
+[Try Free](https://cloud.zenml.io/?utm_source=website&utm_medium=website_section&utm_campaign=cloud_promotion&utm_content=signup_link)
+
+[Book a Demo](/book-your-demo)
+
+![Dashboard displaying machine learning models, including versions, authors, and tags. Relevant to model monitoring and ML pipelines.](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/66e9556fd34d2791885b0c5f_model_control_plane_01.png)
+
+[![I'm sorry, but I can't generate an alt text without more context about the image. Please describe the main elements of the image, and I'll be happy to help!](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/652559300366c8455e5c6ba5_Vectors-Wrapper.svg)](/)
+
+Simplify MLOps
+
+[](https://www.linkedin.com/company/zenml)[](https://twitter.com/zenml_io)[](https://zenml.io/slack-invite)[](https://www.youtube.com/@ZenML)
+
+Product
+
+[Features](/features)[ZenML ProNew](/pro)[OSS vs Managed](/open-source-vs-pro)[Integrations](/integrations)[Pricing](/pricing)
+
+Resources
+
+[NewsletterNew](/newsletter-signup)[Blog](/blog)[Docs](https://docs.zenml.io/getting-started/introduction)[Roadmap](https://zenml.featureos.app/roadmap)[Slack](/slack)
+
+Company
+
+[Careers](/careers)[About Us](/company)[Our Values](/company)[Join Us](/careers)
+
+[ZenML vs Orchestrators](/vs/zenml-vs-orchestrators)
+
+[Apache Airflow](/compare/zenml-vs-apache-airflow)
+
+[Dagster](/compare/zenml-vs-dagster)
+
+[Databricks](/compare/zenml-vs-databricks)
+
+[Flyte](/compare/zenml-vs-flyte)
+
+[Kedro](/compare/zenml-vs-kedro)
+
+[Kubeflow](/compare/zenml-vs-kubeflow)
+
+[Prefect](/compare/zenml-vs-prefect)
+
+[ZenML vs Exp Trackers](/vs/zenml-vs-experiment-trackers)
+
+[MLflow](/compare/zenml-vs-mlflow)
+
+[Weights & Biases](/vs/zenml-vs-experiment-trackers)[Neptune AI](/vs/zenml-vs-experiment-trackers)[CometML](/vs/zenml-vs-experiment-trackers)
+
+[ZenML vs e2e Platforms](/vs/zenml-vs-e2e-platforms)
+
+[AWS Sagemaker](/compare/zenml-vs-aws-sagemaker)
+
+[ClearML](/compare/zenml-vs-clearml)
+
+[Metaflow](/compare/zenml-vs-metaflow)
+
+[Valohai](/compare/zenml-vs-valohai)
+
+[GCP Vertex AI](/vs/zenml-vs-e2e-platforms)[Azure ML](/vs/zenml-vs-e2e-platforms)[ClearML](/compare/zenml-vs-clearml)
+
+GenAI & LLMs
+
+[LLMOps Database](/llmops-database)[Finetuning LLMs](https://github.com/zenml-io/zenml-projects/tree/main/llm-lora-finetuning)[Creating a code copilot](https://github.com/zenml-io/zenml-projects/tree/main/llm-finetuning)[Cheap GPU compute](https://docs.zenml.io/stacks-and-components/component-guide/orchestrators/hyperai)
+
+MLOps Platform
+
+[Mix and match tools](https://docs.zenml.io/stacks-and-components/component-guide)[Create alerting](https://docs.zenml.io/stacks-and-components/component-guide/alerters)[Plugin custom stack components](https://docs.zenml.io/stacks-and-components/custom-stack-solutions/implement-a-custom-stack-component)
+
+Leveraging Hyperscalers
+
+[Train on Spot VMs](https://docs.zenml.io/stacks-and-components/component-guide/orchestrators/skypilot-vm)[Deploying Sagemaker Endpoints](https://github.com/zenml-io/zenml-projects/tree/main/huggingface-sagemaker)[Managing GCP Vertex AI](https://docs.zenml.io/stacks-and-components/component-guide/orchestrators/vertex)[Training on Kubernetes](https://docs.zenml.io/stacks-and-components/component-guide/orchestrators/kubernetes)[Local to Sagemaker Pipelines](https://docs.zenml.io/stacks-and-components/component-guide/orchestrators/sagemaker)
+
+© 2024 ZenML. All rights reserved.
+
+[Imprint](/imprint)[Privacy Policy](/privacy-policy)[Terms of Service](/terms-of-service)
+
+|
+
+[ZenML Cloud Status](https://status.zenml.io)
+
+![](https://static.scarf.sh/a.png?x-pxid=af73c4bc-4298-4759-a03c-378b9a1ef1ba)

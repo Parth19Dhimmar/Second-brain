@@ -1,0 +1,875 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FNetflix%2Fmetaflow%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FNetflix%2Fmetaflow%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=Netflix%2Fmetaflow) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ Netflix ](/Netflix) / **[metaflow](/Netflix/metaflow) ** Public
+
+  * [ Notifications ](/login?return_to=%2FNetflix%2Fmetaflow) You must be signed in to change notification settings
+  * [ Fork 787 ](/login?return_to=%2FNetflix%2Fmetaflow)
+  * [ Star  8.5k ](/login?return_to=%2FNetflix%2Fmetaflow)
+
+
+
+
+Open Source AI/ML Platform 
+
+[metaflow.org](https://metaflow.org "https://metaflow.org")
+
+### License
+
+[ Apache-2.0 license ](/Netflix/metaflow/blob/master/LICENSE)
+
+[ 8.5k stars ](/Netflix/metaflow/stargazers) [ 787 forks ](/Netflix/metaflow/forks) [ Branches ](/Netflix/metaflow/branches) [ Tags ](/Netflix/metaflow/tags) [ Activity ](/Netflix/metaflow/activity)
+
+[ Star  ](/login?return_to=%2FNetflix%2Fmetaflow)
+
+[ Notifications ](/login?return_to=%2FNetflix%2Fmetaflow) You must be signed in to change notification settings
+
+  * [ Code ](/Netflix/metaflow)
+  * [ Issues 233 ](/Netflix/metaflow/issues)
+  * [ Pull requests 79 ](/Netflix/metaflow/pulls)
+  * [ Actions ](/Netflix/metaflow/actions)
+  * [ Security ](/Netflix/metaflow/security)
+  * [ Insights ](/Netflix/metaflow/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/Netflix/metaflow)
+  * [ Issues  ](/Netflix/metaflow/issues)
+  * [ Pull requests  ](/Netflix/metaflow/pulls)
+  * [ Actions  ](/Netflix/metaflow/actions)
+  * [ Security  ](/Netflix/metaflow/security)
+  * [ Insights  ](/Netflix/metaflow/pulse)
+
+
+
+# Netflix/metaflow
+
+master
+
+[**120** Branches](/Netflix/metaflow/branches)[**182** Tags](/Netflix/metaflow/tags)
+
+[](/Netflix/metaflow/branches)[](/Netflix/metaflow/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![saikonen](https://avatars.githubusercontent.com/u/64256562?v=4&size=40)](/saikonen)[saikonen](/Netflix/metaflow/commits?author=saikonen)[fix: add run_id annotation to pod metadata (](/Netflix/metaflow/commit/e682004215660a86748a0380349b9e9f2e1a935a)[#2213](https://github.com/Netflix/metaflow/pull/2213)[)](/Netflix/metaflow/commit/e682004215660a86748a0380349b9e9f2e1a935a)Jan 21, 2025[e682004](/Netflix/metaflow/commit/e682004215660a86748a0380349b9e9f2e1a935a) · Jan 21, 2025
+
+## History
+
+[1,159 Commits](/Netflix/metaflow/commits/master/)[](/Netflix/metaflow/commits/master/)  
+[.github/workflows](/Netflix/metaflow/tree/master/.github/workflows "This path skips through empty directories")| [.github/workflows](/Netflix/metaflow/tree/master/.github/workflows "This path skips through empty directories")| [ping r version to 4.4.1 to fix test (](/Netflix/metaflow/commit/b4c5f292b6b1145c807da347068cecfe92ecf6cc "ping r version to 4.4.1 to fix test \(#2127\)")[#2127](https://github.com/Netflix/metaflow/pull/2127)[)](/Netflix/metaflow/commit/b4c5f292b6b1145c807da347068cecfe92ecf6cc "ping r version to 4.4.1 to fix test \(#2127\)")| Nov 1, 2024  
+[R](/Netflix/metaflow/tree/master/R "R")| [R](/Netflix/metaflow/tree/master/R "R")| [Typo repair and PEP8 cleanup (](/Netflix/metaflow/commit/206110466a34afd32bc77021774ca5e7b9544e3f "Typo repair and PEP8 cleanup \(#1190\)
+* Fixed typos, spelling, and grammar
+* Fixed several simple PEP warnings
+* Reverted changes to _vendor folder
+* Black formatting
+* Black linting
+* Reset _vendor folder after black formatting")[#1190](https://github.com/Netflix/metaflow/pull/1190)[)](/Netflix/metaflow/commit/206110466a34afd32bc77021774ca5e7b9544e3f "Typo repair and PEP8 cleanup \(#1190\)
+* Fixed typos, spelling, and grammar
+* Fixed several simple PEP warnings
+* Reverted changes to _vendor folder
+* Black formatting
+* Black linting
+* Reset _vendor folder after black formatting")| Nov 28, 2022  
+[docs](/Netflix/metaflow/tree/master/docs "docs")| [docs](/Netflix/metaflow/tree/master/docs "docs")| [[cards]](/Netflix/metaflow/commit/2fb29ae4d8be4689d178e43778e0d0d4eb91b40a "\[cards\] `PythonCode` component \(#2196\)") `[PythonCode](/Netflix/metaflow/commit/2fb29ae4d8be4689d178e43778e0d0d4eb91b40a "\[cards\] `PythonCode` component \(#2196\)")` [component (](/Netflix/metaflow/commit/2fb29ae4d8be4689d178e43778e0d0d4eb91b40a "\[cards\] `PythonCode` component \(#2196\)")[#2196](https://github.com/Netflix/metaflow/pull/2196)[)](/Netflix/metaflow/commit/2fb29ae4d8be4689d178e43778e0d0d4eb91b40a "\[cards\] `PythonCode` component \(#2196\)")| Jan 10, 2025  
+[metaflow](/Netflix/metaflow/tree/master/metaflow "metaflow")| [metaflow](/Netflix/metaflow/tree/master/metaflow "metaflow")| [fix: add run_id annotation to pod metadata (](/Netflix/metaflow/commit/e682004215660a86748a0380349b9e9f2e1a935a "fix: add run_id annotation to pod metadata \(#2213\)
+* add run_id annotation to pod metadata
+* cleanup kubernetes annotation/label setting")[#2213](https://github.com/Netflix/metaflow/pull/2213)[)](/Netflix/metaflow/commit/e682004215660a86748a0380349b9e9f2e1a935a "fix: add run_id annotation to pod metadata \(#2213\)
+* add run_id annotation to pod metadata
+* cleanup kubernetes annotation/label setting")| Jan 21, 2025  
+[stubs](/Netflix/metaflow/tree/master/stubs "stubs")| [stubs](/Netflix/metaflow/tree/master/stubs "stubs")| [deployer inheritance (](/Netflix/metaflow/commit/dfc4a7178b5458b0dba71646487ed26e31877abf "deployer inheritance \(#2135\)
+* Move DeployedFlow and Triggered run to a more inheritance model.
+The _enrich_* methods were making it very hard to generate proper stubs.
+This will hopefully improve that.
+* Fix circular dependency and address comments
+Some doc cleanup as well.
+* Removed extraneous code
+* Forgot file
+* Update NBDeployer to forward to underlying deployer
+* Fix circular deps and other crap
+* Added stub-gen for deployer \(try 2\)
+* Fix stub test
+* Fix dataclients
+* fix docstrings for deployer \(#2119\)
+* Renamed metadata directory to metadata_provider \(and related changes\)
+There was a clash between the `metadata` function and the `metadata` module
+which caused issues with stubs \(at least the new way of generating\)
+* Forgot one
+* Typo
+* Make nbdocs happy
+* add docstrings for injected methods
+---------
+Co-authored-by: Romain Cledat <rcledat@netflix.com>")[#2135](https://github.com/Netflix/metaflow/pull/2135)[)](/Netflix/metaflow/commit/dfc4a7178b5458b0dba71646487ed26e31877abf "deployer inheritance \(#2135\)
+* Move DeployedFlow and Triggered run to a more inheritance model.
+The _enrich_* methods were making it very hard to generate proper stubs.
+This will hopefully improve that.
+* Fix circular dependency and address comments
+Some doc cleanup as well.
+* Removed extraneous code
+* Forgot file
+* Update NBDeployer to forward to underlying deployer
+* Fix circular deps and other crap
+* Added stub-gen for deployer \(try 2\)
+* Fix stub test
+* Fix dataclients
+* fix docstrings for deployer \(#2119\)
+* Renamed metadata directory to metadata_provider \(and related changes\)
+There was a clash between the `metadata` function and the `metadata` module
+which caused issues with stubs \(at least the new way of generating\)
+* Forgot one
+* Typo
+* Make nbdocs happy
+* add docstrings for injected methods
+---------
+Co-authored-by: Romain Cledat <rcledat@netflix.com>")| Nov 7, 2024  
+[test](/Netflix/metaflow/tree/master/test "test")| [test](/Netflix/metaflow/tree/master/test "test")| [[cards]](/Netflix/metaflow/commit/2fb29ae4d8be4689d178e43778e0d0d4eb91b40a "\[cards\] `PythonCode` component \(#2196\)") `[PythonCode](/Netflix/metaflow/commit/2fb29ae4d8be4689d178e43778e0d0d4eb91b40a "\[cards\] `PythonCode` component \(#2196\)")` [component (](/Netflix/metaflow/commit/2fb29ae4d8be4689d178e43778e0d0d4eb91b40a "\[cards\] `PythonCode` component \(#2196\)")[#2196](https://github.com/Netflix/metaflow/pull/2196)[)](/Netflix/metaflow/commit/2fb29ae4d8be4689d178e43778e0d0d4eb91b40a "\[cards\] `PythonCode` component \(#2196\)")| Jan 10, 2025  
+[test_config](/Netflix/metaflow/tree/master/test_config "test_config")| [test_config](/Netflix/metaflow/tree/master/test_config "test_config")| [Metaflow Configs (](/Netflix/metaflow/commit/c54a0d5b946fd51414e081f02b64ee8db70233b0 "Metaflow Configs \(#1962\)
+* Make CLI lazy load
+This will allow parameters to be added when processing the `start` step
+\(for the upcomming config change\).
+* Try to fix tests
+* Support lazy CLI in runner
+* Stub fixes
+* Change top-level flow decorator options to be prefixed by METAFLOW_FLOW_
+Previously, options like `branch` and `name` \(injected by the project
+decorator for example\) could be set using `METAFLOW_BRANCH`. They now
+need to be set using `METAFLOW_FLOW_BRANCH`.
+This change is made to prevent clashes between regular metaflow
+configuration settings and decorator level options.
+No other changes are made so `METAFLOW_RUN_MAX_WORKERS` still works
+as expected and `METAFLOW_PYLINT` as well.
+* Initial Config object
+* Move from --<configname> <config> to --config <configname> <config>
+* Fix runner use of configs
+* Multiple fix plus sample flow
+Several fixes:
+ - fixed an issue with default values
+ - better handling of parameter defaults as configs
+ - handle config defaults as functions
+ - ConfigValue is more "dict"-like
+ - made <myflow>.configs and <myflow>.steps work properly
+ - renamed resolve_configs to init
+* Addressed comments. Added more documentation/explanation
+Specifically:
+ - moved things out of the INFO file
+ - added to_dict
+ - renamed user_configs to config_parameters
+* Added test, more cleanup
+Specifically:
+ - made config values immutable
+ - cleaned up state stored in FlowSpec
+ - added a test exercising configs in various places
+* Fixup conda decorator
+* Fix parallel tests
+* Fix current singleton test \(conflict with `steps`\)
+* Call decorator init method on non-static decorators
+* Several fixes
+ - Separate out value and file \(so default and default_value and --config and --config-value\)
+ - Provide classes for step and flow config decorators with proxy objects
+ - Split things into several files \(it was getting too long\)
+ - Addressed all bugs discussed
+* Better handling of default options
+* Changed names
+* Fix includefile
+* Remove more old code
+* Bug fixes and better Custom*Decorator behavior.
+Fixed some typos and updated test to reflect latest code.
+Fixed a few other issues:
+ - fixed an issue where a config was used in different decorators
+  causing it to produce an incorrect access string
+ - made the decorators work with or without arguments
+* do not map config parameters to CLI command for argo/step functions
+* Added string parsers. Added test for mutable flow/step. Added debug messages
+Use METAFLOW_DEBUG_USERCONF=1 to get a bit more detail.
+Should be feature complete now.
+* Call param init even when no config present
+* Reset cached parameters properly
+* Updated tests
+* More tests and a few tweaks
+* Fix test
+* Trigger tests
+* Fix no command case; fix deployer")[#1962](https://github.com/Netflix/metaflow/pull/1962)[)](/Netflix/metaflow/commit/c54a0d5b946fd51414e081f02b64ee8db70233b0 "Metaflow Configs \(#1962\)
+* Make CLI lazy load
+This will allow parameters to be added when processing the `start` step
+\(for the upcomming config change\).
+* Try to fix tests
+* Support lazy CLI in runner
+* Stub fixes
+* Change top-level flow decorator options to be prefixed by METAFLOW_FLOW_
+Previously, options like `branch` and `name` \(injected by the project
+decorator for example\) could be set using `METAFLOW_BRANCH`. They now
+need to be set using `METAFLOW_FLOW_BRANCH`.
+This change is made to prevent clashes between regular metaflow
+configuration settings and decorator level options.
+No other changes are made so `METAFLOW_RUN_MAX_WORKERS` still works
+as expected and `METAFLOW_PYLINT` as well.
+* Initial Config object
+* Move from --<configname> <config> to --config <configname> <config>
+* Fix runner use of configs
+* Multiple fix plus sample flow
+Several fixes:
+ - fixed an issue with default values
+ - better handling of parameter defaults as configs
+ - handle config defaults as functions
+ - ConfigValue is more "dict"-like
+ - made <myflow>.configs and <myflow>.steps work properly
+ - renamed resolve_configs to init
+* Addressed comments. Added more documentation/explanation
+Specifically:
+ - moved things out of the INFO file
+ - added to_dict
+ - renamed user_configs to config_parameters
+* Added test, more cleanup
+Specifically:
+ - made config values immutable
+ - cleaned up state stored in FlowSpec
+ - added a test exercising configs in various places
+* Fixup conda decorator
+* Fix parallel tests
+* Fix current singleton test \(conflict with `steps`\)
+* Call decorator init method on non-static decorators
+* Several fixes
+ - Separate out value and file \(so default and default_value and --config and --config-value\)
+ - Provide classes for step and flow config decorators with proxy objects
+ - Split things into several files \(it was getting too long\)
+ - Addressed all bugs discussed
+* Better handling of default options
+* Changed names
+* Fix includefile
+* Remove more old code
+* Bug fixes and better Custom*Decorator behavior.
+Fixed some typos and updated test to reflect latest code.
+Fixed a few other issues:
+ - fixed an issue where a config was used in different decorators
+  causing it to produce an incorrect access string
+ - made the decorators work with or without arguments
+* do not map config parameters to CLI command for argo/step functions
+* Added string parsers. Added test for mutable flow/step. Added debug messages
+Use METAFLOW_DEBUG_USERCONF=1 to get a bit more detail.
+Should be feature complete now.
+* Call param init even when no config present
+* Reset cached parameters properly
+* Updated tests
+* More tests and a few tweaks
+* Fix test
+* Trigger tests
+* Fix no command case; fix deployer")| Dec 7, 2024  
+[.gitignore](/Netflix/metaflow/blob/master/.gitignore ".gitignore")| [.gitignore](/Netflix/metaflow/blob/master/.gitignore ".gitignore")| [fix stubs version check (](/Netflix/metaflow/commit/83481f5694ca7ab3dc6b68510e7bb3361faa76f1 "fix stubs version check \(#1748\)")[#1748](https://github.com/Netflix/metaflow/pull/1748)[)](/Netflix/metaflow/commit/83481f5694ca7ab3dc6b68510e7bb3361faa76f1 "fix stubs version check \(#1748\)")| Feb 20, 2024  
+[.pre-commit-config.yaml](/Netflix/metaflow/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/Netflix/metaflow/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [upgrade black (](/Netflix/metaflow/commit/b6ef2345bfaf7c0497694294ff55678393e74c14 "upgrade black \(#1949\)
+* upgrade black
+* adding additional env vars to capture error \(#1946\)
+* changes
+* changes
+---------
+Co-authored-by: Saurabh Garg <144727284+iamsgarg-ob@users.noreply.github.com>")[#1949](https://github.com/Netflix/metaflow/pull/1949)[)](/Netflix/metaflow/commit/b6ef2345bfaf7c0497694294ff55678393e74c14 "upgrade black \(#1949\)
+* upgrade black
+* adding additional env vars to capture error \(#1946\)
+* changes
+* changes
+---------
+Co-authored-by: Saurabh Garg <144727284+iamsgarg-ob@users.noreply.github.com>")| Aug 8, 2024  
+[CONTRIBUTING.md](/Netflix/metaflow/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/Netflix/metaflow/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")|  [Add docstring style to contribution code style guide (](/Netflix/metaflow/commit/119afac1fa05ef8bb33a86fbfccba5feb66de104 " Add docstring style to contribution code style guide \(#1328\)
+* Add docstring style to contribution code style guide
+* Move code style guide from README to CONTRIBUTING.md
+* Replace link to Sphinx with nbdoc
+* Trigger Build")[#1328](https://github.com/Netflix/metaflow/pull/1328)[)](/Netflix/metaflow/commit/119afac1fa05ef8bb33a86fbfccba5feb66de104 " Add docstring style to contribution code style guide \(#1328\)
+* Add docstring style to contribution code style guide
+* Move code style guide from README to CONTRIBUTING.md
+* Replace link to Sphinx with nbdoc
+* Trigger Build")| Mar 30, 2023  
+[LICENSE](/Netflix/metaflow/blob/master/LICENSE "LICENSE")| [LICENSE](/Netflix/metaflow/blob/master/LICENSE "LICENSE")| [Update LICENSE with copyright year and owner. (](/Netflix/metaflow/commit/d61f06144ec62db57003d309ba508087fdf530df "Update LICENSE with copyright year and owner. \(#210\)")[#210](https://github.com/Netflix/metaflow/pull/210)[)](/Netflix/metaflow/commit/d61f06144ec62db57003d309ba508087fdf530df "Update LICENSE with copyright year and owner. \(#210\)")| Jun 4, 2020  
+[MANIFEST.in](/Netflix/metaflow/blob/master/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](/Netflix/metaflow/blob/master/MANIFEST.in "MANIFEST.in")| [[realtime-card] pre-release bug Fixes. (](/Netflix/metaflow/commit/1499af01d403e97753eea1acf8e14cc19e034ec2 "\[realtime-card\] pre-release bug Fixes. \(#1686\)
+* \[@card\] add viewer file into manifests
+* \[card-components\] docstring + vega chart tweeks
+- Allow vega chart update method to even accept an altair chart.
+* \[card-components\] Markdown paragraph text bug fix
+- If a markdown component contains a paragraph then `svelte-markdown` doesn't end up rendering appropriately during data update calls. It renders empty `<p>` tags.
+- Adding a new line at the start of markdown text will ensure all markdown which contains paragraphs is rendered correctly during data update calls.")[#1686](https://github.com/Netflix/metaflow/pull/1686)[)](/Netflix/metaflow/commit/1499af01d403e97753eea1acf8e14cc19e034ec2 "\[realtime-card\] pre-release bug Fixes. \(#1686\)
+* \[@card\] add viewer file into manifests
+* \[card-components\] docstring + vega chart tweeks
+- Allow vega chart update method to even accept an altair chart.
+* \[card-components\] Markdown paragraph text bug fix
+- If a markdown component contains a paragraph then `svelte-markdown` doesn't end up rendering appropriately during data update calls. It renders empty `<p>` tags.
+- Adding a new line at the start of markdown text will ensure all markdown which contains paragraphs is rendered correctly during data update calls.")| Jan 16, 2024  
+[README.md](/Netflix/metaflow/blob/master/README.md "README.md")| [README.md](/Netflix/metaflow/blob/master/README.md "README.md")| [Metaflow Configs (](/Netflix/metaflow/commit/c54a0d5b946fd51414e081f02b64ee8db70233b0 "Metaflow Configs \(#1962\)
+* Make CLI lazy load
+This will allow parameters to be added when processing the `start` step
+\(for the upcomming config change\).
+* Try to fix tests
+* Support lazy CLI in runner
+* Stub fixes
+* Change top-level flow decorator options to be prefixed by METAFLOW_FLOW_
+Previously, options like `branch` and `name` \(injected by the project
+decorator for example\) could be set using `METAFLOW_BRANCH`. They now
+need to be set using `METAFLOW_FLOW_BRANCH`.
+This change is made to prevent clashes between regular metaflow
+configuration settings and decorator level options.
+No other changes are made so `METAFLOW_RUN_MAX_WORKERS` still works
+as expected and `METAFLOW_PYLINT` as well.
+* Initial Config object
+* Move from --<configname> <config> to --config <configname> <config>
+* Fix runner use of configs
+* Multiple fix plus sample flow
+Several fixes:
+ - fixed an issue with default values
+ - better handling of parameter defaults as configs
+ - handle config defaults as functions
+ - ConfigValue is more "dict"-like
+ - made <myflow>.configs and <myflow>.steps work properly
+ - renamed resolve_configs to init
+* Addressed comments. Added more documentation/explanation
+Specifically:
+ - moved things out of the INFO file
+ - added to_dict
+ - renamed user_configs to config_parameters
+* Added test, more cleanup
+Specifically:
+ - made config values immutable
+ - cleaned up state stored in FlowSpec
+ - added a test exercising configs in various places
+* Fixup conda decorator
+* Fix parallel tests
+* Fix current singleton test \(conflict with `steps`\)
+* Call decorator init method on non-static decorators
+* Several fixes
+ - Separate out value and file \(so default and default_value and --config and --config-value\)
+ - Provide classes for step and flow config decorators with proxy objects
+ - Split things into several files \(it was getting too long\)
+ - Addressed all bugs discussed
+* Better handling of default options
+* Changed names
+* Fix includefile
+* Remove more old code
+* Bug fixes and better Custom*Decorator behavior.
+Fixed some typos and updated test to reflect latest code.
+Fixed a few other issues:
+ - fixed an issue where a config was used in different decorators
+  causing it to produce an incorrect access string
+ - made the decorators work with or without arguments
+* do not map config parameters to CLI command for argo/step functions
+* Added string parsers. Added test for mutable flow/step. Added debug messages
+Use METAFLOW_DEBUG_USERCONF=1 to get a bit more detail.
+Should be feature complete now.
+* Call param init even when no config present
+* Reset cached parameters properly
+* Updated tests
+* More tests and a few tweaks
+* Fix test
+* Trigger tests
+* Fix no command case; fix deployer")[#1962](https://github.com/Netflix/metaflow/pull/1962)[)](/Netflix/metaflow/commit/c54a0d5b946fd51414e081f02b64ee8db70233b0 "Metaflow Configs \(#1962\)
+* Make CLI lazy load
+This will allow parameters to be added when processing the `start` step
+\(for the upcomming config change\).
+* Try to fix tests
+* Support lazy CLI in runner
+* Stub fixes
+* Change top-level flow decorator options to be prefixed by METAFLOW_FLOW_
+Previously, options like `branch` and `name` \(injected by the project
+decorator for example\) could be set using `METAFLOW_BRANCH`. They now
+need to be set using `METAFLOW_FLOW_BRANCH`.
+This change is made to prevent clashes between regular metaflow
+configuration settings and decorator level options.
+No other changes are made so `METAFLOW_RUN_MAX_WORKERS` still works
+as expected and `METAFLOW_PYLINT` as well.
+* Initial Config object
+* Move from --<configname> <config> to --config <configname> <config>
+* Fix runner use of configs
+* Multiple fix plus sample flow
+Several fixes:
+ - fixed an issue with default values
+ - better handling of parameter defaults as configs
+ - handle config defaults as functions
+ - ConfigValue is more "dict"-like
+ - made <myflow>.configs and <myflow>.steps work properly
+ - renamed resolve_configs to init
+* Addressed comments. Added more documentation/explanation
+Specifically:
+ - moved things out of the INFO file
+ - added to_dict
+ - renamed user_configs to config_parameters
+* Added test, more cleanup
+Specifically:
+ - made config values immutable
+ - cleaned up state stored in FlowSpec
+ - added a test exercising configs in various places
+* Fixup conda decorator
+* Fix parallel tests
+* Fix current singleton test \(conflict with `steps`\)
+* Call decorator init method on non-static decorators
+* Several fixes
+ - Separate out value and file \(so default and default_value and --config and --config-value\)
+ - Provide classes for step and flow config decorators with proxy objects
+ - Split things into several files \(it was getting too long\)
+ - Addressed all bugs discussed
+* Better handling of default options
+* Changed names
+* Fix includefile
+* Remove more old code
+* Bug fixes and better Custom*Decorator behavior.
+Fixed some typos and updated test to reflect latest code.
+Fixed a few other issues:
+ - fixed an issue where a config was used in different decorators
+  causing it to produce an incorrect access string
+ - made the decorators work with or without arguments
+* do not map config parameters to CLI command for argo/step functions
+* Added string parsers. Added test for mutable flow/step. Added debug messages
+Use METAFLOW_DEBUG_USERCONF=1 to get a bit more detail.
+Should be feature complete now.
+* Call param init even when no config present
+* Reset cached parameters properly
+* Updated tests
+* More tests and a few tweaks
+* Fix test
+* Trigger tests
+* Fix no command case; fix deployer")| Dec 7, 2024  
+[SECURITY.md](/Netflix/metaflow/blob/master/SECURITY.md "SECURITY.md")| [SECURITY.md](/Netflix/metaflow/blob/master/SECURITY.md "SECURITY.md")| [add security policy (](/Netflix/metaflow/commit/1171d0d82362fea6c8e3944389f5e01628cf0a10 "add security policy \(#1508\)
+* add security policy
+* fix wording
+* rephrase version scope for vulnerability reports")[#1508](https://github.com/Netflix/metaflow/pull/1508)[)](/Netflix/metaflow/commit/1171d0d82362fea6c8e3944389f5e01628cf0a10 "add security policy \(#1508\)
+* add security policy
+* fix wording
+* rephrase version scope for vulnerability reports")| Mar 7, 2024  
+[metaflow-complete.sh](/Netflix/metaflow/blob/master/metaflow-complete.sh "metaflow-complete.sh")| [metaflow-complete.sh](/Netflix/metaflow/blob/master/metaflow-complete.sh "metaflow-complete.sh")| [Initial commit for Open Source release](/Netflix/metaflow/commit/c2f70c73782549fdce6c418410ecd9b305199b28 "Initial commit for Open Source release
+See docs at https://docs.metaflow.org")| Dec 3, 2019  
+[setup.cfg](/Netflix/metaflow/blob/master/setup.cfg "setup.cfg")| [setup.cfg](/Netflix/metaflow/blob/master/setup.cfg "setup.cfg")| [Include LICENSE.txt in sdist and wheel](/Netflix/metaflow/commit/3973c19b86ac9e32a93bcf3906c4d76baea7c7b6 "Include LICENSE.txt in sdist and wheel")| Dec 4, 2019  
+[setup.py](/Netflix/metaflow/blob/master/setup.py "setup.py")| [setup.py](/Netflix/metaflow/blob/master/setup.py "setup.py")| [drop py3.5 / add py3.13 (](/Netflix/metaflow/commit/de168b0720e229596cc0f559324bf7401717169e "drop py3.5 / add py3.13 \(#2081\)
+* remove 3.5 from tests
+* remove py35 from package classifiers
+* add 3.13
+* add 3.13
+---------
+Co-authored-by: Sakari Ikonen <sakari.a.ikonen@gmail.com>")[#2081](https://github.com/Netflix/metaflow/pull/2081)[)](/Netflix/metaflow/commit/de168b0720e229596cc0f559324bf7401717169e "drop py3.5 / add py3.13 \(#2081\)
+* remove 3.5 from tests
+* remove py35 from package classifiers
+* add 3.13
+* add 3.13
+---------
+Co-authored-by: Sakari Ikonen <sakari.a.ikonen@gmail.com>")| Oct 16, 2024  
+[test_runner](/Netflix/metaflow/blob/master/test_runner "test_runner")| [test_runner](/Netflix/metaflow/blob/master/test_runner "test_runner")| [Set parameters for running flow instead of any imported (](/Netflix/metaflow/commit/a46f4a3b688a8496f85f4738c0a4569efaef751a "Set parameters for running flow instead of any imported \(#1691\)
+* Set parameters for running flow instead of any imported
+This fixes the issue where parameters for multiple imported flows
+are displayed instead of the running one when multple flows are
+in the same file with parameters.
+Also:
+1. Change to use Exception as bare except is bad practice / fails
+flake8.
+2. Switch to editable/develop install so any code changes would be
+  effective without reinstalling. Much faster to iterate changes.
+* suggested changes
+* restore except blocks
+---------
+Co-authored-by: Max Zheng <max@metabase.com>")[#1691](https://github.com/Netflix/metaflow/pull/1691)[)](/Netflix/metaflow/commit/a46f4a3b688a8496f85f4738c0a4569efaef751a "Set parameters for running flow instead of any imported \(#1691\)
+* Set parameters for running flow instead of any imported
+This fixes the issue where parameters for multiple imported flows
+are displayed instead of the running one when multple flows are
+in the same file with parameters.
+Also:
+1. Change to use Exception as bare except is bad practice / fails
+flake8.
+2. Switch to editable/develop install so any code changes would be
+  effective without reinstalling. Much faster to iterate changes.
+* suggested changes
+* restore except blocks
+---------
+Co-authored-by: Max Zheng <max@metabase.com>")| Jan 19, 2024  
+[tox.ini](/Netflix/metaflow/blob/master/tox.ini "tox.ini")| [tox.ini](/Netflix/metaflow/blob/master/tox.ini "tox.ini")| [Tests for runner (](/Netflix/metaflow/commit/8cd344c12020924c8f6f949bff51d80b16908383 "Tests for runner \(#1859\)
+* synchronous run with resume and async resume
+* add nbrun
+* remove runtime error if not in jupyter env
+* fix env vars update
+* suggested changes to nbrun
+* tests using lower level chaining API
+* use higher level API
+* add runner import inside try
+* set the correct metadata while getting the Run object
+* pass USER env in tox
+* reset old env vars when returning a Run object
+* change name of metadata_pathspec_file to runner_attribute_file
+* add comments for why reset of env and metadata is needed
+* minor fix
+* Update test.yml
+* formatting
+* fix
+---------
+Co-authored-by: Madhur Tandon <madhur@outerbounds.co>")[#1859](https://github.com/Netflix/metaflow/pull/1859)[)](/Netflix/metaflow/commit/8cd344c12020924c8f6f949bff51d80b16908383 "Tests for runner \(#1859\)
+* synchronous run with resume and async resume
+* add nbrun
+* remove runtime error if not in jupyter env
+* fix env vars update
+* suggested changes to nbrun
+* tests using lower level chaining API
+* use higher level API
+* add runner import inside try
+* set the correct metadata while getting the Run object
+* pass USER env in tox
+* reset old env vars when returning a Run object
+* change name of metadata_pathspec_file to runner_attribute_file
+* add comments for why reset of env and metadata is needed
+* minor fix
+* Update test.yml
+* formatting
+* fix
+---------
+Co-authored-by: Madhur Tandon <madhur@outerbounds.co>")| May 25, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Apache-2.0 license](#)
+  * [Security](#)
+
+
+
+[![Metaflow_Logo_Horizontal_FullColor_Ribbon_Dark_RGB](https://user-images.githubusercontent.com/763451/89453116-96a57e00-d713-11ea-9fa6-82b29d4d6eff.png)](https://user-images.githubusercontent.com/763451/89453116-96a57e00-d713-11ea-9fa6-82b29d4d6eff.png)
+
+# Metaflow
+
+[](#metaflow)
+
+Metaflow is a human-friendly library that helps scientists and engineers build and manage real-life data science projects. Metaflow was [originally developed at Netflix](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9) to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
+
+For more information, see [Metaflow's website](https://metaflow.org) and [documentation](https://docs.metaflow.org).
+
+## From prototype to production (and back)
+
+[](#from-prototype-to-production-and-back)
+
+Metaflow provides a simple, friendly API that covers foundational needs of ML, AI, and data science projects: [![](/Netflix/metaflow/raw/master/docs/prototype-to-prod.png)](/Netflix/metaflow/blob/master/docs/prototype-to-prod.png)
+
+  1. [Rapid local prototyping](https://docs.metaflow.org/metaflow/basics), [support for notebooks](https://docs.metaflow.org/metaflow/visualizing-results), and [built-in experiment tracking and versioning](https://docs.metaflow.org/metaflow/client).
+  2. [Horizontal and vertical scalability to the cloud](https://docs.metaflow.org/scaling/remote-tasks/introduction), utilizing both CPUs and GPUs, and [fast data access](https://docs.metaflow.org/scaling/data).
+  3. [Managing dependencies](https://docs.metaflow.org/scaling/dependencies) and [one-click deployments to highly available production orchestrators](https://docs.metaflow.org/production/introduction).
+
+
+
+## Getting started
+
+[](#getting-started)
+
+Getting up and running is easy. If you don't know where to start, [Metaflow sandbox](https://outerbounds.com/sandbox) will have you running and exploring Metaflow in seconds.
+
+### Installing Metaflow in your Python environment
+
+[](#installing-metaflow-in-your-python-environment)
+
+To install Metaflow in your local environment, you can install from [PyPi](https://pypi.org/project/metaflow/):
+
+```
+pip install metaflow
+```
+
+Alternatively, you can also install from [conda-forge](https://anaconda.org/conda-forge/metaflow):
+
+```
+conda install -c conda-forge metaflow
+```
+
+If you are eager to try out Metaflow in practice, you can start with the [tutorial](https://docs.metaflow.org/getting-started/tutorials). After the tutorial, you can learn more about how Metaflow works [here](https://docs.metaflow.org/metaflow/basics).
+
+### Deploying infrastructure for Metaflow in your cloud
+
+[](#deploying-infrastructure-for-metaflow-in-your-cloud)
+
+[![](/Netflix/metaflow/raw/master/docs/multicloud.png)](/Netflix/metaflow/blob/master/docs/multicloud.png)
+
+While you can get started with Metaflow easily on your laptop, the main benefits of Metaflow lie in its ability to [scale out to external compute clusters](https://docs.metaflow.org/scaling/remote-tasks/introduction) and to [deploy to production-grade workflow orchestrators](https://docs.metaflow.org/production/introduction). To benefit from these features, follow this [guide](https://outerbounds.com/engineering/welcome/) to configure Metaflow and the infrastructure behind it appropriately.
+
+## [Resources](https://docs.metaflow.org/introduction/metaflow-resources)
+
+[](#resources)
+
+### [Slack Community](http://slack.outerbounds.co/)
+
+[](#slack-community)
+
+An active [community](http://slack.outerbounds.co/) of thousands of data scientists and ML engineers discussing the ins-and-outs of applied machine learning.
+
+### [Tutorials](https://outerbounds.com/docs/tutorials-index/)
+
+[](#tutorials)
+
+  * [Introduction to Metaflow](https://outerbounds.com/docs/intro-tutorial-overview/)
+  * [Natural Language Processing with Metaflow](https://outerbounds.com/docs/nlp-tutorial-overview/)
+  * [Computer Vision with Metaflow](https://outerbounds.com/docs/cv-tutorial-overview/)
+  * [Recommender Systems with Metaflow](https://outerbounds.com/docs/recsys-tutorial-overview/)
+  * And more advanced content [here](https://outerbounds.com/docs/tutorials-index/)
+
+
+
+### [Generative AI and LLM use cases](https://outerbounds.com/blog/?category=Foundation%20Models)
+
+[](#generative-ai-and-llm-use-cases)
+
+  * [Infrastructure Stack for Large Language Models](https://outerbounds.com/blog/llm-infrastructure-stack/)
+  * [Parallelizing Stable Diffusion for Production Use Cases](https://outerbounds.com/blog/parallelizing-stable-diffusion-production-use-cases/)
+  * [Whisper with Metaflow on Kubernetes](https://outerbounds.com/blog/whisper-kubernetes/)
+  * [Training a Large Language Model With Metaflow, Featuring Dolly](https://outerbounds.com/blog/train-dolly-metaflow/)
+
+
+
+## Get in touch
+
+[](#get-in-touch)
+
+There are several ways to get in touch with us:
+
+  * [Slack Community](http://slack.outerbounds.co/)
+  * [Github Issues](https://github.com/Netflix/metaflow/issues)
+
+
+
+## Contributing
+
+[](#contributing)
+
+We welcome contributions to Metaflow. Please see our [contribution guide](https://docs.metaflow.org/introduction/contributing-to-metaflow) for more details.
+
+## About
+
+Open Source AI/ML Platform 
+
+[metaflow.org](https://metaflow.org "https://metaflow.org")
+
+### Topics
+
+[ python ](/topics/python "Topic: python") [ kubernetes ](/topics/kubernetes "Topic: kubernetes") [ productivity ](/topics/productivity "Topic: productivity") [ aws ](/topics/aws "Topic: aws") [ data-science ](/topics/data-science "Topic: data-science") [ machine-learning ](/topics/machine-learning "Topic: machine-learning") [ r ](/topics/r "Topic: r") [ ai ](/topics/ai "Topic: ai") [ azure ](/topics/azure "Topic: azure") [ gcp ](/topics/gcp "Topic: gcp") [ ml ](/topics/ml "Topic: ml") [ datascience ](/topics/datascience "Topic: datascience") [ high-performance-computing ](/topics/high-performance-computing "Topic: high-performance-computing") [ r-package ](/topics/r-package "Topic: r-package") [ model-management ](/topics/model-management "Topic: model-management") [ ml-infrastructure ](/topics/ml-infrastructure "Topic: ml-infrastructure") [ mlops ](/topics/mlops "Topic: mlops") [ ml-platform ](/topics/ml-platform "Topic: ml-platform") [ llm ](/topics/llm "Topic: llm") [ llmops ](/topics/llmops "Topic: llmops")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/Netflix/metaflow/activity)
+
+[ Custom properties](/Netflix/metaflow/custom-properties)
+
+### Stars
+
+[ **8.5k** stars](/Netflix/metaflow/stargazers)
+
+### Watchers
+
+[ **293** watching](/Netflix/metaflow/watchers)
+
+### Forks
+
+[ **787** forks](/Netflix/metaflow/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FNetflix%2Fmetaflow&report=Netflix+%28user%29)
+
+##  [Releases 169](/Netflix/metaflow/releases)
+
+[ 2.13.5 Latest  Jan 16, 2025 ](/Netflix/metaflow/releases/tag/2.13.5)
+
+[+ 168 releases](/Netflix/metaflow/releases)
+
+##  [Used by 756](/Netflix/metaflow/network/dependents)
+
+[
+
+  * ![@dangat8001](https://avatars.githubusercontent.com/u/179252735?s=64&v=4)
+  * ![@Rohanrn9882](https://avatars.githubusercontent.com/u/105193321?s=64&v=4)
+  * ![@SWE-Gym-Raw](https://avatars.githubusercontent.com/u/194694957?s=64&v=4)
+  * ![@outerbounds](https://avatars.githubusercontent.com/u/82194325?s=64&v=4)
+  * ![@fadillaatyka](https://avatars.githubusercontent.com/u/5423774?s=64&v=4)
+  * ![@dbreyfogle](https://avatars.githubusercontent.com/u/27653146?s=64&v=4)
+  * ![@blackwhitehere](https://avatars.githubusercontent.com/u/8960570?s=64&v=4)
+  * ![@reachkga](https://avatars.githubusercontent.com/u/37186492?s=64&v=4)
+
++ 748  ](/Netflix/metaflow/network/dependents)
+
+##  [Contributors 104](/Netflix/metaflow/graphs/contributors)
+
+  * [ ![@savingoyal](https://avatars.githubusercontent.com/u/763451?s=64&v=4) ](https://github.com/savingoyal)
+  * [ ![@romain-intel](https://avatars.githubusercontent.com/u/2583924?s=64&v=4) ](https://github.com/romain-intel)
+  * [ ![@saikonen](https://avatars.githubusercontent.com/u/64256562?s=64&v=4) ](https://github.com/saikonen)
+  * [ ![@oavdeev](https://avatars.githubusercontent.com/u/3689?s=64&v=4) ](https://github.com/oavdeev)
+  * [ ![@valayDave](https://avatars.githubusercontent.com/u/11920247?s=64&v=4) ](https://github.com/valayDave)
+  * [ ![@madhur-ob](https://avatars.githubusercontent.com/u/155637867?s=64&v=4) ](https://github.com/madhur-ob)
+  * [ ![@akyrola](https://avatars.githubusercontent.com/u/1576151?s=64&v=4) ](https://github.com/akyrola)
+  * [ ![@jasonge27](https://avatars.githubusercontent.com/u/7277157?s=64&v=4) ](https://github.com/jasonge27)
+  * [ ![@tuulos](https://avatars.githubusercontent.com/u/18241?s=64&v=4) ](https://github.com/tuulos)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@jackie-ob](https://avatars.githubusercontent.com/u/104396218?s=64&v=4) ](https://github.com/jackie-ob)
+  * [ ![@darinyu](https://avatars.githubusercontent.com/u/5545942?s=64&v=4) ](https://github.com/darinyu)
+  * [ ![@mdneuzerling](https://avatars.githubusercontent.com/u/14957706?s=64&v=4) ](https://github.com/mdneuzerling)
+  * [ ![@iamsgarg-ob](https://avatars.githubusercontent.com/u/144727284?s=64&v=4) ](https://github.com/iamsgarg-ob)
+
+
+
+[+ 90 contributors](/Netflix/metaflow/graphs/contributors)
+
+## Languages
+
+  * [ Python 93.0% ](/Netflix/metaflow/search?l=python)
+  * [ R 3.3% ](/Netflix/metaflow/search?l=r)
+  * [ Svelte 1.7% ](/Netflix/metaflow/search?l=svelte)
+  * [ HTML 0.9% ](/Netflix/metaflow/search?l=html)
+  * [ TypeScript 0.4% ](/Netflix/metaflow/search?l=typescript)
+  * [ Jupyter Notebook 0.4% ](/Netflix/metaflow/search?l=jupyter-notebook)
+  * Other 0.3%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

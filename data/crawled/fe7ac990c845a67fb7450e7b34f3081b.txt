@@ -1,0 +1,604 @@
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including **professional and job ads**) on and off LinkedIn. Learn more in our [Cookie Policy](https://www.linkedin.com/legal/cookie-policy).
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your [settings](https://www.linkedin.com/mypreferences/g/guest-cookies).
+
+Accept  Reject 
+
+Agree & Join LinkedIn 
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy). 
+
+[ Skip to main content ](#main-content) [ LinkedIn ](/?trk=public_post_nav-header-logo)
+
+  * [ Articles  ](https://www.linkedin.com/pulse/topics/home/?trk=public_post_guest_nav_menu_articles)
+  * [ People  ](https://www.linkedin.com/pub/dir/+/+?trk=public_post_guest_nav_menu_people)
+  * [ Learning  ](https://www.linkedin.com/learning/search?trk=public_post_guest_nav_menu_learning)
+  * [ Jobs  ](https://www.linkedin.com/jobs/search?trk=public_post_guest_nav_menu_jobs)
+  * [ Games  ](https://www.linkedin.com/games?trk=public_post_guest_nav_menu_games)
+  * [ Get the app  ](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_nav_upsell&trk=public_post_guest_nav_menu_windows)
+
+
+
+[ Join now ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_nav-header-join) [ Sign in ](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&fromSignIn=true&trk=public_post_nav-header-signin)
+
+#  Maria Vechtomova’s Post
+
+[ ](https://nl.linkedin.com/in/maria-vechtomova?trk=public_post_feed-actor-image)
+
+[ Maria Vechtomova ](https://nl.linkedin.com/in/maria-vechtomova?trk=public_post_feed-actor-name)
+
+MLOps Tech Lead | 10+ years in Data & AI | Databricks MVP | Public speaker 
+
+3mo  Edited 
+
+  * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+
+
+How do you ensure your [#Python](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpython&trk=public_post-text) package version always aligns with git tag? - Package version is defined in the [version.txt](http://version.txt?trk=public_post-text) file which is referenced in your [pyproject.toml](http://pyproject.toml?trk=public_post-text) file - On PR, CI pipeline runs. It has "git tag -m "PR" -F [version.txt](http://version.txt?trk=public_post-text)". If the developer has not updated the version, this will fail. - When the feature branch is merged into the main branch, the CD pipeline includes "git push --follow-tags". In that way, the code version is tagged. So simple and so efficient! Thanks to [🎧 Eric Riddoch](https://www.linkedin.com/in/eric-riddoch?trk=public_post-text), we are now introducing this for all our Python packages. [#softwareengineering](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsoftwareengineering&trk=public_post-text) [#machinelearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post-text)
+
+[ 240  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_social-actions-reactions) [ 31 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment-cta)
+
+Share 
+
+  * Copy
+  * LinkedIn
+  * Facebook
+  * Twitter
+
+
+
+[ ](https://nl.linkedin.com/in/axel-goblet-5325327a?trk=public_post_comment_actor-image)
+
+[ Axel Goblet ](https://nl.linkedin.com/in/axel-goblet-5325327a?trk=public_post_comment_actor-name)
+
+Senior Data Engineer at Eneco
+
+3mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Thanks for sharing! Some other options to consider - poetry-dynamic-versioning, which works well with release branches: [https://pypi.org/project/poetry-dynamic-versioning](https://pypi.org/project/poetry-dynamic-versioning?trk=public_post_comment-text)/ - don’t use packages and use a monorepo setup for your python code. Then your ‘package’ is merely a folder. That way you skip dependency management problems.
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reply) [ 7 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reactions) 8 Reactions 
+
+[ ](https://fr.linkedin.com/in/chainyo?trk=public_post_comment_actor-image)
+
+[ Thomas Chaigneau ](https://fr.linkedin.com/in/chainyo?trk=public_post_comment_actor-name)
+
+ML Engineer & 🤗 Hugging Face Fellow
+
+3mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Does this work with uv as I’m not sure to be able to reference the [version.txt](http://version.txt?trk=public_post_comment-text) in the [pyproject.toml](http://pyproject.toml?trk=public_post_comment-text) 🤔
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reply) 1 Reaction 
+
+[ ](https://ro.linkedin.com/in/pauliusztin?trk=public_post_comment_actor-image)
+
+[ Paul Iusztin ](https://ro.linkedin.com/in/pauliusztin?trk=public_post_comment_actor-name)
+
+Senior ML/AI Engineer • MLOps • Founder @ Decoding ML ~ Posts and articles about building production-grade ML/AI systems.
+
+3mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+If you do "git push --follow-tags," do you still need a [version.txt](http://version.txt?trk=public_post_comment-text), or is everything automated under the hood?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reply) 1 Reaction 
+
+[ ](https://www.linkedin.com/in/alekis?trk=public_post_comment_actor-image)
+
+[ Alexander Kislukhin, PhD ](https://www.linkedin.com/in/alekis?trk=public_post_comment_actor-name)
+
+Solving pain with data 🧬 I build life sci data supply chains
+
+3mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+what do y'all think about releasing through GHA? gh release create "${UNIQUE_TAG}" dist/*.whl --title "Release ${UNIQUE_TAG}" git tag -f latest git push origin latest --force
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reply) 1 Reaction 
+
+[ ](https://nl.linkedin.com/in/jwvangelder?trk=public_post_comment_actor-image)
+
+[ 👨🏻💻 Jaco van Gelder ](https://nl.linkedin.com/in/jwvangelder?trk=public_post_comment_actor-name)
+
+Sr Staff Data Engineer @ IKEA 🪑🟡🔵 Instructor & MVP @ Databricks 🧱
+
+3mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+This is brilliant, needs a comprehensive blogpost for sure [🎧 Eric](https://www.linkedin.com/in/eric-riddoch?trk=public_post_comment-text), [Maria](https://nl.linkedin.com/in/maria-vechtomova?trk=public_post_comment-text)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reply) [ 2 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reactions) 3 Reactions 
+
+[ ](https://www.linkedin.com/in/li-yin-ai?trk=public_post_comment_actor-image)
+
+[ Li Yin ](https://www.linkedin.com/in/li-yin-ai?trk=public_post_comment_actor-name)
+
+[Hiring] AdalFlow author | SylphAI founder | LLM&CV researcher
+
+3mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Saved, need to figure out [AdalFlow](https://www.linkedin.com/company/adalflow?trk=public_post_comment-text) version alignment
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reactions) 2 Reactions 
+
+[ ](https://ca.linkedin.com/in/sahil-vohra?trk=public_post_comment_actor-image)
+
+[ Sahil Vohra ](https://ca.linkedin.com/in/sahil-vohra?trk=public_post_comment_actor-name)
+
+MLE II - Learn MLOps and LLMOps With Me | Daily Posts ⚡
+
+3mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Great approach to maintain version consistency and streamline the release process!
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reply) [ 2 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reactions) 3 Reactions 
+
+[ ](https://www.linkedin.com/in/eric-riddoch?trk=public_post_comment_actor-image)
+
+[ 🎧 Eric Riddoch ](https://www.linkedin.com/in/eric-riddoch?trk=public_post_comment_actor-name)
+
+Director of ML Platform @ Pattern
+
+3mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+YES! [Steve Jackson](https://www.linkedin.com/in/steve-jackson-principal-engineer?trk=public_post_comment-text) was the one who first taught me this flow.
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reply) [ 2 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reactions) 3 Reactions 
+
+[ ](https://nl.linkedin.com/in/sgruneisen?trk=public_post_comment_actor-image)
+
+[ Sarah Gruneisen 🐉 ](https://nl.linkedin.com/in/sgruneisen?trk=public_post_comment_actor-name)
+
+Engineering Manager @ Albert Heijn | Leadership Trainer @ Avagasso | Author | Complexity Buster & Motivator | Keynote Speaker | Certified Leadership Coach | 20+ in Software Engineering | 15+ in Leadership | ☕ Addict
+
+3mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Git was intended to be so simple but it took be so much time to really get! Great visual 💚
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reactions) 2 Reactions 
+
+[ ](https://br.linkedin.com/in/leomaurodesenv?trk=public_post_comment_actor-image)
+
+[ Leonardo Mauro P. Moraes ](https://br.linkedin.com/in/leomaurodesenv?trk=public_post_comment_actor-name)
+
+Principal Machine Learning Engineer | Product Manager | Tutor
+
+3mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Recently I discovered the commitizen, very interesting package to work with git, commit messages, and package versioning. [https://commitizen-tools.github.io/commitizen/getting_started](https://commitizen-tools.github.io/commitizen/getting_started?trk=public_post_comment-text)/
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reply) [ 2 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_comment_reactions) 3 Reactions 
+
+[ See more comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_see-more-comments)
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_feed-cta-banner-cta)
+
+##  More Relevant Posts 
+
+  * [](https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7207321110223142913-Zw-p)
+
+[ ](https://be.linkedin.com/company/itenium?trk=public_post_feed-actor-image)
+
+[ itenium ](https://be.linkedin.com/company/itenium?trk=public_post_feed-actor-name)
+
+1,895 followers 
+
+7mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fitenium_itenium-keeponlearning-itdevelopment-activity-7207321110223142913-Zw-p&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+We just had to split an existing git repository into multiple repos. But git filter-branch suddenly gave a warning! 😱 For better performance it is now suggested to use git filter-repo instead, a third-party Python script. Our Create-PullRequest ps1 script now also works for [Github.com](https://www.linkedin.com/redir/redirect?url=http%3A%2F%2FGithub%2Ecom&urlhash=2bWD&trk=public_post-text) repositories! Read More! [https://lnkd.in/e6usPK8x](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fe6usPK8x&urlhash=g8CT&trk=public_post-text) [#itenium](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fitenium&trk=public_post-text) [#keeponlearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fkeeponlearning&trk=public_post-text) [#itdevelopment](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fitdevelopment&trk=public_post-text) [#userstories](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fuserstories&trk=public_post-text) [#alwaysimproving](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Falwaysimproving&trk=public_post-text) [#connections](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fconnections&trk=public_post-text) [#learningthroughfun](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Flearningthroughfun&trk=public_post-text) [#GIT](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgit&trk=public_post-text)
+
+[ 2  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fitenium_itenium-keeponlearning-itdevelopment-activity-7207321110223142913-Zw-p&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fitenium_itenium-keeponlearning-itdevelopment-activity-7207321110223142913-Zw-p&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fitenium_itenium-keeponlearning-itdevelopment-activity-7207321110223142913-Zw-p&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fitenium_itenium-keeponlearning-itdevelopment-activity-7207321110223142913-Zw-p&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/jatin-mahajan711_github-jatin711-debugpython-package-manager-activity-7225222783172055041-UHcJ)
+
+[ ](https://ca.linkedin.com/in/jatin-mahajan711?trk=public_post_feed-actor-image)
+
+[ Jatin Mahajan ](https://ca.linkedin.com/in/jatin-mahajan711?trk=public_post_feed-actor-name)
+
+Software Engineer at Enertics Inc. with expertise in Node.js, AWS and MySQL | Exploring AI and ML in healthcare | Golang | Python | Rust. 
+
+5mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjatin-mahajan711_github-jatin711-debugpython-package-manager-activity-7225222783172055041-UHcJ&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+🚀 Excited to share my latest project: Python Package Manager! 🌟 Over the past few days, I've been working on a CLI tool built in Rust that simplifies Python package management by automating the installation, deletion, updating, and listing of packages while storing this information in a [requirements.json](http://requirements.json?trk=public_post-text) file. 🔧 Key Features: Install Python packages and save their versions. Delete and update package versions with ease. List all installed packages. Support for installing packages from a [requirements.json](http://requirements.json?trk=public_post-text) file. 📦 Technical Highlights: Developed in Rust using the latest version of the Clap crate for command-line argument parsing. Utilizes Serde for JSON serialization and deserialization. Comprehensive unit and integration tests to ensure reliability. Includes automatic creation and management of virtual environments for Python, ensuring compatibility and isolation. This project demonstrates my ability to blend Rust's performance and safety with Python's extensive ecosystem. I'm particularly proud of the integration of virtual environments, which guarantees that package management is both robust and isolated. Check out the code on GitHub : [https://lnkd.in/enEvWMdp](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FenEvWMdp&urlhash=9vAj&trk=public_post-text), and feel free to contribute or provide feedback! Just give a star if you love it. [#RustLang](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frustlang&trk=public_post-text) [#Python](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpython&trk=public_post-text) [#OpenSource](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fopensource&trk=public_post-text) [#SoftwareDevelopment](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsoftwaredevelopment&trk=public_post-text) [#Programming](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fprogramming&trk=public_post-text) [#TechInnovation](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftechinnovation&trk=public_post-text)
+
+## [ GitHub - jatin711-debug/python-package-manager  github.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgithub%2Ecom%2Fjatin711-debug%2Fpython-package-manager&urlhash=o117&trk=public_post_feed-article-content)
+
+[ 4  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjatin-mahajan711_github-jatin711-debugpython-package-manager-activity-7225222783172055041-UHcJ&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjatin-mahajan711_github-jatin711-debugpython-package-manager-activity-7225222783172055041-UHcJ&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjatin-mahajan711_github-jatin711-debugpython-package-manager-activity-7225222783172055041-UHcJ&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjatin-mahajan711_github-jatin711-debugpython-package-manager-activity-7225222783172055041-UHcJ&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/nayyer-ahmad_github-nayyerahmadpr-sonar-automation-activity-7236240932054937600-VjAN)
+
+[ ](https://fi.linkedin.com/in/nayyer-ahmad?trk=public_post_feed-actor-image)
+
+[ Nayyer Ahmad ](https://fi.linkedin.com/in/nayyer-ahmad?trk=public_post_feed-actor-name)
+
+Passionate Frontend Developer | Crafting Engaging Interfaces with React & Next.js Expertise 
+
+4mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnayyer-ahmad_github-nayyerahmadpr-sonar-automation-activity-7236240932054937600-VjAN&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+🚀 Just wrapped up an exciting project: Automating SonarQube branch analysis with Python! I developed a script that seamlessly fetches open PRs from Bitbucket, checks them out, and runs SonarQube scans—all on its own. The script not only saves time but also ensures that code quality checks are consistent across all branches. No more manual checking—just smooth, automated analysis. 🌟 This project was a fantastic learning experience, as it’s one of my first major Python endeavors. Here’s what I took away: 1️⃣ Mastering API Interactions: Learned how to fetch and process data from Bitbucket’s API. 2️⃣ Subprocess Management: Gained hands-on experience with Python’s subprocess module for running shell commands. 3️⃣ Automated Workflows: Understood the power of automation in maintaining consistent code quality. Curious about the details? Check out the project on GitHub: [https://lnkd.in/dkYPdkZ6](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdkYPdkZ6&urlhash=nwTS&trk=public_post-text) [#Python](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpython&trk=public_post-text) [#SonarQube](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsonarqube&trk=public_post-text) [#Automation](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fautomation&trk=public_post-text) [#DevOps](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fdevops&trk=public_post-text) [#CodeQuality](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcodequality&trk=public_post-text) [#TechInnovation](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftechinnovation&trk=public_post-text) [#LearningJourney](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Flearningjourney&trk=public_post-text)
+
+## [ GitHub - NayyerAhmad/pr-sonar-automation  github.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgithub%2Ecom%2FNayyerAhmad%2Fpr-sonar-automation&urlhash=sl3M&trk=public_post_feed-article-content)
+
+[ 21  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnayyer-ahmad_github-nayyerahmadpr-sonar-automation-activity-7236240932054937600-VjAN&trk=public_post_social-actions-reactions) [ 7 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnayyer-ahmad_github-nayyerahmadpr-sonar-automation-activity-7236240932054937600-VjAN&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnayyer-ahmad_github-nayyerahmadpr-sonar-automation-activity-7236240932054937600-VjAN&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnayyer-ahmad_github-nayyerahmadpr-sonar-automation-activity-7236240932054937600-VjAN&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnayyer-ahmad_github-nayyerahmadpr-sonar-automation-activity-7236240932054937600-VjAN&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/jain-ayush-_automatic-versioning-and-releasepython-activity-7185243427142352896-I5KG)
+
+[ ](https://in.linkedin.com/in/jain-ayush-?trk=public_post_feed-actor-image)
+
+[ Ayush Jain ](https://in.linkedin.com/in/jain-ayush-?trk=public_post_feed-actor-name)
+
+Developer | Exploring Tech | Games Enthusiast 
+
+9mo  Edited 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjain-ayush-_automatic-versioning-and-releasepython-activity-7185243427142352896-I5KG&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Hey everyone! 👋 In my last post, I discussed how to create and publish Python packages on PyPI. 🐍📦 This time, I talk about automating package versioning and setting up CI/CD for automatic publishing using GitHub Actions. This can be extended to integrate Docker, automating the entire process in one go. 🚀 Read the full article here: [https://lnkd.in/g_TffdMD](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg_TffdMD&urlhash=HixZ&trk=public_post-text) Feel free to share your thoughts and advice in the comments. 💬 [#PythonPackages](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpythonpackages&trk=public_post-text) [#PyPI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpypi&trk=public_post-text) [#GitHubActions](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgithubactions&trk=public_post-text) [#CICD](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcicd&trk=public_post-text) [#Automation](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fautomation&trk=public_post-text)
+
+## [ Automatic Versioning and Release — Python Package  link.medium.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flink%2Emedium%2Ecom%2FgoUYWe4UMIb&urlhash=5ORY&trk=public_post_feed-article-content)
+
+[ 91  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjain-ayush-_automatic-versioning-and-releasepython-activity-7185243427142352896-I5KG&trk=public_post_social-actions-reactions) [ 1 Comment ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjain-ayush-_automatic-versioning-and-releasepython-activity-7185243427142352896-I5KG&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjain-ayush-_automatic-versioning-and-releasepython-activity-7185243427142352896-I5KG&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjain-ayush-_automatic-versioning-and-releasepython-activity-7185243427142352896-I5KG&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjain-ayush-_automatic-versioning-and-releasepython-activity-7185243427142352896-I5KG&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/bytewise-analytics_find-install-and-publish-python-packages-activity-7257148755336929280-OeWw)
+
+[ ](https://www.linkedin.com/company/bytewise-analytics?trk=public_post_feed-actor-image)
+
+[ ByteWise Analytics ](https://www.linkedin.com/company/bytewise-analytics?trk=public_post_feed-actor-name)
+
+10 followers 
+
+2mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbytewise-analytics_find-install-and-publish-python-packages-activity-7257148755336929280-OeWw&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Just sharing a package we pushed out to the public python package registry [pypi.org](https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fpypi%2Eorg&urlhash=RyzU&trk=public_post-text). It is completely open source and completely free. If you have Python installed and you or your developers manage your own website or websites for clients you can easily convert your jpg and png images to webp right on your local PC and not have to use third party tools or plug ins. The loom video shows how it works and I will link the package documentation page on [pypi.org](https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fpypi%2Eorg&urlhash=RyzU&trk=public_post-text) and the public git repository. We promise no tricks or gotchas, just a gift lol. We released it under the MIT license so it is completely open source. Pypi Docs: [https://lnkd.in/gab2m_Se](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fgab2m_Se&urlhash=OuRg&trk=public_post-text) GitHub Repo: [https://lnkd.in/gg8xfGxF](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fgg8xfGxF&urlhash=AG6R&trk=public_post-text) Loom Video: [https://lnkd.in/g8YZ5k84](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg8YZ5k84&urlhash=D9WL&trk=public_post-text)
+
+## [ Find, install and publish Python packages with the Python Package Index  pypi.org  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fpypi%2Eorg%2F&urlhash=RJU0&trk=public_post_feed-article-content)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbytewise-analytics_find-install-and-publish-python-packages-activity-7257148755336929280-OeWw&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbytewise-analytics_find-install-and-publish-python-packages-activity-7257148755336929280-OeWw&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbytewise-analytics_find-install-and-publish-python-packages-activity-7257148755336929280-OeWw&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/harsh-sahuu_drf-django-python-activity-7218890464148516866-YrWP)
+
+[ ](https://in.linkedin.com/in/harsh-sahuu?trk=public_post_feed-actor-image)
+
+[ Harsh Sahu ](https://in.linkedin.com/in/harsh-sahuu?trk=public_post_feed-actor-name)
+
+Python Developer |Dsa with python| Full Stack Developer { Django | Django Channels | Django REST Framework | HTML | CSS | JavaScript | Bootstrap } + Data Visualization with Chart.js & Django 
+
+6mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fharsh-sahuu_drf-django-python-activity-7218890464148516866-YrWP&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Hi Everyone, I’m excited to share that after completing serialization and deserialization in Django Rest Framework (DRF), I’ve now learned about ModelSerialization. I’ve updated my GitHub repository with notes and code on this topic. Additionally, I’ve started working on Function-Based API views, which streamline the process and make development quicker and easier. I always appreciate your suggestions and feedback. Check out my GitHub repo: [ [https://lnkd.in/epn6uPeV](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fepn6uPeV&urlhash=dqWU&trk=public_post-text) ] [#DRF](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fdrf&trk=public_post-text) [#DJANGO](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fdjango&trk=public_post-text) [#PYTHON](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpython&trk=public_post-text)
+
+[ 3  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fharsh-sahuu_drf-django-python-activity-7218890464148516866-YrWP&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fharsh-sahuu_drf-django-python-activity-7218890464148516866-YrWP&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fharsh-sahuu_drf-django-python-activity-7218890464148516866-YrWP&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fharsh-sahuu_drf-django-python-activity-7218890464148516866-YrWP&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/prasnna-parthasarathy-74750316_langchain-langgraph-activity-7191543561106968576-IgPp)
+
+[ ](https://www.linkedin.com/in/prasnna-parthasarathy-74750316?trk=public_post_feed-actor-image)
+
+[ Prasnna Parthasarathy ](https://www.linkedin.com/in/prasnna-parthasarathy-74750316?trk=public_post_feed-actor-name)
+
+Software Engineer 
+
+8mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fprasnna-parthasarathy-74750316_langchain-langgraph-activity-7191543561106968576-IgPp&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Trying to do code generation, execution and then the unit test generation and execution . Started with basic python and ended up with lang chain lib, lang chain abstractions are great, the sequencing of the prompts were easy. I am looking for an example where I can have agents to do the code execution as well . Started looking into lang graph, please help with sharing public repos where I can find examples to execute this process back and forth in case of errors as well. [#langchain](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Flangchain&trk=public_post-text) [#langgraph](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Flanggraph&trk=public_post-text) will shortly share my git repo
+
+[ 1  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fprasnna-parthasarathy-74750316_langchain-langgraph-activity-7191543561106968576-IgPp&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fprasnna-parthasarathy-74750316_langchain-langgraph-activity-7191543561106968576-IgPp&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fprasnna-parthasarathy-74750316_langchain-langgraph-activity-7191543561106968576-IgPp&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fprasnna-parthasarathy-74750316_langchain-langgraph-activity-7191543561106968576-IgPp&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/erik-frits_type-type-learnrevitapi-activity-7255510237787373570-H8_b)
+
+[ ](https://at.linkedin.com/in/erik-frits?trk=public_post_feed-actor-image)
+
+[ Erik Frits ](https://at.linkedin.com/in/erik-frits?trk=public_post_feed-actor-name)
+
+Teaching Revit Experts How to Code. (Download my 📘Free Guide to start today) 
+
+2mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ferik-frits_type-type-learnrevitapi-activity-7255510237787373570-H8_b&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Python doesn't enforce declaring types like C#, but we can include them to improve code readability and assist with debugging. But keep in mind that Python2 and Python3 have slightly different rules for declaring types, so I will provide you with how to do Python2 type hinting because it also works in Python3. Here is the deal: You have to use [#type](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftype&trk=public_post-text): TypeName syntax at the end of the line. You can try it on doc variable. doc = __revit__. ActiveUIDocument.Document [#type](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftype&trk=public_post-text): Document print(doc.ActiveView) # This would give you autocomplete Then your IDE will recognize the type and provide you auto-complete options and help you with debugging. I hope this helps! Happy Coding! [#LearnRevitAPI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Flearnrevitapi&trk=public_post-text) [#RevitAPI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frevitapi&trk=public_post-text) [#pyRevit](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpyrevit&trk=public_post-text) [#Revit](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frevit&trk=public_post-text)
+
+    * ![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D4D22AQFXLz-rKjE8dQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1729848440470?e=2147483647&v=beta&t=nf6ME-sEbt9FNjBjAdpMwb-85EJR-UV1FFw-VNDVfII)
+
+[ ![](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) ![](https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu) ![](https://static.licdn.com/aero-v1/sc/h/22ifp2etz8kb9tgjqn65s9ics) 50  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ferik-frits_type-type-learnrevitapi-activity-7255510237787373570-H8_b&trk=public_post_social-actions-reactions) [ 6 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ferik-frits_type-type-learnrevitapi-activity-7255510237787373570-H8_b&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ferik-frits_type-type-learnrevitapi-activity-7255510237787373570-H8_b&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ferik-frits_type-type-learnrevitapi-activity-7255510237787373570-H8_b&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ferik-frits_type-type-learnrevitapi-activity-7255510237787373570-H8_b&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/nikhiltelase_github-automation-productivity-activity-7200500353669218305-2grp)
+
+[ ![View profile for Nikhil Telase, graphic](https://media.licdn.com/dms/image/v2/D5603AQGixYekkgeTqA/profile-displayphoto-shrink_400_400/B56ZN7NNvBGsAg-/0/1732938883878?e=2147483647&v=beta&t=SJjV2w-PqmToayVhEc_FpBXu4z8YozTuTuTz4MSfv64) ](https://in.linkedin.com/in/nikhiltelase?trk=public_post_feed-actor-image)
+
+[ Nikhil Telase ](https://in.linkedin.com/in/nikhiltelase?trk=public_post_feed-actor-name)
+
+Tech Explorer | Python & MERN Stack Enthusiast | Passionate About Building Innovative Solutions 
+
+7mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnikhiltelase_github-automation-productivity-activity-7200500353669218305-2grp&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+GitHub Repo Management with Automation! 🔍 Today i noticed some of my GitHub repos were missing descriptions. Instead of manually fixing each, I write up a Python script to pinpoint them instantly using github api. Print the url of they not have description With a few minutes, all descriptions are now clear and concise. Automation for the win! 💡💻 [#GitHub](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgithub&trk=public_post-text) [#Automation](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fautomation&trk=public_post-text) [#Productivity](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fproductivity&trk=public_post-text) [#Coding](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcoding&trk=public_post-text) [#Python](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpython&trk=public_post-text)
+
+    * ![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D5622AQEVri4hEyELCw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716733062289?e=2147483647&v=beta&t=1rfl-GYtALycAvlPxPG2ghOMNCtQBagM8HhyovqY_8k)
+
+[ ![](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) ![](https://static.licdn.com/aero-v1/sc/h/asiqslyf4ooq7ggllg4fyo4o2) ![](https://static.licdn.com/aero-v1/sc/h/2tzoeodxy0zug4455msr0oq0v) 41  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnikhiltelase_github-automation-productivity-activity-7200500353669218305-2grp&trk=public_post_social-actions-reactions) [ 5 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnikhiltelase_github-automation-productivity-activity-7200500353669218305-2grp&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnikhiltelase_github-automation-productivity-activity-7200500353669218305-2grp&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnikhiltelase_github-automation-productivity-activity-7200500353669218305-2grp&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnikhiltelase_github-automation-productivity-activity-7200500353669218305-2grp&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/realpython-com_setting-up-a-simple-ocr-server-real-python-activity-7268292743133581312-ZWPV)
+
+[ ![View organization page for Real Python, graphic](https://media.licdn.com/dms/image/v2/C560BAQHkSGsEBaKj5Q/company-logo_100_100/company-logo_100_100/0/1630631349128/realpython_com_logo?e=2147483647&v=beta&t=YzcirrSToy8_RqBksaKPSXRTcsc5Kf6za8SKlwylpeg) ](https://ca.linkedin.com/company/realpython-com?trk=public_post_feed-actor-image)
+
+[ Real Python ](https://ca.linkedin.com/company/realpython-com?trk=public_post_feed-actor-name)
+
+207,494 followers 
+
+1mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Frealpython-com_setting-up-a-simple-ocr-server-real-python-activity-7268292743133581312-ZWPV&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+🐍📰 Setting up a Simple OCR Server This tutorial details how to build a simple Flask OCR server with Tesseract. [#python](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpython&trk=public_post-text)
+
+[ ![Setting up a Simple OCR Server](https://media.licdn.com/dms/image/v2/D4D10AQGFsTLCuwHbcQ/image-shrink_1280/image-shrink_1280/0/1732896024656?e=2147483647&v=beta&t=jJlw4mHbRKIf7oVWIVcRnTq68UxBBCEP5MYGF13N1_w) Setting up a Simple OCR Server  realpython.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Frealpython%2Ecom%2Fsetting-up-a-simple-ocr-server%2F&urlhash=nheN&trk=public_post_feed-article-content)
+
+[ ![](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) ![](https://static.licdn.com/aero-v1/sc/h/asiqslyf4ooq7ggllg4fyo4o2) 9  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Frealpython-com_setting-up-a-simple-ocr-server-real-python-activity-7268292743133581312-ZWPV&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Frealpython-com_setting-up-a-simple-ocr-server-real-python-activity-7268292743133581312-ZWPV&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Frealpython-com_setting-up-a-simple-ocr-server-real-python-activity-7268292743133581312-ZWPV&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Frealpython-com_setting-up-a-simple-ocr-server-real-python-activity-7268292743133581312-ZWPV&trk=public_post_feed-cta-banner-cta)
+
+
+
+
+![](https://media.licdn.com/dms/image/v2/D4E16AQHookE3xfscXg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1736088529879?e=2147483647&v=beta&t=MwX7CR0uXvasaAndTLMKMF-pSRKPMtagSf45BrVb31M)
+
+59,008 followers 
+
+  * [ 617 Posts ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fmaria-vechtomova%2Frecent-activity%2F&trk=public_post_follow-posts)
+
+
+
+[ View Profile ](https://nl.linkedin.com/in/maria-vechtomova?trk=public_post_follow-view-profile) [ Follow ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A7245681523478138880&trk=public_post_follow)
+
+##  Explore topics 
+
+  * [ Sales ](https://www.linkedin.com/pulse/topics/sales-s5/)
+  * [ Marketing ](https://www.linkedin.com/pulse/topics/marketing-s2461/)
+  * [ IT Services ](https://www.linkedin.com/pulse/topics/it-services-s57547/)
+  * [ Business Administration ](https://www.linkedin.com/pulse/topics/business-administration-s50111/)
+  * [ HR Management ](https://www.linkedin.com/pulse/topics/hr-management-s50359/)
+  * [ Engineering ](https://www.linkedin.com/pulse/topics/engineering-s166/)
+  * [ Soft Skills ](https://www.linkedin.com/pulse/topics/soft-skills-s2976/)
+  * [ See All ](https://www.linkedin.com/pulse/topics/home/)
+
+
+
+  * LinkedIn © 2025
+  * [ About ](https://about.linkedin.com?trk=d_public_post_footer-about)
+  * [ Accessibility ](https://www.linkedin.com/accessibility?trk=d_public_post_footer-accessibility)
+  * [ User Agreement ](https://www.linkedin.com/legal/user-agreement?trk=d_public_post_footer-user-agreement)
+  * [ Privacy Policy ](https://www.linkedin.com/legal/privacy-policy?trk=d_public_post_footer-privacy-policy)
+  * [ Cookie Policy ](https://www.linkedin.com/legal/cookie-policy?trk=d_public_post_footer-cookie-policy)
+  * [ Copyright Policy ](https://www.linkedin.com/legal/copyright-policy?trk=d_public_post_footer-copyright-policy)
+  * [ Brand Policy ](https://brand.linkedin.com/policies?trk=d_public_post_footer-brand-policy)
+  * [ Guest Controls ](https://www.linkedin.com/psettings/guest-controls?trk=d_public_post_footer-guest-controls)
+  * [ Community Guidelines ](https://www.linkedin.com/legal/professional-community-policies?trk=d_public_post_footer-community-guide)
+  *     * العربية (Arabic) 
+    * বাংলা (Bangla) 
+    * Čeština (Czech) 
+    * Dansk (Danish) 
+    * Deutsch (German) 
+    * Ελληνικά (Greek) 
+    * **English (English)**
+    * Español (Spanish) 
+    * فارسی (Persian) 
+    * Suomi (Finnish) 
+    * Français (French) 
+    * हिंदी (Hindi) 
+    * Magyar (Hungarian) 
+    * Bahasa Indonesia (Indonesian) 
+    * Italiano (Italian) 
+    * עברית (Hebrew) 
+    * 日本語 (Japanese) 
+    * 한국어 (Korean) 
+    * मराठी (Marathi) 
+    * Bahasa Malaysia (Malay) 
+    * Nederlands (Dutch) 
+    * Norsk (Norwegian) 
+    * ਪੰਜਾਬੀ (Punjabi) 
+    * Polski (Polish) 
+    * Português (Portuguese) 
+    * Română (Romanian) 
+    * Русский (Russian) 
+    * Svenska (Swedish) 
+    * తెలుగు (Telugu) 
+    * ภาษาไทย (Thai) 
+    * Tagalog (Tagalog) 
+    * Türkçe (Turkish) 
+    * Українська (Ukrainian) 
+    * Tiếng Việt (Vietnamese) 
+    * 简体中文 (Chinese (Simplified)) 
+    * 正體中文 (Chinese (Traditional)) 
+Language 
+
+
+
+
+LinkedIn 
+
+Never miss a beat on the app 
+
+Don’t have the app? Get it in the Microsoft Store. 
+
+[ Open the app ](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell_post2)
+
+![](https://static.licdn.com/aero-v1/sc/h/5k9cgtx8rhoyqkcxfoncu1svl)
+
+##  Sign in to view more content 
+
+Create your free account or sign in to continue your search 
+
+Sign in 
+
+##  Welcome back 
+
+Email or phone 
+
+Password 
+
+Show
+
+[Forgot password?](https://www.linkedin.com/uas/request-password-reset?trk=public_post_contextual-sign-in-modal_sign-in-modal_forgot_password) Sign in 
+
+or 
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy). 
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_contextual-sign-in-modal_sign-in-modal_join-link)
+
+or 
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmaria-vechtomova_python-softwareengineering-machinelearning-activity-7245681523478138880-zNT5&trk=public_post_contextual-sign-in-modal_join-link)
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy). 

@@ -1,0 +1,1507 @@
+## [![](/vector-db-comparison/_next/static/media/logo.f50f57cc.svg)Vector DB Comparison](/)
+
+[By Superlinked ](https://www.superlinked.com)[| Last Updated : 1 days ago](https://github.com/superlinked/VectorHub/tree/main/docs/tools/vdb_table/data)
+
+[Create smart vectors for your VDB![](/vector-db-comparison/_next/static/media/thick-arrow-primary.3917c7db.svg)](https://github.com/superlinked/superlinked)
+
+Get Insights
+
+![arrow](/vector-db-comparison/_next/static/media/thick-arrow.99bec954.svg)
+
+Vendor
+
+About
+
+Search
+
+Models
+
+APIs
+
+OSS
+
+License
+
+Dev Lang
+
+VSS Launch
+
+Filters
+
+Hybrid Search
+
+Facets
+
+Geo Search
+
+Multi-Vector
+
+Sparse
+
+BM25
+
+Full-Text
+
+Text Model
+
+Image Model
+
+Struct Model
+
+RAG
+
+RecSys
+
+Activeloop Deep Lake
+
+Aerospike
+
+Anari AI
+
+Apache Cassandra
+
+Apache Solr
+
+ApertureDB
+
+Azure AI Search
+
+Chroma
+
+ClickHouse
+
+Couchbase
+
+CrateDB
+
+Databricks Vector Search
+
+DataStax Astra DB
+
+Elasticsearch
+
+Epsilla
+
+GCP Vertex AI Vector Search
+
+Hyperspace
+
+KDB.AI
+
+LanceDB
+
+Marqo
+
+Meilisearch
+
+Milvus
+
+MongoDB Atlas
+
+MyScale
+
+Neo4j
+
+Nuclia DB
+
+OpenSearch
+
+OramaSearch
+
+ParadeDB
+
+pgvecto.rs
+
+pgvector
+
+Pinecone
+
+✅
+
+[](https://github.com/activeloopai/deeplake "Documentation Link")
+
+MPL 2.0 
+
+python c++ 
+
+2023
+
+✅
+
+[](https://docs.activeloop.ai/example-code/tutorials/vector-store/vector-search-options/deep-lake-vector-store-api#filter-search-using-udfs "Documentation Link")
+
+-
+
+[](https://docs.activeloop.ai/performance-features/querying-datasets/query-syntax "Documentation Link")
+
+-
+
+❌
+
+✅
+
+[](https://docs.activeloop.ai/technical-details/data-layout "Documentation Link")
+
+🟨
+
+[](https://docs.deeplake.ai/en/latest/Htypes.html "Documentation Link")
+
+❌
+
+🟨
+
+🟨
+
+[](https://docs.activeloop.ai/quickstart "Documentation Link")
+
+🟨
+
+[](https://docs.activeloop.ai/quickstart "Documentation Link")
+
+-
+
+-
+
+-
+
+❌
+
+Proprietary 
+
+java 
+
+2024
+
+❌
+
+❌
+
+❌
+
+❌
+
+✅
+
+[](https://aerospike.com/docs/vector/architecture/vector-data#vector-bins--index-storage "Documentation Link")
+
+❌
+
+❌
+
+❌
+
+❌
+
+❌
+
+-
+
+-
+
+-
+
+❌
+
+Proprietary 
+
+-
+
+2023
+
+-
+
+❌
+
+-
+
+❌
+
+-
+
+-
+
+❌
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+✅
+
+Apache-2.0 
+
+java 
+
+2023
+
+✅
+
+✅
+
+[](https://cassio.org/ "Documentation Link")
+
+-
+
+-
+
+-
+
+❌
+
+-
+
+❌
+
+-
+
+-
+
+-
+
+-
+
+-
+
+✅
+
+Apache-2.0 
+
+java 
+
+2022
+
+✅
+
+[](https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html "Documentation Link")
+
+✅
+
+[](https://sease.io/2023/10/apache-lucene-solr-ai-roadmap-do-you-want-to-make-it-happen.html "Documentation Link")
+
+✅
+
+✅
+
+✅
+
+-
+
+✅
+
+✅
+
+❌
+
+❌
+
+-
+
+❌
+
+✅
+
+🟨
+
+[](https://hub.docker.com/r/aperturedata/aperturedb-community "Documentation Link")
+
+[](https://github.com/aperture-data "Documentation Link")
+
+Proprietary 
+
+[](https://github.com/aperture-data "Documentation Link")
+
+c++ 
+
+2021
+
+✅
+
+[](https://docs.aperturedata.io/concepts/Schema "Documentation Link")
+
+-
+
+✅
+
+[](https://docs.aperturedata.io/query_language/Reference/shared_command_parameters/results "Documentation Link")
+
+-
+
+🟨
+
+[](https://docs.aperturedata.io/HowToGuides/Applications/similarity_search#all-of-the-above-and-some-more-can-be-done-by-executing-this-through-adb-cli "Documentation Link")
+
+-
+
+-
+
+-
+
+✅
+
+[](https://docs.aperturedata.io/HowToGuides/Ingestion/Updates#transformations-while-loading "Documentation Link")
+
+✅
+
+[](https://docs.aperturedata.io/HowToGuides/Ingestion/Updates#transformations-while-loading "Documentation Link")
+
+-
+
+-
+
+-
+
+❌
+
+Proprietary 
+
+c++ 
+
+2023
+
+✅
+
+✅
+
+[](https://learn.microsoft.com/azure/search/hybrid-search-overview "Documentation Link")
+
+✅
+
+[](https://learn.microsoft.com/azure/search/search-faceted-navigation "Documentation Link")
+
+✅
+
+[](https://learn.microsoft.com/azure/search/search-query-odata-geo-spatial-functions "Documentation Link")
+
+✅
+
+[](https://learn.microsoft.com/azure/search/vector-search-how-to-query?tabs=query-2023-11-01%2Cfilter-2023-11-01#vector-query-request "Documentation Link")
+
+❌
+
+✅
+
+[](https://learn.microsoft.com/azure/search/index-ranking-similarity "Documentation Link")
+
+✅
+
+[](https://learn.microsoft.com/azure/search/search-query-overview#types-of-queries "Documentation Link")
+
+✅
+
+[](https://learn.microsoft.com/azure/search/vector-search-integrated-vectorization "Documentation Link")
+
+🟨
+
+[](https://learn.microsoft.com/azure/search/cognitive-search-custom-skill-web-api "Documentation Link")
+
+-
+
+✅
+
+[](https://learn.microsoft.com/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search "Documentation Link")
+
+❌
+
+✅
+
+Apache-2.0 
+
+rust python 
+
+2022
+
+✅
+
+❌
+
+-
+
+-
+
+❌
+
+❌
+
+❌
+
+🟨
+
+[](https://docs.trychroma.com/guides#filtering-by-document-contents "Documentation Link")
+
+✅
+
+✅
+
+[](https://docs.trychroma.com/guides/multimodal#multi-modal-embedding-functions "Documentation Link")
+
+-
+
+-
+
+-
+
+✅
+
+Apache 2.0 
+
+c++ 
+
+2022
+
+✅
+
+[](https://clickhouse.com/use-cases/machine-learning-and-data-science "Documentation Link")
+
+❌
+
+✅
+
+[](https://clickhouse.com/docs/knowledgebase/filtered-aggregates "Documentation Link")
+
+✅
+
+✅
+
+❌
+
+❌
+
+✅
+
+🟨
+
+[](https://clickhouse.com/docs/en/sql-reference/functions/udf "Documentation Link")
+
+🟨
+
+-
+
+❌
+
+❌
+
+🟨
+
+[](https://www.couchbase.com/blog/couchbase-adopts-bsl-license/ "Documentation Link")
+
+[](https://www.couchbase.com/blog/couchbase-adopts-bsl-license/ "Documentation Link")
+
+Proprietary 
+
+c++ erlang 
+
+2024
+
+✅
+
+[](https://docs.couchbase.com/server/current/vector-search/run-vector-search-rest-api.html#example "Documentation Link")
+
+✅
+
+[](https://docs.couchbase.com/cloud/search/search-request-params.html#compound-queries "Documentation Link")
+
+✅
+
+[](https://docs.couchbase.com/server/current/fts/fts-search-response-facets.html "Documentation Link")
+
+✅
+
+[](https://docs.couchbase.com/cloud/search/geo-search-ui.html "Documentation Link")
+
+✅
+
+[](https://docs.couchbase.com/cloud/vector-search/create-vector-search-index-ui.html "Documentation Link")
+
+✅
+
+[](https://docs.couchbase.com/c-sdk/current/concept-docs/full-text-search-overview.html "Documentation Link")
+
+❌
+
+❌
+
+❌
+
+❌
+
+✅
+
+[](https://github.com/crate/crate "Documentation Link")
+
+Apache 2.0 
+
+java 
+
+2023
+
+✅
+
+[](https://cratedb.com/docs/crate/reference/en/latest/general/builtins/comparison-operators.html "Documentation Link")
+
+-
+
+✅
+
+[](https://cratedb.com/docs/crate/reference/en/latest/general/builtins/aggregation.html "Documentation Link")
+
+✅
+
+[](https://cratedb.com/docs/crate/reference/en/latest/general/dql/geo.html "Documentation Link")
+
+✅
+
+[](https://cratedb.com/docs/crate/reference/en/latest/general/ddl/data-types.html "Documentation Link")
+
+-
+
+✅
+
+[](https://cratedb.com/docs/crate/reference/en/latest/general/ddl/system-columns.html "Documentation Link")
+
+✅
+
+[](https://cratedb.com/docs/crate/reference/en/latest/general/dql/fulltext.html "Documentation Link")
+
+-
+
+-
+
+-
+
+-
+
+-
+
+❌
+
+[](https://www.databricks.com/legal/mcsa "Documentation Link")
+
+Proprietary 
+
+-
+
+2024
+
+✅
+
+[](https://www.databricks.com/blog/announcing-mosaic-ai-vector-search-general-availability-databricks "Documentation Link")
+
+✅
+
+[](https://docs.databricks.com/en/generative-ai/vector-search.html "Documentation Link")
+
+❌
+
+❌
+
+❌
+
+❌
+
+✅
+
+[](https://docs.databricks.com/en/generative-ai/vector-search.html#how-does-mosaic-ai-vector-search-work "Documentation Link")
+
+✅
+
+[](https://docs.databricks.com/en/generative-ai/vector-search.html "Documentation Link")
+
+✅
+
+[](https://docs.databricks.com/en/generative-ai/external-models/index.html "Documentation Link")
+
+❌
+
+[](https://docs.databricks.com/en/generative-ai/vector-search.html#options-for-providing-vector-embeddings "Documentation Link")
+
+❌
+
+[](https://docs.databricks.com/en/generative-ai/vector-search.html#options-for-providing-vector-embeddings "Documentation Link")
+
+✅
+
+[](https://docs.databricks.com/en/generative-ai/retrieval-augmented-generation.html#databricks-vector-search "Documentation Link")
+
+✅
+
+[](https://docs.databricks.com/en/generative-ai/vector-search.html#options-for-providing-vector-embeddings "Documentation Link")
+
+❌
+
+Proprietary 
+
+java go 
+
+2023
+
+✅
+
+✅
+
+[](https://docs.datastax.com/en/astra/astra-db-vector/databases/vector-search.html "Documentation Link")
+
+✅
+
+✅
+
+❌
+
+❌
+
+❌
+
+✅
+
+✅
+
+❌
+
+-
+
+✅
+
+[](https://www.datastax.com/products/ragstack "Documentation Link")
+
+-
+
+❌
+
+Elastic License v2 
+
+java 
+
+2021
+
+✅
+
+✅
+
+[](https://www.elastic.co/search-labs/tutorials/search-tutorial/vector-search/hybrid-search "Documentation Link")
+
+✅
+
+✅
+
+✅
+
+✅
+
+✅
+
+✅
+
+✅
+
+-
+
+-
+
+-
+
+-
+
+✅
+
+GPL-3.0 
+
+c++ 
+
+2023
+
+✅
+
+✅
+
+[](https://epsilla-inc.gitbook.io/epsilladb/vector-database/hybrid-search "Documentation Link")
+
+-
+
+-
+
+✅
+
+[](https://epsilla-inc.gitbook.io/epsilladb/vector-database/create-a-new-table "Documentation Link")
+
+✅
+
+[](https://epsilla-inc.gitbook.io/epsilladb/vector-database/dense-vector-vs.-sparse-vector "Documentation Link")
+
+-
+
+-
+
+✅
+
+[](https://epsilla-inc.gitbook.io/epsilladb/vector-database/embeddings "Documentation Link")
+
+-
+
+-
+
+✅
+
+[](https://blog.epsilla.com/your-data-your-ai-build-an-ai-chatbot-with-your-own-knowledge-in-5-minutes-with-epsilla-cloud-35f549332c8e "Documentation Link")
+
+-
+
+❌
+
+- 
+
+-
+
+2021
+
+✅
+
+❌
+
+-
+
+-
+
+❌
+
+❌
+
+❌
+
+❌
+
+❌
+
+-
+
+-
+
+-
+
+-
+
+❌
+
+Proprietary 
+
+python java 
+
+2023
+
+✅
+
+[](https://docs.hyper-space.io/hyperspace-docs/flows/data-collections/python-query-interface/candidate-filtering "Documentation Link")
+
+✅
+
+[](https://docs.hyper-space.io/hyperspace-docs/reference/hyperspace-hybrid-search#hybrid-search "Documentation Link")
+
+🟨
+
+[](https://docs.hyper-space.io/hyperspace-docs/flows/data-collections/python-query-interface/aggregations "Documentation Link")
+
+✅
+
+[](https://docs.hyper-space.io/hyperspace-docs/flows/es-dsl-query-interface/candidate-filtering#match-between-geo-coordinates "Documentation Link")
+
+✅
+
+[](https://docs.hyper-space.io/hyperspace-docs/flows/setting-up/building-and-running-queries/building-a-vector-search-query "Documentation Link")
+
+-
+
+❌
+
+🟨
+
+[](https://docs.hyper-space.io/hyperspace-docs/flows/data-collections/python-query-interface/candidate-filtering#exact-match-between-keywords "Documentation Link")
+
+❌
+
+❌
+
+-
+
+-
+
+-
+
+❌
+
+Proprietary 
+
+python 
+
+2023
+
+✅
+
+✅
+
+[](https://code.kx.com/kdbai/use/hybrid-search.html "Documentation Link")
+
+🟨
+
+[](https://code.kx.com/kdbai/use/query.html "Documentation Link")
+
+-
+
+-
+
+✅
+
+[](https://code.kx.com/kdbai/reference/hybrid.html "Documentation Link")
+
+✅
+
+[](https://code.kx.com/kdbai/reference/hybrid.html "Documentation Link")
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+✅
+
+Apache-2.0 
+
+rust 
+
+2023
+
+✅
+
+✅
+
+[](https://lancedb.github.io/lancedb/hybrid_search/hybrid_search/ "Documentation Link")
+
+-
+
+-
+
+❌
+
+-
+
+✅
+
+✅
+
+✅
+
+[](https://lancedb.github.io/lancedb/embeddings/embedding_functions/ "Documentation Link")
+
+-
+
+-
+
+-
+
+-
+
+✅
+
+Apache-2.0 
+
+python 
+
+2022
+
+✅
+
+✅
+
+-
+
+-
+
+✅
+
+❌
+
+✅
+
+❌
+
+✅
+
+✅
+
+-
+
+-
+
+-
+
+✅
+
+[](https://github.com/meilisearch/meilisearch/blob/main/LICENSE "Documentation Link")
+
+MIT 
+
+rust 
+
+2023
+
+✅
+
+[](https://www.meilisearch.com/docs/learn/fine_tuning_results/filtering#filter-basics "Documentation Link")
+
+✅
+
+[](https://blog.meilisearch.com/meilisearch-1-6/ "Documentation Link")
+
+✅
+
+[](https://www.meilisearch.com/docs/learn/fine_tuning_results/faceted_search#facet-distribution "Documentation Link")
+
+✅
+
+[](https://www.meilisearch.com/docs/learn/fine_tuning_results/geosearch "Documentation Link")
+
+✅
+
+❌
+
+🟨
+
+[](https://github.com/orgs/meilisearch/discussions/674 "Documentation Link")
+
+✅
+
+✅
+
+[](https://www.meilisearch.com/docs/learn/experimental/vector_search "Documentation Link")
+
+❌
+
+-
+
+-
+
+-
+
+✅
+
+Apache-2.0 
+
+go c++ 
+
+2019
+
+✅
+
+✅
+
+[](https://milvus.io/docs/multi-vector-search.md "Documentation Link")
+
+-
+
+❌
+
+✅
+
+[](https://milvus.io/docs/multi-vector-search.md "Documentation Link")
+
+✅
+
+[](https://milvus.io/docs/release_notes.md#Sparse-Vector-Beta "Documentation Link")
+
+✅
+
+[](https://milvus.io/docs/embed-with-bm25.md "Documentation Link")
+
+✅
+
+[](https://milvus.io/docs/release_notes.md#Inverted-Index-and-Fuzzy-Match "Documentation Link")
+
+✅
+
+[](https://milvus.io/docs/embeddings.md "Documentation Link")
+
+-
+
+-
+
+-
+
+-
+
+❌
+
+[](https://github.com/mongodb/mongo/blob/master/LICENSE-Community.txt "Documentation Link")
+
+SSPLv1 
+
+c++ java 
+
+2023
+
+✅
+
+✅
+
+[](https://gist.github.com/hweller1/d6dbd5036ae4366108b534a0f1662a20 "Documentation Link")
+
+✅
+
+✅
+
+✅
+
+❌
+
+✅
+
+✅
+
+❌
+
+-
+
+-
+
+-
+
+-
+
+✅
+
+Apache-2.0 
+
+c++ 
+
+2023
+
+✅
+
+✅
+
+[](https://myscale.com/docs/en/hybrid-search/ "Documentation Link")
+
+✅
+
+[](https://myscale.com/docs/en/advanced-applications/object-detect/ "Documentation Link")
+
+✅
+
+[](https://myscale.com/docs/en/functions/geospatial-functions/ "Documentation Link")
+
+✅
+
+[](https://myscale.com/docs/en/release-notes/#myscaledb-v1-4-0 "Documentation Link")
+
+❌
+
+✅
+
+[](https://myscale.com/blog/text-search-and-hybrid-search-in-myscale/ "Documentation Link")
+
+✅
+
+[](https://myscale.com/blog/text-search-and-hybrid-search-in-myscale/ "Documentation Link")
+
+✅
+
+[](https://myscale.com/docs/en/functions/ai-functions/embedding-functions/ "Documentation Link")
+
+❌
+
+❌
+
+❌
+
+❌
+
+❌
+
+[](https://neo4j.com/licensing/ "Documentation Link")
+
+Proprietary 
+
+java scala 
+
+2023
+
+✅
+
+✅
+
+[](https://github.com/langchain-ai/langchain/blob/db6f266d979215db37a1998f4de89ce83ddd3469/libs/community/langchain_community/vectorstores/neo4j_vector.py#L47-L63 "Documentation Link")
+
+❌
+
+✅
+
+✅
+
+[](https://neo4j.com/docs/cypher-manual/current/indexes/semantic-indexes/vector-indexes/ "Documentation Link")
+
+❌
+
+❌
+
+✅
+
+❌
+
+❌
+
+🟨
+
+[](https://neo4j.com/docs/graph-data-science/current/machine-learning/node-embeddings/node2vec/ "Documentation Link")
+
+✅
+
+[](https://neo4j.com/labs/apoc/5/ml/openai/ "Documentation Link")
+
+-
+
+✅
+
+[](https://github.com/nuclia/nucliadb "Documentation Link")
+
+AGPLv3 
+
+rust python 
+
+2021
+
+✅
+
+[](https://github.com/nuclia/nucliadb/blob/main/docs/internal/SEARCH.md "Documentation Link")
+
+✅
+
+[](https://docs.nuclia.dev/docs/guides/using/search/#features "Documentation Link")
+
+✅
+
+[](https://docs.nuclia.dev/docs/guides/using/search/#facets "Documentation Link")
+
+❌
+
+-
+
+❌
+
+✅
+
+[](https://nuclia.com/vector-database/#:~:text=Score%20type%3A-,BM25,-Score%3A%200.8871671557426453 "Documentation Link")
+
+✅
+
+[](https://github.com/nuclia/nucliadb/blob/main/nucliadb_node/README.md#nucliadb_paragraphs-and-nucliadb_fields "Documentation Link")
+
+-
+
+-
+
+-
+
+✅
+
+[](https://docs.nuclia.dev/docs/guides/using/search/chat/ "Documentation Link")
+
+❌
+
+✅
+
+Apache-2.0 
+
+java 
+
+2021
+
+✅
+
+✅
+
+✅
+
+[](https://opensearch.org/docs/latest/aggregations/metric/index/ "Documentation Link")
+
+✅
+
+✅
+
+✅
+
+[](https://opensearch.org/docs/latest/search-plugins/neural-sparse-search/ "Documentation Link")
+
+✅
+
+✅
+
+✅
+
+🟨
+
+[](https://opensearch.org/docs/2.11/ml-commons-plugin/custom-local-models/ "Documentation Link")
+
+-
+
+✅
+
+-
+
+✅
+
+Apache-2.0 
+
+typescript 
+
+2022
+
+✅
+
+❌
+
+✅
+
+✅
+
+❌
+
+❌
+
+✅
+
+✅
+
+✅
+
+-
+
+-
+
+-
+
+-
+
+✅
+
+[](https://github.com/paradedb/paradedb "Documentation Link")
+
+[](https://github.com/paradedb/paradedb/blob/dev/LICENSE "Documentation Link")
+
+AGPL-3.0 Licence 
+
+[](https://github.com/paradedb/paradedb "Documentation Link")
+
+rust 
+
+2023
+
+✅
+
+✅
+
+[](https://docs.paradedb.com/search/hybrid/basic "Documentation Link")
+
+-
+
+✅
+
+[](https://github.com/orgs/paradedb/discussions/1110 "Documentation Link")
+
+❌
+
+✅
+
+[](https://docs.paradedb.com/search/sparse/overview "Documentation Link")
+
+✅
+
+[](https://docs.paradedb.com/search/full-text/overview "Documentation Link")
+
+✅
+
+[](https://docs.paradedb.com/search/full-text/overview "Documentation Link")
+
+❌
+
+-
+
+-
+
+-
+
+-
+
+✅
+
+[](https://github.com/tensorchord/pgvecto.rs/blob/main/LICENSE "Documentation Link")
+
+Apache-2.0 
+
+rust 
+
+2023
+
+✅
+
+✅
+
+[](https://docs.pgvecto.rs/use-case/hybrid-search.html "Documentation Link")
+
+-
+
+🟨
+
+✅
+
+✅
+
+[](https://docs.pgvecto.rs/use-case/sparse-vector.html "Documentation Link")
+
+🟨
+
+[](https://docs.pgvecto.rs/use-case/hybrid-search.html "Documentation Link")
+
+✅
+
+[](https://www.postgresql.org/docs/current/textsearch.html "Documentation Link")
+
+-
+
+-
+
+-
+
+-
+
+-
+
+✅
+
+[](https://opensource.org/license/postgresql/ "Documentation Link")
+
+PostgreSQL Licence https://opensource.org/license/postgresql/ 
+
+c 
+
+2021
+
+✅
+
+✅
+
+[](https://github.com/pgvector/pgvector "Documentation Link")
+
+-
+
+✅
+
+✅
+
+✅
+
+✅
+
+✅
+
+[](https://www.postgresql.org/docs/current/textsearch.html "Documentation Link")
+
+❌
+
+-
+
+-
+
+-
+
+-
+
+❌
+
+Proprietary 
+
+rust 
+
+2019
+
+✅
+
+[](https://docs.pinecone.io/docs/metadata-filtering "Documentation Link")
+
+✅
+
+[](https://docs.pinecone.io/docs/hybrid-search "Documentation Link")
+
+❌
+
+❌
+
+❌
+
+✅
+
+[](https://docs.pinecone.io/docs/hybrid-search "Documentation Link")
+
+❌
+
+❌
+
+🟨
+
+[](https://github.com/pinecone-io/canopy "Documentation Link")
+
+❌
+
+-
+
+-
+
+✅
+
+[](https://github.com/pinecone-io/recommender-example-typescript "Documentation Link")
+
+to of Page of
+
+## Welcome
+
+### What is Vector DB Comparison?
+
+Vector DB Comparison is a free and open source tool from Superlinked to compare vector databases. Each of the features outlined has been verified to varying degrees by the community.
+
+[Superlinked](https://github.com/superlinked/superlinked) is a compute framework for turning multimodal data structures into vector embeddings
+
+### How to use this table?
+
+![](/vector-db-comparison/_next/image?url=%2Fvector-db-comparison%2F_next%2Fstatic%2Fmedia%2Fhow-to-use-1.0fd17a33.gif&w=3840&q=75)
+
+1. Scroll horizontally to view all attributes
+
+![](/vector-db-comparison/_next/image?url=%2Fvector-db-comparison%2F_next%2Fstatic%2Fmedia%2Fhow-to-use-2.dfe565a2.gif&w=3840&q=75)
+
+2. Hover column header to view description and filter
+
+![](/vector-db-comparison/_next/image?url=%2Fvector-db-comparison%2F_next%2Fstatic%2Fmedia%2Fhow-to-use-3.fb31819a.gif&w=3840&q=75)
+
+3. Click on column header to sort, and shift + click to sort by multiple columns
+
+![](/vector-db-comparison/_next/image?url=%2Fvector-db-comparison%2F_next%2Fstatic%2Fmedia%2Fhow-to-use-4.ae067763.gif&w=3840&q=75)
+
+4. Drag columns next to vendor column to pin them
+
+![](/vector-db-comparison/_next/image?url=%2Fvector-db-comparison%2F_next%2Fstatic%2Fmedia%2Fhow-to-use-5.47fa7798.gif&w=3840&q=75)
+
+5. Hover on cells with info symbol to read comments from maintainers
+
+ _Step 1 of 2_
+
+Next 

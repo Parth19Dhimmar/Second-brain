@@ -1,0 +1,2160 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Funslothai%2Funsloth%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Funslothai%2Funsloth%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=unslothai%2Funsloth) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ unslothai ](/unslothai) / **[unsloth](/unslothai/unsloth) ** Public
+
+  * Sponsor
+
+#  Sponsor unslothai/unsloth 
+
+##### External links
+
+![ko_fi](https://github.githubassets.com/assets/ko_fi-53a60c17e75c.svg)
+
+[ko-fi.com/**unsloth**](https://ko-fi.com/unsloth)
+
+[Learn more about funding links in repositories](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository). 
+
+[Report abuse](/contact/report-abuse?report=unslothai%2Funsloth+%28Repository+Funding+Links%29)
+
+  * [ Notifications ](/login?return_to=%2Funslothai%2Funsloth) You must be signed in to change notification settings
+  * [ Fork 1.5k ](/login?return_to=%2Funslothai%2Funsloth)
+  * [ Star  21k ](/login?return_to=%2Funslothai%2Funsloth)
+
+
+
+
+Finetune Llama 3.3, Mistral, Phi-4, Qwen 2.5 & Gemma LLMs 2-5x faster with 70% less memory 
+
+[unsloth.ai](https://unsloth.ai "https://unsloth.ai")
+
+### License
+
+[ Apache-2.0 license ](/unslothai/unsloth/blob/main/LICENSE)
+
+[ 21k stars ](/unslothai/unsloth/stargazers) [ 1.5k forks ](/unslothai/unsloth/forks) [ Branches ](/unslothai/unsloth/branches) [ Tags ](/unslothai/unsloth/tags) [ Activity ](/unslothai/unsloth/activity)
+
+[ Star  ](/login?return_to=%2Funslothai%2Funsloth)
+
+[ Notifications ](/login?return_to=%2Funslothai%2Funsloth) You must be signed in to change notification settings
+
+  * [ Code ](/unslothai/unsloth)
+  * [ Issues 621 ](/unslothai/unsloth/issues)
+  * [ Pull requests 33 ](/unslothai/unsloth/pulls)
+  * [ Actions ](/unslothai/unsloth/actions)
+  * [ Wiki ](/unslothai/unsloth/wiki)
+  * [ Security ](/unslothai/unsloth/security)
+  * [ Insights ](/unslothai/unsloth/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/unslothai/unsloth)
+  * [ Issues  ](/unslothai/unsloth/issues)
+  * [ Pull requests  ](/unslothai/unsloth/pulls)
+  * [ Actions  ](/unslothai/unsloth/actions)
+  * [ Wiki  ](/unslothai/unsloth/wiki)
+  * [ Security  ](/unslothai/unsloth/security)
+  * [ Insights  ](/unslothai/unsloth/pulse)
+
+
+
+# unslothai/unsloth
+
+main
+
+[**4** Branches](/unslothai/unsloth/branches)[**9** Tags](/unslothai/unsloth/tags)
+
+[](/unslothai/unsloth/branches)[](/unslothai/unsloth/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![shimmyshimmer](https://avatars.githubusercontent.com/u/107991372?v=4&size=40)](/shimmyshimmer)[shimmyshimmer](/unslothai/unsloth/commits?author=shimmyshimmer)[Merge pull request](/unslothai/unsloth/commit/d802bbf4e298cb0da1e976ab9670fbc1cbe3514c) [#1569](https://github.com/unslothai/unsloth/pull/1569) [from unslothai/shimmyshimmer-patch-1](/unslothai/unsloth/commit/d802bbf4e298cb0da1e976ab9670fbc1cbe3514c)Jan 21, 2025[d802bbf](/unslothai/unsloth/commit/d802bbf4e298cb0da1e976ab9670fbc1cbe3514c) · Jan 21, 2025
+
+## History
+
+[1,054 Commits](/unslothai/unsloth/commits/main/)[](/unslothai/unsloth/commits/main/)  
+[.github](/unslothai/unsloth/tree/main/.github ".github")| [.github](/unslothai/unsloth/tree/main/.github ".github")| [Update issue templates](/unslothai/unsloth/commit/d6982c1fe6b814874f2ff989a69e485e6c13ab52 "Update issue templates")| Jan 17, 2025  
+[images](/unslothai/unsloth/tree/main/images "images")| [images](/unslothai/unsloth/tree/main/images "images")| [Vision (](/unslothai/unsloth/commit/d30c363d25668b8059237c58586d0f2d10903682 "Vision \(#1318\)
+* Add files via upload
+* Add files via upload
+* Add files via upload
+* Add files via upload
+* Update README.md
+* Update README.md
+* Update README.md
+* Update README.md
+---------
+Co-authored-by: Michael <107991372+shimmyshimmer@users.noreply.github.com>")[#1318](https://github.com/unslothai/unsloth/pull/1318)[)](/unslothai/unsloth/commit/d30c363d25668b8059237c58586d0f2d10903682 "Vision \(#1318\)
+* Add files via upload
+* Add files via upload
+* Add files via upload
+* Add files via upload
+* Update README.md
+* Update README.md
+* Update README.md
+* Update README.md
+---------
+Co-authored-by: Michael <107991372+shimmyshimmer@users.noreply.github.com>")| Nov 21, 2024  
+[unsloth](/unslothai/unsloth/tree/main/unsloth "unsloth")| [unsloth](/unslothai/unsloth/tree/main/unsloth "unsloth")| [Update mapper.py](/unslothai/unsloth/commit/fde26db11de0dc6b76a9c6ac21ce9c71d3593323 "Update mapper.py")| Jan 20, 2025  
+[CONTRIBUTING.md](/unslothai/unsloth/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/unslothai/unsloth/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Update CONTRIBUTING.md](/unslothai/unsloth/commit/3a0eb2bbf42016dfeec924b320c420dabbce168b "Update CONTRIBUTING.md
+improved sentence")| Jan 5, 2025  
+[LICENSE](/unslothai/unsloth/blob/main/LICENSE "LICENSE")| [LICENSE](/unslothai/unsloth/blob/main/LICENSE "LICENSE")| [Auto Healing Tokenizer (](/unslothai/unsloth/commit/a68aebc1fa17755ffbcdafc9239e7ca37ab21657 "Auto Healing Tokenizer \(#283\)
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* llama
+* Update llama.py
+* gemma
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update save.py
+* RoPE
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update gemma.py
+* correct_dtype
+* Update gemma.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Chat Templates
+* Update README.md
+* Update README.md
+* Update llama.py
+* DoRA
+* Update _utils.py
+* Update chat_templates.py
+* Update llama.py
+* Hotfix - fix DoRA, Gemma prompt template \(#202\) \(#203\)
+* Update save.py
+* saving
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update __init__.py
+* Update save.py
+* Update save.py
+* Update save.py
+* save
+* trainer
+* spaces
+* original
+* Gemma
+* Update pyproject.toml
+* Update mapper.py
+* Update fast_lora.py
+* FastGemmaModel
+* model_type
+* Update llama.py
+* Update llama.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update llama.py
+* Update llama.py
+* Update fast_lora.py
+* Update llama.py
+* Update llama.py
+* Update cross_entropy_loss.py
+* Update llama.py
+* Update llama.py
+* gemma
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update fast_lora.py
+* Update fast_lora.py
+* Fast CE Loss
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* CE
+* Update llama.py
+* Update llama.py
+* Update cross_entropy_loss.py
+* Update geglu.py
+* Update cross_entropy_loss.py
+* revert
+* Update llama.py
+* Update llama.py
+* norm
+* Update gemma.py
+* Update gemma.py
+* position_ids
+* Update gemma.py
+* Update gemma.py
+* pos
+* Update llama.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update cross_entropy_loss.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update llama.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update llama.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* revert
+* revert
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update llama.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update cross_entropy_loss.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* rope
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* llama
+* Update llama.py
+* gemma
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update save.py
+* RoPE
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update gemma.py
+* correct_dtype
+* Update gemma.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Chat Templates
+* Update README.md
+* Update README.md
+* Update llama.py
+* DoRA
+* Update _utils.py
+* Update chat_templates.py
+* Update pyproject.toml
+* Small fixes
+* Update pyproject.toml
+* Approx gelu
+* Update geglu.py
+* Approx gelu
+* Update llama.py
+* Update __init__.py
+* Update __init__.py
+* Update _utils.py
+* Update geglu.py
+* Update gemma.py
+* Update rms_layernorm.py
+* Update rms_layernorm.py
+* Update rms_layernorm.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Fix Gemma merging
+* Update rms_layernorm.py
+* Update gemma.py
+* Update pyproject.toml
+* Layernorms
+* Gemma precision
+* Update gemma.py
+* sqrt
+* Update gemma.py
+* Update save.py
+* RoPE and Gemma precision
+* Update rms_layernorm.py
+* Fix warning
+* Update chat_templates.py
+* Update chat_templates.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update chat_templates.py
+* Update llama.py
+* model_name
+* Update loader.py
+* Tokenizer overwritten
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update save.py
+* Accuracy
+* Revert
+* Update save.py
+* Update fast_lora.py
+* Update fast_lora.py
+* Update fast_lora.py
+* Update fast_lora.py
+* Update fast_lora.py
+* Update chat_templates.py
+* Update save.py
+* Update save.py
+* Update llama.py
+* Update llama.py
+* Account for DoRA
+* Update llama.py
+* Update save.py
+* GGUF incorrect
+* Update save.py
+* Update pyproject.toml
+* kaggle new
+* Update pyproject.toml
+* Update pyproject.toml
+* upcasting
+* Fix Colab
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update chat_templates.py
+* Update chat_templates.py
+* Update chat_templates.py
+* Update chat_templates.py
+* Update chat_templates.py
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update rope_embedding.py
+* Update rope_embedding.py
+* Fix bugs
+* Update fast_lora.py
+* Update fast_lora.py
+* Update README.md
+* Update README.md
+* GGUF
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update README.md
+* Update README.md
+* Bugs
+* Update fast_lora.py
+* Update pyproject.toml
+* Update fast_lora.py
+* Update __init__.py
+* Update fast_lora.py
+* dtype
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* dtype
+* Update mistral.py
+* trust_remote_code
+* lm_head
+* Update llama.py
+* save_pretrained_settings
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* state_dict
+* Update save.py
+* whoami
+* Update llama.py
+* Update save.py
+* Update llama.py
+* Patch tokenizer
+* Update chat_templates.py
+* Heal tokenizers
+* Update chat_templates.py
+* Update mapper.py
+* Update tokenizer_utils.py
+* Update tokenizer_utils.py
+* Update tokenizer_utils.py
+* Update tokenizer_utils.py
+* Update tokenizer_utils.py
+* Update chat_templates.py
+* tokenizer patching
+* patch_tokenizer
+* Update chat_templates.py
+* Update tokenizer_utils.py
+* Update chat_templates.py
+* Update chat_templates.py
+* Update chat_templates.py
+* Update tokenizer_utils.py
+* Edit")[#283](https://github.com/unslothai/unsloth/pull/283)[)](/unslothai/unsloth/commit/a68aebc1fa17755ffbcdafc9239e7ca37ab21657 "Auto Healing Tokenizer \(#283\)
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* llama
+* Update llama.py
+* gemma
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update save.py
+* RoPE
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update gemma.py
+* correct_dtype
+* Update gemma.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Chat Templates
+* Update README.md
+* Update README.md
+* Update llama.py
+* DoRA
+* Update _utils.py
+* Update chat_templates.py
+* Update llama.py
+* Hotfix - fix DoRA, Gemma prompt template \(#202\) \(#203\)
+* Update save.py
+* saving
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update __init__.py
+* Update save.py
+* Update save.py
+* Update save.py
+* save
+* trainer
+* spaces
+* original
+* Gemma
+* Update pyproject.toml
+* Update mapper.py
+* Update fast_lora.py
+* FastGemmaModel
+* model_type
+* Update llama.py
+* Update llama.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update llama.py
+* Update llama.py
+* Update fast_lora.py
+* Update llama.py
+* Update llama.py
+* Update cross_entropy_loss.py
+* Update llama.py
+* Update llama.py
+* gemma
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update fast_lora.py
+* Update fast_lora.py
+* Fast CE Loss
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* CE
+* Update llama.py
+* Update llama.py
+* Update cross_entropy_loss.py
+* Update geglu.py
+* Update cross_entropy_loss.py
+* revert
+* Update llama.py
+* Update llama.py
+* norm
+* Update gemma.py
+* Update gemma.py
+* position_ids
+* Update gemma.py
+* Update gemma.py
+* pos
+* Update llama.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update cross_entropy_loss.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update llama.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update llama.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* revert
+* revert
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update llama.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update cross_entropy_loss.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* rope
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* llama
+* Update llama.py
+* gemma
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update save.py
+* RoPE
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update gemma.py
+* correct_dtype
+* Update gemma.py
+* Update cross_entropy_loss.py
+* Update cross_entropy_loss.py
+* Chat Templates
+* Update README.md
+* Update README.md
+* Update llama.py
+* DoRA
+* Update _utils.py
+* Update chat_templates.py
+* Update pyproject.toml
+* Small fixes
+* Update pyproject.toml
+* Approx gelu
+* Update geglu.py
+* Approx gelu
+* Update llama.py
+* Update __init__.py
+* Update __init__.py
+* Update _utils.py
+* Update geglu.py
+* Update gemma.py
+* Update rms_layernorm.py
+* Update rms_layernorm.py
+* Update rms_layernorm.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Update gemma.py
+* Fix Gemma merging
+* Update rms_layernorm.py
+* Update gemma.py
+* Update pyproject.toml
+* Layernorms
+* Gemma precision
+* Update gemma.py
+* sqrt
+* Update gemma.py
+* Update save.py
+* RoPE and Gemma precision
+* Update rms_layernorm.py
+* Fix warning
+* Update chat_templates.py
+* Update chat_templates.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update chat_templates.py
+* Update llama.py
+* model_name
+* Update loader.py
+* Tokenizer overwritten
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update save.py
+* Accuracy
+* Revert
+* Update save.py
+* Update fast_lora.py
+* Update fast_lora.py
+* Update fast_lora.py
+* Update fast_lora.py
+* Update fast_lora.py
+* Update chat_templates.py
+* Update save.py
+* Update save.py
+* Update llama.py
+* Update llama.py
+* Account for DoRA
+* Update llama.py
+* Update save.py
+* GGUF incorrect
+* Update save.py
+* Update pyproject.toml
+* kaggle new
+* Update pyproject.toml
+* Update pyproject.toml
+* upcasting
+* Fix Colab
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update chat_templates.py
+* Update chat_templates.py
+* Update chat_templates.py
+* Update chat_templates.py
+* Update chat_templates.py
+* Update pyproject.toml
+* Update pyproject.toml
+* Update pyproject.toml
+* Update rope_embedding.py
+* Update rope_embedding.py
+* Fix bugs
+* Update fast_lora.py
+* Update fast_lora.py
+* Update README.md
+* Update README.md
+* GGUF
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update README.md
+* Update README.md
+* Bugs
+* Update fast_lora.py
+* Update pyproject.toml
+* Update fast_lora.py
+* Update __init__.py
+* Update fast_lora.py
+* dtype
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* dtype
+* Update mistral.py
+* trust_remote_code
+* lm_head
+* Update llama.py
+* save_pretrained_settings
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* Update save.py
+* state_dict
+* Update save.py
+* whoami
+* Update llama.py
+* Update save.py
+* Update llama.py
+* Patch tokenizer
+* Update chat_templates.py
+* Heal tokenizers
+* Update chat_templates.py
+* Update mapper.py
+* Update tokenizer_utils.py
+* Update tokenizer_utils.py
+* Update tokenizer_utils.py
+* Update tokenizer_utils.py
+* Update tokenizer_utils.py
+* Update chat_templates.py
+* tokenizer patching
+* patch_tokenizer
+* Update chat_templates.py
+* Update tokenizer_utils.py
+* Update chat_templates.py
+* Update chat_templates.py
+* Update chat_templates.py
+* Update tokenizer_utils.py
+* Edit")| Mar 27, 2024  
+[README.md](/unslothai/unsloth/blob/main/README.md "README.md")| [README.md](/unslothai/unsloth/blob/main/README.md "README.md")| [Update README.md](/unslothai/unsloth/commit/0546d6793a45aff68c5a83c38bf6be003dd57e00 "Update README.md")| Jan 21, 2025  
+[pyproject.toml](/unslothai/unsloth/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/unslothai/unsloth/blob/main/pyproject.toml "pyproject.toml")| [Fix Mistral, Qwen (](/unslothai/unsloth/commit/d8c58fbbb7d59dfa13edba89c13301e60ccdbaf6 "Fix Mistral, Qwen \(#1565\)
+* use exact model name
+* Update save.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* print
+* Update _utils.py
+* Update _utils.py
+* Update llama.py
+* Update _utils.py
+* Update vision.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update loader.py
+* accurate_accumulation
+* Update loader.py
+* Update loader.py
+* Update _utils.py
+* Update loader.py
+* Update loader.py
+* Update loader.py
+* Update loader.py
+* Update pyproject.toml
+* Update __init__.py
+* Update pyproject.toml
+* Update __init__.py
+* Update __init__.py
+* Fix Triton heuristics
+https://github.com/triton-lang/triton/issues/5224
+* Update __init__.py
+* Update __init__.py
+* Update __init__.py
+* Update __init__.py
+* Xformers
+* Update loader.py
+* Update loader.py
+* Rewind
+* Update _utils.py
+* Update _utils.py
+* requires grad
+* Update loader.py
+* Update _utils.py
+* Update loader.py
+* changing model to base_model if peft model is already used
+* Improve debugging experience \(#1512\)
+* Create CONTRIBUTING.md \(#1472\)
+Creating contributing guidelines
+* Update CONTRIBUTING.md
+improved sentence
+* Improve logging control in `unsloth_compile_transformers` by conditionally redirecting stdout based on UNSLOTH_DISABLE_LOGGER environment variable
+---------
+Co-authored-by: Michael Han <107991372+shimmyshimmer@users.noreply.github.com>
+Co-authored-by: Nino Risteski <95188570+NinoRisteski@users.noreply.github.com>
+* Update loader.py
+* Update llama.py
+* Update llama.py
+* Revert "Update llama.py"
+This reverts commit b7ddf962d2f398be0286602d0fbb5b11e317887b.
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Auto change is_bfloat16_supported
+* Update llama.py
+* Force data-type
+* Update llama.py
+* All attention refactor fix \(#1491\)
+* change initilization of n_heads, n_kv_heads, hidden_size in llama.py
+* do the same for cohere, mistral, gemma2, granite
+* do the same for flexattention,cohere, mistral, granite
+* Update llama.py
+* Update llama.py
+* Update granite to work with latest post_patch methods \(#1502\)
+* Update granite to work with latest post_patch methods
+* Pass position_embeddings for granite even if transformers<4.47
+* Update llama.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+* Minor fixes for granite models \(#1503\)
+* Update granite.py
+Grab residual multiplier directly from layer
+* Update llama.py
+Version should read >= 4.47.1 as that is the version requiring the changes
+* Update granite.py
+* Update llama.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+* support modelscope models and datasets \(#1481\)
+* support modelscope
+* change modelscope args
+* remove useless import
+* remove useless import
+* fix
+* wip
+* fix
+* remove useless code
+* add readme
+* add some comments
+* change print to raise error
+* update comment
+* Update loader.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+* Merge branch 'main' into nightly
+* Phi 4
+* Update llama.py
+* Torch.Cuda Is Available Condition and Warning \(#1545\)
+* check for torch.cuda and triton if available
+on my machine\(mac m3\) the cuda were not available
+* Update pyproject.toml
+* Update __init__.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+* Update mistral.py
+* Update mistral.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Fix
+* Bug fixes
+* Update mapper.py
+* Add dropout to granite to match HF's implementation \(#1557\)
+Signed-off-by: datta0 <venkatadattasainimmaturi@gmail.com>
+* Update llama.py
+* Update llama.py
+* Bug fixes
+* fix: flash_attn_detection_error \(#1556\)
+* fix: flash_attn_detection_error
+* Update _utils.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+---------
+Signed-off-by: datta0 <venkatadattasainimmaturi@gmail.com>
+Co-authored-by: Itsuro Tajima <tajima@georepublic.de>
+Co-authored-by: Muhammad Osama <muhammadosama1994@gmail.com>
+Co-authored-by: Edd <68678137+Erland366@users.noreply.github.com>
+Co-authored-by: Michael Han <107991372+shimmyshimmer@users.noreply.github.com>
+Co-authored-by: Nino Risteski <95188570+NinoRisteski@users.noreply.github.com>
+Co-authored-by: Kareem <81531392+KareemMusleh@users.noreply.github.com>
+Co-authored-by: Datta Nimmaturi <datta.nimmaturi@nutanix.com>
+Co-authored-by: Z <coffeevampirebusiness@gmail.com>
+Co-authored-by: tastelikefeet <58414341+tastelikefeet@users.noreply.github.com>
+Co-authored-by: AminWhat <88392440+aminwhat@users.noreply.github.com>
+Co-authored-by: Zhe Zhang <2631992879@qq.com>")[#1565](https://github.com/unslothai/unsloth/pull/1565)[)](/unslothai/unsloth/commit/d8c58fbbb7d59dfa13edba89c13301e60ccdbaf6 "Fix Mistral, Qwen \(#1565\)
+* use exact model name
+* Update save.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* print
+* Update _utils.py
+* Update _utils.py
+* Update llama.py
+* Update _utils.py
+* Update vision.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update loader.py
+* accurate_accumulation
+* Update loader.py
+* Update loader.py
+* Update _utils.py
+* Update loader.py
+* Update loader.py
+* Update loader.py
+* Update loader.py
+* Update pyproject.toml
+* Update __init__.py
+* Update pyproject.toml
+* Update __init__.py
+* Update __init__.py
+* Fix Triton heuristics
+https://github.com/triton-lang/triton/issues/5224
+* Update __init__.py
+* Update __init__.py
+* Update __init__.py
+* Update __init__.py
+* Xformers
+* Update loader.py
+* Update loader.py
+* Rewind
+* Update _utils.py
+* Update _utils.py
+* requires grad
+* Update loader.py
+* Update _utils.py
+* Update loader.py
+* changing model to base_model if peft model is already used
+* Improve debugging experience \(#1512\)
+* Create CONTRIBUTING.md \(#1472\)
+Creating contributing guidelines
+* Update CONTRIBUTING.md
+improved sentence
+* Improve logging control in `unsloth_compile_transformers` by conditionally redirecting stdout based on UNSLOTH_DISABLE_LOGGER environment variable
+---------
+Co-authored-by: Michael Han <107991372+shimmyshimmer@users.noreply.github.com>
+Co-authored-by: Nino Risteski <95188570+NinoRisteski@users.noreply.github.com>
+* Update loader.py
+* Update llama.py
+* Update llama.py
+* Revert "Update llama.py"
+This reverts commit b7ddf962d2f398be0286602d0fbb5b11e317887b.
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Auto change is_bfloat16_supported
+* Update llama.py
+* Force data-type
+* Update llama.py
+* All attention refactor fix \(#1491\)
+* change initilization of n_heads, n_kv_heads, hidden_size in llama.py
+* do the same for cohere, mistral, gemma2, granite
+* do the same for flexattention,cohere, mistral, granite
+* Update llama.py
+* Update llama.py
+* Update granite to work with latest post_patch methods \(#1502\)
+* Update granite to work with latest post_patch methods
+* Pass position_embeddings for granite even if transformers<4.47
+* Update llama.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+* Minor fixes for granite models \(#1503\)
+* Update granite.py
+Grab residual multiplier directly from layer
+* Update llama.py
+Version should read >= 4.47.1 as that is the version requiring the changes
+* Update granite.py
+* Update llama.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+* support modelscope models and datasets \(#1481\)
+* support modelscope
+* change modelscope args
+* remove useless import
+* remove useless import
+* fix
+* wip
+* fix
+* remove useless code
+* add readme
+* add some comments
+* change print to raise error
+* update comment
+* Update loader.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+* Merge branch 'main' into nightly
+* Phi 4
+* Update llama.py
+* Torch.Cuda Is Available Condition and Warning \(#1545\)
+* check for torch.cuda and triton if available
+on my machine\(mac m3\) the cuda were not available
+* Update pyproject.toml
+* Update __init__.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+* Update mistral.py
+* Update mistral.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Fix
+* Bug fixes
+* Update mapper.py
+* Add dropout to granite to match HF's implementation \(#1557\)
+Signed-off-by: datta0 <venkatadattasainimmaturi@gmail.com>
+* Update llama.py
+* Update llama.py
+* Bug fixes
+* fix: flash_attn_detection_error \(#1556\)
+* fix: flash_attn_detection_error
+* Update _utils.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+---------
+Signed-off-by: datta0 <venkatadattasainimmaturi@gmail.com>
+Co-authored-by: Itsuro Tajima <tajima@georepublic.de>
+Co-authored-by: Muhammad Osama <muhammadosama1994@gmail.com>
+Co-authored-by: Edd <68678137+Erland366@users.noreply.github.com>
+Co-authored-by: Michael Han <107991372+shimmyshimmer@users.noreply.github.com>
+Co-authored-by: Nino Risteski <95188570+NinoRisteski@users.noreply.github.com>
+Co-authored-by: Kareem <81531392+KareemMusleh@users.noreply.github.com>
+Co-authored-by: Datta Nimmaturi <datta.nimmaturi@nutanix.com>
+Co-authored-by: Z <coffeevampirebusiness@gmail.com>
+Co-authored-by: tastelikefeet <58414341+tastelikefeet@users.noreply.github.com>
+Co-authored-by: AminWhat <88392440+aminwhat@users.noreply.github.com>
+Co-authored-by: Zhe Zhang <2631992879@qq.com>")| Jan 20, 2025  
+[unsloth-cli.py](/unslothai/unsloth/blob/main/unsloth-cli.py "unsloth-cli.py")| [unsloth-cli.py](/unslothai/unsloth/blob/main/unsloth-cli.py "unsloth-cli.py")| [Bug fixes (](/unslothai/unsloth/commit/c14046ea4a68f73dc3de29223b0d805382320e9f "Bug fixes \(#1516\)
+* use exact model name
+* Update save.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* print
+* Update _utils.py
+* Update _utils.py
+* Update llama.py
+* Update _utils.py
+* Update vision.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update loader.py
+* accurate_accumulation
+* Update loader.py
+* Update loader.py
+* Update _utils.py
+* Update loader.py
+* Update loader.py
+* Update loader.py
+* Update loader.py
+* Update pyproject.toml
+* Update __init__.py
+* Update pyproject.toml
+* Update __init__.py
+* Update __init__.py
+* Fix Triton heuristics
+https://github.com/triton-lang/triton/issues/5224
+* Update __init__.py
+* Update __init__.py
+* Update __init__.py
+* Update __init__.py
+* Xformers
+* Update loader.py
+* Update loader.py
+* Rewind
+* Update _utils.py
+* Update _utils.py
+* requires grad
+* Update loader.py
+* Update _utils.py
+* Update loader.py
+* changing model to base_model if peft model is already used
+* Improve debugging experience \(#1512\)
+* Create CONTRIBUTING.md \(#1472\)
+Creating contributing guidelines
+* Update CONTRIBUTING.md
+improved sentence
+* Improve logging control in `unsloth_compile_transformers` by conditionally redirecting stdout based on UNSLOTH_DISABLE_LOGGER environment variable
+---------
+Co-authored-by: Michael Han <107991372+shimmyshimmer@users.noreply.github.com>
+Co-authored-by: Nino Risteski <95188570+NinoRisteski@users.noreply.github.com>
+* Update loader.py
+* Update llama.py
+* Update llama.py
+* Revert "Update llama.py"
+This reverts commit b7ddf962d2f398be0286602d0fbb5b11e317887b.
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Auto change is_bfloat16_supported
+* Update llama.py
+* Force data-type
+* Update llama.py
+* All attention refactor fix \(#1491\)
+* change initilization of n_heads, n_kv_heads, hidden_size in llama.py
+* do the same for cohere, mistral, gemma2, granite
+* do the same for flexattention,cohere, mistral, granite
+* Update llama.py
+* Update llama.py
+* Update granite to work with latest post_patch methods \(#1502\)
+* Update granite to work with latest post_patch methods
+* Pass position_embeddings for granite even if transformers<4.47
+* Update llama.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+* Minor fixes for granite models \(#1503\)
+* Update granite.py
+Grab residual multiplier directly from layer
+* Update llama.py
+Version should read >= 4.47.1 as that is the version requiring the changes
+* Update granite.py
+* Update llama.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+* support modelscope models and datasets \(#1481\)
+* support modelscope
+* change modelscope args
+* remove useless import
+* remove useless import
+* fix
+* wip
+* fix
+* remove useless code
+* add readme
+* add some comments
+* change print to raise error
+* update comment
+* Update loader.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+---------
+Co-authored-by: Itsuro Tajima <tajima@georepublic.de>
+Co-authored-by: Muhammad Osama <muhammadosama1994@gmail.com>
+Co-authored-by: Edd <68678137+Erland366@users.noreply.github.com>
+Co-authored-by: Michael Han <107991372+shimmyshimmer@users.noreply.github.com>
+Co-authored-by: Nino Risteski <95188570+NinoRisteski@users.noreply.github.com>
+Co-authored-by: Kareem <81531392+KareemMusleh@users.noreply.github.com>
+Co-authored-by: Datta Nimmaturi <datta.nimmaturi@nutanix.com>
+Co-authored-by: Z <coffeevampirebusiness@gmail.com>
+Co-authored-by: tastelikefeet <58414341+tastelikefeet@users.noreply.github.com>")[#1516](https://github.com/unslothai/unsloth/pull/1516)[)](/unslothai/unsloth/commit/c14046ea4a68f73dc3de29223b0d805382320e9f "Bug fixes \(#1516\)
+* use exact model name
+* Update save.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* print
+* Update _utils.py
+* Update _utils.py
+* Update llama.py
+* Update _utils.py
+* Update vision.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update _utils.py
+* Update loader.py
+* accurate_accumulation
+* Update loader.py
+* Update loader.py
+* Update _utils.py
+* Update loader.py
+* Update loader.py
+* Update loader.py
+* Update loader.py
+* Update pyproject.toml
+* Update __init__.py
+* Update pyproject.toml
+* Update __init__.py
+* Update __init__.py
+* Fix Triton heuristics
+https://github.com/triton-lang/triton/issues/5224
+* Update __init__.py
+* Update __init__.py
+* Update __init__.py
+* Update __init__.py
+* Xformers
+* Update loader.py
+* Update loader.py
+* Rewind
+* Update _utils.py
+* Update _utils.py
+* requires grad
+* Update loader.py
+* Update _utils.py
+* Update loader.py
+* changing model to base_model if peft model is already used
+* Improve debugging experience \(#1512\)
+* Create CONTRIBUTING.md \(#1472\)
+Creating contributing guidelines
+* Update CONTRIBUTING.md
+improved sentence
+* Improve logging control in `unsloth_compile_transformers` by conditionally redirecting stdout based on UNSLOTH_DISABLE_LOGGER environment variable
+---------
+Co-authored-by: Michael Han <107991372+shimmyshimmer@users.noreply.github.com>
+Co-authored-by: Nino Risteski <95188570+NinoRisteski@users.noreply.github.com>
+* Update loader.py
+* Update llama.py
+* Update llama.py
+* Revert "Update llama.py"
+This reverts commit b7ddf962d2f398be0286602d0fbb5b11e317887b.
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Update llama.py
+* Auto change is_bfloat16_supported
+* Update llama.py
+* Force data-type
+* Update llama.py
+* All attention refactor fix \(#1491\)
+* change initilization of n_heads, n_kv_heads, hidden_size in llama.py
+* do the same for cohere, mistral, gemma2, granite
+* do the same for flexattention,cohere, mistral, granite
+* Update llama.py
+* Update llama.py
+* Update granite to work with latest post_patch methods \(#1502\)
+* Update granite to work with latest post_patch methods
+* Pass position_embeddings for granite even if transformers<4.47
+* Update llama.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+* Minor fixes for granite models \(#1503\)
+* Update granite.py
+Grab residual multiplier directly from layer
+* Update llama.py
+Version should read >= 4.47.1 as that is the version requiring the changes
+* Update granite.py
+* Update llama.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+* support modelscope models and datasets \(#1481\)
+* support modelscope
+* change modelscope args
+* remove useless import
+* remove useless import
+* fix
+* wip
+* fix
+* remove useless code
+* add readme
+* add some comments
+* change print to raise error
+* update comment
+* Update loader.py
+---------
+Co-authored-by: Daniel Han <danielhanchen@gmail.com>
+---------
+Co-authored-by: Itsuro Tajima <tajima@georepublic.de>
+Co-authored-by: Muhammad Osama <muhammadosama1994@gmail.com>
+Co-authored-by: Edd <68678137+Erland366@users.noreply.github.com>
+Co-authored-by: Michael Han <107991372+shimmyshimmer@users.noreply.github.com>
+Co-authored-by: Nino Risteski <95188570+NinoRisteski@users.noreply.github.com>
+Co-authored-by: Kareem <81531392+KareemMusleh@users.noreply.github.com>
+Co-authored-by: Datta Nimmaturi <datta.nimmaturi@nutanix.com>
+Co-authored-by: Z <coffeevampirebusiness@gmail.com>
+Co-authored-by: tastelikefeet <58414341+tastelikefeet@users.noreply.github.com>")| Jan 7, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Apache-2.0 license](#)
+
+
+
+[ ![unsloth logo](https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png) ](https://unsloth.ai)
+
+[![](https://raw.githubusercontent.com/unslothai/unsloth/main/images/start free finetune button.png)](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_\(8B\)-Alpaca.ipynb) [![](https://raw.githubusercontent.com/unslothai/unsloth/main/images/Discord button.png)](https://discord.gg/unsloth) [![](https://raw.githubusercontent.com/unslothai/unsloth/refs/heads/main/images/Documentation%20Button.png)](https://docs.unsloth.ai)
+
+### Finetune Llama 3.3, Mistral, Phi-4, Qwen 2.5 & Gemma 2-5x faster with 80% less memory!
+
+[](#finetune-llama-33-mistral-phi-4-qwen-25--gemma-2-5x-faster-with-80-less-memory)
+
+[![](https://camo.githubusercontent.com/e93226ff5ba5be911d9fa41864c58db621a09ba17e14fe8f98f63e124431c927/68747470733a2f2f692e6962622e636f2f734a37526847472f696d6167652d34312e706e67)](https://camo.githubusercontent.com/e93226ff5ba5be911d9fa41864c58db621a09ba17e14fe8f98f63e124431c927/68747470733a2f2f692e6962622e636f2f734a37526847472f696d6167652d34312e706e67)
+
+## ✨ Finetune for Free
+
+[](#-finetune-for-free)
+
+All notebooks are **beginner friendly**! Add your dataset, click "Run All", and you'll get a 2x faster finetuned model which can be exported to GGUF, Ollama, vLLM or uploaded to Hugging Face.
+
+Unsloth supports | Free Notebooks | Performance | Memory use  
+---|---|---|---  
+**Llama 3.2 (3B)** | [▶️ Start for free](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.2_\(1B_and_3B\)-Conversational.ipynb) | 2x faster | 60% less  
+**Phi-4 (14B)** | [▶️ Start for free](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Phi_4-Conversational.ipynb) | 2x faster | 50% less  
+**Llama 3.2 Vision (11B)** | [▶️ Start for free](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.2_\(11B\)-Vision.ipynb) | 2x faster | 40% less  
+**Llama 3.1 (8B)** | [▶️ Start for free](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_\(8B\)-Alpaca.ipynb) | 2x faster | 60% less  
+**Gemma 2 (9B)** | [▶️ Start for free](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Gemma2_\(9B\)-Alpaca.ipynb) | 2x faster | 63% less  
+**Qwen 2.5 (7B)** | [▶️ Start for free](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen2.5_\(7B\)-Alpaca.ipynb) | 2x faster | 63% less  
+**Mistral v0.3 (7B)** | [▶️ Start for free](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Mistral_v0.3_\(7B\)-Conversational.ipynb) | 2.2x faster | 73% less  
+**Ollama** | [▶️ Start for free](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3_\(8B\)-Ollama.ipynb) | 1.9x faster | 43% less  
+**ORPO** | [▶️ Start for free](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3_\(8B\)-ORPO.ipynb) | 1.9x faster | 43% less  
+**DPO Zephyr** | [▶️ Start for free](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Zephyr_\(7B\)-DPO.ipynb) | 1.9x faster | 43% less  
+  
+  * See [all our notebooks](https://docs.unsloth.ai/get-started/unsloth-notebooks) and [all our models](https://docs.unsloth.ai/get-started/all-our-models)
+  * **Kaggle Notebooks** for [Llama 3.2 Kaggle notebook](https://www.kaggle.com/danielhanchen/kaggle-llama-3-2-1b-3b-unsloth-notebook), [Llama 3.1 (8B)](https://www.kaggle.com/danielhanchen/kaggle-llama-3-1-8b-unsloth-notebook), [Gemma 2 (9B)](https://www.kaggle.com/code/danielhanchen/kaggle-gemma-7b-unsloth-notebook/), [Mistral (7B)](https://www.kaggle.com/code/danielhanchen/kaggle-mistral-7b-unsloth-notebook)
+  * Run notebooks for [Llama 3.2 conversational](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.2_\(1B_and_3B\)-Conversational.ipynb), [Llama 3.1 conversational](https://colab.research.google.com/drive/15OyFkGoCImV9dSsewU1wa2JuKB4-mDE_?usp=sharing) and [Mistral v0.3 ChatML](https://colab.research.google.com/drive/15F1xyn8497_dUbxZP4zWmPZ3PJx1Oymv?usp=sharing)
+  * This [text completion notebook](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Mistral_\(7B\)-Text_Completion.ipynb) is for continued pretraining / raw text
+  * This [continued pretraining notebook](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Mistral_v0.3_\(7B\)-CPT.ipynb) is for learning another language
+  * Click [here](https://docs.unsloth.ai/) for detailed documentation for Unsloth.
+
+
+
+## 🦥 Unsloth.ai News
+
+[](#-unslothai-news)
+
+  * 📣 NEW! [DeepSeek-R1](https://unsloth.ai/blog/deepseek-r1) - the most powerful open reasoning models with Llama & Qwen distillations. Run or fine-tune them now! More details: [unsloth.ai/blog/deepseek-r1](https://unsloth.ai/blog/deepseek-r1). All model uploads: [here](https://huggingface.co/collections/unsloth/deepseek-r1-all-versions-678e1c48f5d2fce87892ace5).
+  * 📣 NEW! [Phi-4](https://unsloth.ai/blog/phi4) by Microsoft is now supported. We also [fixed bugs](https://unsloth.ai/blog/phi4) in Phi-4 and [uploaded GGUFs, 4-bit](https://huggingface.co/collections/unsloth/phi-4-all-versions-677eecf93784e61afe762afa). Try the [Phi-4 Colab notebook](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Phi_4-Conversational.ipynb)
+  * 📣 NEW! [Llama 3.3 (70B)](https://huggingface.co/collections/unsloth/llama-33-all-versions-67535d7d994794b9d7cf5e9f), Meta's latest model is supported.
+  * 📣 NEW! We worked with Apple to add [Cut Cross Entropy](https://arxiv.org/abs/2411.09009). Unsloth now supports 89K context for Meta's Llama 3.3 (70B) on a 80GB GPU - 13x longer than HF+FA2. For Llama 3.1 (8B), Unsloth enables 342K context, surpassing its native 128K support.
+  * 📣 Introducing Unsloth [Dynamic 4-bit Quantization](https://unsloth.ai/blog/dynamic-4bit)! We dynamically opt not to quantize certain parameters and this greatly increases accuracy while only using <10% more VRAM than BnB 4-bit. See our collection on [Hugging Face here.](https://huggingface.co/collections/unsloth/unsloth-4-bit-dynamic-quants-67503bb873f89e15276c44e7)
+  * 📣 [Vision models](https://unsloth.ai/blog/vision) now supported! [Llama 3.2 Vision (11B)](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.2_\(11B\)-Vision.ipynb), [Qwen 2.5 VL (7B)](https://colab.research.google.com/drive/1whHb54GNZMrNxIsi2wm2EY_-Pvo2QyKh?usp=sharing) and [Pixtral (12B) 2409](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen2_VL_\(7B\)-Vision.ipynb)
+
+Click for more news
+
+  * 📣 We found and helped fix a [gradient accumulation bug](https://unsloth.ai/blog/gradient)! Please update Unsloth and transformers.
+  * 📣 Try out [Chat interface](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Unsloth_Studio.ipynb)!
+  * 📣 NEW! Qwen-2.5 including [Coder](https://unsloth.ai/blog/qwen-coder) models are now supported with bugfixes. 14b fits in a Colab GPU! [Qwen 2.5 conversational notebook](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen2.5_Coder_\(14B\)-Conversational.ipynb)
+  * 📣 NEW! [Mistral Small 22b notebook](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Mistral_Small_\(22B\)-Alpaca.ipynb) finetuning fits in under 16GB of VRAM!
+  * 📣 NEW! `pip install unsloth` now works! Head over to [pypi](https://pypi.org/project/unsloth/) to check it out! This allows non git pull installs. Use `pip install unsloth[colab-new]` for non dependency installs.
+  * 📣 NEW! Continued Pretraining [notebook](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Mistral_v0.3_\(7B\)-CPT.ipynb) for other languages like Korean!
+  * 📣 [2x faster inference](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_\(8B\)-Inference.ipynb) added for all our models
+  * 📣 We cut memory usage by a [further 30%](https://unsloth.ai/blog/long-context) and now support [4x longer context windows](https://unsloth.ai/blog/long-context)!
+
+
+
+## 🔗 Links and Resources
+
+[](#-links-and-resources)
+
+Type | Links  
+---|---  
+📚 **Documentation & Wiki** | [Read Our Docs](https://docs.unsloth.ai)  
+[![](https://camo.githubusercontent.com/2d318d2de87051f80a781377bcf094af5e9a9648beb1f93cb3471cf4d5da0af0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36662f4c6f676f5f6f665f547769747465722e737667)](https://camo.githubusercontent.com/2d318d2de87051f80a781377bcf094af5e9a9648beb1f93cb3471cf4d5da0af0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36662f4c6f676f5f6f665f547769747465722e737667) **Twitter (aka X)** | [Follow us on X](https://twitter.com/unslothai)  
+💾 **Installation** | [unsloth/README.md](https://github.com/unslothai/unsloth/tree/main#-installation-instructions)  
+🥇 **Benchmarking** | [Performance Tables](https://github.com/unslothai/unsloth/tree/main#-performance-benchmarking)  
+🌐 **Released Models** | [Unsloth Releases](https://docs.unsloth.ai/get-started/all-our-models)  
+✍️ **Blog** | [Read our Blogs](https://unsloth.ai/blog)  
+[![](https://camo.githubusercontent.com/366c9dc2ccd72d171a31e5af3cdfb0b42ce61a6f22a20d3e53609ad9ccb47655/68747470733a2f2f726564646974696e632e636f6d2f68732d66732f68756266732f526564646974253230496e632f4272616e642f5265646469745f4c6f676f2e706e67)](https://camo.githubusercontent.com/366c9dc2ccd72d171a31e5af3cdfb0b42ce61a6f22a20d3e53609ad9ccb47655/68747470733a2f2f726564646974696e632e636f6d2f68732d66732f68756266732f526564646974253230496e632f4272616e642f5265646469745f4c6f676f2e706e67) **Reddit** | [Join our Reddit page](https://reddit.com/r/unsloth)  
+  
+## ⭐ Key Features
+
+[](#-key-features)
+
+  * All kernels written in [OpenAI's Triton](https://openai.com/research/triton) language. **Manual backprop engine**.
+  * **0% loss in accuracy** - no approximation methods - all exact.
+  * No change of hardware. Supports NVIDIA GPUs since 2018+. Minimum CUDA Capability 7.0 (V100, T4, Titan V, RTX 20, 30, 40x, A100, H100, L40 etc) [Check your GPU!](https://developer.nvidia.com/cuda-gpus) GTX 1070, 1080 works, but is slow.
+  * Works on **Linux** and **Windows** via WSL.
+  * Supports 4bit and 16bit QLoRA / LoRA finetuning via [bitsandbytes](https://github.com/TimDettmers/bitsandbytes).
+  * Open source trains 5x faster - see [Unsloth Pro](https://unsloth.ai/) for up to **30x faster training**!
+  * If you trained a model with 🦥Unsloth, you can use this cool sticker! [![](https://raw.githubusercontent.com/unslothai/unsloth/main/images/made with unsloth.png)](https://raw.githubusercontent.com/unslothai/unsloth/main/images/made with unsloth.png)
+
+
+
+## 🥇 Performance Benchmarking
+
+[](#-performance-benchmarking)
+
+  * For our most detailed benchmarks, read our [Llama 3.3 Blog](https://unsloth.ai/blog/llama3-3).
+  * Benchmarking of Unsloth was also conducted by [🤗Hugging Face](https://huggingface.co/blog/unsloth-trl).
+
+
+
+We tested using the Alpaca Dataset, a batch size of 2, gradient accumulation steps of 4, rank = 32, and applied QLoRA on all linear layers (q, k, v, o, gate, up, down):
+
+Model | VRAM | 🦥 Unsloth speed | 🦥 VRAM reduction | 🦥 Longer context | 😊 Hugging Face + FA2  
+---|---|---|---|---|---  
+Llama 3.3 (70B) | 80GB | 2x | >75% | 13x longer | 1x  
+Llama 3.1 (8B) | 80GB | 2x | >70% | 12x longer | 1x  
+  
+[![](https://camo.githubusercontent.com/e93226ff5ba5be911d9fa41864c58db621a09ba17e14fe8f98f63e124431c927/68747470733a2f2f692e6962622e636f2f734a37526847472f696d6167652d34312e706e67)](https://camo.githubusercontent.com/e93226ff5ba5be911d9fa41864c58db621a09ba17e14fe8f98f63e124431c927/68747470733a2f2f692e6962622e636f2f734a37526847472f696d6167652d34312e706e67)
+
+## 💾 Installation Instructions
+
+[](#-installation-instructions)
+
+For stable releases, use `pip install unsloth`. We recommend `pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"` for most installations though.
+
+### Conda Installation
+
+[](#conda-installation)
+
+`⚠️Only use Conda if you have it. If not, use Pip`. Select either `pytorch-cuda=11.8,12.1` for CUDA 11.8 or CUDA 12.1. We support `python=3.10,3.11,3.12`.
+
+```
+conda create --name unsloth_env \ python=3.11 \ pytorch-cuda=12.1 \ pytorch cudatoolkit xformers -c pytorch -c nvidia -c xformers \ -y conda activate unsloth_env pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git" pip install --no-deps trl peft accelerate bitsandbytes
+```
+
+If you're looking to install Conda in a Linux environment, [read here](https://docs.anaconda.com/miniconda/), or run the below 🔽
+
+```
+mkdir -p ~/miniconda3 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3 rm -rf ~/miniconda3/miniconda.sh ~/miniconda3/bin/conda init bash ~/miniconda3/bin/conda init zsh
+```
+
+### Pip Installation
+
+[](#pip-installation)
+
+`⚠️Do **NOT** use this if you have Conda.` Pip is a bit more complex since there are dependency issues. The pip command is different for `torch 2.2,2.3,2.4,2.5` and CUDA versions.
+
+For other torch versions, we support `torch211`, `torch212`, `torch220`, `torch230`, `torch240` and for CUDA versions, we support `cu118` and `cu121` and `cu124`. For Ampere devices (A100, H100, RTX3090) and above, use `cu118-ampere` or `cu121-ampere` or `cu124-ampere`.
+
+For example, if you have `torch 2.4` and `CUDA 12.1`, use:
+
+```
+pip install --upgrade pip pip install "unsloth[cu121-torch240] @ git+https://github.com/unslothai/unsloth.git"
+```
+
+Another example, if you have `torch 2.5` and `CUDA 12.4`, use:
+
+```
+pip install --upgrade pip pip install "unsloth[cu124-torch250] @ git+https://github.com/unslothai/unsloth.git"
+```
+
+And other examples:
+
+```
+pip install "unsloth[cu121-ampere-torch240] @ git+https://github.com/unslothai/unsloth.git" pip install "unsloth[cu118-ampere-torch240] @ git+https://github.com/unslothai/unsloth.git" pip install "unsloth[cu121-torch240] @ git+https://github.com/unslothai/unsloth.git" pip install "unsloth[cu118-torch240] @ git+https://github.com/unslothai/unsloth.git" pip install "unsloth[cu121-torch230] @ git+https://github.com/unslothai/unsloth.git" pip install "unsloth[cu121-ampere-torch230] @ git+https://github.com/unslothai/unsloth.git" pip install "unsloth[cu121-torch250] @ git+https://github.com/unslothai/unsloth.git" pip install "unsloth[cu124-ampere-torch250] @ git+https://github.com/unslothai/unsloth.git"
+```
+
+Or, run the below in a terminal to get the **optimal** pip installation command:
+
+```
+wget -qO- https://raw.githubusercontent.com/unslothai/unsloth/main/unsloth/_auto_install.py | python -
+```
+
+Or, run the below manually in a Python REPL:
+
+```
+try: import torch except: raise ImportError('Install torch via `pip install torch`') from packaging.version import Version as V v = V(torch.__version__) cuda = str(torch.version.cuda) is_ampere = torch.cuda.get_device_capability()[0] >= 8 if cuda != "12.1" and cuda != "11.8" and cuda != "12.4": raise RuntimeError(f"CUDA = {cuda} not supported!") if v <= V('2.1.0'): raise RuntimeError(f"Torch = {v} too old!") elif v <= V('2.1.1'): x = 'cu{}{}-torch211' elif v <= V('2.1.2'): x = 'cu{}{}-torch212' elif v < V('2.3.0'): x = 'cu{}{}-torch220' elif v < V('2.4.0'): x = 'cu{}{}-torch230' elif v < V('2.5.0'): x = 'cu{}{}-torch240' elif v < V('2.6.0'): x = 'cu{}{}-torch250' else: raise RuntimeError(f"Torch = {v} too new!") x = x.format(cuda.replace(".", ""), "-ampere" if is_ampere else "") print(f'pip install --upgrade pip && pip install "unsloth[{x}] @ git+https://github.com/unslothai/unsloth.git"')
+```
+
+### Windows Installation
+
+[](#windows-installation)
+
+To run Unsloth directly on Windows:
+
+  * Install Triton from this Windows fork and follow the instructions: <https://github.com/woct0rdho/triton-windows>
+  * In the SFTTrainer, set `dataset_num_proc=1` to avoid a crashing issue:
+
+
+
+```
+trainer = SFTTrainer( dataset_num_proc=1, ... )
+```
+
+For **advanced installation instructions** or if you see weird errors during installations:
+
+  1. Install `torch` and `triton`. Go to <https://pytorch.org> to install it. For example `pip install torch torchvision torchaudio triton`
+  2. Confirm if CUDA is installated correctly. Try `nvcc`. If that fails, you need to install `cudatoolkit` or CUDA drivers.
+  3. Install `xformers` manually. You can try installing `vllm` and seeing if `vllm` succeeds. Check if `xformers` succeeded with `python -m xformers.info` Go to <https://github.com/facebookresearch/xformers>. Another option is to install `flash-attn` for Ampere GPUs.
+  4. Finally, install `bitsandbytes` and check it with `python -m bitsandbytes`
+
+
+
+## 📜 [Documentation](https://docs.unsloth.ai)
+
+[](#-documentation)
+
+  * Go to our official [Documentation](https://docs.unsloth.ai) for saving to GGUF, checkpointing, evaluation and more!
+  * We support Huggingface's TRL, Trainer, Seq2SeqTrainer or even Pytorch code!
+  * We're in 🤗Hugging Face's official docs! Check out the [SFT docs](https://huggingface.co/docs/trl/main/en/sft_trainer#accelerate-fine-tuning-2x-using-unsloth) and [DPO docs](https://huggingface.co/docs/trl/main/en/dpo_trainer#accelerate-dpo-fine-tuning-using-unsloth)!
+  * If you want to download models from the ModelScope community, please use an environment variable: `UNSLOTH_USE_MODELSCOPE=1`, and install the modelscope library by: `pip install modelscope -U`.
+
+
+
+> unsloth_cli.py also supports `UNSLOTH_USE_MODELSCOPE=1` to download models and datasets. please remember to use the model and dataset id in the ModelScope community.
+
+```
+from unsloth import FastLanguageModel from unsloth import is_bfloat16_supported import torch from trl import SFTTrainer from transformers import TrainingArguments from datasets import load_dataset max_seq_length = 2048 # Supports RoPE Scaling interally, so choose any! # Get LAION dataset url = "https://huggingface.co/datasets/laion/OIG/resolve/main/unified_chip2.jsonl" dataset = load_dataset("json", data_files = {"train" : url}, split = "train") # 4bit pre quantized models we support for 4x faster downloading + no OOMs. fourbit_models = [ "unsloth/mistral-7b-v0.3-bnb-4bit", # New Mistral v3 2x faster! "unsloth/mistral-7b-instruct-v0.3-bnb-4bit", "unsloth/llama-3-8b-bnb-4bit", # Llama-3 15 trillion tokens model 2x faster! "unsloth/llama-3-8b-Instruct-bnb-4bit", "unsloth/llama-3-70b-bnb-4bit", "unsloth/Phi-3-mini-4k-instruct", # Phi-3 2x faster! "unsloth/Phi-3-medium-4k-instruct", "unsloth/mistral-7b-bnb-4bit", "unsloth/gemma-7b-bnb-4bit", # Gemma 2.2x faster! ] # More models at https://huggingface.co/unsloth model, tokenizer = FastLanguageModel.from_pretrained( model_name = "unsloth/llama-3-8b-bnb-4bit", max_seq_length = max_seq_length, dtype = None, load_in_4bit = True, ) # Do model patching and add fast LoRA weights model = FastLanguageModel.get_peft_model( model, r = 16, target_modules = ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj",], lora_alpha = 16, lora_dropout = 0, # Supports any, but = 0 is optimized bias = "none", # Supports any, but = "none" is optimized # [NEW] "unsloth" uses 30% less VRAM, fits 2x larger batch sizes! use_gradient_checkpointing = "unsloth", # True or "unsloth" for very long context random_state = 3407, max_seq_length = max_seq_length, use_rslora = False, # We support rank stabilized LoRA loftq_config = None, # And LoftQ ) trainer = SFTTrainer( model = model, train_dataset = dataset, dataset_text_field = "text", max_seq_length = max_seq_length, tokenizer = tokenizer, args = TrainingArguments( per_device_train_batch_size = 2, gradient_accumulation_steps = 4, warmup_steps = 10, max_steps = 60, fp16 = not is_bfloat16_supported(), bf16 = is_bfloat16_supported(), logging_steps = 1, output_dir = "outputs", optim = "adamw_8bit", seed = 3407, ), ) trainer.train() # Go to https://github.com/unslothai/unsloth/wiki for advanced tips like # (1) Saving to GGUF / merging to 16bit for vLLM # (2) Continued training from a saved LoRA adapter # (3) Adding an evaluation loop / OOMs # (4) Customized chat templates
+```
+
+## DPO Support
+
+[](#dpo-support)
+
+DPO (Direct Preference Optimization), PPO, Reward Modelling all seem to work as per 3rd party independent testing from [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory). We have a preliminary Google Colab notebook for reproducing Zephyr on Tesla T4 here: [notebook](https://colab.research.google.com/drive/15vttTpzzVXv_tJwEk-hIcQ0S9FcEWvwP?usp=sharing).
+
+We're in 🤗Hugging Face's official docs! We're on the [SFT docs](https://huggingface.co/docs/trl/main/en/sft_trainer#accelerate-fine-tuning-2x-using-unsloth) and the [DPO docs](https://huggingface.co/docs/trl/main/en/dpo_trainer#accelerate-dpo-fine-tuning-using-unsloth)!
+
+```
+import os os.environ["CUDA_VISIBLE_DEVICES"] = "0" # Optional set GPU device ID from unsloth import FastLanguageModel, PatchDPOTrainer from unsloth import is_bfloat16_supported PatchDPOTrainer() import torch from transformers import TrainingArguments from trl import DPOTrainer model, tokenizer = FastLanguageModel.from_pretrained( model_name = "unsloth/zephyr-sft-bnb-4bit", max_seq_length = max_seq_length, dtype = None, load_in_4bit = True, ) # Do model patching and add fast LoRA weights model = FastLanguageModel.get_peft_model( model, r = 64, target_modules = ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj",], lora_alpha = 64, lora_dropout = 0, # Supports any, but = 0 is optimized bias = "none", # Supports any, but = "none" is optimized # [NEW] "unsloth" uses 30% less VRAM, fits 2x larger batch sizes! use_gradient_checkpointing = "unsloth", # True or "unsloth" for very long context random_state = 3407, max_seq_length = max_seq_length, ) dpo_trainer = DPOTrainer( model = model, ref_model = None, args = TrainingArguments( per_device_train_batch_size = 4, gradient_accumulation_steps = 8, warmup_ratio = 0.1, num_train_epochs = 3, fp16 = not is_bfloat16_supported(), bf16 = is_bfloat16_supported(), logging_steps = 1, optim = "adamw_8bit", seed = 42, output_dir = "outputs", ), beta = 0.1, train_dataset = YOUR_DATASET_HERE, # eval_dataset = YOUR_DATASET_HERE, tokenizer = tokenizer, max_length = 1024, max_prompt_length = 512, ) dpo_trainer.train()
+```
+
+## 🥇 Detailed Benchmarking Tables
+
+[](#-detailed-benchmarking-tables)
+
+### Context length benchmarks
+
+[](#context-length-benchmarks)
+
+#### Llama 3.1 (8B) max. context length
+
+[](#llama-31-8b-max-context-length)
+
+We tested Llama 3.1 (8B) Instruct and did 4bit QLoRA on all linear layers (Q, K, V, O, gate, up and down) with rank = 32 with a batch size of 1. We padded all sequences to a certain maximum sequence length to mimic long context finetuning workloads.
+
+GPU VRAM | 🦥Unsloth context length | Hugging Face + FA2  
+---|---|---  
+8 GB | 2,972 | OOM  
+12 GB | 21,848 | 932  
+16 GB | 40,724 | 2,551  
+24 GB | 78,475 | 5,789  
+40 GB | 153,977 | 12,264  
+48 GB | 191,728 | 15,502  
+80 GB | 342,733 | 28,454  
+  
+#### Llama 3.3 (70B) max. context length
+
+[](#llama-33-70b-max-context-length)
+
+We tested Llama 3.3 (70B) Instruct on a 80GB A100 and did 4bit QLoRA on all linear layers (Q, K, V, O, gate, up and down) with rank = 32 with a batch size of 1. We padded all sequences to a certain maximum sequence length to mimic long context finetuning workloads.
+
+GPU VRAM | 🦥Unsloth context length | Hugging Face + FA2  
+---|---|---  
+48 GB | 12,106 | OOM  
+80 GB | 89,389 | 6,916  
+  
+[![](https://camo.githubusercontent.com/e93226ff5ba5be911d9fa41864c58db621a09ba17e14fe8f98f63e124431c927/68747470733a2f2f692e6962622e636f2f734a37526847472f696d6167652d34312e706e67)](https://camo.githubusercontent.com/e93226ff5ba5be911d9fa41864c58db621a09ba17e14fe8f98f63e124431c927/68747470733a2f2f692e6962622e636f2f734a37526847472f696d6167652d34312e706e67)
+
+### Citation
+
+[](#citation)
+
+You can cite the Unsloth repo as follows:
+
+```
+@software{unsloth, author = {Daniel Han, Michael Han and Unsloth team}, title = {Unsloth}, url = {http://github.com/unslothai/unsloth}, year = {2023} }
+```
+
+### Thank You to
+
+[](#thank-you-to)
+
+  * [Erik](https://github.com/erikwijmans) for his help adding [Apple's ML Cross Entropy](https://github.com/apple/ml-cross-entropy) in Unsloth
+  * [HuyNguyen-hust](https://github.com/HuyNguyen-hust) for making [RoPE Embeddings 28% faster](https://github.com/unslothai/unsloth/pull/238)
+  * [RandomInternetPreson](https://github.com/RandomInternetPreson) for confirming WSL support
+  * [152334H](https://github.com/152334H) for experimental DPO support
+  * [atgctg](https://github.com/atgctg) for syntax highlighting
+
+
+
+## About
+
+Finetune Llama 3.3, Mistral, Phi-4, Qwen 2.5 & Gemma LLMs 2-5x faster with 70% less memory 
+
+[unsloth.ai](https://unsloth.ai "https://unsloth.ai")
+
+### Topics
+
+[ llama ](/topics/llama "Topic: llama") [ lora ](/topics/lora "Topic: lora") [ gemma ](/topics/gemma "Topic: gemma") [ mistral ](/topics/mistral "Topic: mistral") [ fine-tuning ](/topics/fine-tuning "Topic: fine-tuning") [ finetuning ](/topics/finetuning "Topic: finetuning") [ llm ](/topics/llm "Topic: llm") [ llms ](/topics/llms "Topic: llms") [ qlora ](/topics/qlora "Topic: qlora") [ unsloth ](/topics/unsloth "Topic: unsloth") [ llama3 ](/topics/llama3 "Topic: llama3") [ phi3 ](/topics/phi3 "Topic: phi3") [ gemma2 ](/topics/gemma2 "Topic: gemma2")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+[ Activity](/unslothai/unsloth/activity)
+
+[ Custom properties](/unslothai/unsloth/custom-properties)
+
+### Stars
+
+[ **21k** stars](/unslothai/unsloth/stargazers)
+
+### Watchers
+
+[ **139** watching](/unslothai/unsloth/watchers)
+
+### Forks
+
+[ **1.5k** forks](/unslothai/unsloth/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Funslothai%2Funsloth&report=unslothai+%28user%29)
+
+##  [Releases 9](/unslothai/unsloth/releases)
+
+[ Phi-4 & Bug Fixes Latest  Jan 10, 2025 ](/unslothai/unsloth/releases/tag/2025-01)
+
+[+ 8 releases](/unslothai/unsloth/releases)
+
+## Sponsor this project
+
+  * ![ko_fi](https://github.githubassets.com/assets/ko_fi-53a60c17e75c.svg) [ko-fi.com/**unsloth**](https://ko-fi.com/unsloth)
+
+
+
+##  [Packages 0](/orgs/unslothai/packages?repo_name=unsloth)
+
+No packages published 
+
+##  [Contributors 54](/unslothai/unsloth/graphs/contributors)
+
+  * [ ![@danielhanchen](https://avatars.githubusercontent.com/u/23090290?s=64&v=4) ](https://github.com/danielhanchen)
+  * [ ![@shimmyshimmer](https://avatars.githubusercontent.com/u/107991372?s=64&v=4) ](https://github.com/shimmyshimmer)
+  * [ ![@Erland366](https://avatars.githubusercontent.com/u/68678137?s=64&v=4) ](https://github.com/Erland366)
+  * [ ![@Datta0](https://avatars.githubusercontent.com/u/39181234?s=64&v=4) ](https://github.com/Datta0)
+  * [ ![@xyangk](https://avatars.githubusercontent.com/u/9495054?s=64&v=4) ](https://github.com/xyangk)
+  * [ ![@sebdg](https://avatars.githubusercontent.com/u/1187529?s=64&v=4) ](https://github.com/sebdg)
+  * [ ![@bet0x](https://avatars.githubusercontent.com/u/778862?s=64&v=4) ](https://github.com/bet0x)
+  * [ ![@neph1](https://avatars.githubusercontent.com/u/7988802?s=64&v=4) ](https://github.com/neph1)
+  * [ ![@t-vi](https://avatars.githubusercontent.com/u/20787943?s=64&v=4) ](https://github.com/t-vi)
+  * [ ![@Oseltamivir](https://avatars.githubusercontent.com/u/58582368?s=64&v=4) ](https://github.com/Oseltamivir)
+  * [ ![@chrehall68](https://avatars.githubusercontent.com/u/60240707?s=64&v=4) ](https://github.com/chrehall68)
+  * [ ![@mahiatlinux](https://avatars.githubusercontent.com/u/110882203?s=64&v=4) ](https://github.com/mahiatlinux)
+  * [ ![@shaper](https://avatars.githubusercontent.com/u/8998?s=64&v=4) ](https://github.com/shaper)
+  * [ ![@Rabbidon](https://avatars.githubusercontent.com/u/24900318?s=64&v=4) ](https://github.com/Rabbidon)
+
+
+
+[+ 40 contributors](/unslothai/unsloth/graphs/contributors)
+
+## Languages
+
+  * [ Python 100.0% ](/unslothai/unsloth/search?l=python)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

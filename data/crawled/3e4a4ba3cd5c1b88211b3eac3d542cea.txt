@@ -1,0 +1,482 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fquixio%2Fquix-streams%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fquixio%2Fquix-streams%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=quixio%2Fquix-streams) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ quixio ](/quixio) / **[quix-streams](/quixio/quix-streams) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fquixio%2Fquix-streams) You must be signed in to change notification settings
+  * [ Fork 71 ](/login?return_to=%2Fquixio%2Fquix-streams)
+  * [ Star  1.3k ](/login?return_to=%2Fquixio%2Fquix-streams)
+
+
+
+
+Python stream processing for Kafka 
+
+[docs.quix.io](https://docs.quix.io "https://docs.quix.io")
+
+### License
+
+[ Apache-2.0 license ](/quixio/quix-streams/blob/main/LICENSE)
+
+[ 1.3k stars ](/quixio/quix-streams/stargazers) [ 71 forks ](/quixio/quix-streams/forks) [ Branches ](/quixio/quix-streams/branches) [ Tags ](/quixio/quix-streams/tags) [ Activity ](/quixio/quix-streams/activity)
+
+[ Star  ](/login?return_to=%2Fquixio%2Fquix-streams)
+
+[ Notifications ](/login?return_to=%2Fquixio%2Fquix-streams) You must be signed in to change notification settings
+
+  * [ Code ](/quixio/quix-streams)
+  * [ Issues 14 ](/quixio/quix-streams/issues)
+  * [ Pull requests 12 ](/quixio/quix-streams/pulls)
+  * [ Discussions ](/quixio/quix-streams/discussions)
+  * [ Actions ](/quixio/quix-streams/actions)
+  * [ Projects 1 ](/quixio/quix-streams/projects)
+  * [ Security ](/quixio/quix-streams/security)
+  * [ Insights ](/quixio/quix-streams/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/quixio/quix-streams)
+  * [ Issues  ](/quixio/quix-streams/issues)
+  * [ Pull requests  ](/quixio/quix-streams/pulls)
+  * [ Discussions  ](/quixio/quix-streams/discussions)
+  * [ Actions  ](/quixio/quix-streams/actions)
+  * [ Projects  ](/quixio/quix-streams/projects)
+  * [ Security  ](/quixio/quix-streams/security)
+  * [ Insights  ](/quixio/quix-streams/pulse)
+
+
+
+# quixio/quix-streams
+
+main
+
+[Branches](/quixio/quix-streams/branches)[Tags](/quixio/quix-streams/tags)
+
+[](/quixio/quix-streams/branches)[](/quixio/quix-streams/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+## History
+
+[539 Commits](/quixio/quix-streams/commits/main/)[](/quixio/quix-streams/commits/main/)  
+[.github](/quixio/quix-streams/tree/main/.github ".github")| [.github](/quixio/quix-streams/tree/main/.github ".github")  
+[LICENSES](/quixio/quix-streams/tree/main/LICENSES "LICENSES")| [LICENSES](/quixio/quix-streams/tree/main/LICENSES "LICENSES")  
+[conda](/quixio/quix-streams/tree/main/conda "conda")| [conda](/quixio/quix-streams/tree/main/conda "conda")  
+[docs](/quixio/quix-streams/tree/main/docs "docs")| [docs](/quixio/quix-streams/tree/main/docs "docs")  
+[images](/quixio/quix-streams/tree/main/images "images")| [images](/quixio/quix-streams/tree/main/images "images")  
+[quixstreams](/quixio/quix-streams/tree/main/quixstreams "quixstreams")| [quixstreams](/quixio/quix-streams/tree/main/quixstreams "quixstreams")  
+[tests](/quixio/quix-streams/tree/main/tests "tests")| [tests](/quixio/quix-streams/tree/main/tests "tests")  
+[.gitignore](/quixio/quix-streams/blob/main/.gitignore ".gitignore")| [.gitignore](/quixio/quix-streams/blob/main/.gitignore ".gitignore")  
+[.pre-commit-config.yaml](/quixio/quix-streams/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/quixio/quix-streams/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")  
+[CODE_OF_CONDUCT.md](/quixio/quix-streams/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/quixio/quix-streams/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")  
+[CONTRIBUTING.md](/quixio/quix-streams/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/quixio/quix-streams/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")  
+[LICENSE](/quixio/quix-streams/blob/main/LICENSE "LICENSE")| [LICENSE](/quixio/quix-streams/blob/main/LICENSE "LICENSE")  
+[README.md](/quixio/quix-streams/blob/main/README.md "README.md")| [README.md](/quixio/quix-streams/blob/main/README.md "README.md")  
+[mkdocs.yml](/quixio/quix-streams/blob/main/mkdocs.yml "mkdocs.yml")| [mkdocs.yml](/quixio/quix-streams/blob/main/mkdocs.yml "mkdocs.yml")  
+[pyproject.toml](/quixio/quix-streams/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/quixio/quix-streams/blob/main/pyproject.toml "pyproject.toml")  
+[requirements-dev.txt](/quixio/quix-streams/blob/main/requirements-dev.txt "requirements-dev.txt")| [requirements-dev.txt](/quixio/quix-streams/blob/main/requirements-dev.txt "requirements-dev.txt")  
+[requirements-mypy.txt](/quixio/quix-streams/blob/main/requirements-mypy.txt "requirements-mypy.txt")| [requirements-mypy.txt](/quixio/quix-streams/blob/main/requirements-mypy.txt "requirements-mypy.txt")  
+[requirements.txt](/quixio/quix-streams/blob/main/requirements.txt "requirements.txt")| [requirements.txt](/quixio/quix-streams/blob/main/requirements.txt "requirements.txt")  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [Apache-2.0 license](#)
+
+
+
+[![Quix - React to data, fast](/quixio/quix-streams/raw/main/images/quixstreams-banner.png)](/quixio/quix-streams/blob/main/images/quixstreams-banner.png)
+
+[![GitHub Version](https://camo.githubusercontent.com/7ac7dd157e57cda9acb3e3549f89395447b5063b8ad99bb699ff63f6c8666c34/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7461672d7072652f71756978696f2f717569782d73747265616d732e7376673f6c6162656c3d56657273696f6e26636f6c6f723d303038646666)](https://github.com/quixio/quix-streams/releases) [![PyPI License](https://camo.githubusercontent.com/f1e0732cb250fd9ca455b7b40076b23e46dad6dc5c77511899dfa864a2bbf914/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f7175697873747265616d733f6c6162656c3d4c6963656e636526636f6c6f723d303038646666)](https://camo.githubusercontent.com/f1e0732cb250fd9ca455b7b40076b23e46dad6dc5c77511899dfa864a2bbf914/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f7175697873747265616d733f6c6162656c3d4c6963656e636526636f6c6f723d303038646666) [![Docs](https://camo.githubusercontent.com/fbea364e4ac557623df81a8e6d4d5303dcda98a5b5ea1bccf107c2508dc0adf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d717569782e696f2d3033343562323f6c6162656c3d446f637326636f6c6f723d303038646666)](https://quix.io/docs/quix-streams/introduction.html) [![Community Slack](https://camo.githubusercontent.com/5b76d9397fcca386c04158f7435b88a834f8f791f01f60dc56b4d3cd18fe3ead/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6d6d756e697479253230536c61636b2d626c756576696f6c65743f6c6f676f3d736c61636b)](https://quix.io/slack-invite) [![YouTube](https://camo.githubusercontent.com/7c4041ee38fa8ba24739731b45c267868ad7f35076c7a5b00caa6b4555e06c48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75547562652d4646303030303f6c6f676f3d796f7574756265)](https://www.youtube.com/@QuixStreams) [![LinkedIn](https://camo.githubusercontent.com/a8bf8db77bcc80762d0a2d29b5a13dad194188223c28fdf549461dd1c480df6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643322e7376673f6c6f676f3d6c696e6b6564696e)](https://www.linkedin.com/company/70925173/) [![X](https://camo.githubusercontent.com/626ae744fe9d197cc001ec22e2c96e46a319b75917f11c62431fcbafc1e2bfd9/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f6c6162656c3d58267374796c653d736f6369616c2675726c3d6874747073253341253246253246747769747465722e636f6d253246717569785f696f)](https://twitter.com/quix_io)
+
+# Open source Python framework for reliable data engineering
+
+[](#open-source-python-framework-for-reliable-data-engineering)
+
+Quix Streams is an end-to-end framework for real-time Python data engineering, operational analytics and machine learning on Apache Kafka data streams. Extract, transform and load data reliably in fewer lines of code using your favourite Python libraries.
+
+Build data pipelines and event-driven microservice architectures leveraging Kafka's low-level scalability, resiliency and durability features in a lightweight library without server-side clusters to manage.
+
+Quix Streams provides the following features to make your life easier:
+
+  * Pure Python, meaning no wrappers around Java and no cross-language debugging.
+  * Sources & Sinks API for building custom connectors that integrate data with Kafka.
+  * Streaming DataFrame API for building tabular data processing pipelines.
+  * Serializers API supporting JSON, Avro, Protobuf & Schema Registry.
+  * State API with built-in RocksDB state object for stateful processing.
+  * Application API for managing the Kafka-related setup, teardown and message lifecycle.
+  * Operators for common processing tasks like Windowing, Branching, Group By and Reduce.
+  * Exactly-once processing guarantees via Kafka transactions.
+
+
+
+Use Quix Streams to build simple Kafka producer/consumer applications or leverage stream processing to build complex event-driven systems, real-time data pipelines and AI/ML products.
+
+## Getting Started 🏄
+
+[](#getting-started-)
+
+### Install Quix Streams
+
+[](#install-quix-streams)
+
+```
+# PyPI python -m pip install quixstreams # or conda conda install -c conda-forge quixio::quixstreams
+```
+
+#### Requirements
+
+[](#requirements)
+
+Python 3.9+, Apache Kafka 0.10+
+
+See [requirements.txt](https://github.com/quixio/quix-streams/blob/main/requirements.txt) for the full list of requirements
+
+### Documentation
+
+[](#documentation)
+
+[Quix Streams Docs](https://quix.io/docs/quix-streams/introduction.html)
+
+### Example
+
+[](#example)
+
+Here's an example of how to **process** data from a Kafka Topic with Quix Streams:
+
+```
+from quixstreams import Application # A minimal application reading temperature data in Celsius from the Kafka topic, # converting it to Fahrenheit and producing alerts to another topic. # Define an application that will connect to Kafka app = Application( broker_address="localhost:9092", # Kafka broker address ) # Define the Kafka topics temperature_topic = app.topic("temperature-celsius", value_deserializer="json") alerts_topic = app.topic("temperature-alerts", value_serializer="json") # Create a Streaming DataFrame connected to the input Kafka topic sdf = app.dataframe(topic=temperature_topic) # Convert temperature to Fahrenheit by transforming the input message (with an anonymous or user-defined function) sdf = sdf.apply(lambda value: {"temperature_F": (value["temperature"] * 9/5) + 32}) # Filter values above the threshold sdf = sdf[sdf["temperature_F"] > 150] # Produce alerts to the output topic sdf = sdf.to_topic(alerts_topic) # Run the streaming application (app automatically tracks the sdf!) app.run()
+```
+
+### Tutorials
+
+[](#tutorials)
+
+To see Quix Streams in action, check out the Quickstart and Tutorials in the docs:
+
+  * [**Quickstart**](https://quix.io/docs/quix-streams/quickstart.html)
+  * [**Tutorial - Word Count**](https://quix.io/docs/quix-streams/tutorials/word-count/tutorial.html)
+  * [**Tutorial - Anomaly Detection**](https://quix.io/docs/quix-streams/tutorials/anomaly-detection/tutorial.html)
+  * [**Tutorial - Purchase Filtering**](https://quix.io/docs/quix-streams/tutorials/purchase-filtering/tutorial.html)
+
+
+
+### Key Concepts
+
+[](#key-concepts)
+
+There are two primary objects:
+
+  * `StreamingDataFrame` - a predefined declarative pipeline to process and transform incoming messages.
+  * `Application` - to manage the Kafka-related setup, teardown and message lifecycle (consuming, committing). It processes each message with the dataframe you provide for it to run.
+
+
+
+Under the hood, the `Application` will:
+
+  * Consume and deserialize messages.
+  * Process them with your `StreamingDataFrame`.
+  * Produce it to the output topic.
+  * Automatically checkpoint processed messages and state for resiliency.
+  * Scale using Kafka's built-in consumer groups mechanism.
+
+
+
+### Deployment
+
+[](#deployment)
+
+You can run Quix Streams pipelines anywhere Python is installed.
+
+Deploy to your own infrastructure or to [Quix Cloud](https://quix.io/product) on AWS, Azure, GCP or on-premise for a fully managed platform. You'll get self-service DevOps, CI/CD and monitoring, all built with best in class engineering practices learned from Formula 1 Racing.
+
+Please see the [**Connecting to Quix Cloud**](https://quix.io/docs/quix-streams/quix-platform.html) page to learn how to use Quix Streams and Quix Cloud together.
+
+## Roadmap 📍
+
+[](#roadmap-)
+
+This library is being actively developed by a full-time team.
+
+Here are some of the planned improvements:
+
+  * [Windowed aggregations over Tumbling & Hopping windows](https://quix.io/docs/quix-streams/windowing.html)
+  * [Stateful operations and recovery based on Kafka changelog topics](https://quix.io/docs/quix-streams/advanced/stateful-processing.html)
+  * [Group-by operation](https://quix.io/docs/quix-streams/groupby.html)
+  * ["Exactly Once" delivery guarantees for Kafka message processing (AKA transactions)](https://quix.io/docs/quix-streams/configuration.html#processing-guarantees)
+  * Support for [Avro](https://quix.io/docs/quix-streams/advanced/serialization.html#avro) and [Protobuf](https://quix.io/docs/quix-streams/advanced/serialization.html#protobuf) formats
+  * [Schema Registry support](https://quix.io/docs/quix-streams/advanced/schema-registry.html)
+  * [Windowed aggregations over Sliding windows](https://quix.io/docs/quix-streams/windowing.html)
+  * Joins
+
+
+
+For a more detailed overview of the planned features, please look at [the Roadmap Board](https://github.com/orgs/quixio/projects/1).
+
+## Get Involved 🤝
+
+[](#get-involved-)
+
+  * Please use [GitHub issues](https://github.com/quixio/quix-streams/issues) to report bugs and suggest new features.
+  * Join the [Quix Community on Slack](https://quix.io/slack-invite), a vibrant group of Kafka Python developers, data engineers and newcomers to Apache Kafka, who are learning and leveraging Quix Streams for real-time data processing.
+  * Watch and subscribe to [@QuixStreams on YouTube](https://www.youtube.com/@QuixStreams) for code-along tutorials from scratch and interesting community highlights.
+  * Follow us on [X](https://x.com/Quix_io) and [LinkedIn](https://www.linkedin.com/company/70925173) where we share our latest tutorials, forthcoming community events and the occasional meme.
+  * If you have any questions or feedback - write to us at support@quix.io!
+
+
+
+## License 📗
+
+[](#license-)
+
+Quix Streams is licensed under the Apache 2.0 license. View a copy of the License file [here](https://github.com/quixio/quix-streams/blob/main/LICENSE).
+
+## About
+
+Python stream processing for Kafka 
+
+[docs.quix.io](https://docs.quix.io "https://docs.quix.io")
+
+### Topics
+
+[ python ](/topics/python "Topic: python") [ data-science ](/topics/data-science "Topic: data-science") [ machine-learning ](/topics/machine-learning "Topic: machine-learning") [ kafka ](/topics/kafka "Topic: kafka") [ stream-processing ](/topics/stream-processing "Topic: stream-processing") [ data-engineering ](/topics/data-engineering "Topic: data-engineering") [ streaming-data ](/topics/streaming-data "Topic: streaming-data") [ stream-processor ](/topics/stream-processor "Topic: stream-processor") [ event-driven-architecture ](/topics/event-driven-architecture "Topic: event-driven-architecture") [ streaming-data-processing ](/topics/streaming-data-processing "Topic: streaming-data-processing") [ time-series-data ](/topics/time-series-data "Topic: time-series-data") [ data-intensive-applications ](/topics/data-intensive-applications "Topic: data-intensive-applications") [ streaming-data-pipelines ](/topics/streaming-data-pipelines "Topic: streaming-data-pipelines") [ real-time-data-processing ](/topics/real-time-data-processing "Topic: real-time-data-processing")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+[ Activity](/quixio/quix-streams/activity)
+
+[ Custom properties](/quixio/quix-streams/custom-properties)
+
+### Stars
+
+[ **1.3k** stars](/quixio/quix-streams/stargazers)
+
+### Watchers
+
+[ **19** watching](/quixio/quix-streams/watchers)
+
+### Forks
+
+[ **71** forks](/quixio/quix-streams/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fquixio%2Fquix-streams&report=quixio+%28user%29)
+
+##  [Releases 43](/quixio/quix-streams/releases)
+
+[ v3.6.1 Latest  Jan 17, 2025 ](/quixio/quix-streams/releases/tag/v3.6.1)
+
+[+ 42 releases](/quixio/quix-streams/releases)
+
+##  [Packages 0](/orgs/quixio/packages?repo_name=quix-streams)
+
+No packages published 
+
+##  [Used by 328](/quixio/quix-streams/network/dependents)
+
+[
+
+  * ![@deepblue597](https://avatars.githubusercontent.com/u/61558523?s=64&v=4)
+  * ![@Rohitjakkam](https://avatars.githubusercontent.com/u/86354086?s=64&v=4)
+  * ![@dzyunkin1](https://avatars.githubusercontent.com/u/147341627?s=64&v=4)
+  * ![@owoeye-babatunde](https://avatars.githubusercontent.com/u/74650901?s=64&v=4)
+  * ![@vishalgattani](https://avatars.githubusercontent.com/u/24211929?s=64&v=4)
+  * ![@Tacoman99](https://avatars.githubusercontent.com/u/117623471?s=64&v=4)
+  * ![@Max-Vassilev](https://avatars.githubusercontent.com/u/106106321?s=64&v=4)
+  * ![@SteveRosam](https://avatars.githubusercontent.com/u/100689438?s=64&v=4)
+
++ 320  ](/quixio/quix-streams/network/dependents)
+
+##  [Contributors 24](/quixio/quix-streams/graphs/contributors)
+
+  * [ ![@daniil-quix](https://avatars.githubusercontent.com/u/133032822?s=64&v=4) ](https://github.com/daniil-quix)
+  * [ ![@tim-quix](https://avatars.githubusercontent.com/u/136370015?s=64&v=4) ](https://github.com/tim-quix)
+  * [ ![@gwaramadze](https://avatars.githubusercontent.com/u/1044831?s=64&v=4) ](https://github.com/gwaramadze)
+  * [ ![@peter-quix](https://avatars.githubusercontent.com/u/79838809?s=64&v=4) ](https://github.com/peter-quix)
+  * [ ![@quentin-quix](https://avatars.githubusercontent.com/u/171557156?s=64&v=4) ](https://github.com/quentin-quix)
+  * [ ![@github-actions\[bot\]](https://avatars.githubusercontent.com/in/15368?s=64&v=4) ](https://github.com/apps/github-actions)
+  * [ ![@stereosky](https://avatars.githubusercontent.com/u/2693349?s=64&v=4) ](https://github.com/stereosky)
+  * [ ![@tbedford](https://avatars.githubusercontent.com/u/25511700?s=64&v=4) ](https://github.com/tbedford)
+  * [ ![@harisbotic](https://avatars.githubusercontent.com/u/6454831?s=64&v=4) ](https://github.com/harisbotic)
+  * [ ![@SteveRosam](https://avatars.githubusercontent.com/u/100689438?s=64&v=4) ](https://github.com/SteveRosam)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@srosam](https://avatars.githubusercontent.com/u/1799158?s=64&v=4) ](https://github.com/srosam)
+  * [ ![@theoengland](https://avatars.githubusercontent.com/u/5121621?s=64&v=4) ](https://github.com/theoengland)
+  * [ ![@shrutimantri](https://avatars.githubusercontent.com/u/6594483?s=64&v=4) ](https://github.com/shrutimantri)
+
+
+
+[+ 10 contributors](/quixio/quix-streams/graphs/contributors)
+
+## Languages
+
+  * [ Python 99.9% ](/quixio/quix-streams/search?l=python)
+  * [ Shell 0.1% ](/quixio/quix-streams/search?l=shell)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

@@ -1,0 +1,488 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2Ff87c37488b18&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav----------------------------------)
+
+Sign up
+
+[Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](/search?source=---top_nav_layout_nav----------------------------------)
+
+Sign up
+
+[Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![](https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png)
+
+# Distribution-Based Score Fusion (DBSF), a new approach to Vector Search Ranking
+
+## Introduction of a new ranking algorithm optimized for vector similarity search
+
+[![Michelangiolo Mazzeschi](https://miro.medium.com/v2/resize:fill:44:44/2*MkUxrUogzkaAyb_Nf76wRQ.jpeg)](/@ardito.bryan?source=post_page---byline--f87c37488b18--------------------------------)
+
+[![Plain Simple Software](https://miro.medium.com/v2/resize:fill:24:24/1*9oCZ7AD33jLEhoJeA1wHNA.jpeg)](https://medium.com/plain-simple-software?source=post_page---byline--f87c37488b18--------------------------------)
+
+[Michelangiolo Mazzeschi](/@ardito.bryan?source=post_page---byline--f87c37488b18--------------------------------)
+
+·
+
+[Follow](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F153452706ad7&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&user=Michelangiolo+Mazzeschi&userId=153452706ad7&source=post_page-153452706ad7--byline--f87c37488b18---------------------post_header-----------)
+
+Published in
+
+[Plain Simple Software](https://medium.com/plain-simple-software?source=post_page---byline--f87c37488b18--------------------------------)
+
+·
+
+4 min read
+
+·
+
+Nov 2, 2023
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fplain-simple-software%2Ff87c37488b18&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&user=Michelangiolo+Mazzeschi&userId=153452706ad7&source=---header_actions--f87c37488b18---------------------clap_footer-----------)
+
+88
+
+1
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff87c37488b18&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&source=---header_actions--f87c37488b18---------------------bookmark_footer-----------)
+
+[Listen](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Df87c37488b18&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&source=---header_actions--f87c37488b18---------------------post_audio_button-----------)
+
+Share
+
+ _***_ The implementation of this algorithm has been released on [GitHub](https://github.com/atlantis-nova/hybrid-dbsf) and is fully open-source. **I am open to criticism** and **welcome any feedback.**
+
+With the introduction of **multimodal models** , capable of processing a combination of multiple data types, the necessity of combining search results from different embeddings has become a necessity. The algorithms specialized to perform Hybrid Search are called **fusion algorithms** , and they are commonly employed by search engines.
+
+![Example of a Hybrid Search, combining both text and image search score](https://miro.medium.com/v2/resize:fit:1000/1*po1DqTujeIXR6k-OpWGCQA.png)
+
+Example of a Hybrid Search, combining both text and image search score
+
+An example of **hybrid search** is the combination of both image search and text search results. Because each model is highly specialized in its own domain, we would ideally combine the scores obtained from two separate models ([CLIP for image search](https://huggingface.co/openai/clip-vit-base-patch32), [MiniLM for sentence similarity search](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)).
+
+# Current hybrid search solutions
+
+The most common hybrid search solutions, [developed by Weaviate](https://weaviate.io/blog/weaviate-1-20-release) are **relative score fusion** and **ranked fusion.**
+
+## Reciprocal Ranked Fusion (RRF)
+
+This fusion method combines results obtained from different searches by leveraging their ranking.
+
+![Visualization of the Reciprocal Ranked Fusion algorithm](https://miro.medium.com/v2/resize:fit:700/1*2nsZfQWpu8yeqtOCCUagog.png)
+
+Figure 1: Visualization of the Reciprocal Ranked Fusion algorithm
+
+By using this method, we ignore the search relevance score (ex. semantic similarity or BM25) only considering the ranking position. The higher the document appears in all searches, the higher the ranking computed by the fusion algorithm.
+
+## Relative Score Fusion
+
+With this second fusion algorithm, we normalize the search scores obtained from different engines, ranking results accordingly.
+
+![](https://miro.medium.com/v2/resize:fit:700/1*hIywyJ-o83JFag3vqrVA2w.png)
+
+Figure 2: Visualization of RelativeScoreFusion algorithm
+
+Though more advanced than the previous algorithm, this algorithm only works well if the score distributions of the engine are similar (we will explain the reason for this consideration in the next section).
+
+# Raking challenges with current encoders
+
+The most challenging practical issue we encounter when performing a similarity search using encoders is that all their similarity scores are concentrated around a mean value (which is not related to the relevance of the search), without sufficient variance for the tails to reach the score extremes [0, 1].
+
+![](https://miro.medium.com/v2/resize:fit:700/1*Z-L_z16ru89F6jMg9Fz8lQ.png)
+
+Figure 3: CLIP score distribution. Sources: <https://www.researchgate.net/figure/Image-text-similarity-score-distributions-using-CLIP-ViT-B-32-left-and-ViT-L-14-right_fig4_370338853>
+
+For example, as we can see from the graph above, all the CLIP scores are concentrated between [0.10, 0.45], with a mean of 0.25: they never reach either 0 or 1.
+
+Each encoder behaves differently, for example, OpenAI embedding API distribution scores are the following:
+
+![](https://miro.medium.com/v2/resize:fit:700/0*dR--2PBBCVfkY0DV.png)
+
+Figure 4: Image source: <https://www.kolena.io/blog/how-to-validate-openai-gpt-model-performance-with-text-summarization>
+
+If we choose to standardize the search results obtained from multiple vector searches, the ones with a distribution mean closer to 1 will be given priority.
+
+![](https://miro.medium.com/v2/resize:fit:700/1*4XvE3WXU_SIjTWu8SEGbpw.png)
+
+Figure 5: RelativeScore fusion applied to CLIP + BM25
+
+The same is relevant when comparing the search results from models with different score constraints. BM25, for example, does not limit its score to 1, it can reach infinity; we can see the effect of this feature on the following relative score fusion application:
+
+![](https://miro.medium.com/v2/resize:fit:700/1*JmdmwWyJWrue3W8DmyGdxg.png)
+
+Figure 6: RelativeScore fusion applied to CLIP + BM25
+
+# Distribution-Based Score Fusion (DBSF)
+
+After having made clear the issue of combining scores obtained by using different encoders, we propose the **following solution** : an algorithm that normalizes search scores by taking into account the distribution tails of each embedding.
+
+Let us work on the following example: applying a fusion algorithm to the scores of CLIP (image search) and OpenAI (text search). Above (**Figure 5**), we have tried using the Relative Score Fusion algorithm to notice that OpenAI has an inherent ranking advantage given the mean of its distribution.
+
+Instead, for each batch of search scores we will not perform a regular normalization, but a **MinMax scaling** using the tail extremes of their respective score distribution:
+
+  * CLIP scores will be scaled by using [0.18, 0.30] as extremes
+  * OpenAI scores will be scaled by using [0.40, 0.80] as extremes
+
+
+
+![](https://miro.medium.com/v2/resize:fit:700/1*NotzgKSXkKObalcKjXGHvg.png)
+
+Figure 6: Distribution-Based Score Fusion on CLIP and OpenAI search scores
+
+Let us describe the algorithm using mathematical notations. Let **E** be a set of **n** embeddings, while **x** represents a search result obtained with one embedding. We can compute the new ranked scores using the following formula…
+
+![](https://miro.medium.com/v2/resize:fit:700/1*QnaGnO54wKFvSQJvYu6UiQ.png)
+
+DBSF formula
+
+…where U is the merge of all the search scores obtained from the search and scaled using minmax scaler with our custom feature range (extremes indicated as 3 standard deviations from the mean), while the **S(x)** function is a simple sorting function that sorts the combination of all our final scores.
+
+# **Conclusion**
+
+By using this technique, we are able to standardize the scores of multiple different embeddings, regardless of the mean of their score distribution, ultimately obtaining a ranking that is free from any normalization bias.
+
+![](https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)
+
+## Sign up to discover human stories that deepen your understanding of the world.
+
+## Free
+
+Distraction-free reading. No ads.
+
+Organize your knowledge with lists and highlights.
+
+Tell your story. Find your audience.
+
+Sign up for free
+
+## Membership
+
+Read member-only stories
+
+Support writers you read most
+
+Earn money for your writing
+
+Listen to audio narrations
+
+Read offline with the Medium app
+
+Try for $5/month
+
+[Hybrid Search](/tag/hybrid-search?source=post_page-----f87c37488b18--------------------------------)
+
+[Fusion Algorithms](/tag/fusion-algorithms?source=post_page-----f87c37488b18--------------------------------)
+
+[Vector Database](/tag/vector-database?source=post_page-----f87c37488b18--------------------------------)
+
+[New Algorithms](/tag/new-algorithms?source=post_page-----f87c37488b18--------------------------------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fplain-simple-software%2Ff87c37488b18&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&user=Michelangiolo+Mazzeschi&userId=153452706ad7&source=---footer_actions--f87c37488b18---------------------clap_footer-----------)
+
+88
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fplain-simple-software%2Ff87c37488b18&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&user=Michelangiolo+Mazzeschi&userId=153452706ad7&source=---footer_actions--f87c37488b18---------------------clap_footer-----------)
+
+88
+
+1
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff87c37488b18&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&source=---footer_actions--f87c37488b18---------------------bookmark_footer-----------)
+
+[![Plain Simple Software](https://miro.medium.com/v2/resize:fill:48:48/1*9oCZ7AD33jLEhoJeA1wHNA.jpeg)](https://medium.com/plain-simple-software?source=post_page---post_publication_info--f87c37488b18--------------------------------)
+
+[![Plain Simple Software](https://miro.medium.com/v2/resize:fill:64:64/1*9oCZ7AD33jLEhoJeA1wHNA.jpeg)](https://medium.com/plain-simple-software?source=post_page---post_publication_info--f87c37488b18--------------------------------)
+
+Follow
+
+## [Published in Plain Simple Software](https://medium.com/plain-simple-software?source=post_page---post_publication_info--f87c37488b18--------------------------------)
+
+[161 Followers](/plain-simple-software/followers?source=post_page---post_publication_info--f87c37488b18--------------------------------)
+
+·[Last published Jun 14, 2024](/plain-simple-software/introducing-hierarchical-vector-concatenation-hvc-c7ef9cc734d3?source=post_page---post_publication_info--f87c37488b18--------------------------------)
+
+Helping people learn more about software: how to build it, how to change it, and how to innovate with it
+
+Follow
+
+[![Michelangiolo Mazzeschi](https://miro.medium.com/v2/resize:fill:48:48/2*MkUxrUogzkaAyb_Nf76wRQ.jpeg)](/@ardito.bryan?source=post_page---post_author_info--f87c37488b18--------------------------------)
+
+[![Michelangiolo Mazzeschi](https://miro.medium.com/v2/resize:fill:64:64/2*MkUxrUogzkaAyb_Nf76wRQ.jpeg)](/@ardito.bryan?source=post_page---post_author_info--f87c37488b18--------------------------------)
+
+Follow
+
+## [Written by Michelangiolo Mazzeschi](/@ardito.bryan?source=post_page---post_author_info--f87c37488b18--------------------------------)
+
+[984 Followers](/@ardito.bryan/followers?source=post_page---post_author_info--f87c37488b18--------------------------------)
+
+·[38 Following](/@ardito.bryan/following?source=post_page---post_author_info--f87c37488b18--------------------------------)
+
+AI in Retail, with a specialty in Search Engines
+
+Follow
+
+## Responses (1)
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--f87c37488b18--------------------------------)
+
+[What are your thoughts?](/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&source=---post_responses--f87c37488b18---------------------respond_sidebar-----------)
+
+Cancel
+
+Respond
+
+Respond
+
+Also publish to my profile
+
+[![Jules Kuehn](https://miro.medium.com/v2/resize:fill:32:32/0*NeZi3X50_PMk6Hou.jpg)](/@mikekuehn?source=post_page---post_responses--f87c37488b18----0----------------------------)
+
+[Jules Kuehn](/@mikekuehn?source=post_page---post_responses--f87c37488b18----0----------------------------)
+
+[Mar 5, 2024](/@mikekuehn/interesting-idea-i-like-the-idea-of-using-standard-deviations-for-scaling-d64ed655e149?source=post_page---post_responses--f87c37488b18----0----------------------------)
+
+```
+
+
+Interesting idea! I like the idea of using standard deviations for scaling.
+
+However, note that Weaviate's relativeScoreFusion uses MinMax scaling already:
+
+"Here, we normalize the scores – the largest score is set to 1 and the lowest to 0, and all…more
+
+
+```
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fd64ed655e149&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mikekuehn%2Finteresting-idea-i-like-the-idea-of-using-standard-deviations-for-scaling-d64ed655e149&user=Jules+Kuehn&userId=efad28d7c8f0&source=---post_responses--d64ed655e149----0-----------------respond_sidebar-----------)
+
+1 reply
+
+Reply
+
+## More from Michelangiolo Mazzeschi and Plain Simple Software
+
+![Introducing Univariate Exemplar Recommenders: how to profile Customer Behavior in a single vector](https://miro.medium.com/v2/resize:fit:679/1*8YjeQJ0IkEZiWDfyXjjFIA.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://medium.com/towards-data-science?source=post_page---author_recirc--f87c37488b18----0---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+In
+
+[Towards Data Science](https://medium.com/towards-data-science?source=post_page---author_recirc--f87c37488b18----0---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+by
+
+[Michelangiolo Mazzeschi](/@ardito.bryan?source=post_page---author_recirc--f87c37488b18----0---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+## [Introducing Univariate Exemplar Recommenders: how to profile Customer Behavior in a single vectorSurveying and improving the current methodologies for customer profiling](/towards-data-science/introducing-univariate-exemplar-recommenders-how-to-profile-customer-behavior-in-a-single-vector-c90c9943fe7d?source=post_page---author_recirc--f87c37488b18----0---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+Dec 4, 2024
+
+[200](/towards-data-science/introducing-univariate-exemplar-recommenders-how-to-profile-customer-behavior-in-a-single-vector-c90c9943fe7d?source=post_page---author_recirc--f87c37488b18----0---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc90c9943fe7d&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroducing-univariate-exemplar-recommenders-how-to-profile-customer-behavior-in-a-single-vector-c90c9943fe7d&source=---author_recirc--f87c37488b18----0-----------------bookmark_preview----35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+![The LLM App Stack — 2024](https://miro.medium.com/v2/resize:fit:679/1*DLwXXqEZJSHAWMsJTD_Y2A.png)
+
+[![Plain Simple Software](https://miro.medium.com/v2/resize:fill:20:20/1*9oCZ7AD33jLEhoJeA1wHNA.jpeg)](https://medium.com/plain-simple-software?source=post_page---author_recirc--f87c37488b18----1---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+In
+
+[Plain Simple Software](https://medium.com/plain-simple-software?source=post_page---author_recirc--f87c37488b18----1---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+by
+
+[Yujian Tang](/@ytang07?source=post_page---author_recirc--f87c37488b18----1---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+## [The LLM App Stack — 2024The tools you need to know, what they do, and how they’re different](/plain-simple-software/the-llm-app-stack-2024-eac28b9dc1e7?source=post_page---author_recirc--f87c37488b18----1---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+May 15, 2024
+
+[85512](/plain-simple-software/the-llm-app-stack-2024-eac28b9dc1e7?source=post_page---author_recirc--f87c37488b18----1---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Feac28b9dc1e7&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fthe-llm-app-stack-2024-eac28b9dc1e7&source=---author_recirc--f87c37488b18----1-----------------bookmark_preview----35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+![Python Styling: “cls” vs “self”](https://miro.medium.com/v2/resize:fit:679/1*VjUUjzg0GyU-T5ZE86ag_w.png)
+
+[![Plain Simple Software](https://miro.medium.com/v2/resize:fill:20:20/1*9oCZ7AD33jLEhoJeA1wHNA.jpeg)](https://medium.com/plain-simple-software?source=post_page---author_recirc--f87c37488b18----2---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+In
+
+[Plain Simple Software](https://medium.com/plain-simple-software?source=post_page---author_recirc--f87c37488b18----2---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+by
+
+[Yujian Tang](/@ytang07?source=post_page---author_recirc--f87c37488b18----2---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+## [Python Styling: “cls” vs “self”Have you ever seen the`cls` or `self` keywords in a Python function?](/plain-simple-software/python-styling-cls-vs-self-ec141c28d6d4?source=post_page---author_recirc--f87c37488b18----2---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+Nov 14, 2023
+
+[721](/plain-simple-software/python-styling-cls-vs-self-ec141c28d6d4?source=post_page---author_recirc--f87c37488b18----2---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fec141c28d6d4&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fpython-styling-cls-vs-self-ec141c28d6d4&source=---author_recirc--f87c37488b18----2-----------------bookmark_preview----35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+![Introducing Semantic Tag Filtering: Enhancing Retrieval with Tag Similarity](https://miro.medium.com/v2/resize:fit:679/1*a3db5HhCsv9R-rPrIgwOBw.png)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://medium.com/towards-data-science?source=post_page---author_recirc--f87c37488b18----3---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+In
+
+[Towards Data Science](https://medium.com/towards-data-science?source=post_page---author_recirc--f87c37488b18----3---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+by
+
+[Michelangiolo Mazzeschi](/@ardito.bryan?source=post_page---author_recirc--f87c37488b18----3---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+## [Introducing Semantic Tag Filtering: Enhancing Retrieval with Tag SimilarityHow to use Semantic Similarity to improve tag filtering](/towards-data-science/introducing-semantic-tag-filtering-enhancing-retrieval-with-tag-similarity-4f1b2d377a10?source=post_page---author_recirc--f87c37488b18----3---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+Sep 9, 2024
+
+[2283](/towards-data-science/introducing-semantic-tag-filtering-enhancing-retrieval-with-tag-similarity-4f1b2d377a10?source=post_page---author_recirc--f87c37488b18----3---------------------35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4f1b2d377a10&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintroducing-semantic-tag-filtering-enhancing-retrieval-with-tag-similarity-4f1b2d377a10&source=---author_recirc--f87c37488b18----3-----------------bookmark_preview----35ebee80_b91c_42d5_ba8a_8c3adcf2263c-------)
+
+[See all from Michelangiolo Mazzeschi](/@ardito.bryan?source=post_page---author_recirc--f87c37488b18--------------------------------)
+
+[See all from Plain Simple Software](https://medium.com/plain-simple-software?source=post_page---author_recirc--f87c37488b18--------------------------------)
+
+## Recommended from Medium
+
+![KAG: A Better Alternative to RAG for Domain-Specific Knowledge Applications](https://miro.medium.com/v2/resize:fit:679/1*pUsPQDfCoeQKDwrMMqB2hw.png)
+
+[![Artificial Intelligence in Plain English](https://miro.medium.com/v2/resize:fill:20:20/1*9zAmnK08gUCmZX7q0McVKw@2x.png)](https://medium.com/ai-in-plain-english?source=post_page---read_next_recirc--f87c37488b18----0---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+In
+
+[Artificial Intelligence in Plain English](https://medium.com/ai-in-plain-english?source=post_page---read_next_recirc--f87c37488b18----0---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+by
+
+[Sarayavalasaravikiran](/@sarayavalasaravikiran?source=post_page---read_next_recirc--f87c37488b18----0---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+## [KAG: A Better Alternative to RAG for Domain-Specific Knowledge ApplicationsThe rise of large language models (LLMs) has brought remarkable breakthroughs in natural language processing (NLP). Retrieval-Augmented…](/ai-in-plain-english/kag-a-better-alternative-to-rag-for-domain-specific-knowledge-applications-046054bedde1?source=post_page---read_next_recirc--f87c37488b18----0---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+Jan 4
+
+[33620](/ai-in-plain-english/kag-a-better-alternative-to-rag-for-domain-specific-knowledge-applications-046054bedde1?source=post_page---read_next_recirc--f87c37488b18----0---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F046054bedde1&operation=register&redirect=https%3A%2F%2Fai.plainenglish.io%2Fkag-a-better-alternative-to-rag-for-domain-specific-knowledge-applications-046054bedde1&source=---read_next_recirc--f87c37488b18----0-----------------bookmark_preview----76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+![Eliminating Hallucinations Lesson 1: Named Entity Filtering \(NEF\)](https://miro.medium.com/v2/resize:fit:679/1*P7EYbsiD1ZQQEFx5ZVEsWw.png)
+
+[![Cubed](https://miro.medium.com/v2/resize:fill:20:20/1*i6aZsChrqQVi4humMxqCCQ.png)](https://medium.com/cub3d?source=post_page---read_next_recirc--f87c37488b18----1---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+In
+
+[Cubed](https://medium.com/cub3d?source=post_page---read_next_recirc--f87c37488b18----1---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+by
+
+[Michael Wood](/@michaelwood33311?source=post_page---read_next_recirc--f87c37488b18----1---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+## [Eliminating Hallucinations Lesson 1: Named Entity Filtering (NEF)Named Entity Filtering](/cub3d/eliminating-hallucinations-lesson-1-named-entity-filtering-nef-5f5956d748e0?source=post_page---read_next_recirc--f87c37488b18----1---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+Sep 2, 2024
+
+[84514](/cub3d/eliminating-hallucinations-lesson-1-named-entity-filtering-nef-5f5956d748e0?source=post_page---read_next_recirc--f87c37488b18----1---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5f5956d748e0&operation=register&redirect=https%3A%2F%2Fblog.cubed.run%2Feliminating-hallucinations-lesson-1-named-entity-filtering-nef-5f5956d748e0&source=---read_next_recirc--f87c37488b18----1-----------------bookmark_preview----76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+## Lists
+
+[![](https://miro.medium.com/v2/resize:fill:48:48/1*nVAk9E_TnPIK8Kv57PJruA.png)![](https://miro.medium.com/v2/resize:fill:48:48/1*790FdGYUonUX4X3IyQr1Og.png)![](https://miro.medium.com/v2/da:true/resize:fill:48:48/1*o1k0mQo3BuyIkmg-rI2Eiw.gif)Natural Language Processing1889 stories·1551 saves](/@AMGAS14/list/natural-language-processing-0a856388a93a?source=post_page---read_next_recirc--f87c37488b18--------------------------------)
+
+![You are an absolute moron for believing in the hype of “AI Agents”.](https://miro.medium.com/v2/resize:fit:679/1*ZGZHRi3VSgirewnjtto9hA.png)
+
+[![Austin Starks](https://miro.medium.com/v2/resize:fill:20:20/1*dfww62lW8x8sVZNbLx5aCA.jpeg)](/@austin-starks?source=post_page---read_next_recirc--f87c37488b18----0---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+[Austin Starks](/@austin-starks?source=post_page---read_next_recirc--f87c37488b18----0---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+## [You are an absolute moron for believing in the hype of “AI Agents”.All of my articles are 100% free to read. Non-members can read for free by clicking my friend link!](/@austin-starks/you-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e?source=post_page---read_next_recirc--f87c37488b18----0---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+Jan 11
+
+[4.3K180](/@austin-starks/you-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e?source=post_page---read_next_recirc--f87c37488b18----0---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc0f760e7e48e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40austin-starks%2Fyou-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e&source=---read_next_recirc--f87c37488b18----0-----------------bookmark_preview----76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+![Improving Retrieval Accuracy in RAG Systems: Reranking vs. Rank Normalization vs. Rank Fusion](https://miro.medium.com/v2/resize:fit:679/1*yuVzMhCJyDENbyhwAsrkwA.png)
+
+[![Timo Selvaraj](https://miro.medium.com/v2/resize:fill:20:20/0*cpPrlfkTJd6iRZxb)](/@tselvaraj?source=post_page---read_next_recirc--f87c37488b18----1---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+[Timo Selvaraj](/@tselvaraj?source=post_page---read_next_recirc--f87c37488b18----1---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+## [Improving Retrieval Accuracy in RAG Systems: Reranking vs. Rank Normalization vs. Rank FusionRetrieval Augmented Generation (RAG) systems have become increasingly popular in natural language processing tasks, offering a powerful…](/@tselvaraj/improving-retrieval-accuracy-in-rag-systems-reranking-vs-rank-normalization-vs-rank-fusion-3a5588c33a09?source=post_page---read_next_recirc--f87c37488b18----1---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+Sep 30, 2024
+
+[3](/@tselvaraj/improving-retrieval-accuracy-in-rag-systems-reranking-vs-rank-normalization-vs-rank-fusion-3a5588c33a09?source=post_page---read_next_recirc--f87c37488b18----1---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3a5588c33a09&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tselvaraj%2Fimproving-retrieval-accuracy-in-rag-systems-reranking-vs-rank-normalization-vs-rank-fusion-3a5588c33a09&source=---read_next_recirc--f87c37488b18----1-----------------bookmark_preview----76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+![KAG: Knowledge Augmented Generation A Pratical Guide better than Rag](https://miro.medium.com/v2/resize:fit:679/0*wgaGAub1630gg3JI.jpg)
+
+[![Artificial Intelligence in Plain English](https://miro.medium.com/v2/resize:fill:20:20/1*9zAmnK08gUCmZX7q0McVKw@2x.png)](https://medium.com/ai-in-plain-english?source=post_page---read_next_recirc--f87c37488b18----2---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+In
+
+[Artificial Intelligence in Plain English](https://medium.com/ai-in-plain-english?source=post_page---read_next_recirc--f87c37488b18----2---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+by
+
+[Sarayavalasaravikiran](/@sarayavalasaravikiran?source=post_page---read_next_recirc--f87c37488b18----2---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+## [KAG: Knowledge Augmented Generation A Pratical Guide better than Rag1. What is KAG?](/ai-in-plain-english/kag-knowledge-augmented-generation-a-pratical-guide-better-than-rag-eaaa1793369c?source=post_page---read_next_recirc--f87c37488b18----2---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+Jan 8
+
+[735](/ai-in-plain-english/kag-knowledge-augmented-generation-a-pratical-guide-better-than-rag-eaaa1793369c?source=post_page---read_next_recirc--f87c37488b18----2---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Feaaa1793369c&operation=register&redirect=https%3A%2F%2Fai.plainenglish.io%2Fkag-knowledge-augmented-generation-a-pratical-guide-better-than-rag-eaaa1793369c&source=---read_next_recirc--f87c37488b18----2-----------------bookmark_preview----76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+![Agentic chuning offers near human-level performance in chunking](https://miro.medium.com/v2/resize:fit:679/1*wzK0hP8qqmrpv2ds6_R9uw.jpeg)
+
+[![Towards Data Science](https://miro.medium.com/v2/resize:fill:20:20/1*CJe3891yB1A1mzMdqemkdg.jpeg)](https://medium.com/towards-data-science?source=post_page---read_next_recirc--f87c37488b18----3---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+In
+
+[Towards Data Science](https://medium.com/towards-data-science?source=post_page---read_next_recirc--f87c37488b18----3---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+by
+
+[Thuwarakesh Murallie](/@thuwarakesh?source=post_page---read_next_recirc--f87c37488b18----3---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+## [How to Achieve Near Human-Level Performance in Chunking for RAGsThe costly yet powerful splitting technique for superior RAG retrieval](/towards-data-science/agentic-chunking-for-rags-091beccd94b1?source=post_page---read_next_recirc--f87c37488b18----3---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+Aug 26, 2024
+
+[6446](/towards-data-science/agentic-chunking-for-rags-091beccd94b1?source=post_page---read_next_recirc--f87c37488b18----3---------------------76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F091beccd94b1&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fagentic-chunking-for-rags-091beccd94b1&source=---read_next_recirc--f87c37488b18----3-----------------bookmark_preview----76305c7c_c359_4447_b7ef_dbfe6c9b5eca-------)
+
+[See more recommendations](/?source=post_page---read_next_recirc--f87c37488b18--------------------------------)
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----f87c37488b18--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----f87c37488b18--------------------------------)
+
+[About](/about?autoplay=1&source=post_page-----f87c37488b18--------------------------------)
+
+[Careers](/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----f87c37488b18--------------------------------)
+
+[Press](pressinquiries@medium.com?source=post_page-----f87c37488b18--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----f87c37488b18--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----f87c37488b18--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----f87c37488b18--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----f87c37488b18--------------------------------)
+
+[Teams](/business?source=post_page-----f87c37488b18--------------------------------)
+
+To make Medium work, we log user data. By using Medium, you agree to our [Privacy Policy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9), including cookie policy.

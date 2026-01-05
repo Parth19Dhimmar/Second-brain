@@ -1,0 +1,768 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fmendableai%2Ffirecrawl%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fmendableai%2Ffirecrawl%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=mendableai%2Ffirecrawl) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ mendableai ](/mendableai) / **[firecrawl](/mendableai/firecrawl) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fmendableai%2Ffirecrawl) You must be signed in to change notification settings
+  * [ Fork 1.8k ](/login?return_to=%2Fmendableai%2Ffirecrawl)
+  * [ Star  22.2k ](/login?return_to=%2Fmendableai%2Ffirecrawl)
+
+
+
+
+🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. 
+
+[firecrawl.dev](https://firecrawl.dev "https://firecrawl.dev")
+
+### License
+
+[ AGPL-3.0 license ](/mendableai/firecrawl/blob/main/LICENSE)
+
+[ 22.2k stars ](/mendableai/firecrawl/stargazers) [ 1.8k forks ](/mendableai/firecrawl/forks) [ Branches ](/mendableai/firecrawl/branches) [ Tags ](/mendableai/firecrawl/tags) [ Activity ](/mendableai/firecrawl/activity)
+
+[ Star  ](/login?return_to=%2Fmendableai%2Ffirecrawl)
+
+[ Notifications ](/login?return_to=%2Fmendableai%2Ffirecrawl) You must be signed in to change notification settings
+
+  * [ Code ](/mendableai/firecrawl)
+  * [ Issues 110 ](/mendableai/firecrawl/issues)
+  * [ Pull requests 49 ](/mendableai/firecrawl/pulls)
+  * [ Discussions ](/mendableai/firecrawl/discussions)
+  * [ Actions ](/mendableai/firecrawl/actions)
+  * [ Projects 0 ](/mendableai/firecrawl/projects)
+  * [ Security 1 ](/mendableai/firecrawl/security)
+  * [ Insights ](/mendableai/firecrawl/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/mendableai/firecrawl)
+  * [ Issues  ](/mendableai/firecrawl/issues)
+  * [ Pull requests  ](/mendableai/firecrawl/pulls)
+  * [ Discussions  ](/mendableai/firecrawl/discussions)
+  * [ Actions  ](/mendableai/firecrawl/actions)
+  * [ Projects  ](/mendableai/firecrawl/projects)
+  * [ Security  ](/mendableai/firecrawl/security)
+  * [ Insights  ](/mendableai/firecrawl/pulse)
+
+
+
+# mendableai/firecrawl
+
+main
+
+[**320** Branches](/mendableai/firecrawl/branches)[**7** Tags](/mendableai/firecrawl/tags)
+
+[](/mendableai/firecrawl/branches)[](/mendableai/firecrawl/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![nickscamara](https://avatars.githubusercontent.com/u/20311743?v=4&size=40)](/nickscamara)[nickscamara](/mendableai/firecrawl/commits?author=nickscamara)[Nick: bug fixes + acuc fixes + cache fixes](/mendableai/firecrawl/commit/04916f17e2b8a8eaf1a8f0c64ff9d25867cc8fa6)Jan 22, 2025[04916f1](/mendableai/firecrawl/commit/04916f17e2b8a8eaf1a8f0c64ff9d25867cc8fa6) · Jan 22, 2025
+
+## History
+
+[2,721 Commits](/mendableai/firecrawl/commits/main/)[](/mendableai/firecrawl/commits/main/)  
+[.github](/mendableai/firecrawl/tree/main/.github ".github")| [.github](/mendableai/firecrawl/tree/main/.github ".github")| [feat(ci): add sentry auth token to builds](/mendableai/firecrawl/commit/1c55ce41bed9646db6f1cb018620a61cf5d0b472 "feat\(ci\): add sentry auth token to builds")| Nov 11, 2024  
+[apps](/mendableai/firecrawl/tree/main/apps "apps")| [apps](/mendableai/firecrawl/tree/main/apps "apps")| [Nick: bug fixes + acuc fixes + cache fixes](/mendableai/firecrawl/commit/04916f17e2b8a8eaf1a8f0c64ff9d25867cc8fa6 "Nick: bug fixes + acuc fixes + cache fixes")| Jan 22, 2025  
+[examples](/mendableai/firecrawl/tree/main/examples "examples")| [examples](/mendableai/firecrawl/tree/main/examples "examples")| [Create o1_web_extractor.py](/mendableai/firecrawl/commit/94267ff406d005351ef2b4aadc70b09bec687ac3 "Create o1_web_extractor.py")| Dec 19, 2024  
+[img](/mendableai/firecrawl/tree/main/img "img")| [img](/mendableai/firecrawl/tree/main/img "img")| [Nick: clarification on open source vs cloud](/mendableai/firecrawl/commit/b2f61da7c673eee6b806a3c236607614fd5b63a9 "Nick: clarification on open source vs cloud")| Sep 20, 2024  
+[.gitattributes](/mendableai/firecrawl/blob/main/.gitattributes ".gitattributes")| [.gitattributes](/mendableai/firecrawl/blob/main/.gitattributes ".gitattributes")| [Initial commit](/mendableai/firecrawl/commit/a6c2a878119321a196f720cce4195e086f1c6b46 "Initial commit")| Apr 16, 2024  
+[.gitignore](/mendableai/firecrawl/blob/main/.gitignore ".gitignore")| [.gitignore](/mendableai/firecrawl/blob/main/.gitignore ".gitignore")| [(feat/extract) New re-ranker + multi entity extraction (](/mendableai/firecrawl/commit/5e5b5ee0e264c942fb26baf83de9aaf86e070a6d "\(feat/extract\) New re-ranker + multi entity extraction \(#1061\)
+* agent that decides if splits schema or not
+* split and merge properties done
+* wip
+* wip
+* changes
+* ch
+* array merge working!
+* comment
+* wip
+* dereferentiate schema
+* dereference schemas
+* Nick: new re-ranker
+* Create llm-links.txt
+* Nick: format
+* Update extraction-service.ts
+* wip: cooking schema mix and spread functions
+* wip
+* wip getting there!!!
+* nick:
+* moved functions to helpers
+* nick:
+* cant reproduce the error anymore
+* error handling all scrapes failed
+* fix
+* Nick: added the sitemap index
+* Update sitemap-index.ts
+* Update map.ts
+* deduplicate and merge arrays
+* added error handler for object transformations
+* Update url-processor.ts
+* Nick:
+* Nick: fixes
+* Nick: big improvements to rerank of multi-entity
+* Nick: working
+* Update reranker.ts
+* fixed transformations for nested objs
+* fix merge nulls
+* Nick: fixed error piping
+* Update queue-worker.ts
+* Update extraction-service.ts
+* Nick: format
+* Update queue-worker.ts
+* Update pnpm-lock.yaml
+* Update queue-worker.ts
+---------
+Co-authored-by: rafaelmmiller <150964962+rafaelsideguide@users.noreply.github.com>
+Co-authored-by: Thomas Kosmas <thomas510111@gmail.com>")[#1061](https://github.com/mendableai/firecrawl/pull/1061)[)](/mendableai/firecrawl/commit/5e5b5ee0e264c942fb26baf83de9aaf86e070a6d "\(feat/extract\) New re-ranker + multi entity extraction \(#1061\)
+* agent that decides if splits schema or not
+* split and merge properties done
+* wip
+* wip
+* changes
+* ch
+* array merge working!
+* comment
+* wip
+* dereferentiate schema
+* dereference schemas
+* Nick: new re-ranker
+* Create llm-links.txt
+* Nick: format
+* Update extraction-service.ts
+* wip: cooking schema mix and spread functions
+* wip
+* wip getting there!!!
+* nick:
+* moved functions to helpers
+* nick:
+* cant reproduce the error anymore
+* error handling all scrapes failed
+* fix
+* Nick: added the sitemap index
+* Update sitemap-index.ts
+* Update map.ts
+* deduplicate and merge arrays
+* added error handler for object transformations
+* Update url-processor.ts
+* Nick:
+* Nick: fixes
+* Nick: big improvements to rerank of multi-entity
+* Nick: working
+* Update reranker.ts
+* fixed transformations for nested objs
+* fix merge nulls
+* Nick: fixed error piping
+* Update queue-worker.ts
+* Update extraction-service.ts
+* Nick: format
+* Update queue-worker.ts
+* Update pnpm-lock.yaml
+* Update queue-worker.ts
+---------
+Co-authored-by: rafaelmmiller <150964962+rafaelsideguide@users.noreply.github.com>
+Co-authored-by: Thomas Kosmas <thomas510111@gmail.com>")| Jan 14, 2025  
+[.gitmodules](/mendableai/firecrawl/blob/main/.gitmodules ".gitmodules")| [.gitmodules](/mendableai/firecrawl/blob/main/.gitmodules ".gitmodules")| [fix(go-sdk): submodules](/mendableai/firecrawl/commit/1baba3ce0a8f380143a7ff47fba2fd43e645928b "fix\(go-sdk\): submodules")| Aug 26, 2024  
+[CONTRIBUTING.md](/mendableai/firecrawl/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/mendableai/firecrawl/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [docs(CONTRIBUTING.md): Add Docker Compose setup instructions to CONTR…](/mendableai/firecrawl/commit/7366f36e397669fcb4260617707f63aa38ced375 "docs\(CONTRIBUTING.md\): Add Docker Compose setup instructions to CONTRIBUTING.md")| Dec 21, 2024  
+[LICENSE](/mendableai/firecrawl/blob/main/LICENSE "LICENSE")| [LICENSE](/mendableai/firecrawl/blob/main/LICENSE "LICENSE")| [Update SDKs to MIT license](/mendableai/firecrawl/commit/afb49e21e7cff595ebad9ce0b7aba13b88f39cf8 "Update SDKs to MIT license")| Jul 8, 2024  
+[README.md](/mendableai/firecrawl/blob/main/README.md "README.md")| [README.md](/mendableai/firecrawl/blob/main/README.md "README.md")| [Update README.md](/mendableai/firecrawl/commit/60494882ef3c158813f166ecea6b9dcac449513d "Update README.md")| Jan 20, 2025  
+[SELF_HOST.md](/mendableai/firecrawl/blob/main/SELF_HOST.md "SELF_HOST.md")| [SELF_HOST.md](/mendableai/firecrawl/blob/main/SELF_HOST.md "SELF_HOST.md")| [feat(rust-sdk): improve API key handling for cloud vs self-hosted ser…](/mendableai/firecrawl/commit/f47e3114d6d08989d00fd527954b22ed7924fee9 "feat\(rust-sdk\): improve API key handling for cloud vs self-hosted services in FirecrawlApp")| Dec 20, 2024  
+[docker-compose.yaml](/mendableai/firecrawl/blob/main/docker-compose.yaml "docker-compose.yaml")| [docker-compose.yaml](/mendableai/firecrawl/blob/main/docker-compose.yaml "docker-compose.yaml")| [fixes docker-compose and 401 error](/mendableai/firecrawl/commit/d316d52c963eeb2f05e7624204e969fb73f43e9b "fixes docker-compose and 401 error")| Oct 4, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [AGPL-3.0 license](#)
+
+
+
+###  [![](https://raw.githubusercontent.com/mendableai/firecrawl/main/img/firecrawl_logo.png)](https://raw.githubusercontent.com/mendableai/firecrawl/main/img/firecrawl_logo.png)
+
+[](#----)
+
+[ ![License](https://camo.githubusercontent.com/a6f4431b80529dbeaa43c3c5fbcf4649f6b4ebbeb82d5a58abeb39ca3eeca8be/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6d656e6461626c6561692f66697265637261776c) ](https://github.com/mendableai/firecrawl/blob/main/LICENSE) [ ![Downloads](https://camo.githubusercontent.com/9d76afe428b4085c8b7103f2f4e31da110ee154ad7320bace4348d92ac0c2450/68747470733a2f2f7374617469632e706570792e746563682f62616467652f66697265637261776c2d7079) ](https://pepy.tech/project/firecrawl-py) [ ![GitHub Contributors](https://camo.githubusercontent.com/036be24bb56e21d894aeb2234bbe65781361dfbbf374f04917d75c676fff339b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6d656e6461626c6561692f66697265637261776c2e737667) ](https://GitHub.com/mendableai/firecrawl/graphs/contributors) [ ![Visit firecrawl.dev](https://camo.githubusercontent.com/3576b8cb0e77344c001cc8456d28c830691cb96480d4b65be90f8a4c99dead56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697369742d66697265637261776c2e6465762d6f72616e6765) ](https://firecrawl.dev)
+
+[ ![Follow on X](https://camo.githubusercontent.com/610127222e603752676f0275682f12398f8e434706861d577c1f6688d999191c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466f6c6c6f772532306f6e253230582d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d7768697465) ](https://twitter.com/firecrawl_dev) [ ![Follow on LinkedIn](https://camo.githubusercontent.com/8741d51bb8e1c8ae576ac05e875f826bcf80e8711dcf9225935bb78d5bb03802/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466f6c6c6f772532306f6e2532304c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465) ](https://www.linkedin.com/company/104100957) [ ![Join our Discord](https://camo.githubusercontent.com/886138c89a84dc2ad74d06900f364d736ccf753b2732d59fbd4106f6310f3616/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2532306f7572253230446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465) ](https://discord.com/invite/gSmWdAkdwd)
+
+# 🔥 Firecrawl
+
+[](#-firecrawl)
+
+Empower your AI apps with clean data from any website. Featuring advanced scraping, crawling, and data extraction capabilities.
+
+_This repository is in development, and we’re still integrating custom modules into the mono repo. It's not fully ready for self-hosted deployment yet, but you can run it locally._
+
+## What is Firecrawl?
+
+[](#what-is-firecrawl)
+
+[Firecrawl](https://firecrawl.dev?ref=github) is an API service that takes a URL, crawls it, and converts it into clean markdown or structured data. We crawl all accessible subpages and give you clean data for each. No sitemap required. Check out our [documentation](https://docs.firecrawl.dev).
+
+_Pst. hey, you, join our stargazers :)_
+
+[ ![GitHub stars](https://camo.githubusercontent.com/dfb129359e7035e4c1b63b62315095c82738494425bb13c6acf5fae320d68f33/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6d656e6461626c6561692f66697265637261776c2e7376673f7374796c653d736f6369616c266c6162656c3d53746172266d61784167653d32353932303030) ](https://github.com/mendableai/firecrawl)
+
+## How to use it?
+
+[](#how-to-use-it)
+
+We provide an easy to use API with our hosted version. You can find the playground and documentation [here](https://firecrawl.dev/playground). You can also self host the backend if you'd like.
+
+Check out the following resources to get started:
+
+  * **API** : [Documentation](https://docs.firecrawl.dev/api-reference/introduction)
+  * **SDKs** : [Python](https://docs.firecrawl.dev/sdks/python), [Node](https://docs.firecrawl.dev/sdks/node), [Go](https://docs.firecrawl.dev/sdks/go), [Rust](https://docs.firecrawl.dev/sdks/rust)
+  * **LLM Frameworks** : [Langchain (python)](https://python.langchain.com/docs/integrations/document_loaders/firecrawl/), [Langchain (js)](https://js.langchain.com/docs/integrations/document_loaders/web_loaders/firecrawl), [Llama Index](https://docs.llamaindex.ai/en/latest/examples/data_connectors/WebPageDemo/#using-firecrawl-reader), [Crew.ai](https://docs.crewai.com/), [Composio](https://composio.dev/tools/firecrawl/all), [PraisonAI](https://docs.praison.ai/firecrawl/), [Superinterface](https://superinterface.ai/docs/assistants/functions/firecrawl), [Vectorize](https://docs.vectorize.io/integrations/source-connectors/firecrawl)
+  * **Low-code Frameworks** : [Dify](https://dify.ai/blog/dify-ai-blog-integrated-with-firecrawl), [Langflow](https://docs.langflow.org/), [Flowise AI](https://docs.flowiseai.com/integrations/langchain/document-loaders/firecrawl), [Cargo](https://docs.getcargo.io/integration/firecrawl), [Pipedream](https://pipedream.com/apps/firecrawl/)
+  * **Others** : [Zapier](https://zapier.com/apps/firecrawl/integrations), [Pabbly Connect](https://www.pabbly.com/connect/integrations/firecrawl/)
+  * Want an SDK or Integration? Let us know by opening an issue.
+
+
+
+To run locally, refer to guide [here](https://github.com/mendableai/firecrawl/blob/main/CONTRIBUTING.md).
+
+### API Key
+
+[](#api-key)
+
+To use the API, you need to sign up on [Firecrawl](https://firecrawl.dev) and get an API key.
+
+### Features
+
+[](#features)
+
+  * [**Scrape**](#scraping): scrapes a URL and get its content in LLM-ready format (markdown, structured data via [LLM Extract](#llm-extraction-beta), screenshot, html)
+  * [**Crawl**](#crawling): scrapes all the URLs of a web page and return content in LLM-ready format
+  * [**Map**](#map-alpha): input a website and get all the website urls - extremely fast
+  * [**Extract**](#extract): get structured data from single page, multiple pages or entire websites with AI.
+
+
+
+### Powerful Capabilities
+
+[](#powerful-capabilities)
+
+  * **LLM-ready formats** : markdown, structured data, screenshot, HTML, links, metadata
+  * **The hard stuff** : proxies, anti-bot mechanisms, dynamic content (js-rendered), output parsing, orchestration
+  * **Customizability** : exclude tags, crawl behind auth walls with custom headers, max crawl depth, etc...
+  * **Media parsing** : pdfs, docx, images
+  * **Reliability first** : designed to get the data you need - no matter how hard it is
+  * **Actions** : click, scroll, input, wait and more before extracting data
+  * **Batching (New)** : scrape thousands of URLs at the same time with a new async endpoint.
+
+
+
+You can find all of Firecrawl's capabilities and how to use them in our [documentation](https://docs.firecrawl.dev)
+
+### Crawling
+
+[](#crawling)
+
+Used to crawl a URL and all accessible subpages. This submits a crawl job and returns a job ID to check the status of the crawl.
+
+```
+curl -X POST https://api.firecrawl.dev/v1/crawl \ -H 'Content-Type: application/json' \ -H 'Authorization: Bearer fc-YOUR_API_KEY' \ -d '{ "url": "https://docs.firecrawl.dev", "limit": 100, "scrapeOptions": { "formats": ["markdown", "html"] } }'
+```
+
+Returns a crawl job id and the url to check the status of the crawl.
+
+```
+{ "success": true, "id": "123-456-789", "url": "https://api.firecrawl.dev/v1/crawl/123-456-789" }
+```
+
+### Check Crawl Job
+
+[](#check-crawl-job)
+
+Used to check the status of a crawl job and get its result.
+
+```
+curl -X GET https://api.firecrawl.dev/v1/crawl/123-456-789 \ -H 'Content-Type: application/json' \ -H 'Authorization: Bearer YOUR_API_KEY'
+```
+
+```
+{ "status": "completed", "total": 36, "creditsUsed": 36, "expiresAt": "2024-00-00T00:00:00.000Z", "data": [ { "markdown": "[Firecrawl Docs home page![light logo](https://mintlify.s3-us-west-1.amazonaws.com/firecrawl/logo/light.svg)!...", "html": "<!DOCTYPE html><html lang=\"en\" class=\"js-focus-visible lg:[--scroll-mt:9.5rem]\" data-js-focus-visible=\"\">...", "metadata": { "title": "Build a 'Chat with website' using Groq Llama 3 | Firecrawl", "language": "en", "sourceURL": "https://docs.firecrawl.dev/learn/rag-llama3", "description": "Learn how to use Firecrawl, Groq Llama 3, and Langchain to build a 'Chat with your website' bot.", "ogLocaleAlternate": [], "statusCode": 200 } } ] }
+```
+
+### Scraping
+
+[](#scraping)
+
+Used to scrape a URL and get its content in the specified formats.
+
+```
+curl -X POST https://api.firecrawl.dev/v1/scrape \ -H 'Content-Type: application/json' \ -H 'Authorization: Bearer YOUR_API_KEY' \ -d '{ "url": "https://docs.firecrawl.dev", "formats" : ["markdown", "html"] }'
+```
+
+Response:
+
+```
+{ "success": true, "data": { "markdown": "Launch Week I is here! [See our Day 2 Release 🚀](https://www.firecrawl.dev/blog/launch-week-i-day-2-doubled-rate-limits)[💥 Get 2 months free...", "html": "<!DOCTYPE html><html lang=\"en\" class=\"light\" style=\"color-scheme: light;\"><body class=\"__variable_36bd41 __variable_d7dc5d font-inter ...", "metadata": { "title": "Home - Firecrawl", "description": "Firecrawl crawls and converts any website into clean markdown.", "language": "en", "keywords": "Firecrawl,Markdown,Data,Mendable,Langchain", "robots": "follow, index", "ogTitle": "Firecrawl", "ogDescription": "Turn any website into LLM-ready data.", "ogUrl": "https://www.firecrawl.dev/", "ogImage": "https://www.firecrawl.dev/og.png?123", "ogLocaleAlternate": [], "ogSiteName": "Firecrawl", "sourceURL": "https://firecrawl.dev", "statusCode": 200 } } }
+```
+
+### Map (Alpha)
+
+[](#map-alpha)
+
+Used to map a URL and get urls of the website. This returns most links present on the website.
+
+```
+curl -X POST https://api.firecrawl.dev/v1/map \ -H 'Content-Type: application/json' \ -H 'Authorization: Bearer YOUR_API_KEY' \ -d '{ "url": "https://firecrawl.dev" }'
+```
+
+Response:
+
+```
+{ "status": "success", "links": [ "https://firecrawl.dev", "https://www.firecrawl.dev/pricing", "https://www.firecrawl.dev/blog", "https://www.firecrawl.dev/playground", "https://www.firecrawl.dev/smart-crawl", ] }
+```
+
+#### Map with search
+
+[](#map-with-search)
+
+Map with `search` param allows you to search for specific urls inside a website.
+
+```
+curl -X POST https://api.firecrawl.dev/v1/map \ -H 'Content-Type: application/json' \ -H 'Authorization: Bearer YOUR_API_KEY' \ -d '{ "url": "https://firecrawl.dev", "search": "docs" }'
+```
+
+Response will be an ordered list from the most relevant to the least relevant.
+
+```
+{ "status": "success", "links": [ "https://docs.firecrawl.dev", "https://docs.firecrawl.dev/sdks/python", "https://docs.firecrawl.dev/learn/rag-llama3", ] }
+```
+
+### Extract
+
+[](#extract)
+
+Get structured data from entire websites with a prompt and/or a schema.
+
+You can extract structured data from one or multiple URLs, including wildcards:
+
+Single Page: Example: <https://firecrawl.dev/some-page>
+
+Multiple Pages / Full Domain Example: <https://firecrawl.dev/>*
+
+When you use /*, Firecrawl will automatically crawl and parse all URLs it can discover in that domain, then extract the requested data.
+
+```
+curl -X POST https://api.firecrawl.dev/v1/extract \ -H 'Content-Type: application/json' \ -H 'Authorization: Bearer YOUR_API_KEY' \ -d '{ "urls": [ "https://firecrawl.dev/*",  "https://docs.firecrawl.dev/",  "https://www.ycombinator.com/companies" ], "prompt": "Extract the company mission, whether it is open source, and whether it is in Y Combinator from the page.", "schema": { "type": "object", "properties": { "company_mission": { "type": "string" }, "is_open_source": { "type": "boolean" }, "is_in_yc": { "type": "boolean" } }, "required": [ "company_mission", "supports_sso", "is_open_source", "is_in_yc" ] } }'
+```
+
+```
+{ "success": true, "id": "44aa536d-f1cb-4706-ab87-ed0386685740", "urlTrace": [] }
+```
+
+If you are using the sdks, it will auto pull the response for you:
+
+```
+{ "success": true, "data": { "company_mission": "Firecrawl is the easiest way to extract data from the web. Developers use us to reliably convert URLs into LLM-ready markdown or structured data with a single API call.", "supports_sso": false, "is_open_source": true, "is_in_yc": true } }
+```
+
+### LLM Extraction (Beta)
+
+[](#llm-extraction-beta)
+
+Used to extract structured data from scraped pages.
+
+```
+curl -X POST https://api.firecrawl.dev/v1/scrape \ -H 'Content-Type: application/json' \ -H 'Authorization: Bearer YOUR_API_KEY' \ -d '{ "url": "https://www.mendable.ai/", "formats": ["json"], "jsonOptions": { "schema": { "type": "object", "properties": { "company_mission": { "type": "string" }, "supports_sso": { "type": "boolean" }, "is_open_source": { "type": "boolean" }, "is_in_yc": { "type": "boolean" } }, "required": [ "company_mission", "supports_sso", "is_open_source", "is_in_yc" ] } } }'
+```
+
+```
+{ "success": true, "data": { "content": "Raw Content", "metadata": { "title": "Mendable", "description": "Mendable allows you to easily build AI chat applications. Ingest, customize, then deploy with one line of code anywhere you want. Brought to you by SideGuide", "robots": "follow, index", "ogTitle": "Mendable", "ogDescription": "Mendable allows you to easily build AI chat applications. Ingest, customize, then deploy with one line of code anywhere you want. Brought to you by SideGuide", "ogUrl": "https://mendable.ai/", "ogImage": "https://mendable.ai/mendable_new_og1.png", "ogLocaleAlternate": [], "ogSiteName": "Mendable", "sourceURL": "https://mendable.ai/" }, "json": { "company_mission": "Train a secure AI on your technical resources that answers customer and employee questions so your team doesn't have to", "supports_sso": true, "is_open_source": false, "is_in_yc": true } } }
+```
+
+### Extracting without a schema (New)
+
+[](#extracting-without-a-schema-new)
+
+You can now extract without a schema by just passing a `prompt` to the endpoint. The llm chooses the structure of the data.
+
+```
+curl -X POST https://api.firecrawl.dev/v1/scrape \ -H 'Content-Type: application/json' \ -H 'Authorization: Bearer YOUR_API_KEY' \ -d '{ "url": "https://docs.firecrawl.dev/", "formats": ["json"], "jsonOptions": { "prompt": "Extract the company mission from the page." } }'
+```
+
+### Interacting with the page with Actions (Cloud-only)
+
+[](#interacting-with-the-page-with-actions-cloud-only)
+
+Firecrawl allows you to perform various actions on a web page before scraping its content. This is particularly useful for interacting with dynamic content, navigating through pages, or accessing content that requires user interaction.
+
+Here is an example of how to use actions to navigate to google.com, search for Firecrawl, click on the first result, and take a screenshot.
+
+```
+curl -X POST https://api.firecrawl.dev/v1/scrape \ -H 'Content-Type: application/json' \ -H 'Authorization: Bearer YOUR_API_KEY' \ -d '{ "url": "google.com", "formats": ["markdown"], "actions": [ {"type": "wait", "milliseconds": 2000}, {"type": "click", "selector": "textarea[title=\"Search\"]"}, {"type": "wait", "milliseconds": 2000}, {"type": "write", "text": "firecrawl"}, {"type": "wait", "milliseconds": 2000}, {"type": "press", "key": "ENTER"}, {"type": "wait", "milliseconds": 3000}, {"type": "click", "selector": "h3"}, {"type": "wait", "milliseconds": 3000}, {"type": "screenshot"} ] }'
+```
+
+### Batch Scraping Multiple URLs (New)
+
+[](#batch-scraping-multiple-urls-new)
+
+You can now batch scrape multiple URLs at the same time. It is very similar to how the /crawl endpoint works. It submits a batch scrape job and returns a job ID to check the status of the batch scrape.
+
+```
+curl -X POST https://api.firecrawl.dev/v1/batch/scrape \ -H 'Content-Type: application/json' \ -H 'Authorization: Bearer YOUR_API_KEY' \ -d '{ "urls": ["https://docs.firecrawl.dev", "https://docs.firecrawl.dev/sdks/overview"], "formats" : ["markdown", "html"] }'
+```
+
+### Search
+
+[](#search)
+
+The search endpoint combines web search with Firecrawl’s scraping capabilities to return full page content for any query.
+
+Include `scrapeOptions` with `formats: ["markdown"]` to get complete markdown content for each search result otherwise it defaults to getting SERP results (url, title, description).
+
+```
+curl -X POST https://api.firecrawl.dev/v1/search \ -H 'Content-Type: application/json' \ -H 'Authorization: Bearer YOUR_API_KEY' \ -d '{ "query": "What is Mendable?" }'
+```
+
+```
+{ "success": true, "data": [ { "url": "https://mendable.ai", "title": "Mendable | AI for CX and Sales", "description": "AI for CX and Sales" } ] }
+```
+
+## Using Python SDK
+
+[](#using-python-sdk)
+
+### Installing Python SDK
+
+[](#installing-python-sdk)
+
+```
+pip install firecrawl-py
+```
+
+### Crawl a website
+
+[](#crawl-a-website)
+
+```
+from firecrawl.firecrawl import FirecrawlApp app = FirecrawlApp(api_key="fc-YOUR_API_KEY") # Scrape a website: scrape_status = app.scrape_url( 'https://firecrawl.dev', params={'formats': ['markdown', 'html']} ) print(scrape_status) # Crawl a website: crawl_status = app.crawl_url( 'https://firecrawl.dev', params={ 'limit': 100, 'scrapeOptions': {'formats': ['markdown', 'html']} }, poll_interval=30 ) print(crawl_status)
+```
+
+### Extracting structured data from a URL
+
+[](#extracting-structured-data-from-a-url)
+
+With LLM extraction, you can easily extract structured data from any URL. We support pydantic schemas to make it easier for you too. Here is how you to use it:
+
+```
+from firecrawl.firecrawl import FirecrawlApp app = FirecrawlApp(api_key="fc-YOUR_API_KEY") class ArticleSchema(BaseModel): title: str points: int by: str commentsURL: str class TopArticlesSchema(BaseModel): top: List[ArticleSchema] = Field(..., max_items=5, description="Top 5 stories") data = app.scrape_url('https://news.ycombinator.com', { 'formats': ['json'], 'jsonOptions': { 'schema': TopArticlesSchema.model_json_schema() } }) print(data["json"])
+```
+
+## Using the Node SDK
+
+[](#using-the-node-sdk)
+
+### Installation
+
+[](#installation)
+
+To install the Firecrawl Node SDK, you can use npm:
+
+```
+npm install @mendable/firecrawl-js
+```
+
+### Usage
+
+[](#usage)
+
+  1. Get an API key from [firecrawl.dev](https://firecrawl.dev)
+  2. Set the API key as an environment variable named `FIRECRAWL_API_KEY` or pass it as a parameter to the `FirecrawlApp` class.
+
+
+
+```
+import FirecrawlApp, { CrawlParams, CrawlStatusResponse } from '@mendable/firecrawl-js'; const app = new FirecrawlApp({apiKey: "fc-YOUR_API_KEY"}); // Scrape a website const scrapeResponse = await app.scrapeUrl('https://firecrawl.dev', { formats: ['markdown', 'html'], }); if (scrapeResponse) { console.log(scrapeResponse) } // Crawl a website const crawlResponse = await app.crawlUrl('https://firecrawl.dev', { limit: 100, scrapeOptions: { formats: ['markdown', 'html'], } } satisfies CrawlParams, true, 30) satisfies CrawlStatusResponse; if (crawlResponse) { console.log(crawlResponse) }
+```
+
+### Extracting structured data from a URL
+
+[](#extracting-structured-data-from-a-url-1)
+
+With LLM extraction, you can easily extract structured data from any URL. We support zod schema to make it easier for you too. Here is how to use it:
+
+```
+import FirecrawlApp from "@mendable/firecrawl-js"; import { z } from "zod"; const app = new FirecrawlApp({ apiKey: "fc-YOUR_API_KEY" }); // Define schema to extract contents into const schema = z.object({ top: z .array( z.object({ title: z.string(), points: z.number(), by: z.string(), commentsURL: z.string(), }) ) .length(5) .describe("Top 5 stories on Hacker News"), }); const scrapeResult = await app.scrapeUrl("https://news.ycombinator.com", { jsonOptions: { extractionSchema: schema }, }); console.log(scrapeResult.data["json"]);
+```
+
+## Open Source vs Cloud Offering
+
+[](#open-source-vs-cloud-offering)
+
+Firecrawl is open source available under the AGPL-3.0 license.
+
+To deliver the best possible product, we offer a hosted version of Firecrawl alongside our open-source offering. The cloud solution allows us to continuously innovate and maintain a high-quality, sustainable service for all users.
+
+Firecrawl Cloud is available at [firecrawl.dev](https://firecrawl.dev) and offers a range of features that are not available in the open source version:
+
+[![Open Source vs Cloud Offering](https://raw.githubusercontent.com/mendableai/firecrawl/main/img/open-source-cloud.png)](https://raw.githubusercontent.com/mendableai/firecrawl/main/img/open-source-cloud.png)
+
+## Contributing
+
+[](#contributing)
+
+We love contributions! Please read our [contributing guide](/mendableai/firecrawl/blob/main/CONTRIBUTING.md) before submitting a pull request. If you'd like to self-host, refer to the [self-hosting guide](/mendableai/firecrawl/blob/main/SELF_HOST.md).
+
+_It is the sole responsibility of the end users to respect websites' policies when scraping, searching and crawling with Firecrawl. Users are advised to adhere to the applicable privacy policies and terms of use of the websites prior to initiating any scraping activities. By default, Firecrawl respects the directives specified in the websites' robots.txt files when crawling. By utilizing Firecrawl, you expressly agree to comply with these conditions._
+
+## Contributors
+
+[](#contributors)
+
+[ ![contributors](https://camo.githubusercontent.com/746e466b28d4d8e4426db032e818f0d7cec125cca0a03fc64ff79a90fface14f/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6d656e6461626c6561692f66697265637261776c) ](https://github.com/mendableai/firecrawl/graphs/contributors)
+
+## License Disclaimer
+
+[](#license-disclaimer)
+
+This project is primarily licensed under the GNU Affero General Public License v3.0 (AGPL-3.0), as specified in the LICENSE file in the root directory of this repository. However, certain components of this project are licensed under the MIT License. Refer to the LICENSE files in these specific directories for details.
+
+Please note:
+
+  * The AGPL-3.0 license applies to all parts of the project unless otherwise specified.
+  * The SDKs and some UI components are licensed under the MIT License. Refer to the LICENSE files in these specific directories for details.
+  * When using or contributing to this project, ensure you comply with the appropriate license terms for the specific component you are working with.
+
+
+
+For more details on the licensing of specific components, please refer to the LICENSE files in the respective directories or contact the project maintainers.
+
+[ ↑ Back to Top ↑ ](#readme-top)
+
+## About
+
+🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. 
+
+[firecrawl.dev](https://firecrawl.dev "https://firecrawl.dev")
+
+### Topics
+
+[ markdown ](/topics/markdown "Topic: markdown") [ crawler ](/topics/crawler "Topic: crawler") [ data ](/topics/data "Topic: data") [ scraper ](/topics/scraper "Topic: scraper") [ ai ](/topics/ai "Topic: ai") [ html-to-markdown ](/topics/html-to-markdown "Topic: html-to-markdown") [ web-crawler ](/topics/web-crawler "Topic: web-crawler") [ scraping ](/topics/scraping "Topic: scraping") [ webscraping ](/topics/webscraping "Topic: webscraping") [ rag ](/topics/rag "Topic: rag") [ llm ](/topics/llm "Topic: llm") [ ai-scraping ](/topics/ai-scraping "Topic: ai-scraping")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ AGPL-3.0 license ](#AGPL-3.0-1-ov-file)
+
+[ Activity](/mendableai/firecrawl/activity)
+
+[ Custom properties](/mendableai/firecrawl/custom-properties)
+
+### Stars
+
+[ **22.2k** stars](/mendableai/firecrawl/stargazers)
+
+### Watchers
+
+[ **120** watching](/mendableai/firecrawl/watchers)
+
+### Forks
+
+[ **1.8k** forks](/mendableai/firecrawl/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmendableai%2Ffirecrawl&report=mendableai+%28user%29)
+
+##  [Releases 7](/mendableai/firecrawl/releases)
+
+[ Introducing /extract - v.1.4.0 Latest  Jan 20, 2025 ](/mendableai/firecrawl/releases/tag/v1.4.0)
+
+[+ 6 releases](/mendableai/firecrawl/releases)
+
+##  [Packages 0](/orgs/mendableai/packages?repo_name=firecrawl)
+
+No packages published 
+
+##  [Contributors 62](/mendableai/firecrawl/graphs/contributors)
+
+  * [ ![@nickscamara](https://avatars.githubusercontent.com/u/20311743?s=64&v=4) ](https://github.com/nickscamara)
+  * [ ![@rafaelsideguide](https://avatars.githubusercontent.com/u/150964962?s=64&v=4) ](https://github.com/rafaelsideguide)
+  * [ ![@mogery](https://avatars.githubusercontent.com/u/66118807?s=64&v=4) ](https://github.com/mogery)
+  * [ ![@ericciarla](https://avatars.githubusercontent.com/u/43451761?s=64&v=4) ](https://github.com/ericciarla)
+  * [ ![@calebpeffer](https://avatars.githubusercontent.com/u/44934913?s=64&v=4) ](https://github.com/calebpeffer)
+  * [ ![@mattjoyce](https://avatars.githubusercontent.com/u/278869?s=64&v=4) ](https://github.com/mattjoyce)
+  * [ ![@Sanix-Darker](https://avatars.githubusercontent.com/u/22576758?s=64&v=4) ](https://github.com/Sanix-Darker)
+  * [ ![@tomkosm](https://avatars.githubusercontent.com/u/10325851?s=64&v=4) ](https://github.com/tomkosm)
+  * [ ![@JakobStadlhuber](https://avatars.githubusercontent.com/u/20328243?s=64&v=4) ](https://github.com/JakobStadlhuber)
+  * [ ![@rishi-raj-jain](https://avatars.githubusercontent.com/u/46300090?s=64&v=4) ](https://github.com/rishi-raj-jain)
+  * [ ![@BexTuychiev](https://avatars.githubusercontent.com/u/56342698?s=64&v=4) ](https://github.com/BexTuychiev)
+  * [ ![@chand1012](https://avatars.githubusercontent.com/u/3521582?s=64&v=4) ](https://github.com/chand1012)
+  * [ ![@snippet](https://avatars.githubusercontent.com/u/233766?s=64&v=4) ](https://github.com/snippet)
+  * [ ![@szepeviktor](https://avatars.githubusercontent.com/u/952007?s=64&v=4) ](https://github.com/szepeviktor)
+
+
+
+[+ 48 contributors](/mendableai/firecrawl/graphs/contributors)
+
+## Languages
+
+  * [ TypeScript 91.0% ](/mendableai/firecrawl/search?l=typescript)
+  * [ Python 5.3% ](/mendableai/firecrawl/search?l=python)
+  * [ Rust 2.2% ](/mendableai/firecrawl/search?l=rust)
+  * [ Shell 0.6% ](/mendableai/firecrawl/search?l=shell)
+  * [ JavaScript 0.6% ](/mendableai/firecrawl/search?l=javascript)
+  * [ Dockerfile 0.2% ](/mendableai/firecrawl/search?l=dockerfile)
+  * Other 0.1%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

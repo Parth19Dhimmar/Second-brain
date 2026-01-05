@@ -1,0 +1,205 @@
+[](/)
+
+  * [Explore Courses](/courses/)
+  * [AI Newsletter](/the-batch/)
+    * [The Batch](/the-batch/)
+    * [Andrew's Letter](/the-batch/tag/letters/)
+    * [Data Points](/the-batch/tag/data-points/)
+    * [ML Research](/the-batch/tag/research/)
+    * [Blog](/blog/)
+  * [Community](/community/)
+    * [Forum](https://community.deeplearning.ai/)
+    * [Events](/events/)
+    * [Ambassadors](/ambassador/)
+    * [Ambassador Spotlight](/blog/category/ambassador-spotlight/)
+  * [Resources](/resources/)
+  * [Company](/about/)
+    * [About](/about/)
+    * [Careers](/careers/)
+    * [Contact](/contact/)
+
+[Start Learning](https://bit.ly/3RB9T8a)
+
+  * [Overview](#overview)
+  * [Course Outline](#course-outline)
+  * [Instructors](#instructors)
+
+
+
+![](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F07%2FAsset-2%402x.webp&w=3840&q=90)
+
+  * [All Courses](/courses/)
+  * [Short Courses](/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses)
+  * Large Language Models with Semantic Search
+
+
+
+Short CourseBeginner1 Hour 12 Minutes
+
+# Large Language Models with Semantic Search
+
+Instructors: Jay Alammar, Luis Serrano
+
+[![Cohere](https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/07/cohere.png)](https://cohere.com/)
+
+[Enroll for Free](https://learn.deeplearning.ai/large-language-models-semantic-search)
+
+  * [All Courses](/courses/)
+  * [Short Courses](/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses)
+  * Large Language Models with Semantic Search
+
+
+
+![](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F07%2FLarge-Language-Models-with-Semantic-Search.png&w=3840&q=75)
+
+  * Beginner
+  * 1 Hour 12 Minutes
+  * 7 Video Lessons
+  * 5 Code Examples
+  * Instructors: Jay Alammar, Luis Serrano
+  *     * ![Cohere](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F08%2FCohere.png&w=48&q=75)
+Cohere
+
+
+
+## What you'll learn
+
+  * Enhance keyword search using Cohere Rerank
+
+  * Use embeddings to leverage dense retrieval, a powerful NLP tool
+
+  * Evaluate your effectiveness for further optimization
+
+
+
+
+## About this course
+
+Keyword search has been a common method for search for many years. But for content-rich websites like news media sites or online shopping platforms, the keyword search capability can be limiting. Incorporating large language models (LLMs) into your search can significantly enhance the user experience by allowing them to ask questions and find information in a much easier way.
+
+This course teaches the techniques needed to leverage LLMs into search.
+
+Throughout the lessons, you’ll explore key concepts like dense retrieval, which elevates the relevance of retrieved information, leading to improved search results beyond traditional keyword search, and reranking, which injects the intelligence of LLMs into your search system, making it faster and more effective. 
+
+After completing the course, you will:
+
+  * Know how to implement basic keyword search, the underpinnings of many search systems before language models became accessible.
+  * Enhance keyword search with the rerank method, which ranks the best responses by relevance with the query.
+  * Implement dense retrieval through the use of embeddings, a powerful NLP tool, which uses the actual semantic meaning of the text to carry out search, and vastly improves results.
+  * Gain hands-on practice by working with large amounts of data and overcome challenges like varying search results and accuracy.
+  * Implement language model-powered search into your website or project.
+
+
+
+## Who should join?
+
+Anyone who has basic familiarity with Python and wants to get a deeper understanding of key technical foundations of LLMs, and learn to use semantic search.
+
+## Course Outline
+
+7 Lessons・5 Code Examples
+
+  * Introduction
+
+Video・4 mins
+
+  * Keyword Search
+
+Video with code examples・14 mins
+
+  * Embeddings
+
+Video with code examples・9 mins
+
+  * Dense Retrieval
+
+Video with code examples・20 mins
+
+  * ReRank
+
+Video with code examples・10 mins
+
+  * Generating Answers
+
+Video with code examples・12 mins
+
+  * Conclusion
+
+Video・1 min
+
+
+
+
+## Instructors
+
+![Jay Alammar](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F07%2F1604955719487.jpeg&w=256&q=75)
+
+### Jay Alammar
+
+Director and Engineering Fellow at Cohere
+
+  * [](https://www.linkedin.com/in/jalammar/)
+  * [](https://twitter.com/JayAlammar)
+  * [](https://jalammar.github.io/about/)
+
+
+
+![Luis Serrano](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F01%2FLuis_Serrano.png&w=256&q=75)
+
+### Luis Serrano
+
+Lead of Developer Relations at Cohere
+
+  * [](https://www.linkedin.com/in/luisgserrano/)
+  * [](https://twitter.com/SerranoAcademy)
+  * [](https://serrano.academy/)
+
+
+
+## Large Language Models with Semantic Search
+
+  * Beginner
+  * 1 Hour 12 Minutes
+  * 7 Video Lessons
+  * 5 Code Examples
+  * Instructors: Jay Alammar, Luis Serrano
+  *     * ![Cohere](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F08%2FCohere.png&w=48&q=75)
+Cohere
+
+
+
+[Enroll for Free](https://learn.deeplearning.ai/large-language-models-semantic-search)
+
+Course access is free for a limited time during the DeepLearning.AI learning platform beta!
+
+[Enroll for Free](https://learn.deeplearning.ai/large-language-models-semantic-search)
+
+## Want to learn more about Generative AI?
+
+Keep learning with updates on curated AI news, courses, events, as well as Andrew’s thoughts from DeepLearning.AI! 
+
+First name*
+
+Last name*
+
+Email*
+
+Where do you live?*
+
+Please SelectAfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandColombiaComorosCongo - BrazzavilleCongo - KinshasaCook IslandsCosta RicaCroatiaCubaCyprusCzech RepublicCôte d’IvoireDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuamGuatemalaGuineaGuinea-BissauGuyanaHaitiHondurasHong Kong SAR ChinaHungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacau SAR ChinaMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMauritaniaMauritiusMexicoMicronesiaMidway IslandsMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmar [Burma]NamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorth KoreaNorwayOmanPakistanPalauPanamaPapua New GuineaParaguayPeople's Democratic Republic of YemenPeruPhilippinesPolandPortugalPuerto RicoQatarRomaniaRussiaRwandaSaint BarthélemySaint Kitts and NevisSaint LuciaSaint MartinSaint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSaudi ArabiaSenegalSerbiaSerbia and MontenegroSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth KoreaSpainSri LankaSudanSurinameSwazilandSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsU.S. Minor Outlying IslandsU.S. Miscellaneous Pacific IslandsU.S. Virgin IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamYemenZambiaZimbabwe
+
+  * I want to get the latest news, courses, and workshops and events announcements*
+
+
+
+[Enroll for Free](https://learn.deeplearning.ai/large-language-models-semantic-search)
+
+  * [Courses](/courses/)
+  * [The Batch](/the-batch/)
+  * [Community](/community/)
+  * [Careers](/careers/)
+  * [About](/about/)
+
+
+
+[](https://www.facebook.com/1027125564106325)[](https://www.instagram.com/deeplearningai)[](http://twitter.com/deeplearningai)[](https://www.linkedin.com/company/18246783)[](https://www.youtube.com/c/Deeplearningai)

@@ -1,0 +1,980 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FSeleniumHQ%2Fselenium%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FSeleniumHQ%2Fselenium%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=SeleniumHQ%2Fselenium) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ SeleniumHQ ](/SeleniumHQ) / **[selenium](/SeleniumHQ/selenium) ** Public
+
+  * Sponsor
+
+#  Sponsor SeleniumHQ/selenium 
+
+  * [ Notifications ](/login?return_to=%2FSeleniumHQ%2Fselenium) You must be signed in to change notification settings
+  * [ Fork 8.3k ](/login?return_to=%2FSeleniumHQ%2Fselenium)
+  * [ Star  31.4k ](/login?return_to=%2FSeleniumHQ%2Fselenium)
+
+
+
+
+A browser automation framework and ecosystem. 
+
+[selenium.dev](https://selenium.dev "https://selenium.dev")
+
+### License
+
+[ Apache-2.0 license ](/SeleniumHQ/selenium/blob/trunk/LICENSE)
+
+[ 31.4k stars ](/SeleniumHQ/selenium/stargazers) [ 8.3k forks ](/SeleniumHQ/selenium/forks) [ Branches ](/SeleniumHQ/selenium/branches) [ Tags ](/SeleniumHQ/selenium/tags) [ Activity ](/SeleniumHQ/selenium/activity)
+
+[ Star  ](/login?return_to=%2FSeleniumHQ%2Fselenium)
+
+[ Notifications ](/login?return_to=%2FSeleniumHQ%2Fselenium) You must be signed in to change notification settings
+
+  * [ Code ](/SeleniumHQ/selenium)
+  * [ Issues 134 ](/SeleniumHQ/selenium/issues)
+  * [ Pull requests 72 ](/SeleniumHQ/selenium/pulls)
+  * [ Actions ](/SeleniumHQ/selenium/actions)
+  * [ Projects 1 ](/SeleniumHQ/selenium/projects)
+  * [ Wiki ](/SeleniumHQ/selenium/wiki)
+  * [ Security ](/SeleniumHQ/selenium/security)
+  * [ Insights ](/SeleniumHQ/selenium/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/SeleniumHQ/selenium)
+  * [ Issues  ](/SeleniumHQ/selenium/issues)
+  * [ Pull requests  ](/SeleniumHQ/selenium/pulls)
+  * [ Actions  ](/SeleniumHQ/selenium/actions)
+  * [ Projects  ](/SeleniumHQ/selenium/projects)
+  * [ Wiki  ](/SeleniumHQ/selenium/wiki)
+  * [ Security  ](/SeleniumHQ/selenium/security)
+  * [ Insights  ](/SeleniumHQ/selenium/pulse)
+
+
+
+# SeleniumHQ/selenium
+
+trunk
+
+[**83** Branches](/SeleniumHQ/selenium/branches)[**238** Tags](/SeleniumHQ/selenium/tags)
+
+[](/SeleniumHQ/selenium/branches)[](/SeleniumHQ/selenium/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![selenium-ci](https://avatars.githubusercontent.com/u/3331063?v=4&size=40)](/selenium-ci)[selenium-ci](/SeleniumHQ/selenium/commits?author=selenium-ci)[Update mirror info (Wed Jan 22 00:19:49 UTC 2025)](/SeleniumHQ/selenium/commit/bad5038a4096eb8229d8d6da27a0c87f9c1cd2f6)Jan 22, 2025[bad5038](/SeleniumHQ/selenium/commit/bad5038a4096eb8229d8d6da27a0c87f9c1cd2f6) · Jan 22, 2025
+
+## History
+
+[32,529 Commits](/SeleniumHQ/selenium/commits/trunk/)[](/SeleniumHQ/selenium/commits/trunk/)  
+[.devcontainer](/SeleniumHQ/selenium/tree/trunk/.devcontainer ".devcontainer")| [.devcontainer](/SeleniumHQ/selenium/tree/trunk/.devcontainer ".devcontainer")  
+[.github](/SeleniumHQ/selenium/tree/trunk/.github ".github")| [.github](/SeleniumHQ/selenium/tree/trunk/.github ".github")  
+[.idea](/SeleniumHQ/selenium/tree/trunk/.idea ".idea")| [.idea](/SeleniumHQ/selenium/tree/trunk/.idea ".idea")  
+[.tours](/SeleniumHQ/selenium/tree/trunk/.tours ".tours")| [.tours](/SeleniumHQ/selenium/tree/trunk/.tours ".tours")  
+[common](/SeleniumHQ/selenium/tree/trunk/common "common")| [common](/SeleniumHQ/selenium/tree/trunk/common "common")  
+[cpp](/SeleniumHQ/selenium/tree/trunk/cpp "cpp")| [cpp](/SeleniumHQ/selenium/tree/trunk/cpp "cpp")  
+[deploys/docker](/SeleniumHQ/selenium/tree/trunk/deploys/docker "This path skips through empty directories")| [deploys/docker](/SeleniumHQ/selenium/tree/trunk/deploys/docker "This path skips through empty directories")  
+[dotnet](/SeleniumHQ/selenium/tree/trunk/dotnet "dotnet")| [dotnet](/SeleniumHQ/selenium/tree/trunk/dotnet "dotnet")  
+[java](/SeleniumHQ/selenium/tree/trunk/java "java")| [java](/SeleniumHQ/selenium/tree/trunk/java "java")  
+[javascript](/SeleniumHQ/selenium/tree/trunk/javascript "javascript")| [javascript](/SeleniumHQ/selenium/tree/trunk/javascript "javascript")  
+[py](/SeleniumHQ/selenium/tree/trunk/py "py")| [py](/SeleniumHQ/selenium/tree/trunk/py "py")  
+[rake_tasks](/SeleniumHQ/selenium/tree/trunk/rake_tasks "rake_tasks")| [rake_tasks](/SeleniumHQ/selenium/tree/trunk/rake_tasks "rake_tasks")  
+[rb](/SeleniumHQ/selenium/tree/trunk/rb "rb")| [rb](/SeleniumHQ/selenium/tree/trunk/rb "rb")  
+[rust](/SeleniumHQ/selenium/tree/trunk/rust "rust")| [rust](/SeleniumHQ/selenium/tree/trunk/rust "rust")  
+[scripts](/SeleniumHQ/selenium/tree/trunk/scripts "scripts")| [scripts](/SeleniumHQ/selenium/tree/trunk/scripts "scripts")  
+[third_party](/SeleniumHQ/selenium/tree/trunk/third_party "third_party")| [third_party](/SeleniumHQ/selenium/tree/trunk/third_party "third_party")  
+[.OLD_AUTHORS](/SeleniumHQ/selenium/blob/trunk/.OLD_AUTHORS ".OLD_AUTHORS")| [.OLD_AUTHORS](/SeleniumHQ/selenium/blob/trunk/.OLD_AUTHORS ".OLD_AUTHORS")  
+[.bazelignore](/SeleniumHQ/selenium/blob/trunk/.bazelignore ".bazelignore")| [.bazelignore](/SeleniumHQ/selenium/blob/trunk/.bazelignore ".bazelignore")  
+[.bazelrc](/SeleniumHQ/selenium/blob/trunk/.bazelrc ".bazelrc")| [.bazelrc](/SeleniumHQ/selenium/blob/trunk/.bazelrc ".bazelrc")  
+[.bazelrc.remote](/SeleniumHQ/selenium/blob/trunk/.bazelrc.remote ".bazelrc.remote")| [.bazelrc.remote](/SeleniumHQ/selenium/blob/trunk/.bazelrc.remote ".bazelrc.remote")  
+[.bazelversion](/SeleniumHQ/selenium/blob/trunk/.bazelversion ".bazelversion")| [.bazelversion](/SeleniumHQ/selenium/blob/trunk/.bazelversion ".bazelversion")  
+[.editorconfig](/SeleniumHQ/selenium/blob/trunk/.editorconfig ".editorconfig")| [.editorconfig](/SeleniumHQ/selenium/blob/trunk/.editorconfig ".editorconfig")  
+[.git-fixfiles](/SeleniumHQ/selenium/blob/trunk/.git-fixfiles ".git-fixfiles")| [.git-fixfiles](/SeleniumHQ/selenium/blob/trunk/.git-fixfiles ".git-fixfiles")  
+[.gitattributes](/SeleniumHQ/selenium/blob/trunk/.gitattributes ".gitattributes")| [.gitattributes](/SeleniumHQ/selenium/blob/trunk/.gitattributes ".gitattributes")  
+[.gitignore](/SeleniumHQ/selenium/blob/trunk/.gitignore ".gitignore")| [.gitignore](/SeleniumHQ/selenium/blob/trunk/.gitignore ".gitignore")  
+[.gitpod.yml](/SeleniumHQ/selenium/blob/trunk/.gitpod.yml ".gitpod.yml")| [.gitpod.yml](/SeleniumHQ/selenium/blob/trunk/.gitpod.yml ".gitpod.yml")  
+[.mailmap](/SeleniumHQ/selenium/blob/trunk/.mailmap ".mailmap")| [.mailmap](/SeleniumHQ/selenium/blob/trunk/.mailmap ".mailmap")  
+[.npmrc](/SeleniumHQ/selenium/blob/trunk/.npmrc ".npmrc")| [.npmrc](/SeleniumHQ/selenium/blob/trunk/.npmrc ".npmrc")  
+[.readthedocs.yaml](/SeleniumHQ/selenium/blob/trunk/.readthedocs.yaml ".readthedocs.yaml")| [.readthedocs.yaml](/SeleniumHQ/selenium/blob/trunk/.readthedocs.yaml ".readthedocs.yaml")  
+[.skipped-tests](/SeleniumHQ/selenium/blob/trunk/.skipped-tests ".skipped-tests")| [.skipped-tests](/SeleniumHQ/selenium/blob/trunk/.skipped-tests ".skipped-tests")  
+[AUTHORS](/SeleniumHQ/selenium/blob/trunk/AUTHORS "AUTHORS")| [AUTHORS](/SeleniumHQ/selenium/blob/trunk/AUTHORS "AUTHORS")  
+[BUILD.bazel](/SeleniumHQ/selenium/blob/trunk/BUILD.bazel "BUILD.bazel")| [BUILD.bazel](/SeleniumHQ/selenium/blob/trunk/BUILD.bazel "BUILD.bazel")  
+[CONTRIBUTING.md](/SeleniumHQ/selenium/blob/trunk/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/SeleniumHQ/selenium/blob/trunk/CONTRIBUTING.md "CONTRIBUTING.md")  
+[LICENSE](/SeleniumHQ/selenium/blob/trunk/LICENSE "LICENSE")| [LICENSE](/SeleniumHQ/selenium/blob/trunk/LICENSE "LICENSE")  
+[MODULE.bazel](/SeleniumHQ/selenium/blob/trunk/MODULE.bazel "MODULE.bazel")| [MODULE.bazel](/SeleniumHQ/selenium/blob/trunk/MODULE.bazel "MODULE.bazel")  
+[NOTICE](/SeleniumHQ/selenium/blob/trunk/NOTICE "NOTICE")| [NOTICE](/SeleniumHQ/selenium/blob/trunk/NOTICE "NOTICE")  
+[README.md](/SeleniumHQ/selenium/blob/trunk/README.md "README.md")| [README.md](/SeleniumHQ/selenium/blob/trunk/README.md "README.md")  
+[Rakefile](/SeleniumHQ/selenium/blob/trunk/Rakefile "Rakefile")| [Rakefile](/SeleniumHQ/selenium/blob/trunk/Rakefile "Rakefile")  
+[WORKSPACE](/SeleniumHQ/selenium/blob/trunk/WORKSPACE "WORKSPACE")| [WORKSPACE](/SeleniumHQ/selenium/blob/trunk/WORKSPACE "WORKSPACE")  
+[copyiedriver.bat](/SeleniumHQ/selenium/blob/trunk/copyiedriver.bat "copyiedriver.bat")| [copyiedriver.bat](/SeleniumHQ/selenium/blob/trunk/copyiedriver.bat "copyiedriver.bat")  
+[generate_web_code.sh](/SeleniumHQ/selenium/blob/trunk/generate_web_code.sh "generate_web_code.sh")| [generate_web_code.sh](/SeleniumHQ/selenium/blob/trunk/generate_web_code.sh "generate_web_code.sh")  
+[go](/SeleniumHQ/selenium/blob/trunk/go "go")| [go](/SeleniumHQ/selenium/blob/trunk/go "go")  
+[go.bat](/SeleniumHQ/selenium/blob/trunk/go.bat "go.bat")| [go.bat](/SeleniumHQ/selenium/blob/trunk/go.bat "go.bat")  
+[package.json](/SeleniumHQ/selenium/blob/trunk/package.json "package.json")| [package.json](/SeleniumHQ/selenium/blob/trunk/package.json "package.json")  
+[pnpm-lock.yaml](/SeleniumHQ/selenium/blob/trunk/pnpm-lock.yaml "pnpm-lock.yaml")| [pnpm-lock.yaml](/SeleniumHQ/selenium/blob/trunk/pnpm-lock.yaml "pnpm-lock.yaml")  
+[pnpm-workspace.yaml](/SeleniumHQ/selenium/blob/trunk/pnpm-workspace.yaml "pnpm-workspace.yaml")| [pnpm-workspace.yaml](/SeleniumHQ/selenium/blob/trunk/pnpm-workspace.yaml "pnpm-workspace.yaml")  
+[renovate.json](/SeleniumHQ/selenium/blob/trunk/renovate.json "renovate.json")| [renovate.json](/SeleniumHQ/selenium/blob/trunk/renovate.json "renovate.json")  
+[selenium.iml](/SeleniumHQ/selenium/blob/trunk/selenium.iml "selenium.iml")| [selenium.iml](/SeleniumHQ/selenium/blob/trunk/selenium.iml "selenium.iml")  
+[sonar-project.properties](/SeleniumHQ/selenium/blob/trunk/sonar-project.properties "sonar-project.properties")| [sonar-project.properties](/SeleniumHQ/selenium/blob/trunk/sonar-project.properties "sonar-project.properties")  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [Apache-2.0 license](#)
+  * [Security](#)
+
+
+
+# Selenium
+
+[](#selenium)
+
+[![CI](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml/badge.svg?branch=trunk&event=schedule)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml) [![CI - RBE](https://github.com/SeleniumHQ/selenium/actions/workflows/ci-rbe.yml/badge.svg?branch=trunk&event=schedule)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci-rbe.yml) [![Releases downloads](https://camo.githubusercontent.com/dad8fb9dc5482c583e85e46c04fcf65c02aaebc59a55bcbdc9b66204b13c0302/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f53656c656e69756d48512f73656c656e69756d2f746f74616c2e737667)](https://github.com/SeleniumHQ/selenium/releases)
+
+[![Selenium Logo](/SeleniumHQ/selenium/raw/trunk/common/images/selenium_logo_mark_green.svg)](https://selenium.dev)
+
+Selenium is an umbrella project encapsulating a variety of tools and libraries enabling web browser automation. Selenium specifically provides an infrastructure for the [W3C WebDriver specification](https://w3c.github.io/webdriver/) — a platform and language-neutral coding interface compatible with all major web browsers.
+
+The project is made possible by volunteer contributors who've generously donated thousands of hours in code development and upkeep.
+
+Selenium's source code is made available under the [Apache 2.0 license](https://github.com/SeleniumHQ/selenium/blob/trunk/LICENSE).
+
+This README is for developers interested in contributing to the project. For people looking to get started using Selenium, please check out our [User Manual](https://selenium.dev/documentation/) for detailed examples and descriptions, and if you get stuck, there are several ways to [Get Help](https://www.selenium.dev/support/).
+
+## Contributing
+
+[](#contributing)
+
+Please read [CONTRIBUTING.md](https://github.com/SeleniumHQ/selenium/blob/trunk/CONTRIBUTING.md) before submitting your pull requests.
+
+## Installing
+
+[](#installing)
+
+These are the requirements to create your own local dev environment to contribute to Selenium.
+
+### All Platforms
+
+[](#all-platforms)
+
+  * [Bazelisk](https://github.com/bazelbuild/bazelisk), a Bazel wrapper that automatically downloads the version of Bazel specified in `.bazelversion` file and transparently passes through all command-line arguments to the real Bazel binary.
+  * Java JDK version 17 or greater (e.g., [Java 17 Temurin](https://adoptium.net/temurin/releases/?version=17)) 
+    * Set `JAVA_HOME` environment variable to location of Java executable (the JDK not the JRE)
+    * To test this, try running the command `javac`. This command won't exist if you only have the JRE installed. If you're met with a list of command-line options, you're referencing the JDK properly.
+
+
+
+### MacOS
+
+[](#macos)
+
+  * Xcode including the command-line tools. Install the latest version using: `xcode-select --install`
+  * Rosetta for Apple Silicon Macs. Add `build --host_platform=//:rosetta` to the `.bazelrc.local` file. We are working to make sure this isn't required in the long run.
+
+
+
+### Windows
+
+[](#windows)
+
+Several years ago [Jim Evans](https://www.linkedin.com/in/jimevansmusic/) published a great article on [Setting Up a Windows Development Environment for the Selenium .NET Language Bindings](https://jimevansmusic.blogspot.com/2020/04/setting-up-windows-development.html); This article is out of date, but it includes more detailed descriptions and screenshots that some people might find useful.
+
+Click to see Current Windows Setup Requirements
+
+#### Option 1: Automatic Installation from Scratch
+
+[](#option-1-automatic-installation-from-scratch)
+
+This script will ensure a complete ready to execute developer environment. (nothing is installed or set that is already present unless otherwise prompted)
+
+  1. Open Powershell as an Administrator
+  2. Execute: `Set-ExecutionPolicy Bypass -Scope Process -Force` to allow running the script in the process
+  3. Navigate to the directory you want to clone Selenium in, or the parent directory of an already cloned Selenium repo
+  4. Download and execute this script in the powershell terminal: [scripts/dev-environment-setup.ps1]`
+
+
+
+#### Option 2: Manual Installation
+
+[](#option-2-manual-installation)
+
+  1. Allow running scripts in Selenium in general: 
+
+```
+`Set-ExecutionPolicy -ExecutionPolicy RemoteSigned `
+```
+
+  2. Enable Developer Mode: 
+
+```
+`reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowDevelopmentWithoutDevLicense" /d "1" `
+```
+
+  3. Install [MSYS2](https://www.msys2.org/), which is an alternative shell environment that provides Unix-like commands 
+     * Add bin directory to `PATH` environment variable (e.g., `"C:\tools\msys64\usr\bin"`)
+     * Add `bash.exe` location as the `BAZEL_SH` environment variable (e.g., `"C:\tools\msys64\usr\bin\bash.exe"`)
+  4. Install the latest version of [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
+     * Use the visual studio installer to modify and add the "Desktop development with C++" Workload
+     * Add Visual C++ build tools installation directory location to `BAZEL_VC` environment variable (e.g. `"C:\Program Files\Microsoft Visual Studio\2022\Community\VC"`)
+     * Add Visual C++ Build tools version to `BAZEL_VC_FULL_VERSION` environment variable (this can be discovered from the directory name in `"$BAZEL_VC\Tools\MSVC\<BAZEL_VC_FULL_VERSION>"`)
+  5. Add support for long file names (bazel has a lot of nested directories that can exceed default limits in Windows) 
+     * Enable Long Paths support with these 2 registry commands:
+
+```
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor" /t REG_DWORD /f /v "DisableUNCCheck" /d "1" reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem" /t REG_DWORD /f /v "LongPathsEnabled" /d "1"
+```
+
+     * Allow Bazel to create short name versions of long file paths: `fsutil 8dot3name set 0`
+     * Set bazel output to `C:/tmp` instead of nested inside project directory: 
+       * Create a file `selenium/.bazelrc.windows.local`
+       * Add "startup --output_user_root=C:/tmp" to the file
+
+
+
+### Alternative Dev Environments
+
+[](#alternative-dev-environments)
+
+If you want to contribute to the project, but do not want to set up your own local dev environment, there are two alternatives available.
+
+#### Using GitPod
+
+[](#using-gitpod)
+
+Rather than creating your own local dev environment, GitPod provides a ready to use environment for you.
+
+[![Open in Gitpod](https://camo.githubusercontent.com/b04f5659467d23b5109ba935a40c00decd264eea25c22d50a118021349eea94f/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667)](https://gitpod.io/#https://github.com/SeleniumHQ/selenium)
+
+#### Using Dev Container
+
+[](#using-dev-container)
+
+As an alternative you can build a [Dev Container](https://containers.dev/) - basically a docker container - suitable for building and testing Selenium using the devcontainer.json in the [.devcontainer](/SeleniumHQ/selenium/blob/trunk/.devcontainer/devcontainer.json) directory. Supporting IDEs like VS Code or IntelliJ IDEA should point you to how such a container can be created.
+
+#### Using Docker Image
+
+[](#using-docker-image)
+
+You can also build a Docker image suitable for building and testing Selenium using the Dockerfile in the [dev image](/SeleniumHQ/selenium/blob/trunk/scripts/dev-image/Dockerfile) directory.
+
+## Building
+
+[](#building)
+
+Selenium is built using a common build tool called [Bazel](https://bazel.build/), to allow us to easily manage dependency downloads, generate required binaries, build and release packages, and execute tests; all in a fast, efficient manner. For a more detailed discussion, read Simon Stewart's article on [Building Selenium](https://www.selenium.dev/blog/2023/building-selenium/)
+
+Often we wrap Bazel commands with our custom [Rake](http://rake.rubyforge.org/) wrapper. These are run with the `./go` command.
+
+The common Bazel commands are:
+
+  * `bazel build` — evaluates dependencies, compiles source files and generates output files for the specified target. It's used to create executable binaries, libraries, or other artifacts.
+  * `bazel run` — builds the target and then executes it. It's typically used for targets that produce executable binaries.
+  * `bazel test` — builds and runs the target in a context with additional testing functionality
+  * `bazel query` — identifies available targets for the provided path.
+
+
+
+Each module that can be built is defined in a `BUILD.bazel` file. To execute the module you refer to it starting with a `//`, then include the relative path to the file that defines it, then `:`, then the name of the target. For example, the target to build the Grid is named `executable-grid` and it is defined in the `'selenium/java/src/org/openqa/selenium/grid/BAZEL.build'` file. So to build the grid you would run: `bazel build //java/src/org/openqa/selenium/grid:executable-grid`.
+
+The Bazel documentation has a [handy guide](https://bazel.build/run/build#specifying-build-targets) for various shortcuts and all the ways to build multiple targets, which Selenium makes frequent use of.
+
+To build everything for a given language:
+
+```
+bazel build //<language>/...
+```
+
+To build just the grid there is an alias name to use (the log will show where the output jar is located):
+
+```
+bazel build grid
+```
+
+To make things more simple, building each of the bindings is available with this `./go` command
+
+```
+./go <language>:build
+```
+
+## Developing
+
+[](#developing)
+
+### Java
+
+[](#java)
+
+#### IntelliJ
+
+[](#intellij)
+
+Most of the team uses Intellij for their day-to-day editing. If you're working in IntelliJ, then we highly recommend installing the [Bazel IJ plugin](https://plugins.jetbrains.com/plugin/8609-bazel) which is documented on [its own site](https://plugins.jetbrains.com/plugin/8609-bazel).
+
+To use Selenium with the IntelliJ Bazel plugin, import the repository as a Bazel project, and select the project view file from the [scripts](/SeleniumHQ/selenium/blob/trunk/scripts) directory. `ij.bazelproject` for Mac/Linux and `ij-win.bazelproject` for Windows.
+
+#### Linting
+
+[](#linting)
+
+We also use Google Java Format for linting, so using the Google Java Formatter Plugin is useful; there are a few steps to get it working, so read their [configuration documentation](https://github.com/google/google-java-format/blob/master/README.md#intellij-jre-config). There is also an auto-formatting script that can be run: `./scripts/format.sh`
+
+#### Local Installation
+
+[](#local-installation)
+
+While Selenium is not built with Maven, you can build and install the Selenium pieces for Maven to use locally by deploying to your local maven repository (`~/.m2/repository`), using:
+
+```
+./go java:install
+```
+
+#### Updating Dependencies
+
+[](#updating-dependencies)
+
+Dependencies are defined in the file [maven_deps.bzl](https://github.com/SeleniumHQ/selenium/blob/trunk/java/maven_deps.bzl). To automatically update and pin new dependencies, run:
+
+```
+./go java:update
+```
+
+### Python
+
+[](#python)
+
+You can run Python code locally by updating generated files in the python directory using:
+
+```
+./go py:update
+```
+
+To install Selenium locally based on a specific commit, you can use:
+
+```
+./go py:install
+```
+
+### Ruby
+
+[](#ruby)
+
+Instead of using `irb`, you can create an interactive REPL with all gems loaded using: `bazel run //rb:console`
+
+If you want to debug code, you can do it via [`debug`](https://github.com/ruby/debug) gem:
+
+  1. Add `binding.break` to the code where you want the debugger to start.
+  2. Run tests with `ruby_debug` configuration: `bazel test --config ruby_debug <test>`.
+  3. When debugger starts, run the following in a separate terminal to connect to debugger:
+
+
+
+```
+bazel-selenium/external/bundle/bin/rdbg -A
+```
+
+If you want to use [RubyMine](https://www.jetbrains.com/ruby/) for development, you can configure it use Bazel artifacts:
+
+  1. Open `rb/` as a main project directory.
+  2. Run `bundle exec rake update` as necessary to create up-to-date artifacts. If this does not work, run `./go rb:update` from the `selenium` (parent) directory.
+  3. In `Settings / Languages & Frameworks / Ruby SDK and Gems` add new `Interpreter` pointing to `../bazel-selenium/external/rules_ruby_dist/dist/bin/ruby`.
+  4. You should now be able to run and debug any spec. It uses Chrome by default, but you can alter it using environment variables secified in [Ruby Testing](#ruby-2) section below.
+
+
+
+### Rust
+
+[](#rust)
+
+To keep `Carbo.Bazel.lock` synchronized with `Cargo.lock`, run:
+
+```
+CARGO_BAZEL_REPIN=true bazel sync --only=crates
+```
+
+## Testing
+
+[](#testing)
+
+There are a number of bazel configurations specific for testing.
+
+### Common Options Examples
+
+[](#common-options-examples)
+
+Here are examples of arguments we make use of in testing the Selenium code:
+
+  * `--pin_browsers` - run specific browser versions defined in the build (versions are updated regularly)
+  * `--headless` - run browsers in headless mode (supported be Chrome, Edge and Firefox)
+  * `--flaky_test_attempts 3` - re-run failed tests up to 3 times
+  * `--local_test_jobs 1` - control parallelism of tests
+  * `--cache_test_results=no`, `-t-` - disable caching of test results and re-runs all of them
+  * `--test_output all` - print all output from the tests, not just errors
+  * `--test_output streamed` - run all tests one by one and print its output immediately
+  * `--test_env FOO=bar` - pass extra environment variable to test process
+  * `--run_under="xvfb-run -a"` - prefix to insert before the execution
+
+
+
+### Filtering
+
+[](#filtering)
+
+Selenium tests can be filtered by size:
+
+  * small — typically unit tests where no browser is opened
+  * large — typically tests that actually drive a browser
+  * medium — tests that are more involved than simple unit tests, but not fully driving a browser
+
+
+
+These can be filtered using the `test_size_filters` argument like this:
+
+```
+bazel test //<language>/... --test_size_filters=small
+```
+
+Tests can also be filtered by tag like:
+
+```
+bazel test //<language>/... --test_tag_filters=this,-not-this
+```
+
+### Java
+
+[](#java-1)
+
+Click to see Java Test Commands
+
+To run unit tests:
+
+```
+bazel test //java/... --test_size_filters=small
+```
+
+To run integration tests:
+
+```
+bazel test //java/... --test_size_filters=medium
+```
+
+To run browser tests:
+
+```
+bazel test //java/... --test_size_filters=large --test_tag_filters=<browser>
+```
+
+To run a specific test:
+
+```
+bazel test //java/test/org/openqa/selenium/chrome:ChromeDriverFunctionalTest
+```
+
+### JavaScript
+
+[](#javascript)
+
+Click to see JavaScript Test Commands
+
+To run the tests run:
+
+```
+bazel test //javascript/node/selenium-webdriver:tests
+```
+
+You can use `--test_env` to pass in the browser name as `SELENIUM_BROWSER`.
+
+```
+bazel test //javascript/node/selenium-webdriver:tests --test_env=SELENIUM_BROWSER=firefox
+```
+
+### Python
+
+[](#python-1)
+
+Click to see Python Test Commands
+
+Run unit tests with:
+
+```
+bazel test //py:unit
+```
+
+To run common tests with a specific browser:
+
+```
+bazel test //py:common-<browsername>
+```
+
+To run common tests with a specific browser (include BiDi tests):
+
+```
+bazel test //py:common-<browsername>-bidi
+```
+
+To run tests with a specific browser:
+
+```
+bazel test //py:test-<browsername>
+```
+
+To run all Python tests:
+
+```
+bazel test //py:all
+```
+
+### Ruby
+
+[](#ruby-1)
+
+Click to see Ruby Test Commands
+
+Test targets:
+
+Command | Description  
+---|---  
+`bazel test //rb/...` | Run unit, all integration tests and lint  
+`bazel test //rb:lint` | Run RuboCop linter  
+`bazel test //rb/spec/...` | Run unit and integration tests for all browsers  
+`bazel test //rb/spec/... --test_size_filters small` | Run unit tests  
+`bazel test //rb/spec/unit/...` | Run unit tests  
+`bazel test //rb/spec/... --test_size_filters large` | Run integration tests for all browsers  
+`bazel test //rb/spec/integration/...` | Run integration tests for all browsers  
+`bazel test //rb/spec/integration/... --test_tag_filters firefox` | Run integration tests for local Firefox only  
+`bazel test //rb/spec/integration/... --test_tag_filters firefox-remote` | Run integration tests for remote Firefox only  
+`bazel test //rb/spec/integration/... --test_tag_filters firefox,firefox-remote` | Run integration tests for local and remote Firefox  
+  
+Ruby test targets have the same name as the spec file with `_spec.rb` removed, so you can run them individually. Integration tests targets also have a browser and remote suffix to control which browser to pick and whether to use Grid.
+
+Test file | Test target  
+---|---  
+`rb/spec/unit/selenium/webdriver/proxy_spec.rb` | `//rb/spec/unit/selenium/webdriver:proxy`  
+`rb/spec/integration/selenium/webdriver/driver_spec.rb` | `//rb/spec/integration/selenium/webdriver:driver-chrome`  
+`rb/spec/integration/selenium/webdriver/driver_spec.rb` | `//rb/spec/integration/selenium/webdriver:driver-chrome-remote`  
+`rb/spec/integration/selenium/webdriver/driver_spec.rb` | `//rb/spec/integration/selenium/webdriver:driver-firefox`  
+`rb/spec/integration/selenium/webdriver/driver_spec.rb` | `//rb/spec/integration/selenium/webdriver:driver-firefox-remote`  
+  
+Supported browsers:
+
+  * `chrome`
+  * `edge`
+  * `firefox`
+  * `firefox-beta`
+  * `ie`
+  * `safari`
+  * `safari-preview`
+
+
+
+In addition to the [Common Options Examples](#common-options-examples), here are some additional Ruby specific ones:
+
+  * `--test_arg "-eTimeouts"` - test only specs which name include "Timeouts"
+  * `--test_arg "<any other RSpec argument>"` - pass any extra RSpec arguments (see `bazel run @bundle//bin:rspec -- --help`)
+
+
+
+Supported environment variables for use with `--test_env`:
+
+  * `WD_SPEC_DRIVER` - the driver to test; either the browser name or 'remote' (gets set by Bazel)
+  * `WD_REMOTE_BROWSER` - when `WD_SPEC_DRIVER` is `remote`; the name of the browser to test (gets set by Bazel)
+  * `WD_REMOTE_URL` - URL of an already running server to use for remote tests
+  * `DOWNLOAD_SERVER` - when `WD_REMOTE_URL` not set; whether to download and use most recently released server version for remote tests
+  * `DEBUG` - turns on verbose debugging
+  * `HEADLESS` - for chrome, edge and firefox; runs tests in headless mode
+  * `DISABLE_BUILD_CHECK` - for chrome and edge; whether to ignore driver and browser version mismatches (allows testing Canary builds)
+  * `CHROME_BINARY` - path to test specific Chrome browser
+  * `CHROMEDRIVER_BINARY` - path to test specific ChromeDriver
+  * `EDGE_BINARY` - path to test specific Edge browser
+  * `MSEDGEDRIVER_BINARY` - path to test specific msedgedriver
+  * `FIREFOX_BINARY` - path to test specific Firefox browser
+  * `GECKODRIVER_BINARY` - path to test specific GeckoDriver
+
+
+
+To run with a specific version of Ruby you can change the version in `rb/.ruby-version` or from command line:
+
+```
+echo '<X.Y.Z>' > rb/.ruby-version
+```
+
+### .NET
+
+[](#net)
+
+Click to see .NET Test Commands
+
+.NET tests currently only work with pinned browsers, so make sure to include that.
+
+Run all tests with:
+
+```
+bazel test //dotnet/test/common:AllTests --pin_browsers=true
+```
+
+You can run specific tests by specifying the class name:
+
+```
+bazel test //dotnet/test/common:ElementFindingTest --pin_browsers=true
+```
+
+If the module supports multiple browsers:
+
+```
+bazel test //dotnet/test/common:ElementFindingTest-edge --pin_browsers=true
+```
+
+### Rust
+
+[](#rust-1)
+
+Click to see Rust Test Commands
+
+Rust tests are run with:
+
+```
+bazel test //rust/...
+```
+
+### Linux
+
+[](#linux)
+
+Click to see Linux Testing Requirements
+
+By default, Bazel runs these tests in your current X-server UI. If you prefer, you can alternatively run them in a virtual or nested X-server.
+
+  1. Run the X server `Xvfb :99` or `Xnest :99`
+  2. Run a window manager, for example, `DISPLAY=:99 jwm`
+  3. Run the tests you are interested in:
+
+
+
+```
+bazel test --test_env=DISPLAY=:99 //java/... --test_tag_filters=chrome
+```
+
+An easy way to run tests in a virtual X-server is to use Bazel's `--run_under` functionality:
+
+```
+`bazel test --run_under="xvfb-run -a" //java/... `
+```
+
+## Documenting
+
+[](#documenting)
+
+API documentation can be found here:
+
+  * [C#](https://seleniumhq.github.io/selenium/docs/api/dotnet/)
+  * [JavaScript](https://seleniumhq.github.io/selenium/docs/api/javascript/)
+  * [Java](https://seleniumhq.github.io/selenium/docs/api/java/index.html)
+  * [Python](https://seleniumhq.github.io/selenium/docs/api/py/)
+  * [Ruby](https://seleniumhq.github.io/selenium/docs/api/rb/)
+
+
+
+To update API documentation for a specific language: `./go <language>:docs`
+
+To update all documentation: `./go all:docs`
+
+Note that JavaScript generation is [currently broken](https://github.com/SeleniumHQ/selenium/issues/10185).
+
+## Releasing
+
+[](#releasing)
+
+The full process for doing a release can be found in [the wiki](https://github.com/SeleniumHQ/selenium/wiki/Releasing-Selenium)
+
+Releasing is a combination of building and publishing, which often requires coordination of multiple executions and additional processing. As discussed in the [Building](#building) section, we use Rake tasks with the `./go` command for these things. These `./go` commands include the `--stamp` argument to provide necessary information about the constructed asset.
+
+You can build and release everything with:
+
+```
+./go all:release
+```
+
+To build and release a specific language:
+
+```
+./go <language>:release
+```
+
+If you have access to the Selenium EngFlow repository, you can have the assets built remotely and downloaded locally using:
+
+```
+./go all:release['--config', 'release']
+```
+
+## About
+
+A browser automation framework and ecosystem. 
+
+[selenium.dev](https://selenium.dev "https://selenium.dev")
+
+### Topics
+
+[ javascript ](/topics/javascript "Topic: javascript") [ ruby ](/topics/ruby "Topic: ruby") [ python ](/topics/python "Topic: python") [ java ](/topics/java "Topic: java") [ webdriver ](/topics/webdriver "Topic: webdriver") [ dotnet ](/topics/dotnet "Topic: dotnet") [ selenium ](/topics/selenium "Topic: selenium")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/SeleniumHQ/selenium/activity)
+
+[ Custom properties](/SeleniumHQ/selenium/custom-properties)
+
+### Stars
+
+[ **31.4k** stars](/SeleniumHQ/selenium/stargazers)
+
+### Watchers
+
+[ **1.3k** watching](/SeleniumHQ/selenium/watchers)
+
+### Forks
+
+[ **8.3k** forks](/SeleniumHQ/selenium/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FSeleniumHQ%2Fselenium&report=SeleniumHQ+%28user%29)
+
+##  [Releases 101](/SeleniumHQ/selenium/releases)
+
+[ Selenium 4.28.0 Latest  Jan 20, 2025 ](/SeleniumHQ/selenium/releases/tag/selenium-4.28.0)
+
+[+ 100 releases](/SeleniumHQ/selenium/releases)
+
+## Sponsor this project
+
+  * [ ![@SeleniumHQ](https://avatars.githubusercontent.com/u/983927?s=64&v=4) ](/SeleniumHQ) [ **SeleniumHQ** Selenium ](/SeleniumHQ) [ ](/sponsors/SeleniumHQ)
+
+
+  * ![open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg) [opencollective.com/**selenium**](https://opencollective.com/selenium)
+
+
+
+[Learn more about GitHub Sponsors](/sponsors)
+
+##  [Packages 5](/orgs/SeleniumHQ/packages?repo_name=selenium)
+
+  * [ selenium-webdriver ](/orgs/SeleniumHQ/packages/rubygems/package/selenium-webdriver)
+  * [ Selenium.Support ](/orgs/SeleniumHQ/packages/nuget/package/Selenium.Support)
+  * [ Selenium.WebDriver ](/orgs/SeleniumHQ/packages/nuget/package/Selenium.WebDriver)
+
+
+
+[+ 2 packages](/orgs/SeleniumHQ/packages?repo_name=selenium)
+
+##  [Used by 310k](/SeleniumHQ/selenium/network/dependents)
+
+[
+
+  * ![@shivam0912](https://avatars.githubusercontent.com/u/46054488?s=64&v=4)
+  * ![@olamideog](https://avatars.githubusercontent.com/u/18674062?s=64&v=4)
+  * ![@romulolimasilva](https://avatars.githubusercontent.com/u/84084234?s=64&v=4)
+  * ![@shAwmitrAcse134582](https://avatars.githubusercontent.com/u/69730895?s=64&v=4)
+  * ![@bhdang311003](https://avatars.githubusercontent.com/u/114203625?s=64&v=4)
+  * ![@steve-ongera](https://avatars.githubusercontent.com/u/109411930?s=64&v=4)
+  * ![@franciscogrossi](https://avatars.githubusercontent.com/u/124843901?s=64&v=4)
+  * ![@GabSengel](https://avatars.githubusercontent.com/u/158059091?s=64&v=4)
+
++ 309,909  ](/SeleniumHQ/selenium/network/dependents)
+
+##  [Contributors 766](/SeleniumHQ/selenium/graphs/contributors)
+
+  * [ ![@shs96c](https://avatars.githubusercontent.com/u/28229?s=64&v=4) ](https://github.com/shs96c)
+  * [ ![@barancev](https://avatars.githubusercontent.com/u/617090?s=64&v=4) ](https://github.com/barancev)
+  * [ ![@jimevans](https://avatars.githubusercontent.com/u/352840?s=64&v=4) ](https://github.com/jimevans)
+  * [ ![@diemol](https://avatars.githubusercontent.com/u/5992658?s=64&v=4) ](https://github.com/diemol)
+  * [ ![@titusfortner](https://avatars.githubusercontent.com/u/777185?s=64&v=4) ](https://github.com/titusfortner)
+  * [ ![@jleyba](https://avatars.githubusercontent.com/u/254985?s=64&v=4) ](https://github.com/jleyba)
+  * [ ![@AutomatedTester](https://avatars.githubusercontent.com/u/128518?s=64&v=4) ](https://github.com/AutomatedTester)
+  * [ ![@jarib](https://avatars.githubusercontent.com/u/572?s=64&v=4) ](https://github.com/jarib)
+  * [ ![@dfabulich](https://avatars.githubusercontent.com/u/96150?s=64&v=4) ](https://github.com/dfabulich)
+  * [ ![@illicitonion](https://avatars.githubusercontent.com/u/1131704?s=64&v=4) ](https://github.com/illicitonion)
+  * [ ![@p0deje](https://avatars.githubusercontent.com/u/665846?s=64&v=4) ](https://github.com/p0deje)
+  * [ ![@lukeis](https://avatars.githubusercontent.com/u/926454?s=64&v=4) ](https://github.com/lukeis)
+  * [ ![@pujagani](https://avatars.githubusercontent.com/u/10705590?s=64&v=4) ](https://github.com/pujagani)
+  * [ ![@eranmes](https://avatars.githubusercontent.com/u/1072163?s=64&v=4) ](https://github.com/eranmes)
+
+
+
+[+ 752 contributors](/SeleniumHQ/selenium/graphs/contributors)
+
+## Languages
+
+  * [ Java 33.9% ](/SeleniumHQ/selenium/search?l=java)
+  * [ C# 17.7% ](/SeleniumHQ/selenium/search?l=c%23)
+  * [ C++ 12.7% ](/SeleniumHQ/selenium/search?l=c%2B%2B)
+  * [ JavaScript 10.9% ](/SeleniumHQ/selenium/search?l=javascript)
+  * [ Ruby 6.6% ](/SeleniumHQ/selenium/search?l=ruby)
+  * [ Python 6.5% ](/SeleniumHQ/selenium/search?l=python)
+  * Other 11.7%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

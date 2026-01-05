@@ -1,0 +1,25 @@
+{
+    "id": "52dd1fabc7ae9ab641f2f3c894d0c897",
+    "metadata": {
+        "id": "52dd1fabc7ae9ab641f2f3c894d0c897",
+        "url": "https://www.notion.so/Testing-52dd1fabc7ae9ab641f2f3c894d0c897",
+        "title": "Testing",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "0fa37caa2d6d77be7aae3af75e1a175a",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Articles\n\n\t- [Testing Machine Learning Systems: Code, Data and Models](https://madewithml.com/courses/mlops/testing/)\n\n# Repositories\n\n\t- [https://github.com/GokuMohandas/testing-ml](https://github.com/GokuMohandas/testing-ml)\n\n# Papers\n\n\t- [Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/abs/2005.04118)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://madewithml.com/courses/mlops/testing/",
+        "https://github.com/GokuMohandas/testing-ml/",
+        "https://arxiv.org/abs/2005.04118/"
+    ]
+}

@@ -1,0 +1,420 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fsmol-course%3Ftab%3Dreadme-ov-file%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fsmol-course%3Ftab%3Dreadme-ov-file%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=huggingface%2Fsmol-course) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ huggingface ](/huggingface) / **[smol-course](/huggingface/smol-course) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fhuggingface%2Fsmol-course) You must be signed in to change notification settings
+  * [ Fork 1.6k ](/login?return_to=%2Fhuggingface%2Fsmol-course)
+  * [ Star  5k ](/login?return_to=%2Fhuggingface%2Fsmol-course)
+
+
+
+
+A course on aligning smol models. 
+
+### License
+
+[ Apache-2.0 license ](/huggingface/smol-course/blob/main/LICENSE)
+
+[ 5k stars ](/huggingface/smol-course/stargazers) [ 1.6k forks ](/huggingface/smol-course/forks) [ Branches ](/huggingface/smol-course/branches) [ Tags ](/huggingface/smol-course/tags) [ Activity ](/huggingface/smol-course/activity)
+
+[ Star  ](/login?return_to=%2Fhuggingface%2Fsmol-course)
+
+[ Notifications ](/login?return_to=%2Fhuggingface%2Fsmol-course) You must be signed in to change notification settings
+
+  * [ Code ](/huggingface/smol-course)
+  * [ Issues 16 ](/huggingface/smol-course/issues)
+  * [ Pull requests 24 ](/huggingface/smol-course/pulls)
+  * [ Discussions ](/huggingface/smol-course/discussions)
+  * [ Actions ](/huggingface/smol-course/actions)
+  * [ Projects 0 ](/huggingface/smol-course/projects)
+  * [ Security ](/huggingface/smol-course/security)
+  * [ Insights ](/huggingface/smol-course/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/huggingface/smol-course)
+  * [ Issues  ](/huggingface/smol-course/issues)
+  * [ Pull requests  ](/huggingface/smol-course/pulls)
+  * [ Discussions  ](/huggingface/smol-course/discussions)
+  * [ Actions  ](/huggingface/smol-course/actions)
+  * [ Projects  ](/huggingface/smol-course/projects)
+  * [ Security  ](/huggingface/smol-course/security)
+  * [ Insights  ](/huggingface/smol-course/pulse)
+
+
+
+# huggingface/smol-course
+
+main
+
+[Branches](/huggingface/smol-course/branches)[Tags](/huggingface/smol-course/tags)
+
+[](/huggingface/smol-course/branches)[](/huggingface/smol-course/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+## History
+
+[525 Commits](/huggingface/smol-course/commits/main/)[](/huggingface/smol-course/commits/main/)  
+[.devcontainer](/huggingface/smol-course/tree/main/.devcontainer ".devcontainer")| [.devcontainer](/huggingface/smol-course/tree/main/.devcontainer ".devcontainer")  
+[.github/workflows](/huggingface/smol-course/tree/main/.github/workflows "This path skips through empty directories")| [.github/workflows](/huggingface/smol-course/tree/main/.github/workflows "This path skips through empty directories")  
+[1_instruction_tuning](/huggingface/smol-course/tree/main/1_instruction_tuning "1_instruction_tuning")| [1_instruction_tuning](/huggingface/smol-course/tree/main/1_instruction_tuning "1_instruction_tuning")  
+[2_preference_alignment](/huggingface/smol-course/tree/main/2_preference_alignment "2_preference_alignment")| [2_preference_alignment](/huggingface/smol-course/tree/main/2_preference_alignment "2_preference_alignment")  
+[3_parameter_efficient_finetuning](/huggingface/smol-course/tree/main/3_parameter_efficient_finetuning "3_parameter_efficient_finetuning")| [3_parameter_efficient_finetuning](/huggingface/smol-course/tree/main/3_parameter_efficient_finetuning "3_parameter_efficient_finetuning")  
+[4_evaluation](/huggingface/smol-course/tree/main/4_evaluation "4_evaluation")| [4_evaluation](/huggingface/smol-course/tree/main/4_evaluation "4_evaluation")  
+[5_vision_language_models](/huggingface/smol-course/tree/main/5_vision_language_models "5_vision_language_models")| [5_vision_language_models](/huggingface/smol-course/tree/main/5_vision_language_models "5_vision_language_models")  
+[6_synthetic_datasets](/huggingface/smol-course/tree/main/6_synthetic_datasets "6_synthetic_datasets")| [6_synthetic_datasets](/huggingface/smol-course/tree/main/6_synthetic_datasets "6_synthetic_datasets")  
+[7_inference](/huggingface/smol-course/tree/main/7_inference "7_inference")| [7_inference](/huggingface/smol-course/tree/main/7_inference "7_inference")  
+[8_agents](/huggingface/smol-course/tree/main/8_agents "8_agents")| [8_agents](/huggingface/smol-course/tree/main/8_agents "8_agents")  
+[es](/huggingface/smol-course/tree/main/es "es")| [es](/huggingface/smol-course/tree/main/es "es")  
+[ja](/huggingface/smol-course/tree/main/ja "ja")| [ja](/huggingface/smol-course/tree/main/ja "ja")  
+[ko](/huggingface/smol-course/tree/main/ko "ko")| [ko](/huggingface/smol-course/tree/main/ko "ko")  
+[pt-br](/huggingface/smol-course/tree/main/pt-br "pt-br")| [pt-br](/huggingface/smol-course/tree/main/pt-br "pt-br")  
+[vi](/huggingface/smol-course/tree/main/vi "vi")| [vi](/huggingface/smol-course/tree/main/vi "vi")  
+[.gitignore](/huggingface/smol-course/blob/main/.gitignore ".gitignore")| [.gitignore](/huggingface/smol-course/blob/main/.gitignore ".gitignore")  
+[.python-version](/huggingface/smol-course/blob/main/.python-version ".python-version")| [.python-version](/huggingface/smol-course/blob/main/.python-version ".python-version")  
+[LICENSE](/huggingface/smol-course/blob/main/LICENSE "LICENSE")| [LICENSE](/huggingface/smol-course/blob/main/LICENSE "LICENSE")  
+[README.md](/huggingface/smol-course/blob/main/README.md "README.md")| [README.md](/huggingface/smol-course/blob/main/README.md "README.md")  
+[banner.png](/huggingface/smol-course/blob/main/banner.png "banner.png")| [banner.png](/huggingface/smol-course/blob/main/banner.png "banner.png")  
+[pull_request_template.md](/huggingface/smol-course/blob/main/pull_request_template.md "pull_request_template.md")| [pull_request_template.md](/huggingface/smol-course/blob/main/pull_request_template.md "pull_request_template.md")  
+[pyproject.toml](/huggingface/smol-course/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/huggingface/smol-course/blob/main/pyproject.toml "pyproject.toml")  
+[requirements.txt](/huggingface/smol-course/blob/main/requirements.txt "requirements.txt")| [requirements.txt](/huggingface/smol-course/blob/main/requirements.txt "requirements.txt")  
+[uv.lock](/huggingface/smol-course/blob/main/uv.lock "uv.lock")| [uv.lock](/huggingface/smol-course/blob/main/uv.lock "uv.lock")  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Apache-2.0 license](#)
+
+
+
+[![smolcourse image](/huggingface/smol-course/raw/main/banner.png)](/huggingface/smol-course/blob/main/banner.png)
+
+# a smol course
+
+[](#a-smol-course)
+
+This is a practical course on aligning language models for your specific use case. It's a handy way to get started with aligning language models, because everything runs on most local machines. There are minimal GPU requirements and no paid services. The course is based on the [SmolLM2](https://github.com/huggingface/smollm/tree/main) series of models, but you can transfer the skills you learn here to larger models or other small language models.
+
+[ ![](https://camo.githubusercontent.com/7c5759d37cf6c1e7283401a8e07883fcb1b0c358280feda9ae2b0dc1baa58671/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465) ](http://hf.co/join/discord)
+
+## Participation is open, free, and now!
+
+[](#participation-is-open-free-and-now)
+
+This course is open and peer reviewed. To get involved with the course **open a pull request** and submit your work for review. Here are the steps:
+
+  1. Fork the repo [here](https://github.com/huggingface/smol-course/fork)
+  2. Read the material, make changes, do the exercises, add your own examples.
+  3. Open a PR on the december_2024 branch
+  4. Get it reviewed and merged
+
+
+
+This should help you learn and to build a community-driven course that is always improving.
+
+We can discuss the process in this [discussion thread](https://github.com/huggingface/smol-course/discussions/2#discussion-7602932).
+
+## Course Outline
+
+[](#course-outline)
+
+This course provides a practical, hands-on approach to working with small language models, from initial training through to production deployment.
+
+Module | Description | Status | Release Date  
+---|---|---|---  
+[Instruction Tuning](/huggingface/smol-course/blob/main/1_instruction_tuning) | Learn supervised fine-tuning, chat templating, and basic instruction following | ✅ Ready | Dec 3, 2024  
+[Preference Alignment](/huggingface/smol-course/blob/main/2_preference_alignment) | Explore DPO and ORPO techniques for aligning models with human preferences | ✅ Ready | Dec 6, 2024  
+[Parameter-efficient Fine-tuning](/huggingface/smol-course/blob/main/3_parameter_efficient_finetuning) | Learn LoRA, prompt tuning, and efficient adaptation methods | ✅ Ready | Dec 9, 2024  
+[Evaluation](/huggingface/smol-course/blob/main/4_evaluation) | Use automatic benchmarks and create custom domain evaluations | ✅ Ready | Dec 13, 2024  
+[Vision-language Models](/huggingface/smol-course/blob/main/5_vision_language_models) | Adapt multimodal models for vision-language tasks | ✅ Ready | Dec 16, 2024  
+[Synthetic Datasets](/huggingface/smol-course/blob/main/6_synthetic_datasets) | Create and validate synthetic datasets for training | ✅ Ready | Dec 20, 2024  
+[Inference](/huggingface/smol-course/blob/main/7_inference) | Infer with models efficiently | ✅ Ready | Jan 8, 2025  
+[Agents](/huggingface/smol-course/blob/main/8_agents) | Build your own agentic AI | ✅ Ready | Jan 13, 2025  
+  
+## Why Small Language Models?
+
+[](#why-small-language-models)
+
+While large language models have shown impressive capabilities, they often require significant computational resources and can be overkill for focused applications. Small language models offer several advantages for domain-specific applications:
+
+  * **Efficiency** : Require significantly less computational resources to train and deploy
+  * **Customization** : Easier to fine-tune and adapt to specific domains
+  * **Control** : Better understanding and control of model behavior
+  * **Cost** : Lower operational costs for training and inference
+  * **Privacy** : Can be run locally without sending data to external APIs
+  * **Green Technology** : Advocates efficient usage of resources with reduced carbon footprint
+  * **Easier Academic Research Development** : Provides an easy starter for academic research with cutting-edge LLMs with less logistical constraints
+
+
+
+## Prerequisites
+
+[](#prerequisites)
+
+Before starting, ensure you have the following:
+
+  * Basic understanding of machine learning and natural language processing.
+  * Familiarity with Python, PyTorch, and the `transformers` library.
+  * Access to a pre-trained language model and a labeled dataset.
+
+
+
+## Installation
+
+[](#installation)
+
+We maintain the course as a package so you can install dependencies easily via a package manager. We recommend [uv](https://github.com/astral-sh/uv) for this purpose, but you could use alternatives like `pip` or `pdm`.
+
+### Using `uv`
+
+[](#using-uv)
+
+With `uv` installed, you can install the course like this:
+
+```
+uv venv --python 3.11.0 uv sync
+```
+
+### Using `pip`
+
+[](#using-pip)
+
+All the examples run in the same **python 3.11** environment, so you should create an environment and install dependencies like this:
+
+```
+# python -m venv .venv # source .venv/bin/activate pip install -r requirements.txt
+```
+
+### Google Colab
+
+[](#google-colab)
+
+**From Google Colab** you will need to install dependencies flexibly based on the hardware you're using. Like this:
+
+```
+pip install transformers trl datasets huggingface_hub
+```
+
+## About
+
+A course on aligning smol models. 
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+[ Activity](/huggingface/smol-course/activity)
+
+[ Custom properties](/huggingface/smol-course/custom-properties)
+
+### Stars
+
+[ **5k** stars](/huggingface/smol-course/stargazers)
+
+### Watchers
+
+[ **39** watching](/huggingface/smol-course/watchers)
+
+### Forks
+
+[ **1.6k** forks](/huggingface/smol-course/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fsmol-course&report=huggingface+%28user%29)
+
+##  [Releases](/huggingface/smol-course/releases)
+
+No releases published
+
+##  [Packages 0](/orgs/huggingface/packages?repo_name=smol-course)
+
+No packages published 
+
+##  [Contributors 40](/huggingface/smol-course/graphs/contributors)
+
+  * [ ![@burtenshaw](https://avatars.githubusercontent.com/u/19620375?s=64&v=4) ](https://github.com/burtenshaw)
+  * [ ![@mcdaqc](https://avatars.githubusercontent.com/u/91652245?s=64&v=4) ](https://github.com/mcdaqc)
+  * [ ![@duydl](https://avatars.githubusercontent.com/u/56506156?s=64&v=4) ](https://github.com/duydl)
+  * [ ![@sdiazlor](https://avatars.githubusercontent.com/u/127759186?s=64&v=4) ](https://github.com/sdiazlor)
+  * [ ![@hahuyhoang411](https://avatars.githubusercontent.com/u/64120343?s=64&v=4) ](https://github.com/hahuyhoang411)
+  * [ ![@davidberenstein1957](https://avatars.githubusercontent.com/u/25269220?s=64&v=4) ](https://github.com/davidberenstein1957)
+  * [ ![@ViniFBN](https://avatars.githubusercontent.com/u/81927867?s=64&v=4) ](https://github.com/ViniFBN)
+  * [ ![@nsbg](https://avatars.githubusercontent.com/u/53206051?s=64&v=4) ](https://github.com/nsbg)
+  * [ ![@sergiopaniego](https://avatars.githubusercontent.com/u/17179696?s=64&v=4) ](https://github.com/sergiopaniego)
+  * [ ![@thliang01](https://avatars.githubusercontent.com/u/21286104?s=64&v=4) ](https://github.com/thliang01)
+  * [ ![@lwoollett](https://avatars.githubusercontent.com/u/4554094?s=64&v=4) ](https://github.com/lwoollett)
+  * [ ![@nkkko](https://avatars.githubusercontent.com/u/6250945?s=64&v=4) ](https://github.com/nkkko)
+  * [ ![@ash-01xor](https://avatars.githubusercontent.com/u/67604126?s=64&v=4) ](https://github.com/ash-01xor)
+  * [ ![@eltociear](https://avatars.githubusercontent.com/u/22633385?s=64&v=4) ](https://github.com/eltociear)
+
+
+
+[+ 26 contributors](/huggingface/smol-course/graphs/contributors)
+
+## Languages
+
+  * [ Jupyter Notebook 98.9% ](/huggingface/smol-course/search?l=jupyter-notebook)
+  * [ Python 1.1% ](/huggingface/smol-course/search?l=python)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

@@ -1,0 +1,400 @@
+[![Hugging Face's logo](/front/assets/huggingface_logo-noborder.svg) Hugging Face](/)
+
+  * [ Models](/models)
+  * [ Datasets](/datasets)
+  * [ Spaces](/spaces)
+  * [ Posts](/posts)
+  * [ Docs](/docs)
+  * [ Enterprise](/enterprise)
+  * [Pricing](/pricing)
+  * [Log In](/login)
+  * [Sign Up](/join)
+
+
+
+# 
+
+[![](https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/WtA3YYitedOr9n02eHfJe.png)](/google)
+
+[google](/google)
+
+/
+
+[paligemma-3b-mix-448](/google/paligemma-3b-mix-448)
+
+like 104
+
+Follow
+
+![](https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/WtA3YYitedOr9n02eHfJe.png) Google 6.71k
+
+[ Image-Text-to-Text ](/models?pipeline_tag=image-text-to-text)[ Transformers ](/models?library=transformers)[ Safetensors ](/models?library=safetensors)[ paligemma ](/models?other=paligemma)[ text-generation-inference ](/models?other=text-generation-inference)[ Inference Endpoints ](/models?other=endpoints_compatible)
+
+arxiv: 20 papers
+
+License: gemma
+
+[ Model card ](/google/paligemma-3b-mix-448)[ Files Files and versions ](/google/paligemma-3b-mix-448/tree/main)[ Community 10 ](/google/paligemma-3b-mix-448/discussions)
+
+Train 
+
+Deploy 
+
+Use this model 
+
+##  Access PaliGemma on Hugging Face
+
+This repository is publicly accessible, but you have to accept the conditions to access its files and content.
+
+To access PaliGemma on Hugging Face, you’re required to review and agree to Google’s usage license. To do this, please ensure you’re logged-in to Hugging Face and click below. Requests are processed immediately.
+
+[Log in](/login?next=%2Fgoogle%2Fpaligemma-3b-mix-448) or [Sign Up](/join?next=%2Fgoogle%2Fpaligemma-3b-mix-448) to review the conditions and access this model content.
+
+  * [PaliGemma model card](#paligemma-model-card "PaliGemma model card")
+    * [Model information](#model-information "Model information")
+      * [Model summary](#model-summary "Model summary")
+      * [Model data](#model-data "Model data")
+    * [How to Use](#how-to-use "How to Use")
+    * [Use in Transformers](#use-in-transformers "Use in Transformers")
+      * [Running the default precision (`float32`) on CPU](#running-the-default-precision-float32-on-cpu "Running the default precision \(<code>float32</code>\) on CPU")
+      * [Running other precisions on CUDA](#running-other-precisions-on-cuda "Running other precisions on CUDA")
+      * [Loading in 4-bit / 8-bit](#loading-in-4-bit--8-bit "Loading in 4-bit / 8-bit")
+    * [Implementation information](#implementation-information "Implementation information")
+      * [Hardware](#hardware "Hardware")
+      * [Software](#software "Software")
+    * [Evaluation information](#evaluation-information "Evaluation information")
+      * [Benchmark results](#benchmark-results "Benchmark results")
+    * [Ethics and safety](#ethics-and-safety "Ethics and safety")
+      * [Evaluation approach](#evaluation-approach "Evaluation approach")
+      * [Evaluation results](#evaluation-results "Evaluation results")
+    * [Usage and limitations](#usage-and-limitations "Usage and limitations")
+      * [Intended usage](#intended-usage "Intended usage")
+      * [Ethical considerations and risks](#ethical-considerations-and-risks "Ethical considerations and risks")
+      * [Limitations](#limitations "Limitations")
+
+
+
+#  [ ](#paligemma-model-card) PaliGemma model card 
+
+**Model page:** [PaliGemma](https://ai.google.dev/gemma/docs/paligemma)
+
+Transformers PaliGemma 3B weights, fine-tuned with 448*448 input images and 512 token input/output text sequences on a mixture of downstream academic datasets. The models are available in float32, bfloat16 and float16 format for research purposes only.
+
+**Resources and technical documentation:**
+
+  * [Responsible Generative AI Toolkit](https://ai.google.dev/responsible)
+  * [PaliGemma on Kaggle](https://www.kaggle.com/models/google/paligemma)
+  * [PaliGemma on Vertex Model Garden](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/363)
+
+
+
+**Terms of Use:** [Terms](https://www.kaggle.com/models/google/paligemma/license/consent/verify/huggingface?returnModelRepoId=google/paligemma-3b-mix-448)
+
+**Authors:** Google
+
+##  [ ](#model-information) Model information 
+
+###  [ ](#model-summary) Model summary 
+
+####  [ ](#description) Description 
+
+PaliGemma is a versatile and lightweight vision-language model (VLM) inspired by [PaLI-3](https://arxiv.org/abs/2310.09199) and based on open components such as the [SigLIP vision model](https://arxiv.org/abs/2303.15343) and the [Gemma language model](https://arxiv.org/abs/2403.08295). It takes both image and text as input and generates text as output, supporting multiple languages. It is designed for class-leading fine-tune performance on a wide range of vision-language tasks such as image and short video caption, visual question answering, text reading, object detection and object segmentation.
+
+####  [ ](#model-architecture) Model architecture 
+
+PaliGemma is the composition of a [Transformer decoder](https://arxiv.org/abs/1706.03762) and a [Vision Transformer image encoder](https://arxiv.org/abs/2010.11929), with a total of 3 billion params. The text decoder is initialized from [Gemma-2B](https://www.kaggle.com/models/google/gemma). The image encoder is initialized from [SigLIP-So400m/14](https://colab.research.google.com/github/google-research/big_vision/blob/main/big_vision/configs/proj/image_text/SigLIP_demo.ipynb). PaliGemma is trained following the PaLI-3 recipes.
+
+####  [ ](#inputs-and-outputs) Inputs and outputs 
+
+  * **Input:** Image and text string, such as a prompt to caption the image, or a question.
+  * **Output:** Generated text in response to the input, such as a caption of the image, an answer to a question, a list of object bounding box coordinates, or segmentation codewords.
+
+
+
+###  [ ](#model-data) Model data 
+
+####  [ ](#pre-train-datasets) Pre-train datasets 
+
+PaliGemma is pre-trained on the following mixture of datasets:
+
+  * **WebLI:** [WebLI (Web Language Image)](https://arxiv.org/abs/2209.06794) is a web-scale multilingual image-text dataset built from the public web. A wide range of WebLI splits are used to acquire versatile model capabilities, such as visual semantic understanding, object localization, visually-situated text understanding, multilinguality, etc.
+  * **CC3M-35L:** Curated English image-alt_text pairs from webpages ([Sharma et al., 2018](https://aclanthology.org/P18-1238/)). We used the [Google Cloud Translation API](https://cloud.google.com/translate) to translate into 34 additional languages.
+  * **VQ²A-CC3M-35L/VQG-CC3M-35L:** A subset of VQ2A-CC3M ([Changpinyo et al., 2022a](https://aclanthology.org/2022.naacl-main.142/)), translated into the same additional 34 languages as CC3M-35L, using the [Google Cloud Translation API](https://cloud.google.com/translate).
+  * **OpenImages:** Detection and object-aware questions and answers ([Piergiovanni et al. 2022](https://arxiv.org/abs/2209.04372)) generated by handcrafted rules on the [OpenImages dataset](https://storage.googleapis.com/openimages/web/factsfigures_v7.html).
+  * **WIT:** Images and texts collected from Wikipedia ([Srinivasan et al., 2021](https://arxiv.org/abs/2103.01913)).
+
+
+
+####  [ ](#data-responsibility-filtering) Data responsibility filtering 
+
+The following filters are applied to WebLI, with the goal of training PaliGemma on clean data:
+
+  * **Pornographic image filtering:** This filter removes images deemed to be of pornographic nature.
+  * **Text safety filtering:** We identify and filter out images that are paired with unsafe text. Unsafe text is any text deemed to contain or be about CSAI, pornography, vulgarities, or otherwise offensive.
+  * **Text toxicity filtering:** We further use the [Perspective API](https://perspectiveapi.com/) to identify and filter out images that are paired with text deemed insulting, obscene, hateful or otherwise toxic.
+  * **Text personal information filtering:** We filtered certain personal information and other sensitive data using [Cloud Data Loss Prevention (DLP) API](https://cloud.google.com/security/products/dlp) to protect the privacy of individuals. Identifiers such as social security numbers and [other sensitive information types](https://cloud.google.com/sensitive-data-protection/docs/high-sensitivity-infotypes-reference?_gl=1*jg604m*_ga*ODk5MzA3ODQyLjE3MTAzMzQ3NTk.*_ga_WH2QY8WWF5*MTcxMDUxNTkxMS4yLjEuMTcxMDUxNjA2NC4wLjAuMA..&_ga=2.172110058.-899307842.1710334759) were removed.
+  * **Additional methods:** Filtering based on content quality and safety in line with our policies and practices.
+
+
+
+##  [ ](#how-to-use) How to Use 
+
+PaliGemma is a single-turn vision language model not meant for conversational use, and it works best when fine-tuning to a specific use case. 
+
+You can configure which task the model will solve by conditioning it with task prefixes, such as “detect” or “segment”. The pretrained models were trained in this fashion to imbue them with a rich set of capabilities (question answering, captioning, segmentation, etc.). However, they are not designed to be used directly, but to be transferred (by fine-tuning) to specific tasks using a similar prompt structure. For interactive testing, you can use the "mix" family of models, which have been fine-tuned on a mixture of tasks. To see this model in action, check [this Space that uses the Transformers codebase](https://huggingface.co/spaces/big-vision/paligemma-hf).
+
+Please, refer to the [usage and limitations section](#usage-and-limitations) for intended use cases, or visit the [blog post](https://huggingface.co/blog/paligemma-google-vlm) for additional details and examples.
+
+##  [ ](#use-in-transformers) Use in Transformers 
+
+The following snippets use model `google/paligemma-3b-mix-224` for reference purposes. The model in this repo you are now browsing may have been trained for other tasks, please make sure you use appropriate inputs for the task at hand.
+
+###  [ ](#running-the-default-precision-float32-on-cpu) Running the default precision (`float32`) on CPU 
+
+```
+`from transformers import AutoProcessor, PaliGemmaForConditionalGeneration from PIL import Image import requests import torch model_id = "google/paligemma-3b-mix-224" url = "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/tasks/car.jpg?download=true" image = Image.open(requests.get(url, stream=True).raw) model = PaliGemmaForConditionalGeneration.from_pretrained(model_id).eval() processor = AutoProcessor.from_pretrained(model_id) # Instruct the model to create a caption in Spanish prompt = "caption es" model_inputs = processor(text=prompt, images=image, return_tensors="pt") input_len = model_inputs["input_ids"].shape[-1] with torch.inference_mode(): generation = model.generate(**model_inputs, max_new_tokens=100, do_sample=False) generation = generation[0][input_len:] decoded = processor.decode(generation, skip_special_tokens=True) print(decoded) `
+```
+
+Output: `Un auto azul estacionado frente a un edificio.`
+
+###  [ ](#running-other-precisions-on-cuda) Running other precisions on CUDA 
+
+For convenience, the repos contain revisions of the weights already converted to `bfloat16` and `float16`, so you can use them to reduce the download size and avoid casting on your local computer.
+
+This is how you'd run `bfloat16` on an nvidia CUDA card.
+
+```
+`from transformers import AutoProcessor, PaliGemmaForConditionalGeneration from PIL import Image import requests import torch model_id = "google/paligemma-3b-mix-224" device = "cuda:0" dtype = torch.bfloat16 url = "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/tasks/car.jpg?download=true" image = Image.open(requests.get(url, stream=True).raw) model = PaliGemmaForConditionalGeneration.from_pretrained( model_id, torch_dtype=dtype, device_map=device, revision="bfloat16", ).eval() processor = AutoProcessor.from_pretrained(model_id) # Instruct the model to create a caption in Spanish prompt = "caption es" model_inputs = processor(text=prompt, images=image, return_tensors="pt").to(model.device) input_len = model_inputs["input_ids"].shape[-1] with torch.inference_mode(): generation = model.generate(**model_inputs, max_new_tokens=100, do_sample=False) generation = generation[0][input_len:] decoded = processor.decode(generation, skip_special_tokens=True) print(decoded) `
+```
+
+###  [ ](#loading-in-4-bit--8-bit) Loading in 4-bit / 8-bit 
+
+You need to install `bitsandbytes` to automatically run inference using 8-bit or 4-bit precision:
+
+```
+`pip install bitsandbytes accelerate `
+```
+
+```
+`from transformers import AutoProcessor, PaliGemmaForConditionalGeneration from PIL import Image import requests import torch model_id = "google/paligemma-3b-mix-224" device = "cuda:0" dtype = torch.bfloat16 url = "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/tasks/car.jpg?download=true" image = Image.open(requests.get(url, stream=True).raw) quantization_config = BitsAndBytesConfig(load_in_8bit=True) model = PaliGemmaForConditionalGeneration.from_pretrained( model_id, quantization_config=quantization_config ).eval() processor = AutoProcessor.from_pretrained(model_id) # Instruct the model to create a caption in Spanish prompt = "caption es" model_inputs = processor(text=prompt, images=image, return_tensors="pt").to(model.device) input_len = model_inputs["input_ids"].shape[-1] with torch.inference_mode(): generation = model.generate(**model_inputs, max_new_tokens=100, do_sample=False) generation = generation[0][input_len:] decoded = processor.decode(generation, skip_special_tokens=True) print(decoded) `
+```
+
+##  [ ](#implementation-information) Implementation information 
+
+###  [ ](#hardware) Hardware 
+
+PaliGemma was trained using the latest generation of Tensor Processing Unit (TPU) hardware (TPUv5e).
+
+###  [ ](#software) Software 
+
+Training was done using [JAX](https://github.com/google/jax), [Flax](https://github.com/google/flax), [TFDS](https://github.com/tensorflow/datasets) and [`big_vision`](https://github.com/google-research/big_vision).
+
+JAX allows researchers to take advantage of the latest generation of hardware, including TPUs, for faster and more efficient training of large models.
+
+TFDS is used to access datasets and Flax is used for model architecture. The PaliGemma fine-tune code and inference code are released in the `big_vision` GitHub repository.
+
+##  [ ](#evaluation-information) Evaluation information 
+
+###  [ ](#benchmark-results) Benchmark results 
+
+In order to verify the transferability of PaliGemma to a wide variety of academic tasks, we fine-tune the pretrained models on each task. Additionally we train the mix model with a mixture of the transfer tasks. We report results on different resolutions to provide an impression of which tasks benefit from increased resolution. Importantly, none of these tasks or datasets are part of the pretraining data mixture, and their images are explicitly removed from the web-scale pre-training data.
+
+####  [ ](#single-task-fine-tune-on-single-task) Single task (fine-tune on single task) 
+
+Benchmark(train split) | Metric(split) | pt-224 | pt-448 | pt-896  
+---|---|---|---|---  
+Captioning  
+[COCO captions](https://cocodataset.org/#home)(train+restval)  | CIDEr (val) | 141.92 | 144.60  
+[NoCaps](https://nocaps.org/)(Eval of COCOcaptions transfer)  | CIDEr (val) | 121.72 | 123.58  
+[COCO-35L](https://arxiv.org/pdf/2205.12522)(train)  | CIDEr dev(en/avg-34/avg) |  139.2 115.8 116.4  |  141.2 118.0 118.6   
+[XM3600](https://arxiv.org/pdf/2205.12522)(Eval of COCO-35L transfer)  | CIDEr dev(en/avg-34/avg) |  78.1 41.3 42.4  |  80.0 41.9 42.9   
+[TextCaps](https://textvqa.org/textcaps/)(train)  | CIDEr (val) | 127.48 | 153.94  
+[SciCap](https://arxiv.org/abs/2110.11624)(first sentence, no subfigure)(train+val)  | CIDEr/BLEU-4(test) |  162.25 0.192  |  181.49 0.211   
+[Screen2words](https://arxiv.org/abs/2108.03353)(train+dev)  | CIDEr (test) | 117.57 | 119.59  
+[Widget Captioning](https://arxiv.org/abs/2010.04295)(train+dev)  | CIDEr (test) | 136.07 | 148.36  
+Question answering  
+[VQAv2](https://visualqa.org/index.html)(train+validation)  | Accuracy(Test server - std) | 83.19 | 85.64  
+[MMVP](https://arxiv.org/abs/2401.06209)(Eval of VQAv2 transfer)  | Paired Accuracy | 47.33 | 45.33  
+[POPE](https://arxiv.org/abs/2305.10355)(Eval of VQAv2 transfer)  | Accuracy(random/popular/adversarial) |  87.80 85.87 84.27  |  88.23 86.77 85.90   
+[OKVQA](https://okvqa.allenai.org/)(train)  | Accuracy (val) | 63.54 | 63.15  
+[A-OKVQA](https://allenai.org/project/a-okvqa/home) (MC)(train+val)  | Accuracy(Test server) | 76.37 | 76.90  
+[A-OKVQA](https://allenai.org/project/a-okvqa/home) (DA)(train+val)  | Accuracy(Test server) | 61.85 | 63.22  
+[GQA](https://cs.stanford.edu/people/dorarad/gqa/about.html)(train_balanced+val_balanced)  | Accuracy(testdev balanced) | 65.61 | 67.03  
+[xGQA](https://aclanthology.org/2022.findings-acl.196/)(Eval of GQA transfer)  | Mean Accuracy(bn, de, en, id,ko, pt, ru, zh) | 58.37 | 59.07  
+[NLVR2](https://lil.nlp.cornell.edu/nlvr/)(train+dev)  | Accuracy (test) | 90.02 | 88.93  
+[MaRVL](https://marvl-challenge.github.io/)(Eval of NLVR2 transfer)  | Mean Accuracy(test)(id, sw, ta, tr, zh) | 80.57 | 76.78  
+[AI2D](https://allenai.org/data/diagrams)(train)  | Accuracy (test) | 72.12 | 73.28  
+[ScienceQA](https://scienceqa.github.io/)(Img subset, no CoT)(train+val)  | Accuracy (test) | 95.39 | 95.93  
+[RSVQA-LR](https://zenodo.org/records/6344334) (Non numeric)(train+val)  | Mean Accuracy(test) | 92.65 | 93.11  
+[RSVQA-HR](https://zenodo.org/records/6344367) (Non numeric)(train+val)  | Mean Accuracy(test/test2) |  92.61 90.58  |  92.79 90.54   
+[ChartQA](https://arxiv.org/abs/2203.10244)(human+aug)x(train+val)  | Mean RelaxedAccuracy(test_human,test_aug) | 57.08 | 71.36  
+[VizWiz VQA](https://vizwiz.org/tasks-and-datasets/vqa/)(train+val)  | Accuracy(Test server - std) |  73.7  |  75.52   
+[TallyQA](https://arxiv.org/abs/1810.12440)(train)  | Accuracy(test_simple/test_complex) |  81.72 69.56  |  84.86 72.27   
+[OCR-VQA](https://ocr-vqa.github.io/)(train+val)  | Accuracy (test) | 72.32 | 74.61 | 74.93  
+[TextVQA](https://textvqa.org/)(train+val)  | Accuracy(Test server - std) | 55.47 | 73.15 | 76.48  
+[DocVQA](https://www.docvqa.org/)(train+val)  | ANLS (Test server) | 43.74 | 78.02 | 84.77  
+[Infographic VQA](https://openaccess.thecvf.com/content/WACV2022/papers/Mathew_InfographicVQA_WACV_2022_paper.pdf)(train+val)  | ANLS (Test server) | 28.46 | 40.47 | 47.75  
+[SceneText VQA](https://arxiv.org/abs/1905.13648)(train+val)  | ANLS (Test server) | 63.29 | 81.82 | 84.40  
+Segmentation  
+[RefCOCO](https://arxiv.org/abs/1608.00272)(combined refcoco, refcoco+,refcocog excluding valand test images)  | MIoU(validation)refcoco/refcoco+/refcocog |  73.40 68.32 67.65  |  75.57 69.76 70.17  |  76.94 72.18 72.22   
+Video tasks (Caption/QA)  
+MSR-VTT (Captioning) | CIDEr (test) | 70.54  
+MSR-VTT (QA) | Accuracy (test) | 50.09  
+ActivityNet (Captioning) | CIDEr (test) | 34.62  
+ActivityNet (QA) | Accuracy (test) | 50.78  
+VATEX (Captioning) | CIDEr (test) | 79.73  
+MSVD (QA) | Accuracy (test) | 60.22  
+  
+####  [ ](#mix-model-fine-tune-on-mixture-of-transfer-tasks) Mix model (fine-tune on mixture of transfer tasks) 
+
+Benchmark | Metric (split) | mix-224 | mix-448  
+---|---|---|---  
+[MMVP](https://arxiv.org/abs/2401.06209) | Paired Accuracy | 46.00 | 45.33  
+[POPE](https://arxiv.org/abs/2305.10355) | Accuracy(random/popular/adversarial) |  88.00 86.63 85.67  |  89.37 88.40 87.47   
+  
+##  [ ](#ethics-and-safety) Ethics and safety 
+
+###  [ ](#evaluation-approach) Evaluation approach 
+
+Our evaluation methods include structured evaluations and internal red-teaming testing of relevant content policies. Red-teaming was conducted by a number of different teams, each with different goals and human evaluation metrics. These models were evaluated against a number of different categories relevant to ethics and safety, including:
+
+  * Human evaluation on prompts covering child safety, content safety and representational harms. See the [Gemma model card](https://ai.google.dev/gemma/docs/model_card#evaluation_approach) for more details on evaluation approach, but with image captioning and visual question answering setups.
+  * Image-to-Text benchmark evaluation: Benchmark against relevant academic datasets such as FairFace Dataset ([Karkkainen et al., 2021](https://arxiv.org/abs/1908.04913)).
+
+
+
+###  [ ](#evaluation-results) Evaluation results 
+
+  * The human evaluation results of ethics and safety evaluations are within acceptable thresholds for meeting [internal policies](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/2023_Google_AI_Principles_Progress_Update.pdf#page=11) for categories such as child safety, content safety and representational harms.
+  * On top of robust internal evaluations, we also use the Perspective API (threshold of 0.8) to measure toxicity, profanity, and other potential issues in the generated captions for images sourced from the FairFace dataset. We report the maximum and median values observed across subgroups for each of the perceived gender, ethnicity, and age attributes.
+
+Metric | Perceivedgender | Ethnicity | Age group  
+---|---|---|---  
+Maximum | Median | Maximum | Median | Maximum | Median  
+Toxicity | 0.04% | 0.03% | 0.08% | 0.00% | 0.09% | 0.00%  
+Identity Attack | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% | 0.00%  
+Insult | 0.06% | 0.04% | 0.09% | 0.07% | 0.16% | 0.00%  
+Threat | 0.06% | 0.05% | 0.14% | 0.05% | 0.17% | 0.00%  
+Profanity | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% | 0.00%  
+  
+##  [ ](#usage-and-limitations) Usage and limitations 
+
+###  [ ](#intended-usage) Intended usage 
+
+Open Vision Language Models (VLMs) have a wide range of applications across various industries and domains. The following list of potential uses is not comprehensive. The purpose of this list is to provide contextual information about the possible use-cases that the model creators considered as part of model training and development.
+
+Fine-tune on specific vision-language task:
+
+  * The pre-trained models can be fine-tuned on a wide range of vision-language tasks such as: image captioning, short video caption, visual question answering, text reading, object detection and object segmentation.
+  * The pre-trained models can be fine-tuned for specific domains such as remote sensing question answering, visual questions from people who are blind, science question answering, describe UI element functionalities.
+  * The pre-trained models can be fine-tuned for tasks with non-textual outputs such as bounding boxes or segmentation masks.
+
+
+
+Vision-language research:
+
+  * The pre-trained models and fine-tuned models can serve as a foundation for researchers to experiment with VLM techniques, develop algorithms, and contribute to the advancement of the field.
+
+
+
+###  [ ](#ethical-considerations-and-risks) Ethical considerations and risks 
+
+The development of vision-language models (VLMs) raises several ethical concerns. In creating an open model, we have carefully considered the following:
+
+  * Bias and Fairness
+    * VLMs trained on large-scale, real-world image-text data can reflect socio-cultural biases embedded in the training material. These models underwent careful scrutiny, input data pre-processing described and posterior evaluations reported in this card.
+  * Misinformation and Misuse
+    * VLMs can be misused to generate text that is false, misleading, or harmful.
+    * Guidelines are provided for responsible use with the model, see the [Responsible Generative AI Toolkit](https://ai.google.dev/responsible).
+  * Transparency and Accountability
+    * This model card summarizes details on the models' architecture, capabilities, limitations, and evaluation processes.
+    * A responsibly developed open model offers the opportunity to share innovation by making VLM technology accessible to developers and researchers across the AI ecosystem.
+
+
+
+Risks identified and mitigations:
+
+  * **Perpetuation of biases:** It's encouraged to perform continuous monitoring (using evaluation metrics, human review) and the exploration of de-biasing techniques during model training, fine-tuning, and other use cases.
+  * **Generation of harmful content:** Mechanisms and guidelines for content safety are essential. Developers are encouraged to exercise caution and implement appropriate content safety safeguards based on their specific product policies and application use cases.
+  * **Misuse for malicious purposes:** Technical limitations and developer and end-user education can help mitigate against malicious applications of LLMs. Educational resources and reporting mechanisms for users to flag misuse are provided. Prohibited uses of Gemma models are outlined in the [Gemma Prohibited Use Policy](https://ai.google.dev/gemma/prohibited_use_policy).
+  * **Privacy violations:** Models were trained on data filtered to remove certain personal information and sensitive data. Developers are encouraged to adhere to privacy regulations with privacy-preserving techniques.
+
+
+
+###  [ ](#limitations) Limitations 
+
+  * Most limitations inherited from the underlying Gemma model still apply:
+
+    * VLMs are better at tasks that can be framed with clear prompts and instructions. Open-ended or highly complex tasks might be challenging.
+    * Natural language is inherently complex. VLMs might struggle to grasp subtle nuances, sarcasm, or figurative language.
+    * VLMs generate responses based on information they learned from their training datasets, but they are not knowledge bases. They may generate incorrect or outdated factual statements.
+    * VLMs rely on statistical patterns in language and images. They might lack the ability to apply common sense reasoning in certain situations.
+  * PaliGemma was designed first and foremost to serve as a general pre-trained model for transfer to specialized tasks. Hence, its "out of the box" or "zero-shot" performance might lag behind models designed specifically for that.
+
+  * PaliGemma is not a multi-turn chatbot. It is designed for a single round of image and text input.
+
+##  [ ](#citation) Citation 
+
+```
+`@article{beyer2024paligemma, title={{PaliGemma: A versatile 3B VLM for transfer}}, author={Lucas Beyer* and Andreas Steiner* and André Susano Pinto* and Alexander Kolesnikov* and Xiao Wang* and Daniel Salz and Maxim Neumann and Ibrahim Alabdulmohsin and Michael Tschannen and Emanuele Bugliarello and Thomas Unterthiner and Daniel Keysers and Skanda Koppula and Fangyu Liu and Adam Grycner and Alexey Gritsenko and Neil Houlsby and Manoj Kumar and Keran Rong and Julian Eisenschlos and Rishabh Kabra and Matthias Bauer and Matko Bošnjak and Xi Chen and Matthias Minderer and Paul Voigtlaender and Ioana Bica and Ivana Balazevic and Joan Puigcerver and Pinelopi Papalampidi and Olivier Henaff and Xi Xiong and Radu Soricut and Jeremiah Harmsen and Xiaohua Zhai*}, year={2024}, journal={arXiv preprint arXiv:2407.07726} } `
+```
+
+
+
+
+Find the paper [here](https://arxiv.org/abs/2407.07726).
+
+Downloads last month
+    4,646 
+
+Safetensors[](https://huggingface.co/docs/safetensors)
+
+Model size
+
+2.92B params
+
+Tensor type
+
+F32 
+
+·
+
+Inference API [](https://huggingface.co/docs/hub/models-widgets#example-outputs)
+
+[ Image-Text-to-Text](/tasks/image-text-to-text "Learn more about image-text-to-text")
+
+Inference API (serverless) does not yet support transformers models for this pipeline type.
+
+##  Model tree for google/paligemma-3b-mix-448 [](/docs/hub/model-cards#specifying-a-base-model)
+
+Adapters
+
+[23 models](/models?other=base_model:adapter:google/paligemma-3b-mix-448)
+
+Finetunes
+
+[12 models](/models?other=base_model:finetune:google/paligemma-3b-mix-448)
+
+Merges
+
+[3 models](/models?other=base_model:merge:google/paligemma-3b-mix-448)
+
+##  Spaces using google/paligemma-3b-mix-448 11
+
+[🤗 big-vision/paligemma-hf](/spaces/big-vision/paligemma-hf)[🐨 merve/paligemma-tracking](/spaces/merve/paligemma-tracking)[🚀 Justinrune/LLaMA-Factory](/spaces/Justinrune/LLaMA-Factory)[🦀 kenken999/fastapi_django_main_live](/spaces/kenken999/fastapi_django_main_live)[😻 Saee/vQA-exploration](/spaces/Saee/vQA-exploration)[🚀 taufiqdp/paligemma](/spaces/taufiqdp/paligemma)[😻 gabrielaltay/vlmqa](/spaces/gabrielaltay/vlmqa)[🔥 NSTiwari/PaliGemma-ZeroShotDetection-Video](/spaces/NSTiwari/PaliGemma-ZeroShotDetection-Video)[🤗 hermanhelf/paligemma-hf](/spaces/hermanhelf/paligemma-hf)[🚀 HUANG-Stephanie/cvquest-colpali](/spaces/HUANG-Stephanie/cvquest-colpali)[⚡ sprakhil/OCRQuest-2.0](/spaces/sprakhil/OCRQuest-2.0) + 6 Spaces
+
+##  Collections including google/paligemma-3b-mix-448
+
+#### [PaliGemma Release Collection  Pretrained and mix checkpoints for PaliGemma •  16 items •  Updated Dec 13, 2024 • 144](/collections/google/paligemma-release-6643a9ffbf57de2ae0448dda)
+
+#### [Google's Gemma models family Collection  243 items •  Updated Dec 13, 2024 • 73](/collections/google/googles-gemma-models-family-675bfd70e574a62dd0e406bd)
+
+System theme 
+
+Company
+
+[TOS](/terms-of-service) [Privacy](/privacy) [About](/huggingface) [Jobs](https://apply.workable.com/huggingface/) [](/)
+
+Website
+
+[Models](/models) [Datasets](/datasets) [Spaces](/spaces) [Pricing](/pricing) [Docs](/docs)

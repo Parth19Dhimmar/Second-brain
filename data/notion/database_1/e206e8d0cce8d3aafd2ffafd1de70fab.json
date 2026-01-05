@@ -1,0 +1,29 @@
+{
+    "id": "e206e8d0cce8d3aafd2ffafd1de70fab",
+    "metadata": {
+        "id": "e206e8d0cce8d3aafd2ffafd1de70fab",
+        "url": "https://www.notion.so/RecSys-Two-tower-architecture-e206e8d0cce8d3aafd2ffafd1de70fab",
+        "title": "RecSys: Two-tower architecture",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ]
+        }
+    },
+    "parent_metadata": {
+        "id": "f5de19eef08894cfca5cad024cb5572f",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n\t[https://cloud.google.com/blog/products/ai-machine-learning/scaling-deep-retrieval-tensorflow-two-towers-architecture](https://cloud.google.com/blog/products/ai-machine-learning/scaling-deep-retrieval-tensorflow-two-towers-architecture)\n\t[https://www.tensorflow.org/recommenders/examples/basic_retrieval](https://www.tensorflow.org/recommenders/examples/basic_retrieval)\n\t[https://www.youtube.com/watch?v=9vBRjGgdyTY](https://www.youtube.com/watch?v=9vBRjGgdyTY)\n\n# Resources [Science]\n\n\t[Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)\n\n# Tools\n\n\t[https://www.tensorflow.org/recommenders](https://www.tensorflow.org/recommenders)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://www.youtube.com/watch?v=9vBRjGgdyTY/",
+        "https://www.tensorflow.org/recommenders/examples/basic_retrieval/",
+        "https://cloud.google.com/blog/products/ai-machine-learning/scaling-deep-retrieval-tensorflow-two-towers-architecture/",
+        "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf/",
+        "https://www.tensorflow.org/recommenders/"
+    ]
+}

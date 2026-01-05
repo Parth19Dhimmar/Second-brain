@@ -1,0 +1,515 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fgenerative-ai-for-beginners%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fgenerative-ai-for-beginners%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=microsoft%2Fgenerative-ai-for-beginners) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ microsoft ](/microsoft) / **[generative-ai-for-beginners](/microsoft/generative-ai-for-beginners) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners) You must be signed in to change notification settings
+  * [ Fork 34.5k ](/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners)
+  * [ Star  66.5k ](/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners)
+
+
+
+
+21 Lessons, Get Started Building with Generative AI 🔗 <https://microsoft.github.io/generative-ai-for-beginners/>
+
+[microsoft.github.io/generative-ai-for-beginners/](https://microsoft.github.io/generative-ai-for-beginners/ "https://microsoft.github.io/generative-ai-for-beginners/")
+
+### License
+
+[ MIT license ](/microsoft/generative-ai-for-beginners/blob/main/LICENSE)
+
+[ 66.5k stars ](/microsoft/generative-ai-for-beginners/stargazers) [ 34.5k forks ](/microsoft/generative-ai-for-beginners/forks) [ Branches ](/microsoft/generative-ai-for-beginners/branches) [ Tags ](/microsoft/generative-ai-for-beginners/tags) [ Activity ](/microsoft/generative-ai-for-beginners/activity)
+
+[ Star  ](/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners)
+
+[ Notifications ](/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners) You must be signed in to change notification settings
+
+  * [ Code ](/microsoft/generative-ai-for-beginners)
+  * [ Issues 1 ](/microsoft/generative-ai-for-beginners/issues)
+  * [ Pull requests 5 ](/microsoft/generative-ai-for-beginners/pulls)
+  * [ Discussions ](/microsoft/generative-ai-for-beginners/discussions)
+  * [ Actions ](/microsoft/generative-ai-for-beginners/actions)
+  * [ Projects 0 ](/microsoft/generative-ai-for-beginners/projects)
+  * [ Security ](/microsoft/generative-ai-for-beginners/security)
+  * [ Insights ](/microsoft/generative-ai-for-beginners/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/microsoft/generative-ai-for-beginners)
+  * [ Issues  ](/microsoft/generative-ai-for-beginners/issues)
+  * [ Pull requests  ](/microsoft/generative-ai-for-beginners/pulls)
+  * [ Discussions  ](/microsoft/generative-ai-for-beginners/discussions)
+  * [ Actions  ](/microsoft/generative-ai-for-beginners/actions)
+  * [ Projects  ](/microsoft/generative-ai-for-beginners/projects)
+  * [ Security  ](/microsoft/generative-ai-for-beginners/security)
+  * [ Insights  ](/microsoft/generative-ai-for-beginners/pulse)
+
+
+
+# microsoft/generative-ai-for-beginners
+
+main
+
+[**4** Branches](/microsoft/generative-ai-for-beginners/branches)[**0** Tags](/microsoft/generative-ai-for-beginners/tags)
+
+[](/microsoft/generative-ai-for-beginners/branches)[](/microsoft/generative-ai-for-beginners/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![koreyspace](https://avatars.githubusercontent.com/u/7462909?v=4&size=40)](/koreyspace)[koreyspace](/microsoft/generative-ai-for-beginners/commits?author=koreyspace)[Merge pull request](/microsoft/generative-ai-for-beginners/commit/0d49fa04848b6d9def922f016f494646cf0d1239) [#644](https://github.com/microsoft/generative-ai-for-beginners/pull/644) [from microsoft/dependabot/npm_and_yarn/11-int…](/microsoft/generative-ai-for-beginners/commit/0d49fa04848b6d9def922f016f494646cf0d1239)Jan 15, 2025[0d49fa0](/microsoft/generative-ai-for-beginners/commit/0d49fa04848b6d9def922f016f494646cf0d1239) · Jan 15, 2025
+
+## History
+
+[1,278 Commits](/microsoft/generative-ai-for-beginners/commits/main/)[](/microsoft/generative-ai-for-beginners/commits/main/)  
+[.devcontainer](/microsoft/generative-ai-for-beginners/tree/main/.devcontainer ".devcontainer")| [.devcontainer](/microsoft/generative-ai-for-beginners/tree/main/.devcontainer ".devcontainer")| [Add pip dep, azure-ai-inference](/microsoft/generative-ai-for-beginners/commit/75d82ccd9f27d1e61d726bbbfbc33a35f7687563 "Add pip dep, azure-ai-inference")| Sep 23, 2024  
+[.github](/microsoft/generative-ai-for-beginners/tree/main/.github ".github")| [.github](/microsoft/generative-ai-for-beginners/tree/main/.github ".github")| [Security Update with Bug Fixes](/microsoft/generative-ai-for-beginners/commit/37b447e958f3fb35bf4d8133bbd97d551dff93cc "Security Update with Bug Fixes
+Use two randomly generated numbers as the name of the markdown file to prevent exploiting the static name of the file as symlink")| Dec 12, 2024  
+[.vscode](/microsoft/generative-ai-for-beginners/tree/main/.vscode ".vscode")| [.vscode](/microsoft/generative-ai-for-beginners/tree/main/.vscode ".vscode")| [update UX section, add more references](/microsoft/generative-ai-for-beginners/commit/01848bfd0efc29f18f2ad4c1643d2a3b0f6ecbef "update UX section, add more references")| Oct 17, 2023  
+[00-course-setup](/microsoft/generative-ai-for-beginners/tree/main/00-course-setup "00-course-setup")| [00-course-setup](/microsoft/generative-ai-for-beginners/tree/main/00-course-setup "00-course-setup")| [fix: updated translation URLs](/microsoft/generative-ai-for-beginners/commit/3c57ca125896d2190ef15f9da13ba88a7880a6c3 "fix: updated translation URLs")| Nov 8, 2024  
+[01-introduction-to-genai](/microsoft/generative-ai-for-beginners/tree/main/01-introduction-to-genai "01-introduction-to-genai")| [01-introduction-to-genai](/microsoft/generative-ai-for-beginners/tree/main/01-introduction-to-genai "01-introduction-to-genai")| [Add missing article (an approach) and make minor edits](/microsoft/generative-ai-for-beginners/commit/0cf22b5fcc35401e32f75bb07b556bfbe0a7c1fe "Add missing article \(an approach\) and make minor edits")| Dec 31, 2024  
+[02-exploring-and-comparing-different-llms](/microsoft/generative-ai-for-beginners/tree/main/02-exploring-and-comparing-different-llms "02-exploring-and-comparing-different-llms")| [02-exploring-and-comparing-different-llms](/microsoft/generative-ai-for-beginners/tree/main/02-exploring-and-comparing-different-llms "02-exploring-and-comparing-different-llms")| [fix broken urls](/microsoft/generative-ai-for-beginners/commit/d9adbbd522009216a4c73d236c878b4537b5e0a5 "fix broken urls")| Aug 7, 2024  
+[03-using-generative-ai-responsibly](/microsoft/generative-ai-for-beginners/tree/main/03-using-generative-ai-responsibly "03-using-generative-ai-responsibly")| [03-using-generative-ai-responsibly](/microsoft/generative-ai-for-beginners/tree/main/03-using-generative-ai-responsibly "03-using-generative-ai-responsibly")| [fix: remove unwanted changes and params](/microsoft/generative-ai-for-beginners/commit/3ec885593775f6d5fa12773c3190870ba6f78ffe "fix: remove unwanted changes and params")| Nov 8, 2024  
+[04-prompt-engineering-fundamentals](/microsoft/generative-ai-for-beginners/tree/main/04-prompt-engineering-fundamentals "04-prompt-engineering-fundamentals")| [04-prompt-engineering-fundamentals](/microsoft/generative-ai-for-beginners/tree/main/04-prompt-engineering-fundamentals "04-prompt-engineering-fundamentals")| [changes to the langchain links](/microsoft/generative-ai-for-beginners/commit/e61bf8af2da46da9c4dbf2bca12730b23181f595 "changes to the langchain links")| Nov 28, 2024  
+[05-advanced-prompts](/microsoft/generative-ai-for-beginners/tree/main/05-advanced-prompts "05-advanced-prompts")| [05-advanced-prompts](/microsoft/generative-ai-for-beginners/tree/main/05-advanced-prompts "05-advanced-prompts")| [Add zh-tw translations](/microsoft/generative-ai-for-beginners/commit/76d3b18699e9e206bbf4772c5791cb078eb474f0 "Add zh-tw translations")| Jul 2, 2024  
+[06-text-generation-apps](/microsoft/generative-ai-for-beginners/tree/main/06-text-generation-apps "06-text-generation-apps")| [06-text-generation-apps](/microsoft/generative-ai-for-beginners/tree/main/06-text-generation-apps "06-text-generation-apps")| [Merge pull request](/microsoft/generative-ai-for-beginners/commit/0e1d265a49855731ecc4145f1d7d8318afb3439c "Merge pull request #650 from hyoshioka0128/patch-18
+Update aoai-assignment.ipynb \(Typo "Azure Open AI"→"Azure OpenAI"\)") [#650](https://github.com/microsoft/generative-ai-for-beginners/pull/650) [from hyoshioka0128/patch-18](/microsoft/generative-ai-for-beginners/commit/0e1d265a49855731ecc4145f1d7d8318afb3439c "Merge pull request #650 from hyoshioka0128/patch-18
+Update aoai-assignment.ipynb \(Typo "Azure Open AI"→"Azure OpenAI"\)")| Jan 15, 2025  
+[07-building-chat-applications](/microsoft/generative-ai-for-beginners/tree/main/07-building-chat-applications "07-building-chat-applications")| [07-building-chat-applications](/microsoft/generative-ai-for-beginners/tree/main/07-building-chat-applications "07-building-chat-applications")| [fix: remove unwanted changes and params](/microsoft/generative-ai-for-beginners/commit/3ec885593775f6d5fa12773c3190870ba6f78ffe "fix: remove unwanted changes and params")| Nov 8, 2024  
+[08-building-search-applications](/microsoft/generative-ai-for-beginners/tree/main/08-building-search-applications "08-building-search-applications")| [08-building-search-applications](/microsoft/generative-ai-for-beginners/tree/main/08-building-search-applications "08-building-search-applications")| [adding search applications app](/microsoft/generative-ai-for-beginners/commit/1aa9b15fd72b3d914d74bd97f8a85e80fc0d0a4c "adding search applications app")| Sep 17, 2024  
+[09-building-image-applications](/microsoft/generative-ai-for-beginners/tree/main/09-building-image-applications "09-building-image-applications")| [09-building-image-applications](/microsoft/generative-ai-for-beginners/tree/main/09-building-image-applications "09-building-image-applications")| [Merge pull request](/microsoft/generative-ai-for-beginners/commit/c32cdf46d1a7e022fc5b43bf94588f00a618ada2 "Merge pull request #643 from microsoft/dependabot/npm_and_yarn/09-building-image-applications/typescript/image-generation-app/cross-spawn-7.0.6
+Bump cross-spawn from 7.0.3 to 7.0.6 in /09-building-image-applications/typescript/image-generation-app") [#643](https://github.com/microsoft/generative-ai-for-beginners/pull/643) [from microsoft/dependabot/npm_and_yarn/09-bui…](/microsoft/generative-ai-for-beginners/commit/c32cdf46d1a7e022fc5b43bf94588f00a618ada2 "Merge pull request #643 from microsoft/dependabot/npm_and_yarn/09-building-image-applications/typescript/image-generation-app/cross-spawn-7.0.6
+Bump cross-spawn from 7.0.3 to 7.0.6 in /09-building-image-applications/typescript/image-generation-app")| Jan 15, 2025  
+[10-building-low-code-ai-applications](/microsoft/generative-ai-for-beginners/tree/main/10-building-low-code-ai-applications "10-building-low-code-ai-applications")| [10-building-low-code-ai-applications](/microsoft/generative-ai-for-beginners/tree/main/10-building-low-code-ai-applications "10-building-low-code-ai-applications")| [fix broken urls](/microsoft/generative-ai-for-beginners/commit/d9adbbd522009216a4c73d236c878b4537b5e0a5 "fix broken urls")| Aug 7, 2024  
+[11-integrating-with-function-calling](/microsoft/generative-ai-for-beginners/tree/main/11-integrating-with-function-calling "11-integrating-with-function-calling")| [11-integrating-with-function-calling](/microsoft/generative-ai-for-beginners/tree/main/11-integrating-with-function-calling "11-integrating-with-function-calling")| [Bump cross-spawn](/microsoft/generative-ai-for-beginners/commit/6b28dbc53f71bed31575e4c794d13f0e54877213 "Bump cross-spawn
+Bumps \[cross-spawn\]\(https://github.com/moxystudio/node-cross-spawn\) from 7.0.3 to 7.0.6.
+- \[Changelog\]\(https://github.com/moxystudio/node-cross-spawn/blob/master/CHANGELOG.md\)
+- \[Commits\]\(https://github.com/moxystudio/node-cross-spawn/compare/v7.0.3...v7.0.6\)
+---
+updated-dependencies:
+- dependency-name: cross-spawn
+ dependency-type: indirect
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>")| Nov 28, 2024  
+[12-designing-ux-for-ai-applications](/microsoft/generative-ai-for-beginners/tree/main/12-designing-ux-for-ai-applications "12-designing-ux-for-ai-applications")| [12-designing-ux-for-ai-applications](/microsoft/generative-ai-for-beginners/tree/main/12-designing-ux-for-ai-applications "12-designing-ux-for-ai-applications")| [Add zh-tw translations](/microsoft/generative-ai-for-beginners/commit/76d3b18699e9e206bbf4772c5791cb078eb474f0 "Add zh-tw translations")| Jul 2, 2024  
+[13-securing-ai-applications](/microsoft/generative-ai-for-beginners/tree/main/13-securing-ai-applications "13-securing-ai-applications")| [13-securing-ai-applications](/microsoft/generative-ai-for-beginners/tree/main/13-securing-ai-applications "13-securing-ai-applications")| [Add zh-tw translations](/microsoft/generative-ai-for-beginners/commit/76d3b18699e9e206bbf4772c5791cb078eb474f0 "Add zh-tw translations")| Jul 2, 2024  
+[14-the-generative-ai-application-lifecycle](/microsoft/generative-ai-for-beginners/tree/main/14-the-generative-ai-application-lifecycle "14-the-generative-ai-application-lifecycle")| [14-the-generative-ai-application-lifecycle](/microsoft/generative-ai-for-beginners/tree/main/14-the-generative-ai-application-lifecycle "14-the-generative-ai-application-lifecycle")| [fix typo](/microsoft/generative-ai-for-beginners/commit/1c5828b7757b25931db4a2bda36d4932745a7a2a "fix typo")| Aug 19, 2024  
+[15-rag-and-vector-databases](/microsoft/generative-ai-for-beginners/tree/main/15-rag-and-vector-databases "15-rag-and-vector-databases")| [15-rag-and-vector-databases](/microsoft/generative-ai-for-beginners/tree/main/15-rag-and-vector-databases "15-rag-and-vector-databases")| [Update README.md](/microsoft/generative-ai-for-beginners/commit/a3d7dea3f18d1e0e8f19f99d6afc966f80441847 "Update README.md
+Corrected spelling of retrieval.")| Jan 7, 2025  
+[16-open-source-models](/microsoft/generative-ai-for-beginners/tree/main/16-open-source-models "16-open-source-models")| [16-open-source-models](/microsoft/generative-ai-for-beginners/tree/main/16-open-source-models "16-open-source-models")| [fix: replace URL with archive.org link to bypass false broken URL checks](/microsoft/generative-ai-for-beginners/commit/0db0597a608c073329d88fc9d877b1d39751a1a7 "fix: replace URL with archive.org link to bypass false broken URL checks
+The automatic URL validation action was incorrectly flagging working URLs
+as broken links. Switched to using archive.org links as a workaround to
+resolve these false positive errors.")| Nov 26, 2024  
+[17-ai-agents](/microsoft/generative-ai-for-beginners/tree/main/17-ai-agents "17-ai-agents")| [17-ai-agents](/microsoft/generative-ai-for-beginners/tree/main/17-ai-agents "17-ai-agents")| [Merge branch 'main' into pr/635](/microsoft/generative-ai-for-beginners/commit/f6ea1cf8072dd51cdb3c1204b6246c1cb714b932 "Merge branch 'main' into pr/635")| Nov 28, 2024  
+[18-fine-tuning](/microsoft/generative-ai-for-beginners/tree/main/18-fine-tuning "18-fine-tuning")| [18-fine-tuning](/microsoft/generative-ai-for-beginners/tree/main/18-fine-tuning "18-fine-tuning")| [add folder and empty readme files for futher translation](/microsoft/generative-ai-for-beginners/commit/1d5b854ca5b4ec722e3934c62040c8c9310e74ac "add folder and empty readme files for futher translation")| Nov 25, 2024  
+[19-slm](/microsoft/generative-ai-for-beginners/tree/main/19-slm "19-slm")| [19-slm](/microsoft/generative-ai-for-beginners/tree/main/19-slm "19-slm")| [Merge pull request](/microsoft/generative-ai-for-beginners/commit/a353e16bc6d7b2c6d324d119cc30bcf762918877 "Merge pull request #639 from 2024-OpenSW-OpenCode/add-ko-translations-19-21
+Add Korean translations \(ko\) for Lesson 19-21") [#639](https://github.com/microsoft/generative-ai-for-beginners/pull/639) [from 2024-OpenSW-OpenCode/add-ko-translations…](/microsoft/generative-ai-for-beginners/commit/a353e16bc6d7b2c6d324d119cc30bcf762918877 "Merge pull request #639 from 2024-OpenSW-OpenCode/add-ko-translations-19-21
+Add Korean translations \(ko\) for Lesson 19-21")| Nov 28, 2024  
+[20-mistral](/microsoft/generative-ai-for-beginners/tree/main/20-mistral "20-mistral")| [20-mistral](/microsoft/generative-ai-for-beginners/tree/main/20-mistral "20-mistral")| [Merge pull request](/microsoft/generative-ai-for-beginners/commit/a353e16bc6d7b2c6d324d119cc30bcf762918877 "Merge pull request #639 from 2024-OpenSW-OpenCode/add-ko-translations-19-21
+Add Korean translations \(ko\) for Lesson 19-21") [#639](https://github.com/microsoft/generative-ai-for-beginners/pull/639) [from 2024-OpenSW-OpenCode/add-ko-translations…](/microsoft/generative-ai-for-beginners/commit/a353e16bc6d7b2c6d324d119cc30bcf762918877 "Merge pull request #639 from 2024-OpenSW-OpenCode/add-ko-translations-19-21
+Add Korean translations \(ko\) for Lesson 19-21")| Nov 28, 2024  
+[21-meta](/microsoft/generative-ai-for-beginners/tree/main/21-meta "21-meta")| [21-meta](/microsoft/generative-ai-for-beginners/tree/main/21-meta "21-meta")| [Merge pull request](/microsoft/generative-ai-for-beginners/commit/a353e16bc6d7b2c6d324d119cc30bcf762918877 "Merge pull request #639 from 2024-OpenSW-OpenCode/add-ko-translations-19-21
+Add Korean translations \(ko\) for Lesson 19-21") [#639](https://github.com/microsoft/generative-ai-for-beginners/pull/639) [from 2024-OpenSW-OpenCode/add-ko-translations…](/microsoft/generative-ai-for-beginners/commit/a353e16bc6d7b2c6d324d119cc30bcf762918877 "Merge pull request #639 from 2024-OpenSW-OpenCode/add-ko-translations-19-21
+Add Korean translations \(ko\) for Lesson 19-21")| Nov 28, 2024  
+[docs](/microsoft/generative-ai-for-beginners/tree/main/docs "docs")| [docs](/microsoft/generative-ai-for-beginners/tree/main/docs "docs")| [Add zh-tw translations](/microsoft/generative-ai-for-beginners/commit/76d3b18699e9e206bbf4772c5791cb078eb474f0 "Add zh-tw translations")| Jul 2, 2024  
+[images](/microsoft/generative-ai-for-beginners/tree/main/images "images")| [images](/microsoft/generative-ai-for-beginners/tree/main/images "images")| [Add files via upload](/microsoft/generative-ai-for-beginners/commit/e63e64a4b6d0b852f97d49c1d21c4037ee67accc "Add files via upload")| Oct 4, 2024  
+[presentations](/microsoft/generative-ai-for-beginners/tree/main/presentations "presentations")| [presentations](/microsoft/generative-ai-for-beginners/tree/main/presentations "presentations")| [added presentaiton](/microsoft/generative-ai-for-beginners/commit/295906d31ac14a3162a50f04a4316a8770e3c100 "added presentaiton")| Dec 5, 2023  
+[translations](/microsoft/generative-ai-for-beginners/tree/main/translations "translations")| [translations](/microsoft/generative-ai-for-beginners/tree/main/translations "translations")| [Merge branch 'main' into pr/635](/microsoft/generative-ai-for-beginners/commit/f6ea1cf8072dd51cdb3c1204b6246c1cb714b932 "Merge branch 'main' into pr/635")| Nov 28, 2024  
+[.env.copy](/microsoft/generative-ai-for-beginners/blob/main/.env.copy ".env.copy")| [.env.copy](/microsoft/generative-ai-for-beginners/blob/main/.env.copy ".env.copy")| [refactor setup, ch4, ch18 - for consistency in assignments](/microsoft/generative-ai-for-beginners/commit/4f3aa800bccf9bb7d37ab0b33d2c5174574faef1 "refactor setup, ch4, ch18 - for consistency in assignments")| Apr 21, 2024  
+[.gitignore](/microsoft/generative-ai-for-beginners/blob/main/.gitignore ".gitignore")| [.gitignore](/microsoft/generative-ai-for-beginners/blob/main/.gitignore ".gitignore")| [.gitignore should ignore downloaded files of sample 08-building-searc…](/microsoft/generative-ai-for-beginners/commit/cbf62bac983281da4ccb21ccec1c74665858bde3 ".gitignore should ignore downloaded files of sample 08-building-search-applications #536")| Jul 26, 2024  
+[.nojekyll](/microsoft/generative-ai-for-beginners/blob/main/.nojekyll ".nojekyll")| [.nojekyll](/microsoft/generative-ai-for-beginners/blob/main/.nojekyll ".nojekyll")| [fix custom navbar issue](/microsoft/generative-ai-for-beginners/commit/054f3fa785efe3cecb59ae2eb28e065a2bf9a237 "fix custom navbar issue")| Nov 21, 2023  
+[CODE_OF_CONDUCT.md](/microsoft/generative-ai-for-beginners/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/microsoft/generative-ai-for-beginners/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md committed](/microsoft/generative-ai-for-beginners/commit/d2a1256e5353a41687de2dadaf00a31e99a740b0 "CODE_OF_CONDUCT.md committed")| Jun 19, 2023  
+[CONTRIBUTING.md](/microsoft/generative-ai-for-beginners/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/microsoft/generative-ai-for-beginners/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [add tracking to contributing guide](/microsoft/generative-ai-for-beginners/commit/8ae8eca4b16986d42bb325a8ad27c1711cd0604b "add tracking to contributing guide")| Mar 6, 2024  
+[LICENSE](/microsoft/generative-ai-for-beginners/blob/main/LICENSE "LICENSE")| [LICENSE](/microsoft/generative-ai-for-beginners/blob/main/LICENSE "LICENSE")| [LICENSE updated to template](/microsoft/generative-ai-for-beginners/commit/f6a5a00a34aa7d97d89f2538940323a2b754e98e "LICENSE updated to template")| Jun 19, 2023  
+[README.md](/microsoft/generative-ai-for-beginners/blob/main/README.md "README.md")| [README.md](/microsoft/generative-ai-for-beginners/blob/main/README.md "README.md")| [Update README.md](/microsoft/generative-ai-for-beginners/commit/b672ee61c0a8915c909b315ebabf566399a13509 "Update README.md
+Small grammatical error fixed")| Jan 10, 2025  
+[SECURITY.md](/microsoft/generative-ai-for-beginners/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md](/microsoft/generative-ai-for-beginners/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md committed](/microsoft/generative-ai-for-beginners/commit/ba29a1139e1291f1c823b8cff039067cf2294476 "SECURITY.md committed")| Jun 19, 2023  
+[docsifytopdf.js](/microsoft/generative-ai-for-beginners/blob/main/docsifytopdf.js "docsifytopdf.js")| [docsifytopdf.js](/microsoft/generative-ai-for-beginners/blob/main/docsifytopdf.js "docsifytopdf.js")| [Adding more structure and initial readme](/microsoft/generative-ai-for-beginners/commit/71eb76990c94e045b8ca27dada5833104e1d5921 "Adding more structure and initial readme")| Jun 23, 2023  
+[index.html](/microsoft/generative-ai-for-beginners/blob/main/index.html "index.html")| [index.html](/microsoft/generative-ai-for-beginners/blob/main/index.html "index.html")| [feat: language selection](/microsoft/generative-ai-for-beginners/commit/07e15e9e5592087eec6fb50cfa9aae471b015783 "feat: language selection")| Nov 21, 2023  
+[package-lock.json](/microsoft/generative-ai-for-beginners/blob/main/package-lock.json "package-lock.json")| [package-lock.json](/microsoft/generative-ai-for-beginners/blob/main/package-lock.json "package-lock.json")| [recipe-testjs](/microsoft/generative-ai-for-beginners/commit/c5a520dbd3c0b83e6236a52439dd9591628c31e1 "recipe-testjs")| Sep 17, 2024  
+[package.json](/microsoft/generative-ai-for-beginners/blob/main/package.json "package.json")| [package.json](/microsoft/generative-ai-for-beginners/blob/main/package.json "package.json")| [recipe-testjs](/microsoft/generative-ai-for-beginners/commit/c5a520dbd3c0b83e6236a52439dd9591628c31e1 "recipe-testjs")| Sep 17, 2024  
+[requirements.txt](/microsoft/generative-ai-for-beginners/blob/main/requirements.txt "requirements.txt")| [requirements.txt](/microsoft/generative-ai-for-beginners/blob/main/requirements.txt "requirements.txt")| [updated requirements.txt](/microsoft/generative-ai-for-beginners/commit/1f75679864191f165ab85999eb0cd3df4be78609 "updated requirements.txt")| Aug 30, 2024  
+[vs.code-profile](/microsoft/generative-ai-for-beginners/blob/main/vs.code-profile "vs.code-profile")| [vs.code-profile](/microsoft/generative-ai-for-beginners/blob/main/vs.code-profile "vs.code-profile")| [Initial codespaces support](/microsoft/generative-ai-for-beginners/commit/5f06bb3d485a7821d2caab20da078b695aa2c086 "Initial codespaces support")| Sep 26, 2023  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+[![Generative AI For Beginners](/microsoft/generative-ai-for-beginners/raw/main/images/repo-thumbnailv4-fixed.png?WT.mc_id=academic-105485-koreyst)](/microsoft/generative-ai-for-beginners/blob/main/images/repo-thumbnailv4-fixed.png?WT.mc_id=academic-105485-koreyst)
+
+### 21 Lessons teaching everything you need to know to start building Generative AI applications
+
+[](#21-lessons-teaching-everything-you-need-to-know-to-start-building-generative-ai-applications)
+
+[![GitHub license](https://camo.githubusercontent.com/03069df0cc8bbe394f35597e58b794120734a81a3b7521e9ecf8cadc94f09760/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6d6963726f736f66742f47656e657261746976652d41492d466f722d426567696e6e6572732e737667)](https://github.com/microsoft/Generative-AI-For-Beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst) [![GitHub contributors](https://camo.githubusercontent.com/923ebdced945c458a41549cda20a216e5cb30614f198dc7bc8be3019952fd645/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6d6963726f736f66742f47656e657261746976652d41492d466f722d426567696e6e6572732e737667)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst) [![GitHub issues](https://camo.githubusercontent.com/97ffe8eb53eb42094ea605aa3448a6cb77c8997c28e6f4180d109b7f2cea101b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f6d6963726f736f66742f47656e657261746976652d41492d466f722d426567696e6e6572732e737667)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/issues/?WT.mc_id=academic-105485-koreyst) [![GitHub pull-requests](https://camo.githubusercontent.com/20b453fed1ed001f4b00779f3c0e7123d623983d8cdacf1d4a8cd9425ef1762b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f6d6963726f736f66742f47656e657261746976652d41492d466f722d426567696e6e6572732e737667)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/pulls/?WT.mc_id=academic-105485-koreyst) [![PRs Welcome](https://camo.githubusercontent.com/88482ebfc5e3e4f2d667148ab6a3eb55948789f1dba71dfa0eb2e05afe02958c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
+
+[![GitHub watchers](https://camo.githubusercontent.com/d758f79029120aabbe05230949b8845cf6b022ab3300197090d8484cd6a4da8a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f77617463686572732f6d6963726f736f66742f47656e657261746976652d41492d466f722d426567696e6e6572732e7376673f7374796c653d736f6369616c266c6162656c3d5761746368)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/watchers/?WT.mc_id=academic-105485-koreyst) [![GitHub forks](https://camo.githubusercontent.com/22d5b6253c3aa21f0e65ade95cefa7ffd035f173dec7ed158f1e61e31c881de4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f6d6963726f736f66742f47656e657261746976652d41492d466f722d426567696e6e6572732e7376673f7374796c653d736f6369616c266c6162656c3d466f726b)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/network/?WT.mc_id=academic-105485-koreyst) [![GitHub stars](https://camo.githubusercontent.com/c390daab706c98b28be0b49121354f6f388ead0bcc2890110e72bebc3cc4dd8b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6d6963726f736f66742f47656e657261746976652d41492d466f722d426567696e6e6572732e7376673f7374796c653d736f6369616c266c6162656c3d53746172)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/stargazers/?WT.mc_id=academic-105485-koreyst)
+
+[![](https://camo.githubusercontent.com/3e282dda6bc8c226b15b45f86e8a1693f4167054b41fe6842229a5f579689af3/68747470733a2f2f646362616467652e6c696d65732e70696e6b2f6170692f7365727665722f42795277754545674834)](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst)
+
+# Generative AI for Beginners (Version 3) - A Course
+
+[](#generative-ai-for-beginners-version-3---a-course)
+
+Learn the fundamentals of building Generative AI applications with our 21-lesson comprehensive course by Microsoft Cloud Advocates.
+
+## 🌱 Getting Started
+
+[](#-getting-started)
+
+This course has 21 lessons. Each lesson covers its own topic so start wherever you like!
+
+Lessons are labeled either "Learn" lessons explaining a Generative AI concept or "Build" lessons that explain a concept and code examples in both **Python** and **TypeScript** when possible.
+
+Each lesson also includes a "Keep Learning" section with additional learning tools.
+
+## What You Need
+
+[](#what-you-need)
+
+### To run the code of this course, you can use either:
+
+[](#to-run-the-code-of-this-course-you-can-use-either)
+
+  * [Azure OpenAI Service](https://azure.microsoft.com/products/ai-services/openai-service?WT.mc_id=academic-105485-koreyst) - **Lessons:** "aoai-assignment"
+
+  * [GitHub Marketplace Model Catalog](https://github.com/marketplace/models?WT.mc_id=academic-105485-koreyst) - **Lessons:** "githubmodels"
+
+  * [OpenAI API](https://platform.openai.com/docs/quickstart?context=python?WT.mc_id=academic-105485-koreyst) - **Lessons:** "oai-assignment"
+
+  * Basic knowledge of Python or TypeScript is helpful - *For absolute beginners check out these [Python](https://learn.microsoft.com/training/paths/python-language/?WT.mc_id=academic-105485-koreyst) and [TypeScript](https://learn.microsoft.com/training/paths/build-javascript-applications-typescript/?WT.mc_id=academic-105485-koreyst) courses.
+
+  * A GitHub account to [fork this entire repo](https://github.com/microsoft/generative-ai-for-beginners/fork?WT.mc_id=academic-105485-koreyst) to your own GitHub account
+
+
+
+
+We have created a **[Course Setup](/microsoft/generative-ai-for-beginners/blob/main/00-course-setup/README.md?WT.mc_id=academic-105485-koreyst)** lesson to help you with setting up your development environment.
+
+Don't forget to [star (🌟) this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) to find it easier later.
+
+## 🧠 Ready to Deploy?
+
+[](#-ready-to-deploy)
+
+If you are looking for more advanced code samples, check out our [collection of Generative AI Code Samples](https://aka.ms/genai-beg-code?WT.mc_id=academic-105485-koreyst) in both **Python** and **TypeScript**.
+
+## 🗣️ Meet Other Learners, Get Support
+
+[](#️-meet-other-learners-get-support)
+
+Join our [official AI Discord server](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst) to meet and network with other learners taking this course and get support.
+
+## 🚀 Building a Startup?
+
+[](#-building-a-startup)
+
+Sign up for [Microsoft for Startups Founders Hub](https://aka.ms/genai-foundershub?WT.mc_id=academic-105485-koreyst) to receive **free OpenAI credits** and up to **$150k towards Azure credits to access OpenAI models through Azure OpenAI Services**.
+
+## 🙏 Want to help?
+
+[](#-want-to-help)
+
+Do you have suggestions or found spelling or code errors? [Raise an issue](https://github.com/microsoft/generative-ai-for-beginners/issues?WT.mc_id=academic-105485-koreyst) or [Create a pull request](https://github.com/microsoft/generative-ai-for-beginners/pulls?WT.mc_id=academic-105485-koreyst)
+
+## 📂 Each lesson includes:
+
+[](#-each-lesson-includes)
+
+  * A short video introduction to the topic
+  * A written lesson located in the README
+  * Python and TypeScript code samples supporting Azure OpenAI and OpenAI API
+  * Links to extra resources to continue your learning
+
+
+
+## 🗃️ Lessons
+
+[](#️-lessons)
+
+# | **Lesson Link** | **Description** | **Video** | **Extra Learning**  
+---|---|---|---|---  
+00 | [Course Setup](/microsoft/generative-ai-for-beginners/blob/main/00-course-setup/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** How to Setup Your Development Environment | Coming Soon | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+01 | [Introduction to Generative AI and LLMs](/microsoft/generative-ai-for-beginners/blob/main/01-introduction-to-genai/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** Understanding what Generative AI is and how Large Language Models (LLMs) work. | [Video](https://aka.ms/gen-ai-lesson-1-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+02 | [Exploring and comparing different LLMs](/microsoft/generative-ai-for-beginners/blob/main/02-exploring-and-comparing-different-llms/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** How to select the right model for your use case | [Video](https://aka.ms/gen-ai-lesson2-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+03 | [Using Generative AI Responsibly](/microsoft/generative-ai-for-beginners/blob/main/03-using-generative-ai-responsibly/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** How to build Generative AI Applications responsibly | [Video](https://aka.ms/gen-ai-lesson3-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+04 | [Understanding Prompt Engineering Fundamentals](/microsoft/generative-ai-for-beginners/blob/main/04-prompt-engineering-fundamentals/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** Hands-on Prompt Engineering Best Practices | [Video](https://aka.ms/gen-ai-lesson4-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+05 | [Creating Advanced Prompts](/microsoft/generative-ai-for-beginners/blob/main/05-advanced-prompts/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** How to apply prompt engineering techniques that improve the outcome of your prompts. | [Video](https://aka.ms/gen-ai-lesson5-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+06 | [Building Text Generation Applications](/microsoft/generative-ai-for-beginners/blob/main/06-text-generation-apps/README.md?WT.mc_id=academic-105485-koreyst) | **Build:** A text generation app using Azure OpenAI / OpenAI API | [Video](https://aka.ms/gen-ai-lesson6-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+07 | [Building Chat Applications](/microsoft/generative-ai-for-beginners/blob/main/07-building-chat-applications/README.md?WT.mc_id=academic-105485-koreyst) | **Build:** Techniques for efficiently building and integrating chat applications. | [Video](https://aka.ms/gen-ai-lessons7-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+08 | [Building Search Apps Vector Databases](/microsoft/generative-ai-for-beginners/blob/main/08-building-search-applications/README.md?WT.mc_id=academic-105485-koreyst) | **Build:** A search application that uses Embeddings to search for data. | [Video](https://aka.ms/gen-ai-lesson8-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+09 | [Building Image Generation Applications](/microsoft/generative-ai-for-beginners/blob/main/09-building-image-applications/README.md?WT.mc_id=academic-105485-koreyst) | **Build:** A image generation application | [Video](https://aka.ms/gen-ai-lesson9-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+10 | [Building Low Code AI Applications](/microsoft/generative-ai-for-beginners/blob/main/10-building-low-code-ai-applications/README.md?WT.mc_id=academic-105485-koreyst) | **Build:** A Generative AI application using Low Code tools | [Video](https://aka.ms/gen-ai-lesson10-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+11 | [Integrating External Applications with Function Calling](/microsoft/generative-ai-for-beginners/blob/main/11-integrating-with-function-calling/README.md?WT.mc_id=academic-105485-koreyst) | **Build:** What is function calling and its use cases for applications | [Video](https://aka.ms/gen-ai-lesson11-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+12 | [Designing UX for AI Applications](/microsoft/generative-ai-for-beginners/blob/main/12-designing-ux-for-ai-applications/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** How to apply UX design principles when developing Generative AI Applications | [Video](https://aka.ms/gen-ai-lesson12-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+13 | [Securing Your Generative AI Applications](/microsoft/generative-ai-for-beginners/blob/main/13-securing-ai-applications/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** The threats and risks to AI systems and methods to secure these systems. | [Video](https://aka.ms/gen-ai-lesson13-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+14 | [The Generative AI Application Lifecycle](/microsoft/generative-ai-for-beginners/blob/main/14-the-generative-ai-application-lifecycle/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** The tools and metrics to manage the LLM Lifecycle and LLMOps | [Video](https://aka.ms/gen-ai-lesson14-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+15 | [Retrieval Augmented Generation (RAG) and Vector Databases](/microsoft/generative-ai-for-beginners/blob/main/15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-koreyst) | **Build:** An application using a RAG Framework to retrieve embeddings from a Vector Databases | [Video](https://aka.ms/gen-ai-lesson15-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+16 | [Open Source Models and Hugging Face](/microsoft/generative-ai-for-beginners/blob/main/16-open-source-models/README.md?WT.mc_id=academic-105485-koreyst) | **Build:** An application using open source models available on Hugging Face | [Video](https://aka.ms/gen-ai-lesson16-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+17 | [AI Agents](/microsoft/generative-ai-for-beginners/blob/main/17-ai-agents/README.md?WT.mc_id=academic-105485-koreyst) | **Build:** An application using an AI Agent Framework | [Video](https://aka.ms/gen-ai-lesson17-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+18 | [Fine-Tuning LLMs](/microsoft/generative-ai-for-beginners/blob/main/18-fine-tuning/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** The what, why and how of fine-tuning LLMs | [Video](https://aka.ms/gen-ai-lesson18-gh?WT.mc_id=academic-105485-koreyst) | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+19 | [Building with SLMs](/microsoft/generative-ai-for-beginners/blob/main/19-slm/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** The benefits of building with Small Language Models | Video Coming Soon | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+20 | [Building with Mistral Models](/microsoft/generative-ai-for-beginners/blob/main/20-mistral/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** The features and differences of the Mistral Family Models | Video Coming Soon | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+21 | [Building with Meta Models](/microsoft/generative-ai-for-beginners/blob/main/21-meta/README.md?WT.mc_id=academic-105485-koreyst) | **Learn:** The features and differences of the Meta Family Models | Video Coming Soon | [Learn More](https://aka.ms/genai-collection?WT.mc_id=academic-105485-koreyst)  
+  
+### 🌟 Special thanks
+
+[](#-special-thanks)
+
+Special thanks to [**John Aziz**](https://www.linkedin.com/in/john0isaac/) for creating all of the GitHub Actions and workflows
+
+[**Bernhard Merkle**](https://www.linkedin.com/in/bernhard-merkle-738b73/) for making key contributions to each lesson to improve the learner and code experience.
+
+## 🎒 Other Courses
+
+[](#-other-courses)
+
+Our team produces other courses! Check out:
+
+  * [ML for Beginners](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+  * [Data Science for Beginners](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+  * [AI for Beginners](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+  * [**NEW** Cybersecurity for Beginners](https://github.com/microsoft/Security-101??WT.mc_id=academic-96948-sayoung)
+  * [Web Dev for Beginners](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+  * [IoT for Beginners](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+  * [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+  * [Mastering GitHub Copilot for AI Paired Programming](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+
+
+
+## About
+
+21 Lessons, Get Started Building with Generative AI 🔗 <https://microsoft.github.io/generative-ai-for-beginners/>
+
+[microsoft.github.io/generative-ai-for-beginners/](https://microsoft.github.io/generative-ai-for-beginners/ "https://microsoft.github.io/generative-ai-for-beginners/")
+
+### Topics
+
+[ ai ](/topics/ai "Topic: ai") [ azure ](/topics/azure "Topic: azure") [ transformers ](/topics/transformers "Topic: transformers") [ openai ](/topics/openai "Topic: openai") [ gpt ](/topics/gpt "Topic: gpt") [ language-model ](/topics/language-model "Topic: language-model") [ semantic-search ](/topics/semantic-search "Topic: semantic-search") [ dall-e ](/topics/dall-e "Topic: dall-e") [ prompt-engineering ](/topics/prompt-engineering "Topic: prompt-engineering") [ llms ](/topics/llms "Topic: llms") [ generative-ai ](/topics/generative-ai "Topic: generative-ai") [ generativeai ](/topics/generativeai "Topic: generativeai") [ chatgpt ](/topics/chatgpt "Topic: chatgpt") [ microsoft-for-beginners ](/topics/microsoft-for-beginners "Topic: microsoft-for-beginners")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/microsoft/generative-ai-for-beginners/activity)
+
+[ Custom properties](/microsoft/generative-ai-for-beginners/custom-properties)
+
+### Stars
+
+[ **66.5k** stars](/microsoft/generative-ai-for-beginners/stargazers)
+
+### Watchers
+
+[ **577** watching](/microsoft/generative-ai-for-beginners/watchers)
+
+### Forks
+
+[ **34.5k** forks](/microsoft/generative-ai-for-beginners/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fgenerative-ai-for-beginners&report=microsoft+%28user%29)
+
+##  [Contributors 105](/microsoft/generative-ai-for-beginners/graphs/contributors)
+
+  * [ ![@koreyspace](https://avatars.githubusercontent.com/u/7462909?s=64&v=4) ](https://github.com/koreyspace)
+  * [ ![@john0isaac](https://avatars.githubusercontent.com/u/64026625?s=64&v=4) ](https://github.com/john0isaac)
+  * [ ![@yoshioterada](https://avatars.githubusercontent.com/u/1871266?s=64&v=4) ](https://github.com/yoshioterada)
+  * [ ![@glaucia86](https://avatars.githubusercontent.com/u/1631477?s=64&v=4) ](https://github.com/glaucia86)
+  * [ ![@leestott](https://avatars.githubusercontent.com/u/2511341?s=64&v=4) ](https://github.com/leestott)
+  * [ ![@carlotta94c](https://avatars.githubusercontent.com/u/82521518?s=64&v=4) ](https://github.com/carlotta94c)
+  * [ ![@softchris](https://avatars.githubusercontent.com/u/4598064?s=64&v=4) ](https://github.com/softchris)
+  * [ ![@nitya](https://avatars.githubusercontent.com/u/279083?s=64&v=4) ](https://github.com/nitya)
+  * [ ![@bmerkle](https://avatars.githubusercontent.com/u/232471?s=64&v=4) ](https://github.com/bmerkle)
+  * [ ![@Marcelasabogue](https://avatars.githubusercontent.com/u/78389700?s=64&v=4) ](https://github.com/Marcelasabogue)
+  * [ ![@abrilurena](https://avatars.githubusercontent.com/u/107883174?s=64&v=4) ](https://github.com/abrilurena)
+  * [ ![@kinfey](https://avatars.githubusercontent.com/u/93169410?s=64&v=4) ](https://github.com/kinfey)
+  * [ ![@FacerAin](https://avatars.githubusercontent.com/u/16442978?s=64&v=4) ](https://github.com/FacerAin)
+  * [ ![@jimbobbennett](https://avatars.githubusercontent.com/u/1710385?s=64&v=4) ](https://github.com/jimbobbennett)
+
+
+
+[+ 91 contributors](/microsoft/generative-ai-for-beginners/graphs/contributors)
+
+## Languages
+
+  * [ Jupyter Notebook 86.4% ](/microsoft/generative-ai-for-beginners/search?l=jupyter-notebook)
+  * [ Python 8.2% ](/microsoft/generative-ai-for-beginners/search?l=python)
+  * [ JavaScript 2.8% ](/microsoft/generative-ai-for-beginners/search?l=javascript)
+  * [ TypeScript 1.5% ](/microsoft/generative-ai-for-beginners/search?l=typescript)
+  * [ Shell 0.3% ](/microsoft/generative-ai-for-beginners/search?l=shell)
+  * [ PowerShell 0.3% ](/microsoft/generative-ai-for-beginners/search?l=powershell)
+  * Other 0.5%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

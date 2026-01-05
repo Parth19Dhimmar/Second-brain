@@ -1,0 +1,552 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fcamelot-dev%2Fcamelot%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fcamelot-dev%2Fcamelot%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=camelot-dev%2Fcamelot) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ camelot-dev ](/camelot-dev) / **[camelot](/camelot-dev/camelot) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fcamelot-dev%2Fcamelot) You must be signed in to change notification settings
+  * [ Fork 479 ](/login?return_to=%2Fcamelot-dev%2Fcamelot)
+  * [ Star  3.1k ](/login?return_to=%2Fcamelot-dev%2Fcamelot)
+
+
+
+
+A Python library to extract tabular data from PDFs 
+
+[camelot-py.readthedocs.io](https://camelot-py.readthedocs.io "https://camelot-py.readthedocs.io")
+
+### License
+
+[ MIT license ](/camelot-dev/camelot/blob/master/LICENSE)
+
+[ 3.1k stars ](/camelot-dev/camelot/stargazers) [ 479 forks ](/camelot-dev/camelot/forks) [ Branches ](/camelot-dev/camelot/branches) [ Tags ](/camelot-dev/camelot/tags) [ Activity ](/camelot-dev/camelot/activity)
+
+[ Star  ](/login?return_to=%2Fcamelot-dev%2Fcamelot)
+
+[ Notifications ](/login?return_to=%2Fcamelot-dev%2Fcamelot) You must be signed in to change notification settings
+
+  * [ Code ](/camelot-dev/camelot)
+  * [ Issues 207 ](/camelot-dev/camelot/issues)
+  * [ Pull requests 39 ](/camelot-dev/camelot/pulls)
+  * [ Actions ](/camelot-dev/camelot/actions)
+  * [ Projects 0 ](/camelot-dev/camelot/projects)
+  * [ Wiki ](/camelot-dev/camelot/wiki)
+  * [ Security ](/camelot-dev/camelot/security)
+  * [ Insights ](/camelot-dev/camelot/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/camelot-dev/camelot)
+  * [ Issues  ](/camelot-dev/camelot/issues)
+  * [ Pull requests  ](/camelot-dev/camelot/pulls)
+  * [ Actions  ](/camelot-dev/camelot/actions)
+  * [ Projects  ](/camelot-dev/camelot/projects)
+  * [ Wiki  ](/camelot-dev/camelot/wiki)
+  * [ Security  ](/camelot-dev/camelot/security)
+  * [ Insights  ](/camelot-dev/camelot/pulse)
+
+
+
+# camelot-dev/camelot
+
+master
+
+[**10** Branches](/camelot-dev/camelot/branches)[**26** Tags](/camelot-dev/camelot/tags)
+
+[](/camelot-dev/camelot/branches)[](/camelot-dev/camelot/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![vinayak-mehta](https://avatars.githubusercontent.com/u/4329421?v=4&size=40)](/vinayak-mehta)[vinayak-mehta](/camelot-dev/camelot/commits?author=vinayak-mehta)[Fix favicon](/camelot-dev/camelot/commit/b15be195356351be8b23b00d5fdaf1549488463e)Jan 2, 2025[b15be19](/camelot-dev/camelot/commit/b15be195356351be8b23b00d5fdaf1549488463e) · Jan 2, 2025
+
+## History
+
+[1,224 Commits](/camelot-dev/camelot/commits/master/)[](/camelot-dev/camelot/commits/master/)  
+[.github](/camelot-dev/camelot/tree/master/.github ".github")| [.github](/camelot-dev/camelot/tree/master/.github ".github")| [Revert "Replace codecov with deepsource"](/camelot-dev/camelot/commit/69779b310c34db701ac6f941a6010e5211c94e6f "Revert "Replace codecov with deepsource"")| Dec 31, 2024  
+[camelot](/camelot-dev/camelot/tree/master/camelot "camelot")| [camelot](/camelot-dev/camelot/tree/master/camelot "camelot")| [Update installation docs and bump version](/camelot-dev/camelot/commit/c771cb6e74ad1995787730ec3c0bbad95fa55ae5 "Update installation docs and bump version")| Dec 30, 2024  
+[docs](/camelot-dev/camelot/tree/master/docs "docs")| [docs](/camelot-dev/camelot/tree/master/docs "docs")| [Fix favicon](/camelot-dev/camelot/commit/b15be195356351be8b23b00d5fdaf1549488463e "Fix favicon")| Jan 2, 2025  
+[examples](/camelot-dev/camelot/tree/master/examples "examples")| [examples](/camelot-dev/camelot/tree/master/examples "examples")| [Fix pdf link](/camelot-dev/camelot/commit/c5bff46e182a4e16681fa7b9e03b11a92ea33a0d "Fix pdf link")| Dec 30, 2024  
+[tests](/camelot-dev/camelot/tree/master/tests "tests")| [tests](/camelot-dev/camelot/tree/master/tests "tests")| [Fix pre-commit](/camelot-dev/camelot/commit/fe853c6e5034d4f4657012099ebcbb966ab2f827 "Fix pre-commit")| Dec 27, 2024  
+[.flake8](/camelot-dev/camelot/blob/master/.flake8 ".flake8")| [.flake8](/camelot-dev/camelot/blob/master/.flake8 ".flake8")| [Fix naming](/camelot-dev/camelot/commit/86a78ebe7411d961c6b07e86a12238175cde05f0 "Fix naming")| Dec 26, 2024  
+[.gitattributes](/camelot-dev/camelot/blob/master/.gitattributes ".gitattributes")| [.gitattributes](/camelot-dev/camelot/blob/master/.gitattributes ".gitattributes")| [Release camelot-fork 0.20.1 (](/camelot-dev/camelot/commit/e12fba4aa691941f421e5c190d72b2c23acc60d9 "Release camelot-fork 0.20.1 \(#353\)
+This PR contains a ton of improvements. They are merged via a squash-commit, but the individual changes are visible in the PR:
+* Add hypermodern python to the original repo
+* Add conftest.py and skip tests that depend on poppler
+* Align the type of PDFHandler.filepath with PdfReader.stream so Path and IO objects are accepted
+* Pre-commit
+* Initialized Table.df as empty DataFrame
+* Fixed: ValueError: min\(\) arg is an empty sequence
+* Fix: unwanted data leaks into the last cell
+* added test case for method bbox_no_intersection method
+* Update test fixtures and remove unused imports
+* Fixed ZeroDivisionError in text_in_bbox
+* camelot-fork 0.20.1
+* chore: revert changes to README.md
+* Remove references from pyproject to the fork
+* Fix install ghostscript
+* Poetry update
+* Removed references to me as person or to the camelot-fork repo
+---------
+Co-authored-by: Jinjun Liang <kumkee@users.noreply.github.com>
+Co-authored-by: Manish Patwari <manish.patwari@ymail.com>
+Co-authored-by: zhy <zhyn4098@corp.netease.com>
+Co-authored-by: Rahul.Bhave <rahul.bhave@qxf2.com>
+Co-authored-by: Constantine Parkhimovich <const@fundcogito.com>")[#353](https://github.com/camelot-dev/camelot/pull/353)[)](/camelot-dev/camelot/commit/e12fba4aa691941f421e5c190d72b2c23acc60d9 "Release camelot-fork 0.20.1 \(#353\)
+This PR contains a ton of improvements. They are merged via a squash-commit, but the individual changes are visible in the PR:
+* Add hypermodern python to the original repo
+* Add conftest.py and skip tests that depend on poppler
+* Align the type of PDFHandler.filepath with PdfReader.stream so Path and IO objects are accepted
+* Pre-commit
+* Initialized Table.df as empty DataFrame
+* Fixed: ValueError: min\(\) arg is an empty sequence
+* Fix: unwanted data leaks into the last cell
+* added test case for method bbox_no_intersection method
+* Update test fixtures and remove unused imports
+* Fixed ZeroDivisionError in text_in_bbox
+* camelot-fork 0.20.1
+* chore: revert changes to README.md
+* Remove references from pyproject to the fork
+* Fix install ghostscript
+* Poetry update
+* Removed references to me as person or to the camelot-fork repo
+---------
+Co-authored-by: Jinjun Liang <kumkee@users.noreply.github.com>
+Co-authored-by: Manish Patwari <manish.patwari@ymail.com>
+Co-authored-by: zhy <zhyn4098@corp.netease.com>
+Co-authored-by: Rahul.Bhave <rahul.bhave@qxf2.com>
+Co-authored-by: Constantine Parkhimovich <const@fundcogito.com>")| Sep 11, 2023  
+[.gitignore](/camelot-dev/camelot/blob/master/.gitignore ".gitignore")| [.gitignore](/camelot-dev/camelot/blob/master/.gitignore ".gitignore")| [[STYLE]: Pre-commit-changes, mostly black the code](/camelot-dev/camelot/commit/77f42e98f5ee45113e6c9717d804ecc5b231fc0d "\[STYLE\]: Pre-commit-changes, mostly black the code")| Oct 5, 2024  
+[.pre-commit-config.yaml](/camelot-dev/camelot/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/camelot-dev/camelot/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Fix pre-commit](/camelot-dev/camelot/commit/fe853c6e5034d4f4657012099ebcbb966ab2f827 "Fix pre-commit")| Dec 27, 2024  
+[.readthedocs.yml](/camelot-dev/camelot/blob/master/.readthedocs.yml ".readthedocs.yml")| [.readthedocs.yml](/camelot-dev/camelot/blob/master/.readthedocs.yml ".readthedocs.yml")| [Release camelot-fork 0.20.1 (](/camelot-dev/camelot/commit/e12fba4aa691941f421e5c190d72b2c23acc60d9 "Release camelot-fork 0.20.1 \(#353\)
+This PR contains a ton of improvements. They are merged via a squash-commit, but the individual changes are visible in the PR:
+* Add hypermodern python to the original repo
+* Add conftest.py and skip tests that depend on poppler
+* Align the type of PDFHandler.filepath with PdfReader.stream so Path and IO objects are accepted
+* Pre-commit
+* Initialized Table.df as empty DataFrame
+* Fixed: ValueError: min\(\) arg is an empty sequence
+* Fix: unwanted data leaks into the last cell
+* added test case for method bbox_no_intersection method
+* Update test fixtures and remove unused imports
+* Fixed ZeroDivisionError in text_in_bbox
+* camelot-fork 0.20.1
+* chore: revert changes to README.md
+* Remove references from pyproject to the fork
+* Fix install ghostscript
+* Poetry update
+* Removed references to me as person or to the camelot-fork repo
+---------
+Co-authored-by: Jinjun Liang <kumkee@users.noreply.github.com>
+Co-authored-by: Manish Patwari <manish.patwari@ymail.com>
+Co-authored-by: zhy <zhyn4098@corp.netease.com>
+Co-authored-by: Rahul.Bhave <rahul.bhave@qxf2.com>
+Co-authored-by: Constantine Parkhimovich <const@fundcogito.com>")[#353](https://github.com/camelot-dev/camelot/pull/353)[)](/camelot-dev/camelot/commit/e12fba4aa691941f421e5c190d72b2c23acc60d9 "Release camelot-fork 0.20.1 \(#353\)
+This PR contains a ton of improvements. They are merged via a squash-commit, but the individual changes are visible in the PR:
+* Add hypermodern python to the original repo
+* Add conftest.py and skip tests that depend on poppler
+* Align the type of PDFHandler.filepath with PdfReader.stream so Path and IO objects are accepted
+* Pre-commit
+* Initialized Table.df as empty DataFrame
+* Fixed: ValueError: min\(\) arg is an empty sequence
+* Fix: unwanted data leaks into the last cell
+* added test case for method bbox_no_intersection method
+* Update test fixtures and remove unused imports
+* Fixed ZeroDivisionError in text_in_bbox
+* camelot-fork 0.20.1
+* chore: revert changes to README.md
+* Remove references from pyproject to the fork
+* Fix install ghostscript
+* Poetry update
+* Removed references to me as person or to the camelot-fork repo
+---------
+Co-authored-by: Jinjun Liang <kumkee@users.noreply.github.com>
+Co-authored-by: Manish Patwari <manish.patwari@ymail.com>
+Co-authored-by: zhy <zhyn4098@corp.netease.com>
+Co-authored-by: Rahul.Bhave <rahul.bhave@qxf2.com>
+Co-authored-by: Constantine Parkhimovich <const@fundcogito.com>")| Sep 11, 2023  
+[CODE_OF_CONDUCT.md](/camelot-dev/camelot/blob/master/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/camelot-dev/camelot/blob/master/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Fix naming](/camelot-dev/camelot/commit/86a78ebe7411d961c6b07e86a12238175cde05f0 "Fix naming")| Dec 26, 2024  
+[LICENSE](/camelot-dev/camelot/blob/master/LICENSE "LICENSE")| [LICENSE](/camelot-dev/camelot/blob/master/LICENSE "LICENSE")| [Fix naming](/camelot-dev/camelot/commit/86a78ebe7411d961c6b07e86a12238175cde05f0 "Fix naming")| Dec 26, 2024  
+[README.md](/camelot-dev/camelot/blob/master/README.md "README.md")| [README.md](/camelot-dev/camelot/blob/master/README.md "README.md")| [Fix notebook link](/camelot-dev/camelot/commit/b6f778713ea2dc44ed910633a08bac726a63e4d7 "Fix notebook link")| Dec 30, 2024  
+[codecov.yml](/camelot-dev/camelot/blob/master/codecov.yml "codecov.yml")| [codecov.yml](/camelot-dev/camelot/blob/master/codecov.yml "codecov.yml")| [Add comment](/camelot-dev/camelot/commit/dc9a024eafd7c1d724dcc0582e6e9a940bad95bc "Add comment")| Dec 31, 2024  
+[noxfile.py](/camelot-dev/camelot/blob/master/noxfile.py "noxfile.py")| [noxfile.py](/camelot-dev/camelot/blob/master/noxfile.py "noxfile.py")| [Fix pre-commit](/camelot-dev/camelot/commit/9bcb85559d239f50aa54b1e5068c85572f257c52 "Fix pre-commit")| Dec 27, 2024  
+[pyproject.toml](/camelot-dev/camelot/blob/master/pyproject.toml "pyproject.toml")| [pyproject.toml](/camelot-dev/camelot/blob/master/pyproject.toml "pyproject.toml")| [Add classifiers](/camelot-dev/camelot/commit/41b14de085539ede22d7e27aa32f015b8aa8d9d1 "Add classifiers")| Dec 30, 2024  
+[requirements.txt](/camelot-dev/camelot/blob/master/requirements.txt "requirements.txt")| [requirements.txt](/camelot-dev/camelot/blob/master/requirements.txt "requirements.txt")| [Fix safety session](/camelot-dev/camelot/commit/e6c8ea61ca0729a07fe9445221986fc2b1f71018 "Fix safety session")| Dec 27, 2024  
+[uv.lock](/camelot-dev/camelot/blob/master/uv.lock "uv.lock")| [uv.lock](/camelot-dev/camelot/blob/master/uv.lock "uv.lock")| [Update build system](/camelot-dev/camelot/commit/12687dc592691adb0d0ac6a10426b7388ea86961 "Update build system")| Dec 30, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [MIT license](#)
+
+
+
+[![](https://raw.githubusercontent.com/camelot-dev/camelot/master/docs/_static/camelot.png)](https://raw.githubusercontent.com/camelot-dev/camelot/master/docs/_static/camelot.png)
+
+# Camelot: PDF Table Extraction for Humans
+
+[](#camelot-pdf-table-extraction-for-humans)
+
+[![tests](https://github.com/camelot-dev/camelot/actions/workflows/tests.yml/badge.svg)](https://github.com/camelot-dev/camelot/actions/workflows/tests.yml) [![Documentation Status](https://camo.githubusercontent.com/f1702ad6a029725578ea70bea3aee3e7e871fdfe061b8294c59835fe803cb87e/68747470733a2f2f72656164746865646f63732e6f72672f70726f6a656374732f63616d656c6f742d70792f62616467652f3f76657273696f6e3d6d6173746572)](https://camelot-py.readthedocs.io/en/master/) [![codecov.io](https://camo.githubusercontent.com/7d2141ad009b9fdb01041a68210a81ee730ad9d22972e19216b486abd7ad0d78/68747470733a2f2f636f6465636f762e696f2f6769746875622f63616d656c6f742d6465762f63616d656c6f742f62616467652e7376673f6272616e63683d6d617374657226736572766963653d676974687562)](https://codecov.io/github/camelot-dev/camelot?branch=master) [![image](https://camo.githubusercontent.com/481af0b822fdf5e0c1e8260f6aff2008c4985bc36d26ca6a19ef4832e69f47c3/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f63616d656c6f742d70792e737667)](https://pypi.org/project/camelot-py/) [![image](https://camo.githubusercontent.com/aad24797289c9ba5761f208056e8e5f897591bd230458fca9660c7d073f16330/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f63616d656c6f742d70792e737667)](https://pypi.org/project/camelot-py/) [![image](https://camo.githubusercontent.com/53d02401547e1087325c53110a25aadc135919ec2a1a58455717e9927bece69b/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f63616d656c6f742d70792e737667)](https://pypi.org/project/camelot-py/)
+
+**Camelot** is a Python library that can help you extract tables from PDFs.
+
+**Extract tables from PDFs in just a few lines of code:**
+
+Try it yourself in our interactive quickstart notebook. [![image](https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/camelot-dev/camelot/blob/master/examples/camelot-quickstart-notebook.ipynb)
+
+Or check out a simple example using [this pdf](https://github.com/camelot-dev/camelot/blob/main/docs/_static/pdf/foo.pdf).
+
+```
+>>> import camelot >>> tables = camelot.read_pdf('foo.pdf') >>> tables <TableList n=1> >>> tables.export('foo.csv', f='csv', compress=True) # json, excel, html, markdown, sqlite >>> tables[0] <Table shape=(7, 7)> >>> tables[0].parsing_report { 'accuracy': 99.02, 'whitespace': 12.24, 'order': 1, 'page': 1 } >>> tables[0].to_csv('foo.csv') # to_json, to_excel, to_html, to_markdown, to_sqlite >>> tables[0].df # get a pandas DataFrame! 
+``` Cycle Name | KI (1/km) | Distance (mi) | Percent Fuel Savings  
+---|---|---|---  
+Improved Speed | Decreased Accel | Eliminate Stops | Decreased Idle  
+2012_2 | 3.30 | 1.3 | 5.9% | 9.5% | 29.2% | 17.4%  
+2145_1 | 0.68 | 11.2 | 2.4% | 0.1% | 9.5% | 2.7%  
+4234_1 | 0.59 | 58.7 | 8.5% | 1.3% | 8.5% | 3.3%  
+2032_2 | 0.17 | 57.8 | 21.7% | 0.3% | 2.7% | 1.2%  
+4171_1 | 0.07 | 173.9 | 58.1% | 1.6% | 2.1% | 0.5%  
+  
+Camelot also comes packaged with a [command-line interface](https://camelot-py.readthedocs.io/en/latest/user/cli.html)!
+
+Refer to the [QuickStart Guide](https://github.com/camelot-dev/camelot/blob/main/docs/user/quickstart.rst#quickstart) to quickly get started with Camelot, extract tables from PDFs and explore some basic options.
+
+**Tip:** Visit the `parser-comparison-notebook` to get an overview of all the packed parsers and their features. [![image](https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/camelot-dev/camelot/blob/master/examples/parser-comparison-notebook.ipynb)
+
+**Note:** Camelot only works with text-based PDFs and not scanned documents. (As Tabula [explains](https://github.com/tabulapdf/tabula#why-tabula), "If you can click and drag to select text in your table in a PDF viewer, then your PDF is text-based".)
+
+You can check out some frequently asked questions [here](https://camelot-py.readthedocs.io/en/latest/user/faq.html).
+
+## Why Camelot?
+
+[](#why-camelot)
+
+  * **Configurability** : Camelot gives you control over the table extraction process with [tweakable settings](https://camelot-py.readthedocs.io/en/latest/user/advanced.html).
+  * **Metrics** : You can discard bad tables based on metrics like accuracy and whitespace, without having to manually look at each table.
+  * **Output** : Each table is extracted into a **pandas DataFrame** , which seamlessly integrates into [ETL and data analysis workflows](https://gist.github.com/vinayak-mehta/e5949f7c2410a0e12f25d3682dc9e873). You can also export tables to multiple formats, which include CSV, JSON, Excel, HTML, Markdown, and Sqlite.
+
+
+
+See [comparison with similar libraries and tools](https://github.com/camelot-dev/camelot/wiki/Comparison-with-other-PDF-Table-Extraction-libraries-and-tools).
+
+## Installation
+
+[](#installation)
+
+### Using conda
+
+[](#using-conda)
+
+The easiest way to install Camelot is with [conda](https://conda.io/docs/), which is a package manager and environment management system for the [Anaconda](http://docs.continuum.io/anaconda/) distribution.
+
+```
+conda install -c conda-forge camelot-py
+```
+
+### Using pip
+
+[](#using-pip)
+
+After [installing the dependencies](https://camelot-py.readthedocs.io/en/latest/user/install-deps.html) ([tk](https://packages.ubuntu.com/bionic/python/python-tk) and [ghostscript](https://www.ghostscript.com/)), you can also just use pip to install Camelot:
+
+```
+pip install "camelot-py[base]"
+```
+
+### From the source code
+
+[](#from-the-source-code)
+
+After [installing the dependencies](https://camelot-py.readthedocs.io/en/latest/user/install.html#using-pip), clone the repo using:
+
+```
+git clone https://github.com/camelot-dev/camelot.git
+```
+
+and install using pip:
+
+```
+`cd camelot pip install "." `
+```
+
+## Documentation
+
+[](#documentation)
+
+The documentation is available at <http://camelot-py.readthedocs.io/>.
+
+## Wrappers
+
+[](#wrappers)
+
+  * [camelot-php](https://github.com/randomstate/camelot-php) provides a [PHP](https://www.php.net/) wrapper on Camelot.
+
+
+
+## Related projects
+
+[](#related-projects)
+
+  * [camelot-sharp](https://github.com/BobLd/camelot-sharp) provides a C sharp implementation of Camelot.
+
+
+
+## Contributing
+
+[](#contributing)
+
+The [Contributor's Guide](https://camelot-py.readthedocs.io/en/latest/dev/contributing.html) has detailed information about contributing issues, documentation, code, and tests.
+
+## Versioning
+
+[](#versioning)
+
+Camelot uses [Semantic Versioning](https://semver.org/). For the available versions, see the tags on this repository. For the changelog, you can check out the [releases](https://github.com/camelot-dev/camelot/releases) page.
+
+## License
+
+[](#license)
+
+This project is licensed under the MIT License, see the [LICENSE](https://github.com/camelot-dev/camelot/blob/main/LICENSE) file for details.
+
+## About
+
+A Python library to extract tabular data from PDFs 
+
+[camelot-py.readthedocs.io](https://camelot-py.readthedocs.io "https://camelot-py.readthedocs.io")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+[ Activity](/camelot-dev/camelot/activity)
+
+[ Custom properties](/camelot-dev/camelot/custom-properties)
+
+### Stars
+
+[ **3.1k** stars](/camelot-dev/camelot/stargazers)
+
+### Watchers
+
+[ **47** watching](/camelot-dev/camelot/watchers)
+
+### Forks
+
+[ **479** forks](/camelot-dev/camelot/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fcamelot-dev%2Fcamelot&report=camelot-dev+%28user%29)
+
+##  [Releases 1](/camelot-dev/camelot/releases)
+
+[ v1.0.0 Latest  Dec 30, 2024 ](/camelot-dev/camelot/releases/tag/v1.0.0)
+
+##  [Packages 0](/orgs/camelot-dev/packages?repo_name=camelot)
+
+No packages published 
+
+##  [Used by 2.5k](/camelot-dev/camelot/network/dependents)
+
+[
+
+  * ![@jg-cadran7](https://avatars.githubusercontent.com/u/195821563?s=64&v=4)
+  * ![@PythonianSt](https://avatars.githubusercontent.com/u/152569656?s=64&v=4)
+  * ![@MaodeColombia](https://avatars.githubusercontent.com/u/9877795?s=64&v=4)
+  * ![@wbcmthh42](https://avatars.githubusercontent.com/u/104043746?s=64&v=4)
+  * ![@BlaHaws](https://avatars.githubusercontent.com/u/30300255?s=64&v=4)
+  * ![@1PD-IS-NO-1](https://avatars.githubusercontent.com/u/148490410?s=64&v=4)
+  * ![@noor-soreti](https://avatars.githubusercontent.com/u/79025861?s=64&v=4)
+  * ![@Dheena1-coder](https://avatars.githubusercontent.com/u/190647523?s=64&v=4)
+
++ 2,541  ](/camelot-dev/camelot/network/dependents)
+
+##  [Contributors 67](/camelot-dev/camelot/graphs/contributors)
+
+  * [ ![@vinayak-mehta](https://avatars.githubusercontent.com/u/4329421?s=64&v=4) ](https://github.com/vinayak-mehta)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@bosd](https://avatars.githubusercontent.com/u/11499387?s=64&v=4) ](https://github.com/bosd)
+  * [ ![@foarsitter](https://avatars.githubusercontent.com/u/3885256?s=64&v=4) ](https://github.com/foarsitter)
+  * [ ![@dimitern](https://avatars.githubusercontent.com/u/619986?s=64&v=4) ](https://github.com/dimitern)
+  * [ ![@snanda85](https://avatars.githubusercontent.com/u/970415?s=64&v=4) ](https://github.com/snanda85)
+  * [ ![@MartinThoma](https://avatars.githubusercontent.com/u/1658117?s=64&v=4) ](https://github.com/MartinThoma)
+  * [ ![@tomprogrammer](https://avatars.githubusercontent.com/u/57975?s=64&v=4) ](https://github.com/tomprogrammer)
+  * [ ![@pravarag](https://avatars.githubusercontent.com/u/2221172?s=64&v=4) ](https://github.com/pravarag)
+  * [ ![@anakin87](https://avatars.githubusercontent.com/u/44616784?s=64&v=4) ](https://github.com/anakin87)
+  * [ ![@matt-dies-tenet3](https://avatars.githubusercontent.com/u/139276823?s=64&v=4) ](https://github.com/matt-dies-tenet3)
+  * [ ![@KOLANICH](https://avatars.githubusercontent.com/u/240344?s=64&v=4) ](https://github.com/KOLANICH)
+  * [ ![@tksumanth1994](https://avatars.githubusercontent.com/u/4353562?s=64&v=4) ](https://github.com/tksumanth1994)
+  * [ ![@vaibhavmule](https://avatars.githubusercontent.com/u/6290791?s=64&v=4) ](https://github.com/vaibhavmule)
+
+
+
+[+ 53 contributors](/camelot-dev/camelot/graphs/contributors)
+
+## Languages
+
+  * [ Python 100.0% ](/camelot-dev/camelot/search?l=python)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

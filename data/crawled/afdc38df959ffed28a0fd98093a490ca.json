@@ -1,0 +1,23 @@
+{
+    "id": "afdc38df959ffed28a0fd98093a490ca",
+    "metadata": {
+        "id": "afdc38df959ffed28a0fd98093a490ca",
+        "url": "https://www.notion.so/Data-versioning-and-governance-afdc38df959ffed28a0fd98093a490ca",
+        "title": "Data versioning and governance",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "de9683ce82646eeb5a90c6a6a9e71bb0",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Tools\n\n\t[https://www.databricks.com/product/unity-catalog](https://www.databricks.com/product/unity-catalog)",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://www.databricks.com/product/unity-catalog/"
+    ]
+}

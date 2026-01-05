@@ -1,0 +1,27 @@
+{
+    "id": "41da99cefcd34a3b0ee3f2d3c9cbbfaa",
+    "metadata": {
+        "id": "41da99cefcd34a3b0ee3f2d3c9cbbfaa",
+        "url": "https://www.notion.so/Cloud-Compute-41da99cefcd34a3b0ee3f2d3c9cbbfaa",
+        "title": "Cloud Compute",
+        "properties": {
+            "Type": "Node"
+        }
+    },
+    "parent_metadata": {
+        "id": "3357a6c8dd6ea318ae30aa2a6e543df0",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Development\n\n[https://lightning.ai/](https://lightning.ai/)\n[https://lambdalabs.com/](https://lambdalabs.com/)\n[https://www.runpod.io/](https://www.runpod.io/)\n[https://colab.google/](https://colab.google/)\n[https://github.com/features/codespaces](https://github.com/features/codespaces)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://www.runpod.io/",
+        "https://colab.google/",
+        "https://github.com/features/codespaces/",
+        "https://lightning.ai/",
+        "https://lambdalabs.com/"
+    ]
+}

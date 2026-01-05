@@ -1,0 +1,835 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FSignificant-Gravitas%2FAutoGPT%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FSignificant-Gravitas%2FAutoGPT%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=Significant-Gravitas%2FAutoGPT) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ Significant-Gravitas ](/Significant-Gravitas) / **[AutoGPT](/Significant-Gravitas/AutoGPT) ** Public
+
+  * [ Notifications ](/login?return_to=%2FSignificant-Gravitas%2FAutoGPT) You must be signed in to change notification settings
+  * [ Fork 44.9k ](/login?return_to=%2FSignificant-Gravitas%2FAutoGPT)
+  * [ Star  171k ](/login?return_to=%2FSignificant-Gravitas%2FAutoGPT)
+
+
+
+
+AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 
+
+[agpt.co](https://agpt.co "https://agpt.co")
+
+### License
+
+[ View license ](/Significant-Gravitas/AutoGPT/blob/master/LICENSE)
+
+[ 171k stars ](/Significant-Gravitas/AutoGPT/stargazers) [ 44.9k forks ](/Significant-Gravitas/AutoGPT/forks) [ Branches ](/Significant-Gravitas/AutoGPT/branches) [ Tags ](/Significant-Gravitas/AutoGPT/tags) [ Activity ](/Significant-Gravitas/AutoGPT/activity)
+
+[ Star  ](/login?return_to=%2FSignificant-Gravitas%2FAutoGPT)
+
+[ Notifications ](/login?return_to=%2FSignificant-Gravitas%2FAutoGPT) You must be signed in to change notification settings
+
+  * [ Code ](/Significant-Gravitas/AutoGPT)
+  * [ Issues 172 ](/Significant-Gravitas/AutoGPT/issues)
+  * [ Pull requests 38 ](/Significant-Gravitas/AutoGPT/pulls)
+  * [ Actions ](/Significant-Gravitas/AutoGPT/actions)
+  * [ Projects 4 ](/Significant-Gravitas/AutoGPT/projects)
+  * [ Wiki ](/Significant-Gravitas/AutoGPT/wiki)
+  * [ Security 3 ](/Significant-Gravitas/AutoGPT/security)
+  * [ Insights ](/Significant-Gravitas/AutoGPT/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/Significant-Gravitas/AutoGPT)
+  * [ Issues  ](/Significant-Gravitas/AutoGPT/issues)
+  * [ Pull requests  ](/Significant-Gravitas/AutoGPT/pulls)
+  * [ Actions  ](/Significant-Gravitas/AutoGPT/actions)
+  * [ Projects  ](/Significant-Gravitas/AutoGPT/projects)
+  * [ Wiki  ](/Significant-Gravitas/AutoGPT/wiki)
+  * [ Security  ](/Significant-Gravitas/AutoGPT/security)
+  * [ Insights  ](/Significant-Gravitas/AutoGPT/pulse)
+
+
+
+# Significant-Gravitas/AutoGPT
+
+master
+
+[**153** Branches](/Significant-Gravitas/AutoGPT/branches)[**35** Tags](/Significant-Gravitas/AutoGPT/tags)
+
+[](/Significant-Gravitas/AutoGPT/branches)[](/Significant-Gravitas/AutoGPT/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![aarushik93](https://avatars.githubusercontent.com/u/50577581?v=4&size=40)](/aarushik93)[aarushik93](/Significant-Gravitas/AutoGPT/commits?author=aarushik93)[Revert "feature(backend): Add ability to execute store agents without…](/Significant-Gravitas/AutoGPT/commit/fe84cbe5664943f5820d0d036bbe727a1e3d2eb9)Jan 13, 2025[fe84cbe](/Significant-Gravitas/AutoGPT/commit/fe84cbe5664943f5820d0d036bbe727a1e3d2eb9) · Jan 13, 2025
+
+## History
+
+[6,289 Commits](/Significant-Gravitas/AutoGPT/commits/master/)[](/Significant-Gravitas/AutoGPT/commits/master/)  
+[.github](/Significant-Gravitas/AutoGPT/tree/master/.github ".github")| [.github](/Significant-Gravitas/AutoGPT/tree/master/.github ".github")| [refactor(marketplace): Delete Old marketplace code (](/Significant-Gravitas/AutoGPT/commit/0b9c0c9f12ccd770e6949780a23589b83d30d91a "refactor\(marketplace\): Delete Old marketplace code \(#9164\)
+Needs to be coordinated with Infra PR
+https://github.com/Significant-Gravitas/AutoGPT_cloud_infrastructure/pull/20
+DO NOT MERGE WITHOUT SYNCING BOTH CHANGES
+### Changes 🏗️
+- Delete marketplace")[#9164](https://github.com/Significant-Gravitas/AutoGPT/pull/9164)[)](/Significant-Gravitas/AutoGPT/commit/0b9c0c9f12ccd770e6949780a23589b83d30d91a "refactor\(marketplace\): Delete Old marketplace code \(#9164\)
+Needs to be coordinated with Infra PR
+https://github.com/Significant-Gravitas/AutoGPT_cloud_infrastructure/pull/20
+DO NOT MERGE WITHOUT SYNCING BOTH CHANGES
+### Changes 🏗️
+- Delete marketplace")| Jan 7, 2025  
+[.vscode](/Significant-Gravitas/AutoGPT/tree/master/.vscode ".vscode")| [.vscode](/Significant-Gravitas/AutoGPT/tree/master/.vscode ".vscode")| [build: add launch.json debugging for vscode (](/Significant-Gravitas/AutoGPT/commit/0b5b95eff5e18c1e162d2b30b66a7be2bed1cbc2 "build: add launch.json debugging for vscode \(#8496\)
+Co-authored-by: Aarushi <50577581+aarushik93@users.noreply.github.com>")[#8496](https://github.com/Significant-Gravitas/AutoGPT/pull/8496)[)](/Significant-Gravitas/AutoGPT/commit/0b5b95eff5e18c1e162d2b30b66a7be2bed1cbc2 "build: add launch.json debugging for vscode \(#8496\)
+Co-authored-by: Aarushi <50577581+aarushik93@users.noreply.github.com>")| Nov 8, 2024  
+[assets](/Significant-Gravitas/AutoGPT/tree/master/assets "assets")| [assets](/Significant-Gravitas/AutoGPT/tree/master/assets "assets")| [feat(server, autogpt): Add Example files and update build option (](/Significant-Gravitas/AutoGPT/commit/785a40ff9defd01be0b57fc797ec940627f00c46 "feat\(server, autogpt\): Add Example files and update build option \(#7271\)")[#7271](https://github.com/Significant-Gravitas/AutoGPT/pull/7271)[)](/Significant-Gravitas/AutoGPT/commit/785a40ff9defd01be0b57fc797ec940627f00c46 "feat\(server, autogpt\): Add Example files and update build option \(#7271\)")| Jun 27, 2024  
+[autogpt_platform](/Significant-Gravitas/AutoGPT/tree/master/autogpt_platform "autogpt_platform")| [autogpt_platform](/Significant-Gravitas/AutoGPT/tree/master/autogpt_platform "autogpt_platform")| [Revert "feature(backend): Add ability to execute store agents without…](/Significant-Gravitas/AutoGPT/commit/fe84cbe5664943f5820d0d036bbe727a1e3d2eb9 "Revert "feature\(backend\): Add ability to execute store agents without agent ownership" \(#9263\)
+Reverts Significant-Gravitas/AutoGPT#9179
+This PR is preventing the running of agents in dev.")| Jan 13, 2025  
+[classic](/Significant-Gravitas/AutoGPT/tree/master/classic "classic")| [classic](/Significant-Gravitas/AutoGPT/tree/master/classic "classic")| [Fix Poetry v2.0.0 compatibility (](/Significant-Gravitas/AutoGPT/commit/d638c1f484bad1d42e9aa4f73c30893f65c268dd "Fix Poetry v2.0.0 compatibility \(#9197\)
+Make all changes necessary to make everything work with Poetry v2.0.0.
+- Resolves #9196
+## Changes
+- Removed `--no-update` flag from `poetry lock` command in codebase
+- Removed extra path arguments from `poetry -C \[path\] run \[command\]`
+occurrences
+- Regenerated all lock files in hierarchical order
+- Added workaround for Poetry bug where `packages.\[i\].format` is now
+suddenly required
+Additionally:
+- Fixed up .dockerignore
+ - Fixes .venv being erroneously copied over from local
+ - Fixes build context bloat \(300MB -> 2.5MB\)
+- Fixed warnings about entrypoint script not being installed in docker
+builds
+### Relevant \(breaking\) changes in v2.0.0
+- `--no-update` flag no longer exists for `poetry lock` as it has become
+default behavior
+- The `-C` option now actually changes the directory, so any path
+arguments in `poetry run` commands can/must be removed
+- Poetry v2.0.0 uses the new v2.1 lock file spec, so all lock files have
+to be regenerated to avoid false-positive lock file updates and checks
+on future PRs
+- **BUG:** when specifying `poetry.tool.packages`, `format` is required
+now
+ - python-poetry/poetry#9961
+Full Poetry v2.0.0 release notes and change log:
+https://python-poetry.org/blog/announcing-poetry-2.0.0")[#9197](https://github.com/Significant-Gravitas/AutoGPT/pull/9197)[)](/Significant-Gravitas/AutoGPT/commit/d638c1f484bad1d42e9aa4f73c30893f65c268dd "Fix Poetry v2.0.0 compatibility \(#9197\)
+Make all changes necessary to make everything work with Poetry v2.0.0.
+- Resolves #9196
+## Changes
+- Removed `--no-update` flag from `poetry lock` command in codebase
+- Removed extra path arguments from `poetry -C \[path\] run \[command\]`
+occurrences
+- Regenerated all lock files in hierarchical order
+- Added workaround for Poetry bug where `packages.\[i\].format` is now
+suddenly required
+Additionally:
+- Fixed up .dockerignore
+ - Fixes .venv being erroneously copied over from local
+ - Fixes build context bloat \(300MB -> 2.5MB\)
+- Fixed warnings about entrypoint script not being installed in docker
+builds
+### Relevant \(breaking\) changes in v2.0.0
+- `--no-update` flag no longer exists for `poetry lock` as it has become
+default behavior
+- The `-C` option now actually changes the directory, so any path
+arguments in `poetry run` commands can/must be removed
+- Poetry v2.0.0 uses the new v2.1 lock file spec, so all lock files have
+to be regenerated to avoid false-positive lock file updates and checks
+on future PRs
+- **BUG:** when specifying `poetry.tool.packages`, `format` is required
+now
+ - python-poetry/poetry#9961
+Full Poetry v2.0.0 release notes and change log:
+https://python-poetry.org/blog/announcing-poetry-2.0.0")| Jan 7, 2025  
+[docs](/Significant-Gravitas/AutoGPT/tree/master/docs "docs")| [docs](/Significant-Gravitas/AutoGPT/tree/master/docs "docs")| [docs(Ollama): Update Ollama docs (](/Significant-Gravitas/AutoGPT/commit/a1889e6212840c39cd44b103700783720864056e "docs\(Ollama\): Update Ollama docs \(#9234\)
+The Ollama docs where very out of date and needed updating so I have
+updated them and added some screenshots so its easier to follow.
+I have also added a new Ollama model to the platform, "llama3.2" as that
+is what i based the tutorial off and its name is easy to find in the
+list of models
+I also added a new folder in the "imgs" dir to store the Ollama related
+photo just to keep things tidy")[#9234](https://github.com/Significant-Gravitas/AutoGPT/pull/9234)[)](/Significant-Gravitas/AutoGPT/commit/a1889e6212840c39cd44b103700783720864056e "docs\(Ollama\): Update Ollama docs \(#9234\)
+The Ollama docs where very out of date and needed updating so I have
+updated them and added some screenshots so its easier to follow.
+I have also added a new Ollama model to the platform, "llama3.2" as that
+is what i based the tutorial off and its name is easy to find in the
+list of models
+I also added a new folder in the "imgs" dir to store the Ollama related
+photo just to keep things tidy")| Jan 9, 2025  
+[.dockerignore](/Significant-Gravitas/AutoGPT/blob/master/.dockerignore ".dockerignore")| [.dockerignore](/Significant-Gravitas/AutoGPT/blob/master/.dockerignore ".dockerignore")| [Fix Poetry v2.0.0 compatibility (](/Significant-Gravitas/AutoGPT/commit/d638c1f484bad1d42e9aa4f73c30893f65c268dd "Fix Poetry v2.0.0 compatibility \(#9197\)
+Make all changes necessary to make everything work with Poetry v2.0.0.
+- Resolves #9196
+## Changes
+- Removed `--no-update` flag from `poetry lock` command in codebase
+- Removed extra path arguments from `poetry -C \[path\] run \[command\]`
+occurrences
+- Regenerated all lock files in hierarchical order
+- Added workaround for Poetry bug where `packages.\[i\].format` is now
+suddenly required
+Additionally:
+- Fixed up .dockerignore
+ - Fixes .venv being erroneously copied over from local
+ - Fixes build context bloat \(300MB -> 2.5MB\)
+- Fixed warnings about entrypoint script not being installed in docker
+builds
+### Relevant \(breaking\) changes in v2.0.0
+- `--no-update` flag no longer exists for `poetry lock` as it has become
+default behavior
+- The `-C` option now actually changes the directory, so any path
+arguments in `poetry run` commands can/must be removed
+- Poetry v2.0.0 uses the new v2.1 lock file spec, so all lock files have
+to be regenerated to avoid false-positive lock file updates and checks
+on future PRs
+- **BUG:** when specifying `poetry.tool.packages`, `format` is required
+now
+ - python-poetry/poetry#9961
+Full Poetry v2.0.0 release notes and change log:
+https://python-poetry.org/blog/announcing-poetry-2.0.0")[#9197](https://github.com/Significant-Gravitas/AutoGPT/pull/9197)[)](/Significant-Gravitas/AutoGPT/commit/d638c1f484bad1d42e9aa4f73c30893f65c268dd "Fix Poetry v2.0.0 compatibility \(#9197\)
+Make all changes necessary to make everything work with Poetry v2.0.0.
+- Resolves #9196
+## Changes
+- Removed `--no-update` flag from `poetry lock` command in codebase
+- Removed extra path arguments from `poetry -C \[path\] run \[command\]`
+occurrences
+- Regenerated all lock files in hierarchical order
+- Added workaround for Poetry bug where `packages.\[i\].format` is now
+suddenly required
+Additionally:
+- Fixed up .dockerignore
+ - Fixes .venv being erroneously copied over from local
+ - Fixes build context bloat \(300MB -> 2.5MB\)
+- Fixed warnings about entrypoint script not being installed in docker
+builds
+### Relevant \(breaking\) changes in v2.0.0
+- `--no-update` flag no longer exists for `poetry lock` as it has become
+default behavior
+- The `-C` option now actually changes the directory, so any path
+arguments in `poetry run` commands can/must be removed
+- Poetry v2.0.0 uses the new v2.1 lock file spec, so all lock files have
+to be regenerated to avoid false-positive lock file updates and checks
+on future PRs
+- **BUG:** when specifying `poetry.tool.packages`, `format` is required
+now
+ - python-poetry/poetry#9961
+Full Poetry v2.0.0 release notes and change log:
+https://python-poetry.org/blog/announcing-poetry-2.0.0")| Jan 7, 2025  
+[.gitattributes](/Significant-Gravitas/AutoGPT/blob/master/.gitattributes ".gitattributes")| [.gitattributes](/Significant-Gravitas/AutoGPT/blob/master/.gitattributes ".gitattributes")| [refactor: AutoGPT Platform Stealth Launch Repo Re-Org (](/Significant-Gravitas/AutoGPT/commit/ef7cfbb8602385685e375f6a7740af223184683a "refactor: AutoGPT Platform Stealth Launch Repo Re-Org \(#8113\)
+Restructuring the Repo to make it clear the difference between classic autogpt and the autogpt platform:
+* Move the "classic" projects `autogpt`, `forge`, `frontend`, and `benchmark` into a `classic` folder
+ * Also rename `autogpt` to `original_autogpt` for absolute clarity
+* Rename `rnd/` to `autogpt_platform/`
+ * `rnd/autogpt_builder` -> `autogpt_platform/frontend`
+ * `rnd/autogpt_server` -> `autogpt_platform/backend`
+* Adjust any paths accordingly")[#8113](https://github.com/Significant-Gravitas/AutoGPT/pull/8113)[)](/Significant-Gravitas/AutoGPT/commit/ef7cfbb8602385685e375f6a7740af223184683a "refactor: AutoGPT Platform Stealth Launch Repo Re-Org \(#8113\)
+Restructuring the Repo to make it clear the difference between classic autogpt and the autogpt platform:
+* Move the "classic" projects `autogpt`, `forge`, `frontend`, and `benchmark` into a `classic` folder
+ * Also rename `autogpt` to `original_autogpt` for absolute clarity
+* Rename `rnd/` to `autogpt_platform/`
+ * `rnd/autogpt_builder` -> `autogpt_platform/frontend`
+ * `rnd/autogpt_server` -> `autogpt_platform/backend`
+* Adjust any paths accordingly")| Sep 20, 2024  
+[.gitignore](/Significant-Gravitas/AutoGPT/blob/master/.gitignore ".gitignore")| [.gitignore](/Significant-Gravitas/AutoGPT/blob/master/.gitignore ".gitignore")| [feat(platform): Agent Store V2 (](/Significant-Gravitas/AutoGPT/commit/2de5e3dd8395af856f433a179cdb48b148b8d034 "feat\(platform\): Agent Store V2 \(#8874\)
+# 🌎 Overview
+AutoGPT Store Version 2 expands on the Pre-Store by enhancing agent
+discovery, providing richer content presentation, and introducing new
+user engagement features. The focus is on creating a visually appealing
+and interactive marketplace that allows users to explore and evaluate
+agents through images, videos, and detailed descriptions.
+### Vision
+To create a visually compelling and interactive open-source marketplace
+for autonomous AI agents, where users can easily discover, evaluate, and
+interact with agents through media-rich listings, ratings, and version
+history.
+### Objectives
+📊 Incorporate visuals \(icons, images, videos\) into agent listings.
+⭐ Introduce a rating system and agent run count.
+🔄 Provide version history and update logs from creators.
+🔍 Improve user experience with advanced search and filtering features.
+### Changes 🏗️
+<!-- Concisely describe all of the changes made in this pull request:
+-->
+### Checklist 📋
+#### For code changes:
+- \[ \] I have clearly listed my changes in the PR description
+- \[ \] I have made a test plan
+- \[ \] I have tested my changes according to the test plan:
+ <!-- Put your test plan here: -->
+ - \[ \] ...
+<details>
+ <summary>Example test plan</summary>
+ 
+ - \[ \] Create from scratch and execute an agent with at least 3 blocks
+- \[ \] Import an agent from file upload, and confirm it executes
+correctly
+ - \[ \] Upload agent to marketplace
+- \[ \] Import an agent from marketplace and confirm it executes correctly
+ - \[ \] Edit an agent from monitor, and confirm it executes correctly
+</details>
+#### For configuration changes:
+- \[ \] `.env.example` is updated or already compatible with my changes
+- \[ \] `docker-compose.yml` is updated or already compatible with my
+changes
+- \[ \] I have included a list of my configuration changes in the PR
+description \(under **Changes**\)
+<details>
+ <summary>Examples of configuration changes</summary>
+ - Changing ports
+ - Adding new services that need to communicate with each other
+ - Secrets or environment variable changes
+ - New or infrastructure changes such as databases
+</details>
+---------
+Co-authored-by: Bently <tomnoon9@gmail.com>
+Co-authored-by: Aarushi <aarushik93@gmail.com>")[#8874](https://github.com/Significant-Gravitas/AutoGPT/pull/8874)[)](/Significant-Gravitas/AutoGPT/commit/2de5e3dd8395af856f433a179cdb48b148b8d034 "feat\(platform\): Agent Store V2 \(#8874\)
+# 🌎 Overview
+AutoGPT Store Version 2 expands on the Pre-Store by enhancing agent
+discovery, providing richer content presentation, and introducing new
+user engagement features. The focus is on creating a visually appealing
+and interactive marketplace that allows users to explore and evaluate
+agents through images, videos, and detailed descriptions.
+### Vision
+To create a visually compelling and interactive open-source marketplace
+for autonomous AI agents, where users can easily discover, evaluate, and
+interact with agents through media-rich listings, ratings, and version
+history.
+### Objectives
+📊 Incorporate visuals \(icons, images, videos\) into agent listings.
+⭐ Introduce a rating system and agent run count.
+🔄 Provide version history and update logs from creators.
+🔍 Improve user experience with advanced search and filtering features.
+### Changes 🏗️
+<!-- Concisely describe all of the changes made in this pull request:
+-->
+### Checklist 📋
+#### For code changes:
+- \[ \] I have clearly listed my changes in the PR description
+- \[ \] I have made a test plan
+- \[ \] I have tested my changes according to the test plan:
+ <!-- Put your test plan here: -->
+ - \[ \] ...
+<details>
+ <summary>Example test plan</summary>
+ 
+ - \[ \] Create from scratch and execute an agent with at least 3 blocks
+- \[ \] Import an agent from file upload, and confirm it executes
+correctly
+ - \[ \] Upload agent to marketplace
+- \[ \] Import an agent from marketplace and confirm it executes correctly
+ - \[ \] Edit an agent from monitor, and confirm it executes correctly
+</details>
+#### For configuration changes:
+- \[ \] `.env.example` is updated or already compatible with my changes
+- \[ \] `docker-compose.yml` is updated or already compatible with my
+changes
+- \[ \] I have included a list of my configuration changes in the PR
+description \(under **Changes**\)
+<details>
+ <summary>Examples of configuration changes</summary>
+ - Changing ports
+ - Adding new services that need to communicate with each other
+ - Secrets or environment variable changes
+ - New or infrastructure changes such as databases
+</details>
+---------
+Co-authored-by: Bently <tomnoon9@gmail.com>
+Co-authored-by: Aarushi <aarushik93@gmail.com>")| Dec 13, 2024  
+[.gitmodules](/Significant-Gravitas/AutoGPT/blob/master/.gitmodules ".gitmodules")| [.gitmodules](/Significant-Gravitas/AutoGPT/blob/master/.gitmodules ".gitmodules")| [refactor: AutoGPT Platform Stealth Launch Repo Re-Org (](/Significant-Gravitas/AutoGPT/commit/ef7cfbb8602385685e375f6a7740af223184683a "refactor: AutoGPT Platform Stealth Launch Repo Re-Org \(#8113\)
+Restructuring the Repo to make it clear the difference between classic autogpt and the autogpt platform:
+* Move the "classic" projects `autogpt`, `forge`, `frontend`, and `benchmark` into a `classic` folder
+ * Also rename `autogpt` to `original_autogpt` for absolute clarity
+* Rename `rnd/` to `autogpt_platform/`
+ * `rnd/autogpt_builder` -> `autogpt_platform/frontend`
+ * `rnd/autogpt_server` -> `autogpt_platform/backend`
+* Adjust any paths accordingly")[#8113](https://github.com/Significant-Gravitas/AutoGPT/pull/8113)[)](/Significant-Gravitas/AutoGPT/commit/ef7cfbb8602385685e375f6a7740af223184683a "refactor: AutoGPT Platform Stealth Launch Repo Re-Org \(#8113\)
+Restructuring the Repo to make it clear the difference between classic autogpt and the autogpt platform:
+* Move the "classic" projects `autogpt`, `forge`, `frontend`, and `benchmark` into a `classic` folder
+ * Also rename `autogpt` to `original_autogpt` for absolute clarity
+* Rename `rnd/` to `autogpt_platform/`
+ * `rnd/autogpt_builder` -> `autogpt_platform/frontend`
+ * `rnd/autogpt_server` -> `autogpt_platform/backend`
+* Adjust any paths accordingly")| Sep 20, 2024  
+[.pr_agent.toml](/Significant-Gravitas/AutoGPT/blob/master/.pr_agent.toml ".pr_agent.toml")| [.pr_agent.toml](/Significant-Gravitas/AutoGPT/blob/master/.pr_agent.toml ".pr_agent.toml")| [Create .pr_agent.toml](/Significant-Gravitas/AutoGPT/commit/78d83bb3ce8abbbbd4ee8992c73c0e2495682c65 "Create .pr_agent.toml")| May 4, 2024  
+[.pre-commit-config.yaml](/Significant-Gravitas/AutoGPT/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/Significant-Gravitas/AutoGPT/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [dx: Fix `isort` pre-commit hooks](/Significant-Gravitas/AutoGPT/commit/081c4a6df27c37e79c50684a10f5c5b917e4577b "dx: Fix `isort` pre-commit hooks
+Since upgrading to Poetry v2.0.0 the -C flag has been renamed to -P")| Jan 7, 2025  
+[CITATION.cff](/Significant-Gravitas/AutoGPT/blob/master/CITATION.cff "CITATION.cff")| [CITATION.cff](/Significant-Gravitas/AutoGPT/blob/master/CITATION.cff "CITATION.cff")| [Rename autogpts/autogpt/CITATION.cff to CITATION.cff (](/Significant-Gravitas/AutoGPT/commit/b4ee485906c1d8da71ce9b3093996383322980fe "Rename autogpts/autogpt/CITATION.cff to CITATION.cff \(#5785\)
+* Rename autogpts/autogpt/CITATION.cff to CITATION.cff
+* Update CITATION.cff")[#5785](https://github.com/Significant-Gravitas/AutoGPT/pull/5785)[)](/Significant-Gravitas/AutoGPT/commit/b4ee485906c1d8da71ce9b3093996383322980fe "Rename autogpts/autogpt/CITATION.cff to CITATION.cff \(#5785\)
+* Rename autogpts/autogpt/CITATION.cff to CITATION.cff
+* Update CITATION.cff")| Oct 22, 2023  
+[CODE_OF_CONDUCT.md](/Significant-Gravitas/AutoGPT/blob/master/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/Significant-Gravitas/AutoGPT/blob/master/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Relocate CoC and fix symlinks](/Significant-Gravitas/AutoGPT/commit/ae1452c487f7081b73a5aefe56938b1b401a6473 "Relocate CoC and fix symlinks")| Sep 6, 2023  
+[CONTRIBUTING.md](/Significant-Gravitas/AutoGPT/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/Significant-Gravitas/AutoGPT/blob/master/CONTRIBUTING.md "CONTRIBUTING.md")| [tweak(docs): Further clarify licencing (](/Significant-Gravitas/AutoGPT/commit/d42ed088dd15cfbc53094db9d7b78e22cb3f96f5 "tweak\(docs\): Further clarify licencing \(#8282\)
+* Update files via upload
+* Update README.md
+* Update CONTRIBUTING.md
+* Update CONTRIBUTING.md")[#8282](https://github.com/Significant-Gravitas/AutoGPT/pull/8282)[)](/Significant-Gravitas/AutoGPT/commit/d42ed088dd15cfbc53094db9d7b78e22cb3f96f5 "tweak\(docs\): Further clarify licencing \(#8282\)
+* Update files via upload
+* Update README.md
+* Update CONTRIBUTING.md
+* Update CONTRIBUTING.md")| Oct 8, 2024  
+[LICENSE](/Significant-Gravitas/AutoGPT/blob/master/LICENSE "LICENSE")| [LICENSE](/Significant-Gravitas/AutoGPT/blob/master/LICENSE "LICENSE")| [tweak(docs): Further clarify licencing (](/Significant-Gravitas/AutoGPT/commit/d42ed088dd15cfbc53094db9d7b78e22cb3f96f5 "tweak\(docs\): Further clarify licencing \(#8282\)
+* Update files via upload
+* Update README.md
+* Update CONTRIBUTING.md
+* Update CONTRIBUTING.md")[#8282](https://github.com/Significant-Gravitas/AutoGPT/pull/8282)[)](/Significant-Gravitas/AutoGPT/commit/d42ed088dd15cfbc53094db9d7b78e22cb3f96f5 "tweak\(docs\): Further clarify licencing \(#8282\)
+* Update files via upload
+* Update README.md
+* Update CONTRIBUTING.md
+* Update CONTRIBUTING.md")| Oct 8, 2024  
+[README.md](/Significant-Gravitas/AutoGPT/blob/master/README.md "README.md")| [README.md](/Significant-Gravitas/AutoGPT/blob/master/README.md "README.md")| [docs(platform): Fix url in](/Significant-Gravitas/AutoGPT/commit/bc8ae1f5427736db8e778edc9e8e044753a51d0c "docs\(platform\): Fix url in `README.md` \(#8747\)") `[README.md](/Significant-Gravitas/AutoGPT/commit/bc8ae1f5427736db8e778edc9e8e044753a51d0c "docs\(platform\): Fix url in `README.md` \(#8747\)")` [(](/Significant-Gravitas/AutoGPT/commit/bc8ae1f5427736db8e778edc9e8e044753a51d0c "docs\(platform\): Fix url in `README.md` \(#8747\)")[#8747](https://github.com/Significant-Gravitas/AutoGPT/pull/8747)[)](/Significant-Gravitas/AutoGPT/commit/bc8ae1f5427736db8e778edc9e8e044753a51d0c "docs\(platform\): Fix url in `README.md` \(#8747\)")| Nov 23, 2024  
+[SECURITY.md](/Significant-Gravitas/AutoGPT/blob/master/SECURITY.md "SECURITY.md")| [SECURITY.md](/Significant-Gravitas/AutoGPT/blob/master/SECURITY.md "SECURITY.md")| [docs: huntr no longer is offering a security bounty so remove it (](/Significant-Gravitas/AutoGPT/commit/7c2e371f230c0636fa751ea4571e1df86a8c6502 "docs: huntr no longer is offering a security bounty so remove it \(#8872\)
+<!-- Clearly explain the need for these changes: -->
+Huntr isn't offering a security bounty for autogpt at the moment so
+remove it in favor of github security adviosories
+### Changes 🏗️
+<!-- Concisely describe all of the changes made in this pull request:
+-->
+comments out huntr line in case they decide to offer it again in the
+future")[#8872](https://github.com/Significant-Gravitas/AutoGPT/pull/8872)[)](/Significant-Gravitas/AutoGPT/commit/7c2e371f230c0636fa751ea4571e1df86a8c6502 "docs: huntr no longer is offering a security bounty so remove it \(#8872\)
+<!-- Clearly explain the need for these changes: -->
+Huntr isn't offering a security bounty for autogpt at the moment so
+remove it in favor of github security adviosories
+### Changes 🏗️
+<!-- Concisely describe all of the changes made in this pull request:
+-->
+comments out huntr line in case they decide to offer it again in the
+future")| Dec 2, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [License](#)
+  * [Security](#)
+
+
+
+# AutoGPT: Build, Deploy, and Run AI Agents
+
+[](#autogpt-build-deploy-and-run-ai-agents)
+
+[![Discord Follow](https://camo.githubusercontent.com/9cf379fd68984e66397f7693dc43526aa678c4f0d57bbf061f04a732830a7112/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f6175746f6770743f7374796c653d666c6174)](https://discord.gg/autogpt) [![Twitter Follow](https://camo.githubusercontent.com/c7c29fc8df5bafcad73a9cd785955f302740687057f809fb49476bd711b8695f/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f4175746f5f4750543f7374796c653d736f6369616c)](https://twitter.com/Auto_GPT) [![License: MIT](https://camo.githubusercontent.com/6cd0120cc4c5ac11d28b2c60f76033b52db98dac641de3b2644bb054b449d60c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667)](https://opensource.org/licenses/MIT)
+
+**AutoGPT** is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
+
+## Hosting Options
+
+[](#hosting-options)
+
+  * Download to self-host
+  * [Join the Waitlist](https://bit.ly/3ZDijAI) for the cloud-hosted beta
+
+
+
+## How to Setup for Self-Hosting
+
+[](#how-to-setup-for-self-hosting)
+
+Note
+
+Setting up and hosting the AutoGPT Platform yourself is a technical process. If you'd rather something that just works, we recommend [joining the waitlist](https://bit.ly/3ZDijAI) for the cloud-hosted beta.
+
+AutoGPT.Tutorial.Sep.2024.mp4
+
+This tutorial assumes you have Docker, VSCode, git and npm installed.
+
+### 🧱 AutoGPT Frontend
+
+[](#-autogpt-frontend)
+
+The AutoGPT frontend is where users interact with our powerful AI automation platform. It offers multiple ways to engage with and leverage our AI agents. This is the interface where you'll bring your AI automation ideas to life:
+
+**Agent Builder:** For those who want to customize, our intuitive, low-code interface allows you to design and configure your own AI agents.
+
+**Workflow Management:** Build, modify, and optimize your automation workflows with ease. You build your agent by connecting blocks, where each block performs a single action.
+
+**Deployment Controls:** Manage the lifecycle of your agents, from testing to production.
+
+**Ready-to-Use Agents:** Don't want to build? Simply select from our library of pre-configured agents and put them to work immediately.
+
+**Agent Interaction:** Whether you've built your own or are using pre-configured agents, easily run and interact with them through our user-friendly interface.
+
+**Monitoring and Analytics:** Keep track of your agents' performance and gain insights to continually improve your automation processes.
+
+[Read this guide](https://docs.agpt.co/platform/new_blocks/) to learn how to build your own custom blocks.
+
+### 💽 AutoGPT Server
+
+[](#-autogpt-server)
+
+The AutoGPT Server is the powerhouse of our platform This is where your agents run. Once deployed, agents can be triggered by external sources and can operate continuously. It contains all the essential components that make AutoGPT run smoothly.
+
+**Source Code:** The core logic that drives our agents and automation processes.
+
+**Infrastructure:** Robust systems that ensure reliable and scalable performance.
+
+**Marketplace:** A comprehensive marketplace where you can find and deploy a wide range of pre-built agents.
+
+### 🐙 Example Agents
+
+[](#-example-agents)
+
+Here are two examples of what you can do with AutoGPT:
+
+  1. **Generate Viral Videos from Trending Topics**
+
+     * This agent reads topics on Reddit.
+     * It identifies trending topics.
+     * It then automatically creates a short-form video based on the content.
+  2. **Identify Top Quotes from Videos for Social Media**
+
+     * This agent subscribes to your YouTube channel.
+     * When you post a new video, it transcribes it.
+     * It uses AI to identify the most impactful quotes to generate a summary.
+     * Then, it writes a post to automatically publish to your social media.
+
+
+
+These examples show just a glimpse of what you can achieve with AutoGPT! You can create customized workflows to build agents for any use case.
+
+### Mission and Licencing
+
+[](#mission-and-licencing)
+
+Our mission is to provide the tools, so that you can focus on what matters:
+
+  * 🏗️ **Building** - Lay the foundation for something amazing.
+  * 🧪 **Testing** - Fine-tune your agent to perfection.
+  * 🤝 **Delegating** - Let AI work for you, and have your ideas come to life.
+
+
+
+Be part of the revolution! **AutoGPT** is here to stay, at the forefront of AI innovation.
+
+**📖[Documentation](https://docs.agpt.co)** | **🚀[Contributing](/Significant-Gravitas/AutoGPT/blob/master/CONTRIBUTING.md)**
+
+**Licensing:**
+
+MIT License: The majority of the AutoGPT repository is under the MIT License.
+
+Polyform Shield License: This license applies to the autogpt_platform folder.
+
+For more information, see <https://agpt.co/blog/introducing-the-autogpt-platform>
+
+## 🤖 AutoGPT Classic
+
+[](#-autogpt-classic)
+
+> Below is information about the classic version of AutoGPT.
+
+**🛠️[Build your own Agent - Quickstart](/Significant-Gravitas/AutoGPT/blob/master/classic/FORGE-QUICKSTART.md)**
+
+### 🏗️ Forge
+
+[](#️-forge)
+
+**Forge your own agent!** – Forge is a ready-to-go toolkit to build your own agent application. It handles most of the boilerplate code, letting you channel all your creativity into the things that set _your_ agent apart. All tutorials are located [here](https://medium.com/@aiedge/autogpt-forge-e3de53cc58ec). Components from [`forge`](/Significant-Gravitas/AutoGPT/blob/master/classic/forge) can also be used individually to speed up development and reduce boilerplate in your agent project.
+
+🚀 [**Getting Started with Forge**](https://github.com/Significant-Gravitas/AutoGPT/blob/master/classic/forge/tutorials/001_getting_started.md) – This guide will walk you through the process of creating your own agent and using the benchmark and user interface.
+
+📘 [Learn More](https://github.com/Significant-Gravitas/AutoGPT/tree/master/classic/forge) about Forge
+
+### 🎯 Benchmark
+
+[](#-benchmark)
+
+**Measure your agent's performance!** The `agbenchmark` can be used with any agent that supports the agent protocol, and the integration with the project's [CLI](#-cli) makes it even easier to use with AutoGPT and forge-based agents. The benchmark offers a stringent testing environment. Our framework allows for autonomous, objective performance evaluations, ensuring your agents are primed for real-world action.
+
+📦 [`agbenchmark`](https://pypi.org/project/agbenchmark/) on Pypi | 📘 [Learn More](https://github.com/Significant-Gravitas/AutoGPT/tree/master/classic/benchmark) about the Benchmark
+
+### 💻 UI
+
+[](#-ui)
+
+**Makes agents easy to use!** The `frontend` gives you a user-friendly interface to control and monitor your agents. It connects to agents through the [agent protocol](#-agent-protocol), ensuring compatibility with many agents from both inside and outside of our ecosystem.
+
+The frontend works out-of-the-box with all agents in the repo. Just use the [CLI](#-cli) to run your agent of choice!
+
+📘 [Learn More](https://github.com/Significant-Gravitas/AutoGPT/tree/master/classic/frontend) about the Frontend
+
+### ⌨️ CLI
+
+[](#️-cli)
+
+To make it as easy as possible to use all of the tools offered by the repository, a CLI is included at the root of the repo:
+
+```
+$ ./run Usage: cli.py [OPTIONS] COMMAND [ARGS]... Options: --help Show this message and exit. Commands: agent Commands to create, start and stop agents benchmark Commands to start the benchmark and list tests and categories setup Installs dependencies needed for your system.
+```
+
+Just clone the repo, install dependencies with `./run setup`, and you should be good to go!
+
+## 🤔 Questions? Problems? Suggestions?
+
+[](#-questions-problems-suggestions)
+
+### Get help - [Discord 💬](https://discord.gg/autogpt)
+
+[](#get-help---discord-)
+
+[![Join us on Discord](https://camo.githubusercontent.com/7f829233d3d3917bfdfe41dd6fd197e2df8191f0656d2b106ec24b5526fa177a/68747470733a2f2f696e7669646765742e737769746368626c6164652e78797a2f6175746f677074)](https://discord.gg/autogpt)
+
+To report a bug or request a feature, create a [GitHub Issue](https://github.com/Significant-Gravitas/AutoGPT/issues/new/choose). Please ensure someone else hasn’t created an issue for the same topic.
+
+## 🤝 Sister projects
+
+[](#-sister-projects)
+
+### 🔄 Agent Protocol
+
+[](#-agent-protocol)
+
+To maintain a uniform standard and ensure seamless compatibility with many current and future applications, AutoGPT employs the [agent protocol](https://agentprotocol.ai/) standard by the AI Engineer Foundation. This standardizes the communication pathways from your agent to the frontend and benchmark.
+
+## Stars stats
+
+[](#stars-stats)
+
+[ ![Star History Chart](https://camo.githubusercontent.com/c96197032e1e3e32e4bf8a206ad307232256aa5025bf167e6aa6a08efcf5d314/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d5369676e69666963616e742d47726176697461732f4175746f47505426747970653d44617465) ](https://star-history.com/#Significant-Gravitas/AutoGPT)
+
+## ⚡ Contributors
+
+[](#-contributors)
+
+[ ![Contributors](https://camo.githubusercontent.com/2bc6a1a77aeecbb84a638d86a2c8c95bbca60414196b9bfc222c0d5ce61c5e63/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d5369676e69666963616e742d47726176697461732f4175746f475054266d61783d3130303026636f6c756d6e733d3130) ](https://github.com/Significant-Gravitas/AutoGPT/graphs/contributors)
+
+## About
+
+AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 
+
+[agpt.co](https://agpt.co "https://agpt.co")
+
+### Topics
+
+[ python ](/topics/python "Topic: python") [ ai ](/topics/ai "Topic: ai") [ artificial-intelligence ](/topics/artificial-intelligence "Topic: artificial-intelligence") [ openai ](/topics/openai "Topic: openai") [ autonomous-agents ](/topics/autonomous-agents "Topic: autonomous-agents") [ gpt-4 ](/topics/gpt-4 "Topic: gpt-4")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ View license ](#License-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+### Citation
+
+Cite this repository 
+
+Loading
+
+Something went wrong. 
+
+[ Activity](/Significant-Gravitas/AutoGPT/activity)
+
+[ Custom properties](/Significant-Gravitas/AutoGPT/custom-properties)
+
+### Stars
+
+[ **171k** stars](/Significant-Gravitas/AutoGPT/stargazers)
+
+### Watchers
+
+[ **1.5k** watching](/Significant-Gravitas/AutoGPT/watchers)
+
+### Forks
+
+[ **44.9k** forks](/Significant-Gravitas/AutoGPT/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FSignificant-Gravitas%2FAutoGPT&report=Significant-Gravitas+%28user%29)
+
+##  [Releases 34](/Significant-Gravitas/AutoGPT/releases)
+
+[ autogpt-platform-beta-v0.4.3 Latest  Jan 13, 2025 ](/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.4.3)
+
+[+ 33 releases](/Significant-Gravitas/AutoGPT/releases)
+
+##  [Contributors 751](/Significant-Gravitas/AutoGPT/graphs/contributors)
+
+  * [ ![@Auto-GPT-Bot](https://avatars.githubusercontent.com/u/133978099?s=64&v=4) ](https://github.com/Auto-GPT-Bot)
+  * [ ![@Pwuts](https://avatars.githubusercontent.com/u/12185583?s=64&v=4) ](https://github.com/Pwuts)
+  * [ ![@waynehamadi](https://avatars.githubusercontent.com/u/9652976?s=64&v=4) ](https://github.com/waynehamadi)
+  * [ ![@Torantulino](https://avatars.githubusercontent.com/u/22963551?s=64&v=4) ](https://github.com/Torantulino)
+  * [ ![@Swiftyos](https://avatars.githubusercontent.com/u/10382233?s=64&v=4) ](https://github.com/Swiftyos)
+  * [ ![@hunteraraujo](https://avatars.githubusercontent.com/u/28832557?s=64&v=4) ](https://github.com/hunteraraujo)
+  * [ ![@richbeales](https://avatars.githubusercontent.com/u/1500012?s=64&v=4) ](https://github.com/richbeales)
+  * [ ![@ntindle](https://avatars.githubusercontent.com/u/8845353?s=64&v=4) ](https://github.com/ntindle)
+  * [ ![@SilenNaihin](https://avatars.githubusercontent.com/u/44129612?s=64&v=4) ](https://github.com/SilenNaihin)
+  * [ ![@aarushik93](https://avatars.githubusercontent.com/u/50577581?s=64&v=4) ](https://github.com/aarushik93)
+  * [ ![@majdyz](https://avatars.githubusercontent.com/u/76959103?s=64&v=4) ](https://github.com/majdyz)
+  * [ ![@BillSchumacher](https://avatars.githubusercontent.com/u/34168009?s=64&v=4) ](https://github.com/BillSchumacher)
+  * [ ![@Bentlybro](https://avatars.githubusercontent.com/u/27962737?s=64&v=4) ](https://github.com/Bentlybro)
+  * [ ![@kcze](https://avatars.githubusercontent.com/u/34861343?s=64&v=4) ](https://github.com/kcze)
+
+
+
+[+ 737 contributors](/Significant-Gravitas/AutoGPT/graphs/contributors)
+
+## Languages
+
+  * [ Python 62.0% ](/Significant-Gravitas/AutoGPT/search?l=python)
+  * [ TypeScript 29.1% ](/Significant-Gravitas/AutoGPT/search?l=typescript)
+  * [ Dart 5.7% ](/Significant-Gravitas/AutoGPT/search?l=dart)
+  * [ C++ 0.7% ](/Significant-Gravitas/AutoGPT/search?l=c%2B%2B)
+  * [ CMake 0.5% ](/Significant-Gravitas/AutoGPT/search?l=cmake)
+  * [ JavaScript 0.4% ](/Significant-Gravitas/AutoGPT/search?l=javascript)
+  * Other 1.6%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

@@ -1,0 +1,21 @@
+{
+    "id": "7bcf4a7dbc5baa0e3e6e73876c121ebd",
+    "metadata": {
+        "id": "7bcf4a7dbc5baa0e3e6e73876c121ebd",
+        "url": "https://www.notion.so/Design-Patterns-7bcf4a7dbc5baa0e3e6e73876c121ebd",
+        "title": "Design Patterns",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "e6a637eea0f02dc148de7a8cc47db796",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Notes\n\n\n\n<child_page>\n# Design Patterns\n\n# Training code\n\nThe most natural way of splitting the training code:\n- Dataset\n- DatasetLoader\n- Model\n- ModelFactory\n- Trainer (takes in the dataset and model)\n- Evaluator\n\n# Serving code\n\n[Infrastructure]Model (takes in the trained model)\n\t- register\n\t- deploy\n</child_page>\n\n\n---\n\n# Resources [Community]\n\n# Resources [Science]\n\n# Tools",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": []
+}

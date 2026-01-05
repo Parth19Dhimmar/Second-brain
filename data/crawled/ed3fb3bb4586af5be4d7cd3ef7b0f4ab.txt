@@ -1,0 +1,577 @@
+[RunPod](/)
+
+[Pricing](/gpu-instance/pricing)[Serverless](/serverless-gpu)[Blog](https://blog.runpod.io)[Docs](https://docs.runpod.io)
+
+[Sign up](/console/signup)[Login](/console/login)
+
+New pricing: More AI power, less cost!
+
+[Learn more](http://blog.runpod.io/runpod-slashes-gpu-prices-powering-your-ai-applications-for-less)
+
+All in one cloud.
+
+Train, fine-tune and deploy AImodels with RunPod.
+
+[Get started](/console/signup)
+
+RunPod works with Startups, Academic Institutions, and Enterprises.
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2750%27%20height=%2760%27/%3e)![opencv logo](/_next/image?url=%2Fstatic%2Fimages%2Fcompanies%2Fcompressed%2Fopencv.png&w=128&q=75)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2790%27%20height=%2753%27/%3e)![replika logo](/_next/image?url=%2Fstatic%2Fimages%2Fcompanies%2Fcompressed%2Freplika.png&w=256&q=75)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27152%27%20height=%2737%27/%3e)![datasciencedojo logo](/_next/image?url=%2Fstatic%2Fimages%2Fcompanies%2Fcompressed%2Fdsd.png&w=384&q=75)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2780%27%20height=%2735%27/%3e)![jina logo](/_next/image?url=%2Fstatic%2Fimages%2Fcompanies%2Fcompressed%2Fjina.png&w=256&q=75)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27130%27%20height=%2723%27/%3e)![defined ai logo](/_next/image?url=%2Fstatic%2Fimages%2Fcompanies%2Fcompressed%2Fdefinedai.png&w=384&q=75)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27120%27%20height=%2744%27/%3e)![otovo logo](/_next/image?url=%2Fstatic%2Fimages%2Fcompanies%2Fcompressed%2Fotovo.png&w=256&q=75)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2790%27%20height=%2735%27/%3e)![abzu logo](/_next/image?url=%2Fstatic%2Fimages%2Fcompanies%2Fcompressed%2Fabzu.png&w=256&q=75)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27150%27%20height=%2727%27/%3e)![aftershoot logo](/_next/image?url=%2Fstatic%2Fimages%2Fcompanies%2Fcompressed%2Faftershoot.png&w=384&q=75)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27120%27%20height=%2733%27/%3e)![krnl logo](/_next/image?url=%2Fstatic%2Fimages%2Fcompanies%2Fcompressed%2Fkrnl.png&w=256&q=75)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2750%27%20height=%2760%27/%3e)![opencv logo]()
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2790%27%20height=%2753%27/%3e)![replika logo]()
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27152%27%20height=%2737%27/%3e)![datasciencedojo logo]()
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2780%27%20height=%2735%27/%3e)![jina logo]()
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27130%27%20height=%2723%27/%3e)![defined ai logo]()
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27120%27%20height=%2744%27/%3e)![otovo logo]()
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2790%27%20height=%2735%27/%3e)![abzu logo]()
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27150%27%20height=%2727%27/%3e)![aftershoot logo]()
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27120%27%20height=%2733%27/%3e)![krnl logo]()
+
+1
+
+Develop
+
+Globally distributed GPU cloud for your AI workloads
+
+Deploy any GPU workload seamlessly, so you can focus less on infrastructure and more on running ML models.
+
+PyTorch
+
+ID: twnw98clgxxf2z
+
+$2.89/hour
+
+200 GB Disk: 200 GB Pod Volume
+
+Volume Path: /workspace
+
+1 x H100 PCIe
+
+9 vCPU 50 GB RAM
+
+CA
+
+8654 Mbps
+
+938 Mbps
+
+963 MBps
+
+0
+
+2025-01-20T16:40:43.342Z
+
+create pod network
+
+1
+
+2025-01-20T16:40:44.342Z
+
+create 20GB network volume
+
+2
+
+2025-01-20T16:40:45.342Z
+
+create container runpod/pytorch:3.10-2.0.0-117
+
+3
+
+2025-01-20T16:40:46.342Z
+
+3.10-2.0.0-117 Pulling from runpod/pytorch
+
+4
+
+2025-01-20T16:40:47.342Z
+
+Digest: sha256:2dbf81dd888d383620a486f83ad2ff47540c6cb5e02a61e74b8db03a715488d6
+
+5
+
+2025-01-20T16:40:48.342Z
+
+Status: Image is up to date for runpod/pytorch:3.10-2.0.0-117
+
+6
+
+2025-01-20T16:40:49.342Z
+
+start container
+
+## Spin up a GPU pod in seconds
+
+it's a pain to having to wait upwards of 10 minutes for your pods to spin up - we've cut the cold-boot time down to milliseconds, so you can start building within seconds of deploying your pods.
+
+[Spin up a pod](/console/deploy)
+
+## Choose from 50+ templates ready out-of-the-box, or bring your own custom container.
+
+Get setup instantly with PyTorch, Tensorflow, or any other preconfigured environment you might need for your machine learning workflow. Along with managed and community templates, we also let you configure your own template to fit your deployment needs.
+
+[Browse templates](/console/explore)
+
+PyTorch
+
+[Deploy](/console/explore/runpod-torch-v220)
+
+Tensorflow
+
+[Deploy](/console/explore/runpod-tensorflow)
+
+Docker
+
+[Deploy](/console/explore/runpod-kobold-united)
+
+![runpod logo](/static/svg/runpod-template-logo.svg)
+
+Runpod
+
+[Deploy](/console/explore/runpod-desktop)
+
+## Powerful & Cost-Effective GPUsfor Every Workload
+
+[See all GPUs](/console/deploy)
+
+Thousands of GPUs across 30+ Regions
+
+Deploy any container on Secure Cloud. Public and private image repos are supported. Configure your environment the way you want.
+
+Zero fees for ingress/egress
+
+Global interoperability
+
+99.99% Uptime
+
+$0.05/GB/month Network Storage
+
+![amd](/static/images/companies/amd.svg)
+
+Starting from $2.49/hr
+
+MI300X
+
+192GB VRAM
+
+283GB RAM
+
+24 vCPUs
+
+$2.49/hr
+
+Secure Cloud
+
+![nvidia](/static/images/companies/nvidia.png)
+
+Starting from $2.49/hr
+
+H100 PCIe
+
+80GB VRAM
+
+188GB RAM
+
+24 vCPUs
+
+$2.69/hr
+
+Secure Cloud
+
+$2.49/hr
+
+Community Cloud
+
+![nvidia](/static/images/companies/nvidia.png)
+
+Starting from $1.19/hr
+
+A100 PCIe
+
+80GB VRAM
+
+117GB RAM
+
+8 vCPUs
+
+$1.64/hr
+
+Secure Cloud
+
+$1.19/hr
+
+Community Cloud
+
+![nvidia](/static/images/companies/nvidia.png)
+
+Starting from $1.89/hr
+
+A100 SXM
+
+80GB VRAM
+
+125GB RAM
+
+16 vCPUs
+
+$1.89/hr
+
+Secure Cloud
+
+![nvidia](/static/images/companies/nvidia.png)
+
+Starting from $0.39/hr
+
+A40
+
+48GB VRAM
+
+50GB RAM
+
+9 vCPUs
+
+$0.39/hr
+
+Secure Cloud
+
+$0.47/hr
+
+Community Cloud
+
+![nvidia](/static/images/companies/nvidia.png)
+
+Starting from $0.99/hr
+
+L40
+
+48GB VRAM
+
+94GB RAM
+
+8 vCPUs
+
+$0.99/hr
+
+Secure Cloud
+
+![nvidia](/static/images/companies/nvidia.png)
+
+Starting from $0.79/hr
+
+L40S
+
+48GB VRAM
+
+62GB RAM
+
+16 vCPUs
+
+$1.03/hr
+
+Secure Cloud
+
+$0.79/hr
+
+Community Cloud
+
+![nvidia](/static/images/companies/nvidia.png)
+
+Starting from $0.44/hr
+
+RTX A6000
+
+48GB VRAM
+
+50GB RAM
+
+8 vCPUs
+
+$0.76/hr
+
+Secure Cloud
+
+$0.44/hr
+
+Community Cloud
+
+![nvidia](/static/images/companies/nvidia.png)
+
+Starting from $0.22/hr
+
+RTX A5000
+
+24GB VRAM
+
+25GB RAM
+
+9 vCPUs
+
+$0.36/hr
+
+Secure Cloud
+
+$0.22/hr
+
+Community Cloud
+
+![nvidia](/static/images/companies/nvidia.png)
+
+Starting from $0.34/hr
+
+RTX 4090
+
+24GB VRAM
+
+29GB RAM
+
+6 vCPUs
+
+$0.69/hr
+
+Secure Cloud
+
+$0.34/hr
+
+Community Cloud
+
+![nvidia](/static/images/companies/nvidia.png)
+
+Starting from $0.22/hr
+
+RTX 3090
+
+24GB VRAM
+
+24GB RAM
+
+4 vCPUs
+
+$0.43/hr
+
+Secure Cloud
+
+$0.22/hr
+
+Community Cloud
+
+![nvidia](/static/images/companies/nvidia.png)
+
+Starting from $0.20/hr
+
+RTX A4000 Ada
+
+20GB VRAM
+
+31GB RAM
+
+4 vCPUs
+
+$0.38/hr
+
+Secure Cloud
+
+$0.20/hr
+
+Community Cloud
+
+2
+
+Scale
+
+Scale ML inferencewith Serverless
+
+Run your AI models with autoscaling, job queueing and sub 250ms cold start time.
+
+[Deploy Now](/console/serverless)
+
+Autoscale in seconds
+
+Respond to user demand in real time with GPU workers thatscale from 0 to 100s in seconds.
+
+Flex 
+
+Workers
+
+Active 
+
+Workers
+
+10 GPUs
+
+6:24AM
+
+100 GPUs
+
+11:34AM
+
+20 GPUs
+
+1:34PM
+
+Usage Analytics
+
+Real-time usage analytics for your endpoint with metrics on completed and failed requests. Useful for endpoints that have fluctuating usage profiles throughout the day.
+
+[See the console ](/console/serverless)
+
+Active
+
+Requests
+
+Completed:
+
+2,277
+
+Retried:
+
+21
+
+Failed:
+
+9
+
+Execution Time
+
+Total:
+
+1,420s
+
+P70:
+
+8s
+
+P90:
+
+19s
+
+P98:
+
+22s
+
+Execution Time Analytics
+
+Debug your endpoints with detailed metrics on execution time. Useful for hosting models that have varying execution times, like large language models. You can also monitor delay time, cold start time, cold start count, GPU utilization, and more.
+
+[See the console ](/console/serverless)
+
+Real-Time Logs
+
+Get descriptive, real-time logs to show you exactly what's happening across your active and flex GPU workers at all times.
+
+[See the console ](/console/serverless)
+
+worker logs -- zsh
+
+2024-03-15T19:56:00.8264895Z INFO | Started job db7c792024-03-15T19:56:03.2667597Z0% | | 0/28 [00:00<?, ?it/s]12% |██ | 4/28 [00:00<00:01, 12.06it/s]38% |████ | 12/28 [00:00<00:01, 12.14it/s]77% |████████ | 22/28 [00:01<00:00, 12.14it/s]100% |██████████| 28/28 [00:02<00:00, 12.13it/s]2024-03-15T19:56:04.7438407Z INFO | Completed job db7c79 in 2.9s2024-03-15T19:57:00.8264895Z INFO | Started job ea1r142024-03-15T19:57:03.2667597Z0% | | 0/28 [00:00<?, ?it/s]15% |██ | 4/28 [00:00<00:01, 12.06it/s]41% |████ | 12/28 [00:00<00:01, 12.14it/s]80% |████████ | 22/28 [00:01<00:00, 12.14it/s]100% |██████████| 28/28 [00:02<00:00, 12.13it/s]2024-03-15T19:57:04.7438407Z INFO | Completed job ea1r14 in 2.9s2024-03-15T19:58:00.8264895Z INFO | Started job gn3a252024-03-15T19:58:03.2667597Z0% | | 0/28 [00:00<?, ?it/s]18% |██ | 4/28 [00:00<00:01, 12.06it/s]44% |████ | 12/28 [00:00<00:01, 12.14it/s]83% |████████ | 22/28 [00:01<00:00, 12.14it/s]100% |██████████| 28/28 [00:02<00:00, 12.13it/s]2024-03-15T19:58:04.7438407Z INFO | Completed job gn3a25 in 2.9s
+
+![cloud image everything header](/static/images/everything-clouds.png)
+
+Everything your app needs. All in 
+
+one cloud.
+
+99.99%
+
+guaranteed uptime
+
+10PB+
+
+network storage
+
+6,252,180,439
+
+requests
+
+AI Inference
+
+We handle millions of inference requests a day. Scale your machine learning inference while keeping costs low with RunPod serverless.
+
+AI Training
+
+Run machine learning training tasks that can take up to 7 days. Train on our available NVIDIA H100s and A100s or reserve AMD MI300Xs and AMD MI250s a year in advance.
+
+Autoscale
+
+Serverless GPU workers scale from 0 to n with 8+ regions distributed globally. You only pay when your endpoint receives and processes a request.
+
+Bring Your Own Container
+
+Deploy any container on our AI cloud. Public and private image repositories are supported. Configure your environment the way you want.
+
+Zero Ops Overhead
+
+RunPod handles all the operational aspects of your infrastructure from deploying to scaling. You bring the models, let us handle the ML infra.
+
+Network Storage
+
+Serverless workers can access network storage volume backed by NVMe SSD with up to 100Gbps network throughput. 100TB+ storage size is supported, contact us if you need 1PB+.
+
+Easy-to-use CLI
+
+Use our CLI tool to automatically hot reload local changes while developing, and deploy on Serverless when you’re done tinkering.
+
+Secure & Compliant
+
+RunPod AI Cloud is built on enterprise-grade GPUs with world-class compliance and security to best serve your machine learning models.
+
+Lightning Fast Cold-Start
+
+With Flashboot, watch your cold-starts drop to sub 250 milliseconds. No more waiting for GPUs to warm up when usage is unpredictable.
+
+Pending Certifications
+
+While our data center partners already maintain leading compliance standards (including HIPAA, SOC2, and ISO 27001), RunPod is on track to complete SOC2 Type 1 certification in Q1 2025, SOC2 Type 2 by year-end, followed by SOC3 certification, and achieve GDPR and HIPAA compliance in Q4 2025.
+
+![gpu background](/static/images/soc2-light.webp)![gpu background](/static/images/hipaa-light.webp)
+
+Launch your AI application in minutes
+
+Start building with the most cost-effective platform for developing and scaling machine learning models.
+
+[Get started](/console/signup)
+
+Products
+
+[Secure Cloud](/console/gpu-secure-cloud)[Community Cloud](/console/gpu-cloud)[Serverless](/console/serverless)
+
+Resources
+
+[Docs](https://docs.runpod.io/overview)[FAQ](https://docs.runpod.io/faq)[Blog](https://blog.runpod.io)[Become a Host](/console/host/docs/faq)[GPU Benchmarks](/dir/gpu-benchmarks)[GPU Models](/dir/gpu-models)
+
+Company
+
+[About](/about)[Careers](https://job-boards.greenhouse.io/runpod)[Compliance](/compliance)[Cookie Policy](/legal/cookie-policy)[Disclaimer](/legal/disclaimer)[Privacy Policy](/legal/privacy-policy)[Terms of Service](/legal/terms-of-service)
+
+Contact
+
+[Contact Us](https://contact.runpod.io)[Discord](https://discord.gg/cUpRmau42V)help@runpod.ioreferrals@runpod.iopress@runpod.io
+
+[](https://github.com/runpod)[](https://discord.gg/cUpRmau42V)[](https://twitter.com/runpod_io)[](https://www.instagram.com/runpod.io)
+
+[RunPod](/)
+
+Copyright © 2025. All rights reserved.

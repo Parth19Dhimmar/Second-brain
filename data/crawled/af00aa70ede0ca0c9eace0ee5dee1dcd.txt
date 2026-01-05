@@ -1,0 +1,1220 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FUKPLab%2Fsentence-transformers%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FUKPLab%2Fsentence-transformers%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=UKPLab%2Fsentence-transformers) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ UKPLab ](/UKPLab) / **[sentence-transformers](/UKPLab/sentence-transformers) ** Public
+
+  * [ Notifications ](/login?return_to=%2FUKPLab%2Fsentence-transformers) You must be signed in to change notification settings
+  * [ Fork 2.5k ](/login?return_to=%2FUKPLab%2Fsentence-transformers)
+  * [ Star  15.8k ](/login?return_to=%2FUKPLab%2Fsentence-transformers)
+
+
+
+
+State-of-the-Art Text Embeddings 
+
+[www.sbert.net](https://www.sbert.net "https://www.sbert.net")
+
+### License
+
+[ Apache-2.0 license ](/UKPLab/sentence-transformers/blob/master/LICENSE)
+
+[ 15.8k stars ](/UKPLab/sentence-transformers/stargazers) [ 2.5k forks ](/UKPLab/sentence-transformers/forks) [ Branches ](/UKPLab/sentence-transformers/branches) [ Tags ](/UKPLab/sentence-transformers/tags) [ Activity ](/UKPLab/sentence-transformers/activity)
+
+[ Star  ](/login?return_to=%2FUKPLab%2Fsentence-transformers)
+
+[ Notifications ](/login?return_to=%2FUKPLab%2Fsentence-transformers) You must be signed in to change notification settings
+
+  * [ Code ](/UKPLab/sentence-transformers)
+  * [ Issues 1.2k ](/UKPLab/sentence-transformers/issues)
+  * [ Pull requests 34 ](/UKPLab/sentence-transformers/pulls)
+  * [ Actions ](/UKPLab/sentence-transformers/actions)
+  * [ Security ](/UKPLab/sentence-transformers/security)
+  * [ Insights ](/UKPLab/sentence-transformers/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/UKPLab/sentence-transformers)
+  * [ Issues  ](/UKPLab/sentence-transformers/issues)
+  * [ Pull requests  ](/UKPLab/sentence-transformers/pulls)
+  * [ Actions  ](/UKPLab/sentence-transformers/actions)
+  * [ Security  ](/UKPLab/sentence-transformers/security)
+  * [ Insights  ](/UKPLab/sentence-transformers/pulse)
+
+
+
+# UKPLab/sentence-transformers
+
+master
+
+[**11** Branches](/UKPLab/sentence-transformers/branches)[**48** Tags](/UKPLab/sentence-transformers/tags)
+
+[](/UKPLab/sentence-transformers/branches)[](/UKPLab/sentence-transformers/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+![JINO-ROHIT](https://avatars.githubusercontent.com/u/63234112?v=4&size=40)![tomaarsen](https://avatars.githubusercontent.com/u/37621491?v=4&size=40)[JINO-ROHIT](/UKPLab/sentence-transformers/commits?author=JINO-ROHIT)and[tomaarsen](/UKPLab/sentence-transformers/commits?author=tomaarsen)[testcases for community detection (](/UKPLab/sentence-transformers/commit/8073374926457516047fe62f65490eb27d7cc565)[#3163](https://github.com/UKPLab/sentence-transformers/pull/3163)[)](/UKPLab/sentence-transformers/commit/8073374926457516047fe62f65490eb27d7cc565)Jan 20, 2025[8073374](/UKPLab/sentence-transformers/commit/8073374926457516047fe62f65490eb27d7cc565) · Jan 20, 2025
+
+## History
+
+[1,628 Commits](/UKPLab/sentence-transformers/commits/master/)[](/UKPLab/sentence-transformers/commits/master/)  
+[.github/workflows](/UKPLab/sentence-transformers/tree/master/.github/workflows "This path skips through empty directories")| [.github/workflows](/UKPLab/sentence-transformers/tree/master/.github/workflows "This path skips through empty directories")| [[](/UKPLab/sentence-transformers/commit/1cb196ad3a4dd3575eaba956af8b29c89f8a7c0d "\[`deprecate`\] Drop Python 3.8 support due to EOL \(#3033\)
+* Drop Python 3.8 support due to EOL
+* Apply ruff improvements due to Python 3.8 no longer being supported")`[deprecate](/UKPLab/sentence-transformers/commit/1cb196ad3a4dd3575eaba956af8b29c89f8a7c0d "\[`deprecate`\] Drop Python 3.8 support due to EOL \(#3033\)
+* Drop Python 3.8 support due to EOL
+* Apply ruff improvements due to Python 3.8 no longer being supported")`[] Drop Python 3.8 support due to EOL (](/UKPLab/sentence-transformers/commit/1cb196ad3a4dd3575eaba956af8b29c89f8a7c0d "\[`deprecate`\] Drop Python 3.8 support due to EOL \(#3033\)
+* Drop Python 3.8 support due to EOL
+* Apply ruff improvements due to Python 3.8 no longer being supported")[#3033](https://github.com/UKPLab/sentence-transformers/pull/3033)[)](/UKPLab/sentence-transformers/commit/1cb196ad3a4dd3575eaba956af8b29c89f8a7c0d "\[`deprecate`\] Drop Python 3.8 support due to EOL \(#3033\)
+* Drop Python 3.8 support due to EOL
+* Apply ruff improvements due to Python 3.8 no longer being supported")| Nov 6, 2024  
+[docs](/UKPLab/sentence-transformers/tree/master/docs "docs")| [docs](/UKPLab/sentence-transformers/tree/master/docs "docs")| [[](/UKPLab/sentence-transformers/commit/9093aa8e1c9ae4325b424ef97d8c1464050afa5c "\[`docs`\] List 'prompts' as a key training argument \(#3101\)")`[docs](/UKPLab/sentence-transformers/commit/9093aa8e1c9ae4325b424ef97d8c1464050afa5c "\[`docs`\] List 'prompts' as a key training argument \(#3101\)")`[] List 'prompts' as a key training argument (](/UKPLab/sentence-transformers/commit/9093aa8e1c9ae4325b424ef97d8c1464050afa5c "\[`docs`\] List 'prompts' as a key training argument \(#3101\)")[#3101](https://github.com/UKPLab/sentence-transformers/pull/3101)[)](/UKPLab/sentence-transformers/commit/9093aa8e1c9ae4325b424ef97d8c1464050afa5c "\[`docs`\] List 'prompts' as a key training argument \(#3101\)")| Nov 28, 2024  
+[examples](/UKPLab/sentence-transformers/tree/master/examples "examples")| [examples](/UKPLab/sentence-transformers/tree/master/examples "examples")| [Update TSDAE examples with SentenceTransformerTrainer (](/UKPLab/sentence-transformers/commit/0d51f4f873872211b217a684722ded8577ab53d0 "Update TSDAE examples with SentenceTransformerTrainer \(#3137\)
+* raises value error when num_label > 1 when using Crossencoder.rank\(\)
+* updated error message
+* update tsdae example with SentenceTransformerTrainer
+* lint
+* Update the other TSDAE examples as well
+---------
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>")[#3137](https://github.com/UKPLab/sentence-transformers/pull/3137)[)](/UKPLab/sentence-transformers/commit/0d51f4f873872211b217a684722ded8577ab53d0 "Update TSDAE examples with SentenceTransformerTrainer \(#3137\)
+* raises value error when num_label > 1 when using Crossencoder.rank\(\)
+* updated error message
+* update tsdae example with SentenceTransformerTrainer
+* lint
+* Update the other TSDAE examples as well
+---------
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>")| Jan 17, 2025  
+[sentence_transformers](/UKPLab/sentence-transformers/tree/master/sentence_transformers "sentence_transformers")| [sentence_transformers](/UKPLab/sentence-transformers/tree/master/sentence_transformers "sentence_transformers")| [[](/UKPLab/sentence-transformers/commit/c68bf68299a4435c6a48ea15d789fef596bf1444 "\[`fix`\] Use HfArgumentParser-compatible typing for prompts \(#3178\)
+* Use HfArgumentParser-compatible typing for prompts
+* Add a simple test case
+* Use typing.Optional and Union for Python 3.9")`[fix](/UKPLab/sentence-transformers/commit/c68bf68299a4435c6a48ea15d789fef596bf1444 "\[`fix`\] Use HfArgumentParser-compatible typing for prompts \(#3178\)
+* Use HfArgumentParser-compatible typing for prompts
+* Add a simple test case
+* Use typing.Optional and Union for Python 3.9")`[] Use HfArgumentParser-compatible typing for prompts (](/UKPLab/sentence-transformers/commit/c68bf68299a4435c6a48ea15d789fef596bf1444 "\[`fix`\] Use HfArgumentParser-compatible typing for prompts \(#3178\)
+* Use HfArgumentParser-compatible typing for prompts
+* Add a simple test case
+* Use typing.Optional and Union for Python 3.9")[#3178](https://github.com/UKPLab/sentence-transformers/pull/3178)[)](/UKPLab/sentence-transformers/commit/c68bf68299a4435c6a48ea15d789fef596bf1444 "\[`fix`\] Use HfArgumentParser-compatible typing for prompts \(#3178\)
+* Use HfArgumentParser-compatible typing for prompts
+* Add a simple test case
+* Use typing.Optional and Union for Python 3.9")| Jan 17, 2025  
+[tests](/UKPLab/sentence-transformers/tree/master/tests "tests")| [tests](/UKPLab/sentence-transformers/tree/master/tests "tests")| [testcases for community detection (](/UKPLab/sentence-transformers/commit/8073374926457516047fe62f65490eb27d7cc565 "testcases for community detection \(#3163\)
+* testcases for community detection
+* ruff lint
+* Run 'pre-commit run --all'
+* Rename test cases to clarify that they're comm. detect. related
+---------
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>")[#3163](https://github.com/UKPLab/sentence-transformers/pull/3163)[)](/UKPLab/sentence-transformers/commit/8073374926457516047fe62f65490eb27d7cc565 "testcases for community detection \(#3163\)
+* testcases for community detection
+* ruff lint
+* Run 'pre-commit run --all'
+* Rename test cases to clarify that they're comm. detect. related
+---------
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>")| Jan 20, 2025  
+[.gitignore](/UKPLab/sentence-transformers/blob/master/.gitignore ".gitignore")| [.gitignore](/UKPLab/sentence-transformers/blob/master/.gitignore ".gitignore")| [[chore] Add `pytest-cov` and add test coverage command to the Makefile (](/UKPLab/sentence-transformers/commit/5a71df8900b1ebad23f061c145b70b2b9017e7de "\[chore\] Add `pytest-cov` and add test coverage command to the Makefile \(#2794\)
+* Update outdated docs links
+Allow inheriting the Transformer class \(#2810\)
+\[`feat`\] Add hard negatives mining utility \(#2768\)
+* Add hard negatives mining utility
+* Add example datasets/models for hard negative mining tip
+* Update phrasing in dataset overview
+\[chore\] add test for NoDuplicatesBatchSampler \(#2795\)
+* add test for NoDuplicatesBatchSampler
+* formatting
+* simplify tests
+\[chore\] Add test for RoundrobinBatchSampler \(#2798\)
+* Add test for RoundrobinBatchSampler
+* fix test
+* improve RoundRobinBatchSampler and add additional test
+* Make datasets in ConcatDataset different sizes
+As the real "use case" of the RoundRobin sampler is to avoid sampling from one dataset more than from another. This is best tested when the datasets have different sizes.
+---------
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>
+\[feat\] Improve GroupByLabelBatchSampler \(#2788\)
+* Improve GroupByLabelBatchSampler
+* small fix
+* improve test
+* Update sentence_transformers/sampler.py
+Co-authored-by: Tom Aarsen <37621491+tomaarsen@users.noreply.github.com>
+* fix sampler and add unit test
+* fix comment
+* remove .DS_Store
+* rm DS_Store
+* change self.groups statement
+* move to damplers dir
+* Update sentence_transformers/sampler.py
+Co-authored-by: Tom Aarsen <37621491+tomaarsen@users.noreply.github.com>
+* Add typing
+---------
+Co-authored-by: Tom Aarsen <37621491+tomaarsen@users.noreply.github.com>
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>
+\[`chore`\] Clean-up `.gitignore` \(#2799\)
+add test coverage command
+add to workflow
+fix cicd
+fix cicd
+fix
+leave cicd untouched
+fix gitignore
+fix gitignore
+update gitignore
+update gitignore
+fix gitignore
+fix gitignor
+* add command to open cov
+* fix setup.py
+* remove open command
+---------
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>")| Jul 9, 2024  
+[.pre-commit-config.yaml](/UKPLab/sentence-transformers/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/UKPLab/sentence-transformers/blob/master/.pre-commit-config.yaml ".pre-commit-config.yaml")| [[chore] improve the use of ruff and pre-commit hooks (](/UKPLab/sentence-transformers/commit/b188ce15eeec10a81c1cae93370e78dea75c5a97 "\[chore\] improve the use of ruff and pre-commit hooks \(#2793\)
+* improve ruff config
+bump ruff
+fix installation
+fix python version
+fix python version
+fix python version
+fix python version
+try
+try with pre-commit
+fix
+remove I
+* reset .gitignore
+* Update Makefile
+Co-authored-by: Tom Aarsen <37621491+tomaarsen@users.noreply.github.com>
+---------
+Co-authored-by: Tom Aarsen <37621491+tomaarsen@users.noreply.github.com>")[#2793](https://github.com/UKPLab/sentence-transformers/pull/2793)[)](/UKPLab/sentence-transformers/commit/b188ce15eeec10a81c1cae93370e78dea75c5a97 "\[chore\] improve the use of ruff and pre-commit hooks \(#2793\)
+* improve ruff config
+bump ruff
+fix installation
+fix python version
+fix python version
+fix python version
+fix python version
+try
+try with pre-commit
+fix
+remove I
+* reset .gitignore
+* Update Makefile
+Co-authored-by: Tom Aarsen <37621491+tomaarsen@users.noreply.github.com>
+---------
+Co-authored-by: Tom Aarsen <37621491+tomaarsen@users.noreply.github.com>")| Jul 9, 2024  
+[LICENSE](/UKPLab/sentence-transformers/blob/master/LICENSE "LICENSE")| [LICENSE](/UKPLab/sentence-transformers/blob/master/LICENSE "LICENSE")| [Update LICENSE](/UKPLab/sentence-transformers/commit/8df3ee50155394062734fde687fb1936e8396966 "Update LICENSE")| Dec 15, 2021  
+[MANIFEST.in](/UKPLab/sentence-transformers/blob/master/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](/UKPLab/sentence-transformers/blob/master/MANIFEST.in "MANIFEST.in")| [[](/UKPLab/sentence-transformers/commit/ae5f51b2793058744bbfc64d72bf5be73b19928b "\[`v3`\] Training refactor - MultiGPU, loss logging, bf16, etc. \(#2449\)
+* See #1638: Adds huggingface trainer for sentence transformers
+* Fix type of tokenizer
+* Get the trainer using the feature collation
+* Update the docstring to reflect changes
+* Initial draft for refactoring training usig the Transformers Trainer
+* Separate 'fit' functionality \(new and old\) into a mixin
+* Resolve test issues
+* Reformat
+* Update the imports
+* Add TODO regarding custom label columns
+* Remove dead code
+* Don't provide the trainer to the eval sampler
+* Introduce datasets as a dependency
+* Introduce "accelerate" as a dependency
+* Avoid use_amp on CPU tests
+* Specify that SentenceTransformer is a class, not a module
+* Avoid circular import
+* Remove | used as an "or" operator in typing
+* Use test evaluator after training, as intended
+* Use tokenize function instead of tokenizer;
+Add EvaluatorCallback which calls the evaluator on every epoch \(for BC\);
+Stop saving "do_lower_case" from Transformer;
+* Reformat
+* Revert Transformer tokenizer changes
+* Add support for the tokenizer to return more than just input_ids & attention_masks
+Required for LSTM
+* Use the test evaluators after training the examples
+* Use pure torch for BoW tokenization
+* Use dev evaluator for BiLSTM - test fails
+* Add Trainer support for BoW-based models
+* Pass epoch to evaluator in every-epoch callback
+For fit backwards compatibility
+* Run formatting
+* Use steps_per_epoch to set max_steps if possible
+* Ignore extracting dataloader arguments for now
+* Remove dead code
+* Allow both "label" and "score" columns for labels
+* Reformatting
+* Improve errors if datasets don't match with loss dictionary well
+* Made tests more consistent; list instead of set
+* Simplify trainer with DatasetDict
+* Implement a proportional sampler in addition to round robin
+* Add CLIP finetuning support to the Trainer
+* Start updating evaluators to return dictionaries
+* Reformat
+* Hackishly insert the DataParallel model into the loss function
+* Allow for fsdp=\["full_shard", "auto_wrap"\]
+with fsdp_config={"transformer_layer_cls_to_wrap": "BertLayer"}
+* Re-add support for DataParallel
+* Use 'ParallelMode.NOT_PARALLEL'
+* Prevent crash with DDP & an evaluation set
+* When training with multiple datasets, add "dataset_name" column
+Rather than relying on some Batch Sampler hacking \(which fails with some distributed training approaches\)
+* Update type hints: make loss & evaluator optional
+Co-authored-by: Wang Bo <kingbolanda@live.com>
+* Set correct superclasses for samplers
+* Override 'accelerator.even_batches' as it's incompatible with multi-dataset
+* Throw exception if "return_loss" or "dataset_name" columns are used
+* Set min. version for accelerate
+* Heavily extend model card generation
+* Remove some dead code
+* Fix evaluator type hints
+* Ensure that 'model_card_template.md' is included in the built package
+* Rephrase comments slightly
+* Heavily refactor samplers; add no duplicates/group by label samplers
+* Ensure that data_loader.dataset exists in FitMixin
+* Adopt 8 as the default batch
+* Fix logging error in example
+* Remove the deprecated correct_bias
+* Simplify with walrus operator
+* Fix some bugs in set_widget_examples with short datasets
+* Improve docstring slightly
+* Add edge case in case training data has an unrecognized format
+* Fix extracting dataset metadata
+* Remove moot TYPE_CHECKING
+* Set base model when loading a ST model also
+* Add test_dataloader, add prefetch_factor to dataloaders
+* Resolve predict_example fix; fix newlines in text
+* Fix bug in compute_dataset_metrics examples
+* Add call to action in ValueError
+* Reuse original model card if no training is done
+* Also collect nested losses \(e.g. MatryoshkaLoss\) and make losses in tags
+* Remove generated tag; keep loss: prefix on tags
+* Remove unused arguments
+* Add support for "best model step" in model card
+* Make hyperparameters code-formatted
+* Fix load_best_model for Transformers models, prevent for non-Transformers
+* Store base_model_revision in model_card_data
+* Prevent crash when loading a local model
+* Allow for bfloat16 inference
+---------
+Co-authored-by: Matthew Franglen <matthew@franglen.org>
+Co-authored-by: Wang Bo <kingbolanda@live.com>")`[v3](/UKPLab/sentence-transformers/commit/ae5f51b2793058744bbfc64d72bf5be73b19928b "\[`v3`\] Training refactor - MultiGPU, loss logging, bf16, etc. \(#2449\)
+* See #1638: Adds huggingface trainer for sentence transformers
+* Fix type of tokenizer
+* Get the trainer using the feature collation
+* Update the docstring to reflect changes
+* Initial draft for refactoring training usig the Transformers Trainer
+* Separate 'fit' functionality \(new and old\) into a mixin
+* Resolve test issues
+* Reformat
+* Update the imports
+* Add TODO regarding custom label columns
+* Remove dead code
+* Don't provide the trainer to the eval sampler
+* Introduce datasets as a dependency
+* Introduce "accelerate" as a dependency
+* Avoid use_amp on CPU tests
+* Specify that SentenceTransformer is a class, not a module
+* Avoid circular import
+* Remove | used as an "or" operator in typing
+* Use test evaluator after training, as intended
+* Use tokenize function instead of tokenizer;
+Add EvaluatorCallback which calls the evaluator on every epoch \(for BC\);
+Stop saving "do_lower_case" from Transformer;
+* Reformat
+* Revert Transformer tokenizer changes
+* Add support for the tokenizer to return more than just input_ids & attention_masks
+Required for LSTM
+* Use the test evaluators after training the examples
+* Use pure torch for BoW tokenization
+* Use dev evaluator for BiLSTM - test fails
+* Add Trainer support for BoW-based models
+* Pass epoch to evaluator in every-epoch callback
+For fit backwards compatibility
+* Run formatting
+* Use steps_per_epoch to set max_steps if possible
+* Ignore extracting dataloader arguments for now
+* Remove dead code
+* Allow both "label" and "score" columns for labels
+* Reformatting
+* Improve errors if datasets don't match with loss dictionary well
+* Made tests more consistent; list instead of set
+* Simplify trainer with DatasetDict
+* Implement a proportional sampler in addition to round robin
+* Add CLIP finetuning support to the Trainer
+* Start updating evaluators to return dictionaries
+* Reformat
+* Hackishly insert the DataParallel model into the loss function
+* Allow for fsdp=\["full_shard", "auto_wrap"\]
+with fsdp_config={"transformer_layer_cls_to_wrap": "BertLayer"}
+* Re-add support for DataParallel
+* Use 'ParallelMode.NOT_PARALLEL'
+* Prevent crash with DDP & an evaluation set
+* When training with multiple datasets, add "dataset_name" column
+Rather than relying on some Batch Sampler hacking \(which fails with some distributed training approaches\)
+* Update type hints: make loss & evaluator optional
+Co-authored-by: Wang Bo <kingbolanda@live.com>
+* Set correct superclasses for samplers
+* Override 'accelerator.even_batches' as it's incompatible with multi-dataset
+* Throw exception if "return_loss" or "dataset_name" columns are used
+* Set min. version for accelerate
+* Heavily extend model card generation
+* Remove some dead code
+* Fix evaluator type hints
+* Ensure that 'model_card_template.md' is included in the built package
+* Rephrase comments slightly
+* Heavily refactor samplers; add no duplicates/group by label samplers
+* Ensure that data_loader.dataset exists in FitMixin
+* Adopt 8 as the default batch
+* Fix logging error in example
+* Remove the deprecated correct_bias
+* Simplify with walrus operator
+* Fix some bugs in set_widget_examples with short datasets
+* Improve docstring slightly
+* Add edge case in case training data has an unrecognized format
+* Fix extracting dataset metadata
+* Remove moot TYPE_CHECKING
+* Set base model when loading a ST model also
+* Add test_dataloader, add prefetch_factor to dataloaders
+* Resolve predict_example fix; fix newlines in text
+* Fix bug in compute_dataset_metrics examples
+* Add call to action in ValueError
+* Reuse original model card if no training is done
+* Also collect nested losses \(e.g. MatryoshkaLoss\) and make losses in tags
+* Remove generated tag; keep loss: prefix on tags
+* Remove unused arguments
+* Add support for "best model step" in model card
+* Make hyperparameters code-formatted
+* Fix load_best_model for Transformers models, prevent for non-Transformers
+* Store base_model_revision in model_card_data
+* Prevent crash when loading a local model
+* Allow for bfloat16 inference
+---------
+Co-authored-by: Matthew Franglen <matthew@franglen.org>
+Co-authored-by: Wang Bo <kingbolanda@live.com>")`[] Training refactor - MultiGPU, loss logging, bf16, etc. (](/UKPLab/sentence-transformers/commit/ae5f51b2793058744bbfc64d72bf5be73b19928b "\[`v3`\] Training refactor - MultiGPU, loss logging, bf16, etc. \(#2449\)
+* See #1638: Adds huggingface trainer for sentence transformers
+* Fix type of tokenizer
+* Get the trainer using the feature collation
+* Update the docstring to reflect changes
+* Initial draft for refactoring training usig the Transformers Trainer
+* Separate 'fit' functionality \(new and old\) into a mixin
+* Resolve test issues
+* Reformat
+* Update the imports
+* Add TODO regarding custom label columns
+* Remove dead code
+* Don't provide the trainer to the eval sampler
+* Introduce datasets as a dependency
+* Introduce "accelerate" as a dependency
+* Avoid use_amp on CPU tests
+* Specify that SentenceTransformer is a class, not a module
+* Avoid circular import
+* Remove | used as an "or" operator in typing
+* Use test evaluator after training, as intended
+* Use tokenize function instead of tokenizer;
+Add EvaluatorCallback which calls the evaluator on every epoch \(for BC\);
+Stop saving "do_lower_case" from Transformer;
+* Reformat
+* Revert Transformer tokenizer changes
+* Add support for the tokenizer to return more than just input_ids & attention_masks
+Required for LSTM
+* Use the test evaluators after training the examples
+* Use pure torch for BoW tokenization
+* Use dev evaluator for BiLSTM - test fails
+* Add Trainer support for BoW-based models
+* Pass epoch to evaluator in every-epoch callback
+For fit backwards compatibility
+* Run formatting
+* Use steps_per_epoch to set max_steps if possible
+* Ignore extracting dataloader arguments for now
+* Remove dead code
+* Allow both "label" and "score" columns for labels
+* Reformatting
+* Improve errors if datasets don't match with loss dictionary well
+* Made tests more consistent; list instead of set
+* Simplify trainer with DatasetDict
+* Implement a proportional sampler in addition to round robin
+* Add CLIP finetuning support to the Trainer
+* Start updating evaluators to return dictionaries
+* Reformat
+* Hackishly insert the DataParallel model into the loss function
+* Allow for fsdp=\["full_shard", "auto_wrap"\]
+with fsdp_config={"transformer_layer_cls_to_wrap": "BertLayer"}
+* Re-add support for DataParallel
+* Use 'ParallelMode.NOT_PARALLEL'
+* Prevent crash with DDP & an evaluation set
+* When training with multiple datasets, add "dataset_name" column
+Rather than relying on some Batch Sampler hacking \(which fails with some distributed training approaches\)
+* Update type hints: make loss & evaluator optional
+Co-authored-by: Wang Bo <kingbolanda@live.com>
+* Set correct superclasses for samplers
+* Override 'accelerator.even_batches' as it's incompatible with multi-dataset
+* Throw exception if "return_loss" or "dataset_name" columns are used
+* Set min. version for accelerate
+* Heavily extend model card generation
+* Remove some dead code
+* Fix evaluator type hints
+* Ensure that 'model_card_template.md' is included in the built package
+* Rephrase comments slightly
+* Heavily refactor samplers; add no duplicates/group by label samplers
+* Ensure that data_loader.dataset exists in FitMixin
+* Adopt 8 as the default batch
+* Fix logging error in example
+* Remove the deprecated correct_bias
+* Simplify with walrus operator
+* Fix some bugs in set_widget_examples with short datasets
+* Improve docstring slightly
+* Add edge case in case training data has an unrecognized format
+* Fix extracting dataset metadata
+* Remove moot TYPE_CHECKING
+* Set base model when loading a ST model also
+* Add test_dataloader, add prefetch_factor to dataloaders
+* Resolve predict_example fix; fix newlines in text
+* Fix bug in compute_dataset_metrics examples
+* Add call to action in ValueError
+* Reuse original model card if no training is done
+* Also collect nested losses \(e.g. MatryoshkaLoss\) and make losses in tags
+* Remove generated tag; keep loss: prefix on tags
+* Remove unused arguments
+* Add support for "best model step" in model card
+* Make hyperparameters code-formatted
+* Fix load_best_model for Transformers models, prevent for non-Transformers
+* Store base_model_revision in model_card_data
+* Prevent crash when loading a local model
+* Allow for bfloat16 inference
+---------
+Co-authored-by: Matthew Franglen <matthew@franglen.org>
+Co-authored-by: Wang Bo <kingbolanda@live.com>")[#2449](https://github.com/UKPLab/sentence-transformers/pull/2449)[)](/UKPLab/sentence-transformers/commit/ae5f51b2793058744bbfc64d72bf5be73b19928b "\[`v3`\] Training refactor - MultiGPU, loss logging, bf16, etc. \(#2449\)
+* See #1638: Adds huggingface trainer for sentence transformers
+* Fix type of tokenizer
+* Get the trainer using the feature collation
+* Update the docstring to reflect changes
+* Initial draft for refactoring training usig the Transformers Trainer
+* Separate 'fit' functionality \(new and old\) into a mixin
+* Resolve test issues
+* Reformat
+* Update the imports
+* Add TODO regarding custom label columns
+* Remove dead code
+* Don't provide the trainer to the eval sampler
+* Introduce datasets as a dependency
+* Introduce "accelerate" as a dependency
+* Avoid use_amp on CPU tests
+* Specify that SentenceTransformer is a class, not a module
+* Avoid circular import
+* Remove | used as an "or" operator in typing
+* Use test evaluator after training, as intended
+* Use tokenize function instead of tokenizer;
+Add EvaluatorCallback which calls the evaluator on every epoch \(for BC\);
+Stop saving "do_lower_case" from Transformer;
+* Reformat
+* Revert Transformer tokenizer changes
+* Add support for the tokenizer to return more than just input_ids & attention_masks
+Required for LSTM
+* Use the test evaluators after training the examples
+* Use pure torch for BoW tokenization
+* Use dev evaluator for BiLSTM - test fails
+* Add Trainer support for BoW-based models
+* Pass epoch to evaluator in every-epoch callback
+For fit backwards compatibility
+* Run formatting
+* Use steps_per_epoch to set max_steps if possible
+* Ignore extracting dataloader arguments for now
+* Remove dead code
+* Allow both "label" and "score" columns for labels
+* Reformatting
+* Improve errors if datasets don't match with loss dictionary well
+* Made tests more consistent; list instead of set
+* Simplify trainer with DatasetDict
+* Implement a proportional sampler in addition to round robin
+* Add CLIP finetuning support to the Trainer
+* Start updating evaluators to return dictionaries
+* Reformat
+* Hackishly insert the DataParallel model into the loss function
+* Allow for fsdp=\["full_shard", "auto_wrap"\]
+with fsdp_config={"transformer_layer_cls_to_wrap": "BertLayer"}
+* Re-add support for DataParallel
+* Use 'ParallelMode.NOT_PARALLEL'
+* Prevent crash with DDP & an evaluation set
+* When training with multiple datasets, add "dataset_name" column
+Rather than relying on some Batch Sampler hacking \(which fails with some distributed training approaches\)
+* Update type hints: make loss & evaluator optional
+Co-authored-by: Wang Bo <kingbolanda@live.com>
+* Set correct superclasses for samplers
+* Override 'accelerator.even_batches' as it's incompatible with multi-dataset
+* Throw exception if "return_loss" or "dataset_name" columns are used
+* Set min. version for accelerate
+* Heavily extend model card generation
+* Remove some dead code
+* Fix evaluator type hints
+* Ensure that 'model_card_template.md' is included in the built package
+* Rephrase comments slightly
+* Heavily refactor samplers; add no duplicates/group by label samplers
+* Ensure that data_loader.dataset exists in FitMixin
+* Adopt 8 as the default batch
+* Fix logging error in example
+* Remove the deprecated correct_bias
+* Simplify with walrus operator
+* Fix some bugs in set_widget_examples with short datasets
+* Improve docstring slightly
+* Add edge case in case training data has an unrecognized format
+* Fix extracting dataset metadata
+* Remove moot TYPE_CHECKING
+* Set base model when loading a ST model also
+* Add test_dataloader, add prefetch_factor to dataloaders
+* Resolve predict_example fix; fix newlines in text
+* Fix bug in compute_dataset_metrics examples
+* Add call to action in ValueError
+* Reuse original model card if no training is done
+* Also collect nested losses \(e.g. MatryoshkaLoss\) and make losses in tags
+* Remove generated tag; keep loss: prefix on tags
+* Remove unused arguments
+* Add support for "best model step" in model card
+* Make hyperparameters code-formatted
+* Fix load_best_model for Transformers models, prevent for non-Transformers
+* Store base_model_revision in model_card_data
+* Prevent crash when loading a local model
+* Allow for bfloat16 inference
+---------
+Co-authored-by: Matthew Franglen <matthew@franglen.org>
+Co-authored-by: Wang Bo <kingbolanda@live.com>")| Apr 25, 2024  
+[Makefile](/UKPLab/sentence-transformers/blob/master/Makefile "Makefile")| [Makefile](/UKPLab/sentence-transformers/blob/master/Makefile "Makefile")| [[chore] Add `pytest-cov` and add test coverage command to the Makefile (](/UKPLab/sentence-transformers/commit/5a71df8900b1ebad23f061c145b70b2b9017e7de "\[chore\] Add `pytest-cov` and add test coverage command to the Makefile \(#2794\)
+* Update outdated docs links
+Allow inheriting the Transformer class \(#2810\)
+\[`feat`\] Add hard negatives mining utility \(#2768\)
+* Add hard negatives mining utility
+* Add example datasets/models for hard negative mining tip
+* Update phrasing in dataset overview
+\[chore\] add test for NoDuplicatesBatchSampler \(#2795\)
+* add test for NoDuplicatesBatchSampler
+* formatting
+* simplify tests
+\[chore\] Add test for RoundrobinBatchSampler \(#2798\)
+* Add test for RoundrobinBatchSampler
+* fix test
+* improve RoundRobinBatchSampler and add additional test
+* Make datasets in ConcatDataset different sizes
+As the real "use case" of the RoundRobin sampler is to avoid sampling from one dataset more than from another. This is best tested when the datasets have different sizes.
+---------
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>
+\[feat\] Improve GroupByLabelBatchSampler \(#2788\)
+* Improve GroupByLabelBatchSampler
+* small fix
+* improve test
+* Update sentence_transformers/sampler.py
+Co-authored-by: Tom Aarsen <37621491+tomaarsen@users.noreply.github.com>
+* fix sampler and add unit test
+* fix comment
+* remove .DS_Store
+* rm DS_Store
+* change self.groups statement
+* move to damplers dir
+* Update sentence_transformers/sampler.py
+Co-authored-by: Tom Aarsen <37621491+tomaarsen@users.noreply.github.com>
+* Add typing
+---------
+Co-authored-by: Tom Aarsen <37621491+tomaarsen@users.noreply.github.com>
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>
+\[`chore`\] Clean-up `.gitignore` \(#2799\)
+add test coverage command
+add to workflow
+fix cicd
+fix cicd
+fix
+leave cicd untouched
+fix gitignore
+fix gitignore
+update gitignore
+update gitignore
+fix gitignore
+fix gitignor
+* add command to open cov
+* fix setup.py
+* remove open command
+---------
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>")| Jul 9, 2024  
+[NOTICE.txt](/UKPLab/sentence-transformers/blob/master/NOTICE.txt "NOTICE.txt")| [NOTICE.txt](/UKPLab/sentence-transformers/blob/master/NOTICE.txt "NOTICE.txt")| [Update for v0.2.1](/UKPLab/sentence-transformers/commit/444e4d69a1724f0ca358d1eb55386a83c38361d9 "Update for v0.2.1")| Aug 17, 2019  
+[README.md](/UKPLab/sentence-transformers/blob/master/README.md "README.md")| [README.md](/UKPLab/sentence-transformers/blob/master/README.md "README.md")| [[](/UKPLab/sentence-transformers/commit/1cb196ad3a4dd3575eaba956af8b29c89f8a7c0d "\[`deprecate`\] Drop Python 3.8 support due to EOL \(#3033\)
+* Drop Python 3.8 support due to EOL
+* Apply ruff improvements due to Python 3.8 no longer being supported")`[deprecate](/UKPLab/sentence-transformers/commit/1cb196ad3a4dd3575eaba956af8b29c89f8a7c0d "\[`deprecate`\] Drop Python 3.8 support due to EOL \(#3033\)
+* Drop Python 3.8 support due to EOL
+* Apply ruff improvements due to Python 3.8 no longer being supported")`[] Drop Python 3.8 support due to EOL (](/UKPLab/sentence-transformers/commit/1cb196ad3a4dd3575eaba956af8b29c89f8a7c0d "\[`deprecate`\] Drop Python 3.8 support due to EOL \(#3033\)
+* Drop Python 3.8 support due to EOL
+* Apply ruff improvements due to Python 3.8 no longer being supported")[#3033](https://github.com/UKPLab/sentence-transformers/pull/3033)[)](/UKPLab/sentence-transformers/commit/1cb196ad3a4dd3575eaba956af8b29c89f8a7c0d "\[`deprecate`\] Drop Python 3.8 support due to EOL \(#3033\)
+* Drop Python 3.8 support due to EOL
+* Apply ruff improvements due to Python 3.8 no longer being supported")| Nov 6, 2024  
+[index.rst](/UKPLab/sentence-transformers/blob/master/index.rst "index.rst")| [index.rst](/UKPLab/sentence-transformers/blob/master/index.rst "index.rst")| [[](/UKPLab/sentence-transformers/commit/7be3eacd24f986f702eed40e9c7ef6e8eb224c45 "\[`feat`\] Trainer with prompts and prompt masking \(#2964\)
+* Added the possibility of masking the prompts if the tokenizer is left-padded.
+* Simplify code
+* Remove unrelated changes
+* Move prompt_mask into the Transformer model
+* Added query and corpus prompts to Information Retrieval Evaluator
+* Fix for failing test
+* Fix for pooling when mask is not passed
+* Fix device placement for prompt_mask
+* Revert left-padding changes
+* Revert left-padding changes
+* Added support to prompts in the Trainer
+* Simplify logic and add prompt to eval dataset
+* add prompt to test dataset
+* Added support to prompts in the Trainer
+* Simplify logic and add prompt to eval dataset
+* add prompt to test dataset
+* rename prompt to prompts
+* Move prompts to collator
+* rename to set_prompts
+* Move prompts into data_collator
+* Fix for pooling check
+* Move prompt logic to Collator, add logic to add dataset column when prompt exists in the Trainer
+* typo and init bug
+* redundant initialization
+* remove unused method
+* add dtype of tensort
+* Fix for dtype and None dataset
+* Remove unused argument
+* Fix typos
+* Always tokenize a list, otherwise the prompt length is off
+* Use a simple int as a prompt length instead of a tensor
+* Add prompts via .set_transform/.map to Dataset rather than via Collator
+* Remove dead code/TODO
+* Move prompts to SentenceTransformersArguments
+* Only include dataset_name if strictly needed, stricter tests
+* \(Unrelated\) Warn if using a batch sampler with a streaming dataset
+* Always return batch_size samples in transform
+This is just safer & less hacky - I encountered a nasty bug where only returning 1 value \(because we technically only need 1\) results in all other samples being skipped. Not great.
+* Fix bug with prompts + prompt_lengths & NoDuplicatesBatchSampler
+* \(Unrelated\) add NanoBEIREvaluator to docs
+* Add Training with Prompts docs + example script
+This also already mentions the v3.3 release - a bit premature, but it's a tad simpler this way
+* Slight updates to the docs
+* Simplify/revert slightly in the data collator
+---------
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>")`[feat](/UKPLab/sentence-transformers/commit/7be3eacd24f986f702eed40e9c7ef6e8eb224c45 "\[`feat`\] Trainer with prompts and prompt masking \(#2964\)
+* Added the possibility of masking the prompts if the tokenizer is left-padded.
+* Simplify code
+* Remove unrelated changes
+* Move prompt_mask into the Transformer model
+* Added query and corpus prompts to Information Retrieval Evaluator
+* Fix for failing test
+* Fix for pooling when mask is not passed
+* Fix device placement for prompt_mask
+* Revert left-padding changes
+* Revert left-padding changes
+* Added support to prompts in the Trainer
+* Simplify logic and add prompt to eval dataset
+* add prompt to test dataset
+* Added support to prompts in the Trainer
+* Simplify logic and add prompt to eval dataset
+* add prompt to test dataset
+* rename prompt to prompts
+* Move prompts to collator
+* rename to set_prompts
+* Move prompts into data_collator
+* Fix for pooling check
+* Move prompt logic to Collator, add logic to add dataset column when prompt exists in the Trainer
+* typo and init bug
+* redundant initialization
+* remove unused method
+* add dtype of tensort
+* Fix for dtype and None dataset
+* Remove unused argument
+* Fix typos
+* Always tokenize a list, otherwise the prompt length is off
+* Use a simple int as a prompt length instead of a tensor
+* Add prompts via .set_transform/.map to Dataset rather than via Collator
+* Remove dead code/TODO
+* Move prompts to SentenceTransformersArguments
+* Only include dataset_name if strictly needed, stricter tests
+* \(Unrelated\) Warn if using a batch sampler with a streaming dataset
+* Always return batch_size samples in transform
+This is just safer & less hacky - I encountered a nasty bug where only returning 1 value \(because we technically only need 1\) results in all other samples being skipped. Not great.
+* Fix bug with prompts + prompt_lengths & NoDuplicatesBatchSampler
+* \(Unrelated\) add NanoBEIREvaluator to docs
+* Add Training with Prompts docs + example script
+This also already mentions the v3.3 release - a bit premature, but it's a tad simpler this way
+* Slight updates to the docs
+* Simplify/revert slightly in the data collator
+---------
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>")`[] Trainer with prompts and prompt masking (](/UKPLab/sentence-transformers/commit/7be3eacd24f986f702eed40e9c7ef6e8eb224c45 "\[`feat`\] Trainer with prompts and prompt masking \(#2964\)
+* Added the possibility of masking the prompts if the tokenizer is left-padded.
+* Simplify code
+* Remove unrelated changes
+* Move prompt_mask into the Transformer model
+* Added query and corpus prompts to Information Retrieval Evaluator
+* Fix for failing test
+* Fix for pooling when mask is not passed
+* Fix device placement for prompt_mask
+* Revert left-padding changes
+* Revert left-padding changes
+* Added support to prompts in the Trainer
+* Simplify logic and add prompt to eval dataset
+* add prompt to test dataset
+* Added support to prompts in the Trainer
+* Simplify logic and add prompt to eval dataset
+* add prompt to test dataset
+* rename prompt to prompts
+* Move prompts to collator
+* rename to set_prompts
+* Move prompts into data_collator
+* Fix for pooling check
+* Move prompt logic to Collator, add logic to add dataset column when prompt exists in the Trainer
+* typo and init bug
+* redundant initialization
+* remove unused method
+* add dtype of tensort
+* Fix for dtype and None dataset
+* Remove unused argument
+* Fix typos
+* Always tokenize a list, otherwise the prompt length is off
+* Use a simple int as a prompt length instead of a tensor
+* Add prompts via .set_transform/.map to Dataset rather than via Collator
+* Remove dead code/TODO
+* Move prompts to SentenceTransformersArguments
+* Only include dataset_name if strictly needed, stricter tests
+* \(Unrelated\) Warn if using a batch sampler with a streaming dataset
+* Always return batch_size samples in transform
+This is just safer & less hacky - I encountered a nasty bug where only returning 1 value \(because we technically only need 1\) results in all other samples being skipped. Not great.
+* Fix bug with prompts + prompt_lengths & NoDuplicatesBatchSampler
+* \(Unrelated\) add NanoBEIREvaluator to docs
+* Add Training with Prompts docs + example script
+This also already mentions the v3.3 release - a bit premature, but it's a tad simpler this way
+* Slight updates to the docs
+* Simplify/revert slightly in the data collator
+---------
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>")[#2964](https://github.com/UKPLab/sentence-transformers/pull/2964)[)](/UKPLab/sentence-transformers/commit/7be3eacd24f986f702eed40e9c7ef6e8eb224c45 "\[`feat`\] Trainer with prompts and prompt masking \(#2964\)
+* Added the possibility of masking the prompts if the tokenizer is left-padded.
+* Simplify code
+* Remove unrelated changes
+* Move prompt_mask into the Transformer model
+* Added query and corpus prompts to Information Retrieval Evaluator
+* Fix for failing test
+* Fix for pooling when mask is not passed
+* Fix device placement for prompt_mask
+* Revert left-padding changes
+* Revert left-padding changes
+* Added support to prompts in the Trainer
+* Simplify logic and add prompt to eval dataset
+* add prompt to test dataset
+* Added support to prompts in the Trainer
+* Simplify logic and add prompt to eval dataset
+* add prompt to test dataset
+* rename prompt to prompts
+* Move prompts to collator
+* rename to set_prompts
+* Move prompts into data_collator
+* Fix for pooling check
+* Move prompt logic to Collator, add logic to add dataset column when prompt exists in the Trainer
+* typo and init bug
+* redundant initialization
+* remove unused method
+* add dtype of tensort
+* Fix for dtype and None dataset
+* Remove unused argument
+* Fix typos
+* Always tokenize a list, otherwise the prompt length is off
+* Use a simple int as a prompt length instead of a tensor
+* Add prompts via .set_transform/.map to Dataset rather than via Collator
+* Remove dead code/TODO
+* Move prompts to SentenceTransformersArguments
+* Only include dataset_name if strictly needed, stricter tests
+* \(Unrelated\) Warn if using a batch sampler with a streaming dataset
+* Always return batch_size samples in transform
+This is just safer & less hacky - I encountered a nasty bug where only returning 1 value \(because we technically only need 1\) results in all other samples being skipped. Not great.
+* Fix bug with prompts + prompt_lengths & NoDuplicatesBatchSampler
+* \(Unrelated\) add NanoBEIREvaluator to docs
+* Add Training with Prompts docs + example script
+This also already mentions the v3.3 release - a bit premature, but it's a tad simpler this way
+* Slight updates to the docs
+* Simplify/revert slightly in the data collator
+---------
+Co-authored-by: Tom Aarsen <Cubiegamedev@gmail.com>")| Nov 8, 2024  
+[pyproject.toml](/UKPLab/sentence-transformers/blob/master/pyproject.toml "pyproject.toml")| [pyproject.toml](/UKPLab/sentence-transformers/blob/master/pyproject.toml "pyproject.toml")| [Increment the development version](/UKPLab/sentence-transformers/commit/c1775a67a36123ec8be7f302c6335652e83da213 "Increment the development version")| Nov 11, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Apache-2.0 license](#)
+
+
+
+[![HF Models](https://camo.githubusercontent.com/ca5c995cbedf28da286e93bd2e3c5c767190d20fe78be7b5e86390570772d74c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2546302539462541342539372d6d6f64656c732d79656c6c6f77)](https://huggingface.co/models?library=sentence-transformers) [![GitHub - License](https://camo.githubusercontent.com/6ec957e44cd88c86904b150b0b89da41bd30d9956a44a8990aaf086277e7ebd0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f554b504c61622f73656e74656e63652d7472616e73666f726d6572733f6c6f676f3d676974687562267374796c653d666c617426636f6c6f723d677265656e)](https://github.com/UKPLab/sentence-transformers/blob/master/LICENSE) [![PyPI - Python Version](https://camo.githubusercontent.com/56f362055ff755fcf3251ad2b5824ddc0580717347dab22fe3684e2772ba38f1/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f73656e74656e63652d7472616e73666f726d6572733f6c6f676f3d70797069267374796c653d666c617426636f6c6f723d626c7565)](https://pypi.org/project/sentence-transformers/) [![PyPI - Package Version](https://camo.githubusercontent.com/b975ba63add503dc993dda2d900629c554489eea38d9feb0cb8bb24a69fb2935/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f73656e74656e63652d7472616e73666f726d6572733f6c6f676f3d70797069267374796c653d666c617426636f6c6f723d6f72616e6765)](https://pypi.org/project/sentence-transformers/) [![Docs - GitHub.io](https://camo.githubusercontent.com/f507bb82f26f742ad95cbbe6426778a26ff3d0c92ba81aa67dae90d6e77a1fd9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6f676f3d676974687562267374796c653d666c617426636f6c6f723d70696e6b266c6162656c3d646f6373266d6573736167653d73656e74656e63652d7472616e73666f726d657273)](https://www.sbert.net/)
+
+# Sentence Transformers: Multilingual Sentence, Paragraph, and Image Embeddings using BERT & Co.
+
+[](#sentence-transformers-multilingual-sentence-paragraph-and-image-embeddings-using-bert--co)
+
+This framework provides an easy method to compute dense vector representations for **sentences** , **paragraphs** , and **images**. The models are based on transformer networks like BERT / RoBERTa / XLM-RoBERTa etc. and achieve state-of-the-art performance in various tasks. Text is embedded in vector space such that similar text are closer and can efficiently be found using cosine similarity.
+
+We provide an increasing number of **[state-of-the-art pretrained models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html)** for more than 100 languages, fine-tuned for various use-cases.
+
+Further, this framework allows an easy **[fine-tuning of custom embeddings models](https://www.sbert.net/docs/sentence_transformer/training_overview.html)** , to achieve maximal performance on your specific task.
+
+For the **full documentation** , see **[www.SBERT.net](https://www.sbert.net)**.
+
+## Installation
+
+[](#installation)
+
+We recommend **Python 3.9+** , **[PyTorch 1.11.0+](https://pytorch.org/get-started/locally/)** , and **[transformers v4.34.0+](https://github.com/huggingface/transformers)**.
+
+**Install with pip**
+
+```
+`pip install -U sentence-transformers `
+```
+
+**Install with conda**
+
+```
+`conda install -c conda-forge sentence-transformers `
+```
+
+**Install from sources**
+
+Alternatively, you can also clone the latest version from the [repository](https://github.com/UKPLab/sentence-transformers) and install it directly from the source code:
+
+```
+`pip install -e . `
+```
+
+**PyTorch with CUDA**
+
+If you want to use a GPU / CUDA, you must install PyTorch with the matching CUDA Version. Follow [PyTorch - Get Started](https://pytorch.org/get-started/locally/) for further details how to install PyTorch.
+
+## Getting Started
+
+[](#getting-started)
+
+See [Quickstart](https://www.sbert.net/docs/quickstart.html) in our documentation.
+
+First download a pretrained model.
+
+```
+from sentence_transformers import SentenceTransformer model = SentenceTransformer("all-MiniLM-L6-v2")
+```
+
+Then provide some sentences to the model.
+
+```
+sentences = [ "The weather is lovely today.", "It's so sunny outside!", "He drove to the stadium.", ] embeddings = model.encode(sentences) print(embeddings.shape) # => (3, 384)
+```
+
+And that's already it. We now have a numpy arrays with the embeddings, one for each text. We can use these to compute similarities.
+
+```
+similarities = model.similarity(embeddings, embeddings) print(similarities) # tensor([[1.0000, 0.6660, 0.1046], # [0.6660, 1.0000, 0.1411], # [0.1046, 0.1411, 1.0000]])
+```
+
+## Pre-Trained Models
+
+[](#pre-trained-models)
+
+We provide a large list of [Pretrained Models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html) for more than 100 languages. Some models are general purpose models, while others produce embeddings for specific use cases. Pre-trained models can be loaded by just passing the model name: `SentenceTransformer('model_name')`.
+
+## Training
+
+[](#training)
+
+This framework allows you to fine-tune your own sentence embedding methods, so that you get task-specific sentence embeddings. You have various options to choose from in order to get perfect sentence embeddings for your specific task.
+
+See [Training Overview](https://www.sbert.net/docs/sentence_transformer/training_overview.html) for an introduction how to train your own embedding models. We provide [various examples](https://github.com/UKPLab/sentence-transformers/tree/master/examples/training) how to train models on various datasets.
+
+Some highlights are:
+
+  * Support of various transformer networks including BERT, RoBERTa, XLM-R, DistilBERT, Electra, BART, ...
+  * Multi-Lingual and multi-task learning
+  * Evaluation during training to find optimal model
+  * [20+ loss-functions](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html) allowing to tune models specifically for semantic search, paraphrase mining, semantic similarity comparison, clustering, triplet loss, contrastive loss, etc.
+
+
+
+## Application Examples
+
+[](#application-examples)
+
+You can use this framework for:
+
+  * [Computing Sentence Embeddings](https://www.sbert.net/examples/applications/computing-embeddings/README.html)
+  * [Semantic Textual Similarity](https://www.sbert.net/docs/usage/semantic_textual_similarity.html)
+  * [Semantic Search](https://www.sbert.net/examples/applications/semantic-search/README.html)
+  * [Retrieve & Re-Rank](https://www.sbert.net/examples/applications/retrieve_rerank/README.html)
+  * [Clustering](https://www.sbert.net/examples/applications/clustering/README.html)
+  * [Paraphrase Mining](https://www.sbert.net/examples/applications/paraphrase-mining/README.html)
+  * [Translated Sentence Mining](https://www.sbert.net/examples/applications/parallel-sentence-mining/README.html)
+  * [Multilingual Image Search, Clustering & Duplicate Detection](https://www.sbert.net/examples/applications/image-search/README.html)
+
+
+
+and many more use-cases.
+
+For all examples, see [examples/applications](https://github.com/UKPLab/sentence-transformers/tree/master/examples/applications).
+
+## Development setup
+
+[](#development-setup)
+
+After cloning the repo (or a fork) to your machine, in a virtual environment, run:
+
+```
+`python -m pip install -e ".[dev]" pre-commit install `
+```
+
+To test your changes, run:
+
+```
+`pytest `
+```
+
+## Citing & Authors
+
+[](#citing--authors)
+
+If you find this repository helpful, feel free to cite our publication [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084):
+
+```
+@inproceedings{reimers-2019-sentence-bert, title = "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks", author = "Reimers, Nils and Gurevych, Iryna", booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing", month = "11", year = "2019", publisher = "Association for Computational Linguistics", url = "https://arxiv.org/abs/1908.10084", }
+```
+
+If you use one of the multilingual models, feel free to cite our publication [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://arxiv.org/abs/2004.09813):
+
+```
+@inproceedings{reimers-2020-multilingual-sentence-bert, title = "Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation", author = "Reimers, Nils and Gurevych, Iryna", booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing", month = "11", year = "2020", publisher = "Association for Computational Linguistics", url = "https://arxiv.org/abs/2004.09813", }
+```
+
+Please have a look at [Publications](https://www.sbert.net/docs/publications.html) for our different publications that are integrated into SentenceTransformers.
+
+Maintainer: [Tom Aarsen](https://github.com/tomaarsen), 🤗 Hugging Face
+
+<https://www.ukp.tu-darmstadt.de/>
+
+Don't hesitate to open an issue if something is broken (and it shouldn't be) or if you have further questions.
+
+> This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
+
+## About
+
+State-of-the-Art Text Embeddings 
+
+[www.sbert.net](https://www.sbert.net "https://www.sbert.net")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+[ Activity](/UKPLab/sentence-transformers/activity)
+
+[ Custom properties](/UKPLab/sentence-transformers/custom-properties)
+
+### Stars
+
+[ **15.8k** stars](/UKPLab/sentence-transformers/stargazers)
+
+### Watchers
+
+[ **143** watching](/UKPLab/sentence-transformers/watchers)
+
+### Forks
+
+[ **2.5k** forks](/UKPLab/sentence-transformers/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FUKPLab%2Fsentence-transformers&report=UKPLab+%28user%29)
+
+##  [Releases 48](/UKPLab/sentence-transformers/releases)
+
+[ v3.3.1 - Patch private model loading without environment variable Latest  Nov 18, 2024 ](/UKPLab/sentence-transformers/releases/tag/v3.3.1)
+
+[+ 47 releases](/UKPLab/sentence-transformers/releases)
+
+##  [Used by 64.3k](/UKPLab/sentence-transformers/network/dependents)
+
+[
+
+  * ![@wulanika](https://avatars.githubusercontent.com/u/167966754?s=64&v=4)
+  * ![@shibbir-ahmad24](https://avatars.githubusercontent.com/u/62713622?s=64&v=4)
+  * ![@apsr652](https://avatars.githubusercontent.com/u/190415180?s=64&v=4)
+  * ![@shahildhotre](https://avatars.githubusercontent.com/u/57401689?s=64&v=4)
+  * ![@Rama-Marhlh](https://avatars.githubusercontent.com/u/90220172?s=64&v=4)
+  * ![@yihim](https://avatars.githubusercontent.com/u/75348684?s=64&v=4)
+  * ![@xAIdrian](https://avatars.githubusercontent.com/u/7444521?s=64&v=4)
+  * ![@Levi-Chinecherem](https://avatars.githubusercontent.com/u/74856946?s=64&v=4)
+
++ 64,315  ](/UKPLab/sentence-transformers/network/dependents)
+
+##  [Contributors 203](/UKPLab/sentence-transformers/graphs/contributors)
+
+  * [ ![@nreimers](https://avatars.githubusercontent.com/u/10706961?s=64&v=4) ](https://github.com/nreimers)
+  * [ ![@tomaarsen](https://avatars.githubusercontent.com/u/37621491?s=64&v=4) ](https://github.com/tomaarsen)
+  * [ ![@PhilipMay](https://avatars.githubusercontent.com/u/229382?s=64&v=4) ](https://github.com/PhilipMay)
+  * [ ![@fpgmaas](https://avatars.githubusercontent.com/u/12008199?s=64&v=4) ](https://github.com/fpgmaas)
+  * [ ![@cpcdoy](https://avatars.githubusercontent.com/u/5941942?s=64&v=4) ](https://github.com/cpcdoy)
+  * [ ![@osanseviero](https://avatars.githubusercontent.com/u/7246357?s=64&v=4) ](https://github.com/osanseviero)
+  * [ ![@sidhantls](https://avatars.githubusercontent.com/u/19412334?s=64&v=4) ](https://github.com/sidhantls)
+  * [ ![@JINO-ROHIT](https://avatars.githubusercontent.com/u/63234112?s=64&v=4) ](https://github.com/JINO-ROHIT)
+  * [ ![@kddubey](https://avatars.githubusercontent.com/u/29441957?s=64&v=4) ](https://github.com/kddubey)
+  * [ ![@kwang2049](https://avatars.githubusercontent.com/u/71278644?s=64&v=4) ](https://github.com/kwang2049)
+  * [ ![@pesuchin](https://avatars.githubusercontent.com/u/7578373?s=64&v=4) ](https://github.com/pesuchin)
+  * [ ![@michaelfeil](https://avatars.githubusercontent.com/u/63565275?s=64&v=4) ](https://github.com/michaelfeil)
+  * [ ![@ArthurCamara](https://avatars.githubusercontent.com/u/709027?s=64&v=4) ](https://github.com/ArthurCamara)
+  * [ ![@fros1y](https://avatars.githubusercontent.com/u/1689917?s=64&v=4) ](https://github.com/fros1y)
+
+
+
+[+ 189 contributors](/UKPLab/sentence-transformers/graphs/contributors)
+
+## Languages
+
+  * [ Python 100.0% ](/UKPLab/sentence-transformers/search?l=python)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

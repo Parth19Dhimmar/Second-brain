@@ -1,0 +1,46 @@
+Smaller models have become more capable thanks to techniques like:
+- knowledge distillation (in which a larger teacher model is used to train a smaller student model to match its output)
+- parameter pruning (which removes less-influential parameters)
+- quantization (which reduces neural network sizes by representing each parameter with fewer bits)
+- greater attention to curating training sets for data quality: the practice of improving model performance by improving the quality of their training data
+---
+
+# Pruning
+
+	
+
+# Quantization
+
+	# Articles
+	
+	- [https://huggingface.co/blog/hf-bitsandbytes-integration](https://huggingface.co/blog/hf-bitsandbytes-integration)
+	- [https://huggingface.co/blog/4bit-transformers-bitsandbytes](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
+	- [Introduction to Weight Quantization](https://towardsdatascience.com/introduction-to-weight-quantization-2494701b9c0c)
+	
+	# Papers
+	
+	- [A White Paper on Neural Network Quantization](https://arxiv.org/abs/2106.08295)
+	- LLM.int8
+	- GPTQ
+	- SmoothQuant
+	- QLoRA
+	- AWQ
+	- QuIP (2-bit)
+	- HQQ (2-bit)
+	- AQLM (2-bit)
+	
+	# Videos
+	
+	- [tinyML Talks: A Practical Guide to Neural Network Quantization](https://www.youtube.com/watch?v=KASuxB3XoYQ)
+	
+	# Courses
+	
+	- [Quantization in Depth](https://www.deeplearning.ai/short-courses/quantization-in-depth/) by DeepLearning.AI
+
+# Compilation
+
+	
+
+# Matrix Factorisation
+
+# Distillation

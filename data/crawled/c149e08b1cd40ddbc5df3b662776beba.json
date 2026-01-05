@@ -1,0 +1,61 @@
+{
+    "id": "c149e08b1cd40ddbc5df3b662776beba",
+    "metadata": {
+        "id": "c149e08b1cd40ddbc5df3b662776beba",
+        "url": "https://huyenchip.com/",
+        "title": "Chip Huyen",
+        "properties": {
+            "description": "I help companies deploy machine learning into production. I write about AI applications, tooling, and best practices.",
+            "keywords": null,
+            "author": null,
+            "og:title": "Chip Huyen",
+            "og:locale": "en_US",
+            "og:description": "I help companies deploy machine learning into production. I write about AI applications, tooling, and best practices.",
+            "og:url": "https://huyenchip.com/",
+            "og:site_name": "Chip Huyen",
+            "og:type": "website",
+            "twitter:card": "summary"
+        }
+    },
+    "parent_metadata": {
+        "id": "fcfbc3a0a1a4b48cfaaf5c0e4d6fc4cf",
+        "url": "https://www.notion.so/Sources-fcfbc3a0a1a4b48cfaaf5c0e4d6fc4cf",
+        "title": "📙 Sources",
+        "properties": {
+            "Type": "Node"
+        }
+    },
+    "content": "[Chip Huyen](/)\n\n[Blog](/blog/) [Books](/books/) [Events](/events/)\n\nAI Guide\n\n  * [AI Roadmap](/mlops/)\n  * [Llama Police](/llama-police)\n  * [ML Interviews](https://huyenchip.com/ml-interviews-book/)\n\n\n\n[List 100](/list-100/) [VN](https://huyenchip.com/vn/)\n\n[ ![Chip Huyen](/assets/profile.jpeg) ](https://www.instagram.com/huyenchip19/)\n\nI’m Chip Huyen, a writer and computer scientist. I grew up chasing grasshoppers in a small rice-farming village in Vietnam.\n\nMy focus is on ML/AI systems in production. I’m currently exploring creative use cases of AI in education and entertainment.\n\nPreviously, I worked on ML tooling at NVIDIA (core dev of [**NeMo**](https://github.com/NVIDIA/NeMo)), Snorkel AI, and Netflix. I also founded and sold an AI infra startup.\n\nRunning a startup taught me that being a founder is incredibly hard, so I try to support founders in any way I can. Some startups I’ve worked with included [Convai](https://convai.com/), [OctoAI](https://octo.ai/), and [Photoroom](https://www.photoroom.com/).\n\nI graduated from Stanford, where I taught [ML Systems](https://cs329s.stanford.edu). The lectures became the foundation for the book [**Designing Machine Learning Systems**](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969?&_encoding=UTF8&tag=chiphuyen-20&linkCode=ur2&linkId=0a1dbab0e76f5996e29e1a97d45f14a5&camp=1789&creative=9325), which is an Amazon #1 bestseller in AI and has been translated into 10+ languages (very proud)!\n\nMy new book **AI Engineering** (2025) is currently the most read book on the [O’Reilly](https://oreillymedia.pxf.io/c/5719111/2146021/15173) platform. It’s also available on [Amazon](https://amzn.to/49j1cGS) and [Kindle](https://amzn.to/3Vq2ryu).\n\nI’m active on [GitHub](https://github.com/chiphuyen) and aspire to become a [Goodreads](https://www.goodreads.com/chiphuyen) influencer. You can also find me on [Google Scholar](https://scholar.google.com/citations?user=pwg2DGwAAAAJ&hl=en). I frequently speak at and occasionally host [events](https://huyenchip.com/events).\n\nI enjoy learning about fun technical challenges and collaborating with great teams. [Reach out](https://huyenchip.com/communication) if you want to find a way to work together!\n\n  * chip@[thiswebsite]\n  * [chiphuyen](https://github.com/chiphuyen)\n  * [chipro](https://twitter.com/chipro)\n  * [chipiscrazy](https://facebook.com/chipiscrazy)\n  * [huyenchip19](https://instagram.com/huyenchip19)\n  * [chiphuyen](https://www.linkedin.com/in/chiphuyen)\n\n\n\nI help companies deploy machine learning into production. I write about AI applications, tooling, and best practices. \n\nSubscribe\n\n![]()\n",
+    "content_quality_score": 0.8,
+    "summary": null,
+    "child_urls": [
+        "https://huyenchip.com/",
+        "https://huyenchip.com/blog/",
+        "https://huyenchip.com/books/",
+        "https://huyenchip.com/events/",
+        "https://huyenchip.com/mlops/",
+        "https://huyenchip.com/llama-police",
+        "https://huyenchip.com/ml-interviews-book/",
+        "https://huyenchip.com/list-100/",
+        "https://huyenchip.com/vn/",
+        "https://huyenchip.com/events",
+        "https://huyenchip.com/communication",
+        "https://www.instagram.com/huyenchip19/",
+        "https://github.com/NVIDIA/NeMo",
+        "https://convai.com/",
+        "https://octo.ai/",
+        "https://www.photoroom.com/",
+        "https://cs329s.stanford.edu",
+        "https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969?&_encoding=UTF8&tag=chiphuyen-20&linkCode=ur2&linkId=0a1dbab0e76f5996e29e1a97d45f14a5&camp=1789&creative=9325",
+        "https://oreillymedia.pxf.io/c/5719111/2146021/15173",
+        "https://amzn.to/49j1cGS",
+        "https://amzn.to/3Vq2ryu",
+        "https://github.com/chiphuyen",
+        "https://www.goodreads.com/chiphuyen",
+        "https://scholar.google.com/citations?user=pwg2DGwAAAAJ&hl=en",
+        "https://twitter.com/chipro",
+        "https://facebook.com/chipiscrazy",
+        "https://instagram.com/huyenchip19",
+        "https://www.linkedin.com/in/chiphuyen"
+    ]
+}

@@ -1,0 +1,3271 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ftruera%2Ftrulens%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Ftruera%2Ftrulens%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=truera%2Ftrulens) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ truera ](/truera) / **[trulens](/truera/trulens) ** Public
+
+  * [ Notifications ](/login?return_to=%2Ftruera%2Ftrulens) You must be signed in to change notification settings
+  * [ Fork 198 ](/login?return_to=%2Ftruera%2Ftrulens)
+  * [ Star  2.3k ](/login?return_to=%2Ftruera%2Ftrulens)
+
+
+
+
+Evaluation and Tracking for LLM Experiments 
+
+[www.trulens.org/](https://www.trulens.org/ "https://www.trulens.org/")
+
+### License
+
+[ MIT license ](/truera/trulens/blob/main/LICENSE)
+
+[ 2.3k stars ](/truera/trulens/stargazers) [ 198 forks ](/truera/trulens/forks) [ Branches ](/truera/trulens/branches) [ Tags ](/truera/trulens/tags) [ Activity ](/truera/trulens/activity)
+
+[ Star  ](/login?return_to=%2Ftruera%2Ftrulens)
+
+[ Notifications ](/login?return_to=%2Ftruera%2Ftrulens) You must be signed in to change notification settings
+
+  * [ Code ](/truera/trulens)
+  * [ Issues 11 ](/truera/trulens/issues)
+  * [ Pull requests 31 ](/truera/trulens/pulls)
+  * [ Discussions ](/truera/trulens/discussions)
+  * [ Actions ](/truera/trulens/actions)
+  * [ Projects 0 ](/truera/trulens/projects)
+  * [ Wiki ](/truera/trulens/wiki)
+  * [ Security ](/truera/trulens/security)
+  * [ Insights ](/truera/trulens/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/truera/trulens)
+  * [ Issues  ](/truera/trulens/issues)
+  * [ Pull requests  ](/truera/trulens/pulls)
+  * [ Discussions  ](/truera/trulens/discussions)
+  * [ Actions  ](/truera/trulens/actions)
+  * [ Projects  ](/truera/trulens/projects)
+  * [ Wiki  ](/truera/trulens/wiki)
+  * [ Security  ](/truera/trulens/security)
+  * [ Insights  ](/truera/trulens/pulse)
+
+
+
+# truera/trulens
+
+main
+
+[**946** Branches](/truera/trulens/branches)[**80** Tags](/truera/trulens/tags)
+
+[](/truera/trulens/branches)[](/truera/trulens/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![sfc-gh-chu](https://avatars.githubusercontent.com/u/170677933?v=4&size=40)](/sfc-gh-chu)[sfc-gh-chu](/truera/trulens/commits?author=sfc-gh-chu)[move](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26) `[poetry-core](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26)` [restrictions to az pipeline (](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26)[#1732](https://github.com/truera/trulens/pull/1732)[)](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26)Jan 21, 2025[44d9bc2](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26) · Jan 21, 2025
+
+## History
+
+[1,202 Commits](/truera/trulens/commits/main/)[](/truera/trulens/commits/main/)  
+[.azure_pipelines](/truera/trulens/tree/main/.azure_pipelines ".azure_pipelines")| [.azure_pipelines](/truera/trulens/tree/main/.azure_pipelines ".azure_pipelines")| [move](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26 "move `poetry-core` restrictions to az pipeline \(#1732\)
+* update meta.yaml
+* set poetry lock version in env test instead
+* update conda recipe for core
+* Update env-setup.yaml") `[poetry-core](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26 "move `poetry-core` restrictions to az pipeline \(#1732\)
+* update meta.yaml
+* set poetry lock version in env test instead
+* update conda recipe for core
+* Update env-setup.yaml")` [restrictions to az pipeline (](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26 "move `poetry-core` restrictions to az pipeline \(#1732\)
+* update meta.yaml
+* set poetry lock version in env test instead
+* update conda recipe for core
+* Update env-setup.yaml")[#1732](https://github.com/truera/trulens/pull/1732)[)](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26 "move `poetry-core` restrictions to az pipeline \(#1732\)
+* update meta.yaml
+* set poetry lock version in env test instead
+* update conda recipe for core
+* Update env-setup.yaml")| Jan 21, 2025  
+[.github/ISSUE_TEMPLATE](/truera/trulens/tree/main/.github/ISSUE_TEMPLATE "This path skips through empty directories")| [.github/ISSUE_TEMPLATE](/truera/trulens/tree/main/.github/ISSUE_TEMPLATE "This path skips through empty directories")| [Change issue assignee to Prudhvi to triage (](/truera/trulens/commit/e25b561133a0dd46095025badef80208ff267b35 "Change issue assignee to Prudhvi to triage \(#1686\)
+* Update bug-report.md
+* Update feature_request.md")[#1686](https://github.com/truera/trulens/pull/1686)[)](/truera/trulens/commit/e25b561133a0dd46095025badef80208ff267b35 "Change issue assignee to Prudhvi to triage \(#1686\)
+* Update bug-report.md
+* Update feature_request.md")| Dec 6, 2024  
+[.grit](/truera/trulens/tree/main/.grit ".grit")| [.grit](/truera/trulens/tree/main/.grit ".grit")| [import style (](/truera/trulens/commit/d0fb82c9f1e800e5bb365aa8232a2b501173a5af "import style \(#1543\)
+* adopt import style
+* another file fixed
+* more fixes
+* fixing circular
+* no aliases
+* revert init
+* revert another
+* last few
+* note -> warning
+* more import styling
+* another one
+* more standardization
+* more
+* many more import style fixes
+* fix typos
+* update api dump
+* remove private value
+* remove private name from compat
+* add more module renaming suggestions
+* more module rename categories
+* remove private
+* typo
+* another private removed
+* update trulens_eval api dump
+* docs typo fixes
+* fix a few bad docs links")[#1543](https://github.com/truera/trulens/pull/1543)[)](/truera/trulens/commit/d0fb82c9f1e800e5bb365aa8232a2b501173a5af "import style \(#1543\)
+* adopt import style
+* another file fixed
+* more fixes
+* fixing circular
+* no aliases
+* revert init
+* revert another
+* last few
+* note -> warning
+* more import styling
+* another one
+* more standardization
+* more
+* many more import style fixes
+* fix typos
+* update api dump
+* remove private value
+* remove private name from compat
+* add more module renaming suggestions
+* more module rename categories
+* remove private
+* typo
+* another private removed
+* update trulens_eval api dump
+* docs typo fixes
+* fix a few bad docs links")| Oct 16, 2024  
+[.vscode](/truera/trulens/tree/main/.vscode ".vscode")| [.vscode](/truera/trulens/tree/main/.vscode ".vscode")| [API dump and deeper trulens_eval compatibility test (](/truera/trulens/commit/b081eb4b2728e76e6b08ab209ccb2285f87f355e "API dump and deeper trulens_eval compatibility test \(#1309\)
+* dummy testing
+* writing record dump from dummy app invocation
+* write golden files
+* add golden tests
+* docs
+* add docs
+* template adjustment
+* fix mkdocs warnings
+* fix old test
+* change goldens to yaml for human readability
+* backtrack to json due to yaml issues, add checking of feedback result as well
+* more skipped json parts
+* format
+* add some additional checks on bindings
+* nit
+* add todo near comments
+* grammar fix
+* more docs
+* more docs
+* cleanup
+* fix validate nondeterminism
+* update gold
+* pretty print golden json output
+* extension warning
+* icons for dummy docs
+* fix docs
+* format
+* adjust template wording
+* update custom_example notebook
+* update docs around custom_example
+* update golden tests for custom app
+* fix outdated recording usage
+* adding custom app options
+* adding more example usage
+* fixing up async uses
+* format
+* format again
+* add streaming to dummy app
+* update golden
+* add comparison for unordered sequences
+* add frozendict to test reqs
+* typo
+* reorganize dummy app
+* cleaning up docs
+* updating docs and adding references
+* remove str from enums
+* revert and add comment about str Enums
+* format
+* update golden files
+* adjust name argument default in some signatures
+* PR comments
+* undo accidental addition
+* Factoring out part of static tests.
+* nit
+* format
+* work
+* api test case
+* address PR comments
+* remove unused
+* format
+* format again
+* add api golden list
+* format
+* pre-commit format
+* Add pydantic attributes to api printout
+* fix forward ref rendering for api dump
+* fix test imports
+* fix test path
+* fix import
+* format
+* typo again
+* make api test optional
+* another typo
+* type typo
+* fixes for python before 3.11
+* use subtests in json compare
+* minor
+* remove old example from package root, another copy was in examples outside of package
+* typo
+* move api reference docs
+* remove unused docs
+* remove old stuff
+* revert goldens
+* fixing merge
+* rename test
+* Rename.
+* fix makefile
+* Fixing api dumps and splitting by pyversion.
+* skip version in json compare
+* fix static test
+* missing todo
+* skip _bundle mod
+* remove duplicate targets
+* fix to some imports
+* another fix
+* write golden api
+* add jsondiff to test deps
+* add 3.11 api dump
+* add 3.9 and 3.10 api dumps
+* run on py311 only
+* test only on 3.11
+* api changes
+* fixing session
+* fixing session args
+* make app_id a read only instead of computed field
+* forgot to regen api
+* read_only -> frozen")[#1309](https://github.com/truera/trulens/pull/1309)[)](/truera/trulens/commit/b081eb4b2728e76e6b08ab209ccb2285f87f355e "API dump and deeper trulens_eval compatibility test \(#1309\)
+* dummy testing
+* writing record dump from dummy app invocation
+* write golden files
+* add golden tests
+* docs
+* add docs
+* template adjustment
+* fix mkdocs warnings
+* fix old test
+* change goldens to yaml for human readability
+* backtrack to json due to yaml issues, add checking of feedback result as well
+* more skipped json parts
+* format
+* add some additional checks on bindings
+* nit
+* add todo near comments
+* grammar fix
+* more docs
+* more docs
+* cleanup
+* fix validate nondeterminism
+* update gold
+* pretty print golden json output
+* extension warning
+* icons for dummy docs
+* fix docs
+* format
+* adjust template wording
+* update custom_example notebook
+* update docs around custom_example
+* update golden tests for custom app
+* fix outdated recording usage
+* adding custom app options
+* adding more example usage
+* fixing up async uses
+* format
+* format again
+* add streaming to dummy app
+* update golden
+* add comparison for unordered sequences
+* add frozendict to test reqs
+* typo
+* reorganize dummy app
+* cleaning up docs
+* updating docs and adding references
+* remove str from enums
+* revert and add comment about str Enums
+* format
+* update golden files
+* adjust name argument default in some signatures
+* PR comments
+* undo accidental addition
+* Factoring out part of static tests.
+* nit
+* format
+* work
+* api test case
+* address PR comments
+* remove unused
+* format
+* format again
+* add api golden list
+* format
+* pre-commit format
+* Add pydantic attributes to api printout
+* fix forward ref rendering for api dump
+* fix test imports
+* fix test path
+* fix import
+* format
+* typo again
+* make api test optional
+* another typo
+* type typo
+* fixes for python before 3.11
+* use subtests in json compare
+* minor
+* remove old example from package root, another copy was in examples outside of package
+* typo
+* move api reference docs
+* remove unused docs
+* remove old stuff
+* revert goldens
+* fixing merge
+* rename test
+* Rename.
+* fix makefile
+* Fixing api dumps and splitting by pyversion.
+* skip version in json compare
+* fix static test
+* missing todo
+* skip _bundle mod
+* remove duplicate targets
+* fix to some imports
+* another fix
+* write golden api
+* add jsondiff to test deps
+* add 3.11 api dump
+* add 3.9 and 3.10 api dumps
+* run on py311 only
+* test only on 3.11
+* api changes
+* fixing session
+* fixing session args
+* make app_id a read only instead of computed field
+* forgot to regen api
+* read_only -> frozen")| Aug 23, 2024  
+[_trulens/trulens/_bundle](/truera/trulens/tree/main/_trulens/trulens/_bundle "This path skips through empty directories")| [_trulens/trulens/_bundle](/truera/trulens/tree/main/_trulens/trulens/_bundle "This path skips through empty directories")| [TruLens as namespace package (](/truera/trulens/commit/a3ceeae75dc114e302583ef3ffe348b3bfefca22 "TruLens as namespace package \(#1303\)
+* decouple core trulens packages
+* add root poetry files
+* merge utils with core
+* move feedback to feedback functions
+* feedback -> feedbacks
+* include compiled react components
+* fmt
+* fmt
+* feedbacks -> external for clarity
+* fix dashboard dependencies
+* fix test imports
+* update dev installs for llamaindex, langchain
+* core cleanup
+* fix import
+* move core to trulens.core and resolve import errors
+* fix import errors from trulens.core
+* fix imports in examples
+* fix imports in markdown
+* fix docstring imports
+* add test case generation as subpackage
+* add root imports and detach TruRails
+* add root imports and langchain dep
+* add get_feedback_result and fix docstrings
+* add nemo/trurails subpackage
+* factor out get_feedback_result
+* fmt
+* update test imports
+* fmt and rebuild
+* fmt
+* rename to trulens-testing
+* add trulens-testing
+* remove trulens explain
+* move trulens_eval to root dir
+* factor out rag_triad to external
+* add testing poetry lock
+* root packaging
+* move app types to trulens.core.apps to fix circular import
+* fix import paths
+* refactor core.app.app to core.app.base
+* add __version__
+* update formatting
+* fmt w ruff
+* lint
+* simple lint fixes
+* move instrumentation framework extensions to ext.instrument
+* isort rules update matching existing config
+* split out providers and move instrument packages
+* fix imports and symlinks
+* linting and symlink fixes
+* import fixes and optional dependencies
+* readme/docs updates
+* rm old dev deps
+* update imports
+* update az pipelines
+* use system python
+* disable venv
+* move testing out of main package
+* use system python
+* fix config path
+* install testing utilities
+* fmt
+* remove old makefile
+* fix imports and pydantic serialization
+* move out component views to ext
+* slowly deprecate unused optional imports
+* add httpx
+* add httpx as optional
+* mark group as optional
+* Docs for TruLens as namespace package \(#1306\)
+* get docs to build
+* site fixes
+* drop utils
+* drop double intro
+* drop accidental copy
+* more fixes
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: corey hu <corey.hu@snowflake.com>
+* remove langchain dependency from feedback prompts
+* fix broken symlinks and types
+* factor out utils
+* restore serial
+* move testing to benchmark
+* bundle utils into core
+* mvoe trulens.testing to trulens.benchmark
+* rollout trulens.ext namespace to trulens.instrument and trulens.providers
+* fix symlinks
+* fmt
+* fix select imports
+* update makefile, testing, and mypy
+* update pipeline pytest commands
+* add lock creation
+* testing fixes
+* add __init__
+* add ipywidgets and traitlets to deps
+* dashboard fmt
+* remove pinecone from unittests
+* misc fixes
+* update pipeline and testing to use makefile
+* add coverage tools
+* add poetry install
+* only install tests group
+* set langchain version
+* update langchain dep
+* allow ipywidgets in static tests
+* disable nemoguardrails for python3.12
+* mod name as unnested
+* skip nemo on 3.12
+* skip if >
+* use makefile for release pipeline
+* linting fixes
+* enable linting hook
+* pyproject formatter
+* update lock
+* add release process makefile targets
+* misc changes to vsc environment
+* use import paths for docs
+* replace docs references to trulens_eval
+* simplify docs paths where possible
+* add py.typed to subpackages to indicate inline typing
+* restore releases
+* add examples and autogen api reference on docs
+* update notebook pip installs
+* update dashboard build and fragment decorator
+* combine huggingface with huggingfacelocal
+* add __version__ to all packages
+* providers package name should match namespace
+* fix guardrails imports
+* relax on minor version instead of patch
+* fix OMP error and add package metadata
+* bump all subpackages to 1.0.0
+* fmt
+* move optional test dependencies to new group
+* add snowflake as trulens-core extra
+* make BaseEmbedding optional
+* fix importlib failures on py3.9
+* fix importlib handling under 3.10
+* resolve langchain\(core/community/openai\) versions
+* fix docs reading notebook build and examples
+* report pip and python version in pipeline
+* fix pip version
+* add make command to publish to pypi and testpypi
+* truera -> snowflake references
+* set version 1.0.1a0 and allow prerelease deps
+* move psutils
+* update lockfiles
+* ignore build venvs and mypy
+* add migration guide
+* update dev guide and add toml extension
+* fix old code in litellm example
+* remove requirements from packaging
+* remove remaning trulens_eval references
+* dogfood dev and build fixes
+* update notebooks using optional provider
+* docs fixes
+* fix links
+* add meta.yaml
+* add page on uninstalling
+* update locks
+* remove App.select_context\(\)
+* remove select_context impl
+* typos
+* add note about python version
+* Update README.md
+* make build path relative from recipe
+* pr fixes
+* fmt
+* fix confirm
+* clarify sync flag
+* add build section
+* templatize ci pipelines
+* try camelCase
+* split off optional test template
+* remove old reference
+* run precommit check on 3.11
+* undo unnecessary quote typing
+* refresh locked versions of scipy and sklearn for benchmarking
+* pr fixes
+* spacing
+* include score range fix
+* prompt type to str change compatibility
+* move react source out of package and build components on every install
+* adapted tru benchmark experiment class to repackaging changes + updated notebook
+* fix build path
+* nodejs instructions
+* update download instructions
+* fix package data path
+---------
+Co-authored-by: Josh Reini <josh.reini@snowflake.com>
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: Daniel <daniel.huang@snowflake.com>")[#1303](https://github.com/truera/trulens/pull/1303)[)](/truera/trulens/commit/a3ceeae75dc114e302583ef3ffe348b3bfefca22 "TruLens as namespace package \(#1303\)
+* decouple core trulens packages
+* add root poetry files
+* merge utils with core
+* move feedback to feedback functions
+* feedback -> feedbacks
+* include compiled react components
+* fmt
+* fmt
+* feedbacks -> external for clarity
+* fix dashboard dependencies
+* fix test imports
+* update dev installs for llamaindex, langchain
+* core cleanup
+* fix import
+* move core to trulens.core and resolve import errors
+* fix import errors from trulens.core
+* fix imports in examples
+* fix imports in markdown
+* fix docstring imports
+* add test case generation as subpackage
+* add root imports and detach TruRails
+* add root imports and langchain dep
+* add get_feedback_result and fix docstrings
+* add nemo/trurails subpackage
+* factor out get_feedback_result
+* fmt
+* update test imports
+* fmt and rebuild
+* fmt
+* rename to trulens-testing
+* add trulens-testing
+* remove trulens explain
+* move trulens_eval to root dir
+* factor out rag_triad to external
+* add testing poetry lock
+* root packaging
+* move app types to trulens.core.apps to fix circular import
+* fix import paths
+* refactor core.app.app to core.app.base
+* add __version__
+* update formatting
+* fmt w ruff
+* lint
+* simple lint fixes
+* move instrumentation framework extensions to ext.instrument
+* isort rules update matching existing config
+* split out providers and move instrument packages
+* fix imports and symlinks
+* linting and symlink fixes
+* import fixes and optional dependencies
+* readme/docs updates
+* rm old dev deps
+* update imports
+* update az pipelines
+* use system python
+* disable venv
+* move testing out of main package
+* use system python
+* fix config path
+* install testing utilities
+* fmt
+* remove old makefile
+* fix imports and pydantic serialization
+* move out component views to ext
+* slowly deprecate unused optional imports
+* add httpx
+* add httpx as optional
+* mark group as optional
+* Docs for TruLens as namespace package \(#1306\)
+* get docs to build
+* site fixes
+* drop utils
+* drop double intro
+* drop accidental copy
+* more fixes
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: corey hu <corey.hu@snowflake.com>
+* remove langchain dependency from feedback prompts
+* fix broken symlinks and types
+* factor out utils
+* restore serial
+* move testing to benchmark
+* bundle utils into core
+* mvoe trulens.testing to trulens.benchmark
+* rollout trulens.ext namespace to trulens.instrument and trulens.providers
+* fix symlinks
+* fmt
+* fix select imports
+* update makefile, testing, and mypy
+* update pipeline pytest commands
+* add lock creation
+* testing fixes
+* add __init__
+* add ipywidgets and traitlets to deps
+* dashboard fmt
+* remove pinecone from unittests
+* misc fixes
+* update pipeline and testing to use makefile
+* add coverage tools
+* add poetry install
+* only install tests group
+* set langchain version
+* update langchain dep
+* allow ipywidgets in static tests
+* disable nemoguardrails for python3.12
+* mod name as unnested
+* skip nemo on 3.12
+* skip if >
+* use makefile for release pipeline
+* linting fixes
+* enable linting hook
+* pyproject formatter
+* update lock
+* add release process makefile targets
+* misc changes to vsc environment
+* use import paths for docs
+* replace docs references to trulens_eval
+* simplify docs paths where possible
+* add py.typed to subpackages to indicate inline typing
+* restore releases
+* add examples and autogen api reference on docs
+* update notebook pip installs
+* update dashboard build and fragment decorator
+* combine huggingface with huggingfacelocal
+* add __version__ to all packages
+* providers package name should match namespace
+* fix guardrails imports
+* relax on minor version instead of patch
+* fix OMP error and add package metadata
+* bump all subpackages to 1.0.0
+* fmt
+* move optional test dependencies to new group
+* add snowflake as trulens-core extra
+* make BaseEmbedding optional
+* fix importlib failures on py3.9
+* fix importlib handling under 3.10
+* resolve langchain\(core/community/openai\) versions
+* fix docs reading notebook build and examples
+* report pip and python version in pipeline
+* fix pip version
+* add make command to publish to pypi and testpypi
+* truera -> snowflake references
+* set version 1.0.1a0 and allow prerelease deps
+* move psutils
+* update lockfiles
+* ignore build venvs and mypy
+* add migration guide
+* update dev guide and add toml extension
+* fix old code in litellm example
+* remove requirements from packaging
+* remove remaning trulens_eval references
+* dogfood dev and build fixes
+* update notebooks using optional provider
+* docs fixes
+* fix links
+* add meta.yaml
+* add page on uninstalling
+* update locks
+* remove App.select_context\(\)
+* remove select_context impl
+* typos
+* add note about python version
+* Update README.md
+* make build path relative from recipe
+* pr fixes
+* fmt
+* fix confirm
+* clarify sync flag
+* add build section
+* templatize ci pipelines
+* try camelCase
+* split off optional test template
+* remove old reference
+* run precommit check on 3.11
+* undo unnecessary quote typing
+* refresh locked versions of scipy and sklearn for benchmarking
+* pr fixes
+* spacing
+* include score range fix
+* prompt type to str change compatibility
+* move react source out of package and build components on every install
+* adapted tru benchmark experiment class to repackaging changes + updated notebook
+* fix build path
+* nodejs instructions
+* update download instructions
+* fix package data path
+---------
+Co-authored-by: Josh Reini <josh.reini@snowflake.com>
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: Daniel <daniel.huang@snowflake.com>")| Aug 9, 2024  
+[docker](/truera/trulens/tree/main/docker "docker")| [docker](/truera/trulens/tree/main/docker "docker")| [TruLens as namespace package (](/truera/trulens/commit/a3ceeae75dc114e302583ef3ffe348b3bfefca22 "TruLens as namespace package \(#1303\)
+* decouple core trulens packages
+* add root poetry files
+* merge utils with core
+* move feedback to feedback functions
+* feedback -> feedbacks
+* include compiled react components
+* fmt
+* fmt
+* feedbacks -> external for clarity
+* fix dashboard dependencies
+* fix test imports
+* update dev installs for llamaindex, langchain
+* core cleanup
+* fix import
+* move core to trulens.core and resolve import errors
+* fix import errors from trulens.core
+* fix imports in examples
+* fix imports in markdown
+* fix docstring imports
+* add test case generation as subpackage
+* add root imports and detach TruRails
+* add root imports and langchain dep
+* add get_feedback_result and fix docstrings
+* add nemo/trurails subpackage
+* factor out get_feedback_result
+* fmt
+* update test imports
+* fmt and rebuild
+* fmt
+* rename to trulens-testing
+* add trulens-testing
+* remove trulens explain
+* move trulens_eval to root dir
+* factor out rag_triad to external
+* add testing poetry lock
+* root packaging
+* move app types to trulens.core.apps to fix circular import
+* fix import paths
+* refactor core.app.app to core.app.base
+* add __version__
+* update formatting
+* fmt w ruff
+* lint
+* simple lint fixes
+* move instrumentation framework extensions to ext.instrument
+* isort rules update matching existing config
+* split out providers and move instrument packages
+* fix imports and symlinks
+* linting and symlink fixes
+* import fixes and optional dependencies
+* readme/docs updates
+* rm old dev deps
+* update imports
+* update az pipelines
+* use system python
+* disable venv
+* move testing out of main package
+* use system python
+* fix config path
+* install testing utilities
+* fmt
+* remove old makefile
+* fix imports and pydantic serialization
+* move out component views to ext
+* slowly deprecate unused optional imports
+* add httpx
+* add httpx as optional
+* mark group as optional
+* Docs for TruLens as namespace package \(#1306\)
+* get docs to build
+* site fixes
+* drop utils
+* drop double intro
+* drop accidental copy
+* more fixes
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: corey hu <corey.hu@snowflake.com>
+* remove langchain dependency from feedback prompts
+* fix broken symlinks and types
+* factor out utils
+* restore serial
+* move testing to benchmark
+* bundle utils into core
+* mvoe trulens.testing to trulens.benchmark
+* rollout trulens.ext namespace to trulens.instrument and trulens.providers
+* fix symlinks
+* fmt
+* fix select imports
+* update makefile, testing, and mypy
+* update pipeline pytest commands
+* add lock creation
+* testing fixes
+* add __init__
+* add ipywidgets and traitlets to deps
+* dashboard fmt
+* remove pinecone from unittests
+* misc fixes
+* update pipeline and testing to use makefile
+* add coverage tools
+* add poetry install
+* only install tests group
+* set langchain version
+* update langchain dep
+* allow ipywidgets in static tests
+* disable nemoguardrails for python3.12
+* mod name as unnested
+* skip nemo on 3.12
+* skip if >
+* use makefile for release pipeline
+* linting fixes
+* enable linting hook
+* pyproject formatter
+* update lock
+* add release process makefile targets
+* misc changes to vsc environment
+* use import paths for docs
+* replace docs references to trulens_eval
+* simplify docs paths where possible
+* add py.typed to subpackages to indicate inline typing
+* restore releases
+* add examples and autogen api reference on docs
+* update notebook pip installs
+* update dashboard build and fragment decorator
+* combine huggingface with huggingfacelocal
+* add __version__ to all packages
+* providers package name should match namespace
+* fix guardrails imports
+* relax on minor version instead of patch
+* fix OMP error and add package metadata
+* bump all subpackages to 1.0.0
+* fmt
+* move optional test dependencies to new group
+* add snowflake as trulens-core extra
+* make BaseEmbedding optional
+* fix importlib failures on py3.9
+* fix importlib handling under 3.10
+* resolve langchain\(core/community/openai\) versions
+* fix docs reading notebook build and examples
+* report pip and python version in pipeline
+* fix pip version
+* add make command to publish to pypi and testpypi
+* truera -> snowflake references
+* set version 1.0.1a0 and allow prerelease deps
+* move psutils
+* update lockfiles
+* ignore build venvs and mypy
+* add migration guide
+* update dev guide and add toml extension
+* fix old code in litellm example
+* remove requirements from packaging
+* remove remaning trulens_eval references
+* dogfood dev and build fixes
+* update notebooks using optional provider
+* docs fixes
+* fix links
+* add meta.yaml
+* add page on uninstalling
+* update locks
+* remove App.select_context\(\)
+* remove select_context impl
+* typos
+* add note about python version
+* Update README.md
+* make build path relative from recipe
+* pr fixes
+* fmt
+* fix confirm
+* clarify sync flag
+* add build section
+* templatize ci pipelines
+* try camelCase
+* split off optional test template
+* remove old reference
+* run precommit check on 3.11
+* undo unnecessary quote typing
+* refresh locked versions of scipy and sklearn for benchmarking
+* pr fixes
+* spacing
+* include score range fix
+* prompt type to str change compatibility
+* move react source out of package and build components on every install
+* adapted tru benchmark experiment class to repackaging changes + updated notebook
+* fix build path
+* nodejs instructions
+* update download instructions
+* fix package data path
+---------
+Co-authored-by: Josh Reini <josh.reini@snowflake.com>
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: Daniel <daniel.huang@snowflake.com>")[#1303](https://github.com/truera/trulens/pull/1303)[)](/truera/trulens/commit/a3ceeae75dc114e302583ef3ffe348b3bfefca22 "TruLens as namespace package \(#1303\)
+* decouple core trulens packages
+* add root poetry files
+* merge utils with core
+* move feedback to feedback functions
+* feedback -> feedbacks
+* include compiled react components
+* fmt
+* fmt
+* feedbacks -> external for clarity
+* fix dashboard dependencies
+* fix test imports
+* update dev installs for llamaindex, langchain
+* core cleanup
+* fix import
+* move core to trulens.core and resolve import errors
+* fix import errors from trulens.core
+* fix imports in examples
+* fix imports in markdown
+* fix docstring imports
+* add test case generation as subpackage
+* add root imports and detach TruRails
+* add root imports and langchain dep
+* add get_feedback_result and fix docstrings
+* add nemo/trurails subpackage
+* factor out get_feedback_result
+* fmt
+* update test imports
+* fmt and rebuild
+* fmt
+* rename to trulens-testing
+* add trulens-testing
+* remove trulens explain
+* move trulens_eval to root dir
+* factor out rag_triad to external
+* add testing poetry lock
+* root packaging
+* move app types to trulens.core.apps to fix circular import
+* fix import paths
+* refactor core.app.app to core.app.base
+* add __version__
+* update formatting
+* fmt w ruff
+* lint
+* simple lint fixes
+* move instrumentation framework extensions to ext.instrument
+* isort rules update matching existing config
+* split out providers and move instrument packages
+* fix imports and symlinks
+* linting and symlink fixes
+* import fixes and optional dependencies
+* readme/docs updates
+* rm old dev deps
+* update imports
+* update az pipelines
+* use system python
+* disable venv
+* move testing out of main package
+* use system python
+* fix config path
+* install testing utilities
+* fmt
+* remove old makefile
+* fix imports and pydantic serialization
+* move out component views to ext
+* slowly deprecate unused optional imports
+* add httpx
+* add httpx as optional
+* mark group as optional
+* Docs for TruLens as namespace package \(#1306\)
+* get docs to build
+* site fixes
+* drop utils
+* drop double intro
+* drop accidental copy
+* more fixes
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: corey hu <corey.hu@snowflake.com>
+* remove langchain dependency from feedback prompts
+* fix broken symlinks and types
+* factor out utils
+* restore serial
+* move testing to benchmark
+* bundle utils into core
+* mvoe trulens.testing to trulens.benchmark
+* rollout trulens.ext namespace to trulens.instrument and trulens.providers
+* fix symlinks
+* fmt
+* fix select imports
+* update makefile, testing, and mypy
+* update pipeline pytest commands
+* add lock creation
+* testing fixes
+* add __init__
+* add ipywidgets and traitlets to deps
+* dashboard fmt
+* remove pinecone from unittests
+* misc fixes
+* update pipeline and testing to use makefile
+* add coverage tools
+* add poetry install
+* only install tests group
+* set langchain version
+* update langchain dep
+* allow ipywidgets in static tests
+* disable nemoguardrails for python3.12
+* mod name as unnested
+* skip nemo on 3.12
+* skip if >
+* use makefile for release pipeline
+* linting fixes
+* enable linting hook
+* pyproject formatter
+* update lock
+* add release process makefile targets
+* misc changes to vsc environment
+* use import paths for docs
+* replace docs references to trulens_eval
+* simplify docs paths where possible
+* add py.typed to subpackages to indicate inline typing
+* restore releases
+* add examples and autogen api reference on docs
+* update notebook pip installs
+* update dashboard build and fragment decorator
+* combine huggingface with huggingfacelocal
+* add __version__ to all packages
+* providers package name should match namespace
+* fix guardrails imports
+* relax on minor version instead of patch
+* fix OMP error and add package metadata
+* bump all subpackages to 1.0.0
+* fmt
+* move optional test dependencies to new group
+* add snowflake as trulens-core extra
+* make BaseEmbedding optional
+* fix importlib failures on py3.9
+* fix importlib handling under 3.10
+* resolve langchain\(core/community/openai\) versions
+* fix docs reading notebook build and examples
+* report pip and python version in pipeline
+* fix pip version
+* add make command to publish to pypi and testpypi
+* truera -> snowflake references
+* set version 1.0.1a0 and allow prerelease deps
+* move psutils
+* update lockfiles
+* ignore build venvs and mypy
+* add migration guide
+* update dev guide and add toml extension
+* fix old code in litellm example
+* remove requirements from packaging
+* remove remaning trulens_eval references
+* dogfood dev and build fixes
+* update notebooks using optional provider
+* docs fixes
+* fix links
+* add meta.yaml
+* add page on uninstalling
+* update locks
+* remove App.select_context\(\)
+* remove select_context impl
+* typos
+* add note about python version
+* Update README.md
+* make build path relative from recipe
+* pr fixes
+* fmt
+* fix confirm
+* clarify sync flag
+* add build section
+* templatize ci pipelines
+* try camelCase
+* split off optional test template
+* remove old reference
+* run precommit check on 3.11
+* undo unnecessary quote typing
+* refresh locked versions of scipy and sklearn for benchmarking
+* pr fixes
+* spacing
+* include score range fix
+* prompt type to str change compatibility
+* move react source out of package and build components on every install
+* adapted tru benchmark experiment class to repackaging changes + updated notebook
+* fix build path
+* nodejs instructions
+* update download instructions
+* fix package data path
+---------
+Co-authored-by: Josh Reini <josh.reini@snowflake.com>
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: Daniel <daniel.huang@snowflake.com>")| Aug 9, 2024  
+[docs](/truera/trulens/tree/main/docs "docs")| [docs](/truera/trulens/tree/main/docs "docs")| [Update docs to use postgres + psycopg in order to avoid known issues …](/truera/trulens/commit/444f4d33be295c573c8b0484ba583b5216ad1579 "Update docs to use postgres + psycopg in order to avoid known issues with psycopg2 \(#1701\)")| Jan 7, 2025  
+[examples](/truera/trulens/tree/main/examples "examples")| [examples](/truera/trulens/tree/main/examples "examples")| [Enable exporting spans to snowflake stage if a `TruLensSnowflakeSpanE…](/truera/trulens/commit/4dc14a6b8a5bb0e9e05da38e3b323dea654ebc93 "Enable exporting spans to snowflake stage if a `TruLensSnowflakeSpanExporter` is provided \(#1708\)")| Jan 17, 2025  
+[release_dbs/infty.infty.infty](/truera/trulens/tree/main/release_dbs/infty.infty.infty "This path skips through empty directories")| [release_dbs/infty.infty.infty](/truera/trulens/tree/main/release_dbs/infty.infty.infty "This path skips through empty directories")| [DBConnector, TruSession, and App versioning changes (](/truera/trulens/commit/73f5b56bcb24779b67750debc0df3070c4e138f6 "DBConnector, TruSession, and App versioning changes \(#1349\)
+* add base workspace code
+* add trulens-workspaces-snowflake
+* small docs changes
+* rename to DefaultWorkspace
+* add alembic revisions
+* rename app_id to app_name and app_version
+* Tru -> TruSession
+* workspace -> connector
+* app_id = hash of version and name
+* update session.db reference
+* alias for Tru
+* throw deprecation warning and pass to DefaultDBConnector
+* app_name / id deprecation
+* remove workspace mentions
+* update migration revision ids
+* pr fixes
+* validate schema name
+* add migrations
+* cleanup
+* update imports
+* populate with hash app_id
+* more references
+* docs fixes
+* revert instance attr
+* update session names in docs/variable naming")[#1349](https://github.com/truera/trulens/pull/1349)[)](/truera/trulens/commit/73f5b56bcb24779b67750debc0df3070c4e138f6 "DBConnector, TruSession, and App versioning changes \(#1349\)
+* add base workspace code
+* add trulens-workspaces-snowflake
+* small docs changes
+* rename to DefaultWorkspace
+* add alembic revisions
+* rename app_id to app_name and app_version
+* Tru -> TruSession
+* workspace -> connector
+* app_id = hash of version and name
+* update session.db reference
+* alias for Tru
+* throw deprecation warning and pass to DefaultDBConnector
+* app_name / id deprecation
+* remove workspace mentions
+* update migration revision ids
+* pr fixes
+* validate schema name
+* add migrations
+* cleanup
+* update imports
+* populate with hash app_id
+* more references
+* docs fixes
+* revert instance attr
+* update session names in docs/variable naming")| Aug 23, 2024  
+[src](/truera/trulens/tree/main/src "src")| [src](/truera/trulens/tree/main/src "src")| [move](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26 "move `poetry-core` restrictions to az pipeline \(#1732\)
+* update meta.yaml
+* set poetry lock version in env test instead
+* update conda recipe for core
+* Update env-setup.yaml") `[poetry-core](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26 "move `poetry-core` restrictions to az pipeline \(#1732\)
+* update meta.yaml
+* set poetry lock version in env test instead
+* update conda recipe for core
+* Update env-setup.yaml")` [restrictions to az pipeline (](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26 "move `poetry-core` restrictions to az pipeline \(#1732\)
+* update meta.yaml
+* set poetry lock version in env test instead
+* update conda recipe for core
+* Update env-setup.yaml")[#1732](https://github.com/truera/trulens/pull/1732)[)](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26 "move `poetry-core` restrictions to az pipeline \(#1732\)
+* update meta.yaml
+* set poetry lock version in env test instead
+* update conda recipe for core
+* Update env-setup.yaml")| Jan 21, 2025  
+[tests](/truera/trulens/tree/main/tests "tests")| [tests](/truera/trulens/tree/main/tests "tests")| [Allow](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)") `[TruChain](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")`[/](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")`[TruLlama](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")`[/](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")`[TruRails](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")` [to use OTEL spans. (](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")[#1727](https://github.com/truera/trulens/pull/1727)[)](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")| Jan 17, 2025  
+[tools/systemd](/truera/trulens/tree/main/tools/systemd "This path skips through empty directories")| [tools/systemd](/truera/trulens/tree/main/tools/systemd "This path skips through empty directories")| [TruLens as namespace package (](/truera/trulens/commit/a3ceeae75dc114e302583ef3ffe348b3bfefca22 "TruLens as namespace package \(#1303\)
+* decouple core trulens packages
+* add root poetry files
+* merge utils with core
+* move feedback to feedback functions
+* feedback -> feedbacks
+* include compiled react components
+* fmt
+* fmt
+* feedbacks -> external for clarity
+* fix dashboard dependencies
+* fix test imports
+* update dev installs for llamaindex, langchain
+* core cleanup
+* fix import
+* move core to trulens.core and resolve import errors
+* fix import errors from trulens.core
+* fix imports in examples
+* fix imports in markdown
+* fix docstring imports
+* add test case generation as subpackage
+* add root imports and detach TruRails
+* add root imports and langchain dep
+* add get_feedback_result and fix docstrings
+* add nemo/trurails subpackage
+* factor out get_feedback_result
+* fmt
+* update test imports
+* fmt and rebuild
+* fmt
+* rename to trulens-testing
+* add trulens-testing
+* remove trulens explain
+* move trulens_eval to root dir
+* factor out rag_triad to external
+* add testing poetry lock
+* root packaging
+* move app types to trulens.core.apps to fix circular import
+* fix import paths
+* refactor core.app.app to core.app.base
+* add __version__
+* update formatting
+* fmt w ruff
+* lint
+* simple lint fixes
+* move instrumentation framework extensions to ext.instrument
+* isort rules update matching existing config
+* split out providers and move instrument packages
+* fix imports and symlinks
+* linting and symlink fixes
+* import fixes and optional dependencies
+* readme/docs updates
+* rm old dev deps
+* update imports
+* update az pipelines
+* use system python
+* disable venv
+* move testing out of main package
+* use system python
+* fix config path
+* install testing utilities
+* fmt
+* remove old makefile
+* fix imports and pydantic serialization
+* move out component views to ext
+* slowly deprecate unused optional imports
+* add httpx
+* add httpx as optional
+* mark group as optional
+* Docs for TruLens as namespace package \(#1306\)
+* get docs to build
+* site fixes
+* drop utils
+* drop double intro
+* drop accidental copy
+* more fixes
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: corey hu <corey.hu@snowflake.com>
+* remove langchain dependency from feedback prompts
+* fix broken symlinks and types
+* factor out utils
+* restore serial
+* move testing to benchmark
+* bundle utils into core
+* mvoe trulens.testing to trulens.benchmark
+* rollout trulens.ext namespace to trulens.instrument and trulens.providers
+* fix symlinks
+* fmt
+* fix select imports
+* update makefile, testing, and mypy
+* update pipeline pytest commands
+* add lock creation
+* testing fixes
+* add __init__
+* add ipywidgets and traitlets to deps
+* dashboard fmt
+* remove pinecone from unittests
+* misc fixes
+* update pipeline and testing to use makefile
+* add coverage tools
+* add poetry install
+* only install tests group
+* set langchain version
+* update langchain dep
+* allow ipywidgets in static tests
+* disable nemoguardrails for python3.12
+* mod name as unnested
+* skip nemo on 3.12
+* skip if >
+* use makefile for release pipeline
+* linting fixes
+* enable linting hook
+* pyproject formatter
+* update lock
+* add release process makefile targets
+* misc changes to vsc environment
+* use import paths for docs
+* replace docs references to trulens_eval
+* simplify docs paths where possible
+* add py.typed to subpackages to indicate inline typing
+* restore releases
+* add examples and autogen api reference on docs
+* update notebook pip installs
+* update dashboard build and fragment decorator
+* combine huggingface with huggingfacelocal
+* add __version__ to all packages
+* providers package name should match namespace
+* fix guardrails imports
+* relax on minor version instead of patch
+* fix OMP error and add package metadata
+* bump all subpackages to 1.0.0
+* fmt
+* move optional test dependencies to new group
+* add snowflake as trulens-core extra
+* make BaseEmbedding optional
+* fix importlib failures on py3.9
+* fix importlib handling under 3.10
+* resolve langchain\(core/community/openai\) versions
+* fix docs reading notebook build and examples
+* report pip and python version in pipeline
+* fix pip version
+* add make command to publish to pypi and testpypi
+* truera -> snowflake references
+* set version 1.0.1a0 and allow prerelease deps
+* move psutils
+* update lockfiles
+* ignore build venvs and mypy
+* add migration guide
+* update dev guide and add toml extension
+* fix old code in litellm example
+* remove requirements from packaging
+* remove remaning trulens_eval references
+* dogfood dev and build fixes
+* update notebooks using optional provider
+* docs fixes
+* fix links
+* add meta.yaml
+* add page on uninstalling
+* update locks
+* remove App.select_context\(\)
+* remove select_context impl
+* typos
+* add note about python version
+* Update README.md
+* make build path relative from recipe
+* pr fixes
+* fmt
+* fix confirm
+* clarify sync flag
+* add build section
+* templatize ci pipelines
+* try camelCase
+* split off optional test template
+* remove old reference
+* run precommit check on 3.11
+* undo unnecessary quote typing
+* refresh locked versions of scipy and sklearn for benchmarking
+* pr fixes
+* spacing
+* include score range fix
+* prompt type to str change compatibility
+* move react source out of package and build components on every install
+* adapted tru benchmark experiment class to repackaging changes + updated notebook
+* fix build path
+* nodejs instructions
+* update download instructions
+* fix package data path
+---------
+Co-authored-by: Josh Reini <josh.reini@snowflake.com>
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: Daniel <daniel.huang@snowflake.com>")[#1303](https://github.com/truera/trulens/pull/1303)[)](/truera/trulens/commit/a3ceeae75dc114e302583ef3ffe348b3bfefca22 "TruLens as namespace package \(#1303\)
+* decouple core trulens packages
+* add root poetry files
+* merge utils with core
+* move feedback to feedback functions
+* feedback -> feedbacks
+* include compiled react components
+* fmt
+* fmt
+* feedbacks -> external for clarity
+* fix dashboard dependencies
+* fix test imports
+* update dev installs for llamaindex, langchain
+* core cleanup
+* fix import
+* move core to trulens.core and resolve import errors
+* fix import errors from trulens.core
+* fix imports in examples
+* fix imports in markdown
+* fix docstring imports
+* add test case generation as subpackage
+* add root imports and detach TruRails
+* add root imports and langchain dep
+* add get_feedback_result and fix docstrings
+* add nemo/trurails subpackage
+* factor out get_feedback_result
+* fmt
+* update test imports
+* fmt and rebuild
+* fmt
+* rename to trulens-testing
+* add trulens-testing
+* remove trulens explain
+* move trulens_eval to root dir
+* factor out rag_triad to external
+* add testing poetry lock
+* root packaging
+* move app types to trulens.core.apps to fix circular import
+* fix import paths
+* refactor core.app.app to core.app.base
+* add __version__
+* update formatting
+* fmt w ruff
+* lint
+* simple lint fixes
+* move instrumentation framework extensions to ext.instrument
+* isort rules update matching existing config
+* split out providers and move instrument packages
+* fix imports and symlinks
+* linting and symlink fixes
+* import fixes and optional dependencies
+* readme/docs updates
+* rm old dev deps
+* update imports
+* update az pipelines
+* use system python
+* disable venv
+* move testing out of main package
+* use system python
+* fix config path
+* install testing utilities
+* fmt
+* remove old makefile
+* fix imports and pydantic serialization
+* move out component views to ext
+* slowly deprecate unused optional imports
+* add httpx
+* add httpx as optional
+* mark group as optional
+* Docs for TruLens as namespace package \(#1306\)
+* get docs to build
+* site fixes
+* drop utils
+* drop double intro
+* drop accidental copy
+* more fixes
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: corey hu <corey.hu@snowflake.com>
+* remove langchain dependency from feedback prompts
+* fix broken symlinks and types
+* factor out utils
+* restore serial
+* move testing to benchmark
+* bundle utils into core
+* mvoe trulens.testing to trulens.benchmark
+* rollout trulens.ext namespace to trulens.instrument and trulens.providers
+* fix symlinks
+* fmt
+* fix select imports
+* update makefile, testing, and mypy
+* update pipeline pytest commands
+* add lock creation
+* testing fixes
+* add __init__
+* add ipywidgets and traitlets to deps
+* dashboard fmt
+* remove pinecone from unittests
+* misc fixes
+* update pipeline and testing to use makefile
+* add coverage tools
+* add poetry install
+* only install tests group
+* set langchain version
+* update langchain dep
+* allow ipywidgets in static tests
+* disable nemoguardrails for python3.12
+* mod name as unnested
+* skip nemo on 3.12
+* skip if >
+* use makefile for release pipeline
+* linting fixes
+* enable linting hook
+* pyproject formatter
+* update lock
+* add release process makefile targets
+* misc changes to vsc environment
+* use import paths for docs
+* replace docs references to trulens_eval
+* simplify docs paths where possible
+* add py.typed to subpackages to indicate inline typing
+* restore releases
+* add examples and autogen api reference on docs
+* update notebook pip installs
+* update dashboard build and fragment decorator
+* combine huggingface with huggingfacelocal
+* add __version__ to all packages
+* providers package name should match namespace
+* fix guardrails imports
+* relax on minor version instead of patch
+* fix OMP error and add package metadata
+* bump all subpackages to 1.0.0
+* fmt
+* move optional test dependencies to new group
+* add snowflake as trulens-core extra
+* make BaseEmbedding optional
+* fix importlib failures on py3.9
+* fix importlib handling under 3.10
+* resolve langchain\(core/community/openai\) versions
+* fix docs reading notebook build and examples
+* report pip and python version in pipeline
+* fix pip version
+* add make command to publish to pypi and testpypi
+* truera -> snowflake references
+* set version 1.0.1a0 and allow prerelease deps
+* move psutils
+* update lockfiles
+* ignore build venvs and mypy
+* add migration guide
+* update dev guide and add toml extension
+* fix old code in litellm example
+* remove requirements from packaging
+* remove remaning trulens_eval references
+* dogfood dev and build fixes
+* update notebooks using optional provider
+* docs fixes
+* fix links
+* add meta.yaml
+* add page on uninstalling
+* update locks
+* remove App.select_context\(\)
+* remove select_context impl
+* typos
+* add note about python version
+* Update README.md
+* make build path relative from recipe
+* pr fixes
+* fmt
+* fix confirm
+* clarify sync flag
+* add build section
+* templatize ci pipelines
+* try camelCase
+* split off optional test template
+* remove old reference
+* run precommit check on 3.11
+* undo unnecessary quote typing
+* refresh locked versions of scipy and sklearn for benchmarking
+* pr fixes
+* spacing
+* include score range fix
+* prompt type to str change compatibility
+* move react source out of package and build components on every install
+* adapted tru benchmark experiment class to repackaging changes + updated notebook
+* fix build path
+* nodejs instructions
+* update download instructions
+* fix package data path
+---------
+Co-authored-by: Josh Reini <josh.reini@snowflake.com>
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: Daniel <daniel.huang@snowflake.com>")| Aug 9, 2024  
+[.gitattributes](/truera/trulens/blob/main/.gitattributes ".gitattributes")| [.gitattributes](/truera/trulens/blob/main/.gitattributes ".gitattributes")| [Add blog site and docs grouping (](/truera/trulens/commit/df64fecd17161ca9f4e962de48f4061e71825175 "Add blog site and docs grouping \(#1499\)
+* move gtag to head
+* fix src docstrings and links
+* restructure docs and add blog
+* hide watermark for demo
+* format blog posts and redirect
+* rm links
+* add assets to lfs
+* update paths")[#1499](https://github.com/truera/trulens/pull/1499)[)](/truera/trulens/commit/df64fecd17161ca9f4e962de48f4061e71825175 "Add blog site and docs grouping \(#1499\)
+* move gtag to head
+* fix src docstrings and links
+* restructure docs and add blog
+* hide watermark for demo
+* format blog posts and redirect
+* rm links
+* add assets to lfs
+* update paths")| Sep 26, 2024  
+[.gitignore](/truera/trulens/blob/main/.gitignore ".gitignore")| [.gitignore](/truera/trulens/blob/main/.gitignore ".gitignore")| [TREC DL and LLM AggreFact experiments for relevance benchmark + promp…](/truera/trulens/commit/f549d91e6e53ab6e8a5620898950f730fccca389 "TREC DL and LLM AggreFact experiments for relevance benchmark + prompts comparisons and groundedness vs Bespoke Minicheck 7B \(#1660\)
+* save
+* improve trubasicapp setup for competitive experiments, add mlflow instrumentation
+* save
+* save progress
+* save
+* save
+* add agreement analysis with scoreddocs
+* notebook updates
+* cleanup
+* dataset preprocessing script update
+* cleanup competitive analysis
+* add llm aggrefact nb
+* add llm-aggrefact experiment notebook
+* move notebooks
+* edits
+* pr comments
+* add back e2e/data nb")| Dec 10, 2024  
+[.pre-commit-config.yaml](/truera/trulens/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/truera/trulens/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Remove all but root](/truera/trulens/commit/aa6d23b00876a0a9cf293144bb9715127bfadb2a "Remove all but root `poetry.lock` file. \(#1653\)") `[poetry.lock](/truera/trulens/commit/aa6d23b00876a0a9cf293144bb9715127bfadb2a "Remove all but root `poetry.lock` file. \(#1653\)")` [file. (](/truera/trulens/commit/aa6d23b00876a0a9cf293144bb9715127bfadb2a "Remove all but root `poetry.lock` file. \(#1653\)")[#1653](https://github.com/truera/trulens/pull/1653)[)](/truera/trulens/commit/aa6d23b00876a0a9cf293144bb9715127bfadb2a "Remove all but root `poetry.lock` file. \(#1653\)")| Nov 15, 2024  
+[CONTRIBUTORS.md](/truera/trulens/blob/main/CONTRIBUTORS.md "CONTRIBUTORS.md")| [CONTRIBUTORS.md](/truera/trulens/blob/main/CONTRIBUTORS.md "CONTRIBUTORS.md")| [TruLens as namespace package (](/truera/trulens/commit/a3ceeae75dc114e302583ef3ffe348b3bfefca22 "TruLens as namespace package \(#1303\)
+* decouple core trulens packages
+* add root poetry files
+* merge utils with core
+* move feedback to feedback functions
+* feedback -> feedbacks
+* include compiled react components
+* fmt
+* fmt
+* feedbacks -> external for clarity
+* fix dashboard dependencies
+* fix test imports
+* update dev installs for llamaindex, langchain
+* core cleanup
+* fix import
+* move core to trulens.core and resolve import errors
+* fix import errors from trulens.core
+* fix imports in examples
+* fix imports in markdown
+* fix docstring imports
+* add test case generation as subpackage
+* add root imports and detach TruRails
+* add root imports and langchain dep
+* add get_feedback_result and fix docstrings
+* add nemo/trurails subpackage
+* factor out get_feedback_result
+* fmt
+* update test imports
+* fmt and rebuild
+* fmt
+* rename to trulens-testing
+* add trulens-testing
+* remove trulens explain
+* move trulens_eval to root dir
+* factor out rag_triad to external
+* add testing poetry lock
+* root packaging
+* move app types to trulens.core.apps to fix circular import
+* fix import paths
+* refactor core.app.app to core.app.base
+* add __version__
+* update formatting
+* fmt w ruff
+* lint
+* simple lint fixes
+* move instrumentation framework extensions to ext.instrument
+* isort rules update matching existing config
+* split out providers and move instrument packages
+* fix imports and symlinks
+* linting and symlink fixes
+* import fixes and optional dependencies
+* readme/docs updates
+* rm old dev deps
+* update imports
+* update az pipelines
+* use system python
+* disable venv
+* move testing out of main package
+* use system python
+* fix config path
+* install testing utilities
+* fmt
+* remove old makefile
+* fix imports and pydantic serialization
+* move out component views to ext
+* slowly deprecate unused optional imports
+* add httpx
+* add httpx as optional
+* mark group as optional
+* Docs for TruLens as namespace package \(#1306\)
+* get docs to build
+* site fixes
+* drop utils
+* drop double intro
+* drop accidental copy
+* more fixes
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: corey hu <corey.hu@snowflake.com>
+* remove langchain dependency from feedback prompts
+* fix broken symlinks and types
+* factor out utils
+* restore serial
+* move testing to benchmark
+* bundle utils into core
+* mvoe trulens.testing to trulens.benchmark
+* rollout trulens.ext namespace to trulens.instrument and trulens.providers
+* fix symlinks
+* fmt
+* fix select imports
+* update makefile, testing, and mypy
+* update pipeline pytest commands
+* add lock creation
+* testing fixes
+* add __init__
+* add ipywidgets and traitlets to deps
+* dashboard fmt
+* remove pinecone from unittests
+* misc fixes
+* update pipeline and testing to use makefile
+* add coverage tools
+* add poetry install
+* only install tests group
+* set langchain version
+* update langchain dep
+* allow ipywidgets in static tests
+* disable nemoguardrails for python3.12
+* mod name as unnested
+* skip nemo on 3.12
+* skip if >
+* use makefile for release pipeline
+* linting fixes
+* enable linting hook
+* pyproject formatter
+* update lock
+* add release process makefile targets
+* misc changes to vsc environment
+* use import paths for docs
+* replace docs references to trulens_eval
+* simplify docs paths where possible
+* add py.typed to subpackages to indicate inline typing
+* restore releases
+* add examples and autogen api reference on docs
+* update notebook pip installs
+* update dashboard build and fragment decorator
+* combine huggingface with huggingfacelocal
+* add __version__ to all packages
+* providers package name should match namespace
+* fix guardrails imports
+* relax on minor version instead of patch
+* fix OMP error and add package metadata
+* bump all subpackages to 1.0.0
+* fmt
+* move optional test dependencies to new group
+* add snowflake as trulens-core extra
+* make BaseEmbedding optional
+* fix importlib failures on py3.9
+* fix importlib handling under 3.10
+* resolve langchain\(core/community/openai\) versions
+* fix docs reading notebook build and examples
+* report pip and python version in pipeline
+* fix pip version
+* add make command to publish to pypi and testpypi
+* truera -> snowflake references
+* set version 1.0.1a0 and allow prerelease deps
+* move psutils
+* update lockfiles
+* ignore build venvs and mypy
+* add migration guide
+* update dev guide and add toml extension
+* fix old code in litellm example
+* remove requirements from packaging
+* remove remaning trulens_eval references
+* dogfood dev and build fixes
+* update notebooks using optional provider
+* docs fixes
+* fix links
+* add meta.yaml
+* add page on uninstalling
+* update locks
+* remove App.select_context\(\)
+* remove select_context impl
+* typos
+* add note about python version
+* Update README.md
+* make build path relative from recipe
+* pr fixes
+* fmt
+* fix confirm
+* clarify sync flag
+* add build section
+* templatize ci pipelines
+* try camelCase
+* split off optional test template
+* remove old reference
+* run precommit check on 3.11
+* undo unnecessary quote typing
+* refresh locked versions of scipy and sklearn for benchmarking
+* pr fixes
+* spacing
+* include score range fix
+* prompt type to str change compatibility
+* move react source out of package and build components on every install
+* adapted tru benchmark experiment class to repackaging changes + updated notebook
+* fix build path
+* nodejs instructions
+* update download instructions
+* fix package data path
+---------
+Co-authored-by: Josh Reini <josh.reini@snowflake.com>
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: Daniel <daniel.huang@snowflake.com>")[#1303](https://github.com/truera/trulens/pull/1303)[)](/truera/trulens/commit/a3ceeae75dc114e302583ef3ffe348b3bfefca22 "TruLens as namespace package \(#1303\)
+* decouple core trulens packages
+* add root poetry files
+* merge utils with core
+* move feedback to feedback functions
+* feedback -> feedbacks
+* include compiled react components
+* fmt
+* fmt
+* feedbacks -> external for clarity
+* fix dashboard dependencies
+* fix test imports
+* update dev installs for llamaindex, langchain
+* core cleanup
+* fix import
+* move core to trulens.core and resolve import errors
+* fix import errors from trulens.core
+* fix imports in examples
+* fix imports in markdown
+* fix docstring imports
+* add test case generation as subpackage
+* add root imports and detach TruRails
+* add root imports and langchain dep
+* add get_feedback_result and fix docstrings
+* add nemo/trurails subpackage
+* factor out get_feedback_result
+* fmt
+* update test imports
+* fmt and rebuild
+* fmt
+* rename to trulens-testing
+* add trulens-testing
+* remove trulens explain
+* move trulens_eval to root dir
+* factor out rag_triad to external
+* add testing poetry lock
+* root packaging
+* move app types to trulens.core.apps to fix circular import
+* fix import paths
+* refactor core.app.app to core.app.base
+* add __version__
+* update formatting
+* fmt w ruff
+* lint
+* simple lint fixes
+* move instrumentation framework extensions to ext.instrument
+* isort rules update matching existing config
+* split out providers and move instrument packages
+* fix imports and symlinks
+* linting and symlink fixes
+* import fixes and optional dependencies
+* readme/docs updates
+* rm old dev deps
+* update imports
+* update az pipelines
+* use system python
+* disable venv
+* move testing out of main package
+* use system python
+* fix config path
+* install testing utilities
+* fmt
+* remove old makefile
+* fix imports and pydantic serialization
+* move out component views to ext
+* slowly deprecate unused optional imports
+* add httpx
+* add httpx as optional
+* mark group as optional
+* Docs for TruLens as namespace package \(#1306\)
+* get docs to build
+* site fixes
+* drop utils
+* drop double intro
+* drop accidental copy
+* more fixes
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: corey hu <corey.hu@snowflake.com>
+* remove langchain dependency from feedback prompts
+* fix broken symlinks and types
+* factor out utils
+* restore serial
+* move testing to benchmark
+* bundle utils into core
+* mvoe trulens.testing to trulens.benchmark
+* rollout trulens.ext namespace to trulens.instrument and trulens.providers
+* fix symlinks
+* fmt
+* fix select imports
+* update makefile, testing, and mypy
+* update pipeline pytest commands
+* add lock creation
+* testing fixes
+* add __init__
+* add ipywidgets and traitlets to deps
+* dashboard fmt
+* remove pinecone from unittests
+* misc fixes
+* update pipeline and testing to use makefile
+* add coverage tools
+* add poetry install
+* only install tests group
+* set langchain version
+* update langchain dep
+* allow ipywidgets in static tests
+* disable nemoguardrails for python3.12
+* mod name as unnested
+* skip nemo on 3.12
+* skip if >
+* use makefile for release pipeline
+* linting fixes
+* enable linting hook
+* pyproject formatter
+* update lock
+* add release process makefile targets
+* misc changes to vsc environment
+* use import paths for docs
+* replace docs references to trulens_eval
+* simplify docs paths where possible
+* add py.typed to subpackages to indicate inline typing
+* restore releases
+* add examples and autogen api reference on docs
+* update notebook pip installs
+* update dashboard build and fragment decorator
+* combine huggingface with huggingfacelocal
+* add __version__ to all packages
+* providers package name should match namespace
+* fix guardrails imports
+* relax on minor version instead of patch
+* fix OMP error and add package metadata
+* bump all subpackages to 1.0.0
+* fmt
+* move optional test dependencies to new group
+* add snowflake as trulens-core extra
+* make BaseEmbedding optional
+* fix importlib failures on py3.9
+* fix importlib handling under 3.10
+* resolve langchain\(core/community/openai\) versions
+* fix docs reading notebook build and examples
+* report pip and python version in pipeline
+* fix pip version
+* add make command to publish to pypi and testpypi
+* truera -> snowflake references
+* set version 1.0.1a0 and allow prerelease deps
+* move psutils
+* update lockfiles
+* ignore build venvs and mypy
+* add migration guide
+* update dev guide and add toml extension
+* fix old code in litellm example
+* remove requirements from packaging
+* remove remaning trulens_eval references
+* dogfood dev and build fixes
+* update notebooks using optional provider
+* docs fixes
+* fix links
+* add meta.yaml
+* add page on uninstalling
+* update locks
+* remove App.select_context\(\)
+* remove select_context impl
+* typos
+* add note about python version
+* Update README.md
+* make build path relative from recipe
+* pr fixes
+* fmt
+* fix confirm
+* clarify sync flag
+* add build section
+* templatize ci pipelines
+* try camelCase
+* split off optional test template
+* remove old reference
+* run precommit check on 3.11
+* undo unnecessary quote typing
+* refresh locked versions of scipy and sklearn for benchmarking
+* pr fixes
+* spacing
+* include score range fix
+* prompt type to str change compatibility
+* move react source out of package and build components on every install
+* adapted tru benchmark experiment class to repackaging changes + updated notebook
+* fix build path
+* nodejs instructions
+* update download instructions
+* fix package data path
+---------
+Co-authored-by: Josh Reini <josh.reini@snowflake.com>
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: Daniel <daniel.huang@snowflake.com>")| Aug 9, 2024  
+[DEPRECATION.md](/truera/trulens/blob/main/DEPRECATION.md "DEPRECATION.md")| [DEPRECATION.md](/truera/trulens/blob/main/DEPRECATION.md "DEPRECATION.md")| [DBConnector, TruSession, and App versioning changes (](/truera/trulens/commit/73f5b56bcb24779b67750debc0df3070c4e138f6 "DBConnector, TruSession, and App versioning changes \(#1349\)
+* add base workspace code
+* add trulens-workspaces-snowflake
+* small docs changes
+* rename to DefaultWorkspace
+* add alembic revisions
+* rename app_id to app_name and app_version
+* Tru -> TruSession
+* workspace -> connector
+* app_id = hash of version and name
+* update session.db reference
+* alias for Tru
+* throw deprecation warning and pass to DefaultDBConnector
+* app_name / id deprecation
+* remove workspace mentions
+* update migration revision ids
+* pr fixes
+* validate schema name
+* add migrations
+* cleanup
+* update imports
+* populate with hash app_id
+* more references
+* docs fixes
+* revert instance attr
+* update session names in docs/variable naming")[#1349](https://github.com/truera/trulens/pull/1349)[)](/truera/trulens/commit/73f5b56bcb24779b67750debc0df3070c4e138f6 "DBConnector, TruSession, and App versioning changes \(#1349\)
+* add base workspace code
+* add trulens-workspaces-snowflake
+* small docs changes
+* rename to DefaultWorkspace
+* add alembic revisions
+* rename app_id to app_name and app_version
+* Tru -> TruSession
+* workspace -> connector
+* app_id = hash of version and name
+* update session.db reference
+* alias for Tru
+* throw deprecation warning and pass to DefaultDBConnector
+* app_name / id deprecation
+* remove workspace mentions
+* update migration revision ids
+* pr fixes
+* validate schema name
+* add migrations
+* cleanup
+* update imports
+* populate with hash app_id
+* more references
+* docs fixes
+* revert instance attr
+* update session names in docs/variable naming")| Aug 23, 2024  
+[DEVELOPMENT.md](/truera/trulens/blob/main/DEVELOPMENT.md "DEVELOPMENT.md")| [DEVELOPMENT.md](/truera/trulens/blob/main/DEVELOPMENT.md "DEVELOPMENT.md")| [Update DEVELOPMENT.md (](/truera/trulens/commit/5991a25af3f3c4470d589c8e1afa2d243bf06885 "Update DEVELOPMENT.md \(#1597\)")[#1597](https://github.com/truera/trulens/pull/1597)[)](/truera/trulens/commit/5991a25af3f3c4470d589c8e1afa2d243bf06885 "Update DEVELOPMENT.md \(#1597\)")| Oct 28, 2024  
+[LICENSE](/truera/trulens/blob/main/LICENSE "LICENSE")| [LICENSE](/truera/trulens/blob/main/LICENSE "LICENSE")| [Heirarchy explain (](/truera/trulens/commit/2b75fa9412a386a1e8a4aa9ff6dcefd5e6ee53ab "Heirarchy explain \(#116\)
+* move down one level
+* license update
+* fix ci/cd
+* change working directory of ci/cd tests")[#116](https://github.com/truera/trulens/pull/116)[)](/truera/trulens/commit/2b75fa9412a386a1e8a4aa9ff6dcefd5e6ee53ab "Heirarchy explain \(#116\)
+* move down one level
+* license update
+* fix ci/cd
+* change working directory of ci/cd tests")| May 17, 2023  
+[MAINTAINERS.md](/truera/trulens/blob/main/MAINTAINERS.md "MAINTAINERS.md")| [MAINTAINERS.md](/truera/trulens/blob/main/MAINTAINERS.md "MAINTAINERS.md")| [TruLens as namespace package (](/truera/trulens/commit/a3ceeae75dc114e302583ef3ffe348b3bfefca22 "TruLens as namespace package \(#1303\)
+* decouple core trulens packages
+* add root poetry files
+* merge utils with core
+* move feedback to feedback functions
+* feedback -> feedbacks
+* include compiled react components
+* fmt
+* fmt
+* feedbacks -> external for clarity
+* fix dashboard dependencies
+* fix test imports
+* update dev installs for llamaindex, langchain
+* core cleanup
+* fix import
+* move core to trulens.core and resolve import errors
+* fix import errors from trulens.core
+* fix imports in examples
+* fix imports in markdown
+* fix docstring imports
+* add test case generation as subpackage
+* add root imports and detach TruRails
+* add root imports and langchain dep
+* add get_feedback_result and fix docstrings
+* add nemo/trurails subpackage
+* factor out get_feedback_result
+* fmt
+* update test imports
+* fmt and rebuild
+* fmt
+* rename to trulens-testing
+* add trulens-testing
+* remove trulens explain
+* move trulens_eval to root dir
+* factor out rag_triad to external
+* add testing poetry lock
+* root packaging
+* move app types to trulens.core.apps to fix circular import
+* fix import paths
+* refactor core.app.app to core.app.base
+* add __version__
+* update formatting
+* fmt w ruff
+* lint
+* simple lint fixes
+* move instrumentation framework extensions to ext.instrument
+* isort rules update matching existing config
+* split out providers and move instrument packages
+* fix imports and symlinks
+* linting and symlink fixes
+* import fixes and optional dependencies
+* readme/docs updates
+* rm old dev deps
+* update imports
+* update az pipelines
+* use system python
+* disable venv
+* move testing out of main package
+* use system python
+* fix config path
+* install testing utilities
+* fmt
+* remove old makefile
+* fix imports and pydantic serialization
+* move out component views to ext
+* slowly deprecate unused optional imports
+* add httpx
+* add httpx as optional
+* mark group as optional
+* Docs for TruLens as namespace package \(#1306\)
+* get docs to build
+* site fixes
+* drop utils
+* drop double intro
+* drop accidental copy
+* more fixes
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: corey hu <corey.hu@snowflake.com>
+* remove langchain dependency from feedback prompts
+* fix broken symlinks and types
+* factor out utils
+* restore serial
+* move testing to benchmark
+* bundle utils into core
+* mvoe trulens.testing to trulens.benchmark
+* rollout trulens.ext namespace to trulens.instrument and trulens.providers
+* fix symlinks
+* fmt
+* fix select imports
+* update makefile, testing, and mypy
+* update pipeline pytest commands
+* add lock creation
+* testing fixes
+* add __init__
+* add ipywidgets and traitlets to deps
+* dashboard fmt
+* remove pinecone from unittests
+* misc fixes
+* update pipeline and testing to use makefile
+* add coverage tools
+* add poetry install
+* only install tests group
+* set langchain version
+* update langchain dep
+* allow ipywidgets in static tests
+* disable nemoguardrails for python3.12
+* mod name as unnested
+* skip nemo on 3.12
+* skip if >
+* use makefile for release pipeline
+* linting fixes
+* enable linting hook
+* pyproject formatter
+* update lock
+* add release process makefile targets
+* misc changes to vsc environment
+* use import paths for docs
+* replace docs references to trulens_eval
+* simplify docs paths where possible
+* add py.typed to subpackages to indicate inline typing
+* restore releases
+* add examples and autogen api reference on docs
+* update notebook pip installs
+* update dashboard build and fragment decorator
+* combine huggingface with huggingfacelocal
+* add __version__ to all packages
+* providers package name should match namespace
+* fix guardrails imports
+* relax on minor version instead of patch
+* fix OMP error and add package metadata
+* bump all subpackages to 1.0.0
+* fmt
+* move optional test dependencies to new group
+* add snowflake as trulens-core extra
+* make BaseEmbedding optional
+* fix importlib failures on py3.9
+* fix importlib handling under 3.10
+* resolve langchain\(core/community/openai\) versions
+* fix docs reading notebook build and examples
+* report pip and python version in pipeline
+* fix pip version
+* add make command to publish to pypi and testpypi
+* truera -> snowflake references
+* set version 1.0.1a0 and allow prerelease deps
+* move psutils
+* update lockfiles
+* ignore build venvs and mypy
+* add migration guide
+* update dev guide and add toml extension
+* fix old code in litellm example
+* remove requirements from packaging
+* remove remaning trulens_eval references
+* dogfood dev and build fixes
+* update notebooks using optional provider
+* docs fixes
+* fix links
+* add meta.yaml
+* add page on uninstalling
+* update locks
+* remove App.select_context\(\)
+* remove select_context impl
+* typos
+* add note about python version
+* Update README.md
+* make build path relative from recipe
+* pr fixes
+* fmt
+* fix confirm
+* clarify sync flag
+* add build section
+* templatize ci pipelines
+* try camelCase
+* split off optional test template
+* remove old reference
+* run precommit check on 3.11
+* undo unnecessary quote typing
+* refresh locked versions of scipy and sklearn for benchmarking
+* pr fixes
+* spacing
+* include score range fix
+* prompt type to str change compatibility
+* move react source out of package and build components on every install
+* adapted tru benchmark experiment class to repackaging changes + updated notebook
+* fix build path
+* nodejs instructions
+* update download instructions
+* fix package data path
+---------
+Co-authored-by: Josh Reini <josh.reini@snowflake.com>
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: Daniel <daniel.huang@snowflake.com>")[#1303](https://github.com/truera/trulens/pull/1303)[)](/truera/trulens/commit/a3ceeae75dc114e302583ef3ffe348b3bfefca22 "TruLens as namespace package \(#1303\)
+* decouple core trulens packages
+* add root poetry files
+* merge utils with core
+* move feedback to feedback functions
+* feedback -> feedbacks
+* include compiled react components
+* fmt
+* fmt
+* feedbacks -> external for clarity
+* fix dashboard dependencies
+* fix test imports
+* update dev installs for llamaindex, langchain
+* core cleanup
+* fix import
+* move core to trulens.core and resolve import errors
+* fix import errors from trulens.core
+* fix imports in examples
+* fix imports in markdown
+* fix docstring imports
+* add test case generation as subpackage
+* add root imports and detach TruRails
+* add root imports and langchain dep
+* add get_feedback_result and fix docstrings
+* add nemo/trurails subpackage
+* factor out get_feedback_result
+* fmt
+* update test imports
+* fmt and rebuild
+* fmt
+* rename to trulens-testing
+* add trulens-testing
+* remove trulens explain
+* move trulens_eval to root dir
+* factor out rag_triad to external
+* add testing poetry lock
+* root packaging
+* move app types to trulens.core.apps to fix circular import
+* fix import paths
+* refactor core.app.app to core.app.base
+* add __version__
+* update formatting
+* fmt w ruff
+* lint
+* simple lint fixes
+* move instrumentation framework extensions to ext.instrument
+* isort rules update matching existing config
+* split out providers and move instrument packages
+* fix imports and symlinks
+* linting and symlink fixes
+* import fixes and optional dependencies
+* readme/docs updates
+* rm old dev deps
+* update imports
+* update az pipelines
+* use system python
+* disable venv
+* move testing out of main package
+* use system python
+* fix config path
+* install testing utilities
+* fmt
+* remove old makefile
+* fix imports and pydantic serialization
+* move out component views to ext
+* slowly deprecate unused optional imports
+* add httpx
+* add httpx as optional
+* mark group as optional
+* Docs for TruLens as namespace package \(#1306\)
+* get docs to build
+* site fixes
+* drop utils
+* drop double intro
+* drop accidental copy
+* more fixes
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: corey hu <corey.hu@snowflake.com>
+* remove langchain dependency from feedback prompts
+* fix broken symlinks and types
+* factor out utils
+* restore serial
+* move testing to benchmark
+* bundle utils into core
+* mvoe trulens.testing to trulens.benchmark
+* rollout trulens.ext namespace to trulens.instrument and trulens.providers
+* fix symlinks
+* fmt
+* fix select imports
+* update makefile, testing, and mypy
+* update pipeline pytest commands
+* add lock creation
+* testing fixes
+* add __init__
+* add ipywidgets and traitlets to deps
+* dashboard fmt
+* remove pinecone from unittests
+* misc fixes
+* update pipeline and testing to use makefile
+* add coverage tools
+* add poetry install
+* only install tests group
+* set langchain version
+* update langchain dep
+* allow ipywidgets in static tests
+* disable nemoguardrails for python3.12
+* mod name as unnested
+* skip nemo on 3.12
+* skip if >
+* use makefile for release pipeline
+* linting fixes
+* enable linting hook
+* pyproject formatter
+* update lock
+* add release process makefile targets
+* misc changes to vsc environment
+* use import paths for docs
+* replace docs references to trulens_eval
+* simplify docs paths where possible
+* add py.typed to subpackages to indicate inline typing
+* restore releases
+* add examples and autogen api reference on docs
+* update notebook pip installs
+* update dashboard build and fragment decorator
+* combine huggingface with huggingfacelocal
+* add __version__ to all packages
+* providers package name should match namespace
+* fix guardrails imports
+* relax on minor version instead of patch
+* fix OMP error and add package metadata
+* bump all subpackages to 1.0.0
+* fmt
+* move optional test dependencies to new group
+* add snowflake as trulens-core extra
+* make BaseEmbedding optional
+* fix importlib failures on py3.9
+* fix importlib handling under 3.10
+* resolve langchain\(core/community/openai\) versions
+* fix docs reading notebook build and examples
+* report pip and python version in pipeline
+* fix pip version
+* add make command to publish to pypi and testpypi
+* truera -> snowflake references
+* set version 1.0.1a0 and allow prerelease deps
+* move psutils
+* update lockfiles
+* ignore build venvs and mypy
+* add migration guide
+* update dev guide and add toml extension
+* fix old code in litellm example
+* remove requirements from packaging
+* remove remaning trulens_eval references
+* dogfood dev and build fixes
+* update notebooks using optional provider
+* docs fixes
+* fix links
+* add meta.yaml
+* add page on uninstalling
+* update locks
+* remove App.select_context\(\)
+* remove select_context impl
+* typos
+* add note about python version
+* Update README.md
+* make build path relative from recipe
+* pr fixes
+* fmt
+* fix confirm
+* clarify sync flag
+* add build section
+* templatize ci pipelines
+* try camelCase
+* split off optional test template
+* remove old reference
+* run precommit check on 3.11
+* undo unnecessary quote typing
+* refresh locked versions of scipy and sklearn for benchmarking
+* pr fixes
+* spacing
+* include score range fix
+* prompt type to str change compatibility
+* move react source out of package and build components on every install
+* adapted tru benchmark experiment class to repackaging changes + updated notebook
+* fix build path
+* nodejs instructions
+* update download instructions
+* fix package data path
+---------
+Co-authored-by: Josh Reini <josh.reini@snowflake.com>
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: Daniel <daniel.huang@snowflake.com>")| Aug 9, 2024  
+[Makefile](/truera/trulens/blob/main/Makefile "Makefile")| [Makefile](/truera/trulens/blob/main/Makefile "Makefile")| [Allow](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)") `[TruChain](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")`[/](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")`[TruLlama](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")`[/](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")`[TruRails](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")` [to use OTEL spans. (](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")[#1727](https://github.com/truera/trulens/pull/1727)[)](/truera/trulens/commit/eb3c2791813e5bf1f1a1f25c2e74bdcdcc44e3c3 "Allow `TruChain`/`TruLlama`/`TruRails` to use OTEL spans. \(#1727\)")| Jan 17, 2025  
+[POLICIES.md](/truera/trulens/blob/main/POLICIES.md "POLICIES.md")| [POLICIES.md](/truera/trulens/blob/main/POLICIES.md "POLICIES.md")| [import style (](/truera/trulens/commit/d0fb82c9f1e800e5bb365aa8232a2b501173a5af "import style \(#1543\)
+* adopt import style
+* another file fixed
+* more fixes
+* fixing circular
+* no aliases
+* revert init
+* revert another
+* last few
+* note -> warning
+* more import styling
+* another one
+* more standardization
+* more
+* many more import style fixes
+* fix typos
+* update api dump
+* remove private value
+* remove private name from compat
+* add more module renaming suggestions
+* more module rename categories
+* remove private
+* typo
+* another private removed
+* update trulens_eval api dump
+* docs typo fixes
+* fix a few bad docs links")[#1543](https://github.com/truera/trulens/pull/1543)[)](/truera/trulens/commit/d0fb82c9f1e800e5bb365aa8232a2b501173a5af "import style \(#1543\)
+* adopt import style
+* another file fixed
+* more fixes
+* fixing circular
+* no aliases
+* revert init
+* revert another
+* last few
+* note -> warning
+* more import styling
+* another one
+* more standardization
+* more
+* many more import style fixes
+* fix typos
+* update api dump
+* remove private value
+* remove private name from compat
+* add more module renaming suggestions
+* more module rename categories
+* remove private
+* typo
+* another private removed
+* update trulens_eval api dump
+* docs typo fixes
+* fix a few bad docs links")| Oct 16, 2024  
+[README.md](/truera/trulens/blob/main/README.md "README.md")| [README.md](/truera/trulens/blob/main/README.md "README.md")| [Add blog site and docs grouping (](/truera/trulens/commit/df64fecd17161ca9f4e962de48f4061e71825175 "Add blog site and docs grouping \(#1499\)
+* move gtag to head
+* fix src docstrings and links
+* restructure docs and add blog
+* hide watermark for demo
+* format blog posts and redirect
+* rm links
+* add assets to lfs
+* update paths")[#1499](https://github.com/truera/trulens/pull/1499)[)](/truera/trulens/commit/df64fecd17161ca9f4e962de48f4061e71825175 "Add blog site and docs grouping \(#1499\)
+* move gtag to head
+* fix src docstrings and links
+* restructure docs and add blog
+* hide watermark for demo
+* format blog posts and redirect
+* rm links
+* add assets to lfs
+* update paths")| Sep 26, 2024  
+[RELEASES.md](/truera/trulens/blob/main/RELEASES.md "RELEASES.md")| [RELEASES.md](/truera/trulens/blob/main/RELEASES.md "RELEASES.md")| [import style (](/truera/trulens/commit/d0fb82c9f1e800e5bb365aa8232a2b501173a5af "import style \(#1543\)
+* adopt import style
+* another file fixed
+* more fixes
+* fixing circular
+* no aliases
+* revert init
+* revert another
+* last few
+* note -> warning
+* more import styling
+* another one
+* more standardization
+* more
+* many more import style fixes
+* fix typos
+* update api dump
+* remove private value
+* remove private name from compat
+* add more module renaming suggestions
+* more module rename categories
+* remove private
+* typo
+* another private removed
+* update trulens_eval api dump
+* docs typo fixes
+* fix a few bad docs links")[#1543](https://github.com/truera/trulens/pull/1543)[)](/truera/trulens/commit/d0fb82c9f1e800e5bb365aa8232a2b501173a5af "import style \(#1543\)
+* adopt import style
+* another file fixed
+* more fixes
+* fixing circular
+* no aliases
+* revert init
+* revert another
+* last few
+* note -> warning
+* more import styling
+* another one
+* more standardization
+* more
+* many more import style fixes
+* fix typos
+* update api dump
+* remove private value
+* remove private name from compat
+* add more module renaming suggestions
+* more module rename categories
+* remove private
+* typo
+* another private removed
+* update trulens_eval api dump
+* docs typo fixes
+* fix a few bad docs links")| Oct 16, 2024  
+[mkdocs.yml](/truera/trulens/blob/main/mkdocs.yml "mkdocs.yml")| [mkdocs.yml](/truera/trulens/blob/main/mkdocs.yml "mkdocs.yml")| [Add quickstarts to docs (](/truera/trulens/commit/bd24804833905d818e87e69606768f207c0784e5 "Add quickstarts to docs \(#1583\)
+* drafting
+* update titles, add quickstarts to docs
+* title
+* nb icon in title
+* remove unintended file
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>")[#1583](https://github.com/truera/trulens/pull/1583)[)](/truera/trulens/commit/bd24804833905d818e87e69606768f207c0784e5 "Add quickstarts to docs \(#1583\)
+* drafting
+* update titles, add quickstarts to docs
+* title
+* nb icon in title
+* remove unintended file
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>")| Oct 22, 2024  
+[poetry.lock](/truera/trulens/blob/main/poetry.lock "poetry.lock")| [poetry.lock](/truera/trulens/blob/main/poetry.lock "poetry.lock")| [move](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26 "move `poetry-core` restrictions to az pipeline \(#1732\)
+* update meta.yaml
+* set poetry lock version in env test instead
+* update conda recipe for core
+* Update env-setup.yaml") `[poetry-core](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26 "move `poetry-core` restrictions to az pipeline \(#1732\)
+* update meta.yaml
+* set poetry lock version in env test instead
+* update conda recipe for core
+* Update env-setup.yaml")` [restrictions to az pipeline (](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26 "move `poetry-core` restrictions to az pipeline \(#1732\)
+* update meta.yaml
+* set poetry lock version in env test instead
+* update conda recipe for core
+* Update env-setup.yaml")[#1732](https://github.com/truera/trulens/pull/1732)[)](/truera/trulens/commit/44d9bc2e4eefb7dd3dfc67399048546179a5ae26 "move `poetry-core` restrictions to az pipeline \(#1732\)
+* update meta.yaml
+* set poetry lock version in env test instead
+* update conda recipe for core
+* Update env-setup.yaml")| Jan 21, 2025  
+[pyproject.toml](/truera/trulens/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/truera/trulens/blob/main/pyproject.toml "pyproject.toml")| [patch (](/truera/trulens/commit/600f1cedd111d5c7a3a69169ef68622255803f1d "patch \(#1728\)
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>")[#1728](https://github.com/truera/trulens/pull/1728)[)](/truera/trulens/commit/600f1cedd111d5c7a3a69169ef68622255803f1d "patch \(#1728\)
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>")| Jan 16, 2025  
+[pytest.ini](/truera/trulens/blob/main/pytest.ini "pytest.ini")| [pytest.ini](/truera/trulens/blob/main/pytest.ini "pytest.ini")| [TruLens as namespace package (](/truera/trulens/commit/a3ceeae75dc114e302583ef3ffe348b3bfefca22 "TruLens as namespace package \(#1303\)
+* decouple core trulens packages
+* add root poetry files
+* merge utils with core
+* move feedback to feedback functions
+* feedback -> feedbacks
+* include compiled react components
+* fmt
+* fmt
+* feedbacks -> external for clarity
+* fix dashboard dependencies
+* fix test imports
+* update dev installs for llamaindex, langchain
+* core cleanup
+* fix import
+* move core to trulens.core and resolve import errors
+* fix import errors from trulens.core
+* fix imports in examples
+* fix imports in markdown
+* fix docstring imports
+* add test case generation as subpackage
+* add root imports and detach TruRails
+* add root imports and langchain dep
+* add get_feedback_result and fix docstrings
+* add nemo/trurails subpackage
+* factor out get_feedback_result
+* fmt
+* update test imports
+* fmt and rebuild
+* fmt
+* rename to trulens-testing
+* add trulens-testing
+* remove trulens explain
+* move trulens_eval to root dir
+* factor out rag_triad to external
+* add testing poetry lock
+* root packaging
+* move app types to trulens.core.apps to fix circular import
+* fix import paths
+* refactor core.app.app to core.app.base
+* add __version__
+* update formatting
+* fmt w ruff
+* lint
+* simple lint fixes
+* move instrumentation framework extensions to ext.instrument
+* isort rules update matching existing config
+* split out providers and move instrument packages
+* fix imports and symlinks
+* linting and symlink fixes
+* import fixes and optional dependencies
+* readme/docs updates
+* rm old dev deps
+* update imports
+* update az pipelines
+* use system python
+* disable venv
+* move testing out of main package
+* use system python
+* fix config path
+* install testing utilities
+* fmt
+* remove old makefile
+* fix imports and pydantic serialization
+* move out component views to ext
+* slowly deprecate unused optional imports
+* add httpx
+* add httpx as optional
+* mark group as optional
+* Docs for TruLens as namespace package \(#1306\)
+* get docs to build
+* site fixes
+* drop utils
+* drop double intro
+* drop accidental copy
+* more fixes
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: corey hu <corey.hu@snowflake.com>
+* remove langchain dependency from feedback prompts
+* fix broken symlinks and types
+* factor out utils
+* restore serial
+* move testing to benchmark
+* bundle utils into core
+* mvoe trulens.testing to trulens.benchmark
+* rollout trulens.ext namespace to trulens.instrument and trulens.providers
+* fix symlinks
+* fmt
+* fix select imports
+* update makefile, testing, and mypy
+* update pipeline pytest commands
+* add lock creation
+* testing fixes
+* add __init__
+* add ipywidgets and traitlets to deps
+* dashboard fmt
+* remove pinecone from unittests
+* misc fixes
+* update pipeline and testing to use makefile
+* add coverage tools
+* add poetry install
+* only install tests group
+* set langchain version
+* update langchain dep
+* allow ipywidgets in static tests
+* disable nemoguardrails for python3.12
+* mod name as unnested
+* skip nemo on 3.12
+* skip if >
+* use makefile for release pipeline
+* linting fixes
+* enable linting hook
+* pyproject formatter
+* update lock
+* add release process makefile targets
+* misc changes to vsc environment
+* use import paths for docs
+* replace docs references to trulens_eval
+* simplify docs paths where possible
+* add py.typed to subpackages to indicate inline typing
+* restore releases
+* add examples and autogen api reference on docs
+* update notebook pip installs
+* update dashboard build and fragment decorator
+* combine huggingface with huggingfacelocal
+* add __version__ to all packages
+* providers package name should match namespace
+* fix guardrails imports
+* relax on minor version instead of patch
+* fix OMP error and add package metadata
+* bump all subpackages to 1.0.0
+* fmt
+* move optional test dependencies to new group
+* add snowflake as trulens-core extra
+* make BaseEmbedding optional
+* fix importlib failures on py3.9
+* fix importlib handling under 3.10
+* resolve langchain\(core/community/openai\) versions
+* fix docs reading notebook build and examples
+* report pip and python version in pipeline
+* fix pip version
+* add make command to publish to pypi and testpypi
+* truera -> snowflake references
+* set version 1.0.1a0 and allow prerelease deps
+* move psutils
+* update lockfiles
+* ignore build venvs and mypy
+* add migration guide
+* update dev guide and add toml extension
+* fix old code in litellm example
+* remove requirements from packaging
+* remove remaning trulens_eval references
+* dogfood dev and build fixes
+* update notebooks using optional provider
+* docs fixes
+* fix links
+* add meta.yaml
+* add page on uninstalling
+* update locks
+* remove App.select_context\(\)
+* remove select_context impl
+* typos
+* add note about python version
+* Update README.md
+* make build path relative from recipe
+* pr fixes
+* fmt
+* fix confirm
+* clarify sync flag
+* add build section
+* templatize ci pipelines
+* try camelCase
+* split off optional test template
+* remove old reference
+* run precommit check on 3.11
+* undo unnecessary quote typing
+* refresh locked versions of scipy and sklearn for benchmarking
+* pr fixes
+* spacing
+* include score range fix
+* prompt type to str change compatibility
+* move react source out of package and build components on every install
+* adapted tru benchmark experiment class to repackaging changes + updated notebook
+* fix build path
+* nodejs instructions
+* update download instructions
+* fix package data path
+---------
+Co-authored-by: Josh Reini <josh.reini@snowflake.com>
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: Daniel <daniel.huang@snowflake.com>")[#1303](https://github.com/truera/trulens/pull/1303)[)](/truera/trulens/commit/a3ceeae75dc114e302583ef3ffe348b3bfefca22 "TruLens as namespace package \(#1303\)
+* decouple core trulens packages
+* add root poetry files
+* merge utils with core
+* move feedback to feedback functions
+* feedback -> feedbacks
+* include compiled react components
+* fmt
+* fmt
+* feedbacks -> external for clarity
+* fix dashboard dependencies
+* fix test imports
+* update dev installs for llamaindex, langchain
+* core cleanup
+* fix import
+* move core to trulens.core and resolve import errors
+* fix import errors from trulens.core
+* fix imports in examples
+* fix imports in markdown
+* fix docstring imports
+* add test case generation as subpackage
+* add root imports and detach TruRails
+* add root imports and langchain dep
+* add get_feedback_result and fix docstrings
+* add nemo/trurails subpackage
+* factor out get_feedback_result
+* fmt
+* update test imports
+* fmt and rebuild
+* fmt
+* rename to trulens-testing
+* add trulens-testing
+* remove trulens explain
+* move trulens_eval to root dir
+* factor out rag_triad to external
+* add testing poetry lock
+* root packaging
+* move app types to trulens.core.apps to fix circular import
+* fix import paths
+* refactor core.app.app to core.app.base
+* add __version__
+* update formatting
+* fmt w ruff
+* lint
+* simple lint fixes
+* move instrumentation framework extensions to ext.instrument
+* isort rules update matching existing config
+* split out providers and move instrument packages
+* fix imports and symlinks
+* linting and symlink fixes
+* import fixes and optional dependencies
+* readme/docs updates
+* rm old dev deps
+* update imports
+* update az pipelines
+* use system python
+* disable venv
+* move testing out of main package
+* use system python
+* fix config path
+* install testing utilities
+* fmt
+* remove old makefile
+* fix imports and pydantic serialization
+* move out component views to ext
+* slowly deprecate unused optional imports
+* add httpx
+* add httpx as optional
+* mark group as optional
+* Docs for TruLens as namespace package \(#1306\)
+* get docs to build
+* site fixes
+* drop utils
+* drop double intro
+* drop accidental copy
+* more fixes
+---------
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: corey hu <corey.hu@snowflake.com>
+* remove langchain dependency from feedback prompts
+* fix broken symlinks and types
+* factor out utils
+* restore serial
+* move testing to benchmark
+* bundle utils into core
+* mvoe trulens.testing to trulens.benchmark
+* rollout trulens.ext namespace to trulens.instrument and trulens.providers
+* fix symlinks
+* fmt
+* fix select imports
+* update makefile, testing, and mypy
+* update pipeline pytest commands
+* add lock creation
+* testing fixes
+* add __init__
+* add ipywidgets and traitlets to deps
+* dashboard fmt
+* remove pinecone from unittests
+* misc fixes
+* update pipeline and testing to use makefile
+* add coverage tools
+* add poetry install
+* only install tests group
+* set langchain version
+* update langchain dep
+* allow ipywidgets in static tests
+* disable nemoguardrails for python3.12
+* mod name as unnested
+* skip nemo on 3.12
+* skip if >
+* use makefile for release pipeline
+* linting fixes
+* enable linting hook
+* pyproject formatter
+* update lock
+* add release process makefile targets
+* misc changes to vsc environment
+* use import paths for docs
+* replace docs references to trulens_eval
+* simplify docs paths where possible
+* add py.typed to subpackages to indicate inline typing
+* restore releases
+* add examples and autogen api reference on docs
+* update notebook pip installs
+* update dashboard build and fragment decorator
+* combine huggingface with huggingfacelocal
+* add __version__ to all packages
+* providers package name should match namespace
+* fix guardrails imports
+* relax on minor version instead of patch
+* fix OMP error and add package metadata
+* bump all subpackages to 1.0.0
+* fmt
+* move optional test dependencies to new group
+* add snowflake as trulens-core extra
+* make BaseEmbedding optional
+* fix importlib failures on py3.9
+* fix importlib handling under 3.10
+* resolve langchain\(core/community/openai\) versions
+* fix docs reading notebook build and examples
+* report pip and python version in pipeline
+* fix pip version
+* add make command to publish to pypi and testpypi
+* truera -> snowflake references
+* set version 1.0.1a0 and allow prerelease deps
+* move psutils
+* update lockfiles
+* ignore build venvs and mypy
+* add migration guide
+* update dev guide and add toml extension
+* fix old code in litellm example
+* remove requirements from packaging
+* remove remaning trulens_eval references
+* dogfood dev and build fixes
+* update notebooks using optional provider
+* docs fixes
+* fix links
+* add meta.yaml
+* add page on uninstalling
+* update locks
+* remove App.select_context\(\)
+* remove select_context impl
+* typos
+* add note about python version
+* Update README.md
+* make build path relative from recipe
+* pr fixes
+* fmt
+* fix confirm
+* clarify sync flag
+* add build section
+* templatize ci pipelines
+* try camelCase
+* split off optional test template
+* remove old reference
+* run precommit check on 3.11
+* undo unnecessary quote typing
+* refresh locked versions of scipy and sklearn for benchmarking
+* pr fixes
+* spacing
+* include score range fix
+* prompt type to str change compatibility
+* move react source out of package and build components on every install
+* adapted tru benchmark experiment class to repackaging changes + updated notebook
+* fix build path
+* nodejs instructions
+* update download instructions
+* fix package data path
+---------
+Co-authored-by: Josh Reini <josh.reini@snowflake.com>
+Co-authored-by: Josh Reini <joshua.reini@snowflake.com>
+Co-authored-by: Daniel <daniel.huang@snowflake.com>")| Aug 9, 2024  
+[zip_wheels.sh](/truera/trulens/blob/main/zip_wheels.sh "zip_wheels.sh")| [zip_wheels.sh](/truera/trulens/blob/main/zip_wheels.sh "zip_wheels.sh")| [Rename](/truera/trulens/commit/d40c5e7232f2a8499b2a196c8dc69b678f84a473 "Rename `trulens-semconv` to `trulens-otel-semconv`. \(#1681\)") `[trulens-semconv](/truera/trulens/commit/d40c5e7232f2a8499b2a196c8dc69b678f84a473 "Rename `trulens-semconv` to `trulens-otel-semconv`. \(#1681\)")` [to](/truera/trulens/commit/d40c5e7232f2a8499b2a196c8dc69b678f84a473 "Rename `trulens-semconv` to `trulens-otel-semconv`. \(#1681\)") `[trulens-otel-semconv](/truera/trulens/commit/d40c5e7232f2a8499b2a196c8dc69b678f84a473 "Rename `trulens-semconv` to `trulens-otel-semconv`. \(#1681\)")`[. (](/truera/trulens/commit/d40c5e7232f2a8499b2a196c8dc69b678f84a473 "Rename `trulens-semconv` to `trulens-otel-semconv`. \(#1681\)")[#1681](https://github.com/truera/trulens/pull/1681)[)](/truera/trulens/commit/d40c5e7232f2a8499b2a196c8dc69b678f84a473 "Rename `trulens-semconv` to `trulens-otel-semconv`. \(#1681\)")| Dec 5, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [MIT license](#)
+
+
+
+[![PyPI - Version](https://camo.githubusercontent.com/54cb62f51d18cf318b1c23cbcf20b6ef062697d56b16ed68ec3467f888d9278d/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f7472756c656e733f6c6162656c3d7472756c656e73266c696e6b3d6874747073253341253246253246707970692e6f726725324670726f6a6563742532467472756c656e73253246)](https://camo.githubusercontent.com/54cb62f51d18cf318b1c23cbcf20b6ef062697d56b16ed68ec3467f888d9278d/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f7472756c656e733f6c6162656c3d7472756c656e73266c696e6b3d6874747073253341253246253246707970692e6f726725324670726f6a6563742532467472756c656e73253246) [![Azure Build Status](https://camo.githubusercontent.com/c817c3fcadceece6730deea596400d1510a2fcf0b3215bdbee67627ca2d61632/68747470733a2f2f6465762e617a7572652e636f6d2f7472756572612f7472756c656e732f5f617069732f6275696c642f7374617475732532465472754c656e7325323045324525323054657374733f6272616e63684e616d653d6d61696e)](https://dev.azure.com/truera/trulens/_build/latest?definitionId=8&branchName=main) [![GitHub](https://camo.githubusercontent.com/d0e43c6f39d47067430e30a7559afea4db1c761b6cf91f1a3b463695b18bcce8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f7472756572612f7472756c656e73)](https://camo.githubusercontent.com/d0e43c6f39d47067430e30a7559afea4db1c761b6cf91f1a3b463695b18bcce8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f7472756572612f7472756c656e73) [![PyPI - Downloads](https://camo.githubusercontent.com/6f0ab36d5b3a584f60dd3b9ccbe601b45cea69636c26b4765148a52cebe950c9/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f7472756c656e73)](https://camo.githubusercontent.com/6f0ab36d5b3a584f60dd3b9ccbe601b45cea69636c26b4765148a52cebe950c9/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f7472756c656e73) [![Slack](https://camo.githubusercontent.com/2de78a6d45a45c9fe3b5e515991ab920a182db67207d7b11aaf1a12bb571766f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736c61636b2d6a6f696e2d677265656e3f6c6f676f3d736c61636b)](https://communityinviter.com/apps/aiqualityforum/josh) [![Docs](https://camo.githubusercontent.com/591b1996008d8158ca5fa2bd451de06740fd96ae7d25e3575bb32e32da443af5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d7472756c656e732e6f72672d626c7565)](https://www.trulens.org/getting_started/) [![Open In Colab](https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/truera/trulens/blob/main/examples/quickstart/langchain_quickstart.ipynb)
+
+# 🦑 Welcome to TruLens!
+
+[](#-welcome-to-trulens)
+
+[![TruLens](https://camo.githubusercontent.com/43b05c74bb19cd4ccd6c27b50ef2965a2463b30ed5e0bb1dcb84aae7708b25a9/68747470733a2f2f7777772e7472756c656e732e6f72672f6173736574732f696d616765732f4e657572616c5f4e6574776f726b5f4578706c61696e6162696c6974792e706e67)](https://camo.githubusercontent.com/43b05c74bb19cd4ccd6c27b50ef2965a2463b30ed5e0bb1dcb84aae7708b25a9/68747470733a2f2f7777772e7472756c656e732e6f72672f6173736574732f696d616765732f4e657572616c5f4e6574776f726b5f4578706c61696e6162696c6974792e706e67)
+
+**Don't just vibe-check your llm app!** Systematically evaluate and track your LLM experiments with TruLens. As you develop your app including prompts, models, retrievers, knowledge sources and more, _TruLens_ is the tool you need to understand its performance.
+
+Fine-grained, stack-agnostic instrumentation and comprehensive evaluations help you to identify failure modes & systematically iterate to improve your application.
+
+Read more about the core concepts behind TruLens including [Feedback Functions](https://www.trulens.org/getting_started/core_concepts/feedback_functions/), [The RAG Triad](https://www.trulens.org/getting_started/core_concepts/rag_triad/), and [Honest, Harmless and Helpful Evals](https://www.trulens.org/getting_started/core_concepts/honest_harmless_helpful_evals/).
+
+## TruLens in the development workflow
+
+[](#trulens-in-the-development-workflow)
+
+Build your first prototype then connect instrumentation and logging with TruLens. Decide what feedbacks you need, and specify them with TruLens to run alongside your app. Then iterate and compare versions of your app in an easy-to-use user interface 👇
+
+[![Architecture Diagram](https://camo.githubusercontent.com/5e545b625aa3967636d1ced49a35b4fe0fa7c049b748592ff3979d85d67e90a2/68747470733a2f2f7777772e7472756c656e732e6f72672f6173736574732f696d616765732f5472754c656e735f4172636869746563747572652e706e67)](https://camo.githubusercontent.com/5e545b625aa3967636d1ced49a35b4fe0fa7c049b748592ff3979d85d67e90a2/68747470733a2f2f7777772e7472756c656e732e6f72672f6173736574732f696d616765732f5472754c656e735f4172636869746563747572652e706e67)
+
+## Installation and Setup
+
+[](#installation-and-setup)
+
+Install the trulens pip package from PyPI.
+
+```
+pip install trulens
+```
+
+## Quick Usage
+
+[](#quick-usage)
+
+Walk through how to instrument and evaluate a RAG built from scratch with TruLens.
+
+[![Open In Colab](https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/truera/trulens/blob/main/examples/quickstart/quickstart.ipynb)
+
+### 💡 Contributing & Community
+
+[](#-contributing--community)
+
+Interested in contributing? See our [contributing guide](https://www.trulens.org/trulens/contributing/) for more details.
+
+The best way to support TruLens is to give us a ⭐ on [GitHub](https://www.github.com/truera/trulens) and join our [slack community](https://communityinviter.com/apps/aiqualityforum/josh)!
+
+## About
+
+Evaluation and Tracking for LLM Experiments 
+
+[www.trulens.org/](https://www.trulens.org/ "https://www.trulens.org/")
+
+### Topics
+
+[ machine-learning ](/topics/machine-learning "Topic: machine-learning") [ neural-networks ](/topics/neural-networks "Topic: neural-networks") [ explainable-ml ](/topics/explainable-ml "Topic: explainable-ml") [ llm ](/topics/llm "Topic: llm") [ llmops ](/topics/llmops "Topic: llmops")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+[ Activity](/truera/trulens/activity)
+
+[ Custom properties](/truera/trulens/custom-properties)
+
+### Stars
+
+[ **2.3k** stars](/truera/trulens/stargazers)
+
+### Watchers
+
+[ **19** watching](/truera/trulens/watchers)
+
+### Forks
+
+[ **198** forks](/truera/trulens/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Ftruera%2Ftrulens&report=truera+%28user%29)
+
+##  [Releases 78](/truera/trulens/releases)
+
+[ TruLens 1.3.2 Latest  Jan 16, 2025 ](/truera/trulens/releases/tag/trulens-1.3.2)
+
+[+ 77 releases](/truera/trulens/releases)
+
+##  [Packages 0](/orgs/truera/packages?repo_name=trulens)
+
+No packages published 
+
+##  [Contributors 57](/truera/trulens/graphs/contributors)
+
+  * [ ![@joshreini1](https://avatars.githubusercontent.com/u/60949774?s=64&v=4) ](https://github.com/joshreini1)
+  * [ ![@rshih32](https://avatars.githubusercontent.com/u/6810746?s=64&v=4) ](https://github.com/rshih32)
+  * [ ![@piotrm0](https://avatars.githubusercontent.com/u/421701?s=64&v=4) ](https://github.com/piotrm0)
+  * [ ![@github-actions\[bot\]](https://avatars.githubusercontent.com/in/15368?s=64&v=4) ](https://github.com/apps/github-actions)
+  * [ ![@sfc-gh-jreini](https://avatars.githubusercontent.com/u/171636836?s=64&v=4) ](https://github.com/sfc-gh-jreini)
+  * [ ![@sfc-gh-chu](https://avatars.githubusercontent.com/u/170677933?s=64&v=4) ](https://github.com/sfc-gh-chu)
+  * [ ![@shayaks](https://avatars.githubusercontent.com/u/47965099?s=64&v=4) ](https://github.com/shayaks)
+  * [ ![@klasleino](https://avatars.githubusercontent.com/u/5330257?s=64&v=4) ](https://github.com/klasleino)
+  * [ ![@sfc-gh-dkurokawa](https://avatars.githubusercontent.com/u/170676073?s=64&v=4) ](https://github.com/sfc-gh-dkurokawa)
+  * [ ![@coreyhu](https://avatars.githubusercontent.com/u/4167654?s=64&v=4) ](https://github.com/coreyhu)
+  * [ ![@sfc-gh-dhuang](https://avatars.githubusercontent.com/u/171001675?s=64&v=4) ](https://github.com/sfc-gh-dhuang)
+  * [ ![@sfc-gh-pmardziel](https://avatars.githubusercontent.com/u/171089591?s=64&v=4) ](https://github.com/sfc-gh-pmardziel)
+  * [ ![@daniel-huang-1230](https://avatars.githubusercontent.com/u/19476654?s=64&v=4) ](https://github.com/daniel-huang-1230)
+  * [ ![@arn-tru](https://avatars.githubusercontent.com/u/163380706?s=64&v=4) ](https://github.com/arn-tru)
+
+
+
+[+ 43 contributors](/truera/trulens/graphs/contributors)
+
+## Languages
+
+  * [ Python 80.5% ](/truera/trulens/search?l=python)
+  * [ Jupyter Notebook 16.6% ](/truera/trulens/search?l=jupyter-notebook)
+  * [ TypeScript 2.2% ](/truera/trulens/search?l=typescript)
+  * [ Makefile 0.4% ](/truera/trulens/search?l=makefile)
+  * [ JavaScript 0.1% ](/truera/trulens/search?l=javascript)
+  * [ Shell 0.1% ](/truera/trulens/search?l=shell)
+  * Other 0.1%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

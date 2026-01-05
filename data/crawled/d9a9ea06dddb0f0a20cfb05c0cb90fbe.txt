@@ -1,0 +1,526 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fstanford-futuredata%2FARES%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fstanford-futuredata%2FARES%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=stanford-futuredata%2FARES) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ stanford-futuredata ](/stanford-futuredata) / **[ARES](/stanford-futuredata/ARES) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fstanford-futuredata%2FARES) You must be signed in to change notification settings
+  * [ Fork 54 ](/login?return_to=%2Fstanford-futuredata%2FARES)
+  * [ Star  532 ](/login?return_to=%2Fstanford-futuredata%2FARES)
+
+
+
+
+Automated Evaluation of RAG Systems 
+
+[ares-ai.vercel.app/](https://ares-ai.vercel.app/ "https://ares-ai.vercel.app/")
+
+### License
+
+[ Apache-2.0 license ](/stanford-futuredata/ARES/blob/main/LICENSE)
+
+[ 532 stars ](/stanford-futuredata/ARES/stargazers) [ 54 forks ](/stanford-futuredata/ARES/forks) [ Branches ](/stanford-futuredata/ARES/branches) [ Tags ](/stanford-futuredata/ARES/tags) [ Activity ](/stanford-futuredata/ARES/activity)
+
+[ Star  ](/login?return_to=%2Fstanford-futuredata%2FARES)
+
+[ Notifications ](/login?return_to=%2Fstanford-futuredata%2FARES) You must be signed in to change notification settings
+
+  * [ Code ](/stanford-futuredata/ARES)
+  * [ Issues 12 ](/stanford-futuredata/ARES/issues)
+  * [ Pull requests 1 ](/stanford-futuredata/ARES/pulls)
+  * [ Actions ](/stanford-futuredata/ARES/actions)
+  * [ Projects 0 ](/stanford-futuredata/ARES/projects)
+  * [ Security ](/stanford-futuredata/ARES/security)
+  * [ Insights ](/stanford-futuredata/ARES/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/stanford-futuredata/ARES)
+  * [ Issues  ](/stanford-futuredata/ARES/issues)
+  * [ Pull requests  ](/stanford-futuredata/ARES/pulls)
+  * [ Actions  ](/stanford-futuredata/ARES/actions)
+  * [ Projects  ](/stanford-futuredata/ARES/projects)
+  * [ Security  ](/stanford-futuredata/ARES/security)
+  * [ Insights  ](/stanford-futuredata/ARES/pulse)
+
+
+
+# stanford-futuredata/ARES
+
+main
+
+[**5** Branches](/stanford-futuredata/ARES/branches)[**0** Tags](/stanford-futuredata/ARES/tags)
+
+[](/stanford-futuredata/ARES/branches)[](/stanford-futuredata/ARES/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![robbym-dev](https://avatars.githubusercontent.com/u/92179572?v=4&size=40)](/robbym-dev)[robbym-dev](/stanford-futuredata/ARES/commits?author=robbym-dev)[vLLM + Azure Update](/stanford-futuredata/ARES/commit/e8b4ccc7743141c56da5fdc6875aef7fd0818041)Nov 4, 2024[e8b4ccc](/stanford-futuredata/ARES/commit/e8b4ccc7743141c56da5fdc6875aef7fd0818041) · Nov 4, 2024
+
+## History
+
+[418 Commits](/stanford-futuredata/ARES/commits/main/)[](/stanford-futuredata/ARES/commits/main/)  
+[ares](/stanford-futuredata/ARES/tree/main/ares "ares")| [ares](/stanford-futuredata/ARES/tree/main/ares "ares")| [vLLM + Azure Update](/stanford-futuredata/ARES/commit/e8b4ccc7743141c56da5fdc6875aef7fd0818041 "vLLM + Azure Update")| Nov 4, 2024  
+[checkpoints](/stanford-futuredata/ARES/tree/main/checkpoints "checkpoints")| [checkpoints](/stanford-futuredata/ARES/tree/main/checkpoints "checkpoints")| [Gitignore Files](/stanford-futuredata/ARES/commit/86fad39295a4212749f2a8a297ac7a32a6d15a5c "Gitignore Files")| Apr 20, 2024  
+[datasets](/stanford-futuredata/ARES/tree/main/datasets "datasets")| [datasets](/stanford-futuredata/ARES/tree/main/datasets "datasets")| [Add: WoW Synthetic Queries](/stanford-futuredata/ARES/commit/87dba3a0391337a01ac4308de79d9ed17ffc7b72 "Add: WoW Synthetic Queries")| Jul 3, 2024  
+[docs](/stanford-futuredata/ARES/tree/main/docs "docs")| [docs](/stanford-futuredata/ARES/tree/main/docs "docs")| [ARES Logo](/stanford-futuredata/ARES/commit/1ee669d25bfa6ad8b1bada0776e151acd67f9f0c "ARES Logo")| Jul 3, 2024  
+[.gitignore](/stanford-futuredata/ARES/blob/main/.gitignore ".gitignore")| [.gitignore](/stanford-futuredata/ARES/blob/main/.gitignore ".gitignore")| [vLLM + Azure Update](/stanford-futuredata/ARES/commit/e8b4ccc7743141c56da5fdc6875aef7fd0818041 "vLLM + Azure Update")| Nov 4, 2024  
+[CHANGELOG.md](/stanford-futuredata/ARES/blob/main/CHANGELOG.md "CHANGELOG.md")| [CHANGELOG.md](/stanford-futuredata/ARES/blob/main/CHANGELOG.md "CHANGELOG.md")| [Fixed bugs and configured pip package.](/stanford-futuredata/ARES/commit/7afdd64ff4e0e354dc741f316e8d133393555cf0 "Fixed bugs and configured pip package.")| Mar 10, 2024  
+[LICENSE](/stanford-futuredata/ARES/blob/main/LICENSE "LICENSE")| [LICENSE](/stanford-futuredata/ARES/blob/main/LICENSE "LICENSE")| [Initial commit](/stanford-futuredata/ARES/commit/eae9040e3628e9f032d8f9c6eeac789a3fe7b3b1 "Initial commit")| Sep 27, 2023  
+[MANIFEST.in](/stanford-futuredata/ARES/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](/stanford-futuredata/ARES/blob/main/MANIFEST.in "MANIFEST.in")| [Package updates](/stanford-futuredata/ARES/commit/a68be09040aad5187af526783b232d5a32cb8f99 "Package updates")| Apr 26, 2024  
+[README.md](/stanford-futuredata/ARES/blob/main/README.md "README.md")| [README.md](/stanford-futuredata/ARES/blob/main/README.md "README.md")| [Merge pull request](/stanford-futuredata/ARES/commit/2b7972da852a37d73bc9f6ce4fc80922754b6715 "Merge pull request #69 from nikil-algomo/readme-Datasetsize-fix
+NQ dataset size in the readme") [#69](https://github.com/stanford-futuredata/ARES/pull/69) [from nikil-algomo/readme-Datasetsize-fix](/stanford-futuredata/ARES/commit/2b7972da852a37d73bc9f6ce4fc80922754b6715 "Merge pull request #69 from nikil-algomo/readme-Datasetsize-fix
+NQ dataset size in the readme")| Nov 4, 2024  
+[pyproject.toml](/stanford-futuredata/ARES/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/stanford-futuredata/ARES/blob/main/pyproject.toml "pyproject.toml")| [Temporary save of local changes](/stanford-futuredata/ARES/commit/c1d1f8d3633b1525565cf7ca69d1906e316c679d "Temporary save of local changes")| Nov 4, 2024  
+[requirements.txt](/stanford-futuredata/ARES/blob/main/requirements.txt "requirements.txt")| [requirements.txt](/stanford-futuredata/ARES/blob/main/requirements.txt "requirements.txt")| [Bump scikit-learn from 1.2.2 to 1.5.0](/stanford-futuredata/ARES/commit/a9700914f744c5e3b4ba0e920145ea6086577974 "Bump scikit-learn from 1.2.2 to 1.5.0
+Bumps \[scikit-learn\]\(https://github.com/scikit-learn/scikit-learn\) from 1.2.2 to 1.5.0.
+- \[Release notes\]\(https://github.com/scikit-learn/scikit-learn/releases\)
+- \[Commits\]\(https://github.com/scikit-learn/scikit-learn/compare/1.2.2...1.5.0\)
+---
+updated-dependencies:
+- dependency-name: scikit-learn
+ dependency-type: direct:production
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>")| Jul 4, 2024  
+[setup.cfg](/stanford-futuredata/ARES/blob/main/setup.cfg "setup.cfg")| [setup.cfg](/stanford-futuredata/ARES/blob/main/setup.cfg "setup.cfg")| [ARES Update](/stanford-futuredata/ARES/commit/785c39edde2d47bc70b8cdefaec8af24d68bc61d "ARES Update")| Apr 22, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Apache-2.0 license](#)
+
+
+
+## ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems
+
+[](#ares-an-automated-evaluation-framework-for-retrieval-augmented-generation-systems)
+
+Table of Contents: [Installation](#section1) | [Requirements](#section2) | [Quick Start](#section3) | [Citation](#section4)
+
+[ ![Static Badge](https://camo.githubusercontent.com/6b5d31d21aef4f058e0cba4c287e77711f02b4e274b4f844852aea8c4e7bfc9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656c656173652d76302e352e372d626c75653f7374796c653d666c6174266c696e6b3d6874747073253341253246253246707974686f6e2e6f7267253246) ](https://pypi.org/project/ares-ai/) [ ![Static Badge](https://camo.githubusercontent.com/e5529da4fbcd04fedc8999cb76124ef95f3e8784c210c8428adec8ad541eb714/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526561642d4152455325323050617065722d626c75653f7374796c653d666c6174266c696e6b3d687474707325334125324625324661727869762e6f7267253246616273253246323331312e3039343736) ](https://arxiv.org/abs/2311.09476) [ ![Static Badge](https://camo.githubusercontent.com/31b35c96b78866ba74aa2e2f91a1eef8f38e64100b2e3145bd4e8c2586d9ecd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526561642d646f63756d656e746174696f6e2d707572706c653f7374796c653d666c6174) ](https://ares-ai.vercel.app/) [ ![Open In Colab](https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667) ](https://colab.research.google.com/drive/1DvXr9SvWOw6xaNW8LHcy9C06LKevDPxe#scrollTo=wBDuO0n5c1mz) [![Static Badge](https://camo.githubusercontent.com/e61f998652eb99f389c16a34b1ee8029a54a3ff4b6dd3f31641a1ad8deb44346/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230776974682d507974686f6e2d7265643f7374796c653d666c6174266c696e6b3d6874747073253341253246253246707974686f6e2e6f7267253246)](https://camo.githubusercontent.com/e61f998652eb99f389c16a34b1ee8029a54a3ff4b6dd3f31641a1ad8deb44346/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230776974682d507974686f6e2d7265643f7374796c653d666c6174266c696e6b3d6874747073253341253246253246707974686f6e2e6f7267253246)
+
+ARES is a groundbreaking framework for evaluating Retrieval-Augmented Generation (RAG) models. The automated process combines synthetic data generation with fine-tuned classifiers to efficiently assess context relevance, answer faithfulness, and answer relevance, minimizing the need for extensive human annotations. ARES employs synthetic query generation and Prediction-Powered Inference (PPI), providing accurate evaluations with statistical confidence.
+
+### 💬 Mini Q&A
+
+[](#-mini-qa)
+
+**What does ARES assess in RAG models?**
+
+ARES conducts a comprehensive evaluation of Retrieval-Augmented Generation (RAG) models, assessing the systems for context relevance, answer faithfulness, and answer relevance. This thorough assessment ensures a complete understanding of the performance of the RAG system.
+
+**How does ARES automate the evaluation process?**
+
+ARES minimizes the need for human labeling by leveraging fine-tuned classifiers and synthetic data. Its PPI component, Prediction-Powered inference, refines evaluations considering model response variability and provides statistical confidence in the results. By using fine-tuned classifiers and synthetically generated data, ARES cuts down on human labeling needs while providing accurate assessments.
+
+**Can ARES handle my custom RAG model?**
+
+Yes, ARES is a model-agnostic tool that enables you to generate synthetic queries and answers from your documents. With ARES, you can evaluate these generated queries and answers from your RAG model. ​
+
+### ⚙️ Installation
+
+[](#️-installation)
+
+​ To install ARES, run the following commands: ​ 
+
+```
+pip install ares-ai
+```
+
+​ _Optional: Initalize OpenAI or TogetherAI API key with the following command:_
+
+```
+export OPENAI_API_KEY=<your key here> export TOGETHER_API_KEY=<your key here>
+```
+
+### 📝 Requirements
+
+[](#-requirements)
+
+To implement ARES for scoring your RAG system and comparing to other RAG configurations, you need three components:​
+
+  * A human preference validation set of annotated query, document, and answer triples for the evaluation criteria (e.g. context relevance, answer faithfulness, and/or answer relevance). There should be at least 50 examples but several hundred examples is ideal.
+  * A set of few-shot examples for scoring context relevance, answer faithfulness, and/or answer relevance in your system
+  * A much larger set of unlabeled query-document-answer triples outputted by your RAG system for scoring
+
+
+
+To get started with ARES, you'll need to set up your configuration. Below is an example of a configuration for ARES!
+
+Copy-paste each step to see ARES in action!
+
+### 📥 Download datasets
+
+[](#-download-datasets)
+
+Use the following command to quickly obtain the necessary files for getting started! This includes the 'few_shot_prompt' file for judge scoring and synthetic query generation, as well as both labeled and unlabeled datasets.
+
+```
+wget https://raw.githubusercontent.com/stanford-futuredata/ARES/main/datasets/example_files/nq_few_shot_prompt_for_judge_scoring.tsv wget https://raw.githubusercontent.com/stanford-futuredata/ARES/main/datasets/example_files/nq_few_shot_prompt_for_synthetic_query_generation.tsv wget https://raw.githubusercontent.com/stanford-futuredata/ARES/main/datasets/example_files/nq_labeled_output.tsv wget https://raw.githubusercontent.com/stanford-futuredata/ARES/main/datasets/example_files/nq_unlabeled_output.tsv
+```
+
+OPTIONAL: You can run the following command to get the full NQ dataset! (37.3 GB)
+
+```
+from ares import ARES ares = ARES() ares.KILT_dataset("nq") # Fetches NQ datasets with ratios including 0.5, 0.6, 0.7, etc. # For purposes of our quick start guide, we rename nq_ratio_0.5 to nq_unlabeled_output and nq_labeled_output.
+```
+
+### 🚀 Quick Start - #1
+
+[](#-quick-start---1)
+
+To get started with ARES's PPI, you'll need to set up your configuration. Below is an example of a configuration for ARES!
+
+Just copy-paste as you go to see ARES in action!
+
+#### Step 1) Run the following to retrieve the UES/IDP scores with GPT3.5!
+
+[](#step-1-run-the-following-to-retrieve-the-uesidp-scores-with-gpt35)
+
+```
+from ares import ARES ues_idp_config = { "in_domain_prompts_dataset": "nq_few_shot_prompt_for_judge_scoring.tsv", "unlabeled_evaluation_set": "nq_unlabeled_output.tsv", "model_choice" : "gpt-3.5-turbo-0125" } ares = ARES(ues_idp=ues_idp_config) results = ares.ues_idp() print(results) # {'Context Relevance Scores': [Score], 'Answer Faithfulness Scores': [Score], 'Answer Relevance Scores': [Score]}
+```
+
+#### Step 2) Run the following to retrive ARES's PPI scores with GPT3.5!
+
+[](#step-2-run-the-following-to-retrive-aress-ppi-scores-with-gpt35)
+
+```
+ppi_config = { "evaluation_datasets": ['nq_unlabeled_output.tsv'], "few_shot_examples_filepath": "nq_few_shot_prompt_for_judge_scoring.tsv", "llm_judge": "gpt-3.5-turbo-1106", "labels": ["Context_Relevance_Label"], "gold_label_path": "nq_labeled_output.tsv", } ares = ARES(ppi=ppi_config) results = ares.evaluate_RAG() print(results)
+```
+
+### 🚀 Quick Start - #2
+
+[](#-quick-start---2)
+
+#### Step 1) Run the following to see GPT 3.5's accuracy on the NQ unlabeled dataset!
+
+[](#step-1-run-the-following-to-see-gpt-35s-accuracy-on-the-nq-unlabeled-dataset)
+
+```
+from ares import ARES ues_idp_config = { "in_domain_prompts_dataset": "nq_few_shot_prompt_for_judge_scoring.tsv", "unlabeled_evaluation_set": "nq_unlabeled_output.tsv", "model_choice" : "gpt-3.5-turbo-0125" } ares = ARES(ues_idp=ues_idp_config) results = ares.ues_idp() print(results) # {'Context Relevance Scores': [Score], 'Answer Faithfulness Scores': [Score], 'Answer Relevance Scores': [Score]}
+```
+
+#### Step 2) Run the following to see ARES's synthetic generation in action!
+
+[](#step-2-run-the-following-to-see-aress-synthetic-generation-in-action)
+
+```
+from ares import ARES synth_config = { "document_filepaths": ["nq_labeled_output.tsv"] , "few_shot_prompt_filename": "nq_few_shot_prompt_for_synthetic_query_generation.tsv", "synthetic_queries_filenames": ["synthetic_queries_1.tsv"], "documents_sampled": 6189 } ares_module = ARES(synthetic_query_generator=synth_config) results = ares_module.generate_synthetic_data() print(results)
+```
+
+#### Step 3) Run the following to see ARES's training classifier in action!
+
+[](#step-3-run-the-following-to-see-aress-training-classifier-in-action)
+
+```
+from ares import ARES classifier_config = { "training_dataset": ["synthetic_queries_1.tsv"], "validation_set": ["nq_labeled_output.tsv"], "label_column": ["Context_Relevance_Label"], "num_epochs": 10, "patience_value": 3, "learning_rate": 5e-6, "assigned_batch_size": 1, "gradient_accumulation_multiplier": 32, } ares = ARES(classifier_model=classifier_config) results = ares.train_classifier() print(results)
+```
+
+Note: This code creates a checkpoint for the trained classifier. Training may take some time. You can download our jointly trained checkpoint on context relevance here!: [Download Checkpoint](https://drive.google.com/file/d/1INyHfZpsUsn5UEBLSRehI9AX08AI12Lt/view?usp=sharing)
+
+#### Step 4) Run the following to see ARES's PPI in action!
+
+[](#step-4-run-the-following-to-see-aress-ppi-in-action)
+
+```
+from ares import ARES ppi_config = { "evaluation_datasets": ['nq_unlabeled_output.tsv'], "checkpoints": ["Context_Relevance_Label_nq_labeled_output_date_time.pt"], "rag_type": "question_answering", "labels": ["Context_Relevance_Label"], "gold_label_path": "nq_labeled_output.tsv", } ares = ARES(ppi=ppi_config) results = ares.evaluate_RAG() print(results) # Output Should be:  """  Context_Relevance_Label Scoring ARES Ranking ARES Prediction: [0.6056978059262574] ARES Confidence Interval: [[0.547, 0.664]] Number of Examples in Evaluation Set: [4421] Ground Truth Performance: [0.6] ARES LLM Judge Accuracy on Ground Truth Labels: [0.789] Annotated Examples used for PPI: 300 """
+```
+
+### 🚀 Local Model Execution with vLLM
+
+[](#-local-model-execution-with-vllm)
+
+ARES supports [vLLM](https://github.com/vllm-project/vllm), allowing for local execution of LLM models, offering enhanced privacy and the ability to operate ARES offline. Below are steps to vLLM for ARES's UES/IDP and PPI!
+
+#### 1) UES/IDP w/ vLLM
+
+[](#1-uesidp-w-vllm)
+
+```
+from ares import ARES ues_idp_config = { "in_domain_prompts_dataset": "nq_few_shot_prompt_for_judge_scoring.tsv", "unlabeled_evaluation_set": "nq_unlabeled_output.tsv", "model_choice": "meta-llama/Llama-2-13b-hf", # Specify vLLM model "vllm": True, # Toggle vLLM to True  "host_url": "http://0.0.0.0:8000/v1" # Replace with server hosting model followed by "/v1" } ares = ARES(ues_idp=ues_idp_config) results = ares.ues_idp() print(results)
+```
+
+#### 2) PPI w/ vLLM
+
+[](#2-ppi-w-vllm)
+
+```
+from ares import ARES ppi_config = { "evaluation_datasets": ['nq_unabeled_output.tsv'], "few_shot_examples_filepath": "nq_few_shot_prompt_for_judge_scoring.tsv", "llm_judge": "meta-llama/Llama-2-13b-hf", # Specify vLLM model "labels": ["Context_Relevance_Label"], "gold_label_path": "nq_labeled_output.tsv", "vllm": True, # Toggle vLLM to True  "host_url": "http://0.0.0.0:8000/v1" # Replace with server hosting model followed by "/v1" } ares = ARES(ppi=ppi_config) results = ares.evaluate_RAG() print(results)
+```
+
+For more details, refer to our [documentation](https://ares-ai.vercel.app/).
+
+## Results Replication
+
+[](#results-replication)
+
+We include synthetic datasets for key experimental results in `synthetic_datasets`. The few-shot prompts used for generation and evaluation are included in `datasets`. We also include instructions for fine-tuning LLM judges in the paper itself. Please reach out to jonsaadfalcon@stanford.edu or manihani@stanford.edu if you have any further questions.
+
+## Citation
+
+[](#citation)
+
+To cite our work, please use the following Bibtex:
+
+```
+`@misc{saadfalcon2023ares, title={ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems}, author={Jon Saad-Falcon and Omar Khattab and Christopher Potts and Matei Zaharia}, year={2023}, eprint={2311.09476}, archivePrefix={arXiv}, primaryClass={cs.CL} } `
+```
+
+# Appendix
+
+[](#appendix)
+
+### Machine requirements and setup when not using OpenAI API
+
+[](#machine-requirements-and-setup-when-not-using-openai-api)
+
+**Machine requirements**
+
+  * Over ~100 GB of available disk space
+  * GPU 
+    * Should work: A100 (e.g. `Standard_NC24ads_A100_v4` on Azure)
+    * Does not work: 
+      * Tested on 2023-12-17 with both `Standard_NC6s_v3` and `Standard_NC12s_v3`, and ran into this error: `torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 160.00 MiB (GPU 0; 15.77 GiB total capacity; 15.12 GiB already allocated; 95.44 MiB free; 15.12 GiB reserved in total by PyTorch)`
+
+
+
+**Machine setup**
+
+For example, on an Azure VM running Linux (ubuntu 20.04), you will need to do the following:
+
+  * Install conda 
+    * First set of commands (can copy-paste multiple lines) 
+      * `wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
+      * `chmod +x Miniconda3-latest-Linux-x86_64.sh`
+      * `./Miniconda3-latest-Linux-x86_64.sh -b`
+    * Second set of commands (can copy-paste multiple lines) 
+      * `export PATH="~/miniconda3/bin:$PATH"`
+      * `conda init`
+  * Install gcc 
+    * `sudo apt-get -y update`
+    * `sudo apt-get -y upgrade`
+    * `sudo apt-get -y install build-essential`
+    * `sudo apt-get -y install libpcre3-dev`
+  * Install NVIDIA drivers 
+    * `sudo apt install ubuntu-drivers-common -y`
+    * `sudo ubuntu-drivers autoinstall`
+    * `sudo reboot`
+    * SSH in again and confirm the installation was successful by running `nvidia-smi`
+  * `cd` to ARES folder and follow the rest of the README
+
+
+
+## About
+
+Automated Evaluation of RAG Systems 
+
+[ares-ai.vercel.app/](https://ares-ai.vercel.app/ "https://ares-ai.vercel.app/")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+[ Activity](/stanford-futuredata/ARES/activity)
+
+[ Custom properties](/stanford-futuredata/ARES/custom-properties)
+
+### Stars
+
+[ **532** stars](/stanford-futuredata/ARES/stargazers)
+
+### Watchers
+
+[ **11** watching](/stanford-futuredata/ARES/watchers)
+
+### Forks
+
+[ **54** forks](/stanford-futuredata/ARES/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fstanford-futuredata%2FARES&report=stanford-futuredata+%28user%29)
+
+##  [Releases](/stanford-futuredata/ARES/releases)
+
+No releases published
+
+##  [Packages 0](/orgs/stanford-futuredata/packages?repo_name=ARES)
+
+No packages published 
+
+##  [Contributors 8](/stanford-futuredata/ARES/graphs/contributors)
+
+  * [ ![@jonsaadfalcon](https://avatars.githubusercontent.com/u/41205309?s=64&v=4) ](https://github.com/jonsaadfalcon)
+  * [ ![@robbym-dev](https://avatars.githubusercontent.com/u/92179572?s=64&v=4) ](https://github.com/robbym-dev)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@AlexisDeschamps](https://avatars.githubusercontent.com/u/12681350?s=64&v=4) ](https://github.com/AlexisDeschamps)
+  * [ ![@WJ44](https://avatars.githubusercontent.com/u/6444535?s=64&v=4) ](https://github.com/WJ44)
+  * [ ![@tm17-abcgen](https://avatars.githubusercontent.com/u/150427853?s=64&v=4) ](https://github.com/tm17-abcgen)
+  * [ ![@elsatch](https://avatars.githubusercontent.com/u/653433?s=64&v=4) ](https://github.com/elsatch)
+  * [ ![@nikil-algomo](https://avatars.githubusercontent.com/u/165323071?s=64&v=4) ](https://github.com/nikil-algomo)
+
+
+
+## Languages
+
+  * [ Python 100.0% ](/stanford-futuredata/ARES/search?l=python)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

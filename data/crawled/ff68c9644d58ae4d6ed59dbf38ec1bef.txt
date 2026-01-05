@@ -1,0 +1,401 @@
+[Skip to main content](#main)
+
+[](/)
+
+  * Research
+  * Products
+  * [Safety](/safety/)
+  * Company
+
+
+
+CLIP: Connecting text and images | OpenAI
+
+  * [Background and related work](#background-and-related-work)
+  * [Approach](#approach)
+  * [Key takeaways](#key-takeaways)
+  * [Limitations](#limitations)
+  * [Broader impacts](#broader-impacts)
+  * [Conclusion](#conclusion)
+
+
+
+January 5, 2021
+
+# CLIP: Connecting text and images
+
+[Read paper(opens in a new window)](https://arxiv.org/abs/2103.00020)[View code(opens in a new window)](https://github.com/openai/CLIP)
+
+![CLIP](https://images.ctfassets.net/kftzwdyauwt9/5e490f66-703f-4228-221ca64049ed/8ed4358ba4b9f8779e07a2b15d7256e1/image_125.png?w=3840&q=90&fm=webp)
+
+Illustration: Justin Jay Wang
+
+We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3.
+
+Although deep learning has revolutionized computer vision, current approaches have several major problems: typical vision datasets are labor intensive and costly to create while teaching only a narrow set of visual concepts; standard vision models are good at one task and one task only, and require significant effort to adapt to a new task; and models that perform well on benchmarks have disappointingly poor performance on stress tests,[1](#citation-bottom-1), [2](#citation-bottom-2), [3](#citation-bottom-3), [4](#citation-bottom-4) casting doubt on the entire deep learning approach to computer vision.
+
+We present a neural network that aims to address these problems: it is trained on a wide variety of images with a wide variety of natural language supervision that’s abundantly available on the internet. By design, the network can be instructed in natural language to perform a great variety of classification benchmarks, without directly optimizing for the benchmark’s performance, similar to the “” capabilities of GPT-2[5](#citation-bottom-5) and GPT-3.[6](#citation-bottom-6) This is a key change: by not directly optimizing for the benchmark, we show that it becomes much more representative: our system closes this “robustness gap” by up to 75% while matching the performance of the original ResNet-50[7](#citation-bottom-7) on  zero-shot without using any of the original 1.28M labeled examples.
+
+Loading...
+
+## Background and related work
+
+CLIP (_Contrastive Language–Image Pre-training_) builds on a large body of work on zero-shot transfer, natural language supervision, and multimodal learning. The idea of zero-data learning dates back over a decade[8](#citation-bottom-8) but until recently was mostly studied in computer vision as a way of generalizing to unseen object categories.[9](#citation-bottom-9), [10](#citation-bottom-10) A critical insight was to leverage natural language as a flexible prediction space to enable generalization and transfer. In 2013, Richard Socher and co-authors at Stanford[11](#citation-bottom-11) developed a proof of concept by training a model on CIFAR-10 to make predictions in a word vector embedding space and showed this model could predict two unseen classes. The same year DeVISE[12](#citation-bottom-12) scaled this approach and demonstrated that it was possible to fine-tune an ImageNet model so that it could generalize to correctly predicting objects outside the original 1000 training set.
+
+Most inspirational for CLIP is the work of Ang Li and his co-authors at FAIR[13](#citation-bottom-13) who in 2016 demonstrated using natural language supervision to enable zero-shot transfer to several existing computer vision classification datasets, such as the canonical ImageNet dataset. They achieved this by fine-tuning an ImageNet CNN to predict a much wider set of visual concepts (visual n-grams) from the text of titles, descriptions, and tags of 30 million Flickr photos and were able to reach 11.5% accuracy on ImageNet zero-shot.
+
+Finally, CLIP is part of a group of papers revisiting learning visual representations from natural language supervision in the past year. This line of work uses more modern architectures like the Transformer[32](#citation-bottom-32) and includes VirTex,[33](#citation-bottom-33) which explored autoregressive language modeling, ICMLM,[34](#citation-bottom-34) which investigated masked language modeling, and ConVIRT,[35](#citation-bottom-35) which studied the same contrastive objective we use for CLIP but in the field of medical imaging.
+
+## Approach
+
+We show that scaling a simple pre-training task is sufficient to achieve competitive zero-shot performance on a great variety of image classification datasets. Our method uses an abundantly available source of supervision: the text paired with images found across the internet. This data is used to create the following proxy training task for CLIP: given an image, predict which out of a set of 32,768 randomly sampled text snippets, was actually paired with it in our dataset.
+
+In order to solve this task, our intuition is that CLIP models will need to learn to recognize a wide variety of visual concepts in images and associate them with their names. As a result, CLIP models can then be applied to nearly arbitrary visual classification tasks. For instance, if the task of a dataset is classifying photos of dogs vs cats we check for each image whether a CLIP model predicts the text description “a photo of a  _dog_ ” or “a photo of a  _cat_ ” is more likely to be paired with it.
+
+Loading...
+
+CLIP was designed to mitigate a number of major problems in the standard deep learning approach to computer vision:
+
+**Costly datasets** : Deep learning needs a lot of data, and vision models have traditionally been trained on manually labeled datasets that are expensive to construct and only provide supervision for a limited number of predetermined visual concepts. The ImageNet dataset, one of the largest efforts in this space, required over 25,000 workers to annotate 14 million images for 22,000 object categories. In contrast, CLIP learns from text–image pairs that are already publicly available on the internet. Reducing the need for expensive large labeled datasets has been extensively studied by prior work, notably self-supervised learning,[14](#citation-bottom-14), [15](#citation-bottom-15), [16](#citation-bottom-16) contrastive methods,[17](#citation-bottom-17), [18](#citation-bottom-18), [19](#citation-bottom-19), [20](#citation-bottom-20), [21](#citation-bottom-21) self-training approaches,[22](#citation-bottom-22), [23](#citation-bottom-23) and generative modeling.[24](#citation-bottom-24), [25](#citation-bottom-25), [26](#citation-bottom-26), [27](#citation-bottom-27)
+
+**Narrow** : An ImageNet model is good at predicting the 1000 ImageNet categories, but that’s all it can do “out of the box.” If we wish to perform any other task, an ML practitioner needs to build a new dataset, add an output head, and fine-tune the model. In contrast, CLIP can be adapted to perform a wide variety of visual classification tasks without needing additional training examples. To apply CLIP to a new task, all we need to do is “tell” CLIP’s text-encoder the names of the task’s visual concepts, and it will output a linear classifier of CLIP’s visual representations. The accuracy of this classifier is often competitive with fully supervised models.
+
+We show random, non-cherry picked, predictions of zero-shot CLIP classifiers on examples from various datasets below.
+
+Loading...
+
+**Poor real-world performance** : Deep learning systems are often reported to achieve human or even superhuman performance[28](#citation-bottom-28), [A](#citation-bottom-A) on vision benchmarks, yet when deployed in the wild, their performance can be far below the expectation set by the benchmark. In other words, there is a gap between “benchmark performance” and “real performance.” We conjecture that this gap occurs because the models “cheat” by only optimizing for performance on the benchmark, much like a student who passed an exam by studying only the questions on past years’ exams. In contrast, the CLIP model can be evaluated on benchmarks without having to train on their data, so it can’t “cheat” in this manner. This results in its benchmark performance being much more representative of its performance in the wild. To verify the “cheating hypothesis”, we also measure how CLIP’s performance changes when it is able to “study” for ImageNet. When a linear classifier is fitted on top of CLIP’s features, it improves CLIP’s accuracy on the ImageNet test set by almost 10%. However, this classifier does  _no better_ on average across an evaluation suite of 7 other datasets measuring “robust” performance.[30](#citation-bottom-30)
+
+## Key takeaways
+
+**1. CLIP is highly efficient**
+
+CLIP learns from unfiltered, highly varied, and highly noisy data, and is intended to be used in a zero-shot manner. We know from GPT-2 and 3 that models trained on such data can achieve compelling zero shot performance; however, such models require significant training compute. To reduce the needed compute, we focused on algorithmic ways to improve the training efficiency of our approach.
+
+We report two algorithmic choices that led to significant compute savings. The first choice is the adoption of a contrastive objective for connecting text with images.[31](#citation-bottom-31), [17](#citation-bottom-17), [35](#citation-bottom-35) We originally explored an image-to-text approach, similar to VirTex,[33](#citation-bottom-33) but encountered difficulties scaling this to achieve state-of-the-art performance. In small to medium scale experiments, we found that the contrastive objective used by CLIP is 4x to 10x more efficient at zero-shot ImageNet classification. The second choice was the adoption of the Vision Transformer,[36](#citation-bottom-36) which gave us a further 3x gain in compute efficiency over a standard ResNet. In the end, our best performing CLIP model trains on 256 GPUs for 2 weeks which is similar to existing large scale image models.[37](#citation-bottom-37), [23](#citation-bottom-23), [38](#citation-bottom-38), [36](#citation-bottom-36)
+
+Loading...
+
+**2. CLIP is flexible and general**
+
+Because they learn a wide range of visual concepts directly from natural language, CLIP models are significantly more flexible and general than existing ImageNet models. We find they are able to zero-shot perform many different tasks. To validate this we have measured CLIP’s zero-shot performance on over 30 different datasets including tasks such as fine-grained object classification, geo-localization, action recognition in videos, and OCR.[B](#citation-bottom-B) In particular, learning OCR is an example of an exciting behavior that does not occur in standard ImageNet models. Above, we visualize a random non-cherry picked prediction from each zero-shot classifier.
+
+This finding is also reflected on a standard representation learning evaluation using linear probes. The best CLIP model outperforms the best publicly available ImageNet model, the Noisy Student EfficientNet-L2,[23](#citation-bottom-23) on 20 out of 26 different transfer datasets we tested.
+
+Loading...
+
+## Limitations
+
+While CLIP usually performs well on recognizing common objects, it struggles on more abstract or systematic tasks such as counting the number of objects in an image and on more complex tasks such as predicting how close the nearest car is in a photo. On these two datasets, zero-shot CLIP is only slightly better than random guessing. Zero-shot CLIP also struggles compared to task specific models on very fine-grained classification, such as telling the difference between car models, variants of aircraft, or flower species.
+
+CLIP also still has poor generalization to images not covered in its pre-training dataset. For instance, although CLIP learns a capable OCR system, when evaluated on handwritten digits from the MNIST dataset, zero-shot CLIP only achieves 88% accuracy, well below the 99.75% of humans on the dataset. Finally, we’ve observed that CLIP’s zero-shot classifiers can be sensitive to wording or phrasing and sometimes require trial and error “prompt engineering” to perform well.
+
+## Broader impacts
+
+CLIP allows people to design their own classifiers and removes the need for task-specific training data. The manner in which these classes are designed can heavily influence both model performance and model biases. For example, we find that when given a set of labels including Fairface[39](#citation-bottom-39) race labels[C](#citation-bottom-C) and a handful of egregious terms such as “criminal”, “animal,” etc., the model tends to classify images of people aged 0–20 in the egregious category at a rate of ~32.3%. However, when we add the class “child” to the list of possible classes, this behaviour drops to ~8.7%.
+
+Additionally, given that CLIP does not need task-specific training data it can unlock certain niche tasks with greater ease. Some of these tasks may raise privacy or surveillance related risks and we explore this concern by studying the performance of CLIP on celebrity identification. CLIP has a top-1 accuracy of 59.2% for “in the wild” celebrity image classification when choosing from 100 candidates and a top-1 accuracy of 43.3% when choosing from 1000 possible choices. Although it’s noteworthy to achieve these results with task agnostic pre-training, this performance is not competitive when compared to widely available production level models. We further explore challenges that CLIP poses in our  and we hope that this work motivates future research on the characterization of the capabilities, shortcomings, and biases of such models. We are excited to engage with the research community on such questions.
+
+## Conclusion
+
+With CLIP, we’ve tested whether task agnostic pre-training on internet scale natural language, which has powered a recent breakthrough in NLP, can also be leveraged to improve the performance of deep learning for other fields. We are excited by the results we’ve seen so far applying this approach to computer vision. Like the GPT family, CLIP learns a wide variety of tasks during pre-training which we demonstrate via zero-shot transfer. We are also encouraged by our findings on ImageNet that suggest zero-shot evaluation is a more representative measure of a model’s capability.
+
+  * [Milestone](/news/research/?tags=research-milestone)
+  * [Publication](/news/research/?tags=research-publication)
+  * [Release](/news/research/?tags=research-release)
+  * [CLIP](/news/research/?tags=model-clip)
+  * [Computer vision](/news/research/?tags=topic-computer-vision)
+  * [Contrastive learning](/news/research/?tags=topic-contrastive-learning)
+  * [Representation learning](/news/research/?tags=topic-representation-learning)
+  * [Supervised learning](/news/research/?tags=topic-supervised-learning)
+  * [Transfer learning](/news/research/?tags=topic-transfer-learning)
+
+
+
+## Footnotes
+
+  1. 29
+
+In 2015, a group of researchers from Microsoft first trained a model which achieved a top-5 accuracy on ImageNet that surpassed reported human top-5 accuracy.[](#citation-top-29)[](#citation-top-A)
+
+  2. B
+
+While CLIP’s zero-shot OCR performance is mixed, its semantic OCR representation is quite useful. When evaluated on the SST-2 NLP dataset rendered as images, a linear classifer on CLIP’s representation matches a CBoW model with direct access to the text. CLIP is also competitive at detecting hateful memes without needing ground truth text. [](#citation-top-B)
+
+  3. 40
+
+FairFace is a face image dataset designed to balance age, gender, and race, in order to reduce asymmetries common in previous face datasets. It categorizes gender into 2 groups: female and male and race into 7 groups: White, Black, Indian, East Asian, Southeast Asian, Middle Eastern, and Latino. There are inherent problems with race and gender classifications, as e.g. Bowker and Star (2000)[](#citation-top-40) and Keyes (2018)[](#citation-top-41) have shown. While FairFace’s dataset reduces the proportion of White faces, it still lacks representation of entire large demographic groups, effectively erasing such categories. We use the 2 gender categories and 7 race categories defined in the FairFace dataset in a number of our experiments not in order to reinforce or endorse the use of such reductive categories, but in order to enable us to make comparisons to prior work. [](#citation-top-C)
+
+
+
+
+## References
+
+  1. 1
+
+Dodge, S., & Karam, L. (2017, July). “” In ICCCN 2017. [](#citation-top-1)
+
+  2. 2
+
+Geirhos, R., Rubisch, P., Michaelis, C., Bethge, M., Wichmann, F. A., & Brendel, W. (2018). “” In ICLR 2019. [](#citation-top-2)
+
+  3. 3
+
+Alcorn, M. A., Li, Q., Gong, Z., Wang, C., Mai, L., Ku, W. S., & Nguyen, A. (2019). “” In CVPR 2019. [](#citation-top-3)
+
+  4. 4
+
+Barbu, A., Mayo, D., Alverio, J., Luo, W., Wang, C., Gutfreund, D., ... & Katz, B. (2019). “” In NeurIPS 2019. [](#citation-top-4)
+
+  5. 5
+
+Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). “” Technical Report, OpenAI. [](#citation-top-5)
+
+  6. 6
+
+Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Agarwal, S. (2020). “” In NeurIPS 2020. [](#citation-top-6)
+
+  7. 7
+
+He, K., Zhang, X., Ren, S., & Sun, J. (2016). “” In CVPR 2016. [](#citation-top-7)
+
+  8. 8
+
+Larochelle, H., Erhan, D., & Bengio, Y. (2008, July). “” In AAAI 2008. [](#citation-top-8)
+
+  9. 9
+
+Lampert, C. H., Nickisch, H., & Harmeling, S. (2009, June). “” In CVPR 2009. [](#citation-top-9)
+
+  10. 10
+
+Lei Ba, J., Swersky, K., & Fidler, S. (2015). “” In ICCV 2015. [](#citation-top-10)
+
+  11. 11
+
+Socher, R., Ganjoo, M., Manning, C. D., & Ng, A. (2013). “” In NeurIPS 2013. [](#citation-top-11)
+
+  12. 12
+
+Frome, A., Corrado, G. S., Shlens, J., Bengio, S., Dean, J., Ranzato, M. A., & Mikolov, T. (2013). “” In NeurIPS 2013. [](#citation-top-12)
+
+  13. 13
+
+Li, A., Jabri, A., Joulin, A., & van der Maaten, L. (2017). “” In Proceedings of the IEEE International Conference on Computer Vision 2017. [](#citation-top-13)
+
+  14. 14
+
+Doersch, C., Gupta, A., & Efros, A. A. (2015). “” In ICCV 2015. [](#citation-top-14)
+
+  15. 15
+
+Zhai, X., Oliver, A., Kolesnikov, A., & Beyer, L. (2019). “” In ICCV 2019. [](#citation-top-15)
+
+  16. 16
+
+Grill, J. B., Strub, F., Altché, F., Tallec, C., Richemond, P. H., Buchatskaya, E., ... & Piot, B. (2020). “” In NeurIPS 2020. [](#citation-top-16)
+
+  17. 17
+
+Oord, A. V. D., Li, Y., & Vinyals, O. (2018). “” arXiv preprint. [](#citation-top-17)
+
+  18. 18
+
+Hjelm, R. D., Fedorov, A., Lavoie-Marchildon, S., Grewal, K., Bachman, P., Trischler, A., & Bengio, Y. (2018). “” In ICLR 2019. [](#citation-top-18)
+
+  19. 19
+
+Bachman, P., Hjelm, R. D., & Buchwalter, W. (2019). “” In NeurIPS 2019. [](#citation-top-19)
+
+  20. 20
+
+He, K., Fan, H., Wu, Y., Xie, S., & Girshick, R. (2020). “” In CVPR 2020. [](#citation-top-20)
+
+  21. 21
+
+Chen, T., Kornblith, S., Norouzi, M., & Hinton, G. (2020). “” arXiv preprint. [](#citation-top-21)
+
+  22. 22
+
+Lee, D. H. (2013, June). “” In Workshop on challenges in representation learning, ICML (2013). [](#citation-top-22)
+
+  23. 23
+
+Xie, Q., Luong, M. T., Hovy, E., & Le, Q. V. (2020). “” In CVPR 2020. [](#citation-top-23)
+
+  24. 24
+
+Kingma, D. P., Mohamed, S., Jimenez Rezende, D., & Welling, M. (2014). “” In NeurIPS 2014. [](#citation-top-24)
+
+  25. 25
+
+Salimans, T., Goodfellow, I., Zaremba, W., Cheung, V., Radford, A., & Chen, X. (2016). “” In NeurIPS 2016. [](#citation-top-25)
+
+  26. 26
+
+Donahue, J., & Simonyan, K. (2019). “” In NeurIPS 2019. [](#citation-top-26)
+
+  27. 27
+
+Chen, M., Radford, A., Child, R., Wu, J., Jun, H., Luan, D., & Sutskever, I. (2020, November). “” In ICML 2020. [](#citation-top-27)
+
+  28. 28
+
+He, K., Zhang, X., Ren, S., & Sun, J. (2015). “” In ICCV 2015. [](#citation-top-28)
+
+  29. 29
+
+Russakovsky, O., Deng, J., Su, H., Krause, J., Satheesh, S., Ma, S., ... & Berg, A. C. (2015). “” In IJCV 2015. [](#citation-top-29)
+
+  30. 30
+
+Taori, R., Dave, A., Shankar, V., Carlini, N., Recht, B., & Schmidt, L. (2020). “” In NeurIPS 2020. [](#citation-top-30)
+
+  31. 31
+
+Sohn, K. (2016). “” In NeurIPS 2016. [](#citation-top-31)
+
+  32. 32
+
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). “” In NeurIPS 2017. [](#citation-top-32)
+
+  33. 33
+
+Desai, K., & Johnson, J. (2020). “” arXiv preprint. [](#citation-top-33)
+
+  34. 34
+
+Sariyildiz, M. B., Perez, J., & Larlus, D. (2020). “” In ECCV 2020. [](#citation-top-34)
+
+  35. 35
+
+Zhang, Y., Jiang, H., Miura, Y., Manning, C. D., & Langlotz, C. P. (2020). “” arXiv preprint. [](#citation-top-35)
+
+  36. 36
+
+Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Uszkoreit, J. (2020). “” arXiv preprint. [](#citation-top-36)
+
+  37. 37
+
+Mahajan, D., Girshick, R., Ramanathan, V., He, K., Paluri, M., Li, Y., ... & van der Maaten, L. (2018). “” In ECCV 2018. [](#citation-top-37)
+
+  38. 38
+
+Kolesnikov, A., Beyer, L., Zhai, X., Puigcerver, J., Yung, J., Gelly, S., & Houlsby, N. (2019). “” arXiv preprint. [](#citation-top-38)
+
+  39. 39
+
+Kärkkäinen, K., & Joo, J. (2019). “” arXiv preprint. [](#citation-top-39)
+
+  40. 40
+
+Bowker, G., & Star, S. L. (1999). “” Book. [](#citation-top-40)
+
+  41. 41
+
+Keyes, O. (2018). “” In Proceedings of the ACM on Human-Computer Interaction. [](#citation-top-41)
+
+
+
+
+## Authors
+
+[Alec Radford](/news/?author=alec-radford#results), [Ilya Sutskever](/news/?author=ilya-sutskever#results), [Jong Wook Kim](/news/?author=jong-wook-kim#results), [Gretchen Krueger](/news/?author=gretchen-krueger#results), [Sandhini Agarwal](/news/?author=sandhini-agarwal#results)
+
+## Acknowledgments
+
+We’d like to thank the millions of people involved in creating the data CLIP is trained on. We also are grateful to all our co-authors for their contributions to the project. Finally, we’d like to thank Jeff Clune, Miles Brundage, Ryan Lowe, Jakub Pachocki, and Vedant Misra for feedback on drafts of this blog and Matthew Knight for reviewing the code release.
+
+## Design & Cover Artwork
+
+Justin Jay Wang
+
+## Related articles
+
+[View all research articles](/news/research/)
+
+[Dec 16, 2022Dec 16, 2022Dec 16, 2022Point-E: A system for generating 3D point clouds from complex promptsPoint-E: A system for generating 3D point clouds from complex promptsPoint-E: A system for generating 3D point clouds from complex prompts![Point E A System For Generating 3d Point Clouds From Complex Prompts](https://images.ctfassets.net/kftzwdyauwt9/7e4ba260-7655-4049-5a2568c94158/2f2af956a356ee2b507296d01e45e766/image-5.webp?w=3840&q=90&fm=webp)](/index/point-e/)
+
+[Jun 23, 2022Jun 23, 2022Jun 23, 2022Learning to play Minecraft with Video PreTrainingLearning to play Minecraft with Video PreTrainingLearning to play Minecraft with Video PreTraining![Screenshot of a scene from Minecraft](https://images.ctfassets.net/kftzwdyauwt9/ef9fc360-1a5a-4ca3-5c25b83b3564/50c07940455cc86ef84d91526d9cf3e0/vpt.jpg?w=3840&q=90&fm=webp)](/index/vpt/)
+
+[Apr 13, 2022Apr 13, 2022Apr 13, 2022Hierarchical text-conditional image generation with CLIP latentsHierarchical text-conditional image generation with CLIP latentsHierarchical text-conditional image generation with CLIP latents![Hierarchical Text Conditional Image Generation With Clip Latents](https://images.ctfassets.net/kftzwdyauwt9/7c44eedc-3563-4438-c613706c52b1/fcfc38b26fd4878a3c6b4ca8d1d73b17/hierarchical-text-conditional-image-generation-with-clip-latents.jpg?w=3840&q=90&fm=webp)](/index/hierarchical-text-conditional-image-generation-with-clip-latents/)
+
+Our research
+
+  * [Overview](/research/)
+  * [Index](/news/research/)
+
+
+
+Latest advancements
+
+  * [OpenAI o1](/index/learning-to-reason-with-llms/)
+  * [OpenAI o1-mini](/index/openai-o1-mini-advancing-cost-efficient-reasoning/)
+  * [GPT-4](/index/gpt-4/)
+  * [GPT-4o mini](/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
+  * [DALL·E 3](/index/dall-e-3/)
+  * [Sora](/index/sora/)
+
+
+
+ChatGPT
+
+  * [For Everyone](/chatgpt/overview/)
+  * [For Teams](/chatgpt/team/)
+  * [For Enterprises](/chatgpt/enterprise/)
+  * [ChatGPT login(opens in a new window)](https://chatgpt.com/)
+  * [Download](/chatgpt/download/)
+
+
+
+API
+
+  * [Platform overview](/api/)
+  * [Pricing](/api/pricing/)
+  * [Documentation(opens in a new window)](https://platform.openai.com/docs/introduction)
+  * [API login(opens in a new window)](https://platform.openai.com/)
+
+
+
+Explore more
+
+  * [OpenAI for business](/business/)
+  * [Stories](/news/stories/)
+
+
+
+Safety overview
+
+  * [Safety overview](/safety/)
+
+
+
+Company
+
+  * [About us](/about/)
+  * [News](/news/)
+  * [Our Charter](/charter/)
+  * [Security](/security-and-privacy/)
+  * [Residency](/residency/)
+  * [Careers](/careers/)
+
+
+
+Terms & policies
+
+  * [Terms of use](/policies/terms-of-use/)
+  * [Privacy policy](/policies/privacy-policy/)
+  * [Brand guidelines](/brand/)
+  * [Other policies ](/policies/)
+
+
+
+OpenAI © 2015–2025Manage Cookies
+
+[(opens in a new window)](https://x.com/OpenAI)[(opens in a new window)](https://www.youtube.com/OpenAI)[(opens in a new window)](https://www.linkedin.com/company/openai)[(opens in a new window)](https://github.com/openai)[(opens in a new window)](https://www.instagram.com/openai/?hl=en)[(opens in a new window)](https://www.tiktok.com/@openai?lang=en)[(opens in a new window)](https://discord.gg/openai)
+
+We use cookies and similar technologies to deliver, maintain, improve our services and for security purposes.
+
+Check our [Cookie Policy](/policies/cookie-policy/) for details. Click 'Accept all' to let OpenAI and partners use cookies for these purposes. Click 'Reject non-essential' to say no to cookies, except those that are strictly necessary.
+
+Accept allReject non-essential

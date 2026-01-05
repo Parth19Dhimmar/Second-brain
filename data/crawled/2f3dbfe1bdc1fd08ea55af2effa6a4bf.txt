@@ -1,0 +1,192 @@
+[ ![Real Python](/static/real-python-logo.893c30edea53.svg) ](/)
+
+  * [Start Here](/start-here/)
+  * [ Learn Python ](#)
+
+[Python Tutorials →In-depth articles and video courses](/search?kind=article&kind=course&order=newest) [Learning Paths →Guided study plans for accelerated learning](/learning-paths/) [Quizzes →Check your learning progress](/quizzes/) [Browse Topics →Focus on a specific area or skill level](/tutorials/all/) [Community Chat →Learn with other Pythonistas](/community/) [Office Hours →Live Q&A calls with Python experts](/office-hours/) [Podcast →Hear what’s new in the world of Python](/podcasts/rpp/) [Books →Round out your knowledge and learn offline](/products/books/) [Reference →Concise definitions for common Python terms](/ref/) [Code Mentor →BetaPersonalized code assistance & learning tools](/mentor/) [Unlock All Content →](/account/join/)
+
+  * [ More ](#)
+
+[Learner Stories](/learner-stories/) [Python Newsletter](/newsletter/) [Python Job Board](https://www.pythonjobshq.com) [Meet the Team](/team/) [Become a Tutorial Writer](/write-for-us/) [Become a Video Instructor](/become-an-instructor/)
+
+
+
+
+  * [ Search](/search "Search")
+
+
+
+[](/search "Search") /
+
+  * [Join](/account/join/)
+  * [Sign‑In](/account/login/?next=%2F)
+
+
+
+# Real Python Tutorials
+
+[ ![Getters and Setters: Manage Attributes in Python](https://files.realpython.com/media/Avoiding-Setters-and-Getters-with-Properties-in-Python_Watermarked.f5bf5608059a.jpg) NEW ](/python-getter-setter/)
+
+## [Getters and Setters: Manage Attributes in Python ](/python-getter-setter/)
+
+In this tutorial, you'll learn what getter and setter methods are, how Python properties are preferred over getters and setters when dealing with attribute access and mutation, and when to use getter and setter methods instead of properties in Python.
+
+Jan 20, 2025 [intermediate](/tutorials/intermediate/) [python](/tutorials/python/)
+
+— FREE Email Series —
+
+🐍 Python Tricks 💌
+
+![Python Tricks Dictionary Merge](/static/pytrick-dict-merge.4201a0125a5e.png)
+
+Get Python Tricks »
+
+🔒 No spam. Unsubscribe any time.
+
+[Browse Topics](/tutorials/all/) [Guided Learning Paths](/learning-paths/) [ Basics](/search?level=basics) [ Intermediate](/search?level=intermediate) [ Advanced](/search?level=advanced) [api](/tutorials/api/) [best-practices](/tutorials/best-practices/) [career](/tutorials/career/) [community](/tutorials/community/) [databases](/tutorials/databases/) [data-science](/tutorials/data-science/) [data-structures](/tutorials/data-structures/) [data-viz](/tutorials/data-viz/) [devops](/tutorials/devops/) [django](/tutorials/django/) [docker](/tutorials/docker/) [editors](/tutorials/editors/) [flask](/tutorials/flask/) [front-end](/tutorials/front-end/) [gamedev](/tutorials/gamedev/) [gui](/tutorials/gui/) [machine-learning](/tutorials/machine-learning/) [numpy](/tutorials/numpy/) [projects](/tutorials/projects/) [python](/tutorials/python/) [testing](/tutorials/testing/) [tools](/tutorials/tools/) [web-dev](/tutorials/web-dev/) [web-scraping](/tutorials/web-scraping/)
+
+## Explore Real Python
+
+[Learning PathsGuided study plans for accelerated learning](/learning-paths/)
+
+[Python TutorialsIn-depth articles and step-by-step video courses](/search?kind=article&kind=course&order=newest)
+
+[QuizzesEvaluate your Python knowledge with quick tests](/quizzes/)
+
+[Browse TopicsFocus on a specific area or skill level](/tutorials/all/)
+
+[Community ChatLearn with other Pythonistas](/community/)
+
+[Office HoursLive Q&A calls with experts from Real Python](/office-hours/)
+
+[PodcastHear what’s new in the world of Python](/podcasts/rpp/)
+
+[BooksRound out your knowledge and learn offline](/products/books/)
+
+[ReferenceConcise definitions for common Python terms](/ref/)
+
+[Code MentorBetaPersonalized code assistance & intelligent learning tools](/mentor/)
+
+[](/search "Search") Search »
+
+## [New Releases](/search?order=newest)
+
+[View All »](/search?order=newest)
+
+[ ![Python Class Constructors: Control Your Object Instantiation](https://files.realpython.com/media/Python-Class-Constructors-and-Initializers-Guide_Watermarked.a0850d1b75d1.jpg) ](/python-class-constructor/)
+
+## [Python Class Constructors: Control Your Object Instantiation ](/python-class-constructor/)
+
+Jan 19, 2025 [intermediate](/tutorials/intermediate/) [python](/tutorials/python/)
+
+[ ![Pandas GroupBy: Your Guide to Grouping Data in Python](https://files.realpython.com/media/Grouping-and-Aggregating-Data-in-Pandas_Watermarked.d79eb1266abf.jpg) ](/pandas-groupby/)
+
+## [pandas GroupBy: Your Guide to Grouping Data in Python ](/pandas-groupby/)
+
+Jan 19, 2025 [intermediate](/tutorials/intermediate/) [data-science](/tutorials/data-science/)
+
+[ ![Python Constants: Improve Your Code's Maintainability](https://files.realpython.com/media/Python-Constants_Watermarked.4cc3aa373268.jpg) ](/python-constants/)
+
+## [Python Constants: Improve Your Code's Maintainability ](/python-constants/)
+
+Jan 19, 2025 [intermediate](/tutorials/intermediate/) [python](/tutorials/python/)
+
+[ ![Python 3 Installation & Setup Guide](https://files.realpython.com/media/Python-3-Installation--Setup-Guide_Watermarked.62f654dcab67.jpg) ](/installing-python/)
+
+## [How to Install Python on Your System: A Guide ](/installing-python/)
+
+Jan 19, 2025 [basics](/tutorials/basics/) [best-practices](/tutorials/best-practices/) [tools](/tutorials/tools/)
+
+[ ![Creating and Modifying PDF Files in Python](https://files.realpython.com/media/UPDATE-Create-and-Modify-PDF-Files-in-Python_Watermarked.2d721de871c6.jpg) ](/creating-modifying-pdf/)
+
+## [Create and Modify PDF Files in Python ](/creating-modifying-pdf/)
+
+Jan 19, 2025 [intermediate](/tutorials/intermediate/) [tools](/tutorials/tools/)
+
+[ ![Get Started With Django Part 1: Build a Portfolio App](https://files.realpython.com/media/Get-Started-With-Django_Watermarked.15a1e05597bc.jpg) ](/get-started-with-django-1/)
+
+## [Get Started With Django: Build a Portfolio App ](/get-started-with-django-1/)
+
+Jan 18, 2025 [intermediate](/tutorials/intermediate/) [django](/tutorials/django/) [projects](/tutorials/projects/) [web-dev](/tutorials/web-dev/)
+
+[Remove ads](/account/join/)
+
+[ ![Understanding the Python Mock Object Library](https://files.realpython.com/media/unittest.mock-Tutorial_Watermarked.8e92b54478af.jpg) ](/python-mock-library/)
+
+## [Understanding the Python Mock Object Library ](/python-mock-library/)
+
+Jan 18, 2025 [intermediate](/tutorials/intermediate/) [testing](/tutorials/testing/)
+
+[ ![Python's min\(\) and max\(\): Find Smallest and Largest Values](https://files.realpython.com/media/Pythons-min-and-max-With-Examples_Watermarked.433c199670d0.jpg) ](/python-min-and-max/)
+
+## [Python's min() and max(): Find Smallest and Largest Values ](/python-min-and-max/)
+
+Jan 18, 2025 [basics](/tutorials/basics/) [python](/tutorials/python/)
+
+[ ![The subprocess Module: Wrapping Program With Python](https://files.realpython.com/media/Subprocess_Watermarked.6d0e6a5d7d77.jpg) ](/python-subprocess/)
+
+## [The subprocess Module: Wrapping Programs With Python ](/python-subprocess/)
+
+Jan 18, 2025 [intermediate](/tutorials/intermediate/)
+
+[ ![NumPy's max\(\) and maximum\(\): Find Extreme Values in Arrays](https://files.realpython.com/media/NumPy-max-vs-amax-vs-maximum_Watermarked.47deb5fab721.jpg) ](/numpy-max-maximum/)
+
+## [NumPy's max() and maximum(): Find Extreme Values in Arrays ](/numpy-max-maximum/)
+
+Jan 18, 2025 [basics](/tutorials/basics/) [data-science](/tutorials/data-science/) [numpy](/tutorials/numpy/)
+
+[ ![How to Replace a String in Python](https://files.realpython.com/media/How-to-Replace-Parts-of-a-String-in-Python_Watermarked.a70c83972fa6.jpg) ](/replace-string-python/)
+
+## [How to Replace a String in Python ](/replace-string-python/)
+
+Jan 15, 2025 [basics](/tutorials/basics/) [best-practices](/tutorials/best-practices/)
+
+[ ![Python Dictionary Comprehensions: How and When to Use Them](https://files.realpython.com/media/Python-Dict-Comprehensions-A-Guide-with-Examples_Watermarked.0a4fc8a3f231.jpg) ](/courses/building-dictionary-comprehensions/)
+
+## [Building Dictionary Comprehensions in Python ](/courses/building-dictionary-comprehensions/)
+
+Jan 14, 2025 [intermediate](/tutorials/intermediate/) [python](/tutorials/python/)
+
+[ ![Build a Personal Diary With Django and Python](https://files.realpython.com/media/Django-Project-Build-A-Diary-App_Watermarked.3dc1dc06b0bc.jpg) ](/django-diary-project-python/)
+
+## [Build a Personal Diary With Django and Python ](/django-diary-project-python/)
+
+Jan 13, 2025 [basics](/tutorials/basics/) [django](/tutorials/django/) [front-end](/tutorials/front-end/) [projects](/tutorials/projects/) [web-dev](/tutorials/web-dev/)
+
+[ ![How to Get a List of All Files in a Directory With Python](https://files.realpython.com/media/How-to-List-Get-All-Files-in-a-Directory-with-Python_Watermarked.b31aa29fe7c7.jpg) ](/get-all-files-in-directory-python/)
+
+## [How to Get a List of All Files in a Directory With Python ](/get-all-files-in-directory-python/)
+
+Jan 12, 2025 [intermediate](/tutorials/intermediate/)
+
+[ ![Variables in Python](https://files.realpython.com/media/UPDATE-Variables-in-Python_Watermarked.7d8b51f3adad.jpg) ](/python-variables/)
+
+## [Variables in Python: Usage and Best Practices ](/python-variables/)
+
+Jan 12, 2025 [basics](/tutorials/basics/) [python](/tutorials/python/)
+
+[ ![Python's assert: Debug and Test Your Code Like a Pro](https://files.realpython.com/media/Pythons-assert-Statement_Watermarked.b22344aad0fa.jpg) ](/python-assert-statement/)
+
+## [Python's assert: Debug and Test Your Code Like a Pro ](/python-assert-statement/)
+
+Jan 12, 2025 [intermediate](/tutorials/intermediate/) [best-practices](/tutorials/best-practices/) [python](/tutorials/python/)
+
+[ ![How to Write Beautiful Python Code With PEP 8](https://files.realpython.com/media/PEP-8-Tutorial-Python-Code-Formatting-Guide_Watermarked.9103cf7be328.jpg) ](/python-pep8/)
+
+## [How to Write Beautiful Python Code With PEP 8 ](/python-pep8/)
+
+Jan 12, 2025 [intermediate](/tutorials/intermediate/) [best-practices](/tutorials/best-practices/)
+
+[ ![Jinja Templating Engine](https://files.realpython.com/media/Primer-on-Jinja-Templating_Watermarked.ae90a187545f.jpg) ](/primer-on-jinja-templating/)
+
+## [Primer on Jinja Templating ](/primer-on-jinja-templating/)
+
+Jan 12, 2025 [intermediate](/tutorials/intermediate/) [django](/tutorials/django/) [flask](/tutorials/flask/) [front-end](/tutorials/front-end/) [web-dev](/tutorials/web-dev/)
+
+Load More
+
+[](/search "Search") Search »
+
+[Remove ads](/account/join/)
+
+© 2012–2025 Real Python ⋅ [Newsletter](/newsletter/) ⋅ [Podcast](/podcasts/rpp/) ⋅ [YouTube](https://www.youtube.com/realpython) ⋅ [Twitter](https://twitter.com/realpython) ⋅ [Facebook](https://facebook.com/LearnRealPython) ⋅ [Instagram](https://www.instagram.com/realpython/) ⋅ [Python Tutorials](/) ⋅ [Search](/search) ⋅ [Privacy Policy](/privacy-policy/) ⋅ [Energy Policy](/energy-policy/) ⋅ [Advertise](/sponsorships/) ⋅ [Contact](/contact/) Happy Pythoning!

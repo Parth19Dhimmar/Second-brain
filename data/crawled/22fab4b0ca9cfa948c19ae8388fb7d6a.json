@@ -1,0 +1,78 @@
+{
+    "id": "22fab4b0ca9cfa948c19ae8388fb7d6a",
+    "metadata": {
+        "id": "22fab4b0ca9cfa948c19ae8388fb7d6a",
+        "url": "https://about.readthedocs.com/comparisons/gitbook/",
+        "title": "Read the Docs vs. GitBook comparison - Read the Docs",
+        "properties": {
+            "description": "['For technical teams looking for an open source alternative to GitBook with more flexibility, Read the Docs is the perfect solution.', '']",
+            "keywords": null,
+            "author": "Read the Docs, Inc",
+            "og:site_name": "Read the Docs",
+            "og:type": "article",
+            "og:title": "Read the Docs vs. GitBook comparison",
+            "og:description": "['For technical teams looking for an open source alternative to GitBook with more flexibility, Read the Docs is the perfect solution.', '']",
+            "og:image": "/images/logo-opengraph.png"
+        }
+    },
+    "parent_metadata": {
+        "id": "59eb9bdf91df05e8f5043386effc512f",
+        "url": "https://www.notion.so/Documentation-59eb9bdf91df05e8f5043386effc512f",
+        "title": "Documentation",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ],
+            "Language": null,
+            "Created": {
+                "id": "tmas",
+                "type": "created_time",
+                "created_time": "2024-07-24T13:11:00.000Z"
+            }
+        }
+    },
+    "content": "[ ![Read the Docs logo](https://about.readthedocs.com/theme/img/logo-wordmark-dark.svg) ](https://about.readthedocs.com/)\n\nLog in\n\n[ Read the Docs Community  `https://readthedocs.org` ](https://app.readthedocs.org/dashboard/) [ Read the Docs for Business  `https://readthedocs.com` ](https://app.readthedocs.com/dashboard/) Sign up  [ Choosing a platform ](/choosing-a-platform/)\n\nAbout\n\n[ How Read the Docs works ](https://about.readthedocs.com/features/) [ Pricing ](https://about.readthedocs.com/pricing/) [ Enterprise plans ](https://about.readthedocs.com/pricing/enterprise/)\n\nFeatures\n\n[ Authoring features ](https://about.readthedocs.com/docs-as-code/) [ Building features ](https://about.readthedocs.com/features/#building) [ Hosting features ](https://about.readthedocs.com/features/#hosting) [ Reader features ](https://about.readthedocs.com/features/reader/)\n\nUpdates\n\n[ Blog ](https://about.readthedocs.com/blog/) [ Status ](http://status.readthedocs.com)\n\nHelp\n\n[ Support ](https://docs.readthedocs.io/page/support.html) [ Documentation ](https://docs.readthedocs.io) [ Tutorial ](https://docs.readthedocs.io/page/tutorial/)\n\nProduct \n\nAbout\n\n[ How Read the Docs works ](https://about.readthedocs.com/features/) [ Pricing ](https://about.readthedocs.com/pricing/) [ Enterprise plans ](https://about.readthedocs.com/pricing/enterprise/)\n\nFeatures\n\n[ Authoring features ](https://about.readthedocs.com/docs-as-code/) [ Building features ](https://about.readthedocs.com/features/#building) [ Hosting features ](https://about.readthedocs.com/features/#hosting) [ Reader features ](https://about.readthedocs.com/features/reader/)\n\nMore\n\nFeatured tools \n\n[Sphinx](https://about.readthedocs.com/tools/sphinx) [Mkdocs](https://about.readthedocs.com/tools/mkdocs) [Jupyter Book](https://about.readthedocs.com/tools/jupyter-book) [Markdoc](https://about.readthedocs.com/tools/markdoc) [Other tools](https://about.readthedocs.com/tools/custom)\n\n[ Pricing ](https://about.readthedocs.com/pricing/)\n\nResources \n\nUpdates\n\n[ Blog ](https://about.readthedocs.com/blog/) [ Status ](http://status.readthedocs.com)\n\nHelp\n\n[ Support ](https://docs.readthedocs.io/page/support.html) [ Documentation ](https://docs.readthedocs.io) [ Tutorial ](https://docs.readthedocs.io/page/tutorial/)\n\nLog in \n\nLog in\n\n[ Read the Docs Community  `https://readthedocs.org` ](https://app.readthedocs.org/dashboard/) [ Read the Docs for Business  `https://readthedocs.com` ](https://app.readthedocs.com/dashboard/) [ Choosing a platform ](/choosing-a-platform/)\n\nSign up \n\n# Read the Docs is the _**all-in-one**_ solution for documentation\n\nGitBook is great. However, it lacks many features we consider _essential_ for technical teams. **Read the Docs** is _the_ perfect solution for software documentation. \n\nLet's compare it to know what you can expect when deploying your project's documentation to Read the Docs. \n\n![GitBook logo](/images/gitbook-logo.svg) |  ![Read the Docs](/theme/img/logo-wordmark-dark.svg)  \n---|---  \nBuild your site on the cloud  Generate your site's content on the cloud   \nDeploy previews  Solve style issues before deploying   \nSearch  Always find what you are looking for   \nMultiple versions  Publish multiple versions of your documentation   \nPage analytics  Understand how people browse your documentation   \nRedirects  Redirect users to the right page   \nTranslations  Serve translated versions of your docs   \nPrivate documention  Give access only to trusted people   \nPreview changes from forked repositories  Visualize edits from external collaborators   \nStatic hosting  Publish any static content   \nVisual diff on deploy previews  Visualize differences directly on the rendered version   \nCustom 404 pages  Style 404 pages with context-related information   \nCustom \"robots.txt\"  Improve your SEO by telling bots how to explore your site   \nSearch analytics  Explore what people search for in your docs   \nOpen Source  No lock in and contribute back   \nDocumentation tool agnostic  Use the documentation tool your team prefers (Sphinx, MkDocs, Docusaurus, etc)   \nCustom theme  Style the documentation as you like   \n![GitBook logo](/images/gitbook-logo.svg) |  ![Read the Docs](/theme/img/logo-wordmark-dark.svg)  \n  \nTry it out\n\n##  Deploy in 5 minutes and see for yourself \n\n`.readthedocs.yaml`\n\n```\n`version:2 build: os:\"ubuntu-22.04\" tools: nodejs:\"18\" # You can also specify other tool versions: # python: \"3\" commands: # \"docs/\" was created following the Docusaurus tutorial: # npx create-docusaurus@latest docs classic # # Install Docusaurus dependencies -cd docs/ && npm install # Build the site -cd docs/ && npm run build # Copy generated files into Read the Docs directory -mkdir --parents $READTHEDOCS_OUTPUT/html/ -cp --recursive docs/build/* $READTHEDOCS_OUTPUT/html/ `\n```\n\nCreate an account Sign up with GitHub or your email. Import your project Select a project from your existing Git repositories. Add YAML config Save this file as `.readthedocs.yaml`, and update the commands as necessary. Your docs build on every commit Like magic.\n\n##  Still not convinced? Try it yourself \n\nGitBook is a great product, but gives few options because of their **closed source software solution**. For publishing _great documentation_ without vendor lock in and features that your readers will love, Read the Docs is the all-in-one solution that provides everything you need out of the box, from analytics to SSO. \n\nGet started for free \n\n#### Stay updated\n\n[Blog](https://about.readthedocs.org/blog/) [Newsletter](https://landing.mailerlite.com/webforms/landing/t0a9l4) [Status](https://status.readthedocs.com/)\n\n[](https://github.com/readthedocs/) [](https://twitter.com/readthedocs) [](https://fosstodon.org/@readthedocs)\n\n#### Learn more\n\n[Documentation](https://docs.readthedocs.io) [Getting started guide](https://docs.readthedocs.io/page/tutorial/index.html) [Configure your project](https://docs.readthedocs.io/page/config-file/index.html) [Comparison to GitHub Pages](/comparisons/github-pages/) [Comparison to GitBook](/comparisons/gitbook/) [Comparison to Cloudflare Pages](/comparisons/cloudflare-pages/)\n\n#### Product\n\n[Features](/features/) [Pricing](/pricing/) [Privacy Policy](/privacy-policy) [Terms of Service](/terms-of-service/)\n\n#### Company\n\n[About us](/company/) [Support](https://docs.readthedocs.io/page/support.html) [Advertise with Us](https://www.ethicalads.io/advertisers/?ref=rtd) [Contribute](https://dev.readthedocs.io/page/contribute.html)\n\nCopyright 2022, Read the Docs, Inc & contributors \n\nGet started with Read the Docs\n\nWhich site best fits your project? \n\nRead the Docs Community \n\nFor free and open-source projects \n\nClone public repositories \n\nPublic documentation \n\nAds supported hosting \n\n**Free** for open-source software. \n\n[ Sign up ](https://app.readthedocs.org/accounts/signup/)\n\nRead the Docs for Business \n\nFor commercial and non-free projects \n\nClone private and public repositories \n\nPublic and private documentation \n\nTeam management for your organization \n\nPlans starting at **$50/month**. \n\n[ Sign up ](https://app.readthedocs.com/accounts/signup/)\n\n[Choosing a platform](/choosing-a-platform/) [Explore all the features](/features/)\n",
+    "content_quality_score": 0.4,
+    "summary": null,
+    "child_urls": [
+        "https://about.readthedocs.com/",
+        "https://about.readthedocs.com/choosing-a-platform/",
+        "https://about.readthedocs.com/features/",
+        "https://about.readthedocs.com/pricing/",
+        "https://about.readthedocs.com/pricing/enterprise/",
+        "https://about.readthedocs.com/docs-as-code/",
+        "https://about.readthedocs.com/features/#building",
+        "https://about.readthedocs.com/features/#hosting",
+        "https://about.readthedocs.com/features/reader/",
+        "https://about.readthedocs.com/blog/",
+        "https://about.readthedocs.com/tools/sphinx",
+        "https://about.readthedocs.com/tools/mkdocs",
+        "https://about.readthedocs.com/tools/jupyter-book",
+        "https://about.readthedocs.com/tools/markdoc",
+        "https://about.readthedocs.com/tools/custom",
+        "https://about.readthedocs.com/comparisons/github-pages/",
+        "https://about.readthedocs.com/comparisons/gitbook/",
+        "https://about.readthedocs.com/comparisons/cloudflare-pages/",
+        "https://about.readthedocs.com/privacy-policy",
+        "https://about.readthedocs.com/terms-of-service/",
+        "https://about.readthedocs.com/company/",
+        "https://app.readthedocs.org/dashboard/",
+        "https://app.readthedocs.com/dashboard/",
+        "http://status.readthedocs.com",
+        "https://docs.readthedocs.io/page/support.html",
+        "https://docs.readthedocs.io",
+        "https://docs.readthedocs.io/page/tutorial/",
+        "https://about.readthedocs.org/blog/",
+        "https://landing.mailerlite.com/webforms/landing/t0a9l4",
+        "https://status.readthedocs.com/",
+        "https://github.com/readthedocs/",
+        "https://twitter.com/readthedocs",
+        "https://fosstodon.org/@readthedocs",
+        "https://docs.readthedocs.io/page/tutorial/index.html",
+        "https://docs.readthedocs.io/page/config-file/index.html",
+        "https://www.ethicalads.io/advertisers/?ref=rtd",
+        "https://dev.readthedocs.io/page/contribute.html",
+        "https://app.readthedocs.org/accounts/signup/",
+        "https://app.readthedocs.com/accounts/signup/"
+    ]
+}

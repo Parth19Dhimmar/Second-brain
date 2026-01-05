@@ -1,0 +1,23 @@
+{
+    "id": "4a9ca7df8f219fd3ae7e3cac8ef7edb5",
+    "metadata": {
+        "id": "4a9ca7df8f219fd3ae7e3cac8ef7edb5",
+        "url": "https://www.notion.so/UI-UX-4a9ca7df8f219fd3ae7e3cac8ef7edb5",
+        "title": "UI & UX",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "850462cd8a8bf3bac7ecfaeaa77bcf1d",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Articles\n\n\t- [Emerging UX Patterns for Generative AI Apps & Copilots](https://www.tidepool.so/blog/emerging-ux-patterns-for-generative-ai-apps-copilots), on Tidepool’s blog\n\t-",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://www.tidepool.so/blog/emerging-ux-patterns-for-generative-ai-apps-copilots/"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "id": "7a96de2affde481a48dc79fa7e15bb17",
+    "metadata": {
+        "id": "7a96de2affde481a48dc79fa7e15bb17",
+        "url": "https://commoncrawl.org/",
+        "title": "Common Crawl - Open Repository of Web Crawl Data",
+        "properties": {
+            "description": "We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone.",
+            "keywords": null,
+            "author": null,
+            "og:title": "Common Crawl - Open Repository of Web Crawl Data",
+            "og:description": "We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone.",
+            "og:type": "website",
+            "twitter:card": "summary_large_image"
+        }
+    },
+    "parent_metadata": {
+        "id": "1085c702aeccaff9bce2be229f58a3d3",
+        "url": "https://www.notion.so/Datasets-1085c702aeccaff9bce2be229f58a3d3",
+        "title": "Datasets",
+        "properties": {
+            "Type": "Node",
+            "Created": {
+                "id": "zegV",
+                "type": "created_time",
+                "created_time": "2025-01-07T11:55:00.000Z"
+            }
+        }
+    },
+    "content": "[![Common Crawl Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg)](/)\n\n  * The Data\n\n[Overview](/overview)[Web Graphs](/web-graphs)[Latest Crawl](/latest-crawl)[Crawl Stats](https://commoncrawl.github.io/cc-crawl-statistics/)[Graph Stats](https://commoncrawl.github.io/cc-webgraph-statistics/)[Errata](/errata)\n\n  * Resources\n\n[Get Started](/get-started)[Blog](/blog)[Examples](/examples)[Use Cases](/use-cases)[CCBot](/ccbot)[Infra Status](https://status.commoncrawl.org)[FAQ](/faq)\n\n  * Community\n\n[Research Papers](/research-papers)[Mailing List Archive](https://groups.google.com/g/common-crawl)[Hugging Face](https://huggingface.co/commoncrawl)[Discord](https://discord.gg/njaVFh7avF)[Collaborators](/collaborators)\n\n  * About\n\n[Team](/team)[Jobs](/jobs)[Mission](/mission)[Impact](/impact)[Privacy Policy](/privacy-policy)[Terms of Use](/terms-of-use)\n\n  * Search\n\n  * [Contact Us](/contact-us)\n\n\n\n# Common Crawl maintains a free, open repository of web crawl data that can be used by anyone.\n\n# Common Crawl is a 501(c)(3) non–profit founded in 2007.‍We make wholesale extraction, transformation and analysis of open web data accessible to researchers.\n\n[Overview](/overview)\n\n## Over 250 billion pages spanning 18 years.\n\n## Free and open corpus since 2007.\n\n## Cited in over 10,000 research papers.\n\n## 3–5 billion new pages added each month.\n\n### Featured Papers:\n\n#### [Research on Free Expression OnlineJeffrey Knockel, Jakub Dalek, Noura Aljizawi, Mohamed Ahmed, Levi Meletti, and Justin LauBanned Books: Analysis of Censorship on Amazon.com](https://citizenlab.ca/2024/11/analysis-of-censorship-on-amazon-com/)\n\n#### [Improved Trade-Offs Between Data Quality and Quantity for Long-Horizon Model TrainingDan Su, Kezhi Kong, Ying Lin, Joseph Jennings, Brandon Norick, Markus Kliegl, Mostofa Patwary, Mohammad Shoeybi, Bryan CatanzaroNemotron-CC: Transforming Common Crawl into a Refined Long-Horizon Pretraining Dataset](https://arxiv.org/abs/2412.02595)\n\n#### [Analyzing the Australian Web with Web Graphs: Harmonic Centrality at the Domain LevelXian Gong, Paul X. McCarthy, Marian-Andrei Rizoiu, Paolo BoldiHarmony in the Australian Domain Space](https://arxiv.org/pdf/2404.10006)\n\n#### [The Dangers of Hijacked HyperlinksKevin Saric, Felix Savins, Gowri Sankar Ramachandran, Raja Jurdak, Surya NepalHyperlink Hijacking: Exploiting Erroneous URL Links to Phantom Domains](https://dl.acm.org/doi/10.1145/3589334.3645510)\n\n#### [Enhancing Computational AnalysisZhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya GuoDeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)\n\n#### [Computation and LanguageAsier Gutiérrez-Fandiño, David Pérez-Fernández, Jordi Armengol-Estapé, David Griol, Zoraida CallejasesCorpius: A Massive Spanish Crawling Corpus](https://arxiv.org/abs/2206.15147)\n\n#### [The Web as a Graph (Master's Thesis)Marius Løvold Jørgensen, UiT Norges Arktiske Universitet BacklinkDB: A Purpose-Built Backlink Database Management System](https://munin.uit.no/handle/10037/28861)\n\n#### [Internet Security: Phishing WebsitesAsadullah Safi, Satwinder SinghA Systematic Literature Review on Phishing Website Detection Techniques](https://doi.org/10.1016/j.jksuci.2023.01.004)\n\n[More on Google Scholar](https://scholar.google.com/scholar?q=common+crawl)[Curated BibTeX Dataset](https://github.com/commoncrawl/cc-citations/)\n\n### Latest Blog Post:\n\n[![Host- and Domain-Level Web Graphs October, November, and December 2024](https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64e632beacaeb117d55bf82c_graphs.webp)](/blog/host--and-domain-level-web-graphs-october-november-and-december-2024)\n\n[Web Graphs](#)### [Host- and Domain-Level Web Graphs October, November, and December 2024](/blog/host--and-domain-level-web-graphs-october-november-and-december-2024)\n\nWe are pleased to announce a new release of host-level and domain-level Web Graphs based on the crawls of October, November, and December 2024. The crawls used to generate the graphs were CC-MAIN-2024-42, CC-MAIN-2024-46, and CC-MAIN-2024-51.\n\n![Thom is Principal Technologist at the Common Crawl Foundation.](https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6525482ffaaa06f071baaf93_thom_vaughan.webp)\n\nThom Vaughan\n\nThom is Principal Technologist at the Common Crawl Foundation.\n\n[![Common Crawl Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg)](/)\n\n## The Data\n\n### [Overview](/overview)\n\n### [Web Graphs](/web-graphs)\n\n### [Latest Crawl](/latest-crawl)\n\n### [Crawl Stats](https://commoncrawl.github.io/cc-crawl-statistics/)\n\n### [Graph Stats](https://commoncrawl.github.io/cc-webgraph-statistics/)\n\n### [Errata](/errata)\n\n## Resources\n\n### [Get Started](/get-started)\n\n### [Blog](/blog)\n\n### [Examples](/examples)\n\n### [Use Cases](/use-cases)\n\n### [CCBot](/ccbot)\n\n### [Infra Status](https://status.commoncrawl.org)\n\n### [FAQ](/faq)\n\n## Community\n\n### [Research Papers](/research-papers)\n\n### [Mailing List Archive](https://groups.google.com/g/common-crawl)\n\n### [Hugging Face](https://huggingface.co/commoncrawl)\n\n### [Discord](https://discord.gg/njaVFh7avF)\n\n### [Collaborators](/collaborators)\n\n## About\n\n### [Team](/team)\n\n### [Jobs](/jobs)\n\n### [Mission](/mission)\n\n### [Impact](/impact)\n\n### [Privacy Policy](/privacy-policy)\n\n### [Terms of Use](/terms-of-use)\n\n[![Twitter Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg)](https://x.com/commoncrawl)[![LinkedIn Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20\\(1\\).svg)](https://www.linkedin.com/company/common-crawl/)[![LinkedIn Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg)](https://discord.gg/njaVFh7avF)\n\n© 2025 Common Crawl\n",
+    "content_quality_score": 0.6,
+    "summary": null,
+    "child_urls": [
+        "https://commoncrawl.org/",
+        "https://commoncrawl.org/overview",
+        "https://commoncrawl.org/web-graphs",
+        "https://commoncrawl.org/latest-crawl",
+        "https://commoncrawl.org/errata",
+        "https://commoncrawl.org/get-started",
+        "https://commoncrawl.org/blog",
+        "https://commoncrawl.org/examples",
+        "https://commoncrawl.org/use-cases",
+        "https://commoncrawl.org/ccbot",
+        "https://status.commoncrawl.org",
+        "https://commoncrawl.org/faq",
+        "https://commoncrawl.org/research-papers",
+        "https://commoncrawl.org/collaborators",
+        "https://commoncrawl.org/team",
+        "https://commoncrawl.org/jobs",
+        "https://commoncrawl.org/mission",
+        "https://commoncrawl.org/impact",
+        "https://commoncrawl.org/privacy-policy",
+        "https://commoncrawl.org/terms-of-use",
+        "https://commoncrawl.org/contact-us",
+        "https://commoncrawl.org/blog/host--and-domain-level-web-graphs-october-november-and-december-2024",
+        "https://commoncrawl.github.io/cc-crawl-statistics/",
+        "https://commoncrawl.github.io/cc-webgraph-statistics/",
+        "https://groups.google.com/g/common-crawl",
+        "https://huggingface.co/commoncrawl",
+        "https://discord.gg/njaVFh7avF",
+        "https://citizenlab.ca/2024/11/analysis-of-censorship-on-amazon-com/",
+        "https://arxiv.org/abs/2412.02595",
+        "https://arxiv.org/pdf/2404.10006",
+        "https://dl.acm.org/doi/10.1145/3589334.3645510",
+        "https://arxiv.org/abs/2402.03300",
+        "https://arxiv.org/abs/2206.15147",
+        "https://munin.uit.no/handle/10037/28861",
+        "https://doi.org/10.1016/j.jksuci.2023.01.004",
+        "https://scholar.google.com/scholar?q=common+crawl",
+        "https://github.com/commoncrawl/cc-citations/",
+        "https://x.com/commoncrawl",
+        "https://www.linkedin.com/company/common-crawl/"
+    ]
+}

@@ -1,0 +1,172 @@
+[ ![Logo](_static/logo.png) ](#)
+
+3.x 
+
+User Guide
+
+  * [Installation](user/installation.html)
+  * [Migration Guide: 1.x to 2.x](user/migration-1-to-2.html)
+  * [Imports and Modules](user/migration-1-to-2.html#imports-and-modules)
+  * [Naming Adjustments](user/migration-1-to-2.html#naming-adjustments)
+  * [Robustness and strict=False](user/robustness.html)
+  * [Exceptions, Warnings, and Log messages](user/suppress-warnings.html)
+  * [Metadata](user/metadata.html)
+  * [Extract Text from a PDF](user/extract-text.html)
+  * [Extract Images](user/extract-images.html)
+  * [Encryption and Decryption of PDFs](user/encryption-decryption.html)
+  * [Merging PDF files](user/merging-pdfs.html)
+  * [Cropping and Transforming PDFs](user/cropping-and-transforming.html)
+  * [Adding a Stamp/Watermark to a PDF](user/add-watermark.html)
+  * [Reading PDF Annotations](user/reading-pdf-annotations.html)
+  * [Adding PDF Annotations](user/adding-pdf-annotations.html)
+  * [Interactions with PDF Forms](user/forms.html)
+  * [Streaming Data with PyPDF2](user/streaming-data.html)
+  * [Reduce PDF Size](user/file-size.html)
+  * [PDF Version Support](user/pdf-version-support.html)
+
+
+
+API Reference
+
+  * [The PdfReader Class](modules/PdfReader.html)
+  * [The PdfWriter Class](modules/PdfWriter.html)
+  * [The PdfMerger Class](modules/PdfMerger.html)
+  * [The PageObject Class](modules/PageObject.html)
+  * [The Transformation Class](modules/Transformation.html)
+  * [The DocumentInformation Class](modules/DocumentInformation.html)
+  * [The XmpInformation Class](modules/XmpInformation.html)
+  * [The Destination Class](modules/Destination.html)
+  * [The RectangleObject Class](modules/RectangleObject.html)
+  * [The Field Class](modules/Field.html)
+  * [The PageRange Class](modules/PageRange.html)
+  * [The AnnotationBuilder Class](modules/AnnotationBuilder.html)
+  * [The Fit Class](modules/Fit.html)
+  * [The PaperSize Class](modules/PaperSize.html)
+
+
+
+Developer Guide
+
+  * [Developer Intro](dev/intro.html)
+  * [The PDF Format](dev/pdf-format.html)
+  * [CMaps](dev/cmaps.html)
+  * [The Deprecation Process](dev/deprecations.html)
+  * [Testing](dev/testing.html)
+
+
+
+About PyPDF2
+
+  * [CHANGELOG](meta/CHANGELOG.html)
+  * [Changelog of PyPDF2 1.X](meta/changelog-v1.html)
+  * [Project Governance](meta/project-governance.html)
+  * [History of PyPDF2](meta/history.html)
+  * [Contributors](meta/CONTRIBUTORS.html)
+  * [PyPDF2 vs X](meta/comparisons.html)
+  * [Frequently-Asked Questions](meta/faq.html)
+
+
+
+[PyPDF2](#)
+
+  * [](#)
+  * Welcome to PyPDF2
+  * [ Edit on GitHub](https://github.com/py-pdf/PyPDF2/blob/3.x/docs/index.rst)
+
+
+
+Note
+
+This page is about PyPDF2. [PyPDF2 is deprecated, please use pypdf](https://pypdf.readthedocs.io/en/latest/user/migration-1-to-2.html)
+
+# Welcome to PyPDF2[](#welcome-to-pypdf2 "Permalink to this heading")
+
+PyPDF2 is a [free](https://en.wikipedia.org/wiki/Free_software) and open source pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files. It can also add custom data, viewing options, and passwords to PDF files. PyPDF2 can retrieve text and metadata from PDFs as well.
+
+You can contribute to [PyPDF2 on GitHub](https://github.com/py-pdf/PyPDF2).
+
+User Guide
+
+  * [Installation](user/installation.html)
+  * [Migration Guide: 1.x to 2.x](user/migration-1-to-2.html)
+  * [Imports and Modules](user/migration-1-to-2.html#imports-and-modules)
+  * [Naming Adjustments](user/migration-1-to-2.html#naming-adjustments)
+  * [Robustness and strict=False](user/robustness.html)
+  * [Exceptions, Warnings, and Log messages](user/suppress-warnings.html)
+  * [Metadata](user/metadata.html)
+  * [Extract Text from a PDF](user/extract-text.html)
+  * [Extract Images](user/extract-images.html)
+  * [Encryption and Decryption of PDFs](user/encryption-decryption.html)
+  * [Merging PDF files](user/merging-pdfs.html)
+  * [Cropping and Transforming PDFs](user/cropping-and-transforming.html)
+  * [Adding a Stamp/Watermark to a PDF](user/add-watermark.html)
+  * [Reading PDF Annotations](user/reading-pdf-annotations.html)
+  * [Adding PDF Annotations](user/adding-pdf-annotations.html)
+  * [Interactions with PDF Forms](user/forms.html)
+  * [Streaming Data with PyPDF2](user/streaming-data.html)
+  * [Reduce PDF Size](user/file-size.html)
+  * [PDF Version Support](user/pdf-version-support.html)
+
+
+
+API Reference
+
+  * [The PdfReader Class](modules/PdfReader.html)
+  * [The PdfWriter Class](modules/PdfWriter.html)
+  * [The PdfMerger Class](modules/PdfMerger.html)
+  * [The PageObject Class](modules/PageObject.html)
+  * [The Transformation Class](modules/Transformation.html)
+  * [The DocumentInformation Class](modules/DocumentInformation.html)
+  * [The XmpInformation Class](modules/XmpInformation.html)
+  * [The Destination Class](modules/Destination.html)
+  * [The RectangleObject Class](modules/RectangleObject.html)
+  * [The Field Class](modules/Field.html)
+  * [The PageRange Class](modules/PageRange.html)
+  * [The AnnotationBuilder Class](modules/AnnotationBuilder.html)
+  * [The Fit Class](modules/Fit.html)
+  * [The PaperSize Class](modules/PaperSize.html)
+
+
+
+Developer Guide
+
+  * [Developer Intro](dev/intro.html)
+  * [The PDF Format](dev/pdf-format.html)
+  * [CMaps](dev/cmaps.html)
+  * [The Deprecation Process](dev/deprecations.html)
+  * [Testing](dev/testing.html)
+
+
+
+About PyPDF2
+
+  * [CHANGELOG](meta/CHANGELOG.html)
+  * [Changelog of PyPDF2 1.X](meta/changelog-v1.html)
+  * [Project Governance](meta/project-governance.html)
+  * [History of PyPDF2](meta/history.html)
+  * [Contributors](meta/CONTRIBUTORS.html)
+  * [PyPDF2 vs X](meta/comparisons.html)
+  * [Frequently-Asked Questions](meta/faq.html)
+
+
+
+# Indices and tables[](#indices-and-tables "Permalink to this heading")
+
+  * [Index](genindex.html)
+
+  * [Module Index](py-modindex.html)
+
+  * [Search Page](search.html)
+
+
+
+
+Note
+
+This page is about PyPDF2. [PyPDF2 is deprecated, please use pypdf](https://pypdf.readthedocs.io/en/latest/user/migration-1-to-2.html)
+
+[Next ](user/installation.html "Installation")
+
+© Copyright 2006 - 2008, Mathieu Fenniak. Revision `1c4173a1`. 
+
+Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org). 

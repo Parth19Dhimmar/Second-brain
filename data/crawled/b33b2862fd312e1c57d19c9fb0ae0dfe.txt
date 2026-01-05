@@ -1,0 +1,662 @@
+Want to run multi-machine training out of the box?[Book a time with our team →](/)
+
+[![Lightning.AI Logo With Text](/static/media/logo-with-text-dark.bdcfdf86bccb9812ed1d3ec873e9e771.svg)](/)
+
+Studios
+
+Products
+
+Solutions
+
+Community
+
+Docs
+
+Pricing
+
+Login
+
+Start free
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/wireframe.svg)
+
+Turn ideas into AI products, Lightning fast.
+
+All full and low code tools to build AI products in one place.Access GPUs, train models, deploy and more with zero setup.Focus on data and models - not infrastructure
+
+Launch a free Studio
+
+Request demo
+
+Over 250k developers and 10k+ companies build AI products faster with Lightning.
+
+![LinkedIn's newsfeed](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-linkedin.webp)
+
+![LinkedIn Logo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-logo-linkedin.svg)
+
+![LinkedIn Logo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-logo-full-linkedin.svg)
+
+LinkedIn used PyTorch Lightning to train a 100B LLM to power their newsfeed.
+
+![NVIDIA NeMo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-nvidia.webp)
+
+![NVIDIA Logo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-logo-nvidia.svg)
+
+![NVIDIA Logo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-logo-full-nvidia.svg)
+
+NVIDIA trains generative AI models with Lightning
+
+![Cisco's Armorblox](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-cisco.webp)
+
+![Cisco Logo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-logo-cisco.svg)
+
+![Cisco Logo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-logo-full-cisco.svg)
+
+Cisco iterates on model development 15× faster to power their security suite, with Lightning Studios
+
+![Goodnotes](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-goodnotes.webp)
+
+![Goodnotes Logo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-logo-goodnotes.svg)
+
+![Goodnotes Logo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-logo-full-goodnotes.svg)
+
+Goodnotes AI features like OCR and spell check are powered by models trained on Lightning Studios
+
+![RunwayML](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-runway.webp)
+
+![Runway Logo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-logo-runway.svg)
+
+![Runway Logo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-logo-full-runway.svg)
+
+RunwayML trains video models 10× faster with PyTorch Lightning
+
+![Stability AI](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-stability.webp)
+
+![Stability AI Logo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-logo-stability.svg)
+
+![Stability AI Logo](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/usecase-logo-full-stability.svg)
+
+Stability AI trains gen AI models (Stable Diffusion) with PyTorch Lightning
+
+Meet Studio
+
+All tools to build AI products. One place. One subscription.
+
+Access GPUs
+
+Data pipes
+
+Datasets
+
+Development
+
+Notebooks
+
+Batch jobs
+
+Train
+
+Deploy
+
+Host AI apps
+
+Code together on cloud GPUs via the browser or any IDE.Setup once - environment and data persist across sessions.
+
+Development replaces
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/replaces-colab.png)
+
+Colab
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/replaces-aws.png)
+
+Sagemaker
+
+Connect any IDE (VSCode, Cursor, etc)
+
+•
+
+Swap GPUs live
+
+•
+
+Persist data
+
+•
+
+Persist env (code, installs, etc...)
+
+Use cloud credits
+
+Use your AWS credits or enterprise spending commitments with Lightning.
+
+Our cloud or yours
+
+Run securely on our cloud or yours. Your data stays safe and under your control, no matter where it lives.
+
+SOC2 · HIPAA
+
+We secure and handle your data with enterprise-grade standards of privacy and protection.
+
+You have to try Studios to believe it.
+
+200k+ builders love Studios
+
+###### Sweeps at scale
+
+"Lightning AI transformed our model fitting process. We fit 1000 models in only two weeks. At our scale, this would have taken months without Lightning AI."
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/homepage/columbia.svg)
+
+###### Matt, Lead Researcher
+
+###### The Paninski Lab, Columbia University
+
+###### Reduce infra setup by 93%
+
+"Lightning reduced our infrastructure setup time by 93%, from 30 days to just 2. It allowed us to focus on developing and deploying AI instead of infrastructure."
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/cisco-logo.svg)
+
+###### Mark
+
+###### Cisco - armorblox
+
+###### Awesome for JAX development
+
+"It’s like developing in VSCode on your laptop, but with free cloud CPUs and persistent state. Parallelizing JAX runs is way simpler than other platforms I’ve tried!"
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/google.png)
+
+###### Kevin Murphy, AI Researcher
+
+###### Google
+
+###### Prototype 6× faster
+
+"Instead of taking 36 hours to know if this model works, we knew by the end of the day."
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/homepage/mit.svg)
+
+###### Sam, Researcher
+
+###### MIT Sustainable Design Lab
+
+###### Debug together
+
+"When it came time for our experts to collaborate on common experiments we ran into the “it works on my machine” problem. With Lightning, we saved hours per week."
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/homepage/earthdaily.jpg)
+
+###### Robin, Researcher
+
+###### EarthDaily Analytics
+
+###### My VSCode IDE on the cloud
+
+"My workflow was drastically simplified. I get all the native VS code plugins in the web browser, with all my dependencies, my code, my compute in one spot. It all just works."
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/homepage/lexset.png)
+
+###### Frances, CEO
+
+###### Lexset
+
+###### Feels local, but on the cloud
+
+"My computer on the cloud. It's like working on my local machine but using the computing power of Lightning."
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/homepage/bordeaux.png)
+
+###### Majd, Researcher
+
+###### Bordeaux Bioinformatics
+
+###### Change GPUs in seconds
+
+"The experience of changing from CPU to GPU was mindblowing. It’s extremely quick and I didn’t even need to think about copying or mounting my files."
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/homepage/user.png)
+
+###### Irina, ML Engineer
+
+###### Lightning User
+
+###### Experiment at lightning speed
+
+"We validated our hypothesis in just 4 weeks for under $10k. It would've taken us at least 70% longer if we did not have the Lightning platform!"
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/homepage/octai.jpg)
+
+###### Malcolm, co-founder
+
+###### GenreX
+
+###### No environment setup
+
+"The environment management is so much better with Lightning AI; like an environment already provisioned for a workspace is a really good model."
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/homepage/aeira.png)
+
+###### Jacqueline, Sr. ML Engineer
+
+###### Aeira
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/wireframe.svg)
+
+From the makers of PyTorch Lightning
+
+Powering visionary AI builders.
+
+Top AI products like Stable Diffusion and NVIDIA’s NeMo are built with Lightning. Whether you're experimenting with your first model, AI app, or deploying AI at enterprise scale. Lightning powers every stage — even pretraining LLMs on 10,000+ GPUs.
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/ptl_growth.svg)
+
+PyTorch Lightning - 160+ million total downloads
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/11/open-source-plt.svg)
+
+PyTorch Lightning
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/11/github-icon.svg)
+
+28.1k
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/lit_serve_icon.svg)
+
+LitServe
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/11/github-icon.svg)
+
+2.3k
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/11/open-source-litgpt.svg)
+
+LitGPT
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/11/github-icon.svg)
+
+10.3k
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/11/open-source-fabric.svg)
+
+Lightning Fabric
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/11/github-icon.svg)
+
+28.1k
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/thunder_logo.svg)
+
+Thunder
+
+![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/11/github-icon.svg)
+
+1.2k
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/wireframe.svg)
+
+Build AI, not infrastructure.
+
+Organizations build internal ML platforms that require 5+ engineers to maintain but offer no unique differentiation. Focus on your unique edge - data, insights and models - not infrastructure.You wouldn't build your own Slack, why build your own ML platform?
+
+5+ engineers
+
+Annual cost to maintain an ML platform.
+
+60% cost savings
+
+Replace 18+ point solutions with one subscription.
+
+Flexible
+
+Bring workflows as-is. Integrate your favorite tools.
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/startups_all-in-one_large.svg)
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/wireframe.svg)
+
+Built for teams of any size.
+
+Manage teams and budgets with enterprise-grade RBAC, data governance and cost controls. Track each dollar from training to deployment. Manage teams with providers like SAML, active directory. Assign compute, budgets, and data access by team or use case.
+
+Startups
+
+Ship AI fast. Focus on your edge: data, models, expertise - not infrastructure.
+
+[Explore startups](/solutions/startups)
+
+Enterprise
+
+Scale AI securely and under budget across thousands of use cases.
+
+[Explore enterprise](/solutions/enterprise)
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/startups_for_teams.webp)
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/wireframe.svg)
+
+Start from a template. Zero setup.
+
+Build and share Studio templates preloaded with everything needed for AI - model weights, dependencies, data, code and more. Customize directly in the browser or your local IDE with zero setup.Jumpstart AI projects in minutes with full code control.
+
+3M community
+
+3 million builders in the Lightning community.
+
+2K templates
+
+Community-built, open source templates.
+
+Private or public
+
+Securely share templates in your private organization.
+
+Pretrain
+
+Data pipes
+
+Batch jobs
+
+Train
+
+Deploy
+
+AI apps
+
+Academia
+
+Vision
+
+LLMs
+
+Agents
+
+Gen AI
+
+RAG
+
+Bio
+
+Predictive
+
+[![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-thumbnail-default.svg)00](//studios/?)
+
+[![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-thumbnail-default.svg)00](//studios/?)
+
+[![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-thumbnail-default.svg)00](//studios/?)
+
+[![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-thumbnail-default.svg)00](//studios/?)
+
+[Explore Gen AI templates](/studios)
+
+Proven enterprise scale
+
+Cut through the hype — Lightning powers models across 10,000+ companies. From startup to enterprise, Lightning scales with you as you grow.
+
+Request demo
+
+Bring your own cloud
+
+Data never leaves your VPC. Fully control your infrastructure security.
+
+Use your cloud spend commits
+
+Use your cloud spend commitments to run compute on your account.
+
+SOC2 · HIPAA
+
+Fully certified and compliant with enterprise encryption and data handling protocols.
+
+Access compute capacity
+
+Get access to GPUs like H100s with no multiyear commitments.
+
+Multi-cloud
+
+Run on AWS, GCP or Azure (soon).
+
+Enterprise RBAC
+
+Enterprise-level role-based access control and mapping to internal roles.
+
+SSO integration
+
+SAML auth or custom integrations
+
+24/7 enterprise support
+
+Dedicated slack channel. We'll jump on a call whenever you need.
+
+Monitor costs in real-time
+
+Stretch cloud credits with efficient GPU use and real-time cost tracking across teams.
+
+CI/CD ready
+
+Automate training pipelines with the Lightning SDK.
+
+Integrate your tools
+
+Lightning integrates with your favorite tools like Splunk, and home grown tools.
+
+Autoscale on demand
+
+Lightning autoscales infrastructure to zero when not in use to cut cloud costs.
+
+![](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/wireframe.svg)
+
+Get 22 free GPU hours monthly.Then pay-as-you-go.
+
+Start on the free tier with 22 free GPU hours. Pay as you go for more hours. Upgrade for enterprise features like bring your own cloud, use your AWS credits, SOC2, HIPPA, and 24/7 support.Run 1 Studio free 24/7*. No credit card. No commitments.
+
+Launch a free Studio
+
+Request demo
+
+*Free Studios run 24/7 but require restart every 4 hours. No restrictions in Pro or higher.
+
+CPU
+
+1 GPU
+
+4 GPU
+
+8 GPU
+
+Trainium
+
+Custom cluster
+
+Bring your AWS account
+
+Name| GPUs| VRAM| Hourly price*| Hourly price* (interruptible)| Free hours monthly**  
+---|---|---|---|---|---  
+T4| 1| 16 GB| $0.68| $0.42| 22  
+L4| 1| 24 GB| $0.70| $0.61| 22  
+A10G| 1| 24 GB| $1.80| $1.20| 8  
+L40S| 1| 48 GB| $2.17| $1.45| 7  
+  
+*Compute billed by the second.
+
+**Free GPU hrs with 15 monthly free credits.
+
+Free
+
+$0
+
+Students, researchers, hobbyists
+
+Choose Free
+
+Key features
+
+Pay as you go
+
+15 monthly Lightning credits included
+
+1 free active Studio, 4-hour restarts.
+
+Single GPU Studios (T4, L4, A10G, L40S)
+
+2 core Trainium Studios
+
+Unlimited background execution
+
+32 core CPU Studios
+
+Connect any local IDE, or ssh
+
+Persistent storage (100GB limit)
+
+Multiplayer live collaboration
+
+Use private and public models
+
+Access optimized Studios
+
+Automate with our SDK
+
+Community support (via Discord)
+
+Pro
+
+Monthly
+
+Annual
+
+$600
+
+-20%
+
+$50
+
+per month
+
+Developers, researchers, scientists
+
+Choose Pro
+
+Everything in Free, plus:
+
+Pay as you go
+
+40 monthly Lightning credits included
+
+1 free active Studio, run 24/7.
+
+Multi-GPU Studios (T4, L4, A10G, L40S)
+
+Save ~80% with interruptible (spot)
+
+64 and 96 core CPU Studios
+
+Multi-node training (up to 4 machines)
+
+Persistent storage (2TB limit)
+
+Connect public, private S3 buckets
+
+Distributed data prep (up to 4 machines)
+
+Reserve machines for jobs
+
+Community support (via Discord)
+
+Teams
+
+Monthly
+
+Annual
+
+$1680
+
+-15%
+
+$140
+
+per user per month
+
+Teams, startups
+
+Choose Teams
+
+Everything in Pro, plus:
+
+50 monthly Lightning credits included
+
+A100, H100, H200 GPUs availability
+
+32 core Trainium Studios
+
+Interruptible instances
+
+Use Lightning GPU quotas or your own
+
+Multi-node training (up to 32 machines)
+
+Use via AWS marketplace
+
+Persistent storage (unlimited)
+
+Real-time cost controls
+
+SAML/SSO
+
+99.90% uptime SLA
+
+Community support (via Discord)
+
+Enterprise
+
+Custom
+
+Enterprise-grade AI
+
+Request a trial
+
+Everything in Teams, plus:
+
+Bring your AWS account and credits
+
+Bulk seats and credit discounts
+
+Multi-node (no limit)
+
+Any instance types
+
+Role-based access controls
+
+SOC2 (type 2) compliance
+
+Deploy on your own VPC
+
+Run inside company firewall
+
+Data governance controls
+
+Custom resource tagging
+
+Bring your own encryption keys
+
+Bring your own images
+
+Audit logs
+
+99.95% uptime SLA (+ dedicated support)
+
+[![Lightning.AI Logo With Text](/static/media/logo-with-text-dark.bdcfdf86bccb9812ed1d3ec873e9e771.svg)](/)
+
+[![Join us on Discord](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/discord-icon.svg)](https://discord.gg/MWAEvnC5fU)[![Follow us on Twitter](/static/media/icon-social-twitter.727156ae251aac8e8ad0721874a5b8cf.svg)](https://x.com/LightningAI)[![Connect with us on LinkedIn](/static/media/icon-social-linkedin.d050b1bb25a6b8eceb406da4d44f7435.svg)](https://www.linkedin.com/company/pytorch-lightning/)[![Watch our YouTube channel](/static/media/icon-social-youtube.449171b2016a0e612af033acd2ff9823.svg)](https://www.youtube.com/c/PyTorchLightning)
+
+About
+
+[About Lightning AI](/about)[Pricing](/pricing/)[Terms of Service](/pages/policies/terms-of-service/)[Privacy Policy](/pages/policies/privacy-policy/)
+
+Community
+
+[Forums](https://forums.pytorchlightning.ai/)[r/LightningAI](https://www.reddit.com/r/lightningAI/)[GitHub](https://github.com/Lightning-AI/lightning)[Resources](/pages/resources/)[AI Education](/pages/ai-education/)[Careers](/careers)
+
+Docs
+
+[Lightning AI Studio](/docs/overview/studios/)[PyTorch Lightning](/docs/pytorch/stable)[LitServe](/docs/fabric/stable)[Fabric](/docs/litserve/stable)[LitGPT](https://github.com/Lightning-AI/litgpt/blob/main/tutorials/0_to_litgpt.md)[TorchMetrics](/docs/torchmetrics/stable)[Thunder](https://lightning-thunder.readthedocs.io/en/stable/)

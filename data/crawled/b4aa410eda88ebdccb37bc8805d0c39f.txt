@@ -1,0 +1,1191 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FUnstructured-IO%2Funstructured%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FUnstructured-IO%2Funstructured%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=Unstructured-IO%2Funstructured) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ Unstructured-IO ](/Unstructured-IO) / **[unstructured](/Unstructured-IO/unstructured) ** Public
+
+  * [ Notifications ](/login?return_to=%2FUnstructured-IO%2Funstructured) You must be signed in to change notification settings
+  * [ Fork 820 ](/login?return_to=%2FUnstructured-IO%2Funstructured)
+  * [ Star  9.8k ](/login?return_to=%2FUnstructured-IO%2Funstructured)
+
+
+
+
+Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines. 
+
+[www.unstructured.io/](https://www.unstructured.io/ "https://www.unstructured.io/")
+
+### License
+
+[ Apache-2.0 license ](/Unstructured-IO/unstructured/blob/main/LICENSE.md)
+
+[ 9.8k stars ](/Unstructured-IO/unstructured/stargazers) [ 820 forks ](/Unstructured-IO/unstructured/forks) [ Branches ](/Unstructured-IO/unstructured/branches) [ Tags ](/Unstructured-IO/unstructured/tags) [ Activity ](/Unstructured-IO/unstructured/activity)
+
+[ Star  ](/login?return_to=%2FUnstructured-IO%2Funstructured)
+
+[ Notifications ](/login?return_to=%2FUnstructured-IO%2Funstructured) You must be signed in to change notification settings
+
+  * [ Code ](/Unstructured-IO/unstructured)
+  * [ Issues 133 ](/Unstructured-IO/unstructured/issues)
+  * [ Pull requests 54 ](/Unstructured-IO/unstructured/pulls)
+  * [ Discussions ](/Unstructured-IO/unstructured/discussions)
+  * [ Actions ](/Unstructured-IO/unstructured/actions)
+  * [ Projects 1 ](/Unstructured-IO/unstructured/projects)
+  * [ Security ](/Unstructured-IO/unstructured/security)
+  * [ Insights ](/Unstructured-IO/unstructured/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/Unstructured-IO/unstructured)
+  * [ Issues  ](/Unstructured-IO/unstructured/issues)
+  * [ Pull requests  ](/Unstructured-IO/unstructured/pulls)
+  * [ Discussions  ](/Unstructured-IO/unstructured/discussions)
+  * [ Actions  ](/Unstructured-IO/unstructured/actions)
+  * [ Projects  ](/Unstructured-IO/unstructured/projects)
+  * [ Security  ](/Unstructured-IO/unstructured/security)
+  * [ Insights  ](/Unstructured-IO/unstructured/pulse)
+
+
+
+# Unstructured-IO/unstructured
+
+main
+
+[**207** Branches](/Unstructured-IO/unstructured/branches)[**175** Tags](/Unstructured-IO/unstructured/tags)
+
+[](/Unstructured-IO/unstructured/branches)[](/Unstructured-IO/unstructured/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![plutasnyy](https://avatars.githubusercontent.com/u/25677353?v=4&size=40)](/plutasnyy)[plutasnyy](/Unstructured-IO/unstructured/commits?author=plutasnyy)[Bump 0.16.14 (](/Unstructured-IO/unstructured/commit/efd9f648a78e77b4b1a5346b15ea4d4a4488a180)[#3879](https://github.com/Unstructured-IO/unstructured/pull/3879)[)](/Unstructured-IO/unstructured/commit/efd9f648a78e77b4b1a5346b15ea4d4a4488a180)Jan 20, 2025[efd9f64](/Unstructured-IO/unstructured/commit/efd9f648a78e77b4b1a5346b15ea4d4a4488a180) · Jan 20, 2025
+
+## History
+
+[1,663 Commits](/Unstructured-IO/unstructured/commits/main/)[](/Unstructured-IO/unstructured/commits/main/)  
+[.github](/Unstructured-IO/unstructured/tree/main/.github ".github")| [.github](/Unstructured-IO/unstructured/tree/main/.github ".github")| [fix: fix multiple values for infer_table_structure (](/Unstructured-IO/unstructured/commit/27cd53bd4519c5402c5b11b5080940fd37006832 "fix: fix multiple values for infer_table_structure \(#3870\)
+This PR fixes a bug when using `partition` to partition an email with
+image attachments with hi_res and allow table structure inference -> the
+partitioning of the image would encounter a value error: `got multiple
+values for keyword argument 'infer_table_structure'`.
+This is because pass `kwargs` into partition "other" types of files in
+this
+\[block\]\(https://github.com/Unstructured-IO/unstructured/blob/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf/unstructured/partition/auto.py#L270-L280\)
+`infer_table_structure` is packaged into `partitioning_kwargs`. Then for
+email at least when there are attachments that can be partitioned with
+`hi_res` we pass that dict of `kwargs` right back into `partition` entry
+-> so when we get
+\[here\]\(https://github.com/Unstructured-IO/unstructured/blob/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf/unstructured/partition/auto.py#L222-L235\)
+we are both specifying explicitly `infer_table_structure` and have it in
+`kwargs` variable
+The fix is to detect first if `kwargs` already contains
+`infer_table_structure` and if yes use that and pop it from `kwargs`.
+---------
+Co-authored-by: Kamil Plucinski <kamil.plucinski@deepsense.ai>
+Co-authored-by: christinestraub <christinemstraub@gmail.com>
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: christinestraub <christinestraub@users.noreply.github.com>")[#3870](https://github.com/Unstructured-IO/unstructured/pull/3870)[)](/Unstructured-IO/unstructured/commit/27cd53bd4519c5402c5b11b5080940fd37006832 "fix: fix multiple values for infer_table_structure \(#3870\)
+This PR fixes a bug when using `partition` to partition an email with
+image attachments with hi_res and allow table structure inference -> the
+partitioning of the image would encounter a value error: `got multiple
+values for keyword argument 'infer_table_structure'`.
+This is because pass `kwargs` into partition "other" types of files in
+this
+\[block\]\(https://github.com/Unstructured-IO/unstructured/blob/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf/unstructured/partition/auto.py#L270-L280\)
+`infer_table_structure` is packaged into `partitioning_kwargs`. Then for
+email at least when there are attachments that can be partitioned with
+`hi_res` we pass that dict of `kwargs` right back into `partition` entry
+-> so when we get
+\[here\]\(https://github.com/Unstructured-IO/unstructured/blob/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf/unstructured/partition/auto.py#L222-L235\)
+we are both specifying explicitly `infer_table_structure` and have it in
+`kwargs` variable
+The fix is to detect first if `kwargs` already contains
+`infer_table_structure` and if yes use that and pop it from `kwargs`.
+---------
+Co-authored-by: Kamil Plucinski <kamil.plucinski@deepsense.ai>
+Co-authored-by: christinestraub <christinemstraub@gmail.com>
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: christinestraub <christinestraub@users.noreply.github.com>")| Jan 17, 2025  
+[discord-test](/Unstructured-IO/unstructured/tree/main/discord-test "discord-test")| [discord-test](/Unstructured-IO/unstructured/tree/main/discord-test "discord-test")| [Feat: Discord connector (](/Unstructured-IO/unstructured/commit/830d67f6539a245e2d4f71cd7740d51d258acb83 "Feat: Discord connector \(#515\)
+* Initial commit of discord connector
+based off of initial work by @tnachen with modifications
+https://github.com/tnachen/unstructured/tree/tnachen/discord_connector
+* Add test file
+change format of imports
+* working version of the connector
+More work to be done to tidy it up and add any additional options
+* add to test fixtures update
+* fix spacing
+* tests working, switching to bot testing channel
+* add additional channel
+add reprocess to tests
+* add try clause to allow for exit on error
+Update changelog and bump version
+* add updated expected output filtes
+* add logic to check if —discord-period is an integer
+Add more to option description
+* fix lint error
+* Update discord reqs
+* PR feedback
+* add newline
+* another newline
+---------
+Co-authored-by: Justin Bossert <packerbacker21@hotmail.com>")[#515](https://github.com/Unstructured-IO/unstructured/pull/515)[)](/Unstructured-IO/unstructured/commit/830d67f6539a245e2d4f71cd7740d51d258acb83 "Feat: Discord connector \(#515\)
+* Initial commit of discord connector
+based off of initial work by @tnachen with modifications
+https://github.com/tnachen/unstructured/tree/tnachen/discord_connector
+* Add test file
+change format of imports
+* working version of the connector
+More work to be done to tidy it up and add any additional options
+* add to test fixtures update
+* fix spacing
+* tests working, switching to bot testing channel
+* add additional channel
+add reprocess to tests
+* add try clause to allow for exit on error
+Update changelog and bump version
+* add updated expected output filtes
+* add logic to check if —discord-period is an integer
+Add more to option description
+* fix lint error
+* Update discord reqs
+* PR feedback
+* add newline
+* another newline
+---------
+Co-authored-by: Justin Bossert <packerbacker21@hotmail.com>")| May 16, 2023  
+[docker](/Unstructured-IO/unstructured/tree/main/docker "docker")| [docker](/Unstructured-IO/unstructured/tree/main/docker "docker")| [build: downgrade](/Unstructured-IO/unstructured/commit/d0211cc41faa3988b0cfdefa3e0a8f80adbf013b "build: downgrade `nltk` version \(#3527\)
+This PR aims to roll back `nltk` to `3.8.1` which bumped to `3.8.2` in
+https://github.com/Unstructured-IO/unstructured/pull/3512 because
+`3.8.2` is no longer available in PyPI due to some
+issues\(https://github.com/nltk/nltk/issues/3301\)") `[nltk](/Unstructured-IO/unstructured/commit/d0211cc41faa3988b0cfdefa3e0a8f80adbf013b "build: downgrade `nltk` version \(#3527\)
+This PR aims to roll back `nltk` to `3.8.1` which bumped to `3.8.2` in
+https://github.com/Unstructured-IO/unstructured/pull/3512 because
+`3.8.2` is no longer available in PyPI due to some
+issues\(https://github.com/nltk/nltk/issues/3301\)")` [version (](/Unstructured-IO/unstructured/commit/d0211cc41faa3988b0cfdefa3e0a8f80adbf013b "build: downgrade `nltk` version \(#3527\)
+This PR aims to roll back `nltk` to `3.8.1` which bumped to `3.8.2` in
+https://github.com/Unstructured-IO/unstructured/pull/3512 because
+`3.8.2` is no longer available in PyPI due to some
+issues\(https://github.com/nltk/nltk/issues/3301\)")[#3527](https://github.com/Unstructured-IO/unstructured/pull/3527)[)](/Unstructured-IO/unstructured/commit/d0211cc41faa3988b0cfdefa3e0a8f80adbf013b "build: downgrade `nltk` version \(#3527\)
+This PR aims to roll back `nltk` to `3.8.1` which bumped to `3.8.2` in
+https://github.com/Unstructured-IO/unstructured/pull/3512 because
+`3.8.2` is no longer available in PyPI due to some
+issues\(https://github.com/nltk/nltk/issues/3301\)")| Aug 16, 2024  
+[docs](/Unstructured-IO/unstructured/tree/main/docs "docs")| [docs](/Unstructured-IO/unstructured/tree/main/docs "docs")| [feat/remove ingest code, use new dep for tests (](/Unstructured-IO/unstructured/commit/9049e4e2be5a66e23135aa69744d2b00ac8fd2b3 "feat/remove ingest code, use new dep for tests \(#3595\)
+### Description
+Alternative to https://github.com/Unstructured-IO/unstructured/pull/3572
+but maintaining all ingest tests, running them by pulling in the latest
+version of unstructured-ingest.
+---------
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: rbiseck3 <rbiseck3@users.noreply.github.com>
+Co-authored-by: Christine Straub <christinemstraub@gmail.com>
+Co-authored-by: christinestraub <christinestraub@users.noreply.github.com>")[#3595](https://github.com/Unstructured-IO/unstructured/pull/3595)[)](/Unstructured-IO/unstructured/commit/9049e4e2be5a66e23135aa69744d2b00ac8fd2b3 "feat/remove ingest code, use new dep for tests \(#3595\)
+### Description
+Alternative to https://github.com/Unstructured-IO/unstructured/pull/3572
+but maintaining all ingest tests, running them by pulling in the latest
+version of unstructured-ingest.
+---------
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: rbiseck3 <rbiseck3@users.noreply.github.com>
+Co-authored-by: Christine Straub <christinemstraub@gmail.com>
+Co-authored-by: christinestraub <christinestraub@users.noreply.github.com>")| Oct 15, 2024  
+[example-docs](/Unstructured-IO/unstructured/tree/main/example-docs "example-docs")| [example-docs](/Unstructured-IO/unstructured/tree/main/example-docs "example-docs")| [feat: add ndjson support (](/Unstructured-IO/unstructured/commit/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf "feat: add ndjson support \(#3845\)
+### Description
+Add ndjson file type support and treat is the same as json files.")[#3845](https://github.com/Unstructured-IO/unstructured/pull/3845)[)](/Unstructured-IO/unstructured/commit/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf "feat: add ndjson support \(#3845\)
+### Description
+Add ndjson file type support and treat is the same as json files.")| Dec 19, 2024  
+[img](/Unstructured-IO/unstructured/tree/main/img "img")| [img](/Unstructured-IO/unstructured/tree/main/img "img")| [docs: update to new logo (](/Unstructured-IO/unstructured/commit/21b45ae8b0084f59926a8aac5a3b84ff00c40746 "docs: update to new logo \(#1937\)
+### Summary
+Updates the docs and README to use the new Unstructured logo. The README
+links to the raw GitHub user content, so the changes isn't reflected in
+the README on the branch, but will update after the image is merged to
+main.
+### Testing
+Here's what the updated docs look like locally:
+<img width="237" alt="image"
+src="https://github.com/Unstructured-IO/unstructured/assets/1635179/f13d8b4b-3098-4823-bd16-a6c8dfcffe67">
+<img width="1509" alt="image"
+src="https://github.com/Unstructured-IO/unstructured/assets/1635179/3b8aae5e-34aa-48c0-90f9-f5f3f0f1e26d">
+<img width="1490" alt="image"
+src="https://github.com/Unstructured-IO/unstructured/assets/1635179/e82a876f-b19a-4573-b6bb-1c0215d2d7a9">")[#1937](https://github.com/Unstructured-IO/unstructured/pull/1937)[)](/Unstructured-IO/unstructured/commit/21b45ae8b0084f59926a8aac5a3b84ff00c40746 "docs: update to new logo \(#1937\)
+### Summary
+Updates the docs and README to use the new Unstructured logo. The README
+links to the raw GitHub user content, so the changes isn't reflected in
+the README on the branch, but will update after the image is merged to
+main.
+### Testing
+Here's what the updated docs look like locally:
+<img width="237" alt="image"
+src="https://github.com/Unstructured-IO/unstructured/assets/1635179/f13d8b4b-3098-4823-bd16-a6c8dfcffe67">
+<img width="1509" alt="image"
+src="https://github.com/Unstructured-IO/unstructured/assets/1635179/3b8aae5e-34aa-48c0-90f9-f5f3f0f1e26d">
+<img width="1490" alt="image"
+src="https://github.com/Unstructured-IO/unstructured/assets/1635179/e82a876f-b19a-4573-b6bb-1c0215d2d7a9">")| Oct 31, 2023  
+[requirements](/Unstructured-IO/unstructured/tree/main/requirements "requirements")| [requirements](/Unstructured-IO/unstructured/tree/main/requirements "requirements")| [chore: dependency bumps, release commit for 0.16.12 (](/Unstructured-IO/unstructured/commit/1a94d95e47621c602cd662ba0b689e5796497487 "chore: dependency bumps, release commit for 0.16.12 \(#3831\)")[#3831](https://github.com/Unstructured-IO/unstructured/pull/3831)[)](/Unstructured-IO/unstructured/commit/1a94d95e47621c602cd662ba0b689e5796497487 "chore: dependency bumps, release commit for 0.16.12 \(#3831\)")| Jan 5, 2025  
+[scripts](/Unstructured-IO/unstructured/tree/main/scripts "scripts")| [scripts](/Unstructured-IO/unstructured/tree/main/scripts "scripts")| [add script to render html from unstructured elements (](/Unstructured-IO/unstructured/commit/4140f625d0a20dc09c9f4ce8ac72ad85b5e62446 "add script to render html from unstructured elements \(#3799\)
+Script to render HTML from unstructured elements.
+NOTE: This script is not intended to be used as a module.
+NOTE: This script is only intended to be used with outputs with
+non-empty `metadata.text_as_html`.
+TODO: It was noted that unstructured_elements_to_ontology func always
+returns a single page
+This script is using helper functions to handle multiple pages. I am not
+sure if this was intended, or it is a bug - if it is a bug it would
+require bit longer debugging - to make it usable fast I used
+workarounds.
+Usage: test with any outputs with non-empty `metadata.text_as_html`.
+Example files attached.
+`\[Example-Bill-of-Lading-Waste.docx.pdf.json\]\(https://github.com/user-attachments/files/17922898/Example-Bill-of-Lading-Waste.docx.pdf.json\)`
+
+\[Breast_Cancer1-5.pdf.json\]\(https://github.com/user-attachments/files/17922899/Breast_Cancer1-5.pdf.json\)")[#3799](https://github.com/Unstructured-IO/unstructured/pull/3799)[)](/Unstructured-IO/unstructured/commit/4140f625d0a20dc09c9f4ce8ac72ad85b5e62446 "add script to render html from unstructured elements \(#3799\)
+Script to render HTML from unstructured elements.
+NOTE: This script is not intended to be used as a module.
+NOTE: This script is only intended to be used with outputs with
+non-empty `metadata.text_as_html`.
+TODO: It was noted that unstructured_elements_to_ontology func always
+returns a single page
+This script is using helper functions to handle multiple pages. I am not
+sure if this was intended, or it is a bug - if it is a bug it would
+require bit longer debugging - to make it usable fast I used
+workarounds.
+Usage: test with any outputs with non-empty `metadata.text_as_html`.
+Example files attached.
+`\[Example-Bill-of-Lading-Waste.docx.pdf.json\]\(https://github.com/user-attachments/files/17922898/Example-Bill-of-Lading-Waste.docx.pdf.json\)`
+
+\[Breast_Cancer1-5.pdf.json\]\(https://github.com/user-attachments/files/17922899/Breast_Cancer1-5.pdf.json\)")| Dec 5, 2024  
+[test_unstructured](/Unstructured-IO/unstructured/tree/main/test_unstructured "test_unstructured")| [test_unstructured](/Unstructured-IO/unstructured/tree/main/test_unstructured "test_unstructured")| [fix: fix multiple values for infer_table_structure (](/Unstructured-IO/unstructured/commit/27cd53bd4519c5402c5b11b5080940fd37006832 "fix: fix multiple values for infer_table_structure \(#3870\)
+This PR fixes a bug when using `partition` to partition an email with
+image attachments with hi_res and allow table structure inference -> the
+partitioning of the image would encounter a value error: `got multiple
+values for keyword argument 'infer_table_structure'`.
+This is because pass `kwargs` into partition "other" types of files in
+this
+\[block\]\(https://github.com/Unstructured-IO/unstructured/blob/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf/unstructured/partition/auto.py#L270-L280\)
+`infer_table_structure` is packaged into `partitioning_kwargs`. Then for
+email at least when there are attachments that can be partitioned with
+`hi_res` we pass that dict of `kwargs` right back into `partition` entry
+-> so when we get
+\[here\]\(https://github.com/Unstructured-IO/unstructured/blob/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf/unstructured/partition/auto.py#L222-L235\)
+we are both specifying explicitly `infer_table_structure` and have it in
+`kwargs` variable
+The fix is to detect first if `kwargs` already contains
+`infer_table_structure` and if yes use that and pop it from `kwargs`.
+---------
+Co-authored-by: Kamil Plucinski <kamil.plucinski@deepsense.ai>
+Co-authored-by: christinestraub <christinemstraub@gmail.com>
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: christinestraub <christinestraub@users.noreply.github.com>")[#3870](https://github.com/Unstructured-IO/unstructured/pull/3870)[)](/Unstructured-IO/unstructured/commit/27cd53bd4519c5402c5b11b5080940fd37006832 "fix: fix multiple values for infer_table_structure \(#3870\)
+This PR fixes a bug when using `partition` to partition an email with
+image attachments with hi_res and allow table structure inference -> the
+partitioning of the image would encounter a value error: `got multiple
+values for keyword argument 'infer_table_structure'`.
+This is because pass `kwargs` into partition "other" types of files in
+this
+\[block\]\(https://github.com/Unstructured-IO/unstructured/blob/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf/unstructured/partition/auto.py#L270-L280\)
+`infer_table_structure` is packaged into `partitioning_kwargs`. Then for
+email at least when there are attachments that can be partitioned with
+`hi_res` we pass that dict of `kwargs` right back into `partition` entry
+-> so when we get
+\[here\]\(https://github.com/Unstructured-IO/unstructured/blob/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf/unstructured/partition/auto.py#L222-L235\)
+we are both specifying explicitly `infer_table_structure` and have it in
+`kwargs` variable
+The fix is to detect first if `kwargs` already contains
+`infer_table_structure` and if yes use that and pop it from `kwargs`.
+---------
+Co-authored-by: Kamil Plucinski <kamil.plucinski@deepsense.ai>
+Co-authored-by: christinestraub <christinemstraub@gmail.com>
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: christinestraub <christinestraub@users.noreply.github.com>")| Jan 17, 2025  
+[test_unstructured_ingest](/Unstructured-IO/unstructured/tree/main/test_unstructured_ingest "test_unstructured_ingest")| [test_unstructured_ingest](/Unstructured-IO/unstructured/tree/main/test_unstructured_ingest "test_unstructured_ingest")| [fix: fix multiple values for infer_table_structure (](/Unstructured-IO/unstructured/commit/27cd53bd4519c5402c5b11b5080940fd37006832 "fix: fix multiple values for infer_table_structure \(#3870\)
+This PR fixes a bug when using `partition` to partition an email with
+image attachments with hi_res and allow table structure inference -> the
+partitioning of the image would encounter a value error: `got multiple
+values for keyword argument 'infer_table_structure'`.
+This is because pass `kwargs` into partition "other" types of files in
+this
+\[block\]\(https://github.com/Unstructured-IO/unstructured/blob/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf/unstructured/partition/auto.py#L270-L280\)
+`infer_table_structure` is packaged into `partitioning_kwargs`. Then for
+email at least when there are attachments that can be partitioned with
+`hi_res` we pass that dict of `kwargs` right back into `partition` entry
+-> so when we get
+\[here\]\(https://github.com/Unstructured-IO/unstructured/blob/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf/unstructured/partition/auto.py#L222-L235\)
+we are both specifying explicitly `infer_table_structure` and have it in
+`kwargs` variable
+The fix is to detect first if `kwargs` already contains
+`infer_table_structure` and if yes use that and pop it from `kwargs`.
+---------
+Co-authored-by: Kamil Plucinski <kamil.plucinski@deepsense.ai>
+Co-authored-by: christinestraub <christinemstraub@gmail.com>
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: christinestraub <christinestraub@users.noreply.github.com>")[#3870](https://github.com/Unstructured-IO/unstructured/pull/3870)[)](/Unstructured-IO/unstructured/commit/27cd53bd4519c5402c5b11b5080940fd37006832 "fix: fix multiple values for infer_table_structure \(#3870\)
+This PR fixes a bug when using `partition` to partition an email with
+image attachments with hi_res and allow table structure inference -> the
+partitioning of the image would encounter a value error: `got multiple
+values for keyword argument 'infer_table_structure'`.
+This is because pass `kwargs` into partition "other" types of files in
+this
+\[block\]\(https://github.com/Unstructured-IO/unstructured/blob/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf/unstructured/partition/auto.py#L270-L280\)
+`infer_table_structure` is packaged into `partitioning_kwargs`. Then for
+email at least when there are attachments that can be partitioned with
+`hi_res` we pass that dict of `kwargs` right back into `partition` entry
+-> so when we get
+\[here\]\(https://github.com/Unstructured-IO/unstructured/blob/50ea6fe7fc324efa09398898dc35d0cd4e78b1cf/unstructured/partition/auto.py#L222-L235\)
+we are both specifying explicitly `infer_table_structure` and have it in
+`kwargs` variable
+The fix is to detect first if `kwargs` already contains
+`infer_table_structure` and if yes use that and pop it from `kwargs`.
+---------
+Co-authored-by: Kamil Plucinski <kamil.plucinski@deepsense.ai>
+Co-authored-by: christinestraub <christinemstraub@gmail.com>
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: christinestraub <christinestraub@users.noreply.github.com>")| Jan 17, 2025  
+[typings](/Unstructured-IO/unstructured/tree/main/typings "typings")| [typings](/Unstructured-IO/unstructured/tree/main/typings "typings")| [rfctr(part): prepare for pluggable auto-partitioners 1 (](/Unstructured-IO/unstructured/commit/3bab9d93e60a968edaebd68b15ac997c4671990c "rfctr\(part\): prepare for pluggable auto-partitioners 1 \(#3655\)
+**Summary**
+In preparation for pluggable auto-partitioners simplify metadata as
+discussed.
+**Additional Context**
+- Pluggable auto-partitioners requires partitioners to have a consistent
+call signature. An arbitrary partitioner provided at runtime needs to
+have a call signature that is known and consistent. Basically
+`partition_x\(filename, *, file, **kwargs\)`.
+- The current `auto.partition\(\)` is highly coupled to each distinct
+file-type partitioner, deciding which arguments to forward to each.
+- This is driven by the existence of "delegating" partitioners, those
+that convert their file-type and then call a second partitioner to do
+the actual partitioning. Both the delegating and proxy partitioners are
+decorated with metadata-post-processing decorators and those decorators
+are not idempotent. We call the situation where those decorators would
+run twice "double-decorating". For example, EPUB converts to HTML and
+calls `partition_html\(\)` and both `partition_epub\(\)` and
+`partition_html\(\)` are decorated.
+- The way double-decorating has been avoided in the past is to avoid
+sending the arguments the metadata decorators are sensitive to to the
+proxy partitioner. This is very obscure, complex to reason about,
+error-prone, and just overall not a viable strategy. The better solution
+is to not decorate delegating partitioners and let the proxy partitioner
+handle all the metadata.
+- This first step in preparation for that is part of simplifying the
+metadata processing by removing unused or unwanted legacy parameters.
+- `date_from_file_object` is a misnomer because a file-object never
+contains last-modified data.
+- It can never produce useful results in the API where last-modified
+information must be provided by `metadata_last_modified`.
+- It is an undocumented parameter so not in use.
+- Using it can produce incorrect metadata.")[#3655](https://github.com/Unstructured-IO/unstructured/pull/3655)[)](/Unstructured-IO/unstructured/commit/3bab9d93e60a968edaebd68b15ac997c4671990c "rfctr\(part\): prepare for pluggable auto-partitioners 1 \(#3655\)
+**Summary**
+In preparation for pluggable auto-partitioners simplify metadata as
+discussed.
+**Additional Context**
+- Pluggable auto-partitioners requires partitioners to have a consistent
+call signature. An arbitrary partitioner provided at runtime needs to
+have a call signature that is known and consistent. Basically
+`partition_x\(filename, *, file, **kwargs\)`.
+- The current `auto.partition\(\)` is highly coupled to each distinct
+file-type partitioner, deciding which arguments to forward to each.
+- This is driven by the existence of "delegating" partitioners, those
+that convert their file-type and then call a second partitioner to do
+the actual partitioning. Both the delegating and proxy partitioners are
+decorated with metadata-post-processing decorators and those decorators
+are not idempotent. We call the situation where those decorators would
+run twice "double-decorating". For example, EPUB converts to HTML and
+calls `partition_html\(\)` and both `partition_epub\(\)` and
+`partition_html\(\)` are decorated.
+- The way double-decorating has been avoided in the past is to avoid
+sending the arguments the metadata decorators are sensitive to to the
+proxy partitioner. This is very obscure, complex to reason about,
+error-prone, and just overall not a viable strategy. The better solution
+is to not decorate delegating partitioners and let the proxy partitioner
+handle all the metadata.
+- This first step in preparation for that is part of simplifying the
+metadata processing by removing unused or unwanted legacy parameters.
+- `date_from_file_object` is a misnomer because a file-object never
+contains last-modified data.
+- It can never produce useful results in the API where last-modified
+information must be provided by `metadata_last_modified`.
+- It is an undocumented parameter so not in use.
+- Using it can produce incorrect metadata.")| Sep 24, 2024  
+[unstructured](/Unstructured-IO/unstructured/tree/main/unstructured "unstructured")| [unstructured](/Unstructured-IO/unstructured/tree/main/unstructured "unstructured")| [Bump 0.16.14 (](/Unstructured-IO/unstructured/commit/efd9f648a78e77b4b1a5346b15ea4d4a4488a180 "Bump 0.16.14 \(#3879\)")[#3879](https://github.com/Unstructured-IO/unstructured/pull/3879)[)](/Unstructured-IO/unstructured/commit/efd9f648a78e77b4b1a5346b15ea4d4a4488a180 "Bump 0.16.14 \(#3879\)")| Jan 20, 2025  
+[.coveragerc](/Unstructured-IO/unstructured/blob/main/.coveragerc ".coveragerc")| [.coveragerc](/Unstructured-IO/unstructured/blob/main/.coveragerc ".coveragerc")| [Chore (refactor): support table extraction with pre-computed ocr data (](/Unstructured-IO/unstructured/commit/ce40cdc55f843fe1865b4eef0c194342fa3763c5 "Chore \(refactor\): support table extraction with pre-computed ocr data \(#1801\)
+### Summary
+Table OCR refactor, move the OCR part for table model in inference repo
+to unst repo.
+* Before this PR, table model extracts OCR tokens with texts and
+bounding box and fills the tokens to the table structure in inference
+repo. This means we need to do an additional OCR for tables.
+* After this PR, we use the OCR data from entire page OCR and pass the
+OCR tokens to inference repo, which means we only do one OCR for the
+entire document.
+**Tech details:**
+* Combined env `ENTIRE_PAGE_OCR` and `TABLE_OCR` to `OCR_AGENT`, this
+means we use the same OCR agent for entire page and tables since we only
+do one OCR.
+* Bump inference repo to `0.7.9`, which allow table model in inference
+to use pre-computed OCR data from unst repo. Please check in
+\[PR\]\(https://github.com/Unstructured-IO/unstructured-inference/pull/256\).
+* All notebooks lint are made by `make tidy`
+* This PR also fixes
+\[issue\]\(https://github.com/Unstructured-IO/unstructured/issues/1564\),
+I've added test for the issue in
+`test_pdf.py::test_partition_pdf_hi_table_extraction_with_languages`
+* Add same scaling logic to image \[similar to previous Table
+OCR\]\(https://github.com/Unstructured-IO/unstructured-inference/blob/main/unstructured_inference/models/tables.py#L109C1-L113\),
+but now scaling is applied to entire image
+### Test
+* Not much to manually testing expect table extraction still works
+* But due to change on scaling and use pre-computed OCR data from entire
+page, there are some slight \(better\) changes on table output, here is an
+comparison on test outputs i found from the same test
+`test_partition_image_with_table_extraction`:
+screen shot for table in `layout-parser-paper-with-table.jpg`:
+<img width="343" alt="expected"
+src="https://github.com/Unstructured-IO/unstructured/assets/63475068/278d7665-d212-433d-9a05-872c4502725c">
+before refactor:
+<img width="709" alt="before"
+src="https://github.com/Unstructured-IO/unstructured/assets/63475068/347fbc3b-f52b-45b5-97e9-6f633eaa0d5e">
+after refactor:
+<img width="705" alt="after"
+src="https://github.com/Unstructured-IO/unstructured/assets/63475068/b3cbd809-cf67-4e75-945a-5cbd06b33b2d">
+### TODO
+\(added as a ticket\) Still have some clean up to do in inference repo
+since now unst repo have duplicate logic, but can keep them as a fall
+back plan. If we want to remove anything OCR related in inference, here
+are items that is deprecated and can be removed:
+*
+\[`get_tokens`\]\(https://github.com/Unstructured-IO/unstructured-inference/blob/main/unstructured_inference/models/tables.py#L77\)
+\(already noted in code\)
+* parameter `extract_tables` in inference
+*
+\[`interpret_table_block`\]\(https://github.com/Unstructured-IO/unstructured-inference/blob/main/unstructured_inference/inference/layoutelement.py#L88\)
+*
+\[`load_agent`\]\(https://github.com/Unstructured-IO/unstructured-inference/blob/main/unstructured_inference/models/tables.py#L197\)
+* env `TABLE_OCR` 
+### Note
+if we want to fallback for an additional table OCR \(may need this for
+using paddle for table\), we need to:
+* pass `infer_table_structure` to inference with `extract_tables`
+parameter
+* stop passing `infer_table_structure` to `ocr.py`
+---------
+Co-authored-by: Yao You <yao@unstructured.io>")[…](https://github.com/Unstructured-IO/unstructured/pull/1801)| Oct 21, 2023  
+[.dockerignore](/Unstructured-IO/unstructured/blob/main/.dockerignore ".dockerignore")| [.dockerignore](/Unstructured-IO/unstructured/blob/main/.dockerignore ".dockerignore")| [ci: publish amd and arm images (](/Unstructured-IO/unstructured/commit/65fec954ba5e5db9a668eda827f0f9412e5294e3 "ci: publish amd and arm images \(#404\)")[#404](https://github.com/Unstructured-IO/unstructured/pull/404)[)](/Unstructured-IO/unstructured/commit/65fec954ba5e5db9a668eda827f0f9412e5294e3 "ci: publish amd and arm images \(#404\)")| Mar 29, 2023  
+[.gitignore](/Unstructured-IO/unstructured/blob/main/.gitignore ".gitignore")| [.gitignore](/Unstructured-IO/unstructured/blob/main/.gitignore ".gitignore")| [Feat/contain nltk assets in docker image (](/Unstructured-IO/unstructured/commit/8378c2603583c401bcff933a3341d8f5a5892f34 "Feat/contain nltk assets in docker image \(#3853\)
+This pull request adds NLTK data to the Docker image by pre-packaging
+the data to ensure a more reliable and efficient deployment process, as
+the required NLTK resources are readily available within the container.
+**Current updated solution:**
+- Dockerfile Update: Integrated NLTK data directly into the Docker
+image, ensuring that the API can operate independently of external -
+data sources. The data is stored at /home/notebook-user/nltk_data.
+- Environment Variable Setup: Configured the NLTK_PATH environment
+variable, enabling Python scripts to automatically locate and use the
+embedded NLTK data. This eliminates the need for manual configuration in
+deployment environments.
+- Code Cleanup: Removed outdated code in tokenize.py and related scripts
+that previously downloaded NLTK data from S3. This streamlines the
+codebase and removes unnecessary dependencies.
+- Script Updates: Updated tokenize.py and test_tokenize.py to utilize
+the NLTK_PATH variable, ensuring consistent access to the embedded data
+across all environments.
+- Dependency Elimination: Fully eliminated reliance on the S3 bucket for
+NLTK data, mitigating risks from network failures or access changes.
+- Improved System Reliability: By embedding assets within the Docker
+image, the API now has a self-contained setup that ensures consistent
+behavior regardless of deployment location.
+- Updated the Dockerfile to copy the local NLTK data to the appropriate
+directory within the container.
+- Adjusted the application setup to verify the presence of NLTK assets
+during the container build process.")[#3853](https://github.com/Unstructured-IO/unstructured/pull/3853)[)](/Unstructured-IO/unstructured/commit/8378c2603583c401bcff933a3341d8f5a5892f34 "Feat/contain nltk assets in docker image \(#3853\)
+This pull request adds NLTK data to the Docker image by pre-packaging
+the data to ensure a more reliable and efficient deployment process, as
+the required NLTK resources are readily available within the container.
+**Current updated solution:**
+- Dockerfile Update: Integrated NLTK data directly into the Docker
+image, ensuring that the API can operate independently of external -
+data sources. The data is stored at /home/notebook-user/nltk_data.
+- Environment Variable Setup: Configured the NLTK_PATH environment
+variable, enabling Python scripts to automatically locate and use the
+embedded NLTK data. This eliminates the need for manual configuration in
+deployment environments.
+- Code Cleanup: Removed outdated code in tokenize.py and related scripts
+that previously downloaded NLTK data from S3. This streamlines the
+codebase and removes unnecessary dependencies.
+- Script Updates: Updated tokenize.py and test_tokenize.py to utilize
+the NLTK_PATH variable, ensuring consistent access to the embedded data
+across all environments.
+- Dependency Elimination: Fully eliminated reliance on the S3 bucket for
+NLTK data, mitigating risks from network failures or access changes.
+- Improved System Reliability: By embedding assets within the Docker
+image, the API now has a self-contained setup that ensures consistent
+behavior regardless of deployment location.
+- Updated the Dockerfile to copy the local NLTK data to the appropriate
+directory within the container.
+- Adjusted the application setup to verify the presence of NLTK assets
+during the container build process.")| Jan 9, 2025  
+[.grype.yaml](/Unstructured-IO/unstructured/blob/main/.grype.yaml ".grype.yaml")| [.grype.yaml](/Unstructured-IO/unstructured/blob/main/.grype.yaml ".grype.yaml")| [fix: add .grype.yaml (](/Unstructured-IO/unstructured/commit/b092fb7f474cc585d14db6773f25a0b1c62f2e82 "fix: add .grype.yaml \(#3834\)
+**Summary**
+CVE-2024-11053 https://curl.se/docs/CVE-2024-11053.html \(severity Low\)
+was published on Dec 11, 2024 and began failing CI builds on open-core
+on Dec 13, 2024 when it appeared in `grype` apparently misclassified as
+a critical vulnerability.
+The severity reported on the CVE is "Low" so it should not fail builds.
+Add a `.grype.yaml` file to ignore this CVE until grype is updated.")[#3834](https://github.com/Unstructured-IO/unstructured/pull/3834)[)](/Unstructured-IO/unstructured/commit/b092fb7f474cc585d14db6773f25a0b1c62f2e82 "fix: add .grype.yaml \(#3834\)
+**Summary**
+CVE-2024-11053 https://curl.se/docs/CVE-2024-11053.html \(severity Low\)
+was published on Dec 11, 2024 and began failing CI builds on open-core
+on Dec 13, 2024 when it appeared in `grype` apparently misclassified as
+a critical vulnerability.
+The severity reported on the CVE is "Low" so it should not fail builds.
+Add a `.grype.yaml` file to ignore this CVE until grype is updated.")| Dec 16, 2024  
+[.pre-commit-config.yaml](/Unstructured-IO/unstructured/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/Unstructured-IO/unstructured/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Roman/bugfix support bedrock embeddings (](/Unstructured-IO/unstructured/commit/4ff6a5b78e6071bc0b4f1acb9f3f829522418f88 "Roman/bugfix support bedrock embeddings \(#2650\)
+### Description
+This PR resolved the following open issue:
+\[bug/bedrock-encoder-not-supported-in-ingest\]\(https://github.com/Unstructured-IO/unstructured/issues/2319\).
+To do so, the following changes were made:
+* All aws configs were added as input parameters to the CLI
+* These were mapped to the bedrock embedder when an embedder is
+generated via `get_embedder`
+* An ingest test was added to call the aws bedrock service
+* Requirements for boto were bumped because the first version to
+introduce the bedrock runtime, which is required to hit the bedrock
+service, was introduced in version `1.34.63`, which was ahead of the
+version of boto pinned.
+---------
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: rbiseck3 <rbiseck3@users.noreply.github.com>")[#2650](https://github.com/Unstructured-IO/unstructured/pull/2650)[)](/Unstructured-IO/unstructured/commit/4ff6a5b78e6071bc0b4f1acb9f3f829522418f88 "Roman/bugfix support bedrock embeddings \(#2650\)
+### Description
+This PR resolved the following open issue:
+\[bug/bedrock-encoder-not-supported-in-ingest\]\(https://github.com/Unstructured-IO/unstructured/issues/2319\).
+To do so, the following changes were made:
+* All aws configs were added as input parameters to the CLI
+* These were mapped to the bedrock embedder when an embedder is
+generated via `get_embedder`
+* An ingest test was added to call the aws bedrock service
+* Requirements for boto were bumped because the first version to
+introduce the bedrock runtime, which is required to hit the bedrock
+service, was introduced in version `1.34.63`, which was ahead of the
+version of boto pinned.
+---------
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: rbiseck3 <rbiseck3@users.noreply.github.com>")| Mar 21, 2024  
+[CHANGELOG.md](/Unstructured-IO/unstructured/blob/main/CHANGELOG.md "CHANGELOG.md")| [CHANGELOG.md](/Unstructured-IO/unstructured/blob/main/CHANGELOG.md "CHANGELOG.md")| [Bump 0.16.14 (](/Unstructured-IO/unstructured/commit/efd9f648a78e77b4b1a5346b15ea4d4a4488a180 "Bump 0.16.14 \(#3879\)")[#3879](https://github.com/Unstructured-IO/unstructured/pull/3879)[)](/Unstructured-IO/unstructured/commit/efd9f648a78e77b4b1a5346b15ea4d4a4488a180 "Bump 0.16.14 \(#3879\)")| Jan 20, 2025  
+[CODE_OF_CONDUCT.md](/Unstructured-IO/unstructured/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/Unstructured-IO/unstructured/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [docs: create CODE_OF_CONDUCT.md (](/Unstructured-IO/unstructured/commit/d6623883dcb4025b2194fb5cad1a907e8a780a44 "docs: create CODE_OF_CONDUCT.md \(#79\)
+This is in order to complete the community standards in Insights.
+Add support@unstructured.io as contact for reporting.")[#79](https://github.com/Unstructured-IO/unstructured/pull/79)[)](/Unstructured-IO/unstructured/commit/d6623883dcb4025b2194fb5cad1a907e8a780a44 "docs: create CODE_OF_CONDUCT.md \(#79\)
+This is in order to complete the community standards in Insights.
+Add support@unstructured.io as contact for reporting.")| Nov 28, 2022  
+[CONTRIBUTING.md](/Unstructured-IO/unstructured/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/Unstructured-IO/unstructured/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Fix documentation link in CONTRIBUTING.md (](/Unstructured-IO/unstructured/commit/e2d02808a0dd70e980fa21a6aef80dacf267653f "Fix documentation link in CONTRIBUTING.md \(#3846\)")[#3846](https://github.com/Unstructured-IO/unstructured/pull/3846)[)](/Unstructured-IO/unstructured/commit/e2d02808a0dd70e980fa21a6aef80dacf267653f "Fix documentation link in CONTRIBUTING.md \(#3846\)")| Jan 4, 2025  
+[Dockerfile](/Unstructured-IO/unstructured/blob/main/Dockerfile "Dockerfile")| [Dockerfile](/Unstructured-IO/unstructured/blob/main/Dockerfile "Dockerfile")| [Feat/contain nltk assets in docker image (](/Unstructured-IO/unstructured/commit/8378c2603583c401bcff933a3341d8f5a5892f34 "Feat/contain nltk assets in docker image \(#3853\)
+This pull request adds NLTK data to the Docker image by pre-packaging
+the data to ensure a more reliable and efficient deployment process, as
+the required NLTK resources are readily available within the container.
+**Current updated solution:**
+- Dockerfile Update: Integrated NLTK data directly into the Docker
+image, ensuring that the API can operate independently of external -
+data sources. The data is stored at /home/notebook-user/nltk_data.
+- Environment Variable Setup: Configured the NLTK_PATH environment
+variable, enabling Python scripts to automatically locate and use the
+embedded NLTK data. This eliminates the need for manual configuration in
+deployment environments.
+- Code Cleanup: Removed outdated code in tokenize.py and related scripts
+that previously downloaded NLTK data from S3. This streamlines the
+codebase and removes unnecessary dependencies.
+- Script Updates: Updated tokenize.py and test_tokenize.py to utilize
+the NLTK_PATH variable, ensuring consistent access to the embedded data
+across all environments.
+- Dependency Elimination: Fully eliminated reliance on the S3 bucket for
+NLTK data, mitigating risks from network failures or access changes.
+- Improved System Reliability: By embedding assets within the Docker
+image, the API now has a self-contained setup that ensures consistent
+behavior regardless of deployment location.
+- Updated the Dockerfile to copy the local NLTK data to the appropriate
+directory within the container.
+- Adjusted the application setup to verify the presence of NLTK assets
+during the container build process.")[#3853](https://github.com/Unstructured-IO/unstructured/pull/3853)[)](/Unstructured-IO/unstructured/commit/8378c2603583c401bcff933a3341d8f5a5892f34 "Feat/contain nltk assets in docker image \(#3853\)
+This pull request adds NLTK data to the Docker image by pre-packaging
+the data to ensure a more reliable and efficient deployment process, as
+the required NLTK resources are readily available within the container.
+**Current updated solution:**
+- Dockerfile Update: Integrated NLTK data directly into the Docker
+image, ensuring that the API can operate independently of external -
+data sources. The data is stored at /home/notebook-user/nltk_data.
+- Environment Variable Setup: Configured the NLTK_PATH environment
+variable, enabling Python scripts to automatically locate and use the
+embedded NLTK data. This eliminates the need for manual configuration in
+deployment environments.
+- Code Cleanup: Removed outdated code in tokenize.py and related scripts
+that previously downloaded NLTK data from S3. This streamlines the
+codebase and removes unnecessary dependencies.
+- Script Updates: Updated tokenize.py and test_tokenize.py to utilize
+the NLTK_PATH variable, ensuring consistent access to the embedded data
+across all environments.
+- Dependency Elimination: Fully eliminated reliance on the S3 bucket for
+NLTK data, mitigating risks from network failures or access changes.
+- Improved System Reliability: By embedding assets within the Docker
+image, the API now has a self-contained setup that ensures consistent
+behavior regardless of deployment location.
+- Updated the Dockerfile to copy the local NLTK data to the appropriate
+directory within the container.
+- Adjusted the application setup to verify the presence of NLTK assets
+during the container build process.")| Jan 9, 2025  
+[LICENSE.md](/Unstructured-IO/unstructured/blob/main/LICENSE.md "LICENSE.md")| [LICENSE.md](/Unstructured-IO/unstructured/blob/main/LICENSE.md "LICENSE.md")| [Initial Release](/Unstructured-IO/unstructured/commit/5f40c78f25f4252a1d61eb4eb745c8ed3052c5b3 "Initial Release")| Sep 27, 2022  
+[MANIFEST.in](/Unstructured-IO/unstructured/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](/Unstructured-IO/unstructured/blob/main/MANIFEST.in "MANIFEST.in")| [feat/remove ingest code, use new dep for tests (](/Unstructured-IO/unstructured/commit/9049e4e2be5a66e23135aa69744d2b00ac8fd2b3 "feat/remove ingest code, use new dep for tests \(#3595\)
+### Description
+Alternative to https://github.com/Unstructured-IO/unstructured/pull/3572
+but maintaining all ingest tests, running them by pulling in the latest
+version of unstructured-ingest.
+---------
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: rbiseck3 <rbiseck3@users.noreply.github.com>
+Co-authored-by: Christine Straub <christinemstraub@gmail.com>
+Co-authored-by: christinestraub <christinestraub@users.noreply.github.com>")[#3595](https://github.com/Unstructured-IO/unstructured/pull/3595)[)](/Unstructured-IO/unstructured/commit/9049e4e2be5a66e23135aa69744d2b00ac8fd2b3 "feat/remove ingest code, use new dep for tests \(#3595\)
+### Description
+Alternative to https://github.com/Unstructured-IO/unstructured/pull/3572
+but maintaining all ingest tests, running them by pulling in the latest
+version of unstructured-ingest.
+---------
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: rbiseck3 <rbiseck3@users.noreply.github.com>
+Co-authored-by: Christine Straub <christinemstraub@gmail.com>
+Co-authored-by: christinestraub <christinestraub@users.noreply.github.com>")| Oct 15, 2024  
+[Makefile](/Unstructured-IO/unstructured/blob/main/Makefile "Makefile")| [Makefile](/Unstructured-IO/unstructured/blob/main/Makefile "Makefile")| [test:fix lint errors](/Unstructured-IO/unstructured/commit/5e6094296076fef697ea95104d6de16b2a00a9b4 "test:fix lint errors")| Dec 5, 2024  
+[README.md](/Unstructured-IO/unstructured/blob/main/README.md "README.md")| [README.md](/Unstructured-IO/unstructured/blob/main/README.md "README.md")| [doc: emphasize deprecation of ingest (](/Unstructured-IO/unstructured/commit/71208ca2ee5a1f8c1d33357676fdb28820be16e6 "doc: emphasize deprecation of ingest \(#3610\)
+Given that unstructured-ingest is now maintained in \[its own
+repo\]\(https://github.com/Unstructured-IO/unstructured-ingest\), update
+documentation references in this repo to point there.
+Note that the forked, deprecated unstructured.ingest \[in this repo
+\]\(https://github.com/Unstructured-IO/unstructured/tree/main/unstructured/ingest\)will
+be removed in the near future, once CI is updated properly.")[#3610](https://github.com/Unstructured-IO/unstructured/pull/3610)[)](/Unstructured-IO/unstructured/commit/71208ca2ee5a1f8c1d33357676fdb28820be16e6 "doc: emphasize deprecation of ingest \(#3610\)
+Given that unstructured-ingest is now maintained in \[its own
+repo\]\(https://github.com/Unstructured-IO/unstructured-ingest\), update
+documentation references in this repo to point there.
+Note that the forked, deprecated unstructured.ingest \[in this repo
+\]\(https://github.com/Unstructured-IO/unstructured/tree/main/unstructured/ingest\)will
+be removed in the near future, once CI is updated properly.")| Sep 10, 2024  
+[environment.yml](/Unstructured-IO/unstructured/blob/main/environment.yml "environment.yml")| [environment.yml](/Unstructured-IO/unstructured/blob/main/environment.yml "environment.yml")| [fix: Add `pip` as explicit dep in `environment.yml` to prevent warning (](/Unstructured-IO/unstructured/commit/84cec1f40d73e7aefd48acaa29bb47d35e7b2e02 "fix: Add `pip` as explicit dep in `environment.yml` to prevent warning \(#2574\)
+Removes this warning:
+> Warning: you have pip-installed dependencies in your environment file,
+but you do not list pip itself as one of your conda dependencies. Conda
+may not use the correct pip to install your packages, and they may end
+up in the wrong place. Please add an explicit pip dependency. I'm adding
+one for you, but still nagging you.
+Co-authored-by: Matt Robinson <mrobinson@unstructured.io>")| May 20, 2024  
+[liccheck.ini](/Unstructured-IO/unstructured/blob/main/liccheck.ini "liccheck.ini")| [liccheck.ini](/Unstructured-IO/unstructured/blob/main/liccheck.ini "liccheck.ini")| [build: check dependency licenses in CI (](/Unstructured-IO/unstructured/commit/ee2b2472973c9f2221c2da9e62c42c95b32f35a4 "build: check dependency licenses in CI \(#3349\)
+### Summary
+Adds a CI check to ensure that packages added as dependencies are
+appropriately licensed. All of the `.txt` files in the `requirements`
+directory are checked with the exception of:
+- `constraints.txt`, since those are not installed and are instead
+conditions on the other dependency files
+- `dev.txt`, since those are for local development and not shipped as
+part of the `unstructured` package
+- `extra-pdf-image.txt` - the `extra-pdf-image.in` since checking
+`extra-pdf-image.txt` pulls in NVIDIA GPU related packages with an
+`Other/Proprietary` license type, and there's not a good way to exclude
+those without adding `Other/Proprietary` to the allowed licenses list.
+### Testing
+The new `check-licenses` job should pass in CI.")[#3349](https://github.com/Unstructured-IO/unstructured/pull/3349)[)](/Unstructured-IO/unstructured/commit/ee2b2472973c9f2221c2da9e62c42c95b32f35a4 "build: check dependency licenses in CI \(#3349\)
+### Summary
+Adds a CI check to ensure that packages added as dependencies are
+appropriately licensed. All of the `.txt` files in the `requirements`
+directory are checked with the exception of:
+- `constraints.txt`, since those are not installed and are instead
+conditions on the other dependency files
+- `dev.txt`, since those are for local development and not shipped as
+part of the `unstructured` package
+- `extra-pdf-image.txt` - the `extra-pdf-image.in` since checking
+`extra-pdf-image.txt` pulls in NVIDIA GPU related packages with an
+`Other/Proprietary` license type, and there's not a good way to exclude
+those without adding `Other/Proprietary` to the allowed licenses list.
+### Testing
+The new `check-licenses` job should pass in CI.")| Jul 12, 2024  
+[pyproject.toml](/Unstructured-IO/unstructured/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/Unstructured-IO/unstructured/blob/main/pyproject.toml "pyproject.toml")| [build: remove ruff version upper bound (](/Unstructured-IO/unstructured/commit/10f0d54ac2ba5e2998da428c3d459f94d8f3c3b0 "build: remove ruff version upper bound \(#3829\)
+**Summary**
+Remove pin on `ruff` linter and fix the handful of lint errors a newer
+version catches.")[#3829](https://github.com/Unstructured-IO/unstructured/pull/3829)[)](/Unstructured-IO/unstructured/commit/10f0d54ac2ba5e2998da428c3d459f94d8f3c3b0 "build: remove ruff version upper bound \(#3829\)
+**Summary**
+Remove pin on `ruff` linter and fix the handful of lint errors a newer
+version catches.")| Dec 17, 2024  
+[setup.cfg](/Unstructured-IO/unstructured/blob/main/setup.cfg "setup.cfg")| [setup.cfg](/Unstructured-IO/unstructured/blob/main/setup.cfg "setup.cfg")| [Remove unsupported chipper model (](/Unstructured-IO/unstructured/commit/b092d45816f7910acea39552241a2c2d4a7ac4d7 "Remove unsupported chipper model \(#3728\)
+The chipper model is no longer supported.")[#3728](https://github.com/Unstructured-IO/unstructured/pull/3728)[)](/Unstructured-IO/unstructured/commit/b092d45816f7910acea39552241a2c2d4a7ac4d7 "Remove unsupported chipper model \(#3728\)
+The chipper model is no longer supported.")| Oct 17, 2024  
+[setup.py](/Unstructured-IO/unstructured/blob/main/setup.py "setup.py")| [setup.py](/Unstructured-IO/unstructured/blob/main/setup.py "setup.py")| [feat/remove ingest code, use new dep for tests (](/Unstructured-IO/unstructured/commit/9049e4e2be5a66e23135aa69744d2b00ac8fd2b3 "feat/remove ingest code, use new dep for tests \(#3595\)
+### Description
+Alternative to https://github.com/Unstructured-IO/unstructured/pull/3572
+but maintaining all ingest tests, running them by pulling in the latest
+version of unstructured-ingest.
+---------
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: rbiseck3 <rbiseck3@users.noreply.github.com>
+Co-authored-by: Christine Straub <christinemstraub@gmail.com>
+Co-authored-by: christinestraub <christinestraub@users.noreply.github.com>")[#3595](https://github.com/Unstructured-IO/unstructured/pull/3595)[)](/Unstructured-IO/unstructured/commit/9049e4e2be5a66e23135aa69744d2b00ac8fd2b3 "feat/remove ingest code, use new dep for tests \(#3595\)
+### Description
+Alternative to https://github.com/Unstructured-IO/unstructured/pull/3572
+but maintaining all ingest tests, running them by pulling in the latest
+version of unstructured-ingest.
+---------
+Co-authored-by: ryannikolaidis <1208590+ryannikolaidis@users.noreply.github.com>
+Co-authored-by: rbiseck3 <rbiseck3@users.noreply.github.com>
+Co-authored-by: Christine Straub <christinemstraub@gmail.com>
+Co-authored-by: christinestraub <christinestraub@users.noreply.github.com>")| Oct 15, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [Apache-2.0 license](#)
+  * [Security](#)
+
+
+
+###  [![](https://raw.githubusercontent.com/Unstructured-IO/unstructured/main/img/unstructured_logo.png)](https://raw.githubusercontent.com/Unstructured-IO/unstructured/main/img/unstructured_logo.png)
+
+[](#--)
+
+[![https://pypi.python.org/pypi/unstructured/](https://camo.githubusercontent.com/c16fbfe51e59e7b75a73a458b51cb69b3fe638219d7b90e40c0d94a0a5d9f9df/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f756e737472756374757265642e737667)](https://github.com/Unstructured-IO/unstructured/blob/main/LICENSE.md) [![https://pypi.python.org/pypi/unstructured/](https://camo.githubusercontent.com/25cfd25374ea68c654f107a84e6fae11ad9e848b452788f0c9cd433509694885/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f756e737472756374757265642e737667)](https://pypi.python.org/pypi/unstructured/) [![https://GitHub.com/unstructured-io/unstructured.js/graphs/contributors](https://camo.githubusercontent.com/00e671bdb86854886623756f7393b5a6f0dd603581c4d0f9921664ca65d9add8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f756e737472756374757265642d696f2f756e73747275637475726564)](https://GitHub.com/unstructured-io/unstructured/graphs/contributors) [![code_of_conduct.md](https://camo.githubusercontent.com/71217453f48cd1f12ba5a720412bb92743010653a5cc69654e627fd99e2e9104/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d322e312d3462616161612e737667) ](https://github.com/Unstructured-IO/unstructured/blob/main/CODE_OF_CONDUCT.md) [![https://GitHub.com/unstructured-io/unstructured.js/releases](https://camo.githubusercontent.com/5efdd3e1aa0072f249451eeee1da5c6f58b290ec2e8d296c737b889996c2e285/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f756e737472756374757265642d696f2f756e73747275637475726564)](https://GitHub.com/unstructured-io/unstructured/releases) [![https://github.com/Naereen/badges/](https://camo.githubusercontent.com/e37f7429b2afa6b69318ad278d15eec19a7ce4dbcbc830c7cb13f80cf79f95a8/68747470733a2f2f62616467656e2e6e65742f62616467652f4f70656e253230536f757263652532302533462f5965732532312f626c75653f69636f6e3d676974687562)](https://pypi.python.org/pypi/unstructured/) [![Downloads](https://camo.githubusercontent.com/8c6bb350cb57414a25ee20a3d9c6e0e7cbc11c5d1f1dcf0099e2e2be3ce10eb2/68747470733a2f2f7374617469632e706570792e746563682f62616467652f756e73747275637475726564)](https://pepy.tech/project/unstructured) [![Downloads](https://camo.githubusercontent.com/01230865473d298702eefed4a8ca3b9da57cd09da47d9bb9fe115c535f26607b/68747470733a2f2f7374617469632e706570792e746563682f62616467652f756e737472756374757265642f6d6f6e7468)](https://pepy.tech/project/unstructured) [ ![](https://camo.githubusercontent.com/d6a767a97d692d60d670d466ac7b9ba3339d92c8d116d702d3b51d3737ebb927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50686f726d2d41736b5f41492d2532334632373737412e7376673f266c6f676f3d646174613a696d6167652f7376672b786d6c3b6261736536342c50484e325a79423361575230614430694e534967614756705a326830505349304969426d6157787350534a756232356c4969423462577875637a30696148523063446f764c336433647935334d793576636d63764d6a41774d43397a646d636950676f67494478775958526f49475139496b30304c6a517a494445754f446779595445754e4451674d5334304e434177494441674d5330754d446b344c6a51794e6d4d744c6a41314c6a45794d7930754d5445314c6a497a4c5334784f5449754d7a49794c5334774e7a55754d446b744c6a45324c6a45324e5330754d6a55314c6a49794e6d45784c6a4d314d7941784c6a4d314d794177494441674d5330754e546b314c6a49784d6d4d744c6a41354f5334774d5449744c6a45354d6934774d5451744c6a49334f5334774d445a734c5445754e546b7a4c5334784e4859744c6a51774e6d67784c6a59314f474d754d446b754d4441784c6a45334c5334784e6a6b754d6a51324c5334784f5446684c6a59774d7934324d444d674d434177494441674c6a49744c6a45774e6934314d6a6b754e544935494441674d434177494334784d7a67744c6a45334c6a59314e4334324e5451674d434177494441674c6a41324e5330754d6a52734c6a41794f4330754d7a4a684c6a6b7a4c6a6b7a494441674d4341774c5334774d7a59744c6a49304f5334314e6a63754e545933494441674d4341774c5334784d444d744c6a49754e5441794c6a55774d694177494441674d4330754d5459344c5334784d7a67754e6a41344c6a59774f434177494441674d4330754d6a51744c6a41324e3077794c6a517a4e7934334d6a6b674d5334324d6a55754e6a63785953347a4d6a49754d7a4979494441674d4341774c5334794d7a49754d4455344c6a4d334e53347a4e7a55674d434177494441744c6a45784e6934794d7a4a734c5334784d5459674d5334304e5330754d4455344c6a59354e7930754d4455344c6a63314e4577754e7a4131494452734c53347a4e5463744c6a41334f5577754e6a41794c6a6b774e6b4d754e6a45334c6a63794e6934324e6a4d754e5463304c6a637a4f5334304e5452684c6a6b314f4334354e5467674d434177494445674c6a49334e4330754d6a67314c6a6b334d5334354e7a45674d434177494445674c6a4d7a4e7930754d54526a4c6a45784f5330754d4449324c6a49794e7930754d444d304c6a4d794e5330754d44493254444d754d6a4d794c6a4532597934784e546b754d4445304c6a4d7a4e6934774d7934304e546b754d446779595445754d54637a494445754d54637a494441674d434178494334314e4455754e445133597934774e6934774f5451754d5441354c6a45354d6934784e4451754d6a6b7a595445754d7a6b79494445754d7a6b79494441674d434178494334774e7a67754e5468734c5334774d6a6b754d7a4a614969426d615778735053496a526a49334e7a64424969382b4369416750484268644767675a443069545451754d446779494449754d444133595445754e445531494445754e445531494441674d4341784c5334774f5467754e444933597930754d4455754d5449304c5334784d5451754d6a4d794c5334784f5449754d7a4930595445754d544d674d5334784d794177494441674d5330754d6a55304c6a49794e7941784c6a4d314d7941784c6a4d314d794177494441674d5330754e546b314c6a49784e474d744c6a45754d4445794c5334784f544d754d4445304c5334794f4334774d445a734c5445754e5459744c6a45774f4334774d7a51744c6a51774e6934774d7930754d7a5134494445754e5455354c6a45314e474d754d446b674d4341754d54637a4c5334774d5334794e4467744c6a417a4d3245754e6a417a4c6a59774d794177494441674d4341754d6930754d5441324c6a557a4d6934314d7a49674d434177494441674c6a457a4f5330754d5463794c6a59324c6a5932494441674d434177494334774e6a51744c6a49304d5777754d4449354c53347a4d6a46684c6a6b304c6a6b30494441674d4341774c5334774d7a59744c6a49314c6a55334c6a5533494441674d4341774c5334784d444d744c6a49774d6934314d4449754e544179494441674d4341774c5334784e6a67744c6a457a4f4334324d4455754e6a4131494441674d4341774c5334794e4330754d445933544445754d6a637a4c6a67794e324d744c6a41354e4330754d4441344c5334784e6a67754d4445744c6a49794d5334774e5455744c6a41314d7934774e4455744c6a41344e4334784d5451744c6a41354d6934794d445a4d4c6a63774e534130494441674d7934354d7a68734c6a49314e5330794c6a6b784d5545784c6a4178494445754d4445674d434177494445674c6a4d354d7934314e7a49754f5459794c6a6b324d694177494441674d5341754e6a59324c6a49344e6d45754f5463754f5463674d434177494445674c6a4d7a4f4330754d5452444d5334784d6a49754d5449674d5334794d7934784d5341784c6a4d794f4334784d546c734d5334314f544d754d54526a4c6a45324c6a41784e43347a4c6a41304e7934304d6a4d754d5745784c6a4533494445754d5463674d434177494445674c6a55304e5334304e44686a4c6a41324d5334774f5455754d5441354c6a45354d7934784e4451754d6a6b31595445754e444132494445754e444132494441674d434178494334774e7a63754e54677a624330754d4449344c6a4d794d6c6f6949475a7062477739496e646f6158526c4969382b4369416750484268644767675a443069545451754d446779494449754d444133595445754e445531494445754e445531494441674d4341784c5334774f5467754e444933597930754d4455754d5449304c5334784d5451754d6a4d794c5334784f5449754d7a4930595445754d544d674d5334784d794177494441674d5330754d6a55304c6a49794e7941784c6a4d314d7941784c6a4d314d794177494441674d5330754e546b314c6a49784e474d744c6a45754d4445794c5334784f544d754d4445304c5334794f4334774d445a734c5445754e5459744c6a45774f4334774d7a51744c6a51774e6934774d7930754d7a5134494445754e5455354c6a45314e474d754d446b674d4341754d54637a4c5334774d5334794e4467744c6a417a4d3245754e6a417a4c6a59774d794177494441674d4341754d6930754d5441324c6a557a4d6934314d7a49674d434177494441674c6a457a4f5330754d5463794c6a59324c6a5932494441674d434177494334774e6a51744c6a49304d5777754d4449354c53347a4d6a46684c6a6b304c6a6b30494441674d4341774c5334774d7a59744c6a49314c6a55334c6a5533494441674d4341774c5334784d444d744c6a49774d6934314d4449754e544179494441674d4341774c5334784e6a67744c6a457a4f4334324d4455754e6a4131494441674d4341774c5334794e4330754d445933544445754d6a637a4c6a67794e324d744c6a41354e4330754d4441344c5334784e6a67754d4445744c6a49794d5334774e5455744c6a41314d7934774e4455744c6a41344e4334784d5451744c6a41354d6934794d445a4d4c6a63774e534130494441674d7934354d7a68734c6a49314e5330794c6a6b784d5545784c6a4178494445754d4445674d434177494445674c6a4d354d7934314e7a49754f5459794c6a6b324d694177494441674d5341754e6a59324c6a49344e6d45754f5463754f5463674d434177494445674c6a4d7a4f4330754d5452444d5334784d6a49754d5449674d5334794d7934784d5341784c6a4d794f4334784d546c734d5334314f544d754d54526a4c6a45324c6a41784e43347a4c6a41304e7934304d6a4d754d5745784c6a4533494445754d5463674d434177494445674c6a55304e5334304e44686a4c6a41324d5334774f5455754d5441354c6a45354d7934784e4451754d6a6b31595445754e444132494445754e444132494441674d434178494334774e7a63754e54677a624330754d4449344c6a4d794d6c6f6949475a7062477739496e646f6158526c4969382b436a777663335a6e50676f3d) ](https://www.phorm.ai/query?projectId=34efc517-2201-4376-af43-40c4b9da3dc5)
+
+[ ![](https://camo.githubusercontent.com/7f43e1c688a0a29cde29e05beda7946eff6707033f8685337a15418c5dc763af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4f494e205553204f4e20534c41434b2d3441313534423f7374796c653d666f722d7468652d6261646765266c6f676f3d736c61636b266c6f676f436f6c6f723d7768697465) ](https://short.unstructured.io/pzw05l7) [ ![](https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465) ](https://www.linkedin.com/company/unstructuredio/)
+
+Open-Source Pre-Processing Tools for Unstructured Data
+
+[](#--open-source-pre-processing-tools-for-unstructured-data)
+
+The `unstructured` library provides open-source components for ingesting and pre-processing images and text documents, such as PDFs, HTML, Word docs, and [many more](https://docs.unstructured.io/open-source/core-functionality/partitioning). The use cases of `unstructured` revolve around streamlining and optimizing the data processing workflow for LLMs. `unstructured` modular functions and connectors form a cohesive system that simplifies data ingestion and pre-processing, making it adaptable to different platforms and efficient in transforming unstructured data into structured outputs.
+
+## Try the Unstructured Serverless API!
+
+[](#try-the-unstructured-serverless-api)
+
+Looking for better pre-processing performance and less setup? Check out our new [Serverless API](https://unstructured.io/api-key-hosted)! The Unstructured Serverless API is our most performant API yet, delivering a more responsive, production-grade solution to better support your business and LLM needs. Head to our [signup page](https://app.unstructured.io/) page to get started for free.
+
+## ✴️ Quick Start
+
+[](#eight_pointed_black_star-quick-start)
+
+There are several ways to use the `unstructured` library:
+
+  * [Run the library in a container](https://github.com/Unstructured-IO/unstructured#run-the-library-in-a-container) or
+  * Install the library 
+    1. [Install from PyPI](https://github.com/Unstructured-IO/unstructured#installing-the-library)
+    2. [Install for local development](https://github.com/Unstructured-IO/unstructured#installation-instructions-for-local-development)
+  * For installation with `conda` on Windows system, please refer to the [documentation](https://unstructured-io.github.io/unstructured/installing.html#installation-with-conda-on-windows)
+
+
+
+### Run the library in a container
+
+[](#run-the-library-in-a-container)
+
+The following instructions are intended to help you get up and running using Docker to interact with `unstructured`. See [here](https://docs.docker.com/get-docker/) if you don't already have docker installed on your machine.
+
+NOTE: we build multi-platform images to support both x86_64 and Apple silicon hardware. `docker pull` should download the corresponding image for your architecture, but you can specify with `--platform` (e.g. `--platform linux/amd64`) if needed.
+
+We build Docker images for all pushes to `main`. We tag each image with the corresponding short commit hash (e.g. `fbc7a69`) and the application version (e.g. `0.5.5-dev1`). We also tag the most recent image with `latest`. To leverage this, `docker pull` from our image repository.
+
+```
+docker pull downloads.unstructured.io/unstructured-io/unstructured:latest
+```
+
+Once pulled, you can create a container from this image and shell to it.
+
+```
+# create the container docker run -dt --name unstructured downloads.unstructured.io/unstructured-io/unstructured:latest # this will drop you into a bash shell where the Docker image is running docker exec -it unstructured bash
+```
+
+You can also build your own Docker image. Note that the base image is `wolfi-base`, which is updated regularly. If you are building the image locally, it is possible `docker-build` could fail due to upstream changes in `wolfi-base`.
+
+If you only plan on parsing one type of data you can speed up building the image by commenting out some of the packages/requirements necessary for other data types. See Dockerfile to know which lines are necessary for your use case.
+
+```
+make docker-build # this will drop you into a bash shell where the Docker image is running make docker-start-bash
+```
+
+Once in the running container, you can try things directly in Python interpreter's interactive mode.
+
+```
+# this will drop you into a python console so you can run the below partition functions python3 >>> from unstructured.partition.pdf import partition_pdf >>> elements = partition_pdf(filename="example-docs/layout-parser-paper-fast.pdf") >>> from unstructured.partition.text import partition_text >>> elements = partition_text(filename="example-docs/fake-text.txt")
+```
+
+### Installing the library
+
+[](#installing-the-library)
+
+Use the following instructions to get up and running with `unstructured` and test your installation.
+
+  * Install the Python SDK to support all document types with `pip install "unstructured[all-docs]"`
+
+    * For plain text files, HTML, XML, JSON and Emails that do not require any extra dependencies, you can run `pip install unstructured`
+    * To process other doc types, you can install the extras required for those documents, such as `pip install "unstructured[docx,pptx]"`
+  * Install the following system dependencies if they are not already available on your system. Depending on what document types you're parsing, you may not need all of these.
+
+    * `libmagic-dev` (filetype detection)
+    * `poppler-utils` (images and PDFs)
+    * `tesseract-ocr` (images and PDFs, install `tesseract-lang` for additional language support)
+    * `libreoffice` (MS Office docs)
+    * `pandoc` (EPUBs, RTFs and Open Office docs). Please note that to handle RTF files, you need version `2.14.2` or newer. Running either `make install-pandoc` or `./scripts/install-pandoc.sh` will install the correct version for you.
+  * For suggestions on how to install on the Windows and to learn about dependencies for other features, see the installation documentation [here](https://unstructured-io.github.io/unstructured/installing.html).
+
+
+
+
+At this point, you should be able to run the following code:
+
+```
+from unstructured.partition.auto import partition elements = partition(filename="example-docs/eml/fake-email.eml") print("\n\n".join([str(el) for el in elements]))
+```
+
+### Installation Instructions for Local Development
+
+[](#installation-instructions-for-local-development)
+
+The following instructions are intended to help you get up and running with `unstructured` locally if you are planning to contribute to the project.
+
+  * Using `pyenv` to manage virtualenv's is recommended but not necessary
+
+    * Mac install instructions. See [here](https://github.com/Unstructured-IO/community#mac--homebrew) for more detailed instructions. 
+      * `brew install pyenv-virtualenv`
+      * `pyenv install 3.10`
+    * Linux instructions are available [here](https://github.com/Unstructured-IO/community#linux).
+  * Create a virtualenv to work in and activate it, e.g. for one named `unstructured`:
+
+`pyenv virtualenv 3.10 unstructured` `pyenv activate unstructured`
+
+  * Run `make install`
+
+  * Optional:
+
+    * To install models and dependencies for processing images and PDFs locally, run `make install-local-inference`.
+    * For processing image files, `tesseract` is required. See [here](https://tesseract-ocr.github.io/tessdoc/Installation.html) for installation instructions.
+    * For processing PDF files, `tesseract` and `poppler` are required. The [pdf2image docs](https://pdf2image.readthedocs.io/en/latest/installation.html) have instructions on installing `poppler` across various platforms.
+
+
+
+Additionally, if you're planning to contribute to `unstructured`, we provide you an optional `pre-commit` configuration file to ensure your code matches the formatting and linting standards used in `unstructured`. If you'd prefer not to have code changes auto-tidied before every commit, you can use `make check` to see whether any linting or formatting changes should be applied, and `make tidy` to apply them.
+
+If using the optional `pre-commit`, you'll just need to install the hooks with `pre-commit install` since the `pre-commit` package is installed as part of `make install` mentioned above. Finally, if you decided to use `pre-commit` you can also uninstall the hooks with `pre-commit uninstall`.
+
+In addition to develop in your local OS we also provide a helper to use docker providing a development environment:
+
+```
+make docker-start-dev
+```
+
+This starts a docker container with your local repo mounted to `/mnt/local_unstructured`. This docker image allows you to develop without worrying about your OS's compatibility with the repo and its dependencies.
+
+## 👏 Quick Tour
+
+[](#clap-quick-tour)
+
+### Documentation
+
+[](#documentation)
+
+For more comprehensive documentation, visit <https://docs.unstructured.io> . You can also learn more about our other products on the documentation page, including our SaaS API.
+
+Here are a few pages from the [Open Source documentation page](https://docs.unstructured.io/open-source/introduction/overview) that are helpful for new users to review:
+
+  * [Quick Start](https://docs.unstructured.io/open-source/introduction/quick-start)
+  * [Using the `unstructured` open source package](https://docs.unstructured.io/open-source/core-functionality/overview)
+  * [Connectors](https://docs.unstructured.io/open-source/ingest/overview)
+  * [Concepts](https://docs.unstructured.io/open-source/concepts/document-elements)
+  * [Integrations](https://docs.unstructured.io/open-source/integrations)
+
+
+
+### PDF Document Parsing Example
+
+[](#pdf-document-parsing-example)
+
+The following examples show how to get started with the `unstructured` library. The easiest way to parse a document in unstructured is to use the `partition` function. If you use `partition` function, `unstructured` will detect the file type and route it to the appropriate file-specific partitioning function. If you are using the `partition` function, you may need to install additional dependencies per doc type. For example, to install docx dependencies you need to run `pip install "unstructured[docx]"`. See our [installation guide](https://docs.unstructured.io/open-source/installation/full-installation) for more details.
+
+```
+from unstructured.partition.auto import partition elements = partition("example-docs/layout-parser-paper.pdf")
+```
+
+Run `print("\n\n".join([str(el) for el in elements]))` to get a string representation of the output, which looks like:
+
+```
+` LayoutParser : A Uniﬁed Toolkit for Deep Learning Based Document Image Analysis Zejiang Shen 1 ( (cid:0) ), Ruochen Zhang 2 , Melissa Dell 3 , Benjamin Charles Germain Lee 4 , Jacob Carlson 3 , and Weining Li 5 Abstract. Recent advances in document image analysis (DIA) have been primarily driven by the application of neural networks. Ideally, research outcomes could be easily deployed in production and extended for further investigation. However, various factors like loosely organized codebases and sophisticated model conﬁgurations complicate the easy reuse of important innovations by a wide audience. Though there have been ongoing eﬀorts to improve reusability and simplify deep learning (DL) model development in disciplines like natural language processing and computer vision, none of them are optimized for challenges in the domain of DIA. This represents a major gap in the existing toolkit, as DIA is central to academic research across a wide range of disciplines in the social sciences and humanities. This paper introduces LayoutParser, an open-source library for streamlining the usage of DL in DIA research and applications. The core LayoutParser library comes with a set of simple and intuitive interfaces for applying and customizing DL models for layout detection, character recognition, and many other document processing tasks. To promote extensibility, LayoutParser also incorporates a community platform for sharing both pre-trained models and full document digitization pipelines. We demonstrate that LayoutParser is helpful for both lightweight and large-scale digitization pipelines in real-word use cases. The library is publicly available at https://layout-parser.github.io Keywords: Document Image Analysis · Deep Learning · Layout Analysis · Character Recognition · Open Source library · Toolkit. Introduction Deep Learning(DL)-based approaches are the state-of-the-art for a wide range of document image analysis (DIA) tasks including document image classiﬁcation [11, `
+```
+
+See the [partitioning](https://docs.unstructured.io/open-source/core-functionality/partitioning) section in our documentation for a full list of options and instructions on how to use file-specific partitioning functions.
+
+## 💂‍♂️ Security Policy
+
+[](#guardsman-security-policy)
+
+See our [security policy](https://github.com/Unstructured-IO/unstructured/security/policy) for information on how to report security vulnerabilities.
+
+## 🐛 Reporting Bugs
+
+[](#bug-reporting-bugs)
+
+Encountered a bug? Please create a new [GitHub issue](https://github.com/Unstructured-IO/unstructured/issues/new/choose) and use our bug report template to describe the problem. To help us diagnose the issue, use the `python scripts/collect_env.py` command to gather your system's environment information and include it in your report. Your assistance helps us continuously improve our software - thank you!
+
+## 📚 Learn more
+
+[](#books-learn-more)
+
+Section | Description  
+---|---  
+[Company Website](https://unstructured.io) | Unstructured.io product and company info  
+[Documentation](https://docs.unstructured.io/) | Full API documentation  
+[Batch Processing](https://github.com/Unstructured-IO/unstructured-ingest) | Ingesting batches of documents through Unstructured  
+  
+## 📈 Analytics
+
+[](#chart_with_upwards_trend-analytics)
+
+We’ve partnered with Scarf (<https://scarf.sh>) to collect anonymized user statistics to understand which features our community is using and how to prioritize product decision-making in the future. To learn more about how we collect and use this data, please read our [Privacy Policy](https://unstructured.io/privacy-policy). To opt out of this data collection, you can set the environment variable `SCARF_NO_ANALYTICS=true` before running any `unstructured` commands.
+
+## About
+
+Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines. 
+
+[www.unstructured.io/](https://www.unstructured.io/ "https://www.unstructured.io/")
+
+### Topics
+
+[ nlp ](/topics/nlp "Topic: nlp") [ pdf ](/topics/pdf "Topic: pdf") [ machine-learning ](/topics/machine-learning "Topic: machine-learning") [ natural-language-processing ](/topics/natural-language-processing "Topic: natural-language-processing") [ information-retrieval ](/topics/information-retrieval "Topic: information-retrieval") [ ocr ](/topics/ocr "Topic: ocr") [ deep-learning ](/topics/deep-learning "Topic: deep-learning") [ ml ](/topics/ml "Topic: ml") [ docx ](/topics/docx "Topic: docx") [ preprocessing ](/topics/preprocessing "Topic: preprocessing") [ pdf-to-text ](/topics/pdf-to-text "Topic: pdf-to-text") [ data-pipelines ](/topics/data-pipelines "Topic: data-pipelines") [ donut ](/topics/donut "Topic: donut") [ document-image-processing ](/topics/document-image-processing "Topic: document-image-processing") [ document-parser ](/topics/document-parser "Topic: document-parser") [ pdf-to-json ](/topics/pdf-to-json "Topic: pdf-to-json") [ document-image-analysis ](/topics/document-image-analysis "Topic: document-image-analysis") [ llm ](/topics/llm "Topic: llm") [ document-parsing ](/topics/document-parsing "Topic: document-parsing") [ langchain ](/topics/langchain "Topic: langchain")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/Unstructured-IO/unstructured/activity)
+
+[ Custom properties](/Unstructured-IO/unstructured/custom-properties)
+
+### Stars
+
+[ **9.8k** stars](/Unstructured-IO/unstructured/stargazers)
+
+### Watchers
+
+[ **66** watching](/Unstructured-IO/unstructured/watchers)
+
+### Forks
+
+[ **820** forks](/Unstructured-IO/unstructured/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FUnstructured-IO%2Funstructured&report=Unstructured-IO+%28user%29)
+
+##  [Releases 167](/Unstructured-IO/unstructured/releases)
+
+[ 0.16.14 Latest  Jan 20, 2025 ](/Unstructured-IO/unstructured/releases/tag/0.16.14)
+
+[+ 166 releases](/Unstructured-IO/unstructured/releases)
+
+##  [Used by 27.2k](/Unstructured-IO/unstructured/network/dependents)
+
+[
+
+  * ![@sidsappal2](https://avatars.githubusercontent.com/u/101364577?s=64&v=4)
+  * ![@Bakhshial](https://avatars.githubusercontent.com/u/110432643?s=64&v=4)
+  * ![@verobeach7](https://avatars.githubusercontent.com/u/60215757?s=64&v=4)
+  * ![@reztip](https://avatars.githubusercontent.com/u/9126713?s=64&v=4)
+  * ![@ChandanCoderck123](https://avatars.githubusercontent.com/u/178604003?s=64&v=4)
+  * ![@ybai789](https://avatars.githubusercontent.com/u/165237653?s=64&v=4)
+  * ![@prajodh](https://avatars.githubusercontent.com/u/72610816?s=64&v=4)
+  * ![@m5a0r7](https://avatars.githubusercontent.com/u/36618952?s=64&v=4)
+
++ 27,181  ](/Unstructured-IO/unstructured/network/dependents)
+
+##  [Contributors 123](/Unstructured-IO/unstructured/graphs/contributors)
+
+  * [ ![@MthwRobinson](https://avatars.githubusercontent.com/u/1635179?s=64&v=4) ](https://github.com/MthwRobinson)
+  * [ ![@ryannikolaidis](https://avatars.githubusercontent.com/u/1208590?s=64&v=4) ](https://github.com/ryannikolaidis)
+  * [ ![@cragwolfe](https://avatars.githubusercontent.com/u/28578599?s=64&v=4) ](https://github.com/cragwolfe)
+  * [ ![@scanny](https://avatars.githubusercontent.com/u/2062718?s=64&v=4) ](https://github.com/scanny)
+  * [ ![@christinestraub](https://avatars.githubusercontent.com/u/9475974?s=64&v=4) ](https://github.com/christinestraub)
+  * [ ![@rbiseck3](https://avatars.githubusercontent.com/u/136338424?s=64&v=4) ](https://github.com/rbiseck3)
+  * [ ![@qued](https://avatars.githubusercontent.com/u/64741807?s=64&v=4) ](https://github.com/qued)
+  * [ ![@Coniferish](https://avatars.githubusercontent.com/u/43506685?s=64&v=4) ](https://github.com/Coniferish)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@yuming-long](https://avatars.githubusercontent.com/u/63475068?s=64&v=4) ](https://github.com/yuming-long)
+  * [ ![@badGarnet](https://avatars.githubusercontent.com/u/647930?s=64&v=4) ](https://github.com/badGarnet)
+  * [ ![@Klaijan](https://avatars.githubusercontent.com/u/2177850?s=64&v=4) ](https://github.com/Klaijan)
+  * [ ![@potter-potter](https://avatars.githubusercontent.com/u/16689726?s=64&v=4) ](https://github.com/potter-potter)
+  * [ ![@ron-unstructured](https://avatars.githubusercontent.com/u/138828701?s=64&v=4) ](https://github.com/ron-unstructured)
+
+
+
+[+ 109 contributors](/Unstructured-IO/unstructured/graphs/contributors)
+
+## Languages
+
+  * [ HTML 89.3% ](/Unstructured-IO/unstructured/search?l=html)
+  * [ Python 9.3% ](/Unstructured-IO/unstructured/search?l=python)
+  * [ Rich Text Format 0.7% ](/Unstructured-IO/unstructured/search?l=rich-text-format)
+  * [ Shell 0.7% ](/Unstructured-IO/unstructured/search?l=shell)
+  * [ Makefile 0.0% ](/Unstructured-IO/unstructured/search?l=makefile)
+  * [ Dockerfile 0.0% ](/Unstructured-IO/unstructured/search?l=dockerfile)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

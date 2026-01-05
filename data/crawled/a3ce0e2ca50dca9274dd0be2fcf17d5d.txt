@@ -1,0 +1,52 @@
+#### Usage Statistics
+
+**Uploaded:** 629 files, 316819 rows
+
+**Labeled:** 524 files, 16188 rows
+
+**Evaluated:** 350 files, 9752 rows
+
+**Optimized:** 90 files, 900 trials
+
+# ![ALIGN Eval Logo](/favicon.svg)AlignEval: Making Evals Easy, Fun, and Semi-Automated![ALIGN Eval Logo](/info-icon.svg)
+
+🎮 Welcome to AlignEval! 🎮
+
+AlignEval is a **game/tool** to help you build and optimize LLM-evaluators. We do so by aligning annotators to AI output, and aligning AI to annotator input.
+
+To progress, gain XP by adding labels while you **look at your data**.
+
+  1. **🐣 Upload:** Initialize your character by uploading a csv containing input-output pairs. Having existing labels counts towards your XP!
+  2. **👀 Label:** As a **Labeling Novice** , **look at your data and label it**. Each labeled sample gets you 1 XP. Gain 20 XP to progress to the next character class!
+  3. **💥 Evaluate:** At 20 XP, you're now an **Evaluation Adept**! You can now craft evaluation prompts and cast the **"Evaluate"** spell on your data.
+  4. **🔮 Optimize:** At 50 XP, you're now an **Optimization Master**! Improve your LLM-evaluators with the unlocked **"Optimize"** spell. (No, it's not dspy.)
+
+
+
+**New Game+:** While we frame AlignEval as a game to build LLM-evaluators, you can use it to craft and optimize **any prompt that does binary classification**!
+
+AlignEval is currently a public beta. Read [how it was built](https://eugeneyan.com/writing/aligneval/) or share feedback on [GitHub](https://github.com/eugeneyan/align-app) or [X](https://x.com/eugeneyan).
+
+Don't show this again
+
+## 🎮 To begin, initialize your character with a CSV file!
+
+  * 📜 The CSV file must include the following columns:
+    * **`id`** : Unique identifier for each row
+    * **`input`** : Context used to generate `output`
+    * **`output`** : Generated text to be evaluated
+    * **`label`** : Ground truth (values optional but counts towards XP)
+  * 🚨 The **`label`** column only accepts binary labels, either **`0`** or **`1`**.
+    * **`0`** : Output **PASSES** your evaluation
+    * **`1`** : Output **FAILS** your evaluation
+  * 🚫 **Character XP limit** : Only the first 100 rows will be uploaded and considered for XP.
+  * 🎁 **Starter pack** : [Download a partially labeled CSV](#) from the Factual Inconsistency Benchmark ([details](https://huggingface.co/datasets/r-three/fib)).
+  * 📌 **Pro tip** : For maximum effectiveness on "Evaluate" and "Optimize", have a balance of **`1`** and **`0`** labels.
+
+
+
+Choose CSV file
+
+Created by [Eugene Yan](https://eugeneyan.com).
+
+[![X](/x.svg)](https://x.com/eugeneyan)[![GitHub](/github.svg)](https://github.com/eugeneyan/align-app)

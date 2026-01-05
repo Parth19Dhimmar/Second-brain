@@ -1,0 +1,78 @@
+{
+    "id": "5b5dcd38acecc53d77f2e8d83b7a960d",
+    "metadata": {
+        "id": "5b5dcd38acecc53d77f2e8d83b7a960d",
+        "url": "https://copier.readthedocs.io/en/stable/",
+        "title": "copier",
+        "properties": {
+            "description": "Library and command-line utility for rendering projects templates.",
+            "keywords": null,
+            "author": null
+        }
+    },
+    "parent_metadata": {
+        "id": "ff2d6ecad5b9e5caa6e8db5e6ed69d42",
+        "url": "https://www.notion.so/Python-ff2d6ecad5b9e5caa6e8db5e6ed69d42",
+        "title": "Python ",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ],
+            "Language": "Python",
+            "Created": {
+                "id": "tmas",
+                "type": "created_time",
+                "created_time": "2023-12-14T10:53:00.000Z"
+            }
+        }
+    },
+    "content": "[ Skip to content ](#_1)\n\n[ ](. \"copier\")\n\ncopier \n\nOverview \n\nInitializing search \n\n[ copier-org/copier  ](https://github.com/copier-org/copier \"Go to repository\")\n\n[ ](. \"copier\") copier \n\n[ copier-org/copier  ](https://github.com/copier-org/copier \"Go to repository\")\n\n  * Overview  [ Overview  ](.) Table of contents \n    * [ Installation  ](#installation)\n      * [ Nix flake  ](#nix-flake)\n    * [ Quick start  ](#quick-start)\n    * [ Basic concepts  ](#basic-concepts)\n    * [ Browse or tag public templates  ](#browse-or-tag-public-templates)\n    * [ Show your support  ](#show-your-support)\n      * [ Copier badge variations  ](#copier-badge-variations)\n    * [ Credits  ](#credits)\n  * [ Creating a template  ](creating/)\n  * [ Configuring a template  ](configuring/)\n  * [ Generating a project  ](generating/)\n  * [ Updating a project  ](updating/)\n  * Reference  Reference \n    * [ cli.py  ](reference/cli/)\n    * [ errors.py  ](reference/errors/)\n    * [ main.py  ](reference/main/)\n    * [ subproject.py  ](reference/subproject/)\n    * [ template.py  ](reference/template/)\n    * [ tools.py  ](reference/tools/)\n    * [ types.py  ](reference/types/)\n    * [ user_data.py  ](reference/user_data/)\n    * [ vcs.py  ](reference/vcs/)\n  * [ Comparisons  ](comparisons/)\n  * [ Frequently Asked Questions  ](faq/)\n  * [ Contributing  ](contributing/)\n  * [ Changelog  ](changelog/)\n\n\n\nTable of contents \n\n  * [ Installation  ](#installation)\n    * [ Nix flake  ](#nix-flake)\n  * [ Quick start  ](#quick-start)\n  * [ Basic concepts  ](#basic-concepts)\n  * [ Browse or tag public templates  ](#browse-or-tag-public-templates)\n  * [ Show your support  ](#show-your-support)\n    * [ Copier badge variations  ](#copier-badge-variations)\n  * [ Credits  ](#credits)\n\n\n\n# ![Copier](https://github.com/copier-org/copier/raw/master/img/copier-logotype.png)[¶](#_1 \"Permanent link\")\n\n[![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-purple.json)](https://github.com/copier-org/copier) [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/copier-org/copier) [![codecov](https://codecov.io/gh/copier-org/copier/branch/master/graph/badge.svg)](https://codecov.io/gh/copier-org/copier) [![CI](https://github.com/copier-org/copier/workflows/CI/badge.svg)](https://github.com/copier-org/copier/actions?query=branch%3Amaster) [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/) ![Python](https://img.shields.io/pypi/pyversions/copier?logo=python&logoColor=%23959DA5) [![PyPI](https://img.shields.io/pypi/v/copier?logo=pypi&logoColor=%23959DA5)](https://pypi.org/project/copier/) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) [![Documentation Status](https://img.shields.io/readthedocs/copier/latest?logo=readthedocs)](https://copier.readthedocs.io/en/latest)\n\nA library and CLI app for rendering project templates.\n\n  * Works with **local** paths and **Git URLs**.\n  * Your project can include any file and Copier can dynamically replace values in any kind of text file.\n  * It generates a beautiful output and takes care of not overwriting existing files unless instructed to do so.\n\n\n\n![Sample output](https://github.com/copier-org/copier/raw/master/img/copier-output.png)\n\n## Installation[¶](#installation \"Permanent link\")\n\n  1. Install Python 3.9 or newer.\n  2. Install Git 2.27 or newer.\n  3. To use as a CLI app: `pipx install copier`\n  4. To use as a library: `pip install copier` or `conda install -c conda-forge copier`\n\n\n\n### Nix flake[¶](#nix-flake \"Permanent link\")\n\nTo install latest Copier release with 100% reproducibility:\n\n```\n`nixprofileinstall'https://flakehub.com/f/copier-org/copier/*.tar.gz' `\n```\n\n## Quick start[¶](#quick-start \"Permanent link\")\n\nTo create a template:\n\n```\n`📁my_copier_template# your template project ├──📄copier.yml# your template configuration ├──📁.git/# your template is a Git repository ├──📁{{project_name}}# a folder with a templated name │└──📄{{module_name}}.py.jinja# a file with a templated name └──📄{{_copier_conf.answers_file}}.jinja# answers are recorded here `\n```\n\ncopier.yml```\n`# questions project_name: type:str help:What is your project name? module_name: type:str help:What is your Python module name? `\n```\n\n{{project_name}}/{{module_name}}.py.jinja```\n`print(\"Hello from {{module_name}}!\") `\n```\n\n{{_copier_conf.answers_file}}.jinja```\n`# Changes here will be overwritten by Copier {{ _copier_answers|to_nice_yaml -}} `\n```\n\nTo generate a project from the template:\n\n  * On the command-line:\n\n```\n`copiercopypath/to/project/templatepath/to/destination `\n```\n\n  * Or in Python code, programmatically:\n\n```\n`from copier import run_copy # Create a project from a local path run_copy(\"path/to/project/template\", \"path/to/destination\") # Or from a Git URL. run_copy(\"https://github.com/copier-org/copier.git\", \"path/to/destination\") # You can also use \"gh:\" as a shortcut of \"https://github.com/\" run_copy(\"gh:copier-org/copier.git\", \"path/to/destination\") # Or \"gl:\" as a shortcut of \"https://gitlab.com/\" run_copy(\"gl:copier-org/copier.git\", \"path/to/destination\") `\n```\n\n\n\n\n## Basic concepts[¶](#basic-concepts \"Permanent link\")\n\nCopier is composed of these main concepts:\n\n  1. **Templates**. They lay out how to generate the subproject.\n  2. **Questionnaires**. They are configured in the template. Answers are used to generate projects.\n  3. **Projects**. This is where your real program lives. But it is usually generated and/or updated from a template.\n\n\n\nCopier targets these main human audiences:\n\n  1. **Template creators**. Programmers that repeat code too much and prefer a tool to do it for them.\n\n**_Tip:_** Copier doesn't replace the DRY principle... but sometimes you simply can't be DRY and you need a DRYing machine...\n\n  2. **Template consumers**. Programmers that want to start a new project quickly, or that want to evolve it comfortably.\n\n\n\n\nNon-humans should be happy also by using Copier's CLI or API, as long as their expectations are the same as for those humans... and as long as they have feelings.\n\nTemplates have these goals:\n\n  1. **[Code scaffolding](https://en.wikipedia.org/wiki/Scaffold_\\(programming\\))**. Help consumers have a working source code tree as quickly as possible. All templates allow scaffolding.\n  2. **Code lifecycle management**. When the template evolves, let consumers update their projects. Not all templates allow updating.\n\n\n\nCopier tries to have a smooth learning curve that lets you create simple templates that can evolve into complex ones as needed.\n\n## Browse or tag public templates[¶](#browse-or-tag-public-templates \"Permanent link\")\n\nYou can browse public Copier templates on GitHub using [the `copier-template` topic](https://github.com/topics/copier-template). Use them as inspiration!\n\nIf you want your template to appear in that list, just add the topic to it! 🏷\n\n## Show your support[¶](#show-your-support \"Permanent link\")\n\nIf you're using Copier, consider adding the Copier badge to your project's `README.md`:\n\n```\n`[![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-orange.json)](https://github.com/copier-org/copier) `\n```\n\n...or `README.rst`:\n\n```\n`.. image:: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-orange.json :target: https://github.com/copier-org/copier :alt: Copier `\n```\n\n...or, as HTML:\n\n```\n`<a href=\"https://github.com/copier-org/copier\"><img src=\"https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-orange.json\" alt=\"Copier\" style=\"max-width:100%;\"/></a> `\n```\n\n### Copier badge variations[¶](#copier-badge-variations \"Permanent link\")\n\n  1. Badge Grayscale Border [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-border.json)](https://github.com/copier-org/copier)\n\n  2. Badge Grayscale Inverted Border [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border.json)](https://github.com/copier-org/copier)\n\n  3. Badge Grayscale Inverted Border Orange [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-orange.json)](https://github.com/copier-org/copier)\n\n  4. Badge Grayscale Inverted Border Red [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-red.json)](https://github.com/copier-org/copier)\n\n  5. Badge Grayscale Inverted Border Teal [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-teal.json)](https://github.com/copier-org/copier)\n\n  6. Badge Grayscale Inverted Border Purple [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-purple.json)](https://github.com/copier-org/copier)\n\n  7. Badge Black [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-black.json)](https://github.com/copier-org/copier)\n\n\n\n\n## Credits[¶](#credits \"Permanent link\")\n\nSpecial thanks go to [jpsca](https://github.com/jpsca) for originally creating `Copier`. This project would not be a thing without him.\n\nMany thanks to [pykong](https://github.com/pykong) who took over maintainership on the project, promoted it, and laid out the bases of what the project is today.\n\nBig thanks also go to [yajo](https://github.com/yajo) for his relentless zest for improving `Copier` even further.\n\nThanks a lot, [pawamoy](https://github.com/pawamoy) for polishing very important rough edges and improving the documentation and UX a lot.\n\nAlso special thanks to [sisp](https://github.com/sisp) for being very helpful in polishing documentation, fixing bugs, helping the community and cleaning up the codebase.\n\nAnd thanks to all financial supporters and folks that give us a shiny star! ⭐\n\n[ ![Star History Chart](https://api.star-history.com/svg?repos=copier-org/copier&type=Date) ](https://star-history.com/#copier-org/copier&Date)\n\nBack to top \n\nMade with [ Material for MkDocs ](https://squidfunk.github.io/mkdocs-material/)\n",
+    "content_quality_score": 0.9,
+    "summary": null,
+    "child_urls": [
+        "https://copier.readthedocs.io/en/stable/#_1",
+        "https://copier.readthedocs.io/en/stable/",
+        "https://copier.readthedocs.io/en/stable/#installation",
+        "https://copier.readthedocs.io/en/stable/#nix-flake",
+        "https://copier.readthedocs.io/en/stable/#quick-start",
+        "https://copier.readthedocs.io/en/stable/#basic-concepts",
+        "https://copier.readthedocs.io/en/stable/#browse-or-tag-public-templates",
+        "https://copier.readthedocs.io/en/stable/#show-your-support",
+        "https://copier.readthedocs.io/en/stable/#copier-badge-variations",
+        "https://copier.readthedocs.io/en/stable/#credits",
+        "https://copier.readthedocs.io/en/stable/creating/",
+        "https://copier.readthedocs.io/en/stable/configuring/",
+        "https://copier.readthedocs.io/en/stable/generating/",
+        "https://copier.readthedocs.io/en/stable/updating/",
+        "https://copier.readthedocs.io/en/stable/reference/cli/",
+        "https://copier.readthedocs.io/en/stable/reference/errors/",
+        "https://copier.readthedocs.io/en/stable/reference/main/",
+        "https://copier.readthedocs.io/en/stable/reference/subproject/",
+        "https://copier.readthedocs.io/en/stable/reference/template/",
+        "https://copier.readthedocs.io/en/stable/reference/tools/",
+        "https://copier.readthedocs.io/en/stable/reference/types/",
+        "https://copier.readthedocs.io/en/stable/reference/user_data/",
+        "https://copier.readthedocs.io/en/stable/reference/vcs/",
+        "https://copier.readthedocs.io/en/stable/comparisons/",
+        "https://copier.readthedocs.io/en/stable/faq/",
+        "https://copier.readthedocs.io/en/stable/contributing/",
+        "https://copier.readthedocs.io/en/stable/changelog/",
+        "https://copier.readthedocs.io/en/latest",
+        "https://github.com/copier-org/copier",
+        "https://gitpod.io/#https://github.com/copier-org/copier",
+        "https://codecov.io/gh/copier-org/copier",
+        "https://github.com/copier-org/copier/actions?query=branch%3Amaster",
+        "http://mypy-lang.org/",
+        "https://pypi.org/project/copier/",
+        "https://github.com/psf/black",
+        "https://en.wikipedia.org/wiki/Scaffold_(programming)",
+        "https://github.com/topics/copier-template",
+        "https://github.com/jpsca",
+        "https://github.com/pykong",
+        "https://github.com/yajo",
+        "https://github.com/pawamoy",
+        "https://github.com/sisp",
+        "https://star-history.com/#copier-org/copier&Date",
+        "https://squidfunk.github.io/mkdocs-material/"
+    ]
+}

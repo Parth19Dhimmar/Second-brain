@@ -1,0 +1,29 @@
+# Project setups, Templates and QA
+
+# Articles
+
+	- [Ultimate Setup for Your Next Python Project](https://martinheinz.dev/blog/14)
+	- [MLOps Python Package](https://github.com/fmind/mlops-python-package/tree/main)
+	- [https://realpython.com/intro-to-pyenv/](https://realpython.com/intro-to-pyenv/)
+
+# Examples
+
+	[Link Preview](https://github.com/FrancescoSaverioZuppichini/python-template)
+	
+	[MLOps Python Package](https://github.com/fmind/mlops-python-package/tree/main)
+	[Linters and pre-commit hooks can make your life so much easier.](https://www.linkedin.com/in/hoogvliets/recent-activity/all/) [[GitHub repo](https://github.com/marvelousmlops/precommit-heaven/blob/master/.pre-commit-config.yaml)]
+	[Copier Poetry](https://github.com/pawamoy/copier-poetry)
+
+# Tools
+
+	- [Copier](https://copier.readthedocs.io/en/stable/)
+	- [Cookiecutter](https://github.com/cookiecutter/cookiecutter)
+	- [Pre-commit](https://github.com/pre-commit/pre-commit)
+	
+	[Link Preview](https://github.com/pallets/click)
+	[Link Preview](https://github.com/fastapi/typer)
+
+
+# Python Syntax
+
+[https://mypy.readthedocs.io/en/latest/generics.html](https://mypy.readthedocs.io/en/latest/generics.html)

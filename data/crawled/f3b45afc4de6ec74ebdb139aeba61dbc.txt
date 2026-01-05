@@ -1,0 +1,190 @@
+[Home](/)[Contact](/contact)[Subscribe](/subscribe)[Tip Jar](https://ko-fi.com/martinheinz)
+[](#)
+
+  * [](/blog/22)
+  * [](/blog/24)
+
+
+
+Previous post
+
+Next post
+
+Back to top
+
+# Implementing gRPC server using Python
+
+Martin
+
+May 15, 2020
+
+[Python](/tag/python/)[gRPC](/tag/grpc/)[API](/tag/api/)
+
+Nowadays, when people want to implement backend API, they go straight to creating application with RESTful API that communicates using JSON, without even considering other options. In the recent years though, gRPC and its _protobufs_ started to get some traction and popularity thanks to many of their advantages. So, let's see what's all the buzz/hype about and implement gRPC server using Python! 
+
+_TL;DR: Here is my repository with`grpc` branch with all the sources from this article: <https://github.com/MartinHeinz/python-project-blueprint/tree/grpc>_
+
+## What is gRPC, Anyway?
+
+_gRPC_ is Remote Procedure Call (RPC) protocol, that leverages _Protocol Buffers (protobufs)_ as it's message format. Using gRPC, client application can directly call method available on remote server using method stubs. It doesn't matter in what language the server-side application is implemented as long as you have stubs (generated) for you client-side language. gRPC supports many languages, including Go, Java, Ruby, C# or our language of choice - Python. You can find more info in this [overview](https://grpc.io/docs/guides/). 
+
+Now, what are _Protocol Buffers (protobufs)_? _Protobufs_ are alternative to formats like JSON or XML. They are smaller, simpler and more efficient way of serializing data. To use _protobufs_ , you need to define how you want the exchanged messages to look, for example (for more specifics see [this language guide](https://developers.google.com/protocol-buffers/docs/proto)): 
+
+```
+`// example.proto syntax = "proto3"; package example; message User { int32 id = 1; string name = 2; } message UserInfo { int32 age = 1; string address = 2; string phoneNumber = 3; }`
+```
+
+Aside from messages, we also need to define `service`s and their `rpc` methods that will be implemented on server-side and called from client-side: 
+
+```
+`// ... service UserService { rpc GetUserInfo (User) returns (UserInfo) {} }`
+```
+
+## Why Should I Care, Anyway?
+
+There are quite a few advantages to using gRPC over REST. First off, gRPC is much better when it comes to performance, thanks to the tight packing of _protobufs_ , which reduces size of payloads being send. It also uses HTTP/2, instead of HTTP/1.1 like REST does. For these reasons it's a great choice for IoT, mobile devices or other constrained/low-power environments. 
+
+Another reason to choose gRPC over REST is that REST doesn't mandate any real structure. You might define format of requests and responses using OpenAPI, but that's loose and optional. gRPC contracts on the other hand are stricter and clearly defined. 
+
+As already mentioned gRPC is using HTTP/2 and it's good to mention that is's taking full advantage of it's features. To name a few: concurrent requests, streaming instead of request-response, smaller sensitivity to latency. 
+
+That said, there are also disadvantages and the biggest one being adoption. Not all clients (browsers) support use of HTTP/2 making it problematic for external use. Considering performance advantages though, it's clearly great choice for internal services and communication, which you have control over. 
+
+## Setting Up
+
+To do anything with gRPC and _protobufs_ , we need to install its compiler: 
+
+```
+`#!/bin/bash # Download and Unzip compiler curl -OL https://github.com/protocolbuffers/protobuf/releases/download/v3.11.4/protoc-3.11.4-linux-x86_64.zip unzip protoc-3.11.4-linux-x86_64.zip -d protoc3 # Move the binary to directory which is PATH sudo mv protoc3/bin/* /usr/local/bin/ sudo mv protoc3/include/* /usr/local/include/ # Change owner sudo chown $USER /usr/local/bin/protoc sudo chown -R $USER /usr/local/include/google # Test if it works protoc --version # libprotoc 3.11.4`
+```
+
+Considering that we are using python to build our application, we will also need `grpcio` and `grpcio-tools` libraries: 
+
+```
+`# Activate venv if you have one source .../venv/bin/activate pip install grpcio grpcio-tools`
+```
+
+## Let's Build Something
+
+With all tools ready we can now actually move onto building the application. For this example I chose simple echo server that sends you back your own messages. 
+
+First thing we should talk about though, is project layout. I chose following directory/file structure: 
+
+```
+`. ├── blueprint <- Source root - Name of our project │ ├── app.py <- Application server │ ├── echo_client.py <- gRPC client for testing │ ├── generated <- Generated gRPC Python code │ │ ├── echo_pb2_grpc.py │ │ └── echo_pb2.py │ ├── grpc.py <- Actual gRPC code │ ├── __init__.py │ ├── __main__.py │ ├── proto <- Protobuf definitions │ │ └── echo.proto │ └── resources ├── tests <- Test suite │ ├── conftest.py │ ├── context.py │ ├── __init__.py │ └── test_grpc.py ├── Makefile ├── pytest.ini └── requirements.txt`
+```
+
+This layout helps us clearly separate _protobuf_ files (`.../proto`), generated sources (`.../generated`), actual source code and our test suite. To learn more about how to setup Python project with this kind of layout you can checkout my previous article [_"Ultimate Setup for Your Next Python Project"_](https://martinheinz.dev/blog/14). 
+
+So, to build the gRPC server, we - first and foremost - need to define _messages_ and _service(s)_ it will use you to communicate with clients: 
+
+```
+`// echo.proto syntax = "proto3"; package echo; // The request message containing the user's message. message EchoRequest { string message = 1; } // The response message containing the original message. message EchoReply { string message = 1; } // The echo service definition. service Echo { // Echo back reply. rpc Reply (EchoRequest) returns (EchoReply) {} }`
+```
+
+In this `echo.proto` file we can see very simple definition of message types - one for request (`EchoRequest`) and one for reply (`EchoReply`) from server. These messages are then used by `Echo` service, which consists of one RPC method called `Reply`. 
+
+To be able to use these definitions in Python code, we need to generate server and client interfaces. To do so, we can run this command: 
+
+```
+`python3 -m grpc_tools.protoc \ --python_out=./blueprint/generated \ --grpc_python_out=./blueprint/generated \ ./blueprint/proto/*.proto sed -i -E 's/^import.*_pb2/from . \0/' ./blueprint/generated/*.py`
+```
+
+We specified quite a few arguments. First of them - `-I blueprint/proto`, tells `grpc_tools` where to look for our `.proto` files (it defines `PATH`). Next two, `--python-out` and `--grpc_python_out` specify where to output generated `*_pb2.py` and `*_grpc_pb2.py` files respectively. Last argument - `./blueprint/proto/*.proto` is actual path to `.proto` files - this might seem like redundant as we specified `PATH` with `-I`, but you need both to make this work. 
+
+When you run this one command however, you will end up with some broken imports in these generated files. There are multiple raised [issues](https://github.com/protocolbuffers/protobuf/issues/1491) in `grpc` and `protobuf` repositories and the easiest solution is to just fix those imports with `sed`. 
+
+Writing this command out would not be very enjoyable nor efficient, so I wrapped it in `make` target to make your (and mine) life easier. You can find complete `Makefile` in my repository [here](https://github.com/MartinHeinz/python-project-blueprint/blob/grpc/Makefile). 
+
+There's quite a bit of code that gets generated using this command, so I won't go over every little bit, but there are a few important things to look out for. Each of these `*_pb2_grpc.py` files has following 3 things: 
+
+  * _Stub_ - First of them - _Stub_ and in our case `EchoStub` - is a class used by client to connect to gRPC service
+  *  _Servicer_ - In our case `EchoServicer` - is used by server to implement the gRPC service
+  *  _Registration Function_ - Finally piece, `add_EchoServicer_to_server` that is needed to register servicer with gRPC server.
+
+
+
+So, let's go over the code to see how to use this generated code. 
+
+First thing we want to do is implement the actual service. We will do that in `grpc.py` file, where we will keep all gRPC specific code: 
+
+```
+`# grpc.py from .generated import echo_pb2_grpc, echo_pb2 class Echoer(echo_pb2_grpc.EchoServicer): def Reply(self, request, context): return echo_pb2.EchoReply(message=f'You said: {request.message}')`
+```
+
+Above, we create `Echoer` class which inherits from generated `EchoServicer` class, which contains all the methods defined in `.proto` file. All these methods are intended to be overridden in our implementation and here we do just that. We implement the only method `Reply` by returning `EchoReply` message that we also previously defined in the `.proto` file. I want to point out that the `request` parameter here is an instance of `EchoReply` - that's why we can get the `message` out of it. We don't use the `context` parameter here, but it contains some useful RPC-specific information, like timeout limits for example. 
+
+One neat feature I also want mention is that in case you wanted to leverage the _response-streaming_ you could replace `return` with `yield` and return multiple responses (in `for` cycle). 
+
+Now that we implemented the gRPC service, we want to run it. To do so, we need a server: 
+
+```
+`# app.py from concurrent import futures import grpc from .generated import echo_pb2_grpc from .grpc import Echoer class Server: @staticmethod def run(): server = grpc.server(futures.ThreadPoolExecutor(max_workers=10)) echo_pb2_grpc.add_EchoServicer_to_server(Echoer(), server) server.add_insecure_port('[::]:50051') server.start() server.wait_for_termination()`
+```
+
+All this is, is just a single static method. It creates server from `grpc` library with a few workers - in this case 10. After that it uses previously mentioned registration function (`add_EchoServicer_to_server`) to bind our `Echoer` service to the server. Remaining 3 lines just add listening port, start the server and wait for interrupt. 
+
+All that remains for the server-side is `__main__.py`, so that we can start it as Python module: 
+
+```
+`# __main__.py from .app import Server if __name__ == '__main__': Server.run()`
+```
+
+With that, we are all set to start the server. You can do that with `python -m blueprint` or if you are using my template, then just `make run`. 
+
+We have server running, but we have no way of calling it... That's where the client comes it. For demonstration purposes we will create the client in Python using the stubs generated for us, but you could write the client in completely different language. 
+
+```
+`from __future__ import print_function import logging import grpc from .generated import echo_pb2 from .generated import echo_pb2_grpc def run(): with grpc.insecure_channel('localhost:50051') as channel: stub = echo_pb2_grpc.EchoStub(channel) response = stub.Reply(echo_pb2.EchoRequest(message='Hello World!')) print("Echo client received: " + response.message) if __name__ == '__main__': logging.basicConfig() run()`
+```
+
+For the client we need only one function, which we call `run`. After connecting the server, it creates stub that will allow us to call the server method, which is the next step. It calls `Reply` method implemented on server-side by passing in `EchoRequest` message with some payload. All that's left is to just print it. 
+
+Now, let's run the client and see if everything works as expected: 
+
+```
+`~ $ python -m blueprint.echo_client Echo client received: You said: Hello World!`
+```
+
+And it does work! 
+
+## Testing with Pytest
+
+As with all my little projects and articles, we are not done until there are unit tests for all the code. To write sample test for this gRPC server, I will use _Pytest_ and its plugin `pytest-grpc`. 
+
+Let's first have a look at the fixtures used to simulate request-response exchange between client and server: 
+
+```
+`# conftest.py import pytest @pytest.fixture(scope='module') def grpc_add_to_server(): from blueprint.generated.echo_pb2_grpc import add_EchoServicer_to_server return add_EchoServicer_to_server @pytest.fixture(scope='module') def grpc_servicer(): from blueprint.grpc import Echoer return Echoer() @pytest.fixture(scope='module') def grpc_stub(grpc_channel): from blueprint.generated.echo_pb2_grpc import EchoStub return EchoStub(grpc_channel)`
+```
+
+I think these are all pretty simple. Just make sure to use these specific names for these fixtures, as that's what the plugin looks for. One thing to notice is the `grpc_channel` argument in `grpc_stub`. This is a fake channel supplied by `pytest-grpc` plugin. For more info, I recommend going directly to `pytest-grpc` [source code](https://github.com/kataev/pytest-grpc/blob/master/pytest_grpc/plugin.py), as the plugin is pretty simple. With that, let's move on to the actual test: 
+
+```
+`# test_grpc.py def test_reply(grpc_stub): value = 'test-data' request = blueprint.echo_pb2.EchoRequest(message=value) response = grpc_stub.Reply(request) assert response.message == f'You said: {value}'`
+```
+
+We create this test by leveraging `grpc_stub` fixture which we wrote in previous step. We create `EchoRequest` which is passed to the `grpc_stub.Reply`, followed by simple `assert`. And, when we run the test (`make run`): 
+
+```
+`plugins: cov-2.8.1, metadata-1.8.0, grpc-0.7.0, html-2.0.1 collected 1 item tests/test_grpc.py::test_reply PASSED [100%] ----------- coverage: platform linux, python 3.7.5-final-0 ----------- Name Stmts Miss Branch BrPart Cover ------------------------------------------------------------------------ blueprint/__init__.py 3 0 0 0 100% blueprint/app.py 11 5 0 0 55% blueprint/echo_client.py 10 10 0 0 0% blueprint/generated/echo_pb2.py 18 0 0 0 100% blueprint/generated/echo_pb2_grpc.py 18 4 0 0 78% blueprint/grpc.py 4 0 0 0 100% ------------------------------------------------------------------------ TOTAL 64 19 0 0 70% Coverage XML written to file coverage.xml ============================================================ 1 passed in 0.09s ============================================`
+```
+
+We passed! Aaaand we are done! 
+
+## Conclusion
+
+If you take away just one thing from this article, then I think it should be the fact that we should always consider possible alternatives when deciding on solution/technology we want to use for some project. It doesn't always need to be REST and JSON. Sometimes gRPC might fit the requirements way better. This kind of thinking also applies to any other technology or tool. To see full code listings with `Makefile` automation, prepared Docker images and even setup for deployment to Kubernetes, please check out `grpc` branch in my repository here: <https://github.com/MartinHeinz/python-project-blueprint/tree/master>. Any feedback is appreciated, as is star or fork in case you like this kind of content. 😉 
+
+[PreviousPrev.](/blog/22)[NextNext](/blog/24)TopTop[SubscribeSub](/subscribe)[Tip JarTips](https://ko-fi.com/martinheinz)
+
+##  Subscribe:
+
+Copyright © 2024 Martin Heinz 
+
+  * [Home](/)
+  * [Contact](/contact)
+  * [Subscribe](/subscribe)
+  * [Tip Jar](https://ko-fi.com/martinheinz)
+
+

@@ -1,0 +1,656 @@
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including **professional and job ads**) on and off LinkedIn. Learn more in our [Cookie Policy](https://www.linkedin.com/legal/cookie-policy).
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your [settings](https://www.linkedin.com/mypreferences/g/guest-cookies).
+
+Accept  Reject 
+
+Agree & Join LinkedIn 
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy). 
+
+[ Skip to main content ](#main-content) [ LinkedIn ](/?trk=public_post_nav-header-logo)
+
+  * [ Articles  ](https://www.linkedin.com/pulse/topics/home/?trk=public_post_guest_nav_menu_articles)
+  * [ People  ](https://www.linkedin.com/pub/dir/+/+?trk=public_post_guest_nav_menu_people)
+  * [ Learning  ](https://www.linkedin.com/learning/search?trk=public_post_guest_nav_menu_learning)
+  * [ Jobs  ](https://www.linkedin.com/jobs/search?trk=public_post_guest_nav_menu_jobs)
+  * [ Games  ](https://www.linkedin.com/games?trk=public_post_guest_nav_menu_games)
+  * [ Get the app  ](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_nav_upsell&trk=public_post_guest_nav_menu_windows)
+
+
+
+[ Join now ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_nav-header-join) [ Sign in ](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&fromSignIn=true&trk=public_post_nav-header-signin)
+
+#  Marie Stephen Leo’s Post
+
+[ ![View profile for Marie Stephen Leo, graphic](https://media.licdn.com/dms/image/v2/C4D03AQHQaF15RYIjkg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516863550707?e=2147483647&v=beta&t=QpBdwMt10lYCFflgC3axi9LItsBO-f5iybKYF5kojoY) ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_feed-actor-image)
+
+[ Marie Stephen Leo ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_feed-actor-name) Marie Stephen Leo is an Influencer
+
+Data & AI @ Sephora | Linkedin Top Voice 
+
+9mo  Edited 
+
+  * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+
+
+One line of code can reduce your vector database memory requirements by 32X and speed up retrieval by 45x with a mere 4% drop in accuracy! Embedding Quantization is a breakthrough in drastically reducing vector database index size and retrieval latency with minimal accuracy loss! Embedding Quantization is easy with Sentence Transformers: 1. Pick a suitable Sentence Transformer model, like "mixedbread-ai/mxbai-embed-large-v1," which is currently a leading model in the MTEB benchmark. 2. Generate the sentence embeddings as usual. This sentence embedding is a 1024 dimension array, each being a floating-point value. 3. [NEW] Add one line of code to convert the regular embeddings to binary quantized embeddings. Each floating point value in the sentence embedding array is converted to binary with one if the float value exceeds 0. Now that we have 1024 binary values, we can compress eight binary numbers into a single integer; hence, the dimensionality drops from 1024 to 128. 4. Finally, we use hamming distance instead of cosine similarity to compare the sentences using these integer arrays. Hamming distance is equivalent to cosine distance for binary vectors but massively faster to compute and with the added advantage of allowing dimensionality compression from 1024 to 128! I tested the "mixedbread-ai/mxbai-embed-large-v1" and everyone's favorite "all-MiniLM-L6-v2" models with excellent results, so the method seems to work on multiple sentence transformer models. Most vector DBs, such as [Qdrant](https://de.linkedin.com/company/qdrant?trk=public_post-text) and [The Milvus Project](https://www.linkedin.com/company/the-milvus-project?trk=public_post-text), already support binary embeddings, so using them in your RAG applications is straightforward to improve your app's performance! Sadly, I couldn't find any information on support in [Pinecone](https://www.linkedin.com/company/pinecone-io?trk=public_post-text). 🤗 Detailed blog post on [Hugging Face](https://www.linkedin.com/company/huggingface?trk=public_post-text): [https://lnkd.in/eKaQNbEm](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeKaQNbEm&urlhash=g9fb&trk=public_post-text) Follow me for more tips on building successful ML and LLM products! Medium: [https://lnkd.in/g2jAJn5](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg2jAJn5&urlhash=dzUT&trk=public_post-text) X: [https://lnkd.in/g_JbKEkM](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg_JbKEkM&urlhash=7SSJ&trk=public_post-text) [#generativeai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgenerativeai&trk=public_post-text) [#llm](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post-text) [#nlp](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnlp&trk=public_post-text) [#artificialintelligence](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fartificialintelligence&trk=public_post-text) [#mlops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmlops&trk=public_post-text) [#llmops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllmops&trk=public_post-text)
+
+  * ![text](https://media.licdn.com/dms/image/v2/D4E22AQGG4S_wTpehZA/feedshare-shrink_800/feedshare-shrink_800/0/1712068832404?e=2147483647&v=beta&t=f4yDaAdjs4Hzw-oVDD0RTzxJeSMYnlJz-PNCWa5Q6eo)
+
+
+
+[ ![](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) ![](https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu) ![](https://static.licdn.com/aero-v1/sc/h/asiqslyf4ooq7ggllg4fyo4o2) 661  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_social-actions-reactions) [ 57 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment-cta)
+
+Share 
+
+  * Copy
+  * LinkedIn
+  * Facebook
+  * Twitter
+
+
+
+[ ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_comment_actor-image)
+
+[ Marie Stephen Leo ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_comment_actor-name)
+
+Data & AI @ Sephora | Linkedin Top Voice
+
+8mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+[singgee lim](https://sg.linkedin.com/in/singgee-lim?trk=public_post_comment-text) [Su Yee Liew](https://sg.linkedin.com/in/su-yee-liew-5b1372158?trk=public_post_comment-text)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reactions) 2 Reactions 
+
+[ ](https://in.linkedin.com/in/kartik-chikkerur-b5a3b199?trk=public_post_comment_actor-image)
+
+[ Kartik Chikkerur ](https://in.linkedin.com/in/kartik-chikkerur-b5a3b199?trk=public_post_comment_actor-name)
+
+Lead Data Scientist - GenAI Architect | Machine Learning Platform | H2O at Lowe's Companies, Inc.
+
+9mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Can you help me out how the Milvus implements this ? I use retriever directly to get the relevant docs . How can I get above working in retriever?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reactions) 2 Reactions 
+
+[ ](https://tr.linkedin.com/in/nusret-ozates?trk=public_post_comment_actor-image)
+
+[ Nusret Özateş ](https://tr.linkedin.com/in/nusret-ozates?trk=public_post_comment_actor-name)
+
+Google Cloud Certified Professional Machine Learning Engineer | MSc @Koc University | MLOps Engineer
+
+9mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+I was expecting the values of binary_embeddings 0 and 1 as the precision is binary. Did I miss something?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reactions) 2 Reactions 
+
+[ ](https://www.linkedin.com/in/iliasmiraoui?trk=public_post_comment_actor-image)
+
+[ Ilias Miraoui ](https://www.linkedin.com/in/iliasmiraoui?trk=public_post_comment_actor-name)
+
+Building with Machine Learning
+
+9mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Has anyone compared the quantised version with the onnx version on cpu? Feels like the better comparison than the regular sentence-transformer one
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reactions) 2 Reactions 
+
+[ ](https://pk.linkedin.com/in/zubairahmed-ai?trk=public_post_comment_actor-image)
+
+[ Zubair A. ](https://pk.linkedin.com/in/zubairahmed-ai?trk=public_post_comment_actor-name)
+
+Founder & Lead AI Engineer Rewisdom AI - Enabling Businesses to Evolve with AI
+
+9mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+[Marie Stephen Leo](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_comment-text) Need to see how to use this with LanceDB, already using "mixedbread-ai/mxbai-embed-large-v1" for embedding and need LanceDB's [table.search](http://table.search?trk=public_post_comment-text) to work with hamming distance, also not sure if LanceDB support binary quantized embeddings, any pointers?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reactions) 2 Reactions 
+
+[ ](https://de.linkedin.com/in/aamir-shakir?trk=public_post_comment_actor-image)
+
+[ Aamir Shakir ](https://de.linkedin.com/in/aamir-shakir?trk=public_post_comment_actor-name)
+
+baking @ mixedbread.ai | hiring cracked people.
+
+9mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Hey the 4% drop is only true for the [mixedbread.ai](https://de.linkedin.com/company/mixedbread-ai?trk=public_post_comment-text) models and with float rescoring :)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reply) [ 7 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reactions) 8 Reactions 
+
+[ ](https://in.linkedin.com/in/dayananda-reddy-challa?trk=public_post_comment_actor-image)
+
+[ dayananda reddy challa ](https://in.linkedin.com/in/dayananda-reddy-challa?trk=public_post_comment_actor-name)
+
+Data Scientist | Machine Learning | Python | Java | Algorithms and Datastructures
+
+9mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+[Marie Stephen Leo](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_comment-text) any specific reason for using hamming distance?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reactions) 2 Reactions 
+
+[ ](https://vn.linkedin.com/in/quang-tran-huynh-duy-b68558203?trk=public_post_comment_actor-image)
+
+[ Quang Tran Huynh Duy ](https://vn.linkedin.com/in/quang-tran-huynh-duy-b68558203?trk=public_post_comment_actor-name)
+
+MLE@LizAI
+
+9mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+I carried out my experiment and the result was that the encoding process with binary precision was slower than the normal process. Is it weird?
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reply) 1 Reaction 
+
+[ ](https://uk.linkedin.com/in/jamesakrigg?trk=public_post_comment_actor-image)
+
+[ James Akrigg ](https://uk.linkedin.com/in/jamesakrigg?trk=public_post_comment_actor-name)
+
+Let's collaborate, innovate, and shape the future together!
+
+9mo 
+
+  * [ Report this comment ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+
+Binary vectors and hamming distance planned for pgvector - see [https://github.com/pgvector/pgvector/issues/508](https://github.com/pgvector/pgvector/issues/508?trk=public_post_comment-text) for more information.
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_comment_reactions) 2 Reactions 
+
+[ See more comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_see-more-comments)
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_feed-cta-banner-cta)
+
+##  More Relevant Posts 
+
+  * [](https://www.linkedin.com/posts/reeshabh-choudhary_vectordatabase-activity-7181184225667162112-5-Tw)
+
+[ ](https://in.linkedin.com/in/reeshabh-choudhary?trk=public_post_feed-actor-image)
+
+[ Reeshabh Choudhary ](https://in.linkedin.com/in/reeshabh-choudhary?trk=public_post_feed-actor-name)
+
+Student. Software Architect. Author : Objects, Data & AI; Concurrency & Parallelism. Interested in History & Sports. 
+
+9mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Freeshabh-choudhary_vectordatabase-activity-7181184225667162112-5-Tw&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+🤔 So, What separates binary quantized embeddings from normal vector embeddings? 🔔 Quantization process is used to reduce the precision or dynamic range of data to facilitate storage, transmission, or computation. It becomes important in terms of represented texts into vectors (Embedding) as data points are represented in high dimensional space. Once we quantize these vectors, there will be reduced number of bits required to encode each vector. Binary quantized embeddings represent each dimension of the embedding vector using only one bit (0 or 1), instead of the traditional floating-point or fixed-point representation used in normal vector embeddings. This significantly reduces the storage requirements for each embedding. [#VectorDatabase](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fvectordatabase&trk=public_post-text)
+
+[ ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_reshare_feed-actor-image)
+
+[ Marie Stephen Leo ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_reshare_feed-actor-name) Marie Stephen Leo is an Influencer
+
+Data & AI @ Sephora | Linkedin Top Voice 
+
+9mo  Edited 
+
+One line of code can reduce your vector database memory requirements by 32X and speed up retrieval by 45x with a mere 4% drop in accuracy! Embedding Quantization is a breakthrough in drastically reducing vector database index size and retrieval latency with minimal accuracy loss! Embedding Quantization is easy with Sentence Transformers: 1. Pick a suitable Sentence Transformer model, like "mixedbread-ai/mxbai-embed-large-v1," which is currently a leading model in the MTEB benchmark. 2. Generate the sentence embeddings as usual. This sentence embedding is a 1024 dimension array, each being a floating-point value. 3. [NEW] Add one line of code to convert the regular embeddings to binary quantized embeddings. Each floating point value in the sentence embedding array is converted to binary with one if the float value exceeds 0. Now that we have 1024 binary values, we can compress eight binary numbers into a single integer; hence, the dimensionality drops from 1024 to 128. 4. Finally, we use hamming distance instead of cosine similarity to compare the sentences using these integer arrays. Hamming distance is equivalent to cosine distance for binary vectors but massively faster to compute and with the added advantage of allowing dimensionality compression from 1024 to 128! I tested the "mixedbread-ai/mxbai-embed-large-v1" and everyone's favorite "all-MiniLM-L6-v2" models with excellent results, so the method seems to work on multiple sentence transformer models. Most vector DBs, such as [Qdrant](https://de.linkedin.com/company/qdrant?trk=public_post_reshare-text) and [The Milvus Project](https://www.linkedin.com/company/the-milvus-project?trk=public_post_reshare-text), already support binary embeddings, so using them in your RAG applications is straightforward to improve your app's performance! Sadly, I couldn't find any information on support in [Pinecone](https://www.linkedin.com/company/pinecone-io?trk=public_post_reshare-text). 🤗 Detailed blog post on [Hugging Face](https://www.linkedin.com/company/huggingface?trk=public_post_reshare-text): [https://lnkd.in/eKaQNbEm](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeKaQNbEm&urlhash=g9fb&trk=public_post_reshare-text) Follow me for more tips on building successful ML and LLM products! Medium: [https://lnkd.in/g2jAJn5](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg2jAJn5&urlhash=dzUT&trk=public_post_reshare-text) X: [https://lnkd.in/g_JbKEkM](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg_JbKEkM&urlhash=7SSJ&trk=public_post_reshare-text) [#generativeai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgenerativeai&trk=public_post_reshare-text) [#llm](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post_reshare-text) [#nlp](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnlp&trk=public_post_reshare-text) [#artificialintelligence](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fartificialintelligence&trk=public_post_reshare-text) [#mlops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmlops&trk=public_post_reshare-text) [#llmops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllmops&trk=public_post_reshare-text)
+
+[ 1  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Freeshabh-choudhary_vectordatabase-activity-7181184225667162112-5-Tw&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Freeshabh-choudhary_vectordatabase-activity-7181184225667162112-5-Tw&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Freeshabh-choudhary_vectordatabase-activity-7181184225667162112-5-Tw&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Freeshabh-choudhary_vectordatabase-activity-7181184225667162112-5-Tw&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/josep-oriol-ayats_using-a-quantized-embedder-and-storing-the-activity-7181211638262304768-WjFB)
+
+[ ](https://es.linkedin.com/in/josep-oriol-ayats?trk=public_post_feed-actor-image)
+
+[ JosepOriol Ayats ](https://es.linkedin.com/in/josep-oriol-ayats?trk=public_post_feed-actor-name)
+
+Software Engineer | Python | LLMOps | AI/ML 
+
+9mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjosep-oriol-ayats_using-a-quantized-embedder-and-storing-the-activity-7181211638262304768-WjFB&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Using a quantized embedder and storing the embeddings with binary precision can be a game-changer for speed, indeed
+
+[ ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_reshare_feed-actor-image)
+
+[ Marie Stephen Leo ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_reshare_feed-actor-name) Marie Stephen Leo is an Influencer
+
+Data & AI @ Sephora | Linkedin Top Voice 
+
+9mo  Edited 
+
+One line of code can reduce your vector database memory requirements by 32X and speed up retrieval by 45x with a mere 4% drop in accuracy! Embedding Quantization is a breakthrough in drastically reducing vector database index size and retrieval latency with minimal accuracy loss! Embedding Quantization is easy with Sentence Transformers: 1. Pick a suitable Sentence Transformer model, like "mixedbread-ai/mxbai-embed-large-v1," which is currently a leading model in the MTEB benchmark. 2. Generate the sentence embeddings as usual. This sentence embedding is a 1024 dimension array, each being a floating-point value. 3. [NEW] Add one line of code to convert the regular embeddings to binary quantized embeddings. Each floating point value in the sentence embedding array is converted to binary with one if the float value exceeds 0. Now that we have 1024 binary values, we can compress eight binary numbers into a single integer; hence, the dimensionality drops from 1024 to 128. 4. Finally, we use hamming distance instead of cosine similarity to compare the sentences using these integer arrays. Hamming distance is equivalent to cosine distance for binary vectors but massively faster to compute and with the added advantage of allowing dimensionality compression from 1024 to 128! I tested the "mixedbread-ai/mxbai-embed-large-v1" and everyone's favorite "all-MiniLM-L6-v2" models with excellent results, so the method seems to work on multiple sentence transformer models. Most vector DBs, such as [Qdrant](https://de.linkedin.com/company/qdrant?trk=public_post_reshare-text) and [The Milvus Project](https://www.linkedin.com/company/the-milvus-project?trk=public_post_reshare-text), already support binary embeddings, so using them in your RAG applications is straightforward to improve your app's performance! Sadly, I couldn't find any information on support in [Pinecone](https://www.linkedin.com/company/pinecone-io?trk=public_post_reshare-text). 🤗 Detailed blog post on [Hugging Face](https://www.linkedin.com/company/huggingface?trk=public_post_reshare-text): [https://lnkd.in/eKaQNbEm](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeKaQNbEm&urlhash=g9fb&trk=public_post_reshare-text) Follow me for more tips on building successful ML and LLM products! Medium: [https://lnkd.in/g2jAJn5](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg2jAJn5&urlhash=dzUT&trk=public_post_reshare-text) X: [https://lnkd.in/g_JbKEkM](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg_JbKEkM&urlhash=7SSJ&trk=public_post_reshare-text) [#generativeai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgenerativeai&trk=public_post_reshare-text) [#llm](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post_reshare-text) [#nlp](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnlp&trk=public_post_reshare-text) [#artificialintelligence](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fartificialintelligence&trk=public_post_reshare-text) [#mlops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmlops&trk=public_post_reshare-text) [#llmops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllmops&trk=public_post_reshare-text)
+
+[ 1  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjosep-oriol-ayats_using-a-quantized-embedder-and-storing-the-activity-7181211638262304768-WjFB&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjosep-oriol-ayats_using-a-quantized-embedder-and-storing-the-activity-7181211638262304768-WjFB&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjosep-oriol-ayats_using-a-quantized-embedder-and-storing-the-activity-7181211638262304768-WjFB&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjosep-oriol-ayats_using-a-quantized-embedder-and-storing-the-activity-7181211638262304768-WjFB&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/ibrahim-sobh-phd-8681757_ai-genai-llms-activity-7181991471389040640-jWoA)
+
+[ ](https://eg.linkedin.com/in/ibrahim-sobh-phd-8681757?trk=public_post_feed-actor-image)
+
+[ Ibrahim Sobh - PhD ](https://eg.linkedin.com/in/ibrahim-sobh-phd-8681757?trk=public_post_feed-actor-name)
+
+🎓 Senior Expert of Artificial Intelligence, Valeo Group | LinkedIn Top Voice | Machine Learning | Deep Learning | Data Science | Computer Vision | NLP | Developer | Researcher | Lecturer 
+
+9mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fibrahim-sobh-phd-8681757_ai-genai-llms-activity-7181991471389040640-jWoA&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+🚀 𝐄𝐦𝐛𝐞𝐝𝐝𝐢𝐧𝐠 𝐐𝐮𝐚𝐧𝐭𝐢𝐳𝐚𝐭𝐢𝐨𝐧 One line of code can reduce your vector database memory requirements by 32X and speed up retrieval by 45x with a mere 4% drop in accuracy! Embedding Quantization is a breakthrough in drastically reducing vector database index size and retrieval latency with minimal accuracy loss! [#ai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#genai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgenai&trk=public_post-text) [#llms](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllms&trk=public_post-text) ♻️ 𝑰𝒇 𝒚𝒐𝒖 𝒇𝒐𝒖𝒏𝒅 𝒕𝒉𝒊𝒔 𝒉𝒆𝒍𝒑𝒇𝒖𝒍, 𝒌𝒊𝒏𝒅𝒍𝒚 𝒓𝒆𝒑𝒐𝒔𝒕 ♻️
+
+[ ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_reshare_feed-actor-image)
+
+[ Marie Stephen Leo ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_reshare_feed-actor-name) Marie Stephen Leo is an Influencer
+
+Data & AI @ Sephora | Linkedin Top Voice 
+
+9mo  Edited 
+
+One line of code can reduce your vector database memory requirements by 32X and speed up retrieval by 45x with a mere 4% drop in accuracy! Embedding Quantization is a breakthrough in drastically reducing vector database index size and retrieval latency with minimal accuracy loss! Embedding Quantization is easy with Sentence Transformers: 1. Pick a suitable Sentence Transformer model, like "mixedbread-ai/mxbai-embed-large-v1," which is currently a leading model in the MTEB benchmark. 2. Generate the sentence embeddings as usual. This sentence embedding is a 1024 dimension array, each being a floating-point value. 3. [NEW] Add one line of code to convert the regular embeddings to binary quantized embeddings. Each floating point value in the sentence embedding array is converted to binary with one if the float value exceeds 0. Now that we have 1024 binary values, we can compress eight binary numbers into a single integer; hence, the dimensionality drops from 1024 to 128. 4. Finally, we use hamming distance instead of cosine similarity to compare the sentences using these integer arrays. Hamming distance is equivalent to cosine distance for binary vectors but massively faster to compute and with the added advantage of allowing dimensionality compression from 1024 to 128! I tested the "mixedbread-ai/mxbai-embed-large-v1" and everyone's favorite "all-MiniLM-L6-v2" models with excellent results, so the method seems to work on multiple sentence transformer models. Most vector DBs, such as [Qdrant](https://de.linkedin.com/company/qdrant?trk=public_post_reshare-text) and [The Milvus Project](https://www.linkedin.com/company/the-milvus-project?trk=public_post_reshare-text), already support binary embeddings, so using them in your RAG applications is straightforward to improve your app's performance! Sadly, I couldn't find any information on support in [Pinecone](https://www.linkedin.com/company/pinecone-io?trk=public_post_reshare-text). 🤗 Detailed blog post on [Hugging Face](https://www.linkedin.com/company/huggingface?trk=public_post_reshare-text): [https://lnkd.in/eKaQNbEm](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeKaQNbEm&urlhash=g9fb&trk=public_post_reshare-text) Follow me for more tips on building successful ML and LLM products! Medium: [https://lnkd.in/g2jAJn5](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg2jAJn5&urlhash=dzUT&trk=public_post_reshare-text) X: [https://lnkd.in/g_JbKEkM](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg_JbKEkM&urlhash=7SSJ&trk=public_post_reshare-text) [#generativeai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgenerativeai&trk=public_post_reshare-text) [#llm](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post_reshare-text) [#nlp](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnlp&trk=public_post_reshare-text) [#artificialintelligence](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fartificialintelligence&trk=public_post_reshare-text) [#mlops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmlops&trk=public_post_reshare-text) [#llmops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllmops&trk=public_post_reshare-text)
+
+[ 30  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fibrahim-sobh-phd-8681757_ai-genai-llms-activity-7181991471389040640-jWoA&trk=public_post_social-actions-reactions) [ 1 Comment ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fibrahim-sobh-phd-8681757_ai-genai-llms-activity-7181991471389040640-jWoA&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fibrahim-sobh-phd-8681757_ai-genai-llms-activity-7181991471389040640-jWoA&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fibrahim-sobh-phd-8681757_ai-genai-llms-activity-7181991471389040640-jWoA&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fibrahim-sobh-phd-8681757_ai-genai-llms-activity-7181991471389040640-jWoA&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/syed-mujtaba_ai-genai-activity-7181134146113585152-bFzV)
+
+[ ](https://www.linkedin.com/in/syed-mujtaba?trk=public_post_feed-actor-image)
+
+[ Syed Mujtaba ](https://www.linkedin.com/in/syed-mujtaba?trk=public_post_feed-actor-name)
+
+Incoming SDE Intern @ Amazon AWS | Software Engineer | MS CS @ UC San Diego | GSoC '24 @ SPCL | ICPC Regionalist | Ex SDE-2 @ Trilogy | AWS, Go, Python, Kubernetes, Distributed Systems, Cloud, Serverless, GenAI 
+
+9mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsyed-mujtaba_ai-genai-activity-7181134146113585152-bFzV&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Who ever said you don't need Mathematics to be a software engineer. This insightful post talks about some concepts that I learnt during my JEE preparation. You might not need maths for many other things in IT. But AI algorithms is not one of them. [#ai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#genai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgenai&trk=public_post-text)
+
+[ ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_reshare_feed-actor-image)
+
+[ Marie Stephen Leo ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_reshare_feed-actor-name) Marie Stephen Leo is an Influencer
+
+Data & AI @ Sephora | Linkedin Top Voice 
+
+9mo  Edited 
+
+One line of code can reduce your vector database memory requirements by 32X and speed up retrieval by 45x with a mere 4% drop in accuracy! Embedding Quantization is a breakthrough in drastically reducing vector database index size and retrieval latency with minimal accuracy loss! Embedding Quantization is easy with Sentence Transformers: 1. Pick a suitable Sentence Transformer model, like "mixedbread-ai/mxbai-embed-large-v1," which is currently a leading model in the MTEB benchmark. 2. Generate the sentence embeddings as usual. This sentence embedding is a 1024 dimension array, each being a floating-point value. 3. [NEW] Add one line of code to convert the regular embeddings to binary quantized embeddings. Each floating point value in the sentence embedding array is converted to binary with one if the float value exceeds 0. Now that we have 1024 binary values, we can compress eight binary numbers into a single integer; hence, the dimensionality drops from 1024 to 128. 4. Finally, we use hamming distance instead of cosine similarity to compare the sentences using these integer arrays. Hamming distance is equivalent to cosine distance for binary vectors but massively faster to compute and with the added advantage of allowing dimensionality compression from 1024 to 128! I tested the "mixedbread-ai/mxbai-embed-large-v1" and everyone's favorite "all-MiniLM-L6-v2" models with excellent results, so the method seems to work on multiple sentence transformer models. Most vector DBs, such as [Qdrant](https://de.linkedin.com/company/qdrant?trk=public_post_reshare-text) and [The Milvus Project](https://www.linkedin.com/company/the-milvus-project?trk=public_post_reshare-text), already support binary embeddings, so using them in your RAG applications is straightforward to improve your app's performance! Sadly, I couldn't find any information on support in [Pinecone](https://www.linkedin.com/company/pinecone-io?trk=public_post_reshare-text). 🤗 Detailed blog post on [Hugging Face](https://www.linkedin.com/company/huggingface?trk=public_post_reshare-text): [https://lnkd.in/eKaQNbEm](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeKaQNbEm&urlhash=g9fb&trk=public_post_reshare-text) Follow me for more tips on building successful ML and LLM products! Medium: [https://lnkd.in/g2jAJn5](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg2jAJn5&urlhash=dzUT&trk=public_post_reshare-text) X: [https://lnkd.in/g_JbKEkM](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg_JbKEkM&urlhash=7SSJ&trk=public_post_reshare-text) [#generativeai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgenerativeai&trk=public_post_reshare-text) [#llm](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post_reshare-text) [#nlp](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnlp&trk=public_post_reshare-text) [#artificialintelligence](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fartificialintelligence&trk=public_post_reshare-text) [#mlops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmlops&trk=public_post_reshare-text) [#llmops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllmops&trk=public_post_reshare-text)
+
+[ 54  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsyed-mujtaba_ai-genai-activity-7181134146113585152-bFzV&trk=public_post_social-actions-reactions) [ 3 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsyed-mujtaba_ai-genai-activity-7181134146113585152-bFzV&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsyed-mujtaba_ai-genai-activity-7181134146113585152-bFzV&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsyed-mujtaba_ai-genai-activity-7181134146113585152-bFzV&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsyed-mujtaba_ai-genai-activity-7181134146113585152-bFzV&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/md-rashad_interesting-approach-embedding-quantization-activity-7181232863411863552-jsWy)
+
+[ ](https://de.linkedin.com/in/md-rashad?trk=public_post_feed-actor-image)
+
+[ Md Rashad Al Hasan Rony ](https://de.linkedin.com/in/md-rashad?trk=public_post_feed-actor-name)
+
+Sr. Generative AI Architect | PhD in Conversational AI | LLM Enthusiast 🤖 AI Consultant 
+
+9mo  Edited 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmd-rashad_interesting-approach-embedding-quantization-activity-7181232863411863552-jsWy&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+💡 Interesting approach: Embedding Quantization that could be employed in RAG to improve ⚡ the retrieval speed significantly:
+
+[ ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_reshare_feed-actor-image)
+
+[ Marie Stephen Leo ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_reshare_feed-actor-name) Marie Stephen Leo is an Influencer
+
+Data & AI @ Sephora | Linkedin Top Voice 
+
+9mo  Edited 
+
+One line of code can reduce your vector database memory requirements by 32X and speed up retrieval by 45x with a mere 4% drop in accuracy! Embedding Quantization is a breakthrough in drastically reducing vector database index size and retrieval latency with minimal accuracy loss! Embedding Quantization is easy with Sentence Transformers: 1. Pick a suitable Sentence Transformer model, like "mixedbread-ai/mxbai-embed-large-v1," which is currently a leading model in the MTEB benchmark. 2. Generate the sentence embeddings as usual. This sentence embedding is a 1024 dimension array, each being a floating-point value. 3. [NEW] Add one line of code to convert the regular embeddings to binary quantized embeddings. Each floating point value in the sentence embedding array is converted to binary with one if the float value exceeds 0. Now that we have 1024 binary values, we can compress eight binary numbers into a single integer; hence, the dimensionality drops from 1024 to 128. 4. Finally, we use hamming distance instead of cosine similarity to compare the sentences using these integer arrays. Hamming distance is equivalent to cosine distance for binary vectors but massively faster to compute and with the added advantage of allowing dimensionality compression from 1024 to 128! I tested the "mixedbread-ai/mxbai-embed-large-v1" and everyone's favorite "all-MiniLM-L6-v2" models with excellent results, so the method seems to work on multiple sentence transformer models. Most vector DBs, such as [Qdrant](https://de.linkedin.com/company/qdrant?trk=public_post_reshare-text) and [The Milvus Project](https://www.linkedin.com/company/the-milvus-project?trk=public_post_reshare-text), already support binary embeddings, so using them in your RAG applications is straightforward to improve your app's performance! Sadly, I couldn't find any information on support in [Pinecone](https://www.linkedin.com/company/pinecone-io?trk=public_post_reshare-text). 🤗 Detailed blog post on [Hugging Face](https://www.linkedin.com/company/huggingface?trk=public_post_reshare-text): [https://lnkd.in/eKaQNbEm](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeKaQNbEm&urlhash=g9fb&trk=public_post_reshare-text) Follow me for more tips on building successful ML and LLM products! Medium: [https://lnkd.in/g2jAJn5](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg2jAJn5&urlhash=dzUT&trk=public_post_reshare-text) X: [https://lnkd.in/g_JbKEkM](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg_JbKEkM&urlhash=7SSJ&trk=public_post_reshare-text) [#generativeai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgenerativeai&trk=public_post_reshare-text) [#llm](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post_reshare-text) [#nlp](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnlp&trk=public_post_reshare-text) [#artificialintelligence](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fartificialintelligence&trk=public_post_reshare-text) [#mlops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmlops&trk=public_post_reshare-text) [#llmops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllmops&trk=public_post_reshare-text)
+
+[ 4  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmd-rashad_interesting-approach-embedding-quantization-activity-7181232863411863552-jsWy&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmd-rashad_interesting-approach-embedding-quantization-activity-7181232863411863552-jsWy&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmd-rashad_interesting-approach-embedding-quantization-activity-7181232863411863552-jsWy&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmd-rashad_interesting-approach-embedding-quantization-activity-7181232863411863552-jsWy&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/dr-geetha-venkatesh_embedding-quantization-for-faster-retrieval-activity-7181288121643208705-TFiF)
+
+[ ](https://de.linkedin.com/in/dr-geetha-venkatesh?trk=public_post_feed-actor-image)
+
+[ Dr. Geetha Venkatesh ](https://de.linkedin.com/in/dr-geetha-venkatesh?trk=public_post_feed-actor-name)
+
+Data Scientist 
+
+9mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdr-geetha-venkatesh_embedding-quantization-for-faster-retrieval-activity-7181288121643208705-TFiF&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+Embedding quantization for faster retrieval.
+
+[ ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_reshare_feed-actor-image)
+
+[ Marie Stephen Leo ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_reshare_feed-actor-name) Marie Stephen Leo is an Influencer
+
+Data & AI @ Sephora | Linkedin Top Voice 
+
+9mo  Edited 
+
+One line of code can reduce your vector database memory requirements by 32X and speed up retrieval by 45x with a mere 4% drop in accuracy! Embedding Quantization is a breakthrough in drastically reducing vector database index size and retrieval latency with minimal accuracy loss! Embedding Quantization is easy with Sentence Transformers: 1. Pick a suitable Sentence Transformer model, like "mixedbread-ai/mxbai-embed-large-v1," which is currently a leading model in the MTEB benchmark. 2. Generate the sentence embeddings as usual. This sentence embedding is a 1024 dimension array, each being a floating-point value. 3. [NEW] Add one line of code to convert the regular embeddings to binary quantized embeddings. Each floating point value in the sentence embedding array is converted to binary with one if the float value exceeds 0. Now that we have 1024 binary values, we can compress eight binary numbers into a single integer; hence, the dimensionality drops from 1024 to 128. 4. Finally, we use hamming distance instead of cosine similarity to compare the sentences using these integer arrays. Hamming distance is equivalent to cosine distance for binary vectors but massively faster to compute and with the added advantage of allowing dimensionality compression from 1024 to 128! I tested the "mixedbread-ai/mxbai-embed-large-v1" and everyone's favorite "all-MiniLM-L6-v2" models with excellent results, so the method seems to work on multiple sentence transformer models. Most vector DBs, such as [Qdrant](https://de.linkedin.com/company/qdrant?trk=public_post_reshare-text) and [The Milvus Project](https://www.linkedin.com/company/the-milvus-project?trk=public_post_reshare-text), already support binary embeddings, so using them in your RAG applications is straightforward to improve your app's performance! Sadly, I couldn't find any information on support in [Pinecone](https://www.linkedin.com/company/pinecone-io?trk=public_post_reshare-text). 🤗 Detailed blog post on [Hugging Face](https://www.linkedin.com/company/huggingface?trk=public_post_reshare-text): [https://lnkd.in/eKaQNbEm](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeKaQNbEm&urlhash=g9fb&trk=public_post_reshare-text) Follow me for more tips on building successful ML and LLM products! Medium: [https://lnkd.in/g2jAJn5](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg2jAJn5&urlhash=dzUT&trk=public_post_reshare-text) X: [https://lnkd.in/g_JbKEkM](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg_JbKEkM&urlhash=7SSJ&trk=public_post_reshare-text) [#generativeai](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgenerativeai&trk=public_post_reshare-text) [#llm](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post_reshare-text) [#nlp](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnlp&trk=public_post_reshare-text) [#artificialintelligence](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fartificialintelligence&trk=public_post_reshare-text) [#mlops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmlops&trk=public_post_reshare-text) [#llmops](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllmops&trk=public_post_reshare-text)
+
+[ 3  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdr-geetha-venkatesh_embedding-quantization-for-faster-retrieval-activity-7181288121643208705-TFiF&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdr-geetha-venkatesh_embedding-quantization-for-faster-retrieval-activity-7181288121643208705-TFiF&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdr-geetha-venkatesh_embedding-quantization-for-faster-retrieval-activity-7181288121643208705-TFiF&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdr-geetha-venkatesh_embedding-quantization-for-faster-retrieval-activity-7181288121643208705-TFiF&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/deepneuralai_rag-ai-machinelearning-activity-7230220778363883520-SQSc)
+
+[ ](https://in.linkedin.com/company/deepneuralai?trk=public_post_feed-actor-image)
+
+[ DeepNeuralAI ](https://in.linkedin.com/company/deepneuralai?trk=public_post_feed-actor-name)
+
+1,220 followers 
+
+5mo  Edited 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdeepneuralai_rag-ai-machinelearning-activity-7230220778363883520-SQSc&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+This 𝗮𝗴𝗲𝗻𝘁𝗶𝗰 𝗮𝗽𝗽𝗿𝗼𝗮𝗰𝗵 to 𝗥𝗔𝗚 leverages a 𝗴𝗿𝗮𝗽𝗵-𝗯𝗮𝘀𝗲𝗱 method with a robust data topology to enhance the precision of information retrieval. Knowledge Graphs enable 𝘀𝗲𝗮𝗿𝗰𝗵𝗶𝗻𝗴 𝗳𝗼𝗿 𝘁𝗵𝗶𝗻𝗴𝘀 𝗮𝗻𝗱 𝗻𝗼𝘁 𝘀𝘁𝗿𝗶𝗻𝗴𝘀 by maintaining extensive collections of explicit facts structured as accurate, mutable, and interpretable knowledge triples. It employs a 𝗺𝘂𝗹𝘁𝗶-𝘀𝘁𝗮𝗴𝗲 𝗿𝗲𝘁𝗿𝗶𝗲𝘃𝗮𝗹 𝗽𝗿𝗼𝗰𝗲𝘀𝘀, integrating a self-assessment mechanism to ensure accuracy in responses. Domain-specific queries are handled using Knowledge Graphs, while web-retrieved data is processed through parsing and chunking techniques. 𝗦𝗲𝘃𝗲𝗻 𝗞𝗲𝘆 𝗖𝗼𝗻𝘀𝗶𝗱𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀: 1. This RAG implementation is again another good example of where an Agentic Approach is followed to create a resilient, knowledge intensive conversational user interface. 2. There is also an emergence of a Graph approach from two perspectives. A graph approach is followed for agentic flows; LangChain with LangGraph, LlamaIndex Workflows and Haystack Studio from Deepset to name a few. 3. There is also a Graph approach to knowledge, where more time is spend on data discovery and data design to create stronger data topologies. 4. WeKnow-RAG is also a multi-stage approach to RAG and it is in keeping with recent developments where complexity is introduced in order to create more resilient and multifaceted solutions. 5. This approach from WeKnow-RAG includes a self-assessment mechanism. 6. KG was used for domain specific queries, while parsing and chunking was used for web retrieved data. 7. This implementation sees both Knowledge Base and a RAG/Chunking approach being combined for instances where data design is possible, or not possible. Often technologies are pitted against each other, in a one or the other scenario. Here it is illustrated that sometimes the answer is somewhere in the middle. Follow DeepNeuralAI [#RAG](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frag&trk=public_post-text) [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post-text) [#KnowledgeGraphs](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fknowledgegraphs&trk=public_post-text) [#NLP](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnlp&trk=public_post-text) [#AIResearch](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fairesearch&trk=public_post-text) [#LLMs](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllms&trk=public_post-text)
+
+[ 6  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdeepneuralai_rag-ai-machinelearning-activity-7230220778363883520-SQSc&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdeepneuralai_rag-ai-machinelearning-activity-7230220778363883520-SQSc&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdeepneuralai_rag-ai-machinelearning-activity-7230220778363883520-SQSc&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdeepneuralai_rag-ai-machinelearning-activity-7230220778363883520-SQSc&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/adityac01_hllm-enhancing-sequential-recommendations-activity-7247499914295812096-w95J)
+
+[ ](https://in.linkedin.com/in/adityac01?trk=public_post_feed-actor-image)
+
+[ Aditya Chandhoke ](https://in.linkedin.com/in/adityac01?trk=public_post_feed-actor-name)
+
+SIH 2022 Winner 🏆 | Data Analyst | Machine Learning & MLOps 
+
+3mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fadityac01_hllm-enhancing-sequential-recommendations-activity-7247499914295812096-w95J&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+My First Experience with a ML Research Papers - Exploring LLMs in Recommendation Systems! 🌟 I recently attended a BuildML Research session, and it was my first time diving into an ML research paper. To be honest, I was a bit nervous at first, but [Karun Thankachan](https://www.linkedin.com/in/karunt?trk=public_post-text) broke everything down so clearly that I walked away feeling like I’d unlocked a new level of understanding. 🙌 Also his paper reading method is also pretty awesome! After the session was over I went through the paper with his method and that actually did simplify things and went on with a more holistic approach! This is the paper that was discussed - [https://lnkd.in/gU2R_qcA](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgU2R_qcA&urlhash=jSGs&trk=public_post-text) Learnt a lost about the RecSys space and how LLMs and bringing in a rift. I can confidently say I learned more in this one session than I could have from days of YouTube or reading articles. Can’t wait to join the next session! Community - [BuildML](https://in.linkedin.com/company/buildml?trk=public_post-text) [#LLM](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&trk=public_post-text) [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post-text) [#RecommendationSystems](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frecommendationsystems&trk=public_post-text) [#RecSys](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Frecsys&trk=public_post-text) [#AI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_post-text) [#BuildML](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fbuildml&trk=public_post-text) [#MLLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmllearning&trk=public_post-text)
+
+## [ HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling  arxiv.org  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Farxiv%2Eorg%2Fabs%2F2409%2E12740v1&urlhash=2XXS&trk=public_post_feed-article-content)
+
+[ 11  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fadityac01_hllm-enhancing-sequential-recommendations-activity-7247499914295812096-w95J&trk=public_post_social-actions-reactions) [ 3 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fadityac01_hllm-enhancing-sequential-recommendations-activity-7247499914295812096-w95J&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fadityac01_hllm-enhancing-sequential-recommendations-activity-7247499914295812096-w95J&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fadityac01_hllm-enhancing-sequential-recommendations-activity-7247499914295812096-w95J&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fadityac01_hllm-enhancing-sequential-recommendations-activity-7247499914295812096-w95J&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/ganeshjagadeesan_needle-in-the-haystack-test-activity-7237305995184480256-oGlh)
+
+[ ](https://in.linkedin.com/in/ganeshjagadeesan?trk=public_post_feed-actor-image)
+
+[ Ganesh Jagadeesan ](https://in.linkedin.com/in/ganeshjagadeesan?trk=public_post_feed-actor-name)
+
+Enterprise Data Science Specialist @Mastech Digital | NLP | NER | Deep Learning | Gen AI | MLops 
+
+4mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fganeshjagadeesan_needle-in-the-haystack-test-activity-7237305995184480256-oGlh&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+This Needle in the Haystack Test is a brilliant demonstration of how advanced LLMs like GPT-3.5-turbo and GPT-4 can revolutionize information retrieval from massive text corpora! 🧠🔍 The ability to embed and query specific information within large unstructured datasets opens up endless possibilities for document analysis, data mining, and much more. The Google Colab notebook is a great resource for diving deeper into this practical application of long-context memory. As AI continues to evolve, mastering the retrieval of critical information efficiently is becoming an essential skill. This approach highlights the power of AI in managing complex datasets, making it easier to automate tedious tasks and extract valuable insights. Looking forward to exploring the provided tutorials, especially the CrewAI, AI-Prompt Caching, and Structured Output tutorials, as they offer fantastic foundational knowledge for working with LLMs. 🙌 Thanks for sharing these valuable resources—excited to dive in and apply these techniques to real-world scenarios! [#ArtificialIntelligence](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fartificialintelligence&trk=public_post-text) [#DataMining](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fdatamining&trk=public_post-text) [#InformationRetrieval](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Finformationretrieval&trk=public_post-text) [#LLMs](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllms&trk=public_post-text) [#NLP](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnlp&trk=public_post-text) [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post-text) [#DocumentAnalysis](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fdocumentanalysis&trk=public_post-text) [#AIResearch](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fairesearch&trk=public_post-text) [#GPT4](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgpt4&trk=public_post-text) [#OpenAI](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fopenai&trk=public_post-text) [#DataManagement](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fdatamanagement&trk=public_post-text) [#AIApplications](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faiapplications&trk=public_post-text)
+
+[ ](https://in.linkedin.com/in/anshuman-jha-0891bb1a4?trk=public_post_reshare_feed-actor-image)
+
+[ Anshuman Jha ](https://in.linkedin.com/in/anshuman-jha-0891bb1a4?trk=public_post_reshare_feed-actor-name)
+
+Al Consultant | AI Multi-Agents | GenAI | LLM | RAG | Open To Collaborations & Opportunities 
+
+4mo 
+
+Needle in the Haystack Test: Evaluating Long Context Memory in LLM For detailed sample code, check out the Google Colab notebook([https://lnkd.in/gN-2UsDj](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgN-2UsDj&urlhash=ZPoi&trk=public_post_reshare-text)) In today's data-driven world, efficiently retrieving specific information from large volumes of unstructured text is a significant challenge. Leveraging advanced language models like GPT-3.5-turbo or GPT-4 can greatly simplify this process. By embedding critical information within a large text corpus and then querying these models, it's possible to automate the identification of this "needle in a haystack." This approach has broad applications, from document analysis to data mining and information retrieval, demonstrating the growing importance of AI in managing and interpreting vast datasets. Day 1 of 14: Basic CrewAI Tutorial:- [https://lnkd.in/gctnMxcZ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgctnMxcZ&urlhash=-BqV&trk=public_post_reshare-text) Post on Coding and Practical Interview Questions & Answers on RAG:- [https://lnkd.in/gXm8ifEb](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgXm8ifEb&urlhash=kaDf&trk=public_post_reshare-text) Theoretical Interview Q&A Basic RAG for Beginners:- [https://lnkd.in/gi4wjE8R](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fgi4wjE8R&urlhash=J5Od&trk=public_post_reshare-text) Day 1 of 3: Basic AI-Prompt Caching Tutorial:- [https://lnkd.in/g83NFWry](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg83NFWry&urlhash=jMBd&trk=public_post_reshare-text) Day 1 of 14: Basic CrewAI Tutorial:- [https://lnkd.in/gctnMxcZ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgctnMxcZ&urlhash=-BqV&trk=public_post_reshare-text) Day 1 of 9: Basic Essential Linux Commands for MLOps & DevOps [https://lnkd.in/ghN4ujqp](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FghN4ujqp&urlhash=rwvV&trk=public_post_reshare-text) Day 1 of 4: Structured Output in LLM Applications Tutorial [https://lnkd.in/g59is8aj](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg59is8aj&urlhash=_GHO&trk=public_post_reshare-text) LLM Text Masking to Protect Sensitive Data [https://lnkd.in/gBJtPUTq](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgBJtPUTq&urlhash=fWM1&trk=public_post_reshare-text) Day 1 of 4: Basic LLM Routing Tutorial [https://lnkd.in/g-MkEb9C](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg-MkEb9C&urlhash=A4dh&trk=public_post_reshare-text) Day 1 of 9: Model Parameters in the OpenAI API [https://lnkd.in/g4hWP36b](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg4hWP36b&urlhash=vmMx&trk=public_post_reshare-text) [#ArtificialIntelligence](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fartificialintelligence&trk=public_post_reshare-text) [#DataMining](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fdatamining&trk=public_post_reshare-text) [#InformationRetrieval](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Finformationretrieval&trk=public_post_reshare-text) [#NLP](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnlp&trk=public_post_reshare-text) [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post_reshare-text) [#DocumentAnalysis](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fdocumentanalysis&trk=public_post_reshare-text) [#AIResearch](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fairesearch&trk=public_post_reshare-text) [#LanguageModels](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Flanguagemodels&trk=public_post_reshare-text) [#GPT](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgpt&trk=public_post_reshare-text)
+
+[ 1  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fganeshjagadeesan_needle-in-the-haystack-test-activity-7237305995184480256-oGlh&trk=public_post_social-actions-reactions)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fganeshjagadeesan_needle-in-the-haystack-test-activity-7237305995184480256-oGlh&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fganeshjagadeesan_needle-in-the-haystack-test-activity-7237305995184480256-oGlh&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fganeshjagadeesan_needle-in-the-haystack-test-activity-7237305995184480256-oGlh&trk=public_post_feed-cta-banner-cta)
+
+  * [](https://www.linkedin.com/posts/purvipatel1203_machinelearning-artificialintelligence-activity-7267554617461219329-OLsM)
+
+[ ](https://in.linkedin.com/in/purvipatel1203?trk=public_post_feed-actor-image)
+
+[ Purvi Patel ](https://in.linkedin.com/in/purvipatel1203?trk=public_post_feed-actor-name)
+
+ML Engineer | Assistant Professor AI/ML 
+
+1mo 
+
+    * [ Report this post ](/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpurvipatel1203_machinelearning-artificialintelligence-activity-7267554617461219329-OLsM&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+One of the most exciting aspects of being an ML engineer is exploring how we can push the boundaries of what’s possible with large language models and knowledge retrieval systems. Recently, I dove into the research behind HtmlRAG, and it feels like a game-changer for Retrieval-Augmented Generation (RAG). From my own experience building and optimizing retrieval pipelines, I’ve seen firsthand how much information gets lost when we strip HTML down to plain text. The headings, tables, and even subtle tag semantics can hold so much context and losing that feels like leaving valuable tools on the table. HtmlRAG takes a bold approach: instead of discarding HTML’s structure, it embraces it. Using innovative cleaning and pruning strategies, it extracts the richest layers of semantic and structural information while making it digestible for LLMs. What struck me was how seamlessly it balances efficiency (cleaned HTML is just 6% of its original size!) with effectiveness, delivering better QA and content generation results. Why it's so exciting? Because I’ve spent countless hours tweaking pipelines and optimizing data formats to feed LLMs, this approach feels like the evolution we’ve been waiting for turning raw web data into precision-enhanced fuel for models. It’s like going from low-octane fuel to jet fuel for generative AI. The results? Better performance across six challenging QA datasets, stronger understanding of nuanced questions, and more robust outputs from the models we rely on every day. As someone who geeks out over structured data and retrieval systems, I can’t wait to see how this shapes the future of LLM-based applications. [#MachineLearning](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&trk=public_post-text) [#ArtificialIntelligence](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fartificialintelligence&trk=public_post-text) [#NLP](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnlp&trk=public_post-text) [#RetrievalAugmentedGeneration](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fretrievalaugmentedgeneration&trk=public_post-text) [#AIResearch](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fairesearch&trk=public_post-text) [#KnowledgeRetrieval](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fknowledgeretrieval&trk=public_post-text) Paper link: [https://lnkd.in/g-kcTqbr](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg-kcTqbr&urlhash=m7hi&trk=public_post-text) Github: [https://lnkd.in/gu7YUnN8](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fgu7YUnN8&urlhash=HmJR&trk=public_post-text)
+
+    * ![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D5622AQEeROocWo-F4g/feedshare-shrink_800/feedshare-shrink_800/0/1732720043887?e=2147483647&v=beta&t=Rm02GiFQrtXRlBqMtpXMsh5ahz5aNjFUATTa0mSvHHw)
+
+[ ![](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) ![](https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu) 55  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpurvipatel1203_machinelearning-artificialintelligence-activity-7267554617461219329-OLsM&trk=public_post_social-actions-reactions) [ 1 Comment ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpurvipatel1203_machinelearning-artificialintelligence-activity-7267554617461219329-OLsM&trk=public_post_social-actions-comments)
+
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpurvipatel1203_machinelearning-artificialintelligence-activity-7267554617461219329-OLsM&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpurvipatel1203_machinelearning-artificialintelligence-activity-7267554617461219329-OLsM&trk=public_post_comment-cta)
+
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fpurvipatel1203_machinelearning-artificialintelligence-activity-7267554617461219329-OLsM&trk=public_post_feed-cta-banner-cta)
+
+
+
+
+![](https://media.licdn.com/dms/image/v2/D5616AQFouEsMeEG6DA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1702861618024?e=2147483647&v=beta&t=AauWp6FG_M4N0ViUPvsgBzuSQC5hiHBlko2pQ_lsGQs)
+
+![Marie Stephen Leo](https://media.licdn.com/dms/image/v2/C4D03AQHQaF15RYIjkg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516863550845?e=2147483647&v=beta&t=VSImr8zHrydAWo52_LMZulwN7WWsP5etANhy6e3Apjs)
+
+14,722 followers 
+
+  * [ 277 Posts ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fmarie-stephen-leo%2Frecent-activity%2F&trk=public_post_follow-posts)
+
+
+
+[ View Profile ](https://sg.linkedin.com/in/marie-stephen-leo?trk=public_post_follow-view-profile) [ Follow ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A7181093049484111873&trk=public_post_follow)
+
+##  Explore topics 
+
+  * [ Sales ](https://www.linkedin.com/pulse/topics/sales-s5/)
+  * [ Marketing ](https://www.linkedin.com/pulse/topics/marketing-s2461/)
+  * [ IT Services ](https://www.linkedin.com/pulse/topics/it-services-s57547/)
+  * [ Business Administration ](https://www.linkedin.com/pulse/topics/business-administration-s50111/)
+  * [ HR Management ](https://www.linkedin.com/pulse/topics/hr-management-s50359/)
+  * [ Engineering ](https://www.linkedin.com/pulse/topics/engineering-s166/)
+  * [ Soft Skills ](https://www.linkedin.com/pulse/topics/soft-skills-s2976/)
+  * [ See All ](https://www.linkedin.com/pulse/topics/home/)
+
+
+
+  * LinkedIn © 2025
+  * [ About ](https://about.linkedin.com?trk=d_public_post_footer-about)
+  * [ Accessibility ](https://www.linkedin.com/accessibility?trk=d_public_post_footer-accessibility)
+  * [ User Agreement ](https://www.linkedin.com/legal/user-agreement?trk=d_public_post_footer-user-agreement)
+  * [ Privacy Policy ](https://www.linkedin.com/legal/privacy-policy?trk=d_public_post_footer-privacy-policy)
+  * [ Cookie Policy ](https://www.linkedin.com/legal/cookie-policy?trk=d_public_post_footer-cookie-policy)
+  * [ Copyright Policy ](https://www.linkedin.com/legal/copyright-policy?trk=d_public_post_footer-copyright-policy)
+  * [ Brand Policy ](https://brand.linkedin.com/policies?trk=d_public_post_footer-brand-policy)
+  * [ Guest Controls ](https://www.linkedin.com/psettings/guest-controls?trk=d_public_post_footer-guest-controls)
+  * [ Community Guidelines ](https://www.linkedin.com/legal/professional-community-policies?trk=d_public_post_footer-community-guide)
+  *     * العربية (Arabic) 
+    * বাংলা (Bangla) 
+    * Čeština (Czech) 
+    * Dansk (Danish) 
+    * Deutsch (German) 
+    * Ελληνικά (Greek) 
+    * **English (English)**
+    * Español (Spanish) 
+    * فارسی (Persian) 
+    * Suomi (Finnish) 
+    * Français (French) 
+    * हिंदी (Hindi) 
+    * Magyar (Hungarian) 
+    * Bahasa Indonesia (Indonesian) 
+    * Italiano (Italian) 
+    * עברית (Hebrew) 
+    * 日本語 (Japanese) 
+    * 한국어 (Korean) 
+    * मराठी (Marathi) 
+    * Bahasa Malaysia (Malay) 
+    * Nederlands (Dutch) 
+    * Norsk (Norwegian) 
+    * ਪੰਜਾਬੀ (Punjabi) 
+    * Polski (Polish) 
+    * Português (Portuguese) 
+    * Română (Romanian) 
+    * Русский (Russian) 
+    * Svenska (Swedish) 
+    * తెలుగు (Telugu) 
+    * ภาษาไทย (Thai) 
+    * Tagalog (Tagalog) 
+    * Türkçe (Turkish) 
+    * Українська (Ukrainian) 
+    * Tiếng Việt (Vietnamese) 
+    * 简体中文 (Chinese (Simplified)) 
+    * 正體中文 (Chinese (Traditional)) 
+Language 
+
+
+
+
+LinkedIn 
+
+Never miss a beat on the app 
+
+Don’t have the app? Get it in the Microsoft Store. 
+
+[ Open the app ](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell_post2)
+
+![](https://static.licdn.com/aero-v1/sc/h/5k9cgtx8rhoyqkcxfoncu1svl)
+
+##  Sign in to view more content 
+
+Create your free account or sign in to continue your search 
+
+Sign in 
+
+##  Welcome back 
+
+Email or phone 
+
+Password 
+
+Show
+
+[Forgot password?](https://www.linkedin.com/uas/request-password-reset?trk=public_post_contextual-sign-in-modal_sign-in-modal_forgot_password) Sign in 
+
+or 
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy). 
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_contextual-sign-in-modal_sign-in-modal_join-link)
+
+or 
+
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarie-stephen-leo_generativeai-llm-nlp-activity-7181093049484111873-jlNX&trk=public_post_contextual-sign-in-modal_join-link)
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy). 

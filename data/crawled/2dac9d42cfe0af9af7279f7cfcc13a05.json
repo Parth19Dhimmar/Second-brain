@@ -1,0 +1,23 @@
+{
+    "id": "2dac9d42cfe0af9af7279f7cfcc13a05",
+    "metadata": {
+        "id": "2dac9d42cfe0af9af7279f7cfcc13a05",
+        "url": "https://www.notion.so/SLMs-2dac9d42cfe0af9af7279f7cfcc13a05",
+        "title": "SLMs",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "ef7fc23dd7dc62ab74b74b74b5200cea",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n\t# Courses\n\t\n\t[https://github.com/huggingface/smol-course?tab=readme-ov-file](https://github.com/huggingface/smol-course?tab=readme-ov-file)\n\n# Resources [Science]\n\n# Tools",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://github.com/huggingface/smol-course?tab=readme-ov-file/"
+    ]
+}

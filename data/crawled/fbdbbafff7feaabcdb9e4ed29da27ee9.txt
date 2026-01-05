@@ -1,0 +1,301 @@
+[![Logo](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/65255680bc6fa3c9a26b3ec4_untitled-ui-logo.webp)![The image is blank, so there are no elements to describe or keywords to apply.](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/6525583e3561d9a2bf3dc002_Vectors-Wrapper.svg)](/)
+
+Product
+
+DATA SCience
+
+[Iterate at warp speedAccelerate your ML workflow seamlessly](/features/iterate-at-warp-speed)[Auto-track everythingAutomatic logging and versioning](/features/auto-track-everything)[Shared ML building blocksBoost team productivity with reusable components](/features/shared-ml-building-blocks)
+
+Infrastructure
+
+[Backend flexibility, zero lock-inOne framework for all your MLOps and LLMOps needs](/features/backend-flexibility-zero-lock-in)[Limitless scalingEffortlessly deploy across clouds](/features/limitless-scaling)[Streamline cloud expensesGain clarity on resource usage and costs](/features/streamline-cloud-expenses)
+
+Organization
+
+[ZenML ProOur managed control plane for MLOps](/pro)[ZenML vs Other ToolsCompare ZenML to other ML tools](/compare)[Integrations50+ integrations to ease your workflow](/integrations)
+
+Solutions
+
+GENAI & LLMS
+
+[Finetuning LLMsCustomize large language models for specific tasks](https://github.com/zenml-io/zenml-projects/tree/main/llm-lora-finetuning)[Productionalizing a RAG applicationDeploy and scale RAG systems](https://docs.zenml.io/user-guide/llmops-guide)[LLMOps DatabaseA curated knowledge base of real-world implementations](/llmops-database)
+
+mlops
+
+[Building Enterprise MLOpsPlatform architecture and best practices](/whitepaper-architecting-an-enterprise-grade-mlops-platform)[Abstract cloud computeSimplify management of cloud-based ML resources](https://www.zenml.io/features/backend-flexibility-zero-lock-in)[Track metrics and metadataMonitor and analyze ML model performance and data](https://docs.zenml.io/user-guide/starter-guide/track-ml-models)
+
+Success Stories
+
+[![Teal "adeo" logo on a white background.](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/65ddeac9b6199bfeb57b7223_adeo_logo-min.png)![Green triangle logo with the words "Leroy Merlin" in black text.](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/65c49832a235dab4e3e0a3ce_leroy-merlin.svg)Adeo Leroy MerlinRetail](/case-study/adeo-leroy-merlin)[![Logo of Brevo, previously known as Sendinblue, displayed in green and black text.](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/652d3e5d29d36f927c2bb623_brevo.webp)BrevoEmail Marketing](/case-study/brevo)
+
+Developers
+
+Documentation
+
+[DocsComprehensive guides to use ZenML](https://docs.zenml.io)[Deploying ZenML Understanding ZenML system architecture](/deployments)[TutorialsComprehensive guides to use ZenML](https://docs.zenml.io/getting-started/deploying-zenml)
+
+[GUIDES](https://docs.zenml.io/user-guide/starter-guide)[QuickstartQuickly get your hands dirty](https://colab.research.google.com/github/zenml-io/zenml/blob/main/examples/quickstart/quickstart.ipynb)[ShowcaseProjects of ML use cases built with ZenML](https://github.com/zenml-io/zenml-projects)[Starter GuideGet started with the basics](https://docs.zenml.io/user-guide/starter-guide)
+
+COMMUNITY
+
+[SlackJoin our Slack Community](/slack)[ChangelogDiscover what’s new on ZenML](https://community.zenml.io/changelog)[RoadmapJoin us on our MLOps journey](/roadmap)
+
+[Pricing](/pricing)[Blog](/blog)
+
+[Sign In](https://cloud.zenml.io/login)[Start Free](https://cloud.zenml.io/signup?utm_source=website&utm_medium=website_nav&utm_campaign=cloud_promotion&utm_content=signup_link)
+
+# ZenML Blog
+
+The latest news, opinions and technical guides from ZenML.
+
+[LLMOps](/category/llmops)
+
+45 minutes
+
+### [LLMOps in Production: 457 Case Studies of What Actually Works](/blog/llmops-in-production-457-case-studies-of-what-actually-works)
+
+A comprehensive overview of lessons learned from the world's largest database of LLMOps case studies (457 entries as of January 2025), examining how companies implement and deploy LLMs in production. Through nine thematic blog posts covering everything from RAG implementations to security concerns, this article synthesizes key patterns and anti-patterns in production GenAI deployments, offering practical insights for technical teams building LLM-powered applications.
+
+[Read post](/blog/llmops-in-production-457-case-studies-of-what-actually-works)
+
+[![](https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/678e1878d85be3f3ff71ef25_Midjourney%20Technical%20Blueprint.png)](/blog/llmops-in-production-457-case-studies-of-what-actually-works)
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+[![](https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/678fc6ec7a5f2e285369c245_imageai%20vs%20ml.jpg)](/blog/ai-engineering-vs-ml-engineering-evolving-roles-genai)
+
+[MLOps](/category/mlops)
+
+2 mins
+
+### [AI Engineering vs ML Engineering: Evolving Roles in the GenAI Era](/blog/ai-engineering-vs-ml-engineering-evolving-roles-genai)
+
+The rise of Generative AI has shifted the roles of AI Engineering and ML Engineering, with AI Engineers integrating generative AI into software products. This shift requires clear ownership boundaries and specialized expertise. A proposed solution is layer separation, separating concerns into two distinct layers: Application (AI Engineers/Software Engineers), Frontend development, Backend APIs, Business logic, User experience, and ML (ML Engineers). This allows AI Engineers to focus on user experience while ML Engineers optimize AI systems.
+
+[Read post](/blog/ai-engineering-vs-ml-engineering-evolving-roles-genai)
+
+[![](https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/67879253bfe3db4b8d33b6f9_Securing%20LLM%20Frontier%20Lessons.png)](/blog/production-llm-security-real-world-strategies-from-industry-leaders)
+
+[LLMOps](/category/llmops)
+
+8 mins
+
+### [Production LLM Security: Real-world Strategies from Industry Leaders 🔐](/blog/production-llm-security-real-world-strategies-from-industry-leaders)
+
+Learn how leading companies like Dropbox, NVIDIA, and Slack tackle LLM security in production. This comprehensive guide covers practical strategies for preventing prompt injection, securing RAG systems, and implementing multi-layered defenses, based on real-world case studies from the LLMOps database. Discover battle-tested approaches to input validation, data privacy, and monitoring for building secure AI applications.
+
+[Read post](/blog/production-llm-security-real-world-strategies-from-industry-leaders)
+
+[![](https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/678524f9be42385bc570eedf_Metadata%20Comparison%20Tool%20Jan%2013%202025.png)](/blog/new-dashboard-feature-compare-your-experiments)
+
+[ZenML Updates](/category/zenml-updates)
+
+4 mins
+
+### [New Dashboard Feature: Compare Your Experiments](/blog/new-dashboard-feature-compare-your-experiments)
+
+ZenML's new Experiment Comparison Tool brings powerful experiment tracking capabilities to your ML pipelines. Compare up to 20 pipeline runs simultaneously through intuitive tabular and parallel coordinates visualizations, helping teams derive actionable insights from their pipeline metadata. Now available in the Pro tier dashboard.
+
+[Read post](/blog/new-dashboard-feature-compare-your-experiments)
+
+[![](https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/6784c7627197b6520b47d7a1_Minimalist%20Funnel%20Render.png)](/blog/optimizing-llm-performance-and-cost-squeezing-every-drop-of-value)
+
+[LLMOps](/category/llmops)
+
+7 mins
+
+### [Optimizing LLM Performance and Cost: Squeezing Every Drop of Value](/blog/optimizing-llm-performance-and-cost-squeezing-every-drop-of-value)
+
+This comprehensive guide explores strategies for optimizing Large Language Model (LLM) deployments in production environments, focusing on maximizing performance while minimizing costs. Drawing from real-world examples and the LLMOps database, it examines three key areas: model selection and optimization techniques like knowledge distillation and quantization, inference optimization through caching and hardware acceleration, and cost optimization strategies including prompt engineering and self-hosting decisions. The article provides practical insights for technical professionals looking to balance the power of LLMs with operational efficiency.
+
+[Read post](/blog/optimizing-llm-performance-and-cost-squeezing-every-drop-of-value)
+
+[![](https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/675f450823114ab56f6c6b01_Abstract%20Geometric%20Pattern.png)](/blog/the-evaluation-playbook-making-llms-production-ready)
+
+[LLMOps](/category/llmops)
+
+7 mins
+
+### [The Evaluation Playbook: Making LLMs Production-Ready](/blog/the-evaluation-playbook-making-llms-production-ready)
+
+A comprehensive exploration of real-world lessons in LLM evaluation and quality assurance, examining how industry leaders tackle the challenges of assessing language models in production. Through diverse case studies, the post covers the transition from traditional ML evaluation, establishing clear metrics, combining automated and human evaluation strategies, and implementing continuous improvement cycles to ensure reliable LLM applications at scale.
+
+[Read post](/blog/the-evaluation-playbook-making-llms-production-ready)
+
+[![](https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/67586032ccaf218ab180f5db_Abstract%20Tree%20Structure.png)](/blog/prompt-engineering-management-in-production-practical-lessons-from-the-llmops-database)
+
+[LLMOps](/category/llmops)
+
+7 mins
+
+### [Prompt Engineering & Management in Production: Practical Lessons from the LLMOps Database](/blog/prompt-engineering-management-in-production-practical-lessons-from-the-llmops-database)
+
+Practical lessons on prompt engineering in production settings, drawn from real LLMOps case studies. It covers key aspects like designing structured prompts (demonstrated by Canva's incident review system), implementing iterative refinement processes (shown by Fiddler's documentation chatbot), optimizing prompts for scale and efficiency (exemplified by Assembled's test generation system), and building robust management infrastructure (as seen in Weights & Biases' versioning setup). Throughout these examples, the focus remains on systematic improvement through testing, human feedback, and error analysis, while balancing performance with operational costs and complexity.
+
+[Read post](/blog/prompt-engineering-management-in-production-practical-lessons-from-the-llmops-database)
+
+[![](https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/6756abd5be9cf50913aec4e9_Surreal%20Double%20Exposure%20Image%20\(1\).png)](/blog/llm-agents-in-production-architectures-challenges-and-best-practices)
+
+[LLMOps](/category/llmops)
+
+8 mins
+
+### [LLM Agents in Production: Architectures, Challenges, and Best Practices](/blog/llm-agents-in-production-architectures-challenges-and-best-practices)
+
+An in-depth exploration of LLM agents in production environments, covering key architectures, practical challenges, and best practices. Drawing from real-world case studies in the LLMOps Database, this article examines the current state of AI agent deployment, infrastructure requirements, and critical considerations for organizations looking to implement these systems safely and effectively.
+
+[Read post](/blog/llm-agents-in-production-architectures-challenges-and-best-practices)
+
+[![](https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/67531e1327b52ec6fc5fa5a7_ZenML%20Release%205%20\(1\).png)](/blog/new-features-modal-step-operator-improved-api-token-management-dashboard-enhancements-and-more)
+
+[ZenML Updates](/category/zenml-updates)
+
+3 min
+
+### [New Features: Modal Step Operator, Improved API Token Management, Dashboard Enhancements and More!](/blog/new-features-modal-step-operator-improved-api-token-management-dashboard-enhancements-and-more)
+
+ZenML 0.71.0 features the Modal Step Operator for fast, configurable cloud execution, dynamic artifact naming, and enhanced visualizations. It improves API token management, dashboard usability, and infrastructure stability while fixing key bugs. Expanded documentation supports advanced workflows and big data management.
+
+[Read post](/blog/new-features-modal-step-operator-improved-api-token-management-dashboard-enhancements-and-more)
+
+[![](https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/6751845a9f3d6eccaacd9b11_Midjourney%20Split%20Screen%20Composition.png)](/blog/building-advanced-search-retrieval-and-recommendation-systems-with-llms)
+
+[LLMOps](/category/llmops)
+
+8 mins
+
+### [Building Advanced Search, Retrieval, and Recommendation Systems with LLMs](/blog/building-advanced-search-retrieval-and-recommendation-systems-with-llms)
+
+Discover how embeddings power modern search and recommendation systems with LLMs, using case studies from the LLMOps Database. From RAG systems to personalized recommendations, learn key strategies and best practices for building intelligent applications that truly understand user intent and deliver relevant results.
+
+[Read post](/blog/building-advanced-search-retrieval-and-recommendation-systems-with-llms)
+
+Oops, there are no matching results for your search.
+
+[Previous](?1cbbc70d_page=0)[Next](?1cbbc70d_page=2)[1](?1cbbc70d_page=1)[2](?1cbbc70d_page=2)[3](?1cbbc70d_page=3)[4](?1cbbc70d_page=4)[5](?1cbbc70d_page=5)
+
+...
+
+[16](?1cbbc70d_page=16)
+
+### Start your new ML Project today with ZenML Pro
+
+Join 1,000s of members already deploying models with ZenML.
+
+[Learn more](/pro)
+
+[Try Free](https://cloud.zenml.io)
+
+[![I'm sorry, but I can't generate an alt text without more context about the image. Please describe the main elements of the image, and I'll be happy to help!](https://cdn.prod.website-files.com/64a817a2e7e2208272d1ce30/652559300366c8455e5c6ba5_Vectors-Wrapper.svg)](/)
+
+Simplify MLOps
+
+[](https://www.linkedin.com/company/zenml)[](https://twitter.com/zenml_io)[](https://zenml.io/slack-invite)[](https://www.youtube.com/@ZenML)
+
+Product
+
+[Features](/features)[ZenML ProNew](/pro)[OSS vs Managed](/open-source-vs-pro)[Integrations](/integrations)[Pricing](/pricing)
+
+Resources
+
+[NewsletterNew](/newsletter-signup)[Blog](/blog)[Docs](https://docs.zenml.io/getting-started/introduction)[Roadmap](https://zenml.featureos.app/roadmap)[Slack](/slack)
+
+Company
+
+[Careers](/careers)[About Us](/company)[Our Values](/company)[Join Us](/careers)
+
+[ZenML vs Orchestrators](/vs/zenml-vs-orchestrators)
+
+[Apache Airflow](/compare/zenml-vs-apache-airflow)
+
+[Dagster](/compare/zenml-vs-dagster)
+
+[Databricks](/compare/zenml-vs-databricks)
+
+[Flyte](/compare/zenml-vs-flyte)
+
+[Kedro](/compare/zenml-vs-kedro)
+
+[Kubeflow](/compare/zenml-vs-kubeflow)
+
+[Prefect](/compare/zenml-vs-prefect)
+
+[ZenML vs Exp Trackers](/vs/zenml-vs-experiment-trackers)
+
+[MLflow](/compare/zenml-vs-mlflow)
+
+[Weights & Biases](/vs/zenml-vs-experiment-trackers)[Neptune AI](/vs/zenml-vs-experiment-trackers)[CometML](/vs/zenml-vs-experiment-trackers)
+
+[ZenML vs e2e Platforms](/vs/zenml-vs-e2e-platforms)
+
+[AWS Sagemaker](/compare/zenml-vs-aws-sagemaker)
+
+[ClearML](/compare/zenml-vs-clearml)
+
+[Metaflow](/compare/zenml-vs-metaflow)
+
+[Valohai](/compare/zenml-vs-valohai)
+
+[GCP Vertex AI](/vs/zenml-vs-e2e-platforms)[Azure ML](/vs/zenml-vs-e2e-platforms)[ClearML](/compare/zenml-vs-clearml)
+
+GenAI & LLMs
+
+[LLMOps Database](/llmops-database)[Finetuning LLMs](https://github.com/zenml-io/zenml-projects/tree/main/llm-lora-finetuning)[Creating a code copilot](https://github.com/zenml-io/zenml-projects/tree/main/llm-finetuning)[Cheap GPU compute](https://docs.zenml.io/stacks-and-components/component-guide/orchestrators/hyperai)
+
+MLOps Platform
+
+[Mix and match tools](https://docs.zenml.io/stacks-and-components/component-guide)[Create alerting](https://docs.zenml.io/stacks-and-components/component-guide/alerters)[Plugin custom stack components](https://docs.zenml.io/stacks-and-components/custom-stack-solutions/implement-a-custom-stack-component)
+
+Leveraging Hyperscalers
+
+[Train on Spot VMs](https://docs.zenml.io/stacks-and-components/component-guide/orchestrators/skypilot-vm)[Deploying Sagemaker Endpoints](https://github.com/zenml-io/zenml-projects/tree/main/huggingface-sagemaker)[Managing GCP Vertex AI](https://docs.zenml.io/stacks-and-components/component-guide/orchestrators/vertex)[Training on Kubernetes](https://docs.zenml.io/stacks-and-components/component-guide/orchestrators/kubernetes)[Local to Sagemaker Pipelines](https://docs.zenml.io/stacks-and-components/component-guide/orchestrators/sagemaker)
+
+© 2024 ZenML. All rights reserved.
+
+[Imprint](/imprint)[Privacy Policy](/privacy-policy)[Terms of Service](/terms-of-service)
+
+|
+
+[ZenML Cloud Status](https://status.zenml.io)
+
+By clicking **“Accept All Cookies”** , you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our [Privacy Policy](/privacy-policy) for more information.
+
+[Preferences](#)[Deny](#)[Accept](#)
+
+Privacy Preference Center
+
+When you visit websites, they may store or retrieve data in your browser. This storage is often necessary for the basic functionality of the website. The storage may be used for marketing, analytics, and personalization of the site, such as storing your preferences. Privacy is important to us, so you have the option of disabling certain types of storage that may not be necessary for the basic functioning of the website. Blocking categories may impact your experience on the website.
+
+[Reject all cookies](#)[Allow all cookies](#)
+
+Manage Consent Preferences by Category
+
+Essential
+
+**Always Active**
+
+These items are required to enable basic website functionality.
+
+Marketing
+
+Essential
+
+These items are used to deliver advertising that is more relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and measure the effectiveness of advertising campaigns. Advertising networks usually place them with the website operator’s permission.
+
+Personalization
+
+Essential
+
+These items allow the website to remember choices you make (such as your user name, language, or the region you are in) and provide enhanced, more personal features. For example, a website may provide you with local weather reports or traffic news by storing data about your current location.
+
+Analytics
+
+Essential
+
+These items help the website operator understand how its website performs, how visitors interact with the site, and whether there may be technical issues. This storage type usually doesn’t collect information that identifies a visitor.
+
+[Confirm my preferences and close](#)
+
+![](https://static.scarf.sh/a.png?x-pxid=af73c4bc-4298-4759-a03c-378b9a1ef1ba)

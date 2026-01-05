@@ -1,0 +1,518 @@
+[🎓 Free introductory course "LLM evaluations for AI product teams". Save your seat](/llm-evaluations-course)![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc2747cf_vector.svg)
+
+[![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/66180fbf4f40e9ed73ca2d39_evidently_ai_logo_fi.png)](/)
+
+Product
+
+[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664e1f22864ff24118d07024_chat-text-duotone%20\(1\).svg)LLM observabilityEvaluate LLM-powered products, from RAGs to AI assistants.](/llm-observability)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664d50547ea050df1ee60188_chart-line-duotone.svg)ML observabilityMonitor data drift, data quality, and performance for production ML models.](/ml-monitoring)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664e1f2301afb605005be14d_lock-simple-open-duotone.svg)Open-sourceOpen-source Python library for ML monitoring with 20m+ downloads.](/evidently-oss)
+
+[Pricing](/pricing)[Docs](https://docs.evidentlyai.com/)
+
+Resources
+
+[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abba265e01ed75b39988c_book-duotone.svg)BlogInsights on building AI products](/blog)[![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/675a45076643cf7042075aac_star-duotone%20\(1\).svg)LLM benchmarks100+ LLM benchmarks and datasets](/llm-evaluation-benchmarks-datasets)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb7fbdd19d6d3f1875c_code-duotone%20\(1\).svg)TutorialsAI observability and MLOps tutorials](/mlops-tutorials)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb798a210c5d2640337_lightbulb-duotone%20\(1\).svg)ML and LLM system design500 ML and LLM use cases](/ml-system-design)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb798a210c5d2640368_check-duotone%20\(1\).svg)GuidesIn-depth AI quality and MLOps guides ](/mlops-guides)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdbd5bfc045c59b3467f_gear-duotone%20\(1\).svg)ML and AI platforms45+ internal ML and AI platforms](/ml-platforms)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb7ee755c4dc43cefc2_users-three-duotone%20\(1\).svg)CommunityGet support and chat about AI products](/community)
+
+##### [Course on LLM evaluations for AI product teams![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/673f571568470a0a8d49aa43_three-cheerful-robot-students-take-exam%20\(4\).jpg)](/llm-evaluations-course)[Sign up now![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc27473e_Group%209.svg)](/llm-evaluations-course)
+
+[Get demo](/get-demo)[Sign up](/register)
+
+[GitHub](https://github.com/evidentlyai/evidently)
+
+[Get demo](/get-demo)[Sign up](/register)
+
+![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abe8f5bd7dda2d12a1e6d_list-bold.svg)
+
+###### [ML Monitoring](/blog-category/ml-monitoring)
+
+# Which test is the best? We compared 5 methods to detect data drift on large datasets
+
+Last updated:
+
+January 9, 2025
+
+![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb7c4_6449cee400dfb78fe60dab0b_1_methods_data_drift_detection_blog_main-min.png)
+
+[Back to all blogs ⟶](/blog)
+
+contents**‍**
+
+[ Too much data, too much drift](#too-much-data-too-much-drift)
+
+[Picking the drift metric](#picking-the-drift-metric)
+
+[Experiment design](#experiment-design)
+
+[What did the experiments show?](#what-did-the-experiments-show)
+
+[Kolmogorov-Smirnov (KS) test](#kolmogorov-smirnov-ks-test)
+
+[Population Stability Index (PSI)](#population-stability-index-psi)
+
+[Kullback-Leibler divergence (KL)‍](#kullback-leibler-divergence-kl)
+
+[Jensen-Shannon divergence](#jensen-shannon-divergence)
+
+[Wasserstein distance (Earth-Mover Distance)](#wasserstein-distance-earth-mover-distance)
+
+[How do tests perform on real-world data?](#how-do-tests-perform-on-real-world-data)
+
+[Summing up](#summing-up)
+
+Get started with AI observability
+
+[Sign up free](/register)[Try open-source](https://github.com/evidentlyai/evidently)
+
+** _TL;DR:_**_We compared five different statistical tests for drift detection on large datasets. Our goal was to build intuition on how the tests react to data changes of varying magnitude. We also share the code so you can run the experiments on your data._ ‍
+
+From this blog, you will get:
+
+  * **Key takeaways from the experiment.** You'll learn a few heuristics to help you choose between different statistical tests.
+  * **Jupyter notebook with all the code.** You'll be able to re-run the comparison to see how different statistical tests behave on your dataset.
+  * **Examples of the data distribution shift on different datasets.** You'll be able to compare the visual perception of drift against the outcomes of different statistical tests._‍_
+
+
+
+ _Sounds interesting? Read on then!_
+
+_‍_ When ML models are in production, one often needs to keep tabs on the [data drift](https://www.evidentlyai.com/ml-in-production/data-drift) as a component of [ML model monitoring](https://www.evidentlyai.com/ml-in-production/model-monitoring). The goal is to detect changes in the input data distributions to make sure the model still operates in a familiar environment. Applying statistical tests to compare the new data with the old is one way to do it.
+
+However, the test outcomes may differ for "small" and "large" datasets.
+
+##### Get started with AI observability
+
+> Try our open-source library with over 25 million downloads, or sign up to Evidently Cloud to run no-code checks and bring all the team to a single workspace to collaborate on AI quality.[Sign up free ⟶](https://www.evidentlyai.com/register)[Or try open source ⟶](https://github.com/evidentlyai/evidently)
+
+## Too much data, too much drift
+
+Each statistical test has particular properties and in-built assumptions.Let's take a two-sample [Kolmogorov-Smirnov (KS) test](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test). It is often a default choice for detecting a distributional change in numerical features. While it does the job in many cases, the test can be "too sensitive" for larger datasets. It would fire alarms for many real-world use cases all the time, just because you have a lot of data and small changes add up. You need to account for such test behavior when picking your drift metric.
+
+![data drift](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb824_6449cc03414eea1cb0445563_2_drift_detection_methods-min.png)
+
+## Picking the drift metric
+
+OK, so measuring data drift for large datasets is hard. The good news is choosing the proper statistical test for the occasion is half the battle.But there are dozens of tests out there! How do you choose the best one?We've run some experiments and compared five popular statistical tests to answer this. In particular, we wanted to explore how the test results differ based on the data volume and magnitude of change.We hope it will help shape your intuition on how different tests behave on large datasets and how to choose the right one for your scenario. We also included the [experimental notebook](https://colab.research.google.com/drive/1EFFcs0wDzToxSR6nw1umXDgPyeoP_Uk6) so you can reproduce the experiment on your dataset.
+
+> **And a few disclaimers:** ‍1. We will only focus on numerical features to keep things simple.2. We will look at individual feature drift rather than multivariate (a whole different story!).3. This is not an academic exercise. Our goal is to remain practical and develop a few heuristics helpful for ML practitioners.
+
+## Experiment design
+
+**We picked five popular statistical tests and metrics for detecting data drift.** Then, we tested how they work on artificially shifted features and a few real datasets.If you are impatient, you can look at the results in the [experimental notebook](https://colab.research.google.com/drive/1EFFcs0wDzToxSR6nw1umXDgPyeoP_Uk6).**Here is the list of statistical tests we've played with:**
+
+  * [Kolmogorov-Smirnov test](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test)
+  * [Population Stability Index (PSI)](https://mwburke.github.io/data%20science/2018/04/29/population-stability-index.html)
+  * [Wasserstein distance](https://en.wikipedia.org/wiki/Earth_mover%27s_distance) (Earth-Mover distance)
+  * [Kullback-Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
+  * [Jensen-Shannon distance](https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence)
+
+
+
+**First, we chose three features with different characteristics:**
+
+  * **Feature 1** — a continuous feature with non-normal distribution. For convenience, let's call it the "Multimodal feature."
+  * **Feature 2** — a variable with a heavy right tail. We'll call it the "Right-tailed feature."
+  * **Feature 3** — hereafter referred to as "Feature with outliers."
+
+
+
+We picked these variables from three different publicly available datasets. The goal was to have features with various distribution shapes. For each variable, we had from 500,000 to 1 million observations.
+
+![Feature distribution](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb828_62bddea362227a58c8508432_3_feature_distribution.png)
+
+_Feature distributions_
+
+**Then, we implemented a function to imitate data drift.** We wanted to introduce an artificial change that would resemble real-world drift. To do that, we decided to shift the whole distribution for each feature by a fixed value. Here is the formula we used to create drift:
+
+> _(alpha + mean(feature)) * perc_
+
+**By using the mean value of each feature, we ensured that:**
+
+  1. the shift was relative to the feature value range,
+  2. it was possible to compare how tests behave for different features with a specific "drift size."
+
+
+
+We also added a small "alpha" value. This created the shift even if the mean feature value is 0.Here is an example of the artificial 50%-drift:
+
+![How to imitate data drift](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb81d_62bddef544901454692b193b_4_artificial_drift.png)
+
+_Artificial 50-% drift_
+
+Something like this can happen in the real world. Imagine that after a faulty update, the website becomes slower. This would look like an increase in the average load time for all users by some delta.
+
+‍** _Disclaimer:_**_this is not the only way to imitate data drift. You can experiment with another method of simulating drift—or create your own—in the_[ _example notebook_](https://colab.research.google.com/drive/1EFFcs0wDzToxSR6nw1umXDgPyeoP_Uk6) _._
+
+_‍_ Once we came up with this artificial drift function, we applied this change to all or some points in the "current" dataset. We used two sets of parameters to imitate various degrees of drift:
+
+  * **drift_size:** the percent by which we increase the initial values,
+  * **drift_ratio:** the share of data points to which we apply the defined increase to imitate drift in a segment of data.**‍**
+
+
+
+**Next, we started the experiments!** In each evaluation, we sampled two equally-sized groups from the distributions of each feature as if we had a "reference" and "current" data we could compare. We used samples of different sizes and created artificial drifts of varying magnitude.
+
+We looked to answer three questions for each statistical test we tried.
+
+### How does the sample size influence the test results?
+
+![Drift detection ratio depending on the size of a dataset](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb804_62bddf84b242b32c9d3fc2c2_5_sample_size_example_ks.png)
+
+_Rate of the data drift detection depending on the sample size, Kolmogorov-Smirnov (KS) test_
+
+In other words, will the test give a different outcome if we compare datasets of different sizes?Yes, this is statistics! The results will be different when comparing the "same" distributions but taking a sample small or large.**To imitate the drift, we shifted each feature's "current" distribution.** We increased the values of each "current" data point by 0.5% as if the change was tiny.**Then, we played with the sample size, going from 1,000 objects to 1,000,000.** We applied the selected drift test for each combination and recorded the result. To safeguard against random fluctuations, we applied sampling and artificial shifts a hundred times. Then we looked at the "drift_detected_ratio" to identify how often drift is detected during these experiments for each sample size.Rinse and repeat, for all five tests.
+
+> Our goal was to demonstrate how sensitive each test is to sample size. We kept the magnitude of change small and fixed and only varied the size of the datasets we compared against each other.
+
+‍
+
+### How does the magnitude of data change influence the test results?
+
+In other words, will the test detect even a "small" change in the data, or does it only respond to a "large" one?**In this experiment, we again artificially shifted the feature distribution in the current group.** We sequentially applied different changes to imitate small or large drifts, shifting data by 1%, 5%, 7%, 10%, and 20%. We applied this change to the whole dataset.**We fixed the sample size and compared samples with 100,000 observations.** We talk about large datasets, after all!For each combination, we applied our chosen drift tests. The goal was to evaluate how sensitive the test is to the "size of drift."To illustrate the idea, here is what 5%-change looks like in practice. You can still notice it, but the shift doesn't look that vivid.
+
+![Data drift for features with different distribution types](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb7f5_62bddffa2799318fa62a9a7f_6_five_percent_drift.png)
+
+_5%-change in data for various feature types_
+
+And here, the 20%-shift is seen with a naked eye:
+
+![Data drift for features with different distribution types](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb807_62bde0162ea3c0848b6e9167_7_twenty_percent_drift.png)
+
+_20%-change in data for various feature types_
+
+### Is the test sensitive to a change in the data segment?
+
+We also evaluated whether the statistical tests would react to the drift in one dataset segment.**In this experiment, we shifted the data by 5%, 10%, 30%, 70%, and 100%.** But this time, we made this perturbation **only to the 20% of the observations** , imitating a change in one data segment. This is relevant for many applied use cases when the change only happens in some part of the population, for example, a specific geographic area.As an illustration, here is what a 50%-shift in data looks like if only 20% of observations are drifted.
+
+![Data drift in a segment of data](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb838_62bde05151585b567d5c6d0b_8_fifty_percent_drift_segment.png)
+
+_50%-change in a 20%-segment of data for various feature types_
+
+Once again, we checked how each test responds to this type of change. We kept the size of the sample fixed at 100,000 observations.
+
+After running the experiments on our artificial dataset, we applied them to several real-life datasets to complement our findings.
+
+If you want to see the whole output, check out the [notebook](https://colab.research.google.com/drive/1EFFcs0wDzToxSR6nw1umXDgPyeoP_Uk6). Otherwise, read on for the most curious take-aways!
+
+## What did the experiments show?
+
+Let's look at the results we got for each drift detection method.We'll show three groups of plots based on the experiment design.
+
+> **How to read the plots belowHow does the sample size influence test results?‍****Drift_detected_ratio** against the **sample_size**. It will show how often drift is detected in the case of the minor (0.5%) shift following the change in the sample size. In this case, drift detection is a binary outcome. For example, the statistical test result at a 0.95 confidence level.**Mean_drift_score** against the **sample_size**. It gives more information about particular drift test outcomes, such as p-value in the case of statistical tests or statistical distance in the case of distance metrics.**How does the magnitude of data change influence the test results?****Mean_drift_score** against **drift_size** (dataset drift). This shows how sensitive the test is to the magnitude of the artificial drift in the whole dataset at a fixed sample size of 100,000.**Is the test sensitive to a change in the data segment?****Mean_drift_score** against **drift_size** (segment drift). This shows how sensitive the test is to the magnitude of the artificial drift in the 20%-data segment at a fixed sample size of 100,000.
+
+### Kolmogorov-Smirnov (KS) test
+
+The [KS test](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test) is a nonparametric statistical test. This means it does not make any assumptions about the underlying distribution, e.g., whether it's normal or not.The null hypothesis is that the two samples come from the same distribution. The KS-test is applied to reject or accept it.**It returns the p-value.** If the **p-value is less than 0.05** , you can usually declare that there is strong evidence to reject the null hypothesis and consider the two samples **different**.You can also set a different significance level and, for example, react only to p-values less than 0.01. It is good to remember that the p-value is not a "measurement" of drift size but a declaration of the statistical test significance.**In our experiment, we use the default 0.95 significance.If the p-value is < 0.05, we'll alert on the drift.**The graphs below show that the KS test tends to be pretty sensitive in larger datasets. It raises flags even for a minor change of 0.5%, as soon as we have more than 100,000 objects in a dataset.
+
+![Mean drift score and Drift detected ratio, depending on the sample size, Kolmogorov-Smirnov test](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb841_62bde113edb3f74ba9499be5_9_ks_sample_size.png)
+
+_Mean drift score and Drift detected ratio, depending on the sample size_
+
+But does it stand true as the drift size changes? It looks so. For a fixed sample size of 100,000 observations, the p-value is close to zero for the dataset drift as small as 1%. Meaning it detects the drift early and often.
+
+KS is sensitive to a change in the 20%-data segment as well. The p-value approaches zero for the data drift of 5% and above.
+
+![Mean drift score, depending on the drift size, Kolmogorov-Smirnov test](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb820_62bde1345fb3ae46e37b2ce5_10_ks_drift_size.png)
+
+_Mean drift score, depending on the drift size. Sample size = 100,000_
+
+‍
+
+Kolmogorov-Smirnov test is often used to detect drift in numerical features by default. It does the job, but you should keep in mind its sensitivity in the case of large datasets. The larger the dataset, the bigger the test's statistical power, aka sensitivity. If there is no need to spot the changes with pinpoint accuracy, the KS test might not be your best option.We'd recommend using the KS test if you have fewer observations (e.g., under 1000). It is also a good fit when you expect data to be stable and want to react even to a slight deviation inside a particular data segment.If you work with larger datasets, you might want to take a sample before applying the KS test.
+
+> **Interpreting the "sensitivity" of different tests to the drift size** To do this, you can look at the slope of the curve.If the increase/decrease is gradual, the test results for the drift of different sizes are similar. There is not much difference between individual points, and it is difficult to pick the threshold to distinguish "drift" from "not drift." Meaning the test is not very sensitive.If the curve is steep, the test gives different results as the drift becomes larger. There is a sharp increase/decrease and a visible difference between individual points. Defining a moment when the test starts confidently detecting drift is easier. The test is more sensitive.In other words, if one of the graphs has a steeper curve, this test is more sensitive to the magnitude of change.**Note:** In the case of statistical tests like KS, the curve goes down: a smaller p-value means more confident drift detection.In the case of a distance metric like WD, the curve goes up: a larger value means larger drift.
+
+### Population Stability Index (PSI)
+
+[Population Stability Index](https://mwburke.github.io/data%20science/2018/04/29/population-stability-index.html) is another popular drift metric for numerical and categorical features. It is often used in domains like finance.Instead of a p-value, you get a number that can take **any value from 0 and above**. It also reflects the relative "size" of the drift: the larger the PSI value, the more different the distributions are. Practitioners commonly interpret the results as the following:
+
+  * PSI < 0.1: no significant population change
+  * 0.1 ≤ PSI < 0.2: moderate population change
+  * PSI ≥ 0.2: significant population change
+
+
+
+**In our experiment, we declare feature drift if the PSI is > 0.1.**
+
+**‍**
+
+![Mean drift score and Drift detected ratio, depending on the sample size, PSI](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb855_62bde1b8b7f69d75b30175ed_11_psi_sample_size.png)
+
+ _Mean drift score and Drift detected ratio, depending on the sample size_
+
+For a minor change of 0.5%, the sample size has a low effect on the PSI value. The PSI test simply does not detect drift of this size. This is true for both small and large samples.As we increase the magnitude of drift, the PSI remains "silent" for a while. For a fixed sample size of 100,000, PSI only starts detecting significant change for a drift size larger than 10%. When it comes to the segment drift, PSI has the chance of detecting only major changes, such as the 100%-shift in the data segment.
+
+![Mean drift score, depending on the drift size, PSI](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb7f8_6449cc66ae44b8916c0f2bad_12_psi_drift_size-min.png)
+
+_Mean drift score, depending on the drift size. Sample size = 100,000_
+
+In other words, PSI has low sensitivity. Unlike KS, it returns the same result regardless of the sample size. This makes it more "predictable."The benefit of PSI is its interpretability. We'd recommend using the PSI in industries already familiar with the approach. It might be helpful to rely on existing rules of thumb to define "drift size," especially for business stakeholders.You can also consider this test if you have a lot of data and want to react only to "major changes."‍
+
+### Kullback-Leibler divergence (KL)[‍](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
+
+[Kullback-Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence), aka relative entropy, is another statistical measure that quantifies the drift for numerical and categorical features.Just like with PSI, you have to first define a number of bins to use this metric for numerical features. Due to this, the KL metric value **does not depend on the size of a sample** : you are comparing histograms in the end. However, the choice of the binning strategy itself can impact the results.Like PSI, it returns a score that can serve as the measure of the drift. A KL score can range **from 0 to infinity**. A score of 0 tells us that the distributions are identical. The higher the score, the more different the distributions are. Unlike PSI, it is not symmetric. In other words, you get different values when you swap reference and sample distributions.In practical terms, KL behavior is very much like PSI. In the case of minor 0.5%-data change, the test has low sensitivity for both small and large datasets.
+
+![Mean drift score and Drift detected ratio, depending on the sample size, Kullback-Leibler divergence](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb7fb_62bde2179caef266e86ee3b7_13_kl_sample_size.png)
+
+_Mean drift score and Drift detected ratio, depending on the sample size_
+
+The picture is almost identical to the PSI if we compare results for different drift sizes in the whole dataset and a 20%-segment of data.
+
+![Mean drift score, depending on the drift size, Kullback-Leibler divergence](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb801_6449ccb6823e4440e87a623e_14_kl_drift_size-min.png)
+
+_Mean drift score, depending on the drift size. Sample size = 100,000_
+
+Like a twin brother, Kullback-Leibler behaves similarly to PSI. The drift results are consistent regardless of the sample size. KL divergence is also not very sensitive to smaller changes in the whole dataset or one segment.To sum up, KL is a good default test to detect drift in larger datasets. However, it's best to keep in mind its asymmetry when interpreting the drift score. It is not a distance metric. You can generally use it as an estimate of the "degree of drift," but cannot compare the "drift sizes" between each other.
+
+### Jensen-Shannon divergence
+
+[Jensen-Shannon divergence](https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence) can be applied to numerical and categorical features. It is another way to calculate the difference between two probability distributions.JS is based on Kullback-Leibler divergence with two major differences: it is always finite and symmetric. The square root of the JS divergence is a metric often referred to as Jensen-Shannon distance. This is the metric we'll use!JS distance returns **a score between 0 and 1**. "0" corresponds to identical distributions and "1" to absolutely different. This makes this metric fairly interpretable.**In our experiment, 0.1 means drift.**
+
+![Mean drift score and Drift detected ratio, depending on the sample size, Jensen-Shannon divergence](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb84c_62bde29951585be0615c83e7_15_js_sample_size.png)
+
+_Mean drift score and Drift detected ratio, depending on the sample size_
+
+For a minor 0.5%-data change, the test shows low sensitivity following the variation in the sample size. The test becomes more sensitive when the drift exceeds 10% for a fixed sample size of 100,000 observations. However, just like PSI, it barely detects drift of larger magnitudes if only the 20%-segment of data is drifted.
+
+![Mean drift score, depending on the drift size, Jensen-Shannon divergence](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb7e7_6449ccfec679c66e09d7baf6_16_js_drift_size-min.png)
+
+_Mean drift score, depending on the drift size. Sample size = 100,000_
+
+‍
+
+In other words, the Jensen-Shannon test shows stable behavior for large datasets. It tends to be slightly more sensitive than Kullback-Leibler divergence and PSI. It is a good measure to detect significant changes in the whole dataset. Since you have to define a binning strategy first, it does not depend on the sample size.
+
+### Wasserstein distance (Earth-Mover Distance)
+
+[Wasserstein distance (WD)](https://en.wikipedia.org/wiki/Earth_mover%27s_distance) is applied only for numerical features. By default, it shows the absolute value of data drift. Roughly speaking, it measures how much effort it takes to turn one distribution into another. Here is an explanation of the intuition behind WD: if drift happens in one direction (e.g., all values increase), the absolute value of the WD metric often equals the difference of means.Even if the changes happen in both directions (some values increase, some values decrease), the WD metric will sum them up to reflect the change. Had we used the difference of means, these changes would "cancel" each other. This makes WD a more informative metric.However, if you have two different features—say "grams" and "years"—you'll need to interpret each distance separately. Imagine having a hundred features instead of two. That doesn't look very practical, right?**One solution is to turn the absolute values into relative.** Let's do so by dividing the absolute metric by standard deviation. The normed WD metric shows the number of standard deviations, on average, you should move each object of the current group to match the reference group.This normed WD metric is pretty interpretable. When setting the drift detection threshold, you can rely on the intuition of what a "standard deviation" is. In a simplified way, when you set the WD threshold to 0.1, you define that the change in the size of "0.1 standard deviations" is something you want to notice.Now back to our experiment. The normed WD metric returns **a value from 0 to infinity** , making the degree of drift comparable between features.**Once again, we consider the 0.1 value as drift.**
+
+![Mean drift score and Drift detected ratio, depending on the sample size, Wasserstein distance](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb84f_62bde2f3920727ddb59ff5fa_17_wd_sample_size.png)
+
+_Mean drift score and Drift detected ratio, depending on the sample size_
+
+When the sample size is "small," WD tends to overestimate the effect, though way less than Kolmogorov-Smirnov (KS) does. It becomes sustainable for a sample size of more than 100,000.
+
+![Mean drift score, depending on the drift size, Wasserstein distance](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb80a_6449cd40a51b974f62cda858_18_wd_drift_size-min.png)
+
+Mean drift score, depending on the drift size. Sample size = 100,000
+
+‍
+
+The WD metric tends to be more sensitive than PSI. Overall, it can be a good compromise between "way-too-sensitive" KS and "notice-only-big-changes" PSI and JS.
+
+## How do tests perform on real-world data?
+
+OK, we've tested our metrics on sample data with the artificial data drift. In reality, however, there is no such thing as a predefined "drift size." Instead, drift just happens and comes in different shapes and forms. Let's take a look at real-world data!**Here is what we'll do:**
+
+  * pick a feature from a dataset
+  * sort its values by time or index
+  * take two consecutive intervals as "reference" and "current"
+  * and see how our statistical tests perform!
+
+
+
+You'll find six examples below. Each time we applied different statistical tests to see whether they detected data drift or not. Yes, it is not pure science. But isn't learning by example something we swear by in machine learning?
+
+> Our goal was to build intuition on how test results relate to the visual changes in data distribution. Keep in mind, though:1. visualization is always a simplification2. there is no correct answer to the "drift/no drift" question, as it all depends on the task.
+
+‍
+
+**Example 1. The change is "huge," and all tests are in agreement.**
+
+That should be an easy one!The size of the current and reference dataset is 100,000.
+
+![Evidently data drift plots example 1](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb81a_62bde36a18930cd9121e8310_19_example1_plots.png)
+
+![Evidently data drift table example 1](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb82b_6449cd94a255aeaa5a207ba3_20_example1_metrics-min.png)
+
+**Example 2. The change is "minor," but enough for KS to react.**
+
+This is a good example of why KS tends to be "too sensitive." Still, in some domains with generally stable data, you might be interested even in a minor pattern change.The current and reference datasets have 200,000 observations each.
+
+![Evidently data drift plots example 2](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb7fe_62bde39146ffd5dc3a06c831_21_example2_plots.png)
+
+![Evidently data drift table example 2](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb83e_6449cdcca255ae5eb42083bb_22_example2_metrics-min.png)
+
+**Example 3. A change in the trend. Results differ!**
+
+This is an interesting example due to sudden change at the end of the observed period. The outcomes would also vary had we picked a different comparison window.You might notice that PSI reacted to drift even though WD did not. PSI is sensitive to new values, while WD only compares the distance between the two distributions and does not "care" about particular spikes. Another interesting trait to keep in mind!The current dataset has 90,000 observations, and the reference has 70,000.
+
+![Evidently data drift plots example 3](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb82e_62bde3af2ea3c01ebf6eadbe_22_example3_plots.png)
+
+![Evidently data drift table example 3](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb814_6449cdfb7651e24603224dd2_23_example3_metrics-min.png)
+
+**Example 4. An "obvious" drift, once again.**
+
+The example is somewhat similar to the above one. But this time, the data split between the comparison windows is more clear-cut. All tests are in agreement.The size of the current and reference dataset is 120,000.
+
+![Evidently data drift plots example 4](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb863_62bde3cd0c128f268cb1ebb1_24_example4_plots.png)
+
+![Evidently data drift table example 4](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb811_6449ce2b4b1e63504a187d66_25_example4_metrics-min.png)
+
+**Example 5. A sudden spike. Only KL missed it!**
+
+A different type of change, and most tests catch it, except for KL.The number of observations in the current and reference datasets is 10,000 each.
+
+![Evidently data drift plots example 5](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb852_62bde3edb242b3f5583fe0ee_26_example5_plots.png)
+
+![Evidently data drift table example 5](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb832_6449ce5963779b630c782d11_27_example5_metrics-min.png)
+
+**Example 6. Could be drift, could be not.**
+
+Is this the drift you'd want to detect? This should inform your choice of tests.The size of the current and reference dataset is 100,000.
+
+![Evidently data drift plots example 6](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb80e_62bde410904e7c0ebd104bef_28_example6_plots.png)
+
+![Evidently data drift table example 6](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb83b_6449ce84fca28242d250d275_29_example6_metrics-min.png)
+
+## Summing up
+
+There is no such thing as "objective" data drift and a "perfect" test for it. It depends on the use case and data.**To shape the approach, you can consider:**
+
+**The size of drift you want to detect.** In some cases, you want to react only to large changes. In others, even to a minor one. The definition of "large" and "small" would vary based on your data.
+
+**The size of samples you will compare.** Since different tests give different results depending on the sample size, you should factor it in. In healthcare use cases, you might have hundreds of objects, in payments—millions.
+
+**The cost of the model performance drop.** If every mistake is expensive, you might want to pick a more sensitive test, even at the cost of false-positive alerts.‍
+
+**You can still use some heuristics! Start with a problem you're trying to solve:**
+
+**If the accuracy is key, pick KS.** If you deal with cases where even a 1%-drift is critical, you can choose the most sensitive test. Just control the sample size to make sure it is not too large. You can use statistical power analysis to pick the optimal sample size depending on the size of data drift.
+
+**If you want to detect reasonable drift, pick WD.** You can set a threshold according to the number of standard deviations you assume the distribution should change to qualify for "drift."
+
+**If you are used to PSI, go for it.** It can work just fine for features where fluctuation is a norm, and you only want to be alerted on significant changes. While there is no quantitative intuition, you can rely on historical data to set the threshold. As a rule of thumb, you can interpret the results as follows:
+
+  * PSI < 0.1: no significant population change
+  * 0.1 ≤ PSI < 0.2: moderate population change
+  * PSI ≥ 0.2: significant population change
+
+
+
+**If you care about data segments, monitor them separately.** No test is perfect here. The smaller the segment, the harder it is to detect drift. If even a minor change is critical, it makes sense to monitor segments separately from the rest of the dataset.It is always best to experiment! You can tweak your initial approach by looking at the [past drift patterns](https://evidentlyai.com/blog/tutorial-3-historical-data-drift). You can also start with reasonable defaults and then iterate based on the results of the production model monitoring.
+
+## Can I run these tests on my own?
+
+Sure! Here's a sample [notebook](https://colab.research.google.com/drive/1EFFcs0wDzToxSR6nw1umXDgPyeoP_Uk6) to repeat the experiment or run all these tests on your dataset.
+
+## How to implement drift detection in production?
+
+If you want to implement these tests to detect data drift as part of your ML pipeline, you can use [Evidently](https://github.com/evidentlyai/evidently), an open-source Python library. It helps evaluate, test, and monitor the performance of ML models in production. It also has an in-built algorithm that selects a suitable drift test based on the feature type, number of observations, and unique values.In other words, we added reasonable defaults so that you don't have to manually pick statistical tests to detect data drift—unless you want to!
+
+![Evidently data drift dashboard](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0d159e0238ac5bcb7f1_6449ceafae44b8f0dd0f63e8_30_evidently_example-min.png)
+
+**__________________**
+
+**Acknowledgments** ‍
+
+‍ _Thanks to_[ _Elena Samuylova_](https://www.linkedin.com/in/elenasamuylova/) _and_[ _Emeli Dral_](https://www.linkedin.com/in/emelidral/) _for a thorough fact-checking, feedback on the experiment design, and enormous support while preparing this blog._
+
+written by
+
+![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/66266589fe4b9b284471ac0b_62bcd7d0d21b0e576c9de3fe_olga%2520filipova_round.jpeg)
+
+#### [Olga Filippova](/authors/olga-fillipova)
+
+Lead Data Scientist
+
+Evidently AI
+
+![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/66266589dd958874dc9ded66_62bcd717c16504f4b3ff1053_unnamed-3-2.jpeg)
+
+#### [Dasha Maliugina](/authors/dasha-maliugina)
+
+Community Manager
+
+Evidently AI
+
+[#data-drift](/blog-tag/data-drift)
+
+[#code-example](/blog-tag/code-example)
+
+share on
+
+[![LinkedIn logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc27475f_Group%2068.svg)](https://www.linkedin.com/)[![Twitter logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/665498e176df469709a54190_x-logo%20\(1\).svg)](http://twitter.com/)[![Facebook logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc274774_Group%2065.svg)](http://facebook.com)
+
+## You might also like
+
+[![To retrain, or not to retrain? Let's get analytical about ML model updates](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0e1ce5af6ba15764ba0_62e1bd5f785b4a8dafb00231_blog_retrain_or_not_.png)MLOpsTo retrain, or not to retrain? Let's get analytical about ML model updatesIs it time to retrain your machine learning model? Even though data science is all about… data, the answer to this question is surprisingly often based on a gut feeling. Can we do better?](/blog/retrain-or-not-retrain)
+
+[!["My data drifted. What's next?" How to handle ML model drift in production.](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/6625e0de1524d2ef8cdcf9f7_644964daa13aa654c39e067b_evidently_data_drift-7-min.png)MLOps"My data drifted. What's next?" How to handle ML model drift in production.What can you do once you detect data drift for a production ML model? Here is an introductory overview of the possible steps.](/blog/ml-monitoring-data-drift-how-to-handle)
+
+🎓 Free course on LLM evaluations for AI product teams.[ Sign up **⟶**](/llm-evaluations-course)
+
+[![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/66180fbf4f40e9ed73ca2d39_evidently_ai_logo_fi.png)](/)
+
+Product
+
+[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664e1f22864ff24118d07024_chat-text-duotone%20\(1\).svg)LLM observabilityEvaluate LLM-powered products, from RAGs to AI assistants.](/llm-observability)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664d50547ea050df1ee60188_chart-line-duotone.svg)ML observabilityMonitor data drift, data quality, and performance for production ML models.](/ml-monitoring)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664e1f2301afb605005be14d_lock-simple-open-duotone.svg)Open-sourceOpen-source Python library for ML monitoring with 20m+ downloads.](/evidently-oss)
+
+[Pricing](/pricing)[Docs](https://docs.evidentlyai.com/)
+
+Resources
+
+[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abba265e01ed75b39988c_book-duotone.svg)BlogInsights on building AI products](/blog)[![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/675a45076643cf7042075aac_star-duotone%20\(1\).svg)LLM benchmarks100+ LLM benchmarks and datasets](/llm-evaluation-benchmarks-datasets)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb7fbdd19d6d3f1875c_code-duotone%20\(1\).svg)TutorialsAI observability and MLOps tutorials](/mlops-tutorials)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb798a210c5d2640337_lightbulb-duotone%20\(1\).svg)ML and LLM system design500 ML and LLM use cases](/ml-system-design)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb798a210c5d2640368_check-duotone%20\(1\).svg)GuidesIn-depth AI quality and MLOps guides](/mlops-guides)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdbd5bfc045c59b3467f_gear-duotone%20\(1\).svg)ML and AI platforms45+ internal ML and AI platforms](/ml-platforms)[![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abdb7ee755c4dc43cefc2_users-three-duotone%20\(1\).svg)CommunityGet support and chat about AI products](/community)
+
+##### [Course on LLM evaluations for AI product teams![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/673f571568470a0a8d49aa43_three-cheerful-robot-students-take-exam%20\(4\).jpg)](/llm-evaluations-course)[Sign up now![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc27473e_Group%209.svg)](/llm-evaluations-course)
+
+[Get demo](/get-demo)[Sign up](/register)
+
+[GitHub](https://github.com/evidentlyai/evidently)
+
+[Get demo](/get-demo)[Sign up](/register)
+
+![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664abe8f5bd7dda2d12a1e6d_list-bold.svg)
+
+## Get Started with AI Observability
+
+Book a personalized 1:1 demo with our team or sign up for a free account.
+
+[Start free](/register)[Get demo](/get-demo)
+
+![Icon](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc274771_Group%2069.svg)
+
+No credit card required
+
+[![Evidently AI logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664ac309d9d1086b0e8309f9_evidently%20logo_white.png)](/)
+
+Evaluate, test and monitor your AI-powered products.
+
+Subscribe to our monthly newsletter
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+[LLM observability](/llm-observability)[ML observability](/ml-monitoring)[Open-source](/evidently-oss)
+
+[Blog](/blog)[Tutorials](/mlops-tutorials)[Guides](/mlops-guides)[ML platforms](/ml-platforms)[ML use cases](/ml-system-design)[ML observability course](/ml-observability-course)
+
+[Pricing](/pricing)[Docs](https://docs.evidentlyai.com/)[GitHub](https://github.com/evidentlyai/evidently)[Community](/community)
+
+[Privacy policy](/privacy)[Terms of service](/terms)
+
+© 2025, Evidently AI. All rights reserved
+
+[![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/660ef16a9e0687d9cc274742_Group%2027.svg)](https://www.linkedin.com/company/evidently-ai/)[![Twitter logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664f62d9e2ffd7e31ffae6c8_x-logo-duotone%20\(1\).svg)](http://twitter.com/EvidentlyAI)[![Discord logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664f6316d09cc4b5e975db27_discord-logo-duotone%20\(2\).svg)](https://discord.com/invite/PyAJuUD5mB)[![YouTube logo](https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/664f634afd92ff37de706ab9_youtube-logo-duotone.svg)](https://www.youtube.com/c/evidentlyai)
+
+By clicking “Accept”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our [Privacy Policy](/privacy) for more information.
+
+[Deny](#)[Accept](#)
+
+Privacy Preferences
+
+Essential cookies
+
+Required
+
+Marketing cookies
+
+Essential
+
+Personalization cookies
+
+Essential
+
+Analytics cookies
+
+Essential
+
+[Reject all cookies](#)[Allow all cookies](#)[Save preferences](#)

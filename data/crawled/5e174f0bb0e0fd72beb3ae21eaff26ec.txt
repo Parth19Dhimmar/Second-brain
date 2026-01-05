@@ -1,0 +1,450 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fqdrant%2Ffastembed%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fqdrant%2Ffastembed%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=qdrant%2Ffastembed) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ qdrant ](/qdrant) / **[fastembed](/qdrant/fastembed) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fqdrant%2Ffastembed) You must be signed in to change notification settings
+  * [ Fork 118 ](/login?return_to=%2Fqdrant%2Ffastembed)
+  * [ Star  1.7k ](/login?return_to=%2Fqdrant%2Ffastembed)
+
+
+
+
+Fast, Accurate, Lightweight Python library to make State of the Art Embedding 
+
+[qdrant.github.io/fastembed/](https://qdrant.github.io/fastembed/ "https://qdrant.github.io/fastembed/")
+
+### License
+
+[ Apache-2.0 license ](/qdrant/fastembed/blob/main/LICENSE)
+
+[ 1.7k stars ](/qdrant/fastembed/stargazers) [ 118 forks ](/qdrant/fastembed/forks) [ Branches ](/qdrant/fastembed/branches) [ Tags ](/qdrant/fastembed/tags) [ Activity ](/qdrant/fastembed/activity)
+
+[ Star  ](/login?return_to=%2Fqdrant%2Ffastembed)
+
+[ Notifications ](/login?return_to=%2Fqdrant%2Ffastembed) You must be signed in to change notification settings
+
+  * [ Code ](/qdrant/fastembed)
+  * [ Issues 57 ](/qdrant/fastembed/issues)
+  * [ Pull requests 12 ](/qdrant/fastembed/pulls)
+  * [ Discussions ](/qdrant/fastembed/discussions)
+  * [ Actions ](/qdrant/fastembed/actions)
+  * [ Projects 0 ](/qdrant/fastembed/projects)
+  * [ Security ](/qdrant/fastembed/security)
+  * [ Insights ](/qdrant/fastembed/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/qdrant/fastembed)
+  * [ Issues  ](/qdrant/fastembed/issues)
+  * [ Pull requests  ](/qdrant/fastembed/pulls)
+  * [ Discussions  ](/qdrant/fastembed/discussions)
+  * [ Actions  ](/qdrant/fastembed/actions)
+  * [ Projects  ](/qdrant/fastembed/projects)
+  * [ Security  ](/qdrant/fastembed/security)
+  * [ Insights  ](/qdrant/fastembed/pulse)
+
+
+
+# qdrant/fastembed
+
+main
+
+[Branches](/qdrant/fastembed/branches)[Tags](/qdrant/fastembed/tags)
+
+[](/qdrant/fastembed/branches)[](/qdrant/fastembed/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+## History
+
+[505 Commits](/qdrant/fastembed/commits/main/)[](/qdrant/fastembed/commits/main/)  
+[.github](/qdrant/fastembed/tree/main/.github ".github")| [.github](/qdrant/fastembed/tree/main/.github ".github")  
+[docs](/qdrant/fastembed/tree/main/docs "docs")| [docs](/qdrant/fastembed/tree/main/docs "docs")  
+[experiments](/qdrant/fastembed/tree/main/experiments "experiments")| [experiments](/qdrant/fastembed/tree/main/experiments "experiments")  
+[fastembed](/qdrant/fastembed/tree/main/fastembed "fastembed")| [fastembed](/qdrant/fastembed/tree/main/fastembed "fastembed")  
+[tests](/qdrant/fastembed/tree/main/tests "tests")| [tests](/qdrant/fastembed/tree/main/tests "tests")  
+[.gitignore](/qdrant/fastembed/blob/main/.gitignore ".gitignore")| [.gitignore](/qdrant/fastembed/blob/main/.gitignore ".gitignore")  
+[.pre-commit-config.yaml](/qdrant/fastembed/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/qdrant/fastembed/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")  
+[CONTRIBUTING.md](/qdrant/fastembed/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/qdrant/fastembed/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")  
+[LICENSE](/qdrant/fastembed/blob/main/LICENSE "LICENSE")| [LICENSE](/qdrant/fastembed/blob/main/LICENSE "LICENSE")  
+[NOTICE](/qdrant/fastembed/blob/main/NOTICE "NOTICE")| [NOTICE](/qdrant/fastembed/blob/main/NOTICE "NOTICE")  
+[README.md](/qdrant/fastembed/blob/main/README.md "README.md")| [README.md](/qdrant/fastembed/blob/main/README.md "README.md")  
+[RELEASE.md](/qdrant/fastembed/blob/main/RELEASE.md "RELEASE.md")| [RELEASE.md](/qdrant/fastembed/blob/main/RELEASE.md "RELEASE.md")  
+[mkdocs.yml](/qdrant/fastembed/blob/main/mkdocs.yml "mkdocs.yml")| [mkdocs.yml](/qdrant/fastembed/blob/main/mkdocs.yml "mkdocs.yml")  
+[pyproject.toml](/qdrant/fastembed/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/qdrant/fastembed/blob/main/pyproject.toml "pyproject.toml")  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [License](#)
+
+
+
+# ⚡️ What is FastEmbed?
+
+[](#️-what-is-fastembed)
+
+FastEmbed is a lightweight, fast, Python library built for embedding generation. We [support popular text models](https://qdrant.github.io/fastembed/examples/Supported_Models/). Please [open a GitHub issue](https://github.com/qdrant/fastembed/issues/new) if you want us to add a new model.
+
+The default text embedding (`TextEmbedding`) model is Flag Embedding, presented in the [MTEB](https://huggingface.co/spaces/mteb/leaderboard) leaderboard. It supports "query" and "passage" prefixes for the input text. Here is an example for [Retrieval Embedding Generation](https://qdrant.github.io/fastembed/qdrant/Retrieval_with_FastEmbed/) and how to use [FastEmbed with Qdrant](https://qdrant.github.io/fastembed/qdrant/Usage_With_Qdrant/).
+
+## 📈 Why FastEmbed?
+
+[](#-why-fastembed)
+
+  1. Light: FastEmbed is a lightweight library with few external dependencies. We don't require a GPU and don't download GBs of PyTorch dependencies, and instead use the ONNX Runtime. This makes it a great candidate for serverless runtimes like AWS Lambda.
+
+  2. Fast: FastEmbed is designed for speed. We use the ONNX Runtime, which is faster than PyTorch. We also use data parallelism for encoding large datasets.
+
+  3. Accurate: FastEmbed is better than OpenAI Ada-002. We also [support](https://qdrant.github.io/fastembed/examples/Supported_Models/) an ever-expanding set of models, including a few multilingual models.
+
+
+
+
+## 🚀 Installation
+
+[](#-installation)
+
+To install the FastEmbed library, pip works best. You can install it with or without GPU support:
+
+```
+pip install fastembed # or with GPU support pip install fastembed-gpu
+```
+
+## 📖 Quickstart
+
+[](#-quickstart)
+
+```
+from fastembed import TextEmbedding # Example list of documents documents: list[str] = [ "This is built to be faster and lighter than other embedding libraries e.g. Transformers, Sentence-Transformers, etc.", "fastembed is supported by and maintained by Qdrant.", ] # This will trigger the model download and initialization embedding_model = TextEmbedding() print("The model BAAI/bge-small-en-v1.5 is ready to use.") embeddings_generator = embedding_model.embed(documents) # reminder this is a generator embeddings_list = list(embedding_model.embed(documents)) # you can also convert the generator to a list, and that to a numpy array len(embeddings_list[0]) # Vector of 384 dimensions
+```
+
+Fastembed supports a variety of models for different tasks and modalities. The list of all the available models can be found [here](https://qdrant.github.io/fastembed/examples/Supported_Models/)
+
+### 🎒 Dense text embeddings
+
+[](#-dense-text-embeddings)
+
+```
+from fastembed import TextEmbedding model = TextEmbedding(model_name="BAAI/bge-small-en-v1.5") embeddings = list(model.embed(documents)) # [ # array([-0.1115, 0.0097, 0.0052, 0.0195, ...], dtype=float32), # array([-0.1019, 0.0635, -0.0332, 0.0522, ...], dtype=float32) # ]
+```
+
+### 🔱 Sparse text embeddings
+
+[](#-sparse-text-embeddings)
+
+  * SPLADE++
+
+
+
+```
+from fastembed import SparseTextEmbedding model = SparseTextEmbedding(model_name="prithivida/Splade_PP_en_v1") embeddings = list(model.embed(documents)) # [ # SparseEmbedding(indices=[ 17, 123, 919, ... ], values=[0.71, 0.22, 0.39, ...]), # SparseEmbedding(indices=[ 38, 12, 91, ... ], values=[0.11, 0.22, 0.39, ...]) # ]
+```
+
+### 🦥 Late interaction models (aka ColBERT)
+
+[](#-late-interaction-models-aka-colbert)
+
+```
+from fastembed import LateInteractionTextEmbedding model = LateInteractionTextEmbedding(model_name="colbert-ir/colbertv2.0") embeddings = list(model.embed(documents)) # [ # array([ # [-0.1115, 0.0097, 0.0052, 0.0195, ...], # [-0.1019, 0.0635, -0.0332, 0.0522, ...], # ]), # array([ # [-0.9019, 0.0335, -0.0032, 0.0991, ...], # [-0.2115, 0.8097, 0.1052, 0.0195, ...], # ]),  # ]
+```
+
+### 🖼️ Image embeddings
+
+[](#️-image-embeddings)
+
+```
+from fastembed import ImageEmbedding images = [ "./path/to/image1.jpg", "./path/to/image2.jpg", ] model = ImageEmbedding(model_name="Qdrant/clip-ViT-B-32-vision") embeddings = list(model.embed(images)) # [ # array([-0.1115, 0.0097, 0.0052, 0.0195, ...], dtype=float32), # array([-0.1019, 0.0635, -0.0332, 0.0522, ...], dtype=float32) # ]
+```
+
+### 🔄 Rerankers
+
+[](#-rerankers)
+
+```
+from fastembed.rerank.cross_encoder import TextCrossEncoder query = "Who is maintaining Qdrant?" documents: list[str] = [ "This is built to be faster and lighter than other embedding libraries e.g. Transformers, Sentence-Transformers, etc.", "fastembed is supported by and maintained by Qdrant.", ] encoder = TextCrossEncoder(model_name="Xenova/ms-marco-MiniLM-L-6-v2") scores = list(encoder.rerank(query, documents)) # [-11.48061752319336, 5.472434997558594]
+```
+
+## ⚡️ FastEmbed on a GPU
+
+[](#️-fastembed-on-a-gpu)
+
+FastEmbed supports running on GPU devices. It requires installation of the `fastembed-gpu` package.
+
+```
+pip install fastembed-gpu
+```
+
+Check our [example](https://qdrant.github.io/fastembed/examples/FastEmbed_GPU/) for detailed instructions, CUDA 12.x support and troubleshooting of the common issues.
+
+```
+from fastembed import TextEmbedding embedding_model = TextEmbedding( model_name="BAAI/bge-small-en-v1.5", providers=["CUDAExecutionProvider"] ) print("The model BAAI/bge-small-en-v1.5 is ready to use on a GPU.")
+```
+
+## Usage with Qdrant
+
+[](#usage-with-qdrant)
+
+Installation with Qdrant Client in Python:
+
+```
+pip install qdrant-client[fastembed]
+```
+
+or
+
+```
+pip install qdrant-client[fastembed-gpu]
+```
+
+You might have to use quotes `pip install 'qdrant-client[fastembed]'` on zsh.
+
+```
+from qdrant_client import QdrantClient # Initialize the client client = QdrantClient("localhost", port=6333) # For production # client = QdrantClient(":memory:") # For small experiments # Prepare your documents, metadata, and IDs docs = ["Qdrant has Langchain integrations", "Qdrant also has Llama Index integrations"] metadata = [ {"source": "Langchain-docs"}, {"source": "Llama-index-docs"}, ] ids = [42, 2] # If you want to change the model: # client.set_model("sentence-transformers/all-MiniLM-L6-v2") # List of supported models: https://qdrant.github.io/fastembed/examples/Supported_Models # Use the new add() instead of upsert() # This internally calls embed() of the configured embedding model client.add( collection_name="demo_collection", documents=docs, metadata=metadata, ids=ids ) search_result = client.query( collection_name="demo_collection", query_text="This is a query document" ) print(search_result)
+```
+
+## About
+
+Fast, Accurate, Lightweight Python library to make State of the Art Embedding 
+
+[qdrant.github.io/fastembed/](https://qdrant.github.io/fastembed/ "https://qdrant.github.io/fastembed/")
+
+### Topics
+
+[ retrieval ](/topics/retrieval "Topic: retrieval") [ embeddings ](/topics/embeddings "Topic: embeddings") [ openai ](/topics/openai "Topic: openai") [ rag ](/topics/rag "Topic: rag") [ vector-search ](/topics/vector-search "Topic: vector-search") [ retrieval-augmented-generation ](/topics/retrieval-augmented-generation "Topic: retrieval-augmented-generation")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ Apache-2.0 license ](#Apache-2.0-1-ov-file)
+
+[ Activity](/qdrant/fastembed/activity)
+
+[ Custom properties](/qdrant/fastembed/custom-properties)
+
+### Stars
+
+[ **1.7k** stars](/qdrant/fastembed/stargazers)
+
+### Watchers
+
+[ **15** watching](/qdrant/fastembed/watchers)
+
+### Forks
+
+[ **118** forks](/qdrant/fastembed/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fqdrant%2Ffastembed&report=qdrant+%28user%29)
+
+##  [Releases 20](/qdrant/fastembed/releases)
+
+[ v0.5.1 Latest  Jan 20, 2025 ](/qdrant/fastembed/releases/tag/v0.5.1)
+
+[+ 19 releases](/qdrant/fastembed/releases)
+
+##  [Packages 0](/orgs/qdrant/packages?repo_name=fastembed)
+
+No packages published 
+
+##  [Used by 2k](/qdrant/fastembed/network/dependents)
+
+[
+
+  * ![@Gleb01548](https://avatars.githubusercontent.com/u/100686409?s=64&v=4)
+  * ![@divyanandikole30](https://avatars.githubusercontent.com/u/122026562?s=64&v=4)
+  * ![@pradhandebasish2046](https://avatars.githubusercontent.com/u/84903046?s=64&v=4)
+  * ![@harikrishna553](https://avatars.githubusercontent.com/u/4006916?s=64&v=4)
+  * ![@udpsunil](https://avatars.githubusercontent.com/u/127802?s=64&v=4)
+  * ![@Khavanw](https://avatars.githubusercontent.com/u/88762674?s=64&v=4)
+  * ![@pavanjava](https://avatars.githubusercontent.com/u/25398886?s=64&v=4)
+  * ![@YasaswiniDesai](https://avatars.githubusercontent.com/u/92711164?s=64&v=4)
+
++ 1,972  ](/qdrant/fastembed/network/dependents)
+
+##  [Contributors 27](/qdrant/fastembed/graphs/contributors)
+
+  * [ ![@NirantK](https://avatars.githubusercontent.com/u/3250749?s=64&v=4) ](https://github.com/NirantK)
+  * [ ![@joein](https://avatars.githubusercontent.com/u/22641570?s=64&v=4) ](https://github.com/joein)
+  * [ ![@generall](https://avatars.githubusercontent.com/u/1935623?s=64&v=4) ](https://github.com/generall)
+  * [ ![@Anush008](https://avatars.githubusercontent.com/u/46051506?s=64&v=4) ](https://github.com/Anush008)
+  * [ ![@hh-space-invader](https://avatars.githubusercontent.com/u/90828745?s=64&v=4) ](https://github.com/hh-space-invader)
+  * [ ![@I8dNLo](https://avatars.githubusercontent.com/u/12086538?s=64&v=4) ](https://github.com/I8dNLo)
+  * [ ![@KShivendu](https://avatars.githubusercontent.com/u/47217984?s=64&v=4) ](https://github.com/KShivendu)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@mrscoopers](https://avatars.githubusercontent.com/u/143733659?s=64&v=4) ](https://github.com/mrscoopers)
+  * [ ![@afg1](https://avatars.githubusercontent.com/u/623671?s=64&v=4) ](https://github.com/afg1)
+  * [ ![@dpjanes](https://avatars.githubusercontent.com/u/2311111?s=64&v=4) ](https://github.com/dpjanes)
+  * [ ![@jamert](https://avatars.githubusercontent.com/u/3200920?s=64&v=4) ](https://github.com/jamert)
+  * [ ![@deichrenner](https://avatars.githubusercontent.com/u/4533011?s=64&v=4) ](https://github.com/deichrenner)
+  * [ ![@amietn](https://avatars.githubusercontent.com/u/5566087?s=64&v=4) ](https://github.com/amietn)
+
+
+
+[+ 13 contributors](/qdrant/fastembed/graphs/contributors)
+
+## Languages
+
+  * [ Python 76.5% ](/qdrant/fastembed/search?l=python)
+  * [ Jupyter Notebook 23.5% ](/qdrant/fastembed/search?l=jupyter-notebook)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

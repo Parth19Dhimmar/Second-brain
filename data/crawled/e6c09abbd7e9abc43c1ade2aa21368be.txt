@@ -1,0 +1,247 @@
+![](https://substackcdn.com/image/fetch/w_1360,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa845e33e-b40d-46af-bd79-df96459df6b7_917x450.png)
+
+# Ahead of AI
+
+Ahead AI specializes in Machine Learning & AI research and is read by tens of thousands of researchers and practitioners who want to stay ahead in the ever-evolving field.
+
+By Sebastian Raschka
+
+· Over 79,000 subscribers
+
+Subscribe
+
+No thanks
+
+“Sebastian is an incredible educator and always has invaluable insights--do keep up with his work!”
+
+The Gradient, [The Gradient](https://thegradientpub.substack.com)
+
+“All the latest scoop on AI from one of the best educators out there!”
+
+Sairam Sundaresan, [Gradient Ascent](https://newsletter.artofsaience.com)
+
+By registering you agree to Substack's [Terms of Service](https://substack.com/tos), our [Privacy Policy](https://substack.com/privacy), and our [Information Collection Notice](https://substack.com/ccpa#personal-data-collected)
+
+[![](https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4dcbe6f-2617-404f-8368-9bc428272016_1280x1280.png)](/)
+
+# [![Ahead of AI](https://substackcdn.com/image/fetch/e_trim:10:white/e_trim:10:transparent/h_72,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe553b9ca-3e8c-442b-969a-22556b86d1e5_448x212.png)](/)
+
+SubscribeSign in
+
+[Home](/)
+
+[Support](https://magazine.sebastianraschka.com/p/supporting-ahead-of-ai)
+
+[LLMs From Scratch Book](https://amzn.to/4fqvn0D)
+
+[Personal Website](https://sebastianraschka.com)
+
+[Archive](/archive)
+
+[About](/about)
+
+![](https://substackcdn.com/image/fetch/w_1280,h_720,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc534f387-f776-41eb-9c65-f0032b91daee_1988x1430.png)
+
+[Understanding Multimodal LLMs](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms)
+
+[An introduction to the main techniques and latest models](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms)
+
+Nov 3, 2024 •
+
+[Sebastian Raschka, PhD](https://substack.com/@rasbt)
+
+358
+
+#### Share this post
+
+[![](https://substackcdn.com/image/fetch/w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc534f387-f776-41eb-9c65-f0032b91daee_1988x1430.png)![Ahead of AI](https://substackcdn.com/image/fetch/w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4dcbe6f-2617-404f-8368-9bc428272016_1280x1280.png)Ahead of AIUnderstanding Multimodal LLMs](https://substack.com/home/post/p-151078631?utm_campaign=post&utm_medium=web)
+
+Copy linkFacebookEmailNotesMore
+
+[48](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms/comments)[](javascript:void\(0\))
+
+Most Popular
+
+[View all](/archive?sort=top)
+
+[Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+
+Apr 16, 2023 • [Sebastian Raschka, PhD](https://substack.com/@rasbt)
+
+![](https://substackcdn.com/image/fetch/w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9a0766d-2e52-4af0-96c5-3e07a30d6ecb_1868x1130.png)
+
+867
+
+#### Share this post
+
+[![](https://substackcdn.com/image/fetch/w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9a0766d-2e52-4af0-96c5-3e07a30d6ecb_1868x1130.png)![Ahead of AI](https://substackcdn.com/image/fetch/w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4dcbe6f-2617-404f-8368-9bc428272016_1280x1280.png)Ahead of AIUnderstanding Large Language Models](https://substack.com/home/post/p-115060492?utm_campaign=post&utm_medium=web)
+
+Copy linkFacebookEmailNotesMore
+
+[54](https://magazine.sebastianraschka.com/p/understanding-large-language-models/comments)[](javascript:void\(0\))
+
+[Understanding and Coding Self-Attention, Multi-Head Attention, Cross-Attention, and Causal-Attention in LLMs](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)
+
+Jan 14, 2024
+
+![](https://substackcdn.com/image/fetch/w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69bfee26-ea3b-42a6-8a1a-6b8187852082_738x564.png)
+
+326
+
+#### Share this post
+
+[![](https://substackcdn.com/image/fetch/w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69bfee26-ea3b-42a6-8a1a-6b8187852082_738x564.png)![Ahead of AI](https://substackcdn.com/image/fetch/w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4dcbe6f-2617-404f-8368-9bc428272016_1280x1280.png)Ahead of AIUnderstanding and Coding Self-Attention, Multi-Head Attention, Cross-Attention, and Causal-Attention in LLMs](https://substack.com/home/post/p-140464659?utm_campaign=post&utm_medium=web)
+
+Copy linkFacebookEmailNotesMore
+
+[41](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention/comments)[](javascript:void\(0\))
+
+[Building LLMs from the Ground Up: A 3-hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
+
+Aug 31, 2024 • [Sebastian Raschka, PhD](https://substack.com/@rasbt)
+
+![](https://substackcdn.com/image/fetch/w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F367b547c-9d22-4a3d-b466-1d56ccc6b055_1844x1224.png)
+
+385
+
+#### Share this post
+
+[![](https://substackcdn.com/image/fetch/w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F367b547c-9d22-4a3d-b466-1d56ccc6b055_1844x1224.png)![Ahead of AI](https://substackcdn.com/image/fetch/w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4dcbe6f-2617-404f-8368-9bc428272016_1280x1280.png)Ahead of AIBuilding LLMs from the Ground Up: A 3-hour Coding Workshop](https://substack.com/home/post/p-148329414?utm_campaign=post&utm_medium=web)
+
+Copy linkFacebookEmailNotesMore
+
+[13](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up/comments)[](javascript:void\(0\))
+
+[Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
+
+Nov 19, 2023 • [Sebastian Raschka, PhD](https://substack.com/@rasbt)
+
+![](https://substackcdn.com/image/fetch/w_150,h_150,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfbd169-eb7e-41e1-a050-556ccd6fb679_1600x672.png)
+
+248
+
+#### Share this post
+
+[![](https://substackcdn.com/image/fetch/w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfbd169-eb7e-41e1-a050-556ccd6fb679_1600x672.png)![Ahead of AI](https://substackcdn.com/image/fetch/w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4dcbe6f-2617-404f-8368-9bc428272016_1280x1280.png)Ahead of AIPractical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://substack.com/home/post/p-138081202?utm_campaign=post&utm_medium=web)
+
+Copy linkFacebookEmailNotesMore
+
+[46](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms/comments)[](javascript:void\(0\))
+
+### Recent posts
+
+[View all](/archive)
+
+![](https://substackcdn.com/image/fetch/w_1250,h_703,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F950f1c27-f0ee-4392-a7f4-906125c58738_1888x1670.png)
+
+[Noteworthy AI Research Papers of 2024 (Part Two)](https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2)
+
+[Six influential AI papers from July to December](https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2)
+
+Jan 15 •
+
+[Sebastian Raschka, PhD](https://substack.com/@rasbt)
+
+103
+
+#### Share this post
+
+[![](https://substackcdn.com/image/fetch/w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F950f1c27-f0ee-4392-a7f4-906125c58738_1888x1670.png)![Ahead of AI](https://substackcdn.com/image/fetch/w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4dcbe6f-2617-404f-8368-9bc428272016_1280x1280.png)Ahead of AINoteworthy AI Research Papers of 2024 (Part Two)](https://substack.com/home/post/p-153692738?utm_campaign=post&utm_medium=web)
+
+Copy linkFacebookEmailNotesMore
+
+[6](https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2/comments)[](javascript:void\(0\))
+
+[Noteworthy AI Research Papers of 2024 (Part One)](https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-1)
+
+[Six influential AI papers from January to June](https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-1)
+
+Dec 31, 2024 •
+
+[Sebastian Raschka, PhD](https://substack.com/@rasbt)
+
+298
+
+#### Share this post
+
+[![](https://substackcdn.com/image/fetch/w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcace23cf-5185-4045-a894-bb67b20728c8_1850x1348.png)![Ahead of AI](https://substackcdn.com/image/fetch/w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4dcbe6f-2617-404f-8368-9bc428272016_1280x1280.png)Ahead of AINoteworthy AI Research Papers of 2024 (Part One)](https://substack.com/home/post/p-153341037?utm_campaign=post&utm_medium=web)
+
+Copy linkFacebookEmailNotesMore
+
+[26](https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-1/comments)[](javascript:void\(0\))
+
+![](https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcace23cf-5185-4045-a894-bb67b20728c8_1850x1348.png)
+
+[LLM Research Papers: The 2024 List](https://magazine.sebastianraschka.com/p/llm-research-papers-the-2024-list)
+
+[A curated list of interesting LLM-related research papers from 2024, shared for those looking for something to read over the holidays.](https://magazine.sebastianraschka.com/p/llm-research-papers-the-2024-list)
+
+Dec 8, 2024 •
+
+[Sebastian Raschka, PhD](https://substack.com/@rasbt)
+
+268
+
+#### Share this post
+
+[![](https://substackcdn.com/image/fetch/w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ba1c2ab-7ae7-4f22-86df-f116f2914cd5_1272x1232.png)![Ahead of AI](https://substackcdn.com/image/fetch/w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4dcbe6f-2617-404f-8368-9bc428272016_1280x1280.png)Ahead of AILLM Research Papers: The 2024 List](https://substack.com/home/post/p-152305086?utm_campaign=post&utm_medium=web)
+
+Copy linkFacebookEmailNotesMore
+
+[28](https://magazine.sebastianraschka.com/p/llm-research-papers-the-2024-list/comments)[](javascript:void\(0\))
+
+![](https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ba1c2ab-7ae7-4f22-86df-f116f2914cd5_1272x1232.png)
+
+[Building A GPT-Style LLM Classifier From Scratch](https://magazine.sebastianraschka.com/p/building-a-gpt-style-llm-classifier)
+
+[Finetuning a GPT Model for Spam Classification](https://magazine.sebastianraschka.com/p/building-a-gpt-style-llm-classifier)
+
+Sep 21, 2024 •
+
+[Sebastian Raschka, PhD](https://substack.com/@rasbt)
+
+165
+
+#### Share this post
+
+[![](https://substackcdn.com/image/fetch/w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc52e5b0c-836c-4ae4-9b09-02e364004195_1600x858.jpeg)![Ahead of AI](https://substackcdn.com/image/fetch/w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4dcbe6f-2617-404f-8368-9bc428272016_1280x1280.png)Ahead of AIBuilding A GPT-Style LLM Classifier From Scratch](https://substack.com/home/post/p-148679739?utm_campaign=post&utm_medium=web)
+
+Copy linkFacebookEmailNotesMore
+
+[12](https://magazine.sebastianraschka.com/p/building-a-gpt-style-llm-classifier/comments)[](javascript:void\(0\))
+
+![](https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc52e5b0c-836c-4ae4-9b09-02e364004195_1600x858.jpeg)
+
+[Building LLMs from the Ground Up: A 3-hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
+
+[If your weekend plans include catching up on AI developments and understanding Large Language Models (LLMs), I've prepared a 1-hour presentation on the…](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
+
+Aug 31, 2024 •
+
+[Sebastian Raschka, PhD](https://substack.com/@rasbt)
+
+385
+
+#### Share this post
+
+[![](https://substackcdn.com/image/fetch/w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F367b547c-9d22-4a3d-b466-1d56ccc6b055_1844x1224.png)![Ahead of AI](https://substackcdn.com/image/fetch/w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4dcbe6f-2617-404f-8368-9bc428272016_1280x1280.png)Ahead of AIBuilding LLMs from the Ground Up: A 3-hour Coding Workshop](https://substack.com/home/post/p-148329414?utm_campaign=post&utm_medium=web)
+
+Copy linkFacebookEmailNotesMore
+
+[13](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up/comments)[](javascript:void\(0\))
+
+![](https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F367b547c-9d22-4a3d-b466-1d56ccc6b055_1844x1224.png)
+
+© 2025 Sebastian Raschka
+
+[Privacy](https://substack.com/privacy) ∙ [Terms](https://substack.com/tos) ∙ [Collection notice](https://substack.com/ccpa#personal-data-collected)
+
+[ Start Writing](https://substack.com/signup?utm_source=substack&utm_medium=web&utm_content=footer)[Get the app](https://substack.com/app/app-store-redirect?utm_campaign=app-marketing&utm_content=web-footer-button)
+
+[Substack](https://substack.com) is the home for great culture
+
+#### Share
+
+[](https://magazine.sebastianraschka.com/?utm_campaign=unknown&utm_medium=web)
+
+Copy linkFacebookEmailNotesMore

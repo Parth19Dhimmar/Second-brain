@@ -1,0 +1,27 @@
+# Resources [Community]
+
+# Resources [Science]
+
+# Tools
+
+	[https://github.com/scrapy/scrapy](https://github.com/scrapy/scrapy)
+	[https://github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+	[https://github.com/mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+	[https://github.com/wention/BeautifulSoup4](https://github.com/wention/BeautifulSoup4)
+	# More low-level
+	
+	[https://github.com/microsoft/playwright-python](https://github.com/microsoft/playwright-python)
+	[https://github.com/SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)
+
+---
+
+# Notes
+
+
+
+<child_page>
+# sitemap.xml and robots.txt files
+
+Add /sitemap.xml to any home URL to get a list of all its sub URLs for recursive crawling.
+Add /robots.txt to any home URL to check the site’s crawling limitations.
+</child_page>

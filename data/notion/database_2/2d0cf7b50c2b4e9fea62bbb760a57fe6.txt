@@ -1,0 +1,16 @@
+# Tools
+
+	# Fully Open-source
+	
+	[https://github.com/Netflix/metaflow](https://github.com/Netflix/metaflow)
+	[https://github.com/apache/airflow](https://github.com/apache/airflow)
+	[https://argoproj.github.io/workflows/](https://argoproj.github.io/workflows/)
+	[https://www.dbos.dev/](https://www.dbos.dev/)
+	
+	# Semi Open-source + Fully managed option
+	
+	[https://www.zenml.io/](https://www.zenml.io/)
+	[https://www.prefect.io/](https://www.prefect.io/)
+	[https://dagster.io/](https://dagster.io/)
+	[https://github.com/kedro-org/kedro](https://github.com/kedro-org/kedro)
+	[https://temporal.io/](https://temporal.io/)

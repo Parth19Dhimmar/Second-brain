@@ -1,0 +1,464 @@
+[![nexocode](/img/logo-nexo.svg)](/)
+
+menu
+
+  * [Services](#)
+    * [AI Design Sprint](/ai-design-sprint/)
+    * [AI Consulting Services](/ai-consulting-services/)
+    * [Cloud Development Services](/cloud-development-services/)
+    * [Data Engineering Services](/data-engineering-services/)
+    * [Data Strategy Bootcamp](/data-strategy-bootcamp/)
+    * [Generative AI Development Services](/generative-ai-development-company/)
+  * [Solutions](#)
+    * [Computer Vision](/computer-vision-development-services/)
+    * [Natural Language Processing](/natural-language-processing-development-services/)
+    * [Predictive Analytics](/predictive-analytics-development-services/)
+    * [Recommendation Systems](/recommendation-systems-development-services/)
+    * [Dynamic Pricing Services](/dynamic-pricing-engines-development-services/)
+  * [Case Studies](/case-studies/)
+  * [About Us](/about-us/)
+  * [Careers](/careers/)
+  * [Resources](/resources/)
+  * [Blog](/blog/)
+  * [Contact Us](/contact/)
+
+
+
+![Lambda vs. Kappa Architecture. A Guide to Choosing the Right Data Processing Architecture for Your Needs](/images/thumbnail_lambda-vs-kappa-architecture.webp)
+
+[Cloud Computing](/blog/categories/cloud-computing) [Data Intensive Applications](/blog/categories/data-intensive-applications) [Application Architecture](/blog/categories/application-architecture)
+
+# Lambda vs. Kappa Architecture. A Guide to Choosing the Right Data Processing Architecture for Your Needs
+
+[Dorota Owczarek](/blog/authors/dorota-owczarek) - December 30, 2022 - updated on April 24, 2023 
+
+Inside this article: 
+
+  * [Data Processing Architectures](/blog/posts/lambda-vs-kappa-architecture/#data-processing-architectures)
+  * [Lambda Architecture](/blog/posts/lambda-vs-kappa-architecture/#lambda-architecture)
+  * [Kappa Architecture](/blog/posts/lambda-vs-kappa-architecture/#kappa-architecture)
+  * [Comparison of Lambda and Kappa Architectures](/blog/posts/lambda-vs-kappa-architecture/#comparison-of-lambda-and-kappa-architectures)
+  * [The Importance of Choosing the Right Data Processing Architecture for a Business](/blog/posts/lambda-vs-kappa-architecture/#the-importance-of-choosing-the-right-data-processing-architecture-for-a-business)
+
+
+
+In today’s digital age, data is a crucial asset for businesses of all sizes. Unsurprisingly, choosing the right data processing architecture is a top priority for many organizations. Two popular options for data processing architectures are Lambda and Kappa.
+
+In this blog post, we’ll dive deeply into the key features and characteristics of these architectures and provide a comparison to help you decide which one is the best fit for your business needs. Whether you’re a data scientist, engineer, or business owner, this guide will provide valuable insights into the pros and cons of each architecture and help you make an informed decision on which one to choose.
+
+> **TL;DR** • **Data processing architectures** like Lambda and Kappa help businesses analyze and extract valuable insights from their data in real-time. • **Lambda architecture** uses separate batch and stream processing systems, making it scalable and fault-tolerant but complex to set up and maintain (as it duplicates processing logic). • **Kappa architecture** simplifies the pipeline with a single stream processing system as it treats all data as streams, providing flexibility and ease of maintenance, but requires experience in stream processing and distributed systems. **• Lambda architecture** is well-suited when companies have mixed requirements for stream and batch processing, e.g., for real-time analytics and multiple batch processing tasks or data lakes, while Kappa architecture is ideal for continuous data pipelines, real-time data processing, and IoT systems. **• Businesses should consider their specific data processing** needs and choose an architecture that aligns with their goals and requirements. • If you’re considering implementing a modern data processing architecture, **nexocode’s data engineers can help you make the right choice** and ensure a seamless transition. [Contact us today to get started!](https://nexocode.com/contact/ "Contact Us")
+
+## Data Processing Architectures
+
+Data processing architectures are systems designed to efficiently handle the ingestion, processing, and storage of large amounts of data. These architectures play a crucial role in modern businesses. They allow organizations to analyze and extract valuable insights from their data, which can be used to improve decision-making, optimize operations, and drive growth.
+
+## Harness the full potential of AI for your business
+
+[Sign up for newsletter](/blog/posts/lambda-vs-kappa-architecture/#nsl-section)
+
+There are several different types of data processing architectures, each with its own set of characteristics and capabilities. Some famous examples include Lambda and Kappa architectures, which are designed to handle different types of data processing workloads like batch processing or real-time data processing and have their own unique strengths and weaknesses. It’s essential for businesses to carefully consider their specific data processing needs and choose an architecture that aligns with their goals and requirements.
+
+## Lambda Architecture
+
+### Key Features and Characteristics of Lambda Architecture
+
+Lambda architecture is a data processing architecture that aims to provide a scalable, fault-tolerant, and flexible system for processing large amounts of data. It was developed by Nathan Marz in 2011 as a solution to the challenges of processing data in real time at scale.
+
+The critical feature of Lambda architecture is that it uses two separate data processing systems to handle different types of data processing workloads. The first system is a batch processing system, which processes data in large batches and stores the results in a centralized data store, such as a data warehouse or a distributed file system. The second system is a [stream processing](https://nexocode.com/blog/posts/stream-processing-use-cases/) system, which processes data in real-time as it arrives and stores the results in a distributed data store.
+
+![Real-time stream processing and batch processing in Lambda Architecture](/cdn-cgi/image/width=600,quality=75/images/real-time-and-batch-processing-with-flink.webp)
+
+Real-time stream processing and batch processing in Lambda Architecture
+
+In Lambda architecture, the four main layers work together to process and store large volumes of data. Here’s a brief overview of how each layer functions:
+
+#### Data Ingestion Layer
+
+This layer collects and stores raw data from various sources, such as log files, sensors, message queues, and APIs. The data is typically ingested in real time and fed to the batch layer and speed layer simultaneously.
+
+#### Batch Layer (Batch processing)
+
+The batch processing layer is responsible for processing historical data in large batches and storing the results in a centralized data store, such as a data warehouse or a distributed file system. This layer typically uses a batch processing framework, such as [Hadoop](https://nexocode.com/blog/posts/what-is-apache-hadoop/) or [Spark](https://nexocode.com/blog/posts/what-is-apache-spark/), to process the data. The batch layer is designed to handle large volumes of data and provide a complete view of all data.
+
+#### Speed Layer (Real-Time Data Processing)
+
+The speed layer is responsible for processing real-time data as it arrives and storing the results in a distributed data store, such as a message queue or a NoSQL database. This layer typically uses a stream processing framework, such as Apache Flink or Apache Storm, to process data streams. The stream processing layer is designed to handle high-volume data streams and provide up-to-date views of the data.
+
+![Becoming AI Driven](/images/nexo_becoming-ai-driven.webp) [Check this series](/blog/series/becoming-ai-driven)
+
+#### Serving Layer
+
+The serving layer is a component of Lambda architecture that is responsible for serving query results to users in real time. It is typically implemented as a layer on top of the batch and stream processing layers. It is accessed through a query layer, which allows users to query the data using a query language, such as SQL or [Apache Hive’s ](https://nexocode.com/blog/posts/what-is-apache-hive/ "Apache Hive")HiveQL.
+
+The serving layer is designed to provide fast and reliable access to query results, regardless of whether the data is being accessed from the batch or stream processing layers. It typically uses a distributed data store, such as a NoSQL database or a distributed cache, to store the query results and serve them to users in real time.
+
+The serving layer is an essential component of Lambda architecture, as it allows users to access the data in a seamless and consistent manner, regardless of the underlying data processing architecture. It also plays a crucial role in supporting real-time applications, such as dashboards and analytics, which require fast access to up-to-date data.
+
+[ ![Would you like to understand the difference between batch and stream?](/images/nexo_blog_thumbnail_batch_vs_stream_processing.webp) ](https://nexocode.com/blog/posts/batch-processing-vs-stream-processing-comparison/)
+
+### [Would you like to understand the difference between batch and stream?](https://nexocode.com/blog/posts/batch-processing-vs-stream-processing-comparison/)
+
+[ Head over to our recent comparison on batch and stream processing » ](https://nexocode.com/blog/posts/batch-processing-vs-stream-processing-comparison/)
+
+### Pros and Cons of Using Lambda Architecture
+
+**Here are some advantages of Lambda architecture:**
+
+  * **Scalability** : Lambda architecture is designed to handle large volumes of data and scale horizontally to meet the needs of the business.
+  * **Fault-tolerance:** Lambda architecture is designed to be fault-tolerant, with multiple layers and systems working together to ensure that data is processed and stored reliably.
+  * **Flexibility:** Lambda architecture is flexible and can handle a wide range of data processing workloads, from historical batch processing to streaming architecture.
+
+
+
+While Lambda architecture offers a lot of advantages, it also has some significant drawbacks that businesses need to consider before deciding whether it is the right fit for their needs. **Here are some disadvantages of using the Lambda architecture system:**
+
+  * **Complexity:** Lambda architecture is a complex system that uses multiple layers and systems to process and store data. It can be challenging to set up and maintain, especially for businesses that are not familiar with distributed systems and data processing frameworks. Although its layers are designed for different pipelines, the underlining logic has duplicated parts causing unnecessary coding overhead for programmers.
+  * **Errors and data discrepancies:** With doubled implementations of different workflows (although following the same logic, implementation matters), you may run into a problem of different results from batch and stream processing engines. Hard to find, hard to debug.
+  * **Architecture lock-in:** It may be super hard to reorganize or migrate existing data stored in the Lambda architecture.
+
+
+
+### Use Cases for Lambda Architecture
+
+Lambda architecture is a data processing architecture that is well-suited for a wide range of data processing workloads. It is particularly useful for handling large volumes of data and providing low-latency query results, making it well-suited for real-time analytics applications, such as dashboards and reporting. Lambda architecture is also useful for batch processing tasks, such as data cleansing, transformation, and aggregation, and stream processing tasks, such as event processing, machine learning models, anomaly detection, and fraud detection. In addition, Lambda architecture is often used to build data lakes, which are centralized repositories that store structured and unstructured data at rest, and is well-suited for handling the high-volume data streams generated by IoT devices.
+
+## Kappa Architecture
+
+### Key Features and Characteristics of Kappa Architecture
+
+[Kappa architecture](https://nexocode.com/blog/posts/kappa-architecture/ "Kappa Architecture") is a data processing architecture that is designed to provide a scalable, fault-tolerant, and flexible system for processing large amounts of data in real time. It was developed as an alternative to Lambda architecture, which, as mentioned above, uses two separate data processing systems to handle different types of data processing workloads.
+
+In contrast to Lambda, Kappa architecture uses a single data processing system to handle both batch processing and stream processing workloads, as it treats everything as streams. This allows it to provide a more streamlined and simplified data processing pipeline while still providing fast and reliable access to query results.
+
+![Real-time stream processing in Kappa Architecture](/cdn-cgi/image/width=600,quality=75/images/modern_big_data_kappa-architecture.webp)
+
+Real-time stream processing in Kappa Architecture
+
+#### Speed Layer (Stream Layer)
+
+In Kappa architecture, there is only one main layer: the stream processing layer. This layer is responsible for collecting, processing, and storing live streaming data. You can think of it as an evolution of the Lambda approach with the batch processing system removed. It is typically implemented using a stream processing engine, such as [Apache Flink](https://nexocode.com/blog/posts/what-is-apache-flink/), Apache Storm, Apache Kinesis, [Apache Kafka](https://nexocode.com/blog/posts/apache-kafka-architecture-for-big-data-processing/), (or many other [stream processing frameworks](https://nexocode.com/blog/posts/stream-processing-frameworks-compared-top-tools-for-processing-data-streams/)) and is designed to handle high-volume data streams and provide fast and reliable access to query results.
+
+The stream processing layer in Kappa architecture is divided into two main components: the ingestion component and the processing component.
+
+  * **Ingestion component:** This component is responsible for collecting incoming data and storing raw data from various sources, such as log files, sensors, and APIs. The data is typically ingested in real-time and stored in a distributed data store, such as a message queue or a NoSQL database.
+  * **Processing component:** This component is responsible for processing the data as it arrives and storing the results in a distributed data store. It is typically implemented using a stream processing engine, such as Apache Flink or Apache Storm, and is designed to handle high-volume data streams and provide fast and reliable access to query results. In Kappa architecture, there is no separate serving layer. Instead, the stream processing layer is responsible for serving query results to users in real time.
+
+
+
+The stream processing platforms in Kappa architecture are designed to be fault-tolerant and scalable, with each component providing a specific function in the real time data processing pipeline.
+
+![Continuous stream processing - stream processing tools run operations on streaming data to enable real time analytics](/cdn-cgi/image/width=600,quality=75/images/stream-processing-app.webp)
+
+Continuous stream processing - stream processing tools run operations on streaming data to enable real time analytics
+
+[ ![Stay Ahead in the Big Data Game with Kappa Architecture!](/images/thumbnail_Kappa_Architecture.webp) ](https://nexocode.com/blog/posts/kappa-architecture/)
+
+### [Stay Ahead in the Big Data Game with Kappa Architecture!](https://nexocode.com/blog/posts/kappa-architecture/)
+
+[ Uncover how modern businesses are leveraging the Kappa Architecture for efficient stream processing. Don't get left behind - Dive in and understand Kappa Architecture now! ](https://nexocode.com/blog/posts/kappa-architecture/)
+
+### Pros and Cons of Using Kappa Architecture
+
+**Here are some advantages of using of Kappa architecture:**
+
+  * **Simplicity and streamlined pipeline:** Kappa architecture uses a single data processing system to handle both batch processing and stream processing workloads, which makes it simpler to set up and maintain compared to Lambda architecture. This can make it easier to manage and optimize the data processing pipeline by reducing the coding overhead.
+  * **Enables high-throughput big data processing of historical data:** Although it may feel that it is not designed for these set of problems, Kappa architecture can support these use cases with grace, enabling reprocessing directly from our stream processing job.
+  * **Ease of migrations and reorganizations:** As there is only stream processing pipeline, you can perform migrations and reorganizations with new data streams created from the canonical data store.
+  * **Tiered storage:** Tiered storage is a method of storing data in different storage tiers, based on the access patterns and performance requirements of the data. The idea behind tiered storage is to optimize storage costs and performance by storing different types of data on the most appropriate storage tier. In Kappa architecture, tiered storage is not a core concept. However, it is possible to use tiered storage in conjunction with Kappa architecture, as a way to optimize storage costs and performance. For example, businesses may choose to store historical data in a lower-cost fault tolerant distributed storage tier, such as object storage, while storing real-time data in a more performant storage tier, such as a distributed cache or a NoSQL database. **Tiered storage Kappa architecture makes it a cost-efficient and elastic data processing technique without the need for a traditional data lake.**
+
+
+
+**When it comes to disadvantages of Kappa architecture, we can mention the following aspects:**
+
+  * **Complexity:** While Kappa architecture is simpler than Lambda, it can still be complex to set up and maintain, especially for businesses that are not familiar with stream processing frameworks (review [common challenges in stream processing](https://nexocode.com/blog/posts/data-stream-processing-challenges/)).
+
+  * **Costly infrastructure with scalability issues (when not set properly):** Storing big data in an event streaming platform can be costly. To make it more cost-efficient you may want to use data lake approach from your cloud provider (like [AWS](https://nexocode.com/blog/posts/top-benefits-of-aws-cloud-computing/) S3 or GCP Google Cloud Storage). Another common approach for big data architecture is building a “streaming data lake” with Apache Kafka as a streaming layer and object storage to enable long-term data storage.
+
+![Streaming architecture based on Kafka for Kappa approach - Kafka message flow through components](/cdn-cgi/image/width=600,quality=75/images/kafka-streams.webp)
+
+Streaming architecture based on Kafka for Kappa approach - Kafka message flow through components
+
+
+
+### Use Cases for Kappa Architecture
+
+Kappa architecture is a data processing architecture that is designed to provide a flexible, fault-tolerant, and scalable architecture for processing large amounts of data in real-time. It is well-suited for a wide range of data processing workloads, including continuous data pipelines, real time data processing, machine learning models and real-time data analytics, IoT systems, and many other use cases with a single technology stack.
+
+![Bounded and unbounded streams offer different use cases for stream processing. ](/cdn-cgi/image/width=600,quality=75/images/bounded-stream.webp)
+
+Bounded and unbounded streams offer different use cases for stream processing. 
+
+[ ![Curious how to structure modern big data architecture?](/images/hadoop-spark-kafka-modern-big-data-architecture-thumbnail.webp) ](https://nexocode.com/blog/posts/hadoop-spark-kafka-modern-big-data-architecture/)
+
+### [Curious how to structure modern big data architecture?](https://nexocode.com/blog/posts/hadoop-spark-kafka-modern-big-data-architecture/)
+
+[ Head over to our insightful comparison on Hadoop, Spark, and Kafka for big data processing » ](https://nexocode.com/blog/posts/hadoop-spark-kafka-modern-big-data-architecture/)
+
+## Comparison of Lambda and Kappa Architectures
+
+Both architectures are designed to provide scalable, fault-tolerant, and low latency systems for processing data, but they differ in terms of their underlying design and approach to data processing.
+
+### Data Processing Systems
+
+Lambda architecture uses two separate data processing systems to handle different types of data processing workloads: a batch processing system and a stream processing system. In Kappa architecture, on the other hand, a single stream processing engine acts (stream layer) to handle complete data processing. In Lambda, programmers need to learn and maintain two processing frameworks and support any daily code changes in a doubled way. This separation (when not implemented in the same way) may cause different results in stream vs. batch processing, which may cause further business issues. **Kappa Architecture uses the same code for processing data in real time, eliminating the need for additional effort to maintain separate codebases for batch and stream processing. This makes it a more efficient and error-proof solution.**
+
+[ ![Which stream processing framework should you choose?](/images/nexo_blog_thumbnail_stream_processing_frameworks.webp) ](https://nexocode.com/blog/posts/stream-processing-frameworks-compared-top-tools-for-processing-data-streams/)
+
+### [Which stream processing framework should you choose?](https://nexocode.com/blog/posts/stream-processing-frameworks-compared-top-tools-for-processing-data-streams/)
+
+[ Compare top cloud and open-source stream processing frameworks and learn when to use specific stream processors » ](https://nexocode.com/blog/posts/stream-processing-frameworks-compared-top-tools-for-processing-data-streams/)
+
+### Data Storage
+
+Lambda architecture has a separate long-term data storage layer, which is used to store historical data and perform complex aggregations. **Kappa architecture does not have a separate long-term data storage layer, and all data is processed and stored by the stream processing system.**
+
+### Complexity
+
+Lambda architecture is generally more complex to set up and maintain compared to Kappa architecture, as it requires two separate data processing systems and ongoing maintenance to ensure that the batch and stream processing systems are working correctly and efficiently. **Kappa architecture is generally simpler, as it uses a single data processing system to handle all data processing workloads. On the other hand, Kappa, requires a mindset switch to think about all data as streams an it requires lots of experience in stream processing and distributed systems.**
+
+> If you’re looking for more insights on building data-intensive applications head over to a classic position from Martin Kleppman, [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/), or check our take on this book with key insights highlighted by our colleague, Piotr Kubowicz in his article - **[Future According to Designing Data-Intensive Applications](https://nexocode.com/blog/posts/future-designing-data-intensive-applications/)**.
+
+[ ![Are you ready for AI implementation?](/images/the-art-of-building-an-ai-driven-company-ebook-thumbnail.webp) ](https://nexocode.com/resources/ai-for-business-leaders-the-art-of-building-an-ai-driven-company-ebook/)
+
+### [Are you ready for AI implementation?](https://nexocode.com/resources/ai-for-business-leaders-the-art-of-building-an-ai-driven-company-ebook/)
+
+[ Download our free ebook and learn how to kickstart your next AI project » ](https://nexocode.com/resources/ai-for-business-leaders-the-art-of-building-an-ai-driven-company-ebook/)
+
+## The Importance of Choosing the Right Data Processing Architecture for a Business
+
+The choice of data processing architecture is a critical one for businesses, as it impacts the scalability, performance, and flexibility of the data processing pipeline. It is important for businesses to choose a big data architecture that meets their specific needs and to carefully consider the pros and cons of each option before making a decision. Generally, if you’re building a system that needs real-time data access, start with Kappa. And as you learn, you’ll be able to master streams in a way that supports all your workflows.
+
+[ ![Want to choose the right data processing architecture for your business?](/images/Nexo_www_zdj_03.webp) ](https://calendly.com/dorota-owczarek/30min?month=2024-09)
+
+### [Want to choose the right data processing architecture for your business?](https://calendly.com/dorota-owczarek/30min?month=2024-09)
+
+[ schedule a free consultation with our expert! ](https://calendly.com/dorota-owczarek/30min?month=2024-09)
+
+If you are a business owner or data engineer who wants to develop data systems at scale, nexocode’s data engineering experts can help. Our team has extensive experience in building and optimizing modern data processing pipelines and can help you deploy big data architecture that will benefit your business. If you want to know more about streaming data architecture read our article [here](https://nexocode.com/blog/posts/streaming-data-architecture/ "https://nexocode.com/blog/posts/streaming-data-architecture/"). Contact us today to learn more about our services and how we can help you develop a data processing architecture that meets your needs and requirements.
+
+#### About the author
+
+![Dorota Owczarek](/images/authors/dorota-owczarek.webp)
+
+[Dorota Owczarek](/blog/authors/dorota-owczarek)
+
+AI Product Lead & Design Thinking Facilitator
+
+[![Linkedin profile](/images/blog/linkedin.svg)](https://www.linkedin.com/in/dorotaowczarek/) [![Twitter](/images/blog/twitter.svg)](https://twitter.com/_dorotaowczarek)
+
+With over ten years of professional experience in designing and developing software, Dorota is quick to recognize the best ways to serve users and stakeholders by shaping strategies and ensuring their execution by working closely with engineering and design teams. She acts as a Product Leader, covering the ongoing AI agile development processes and operationalizing AI throughout the business.
+
+Would you like to discuss AI opportunities in your business?
+
+Let us know and Dorota will arrange a call with our experts.
+
+![Dorota Owczarek](/images/authors/dorota-owczarek.webp)
+
+**Dorota Owczarek** AI Product Lead 
+
+**Thanks for the message!**
+
+We'll do our best to get back to youas soon as possible.
+
+Let's Talk! 
+
+### This article is a part of
+
+![Becoming AI Driven](/images/nexo_becoming-ai-driven.webp)
+
+100 articles
+
+[Becoming AI Driven](/blog/series/becoming-ai-driven)
+
+Artificial Intelligence solutions are becoming the next competitive edge for many companies within various industries. How do you know if your company should invest time into emerging tech? How to discover and benefit from AI opportunities? How to run AI projects?
+
+**Follow our article series to learn how to get on a path towards AI adoption. Join us as we explore the benefits and challenges that come with AI implementation and guide business leaders in creating AI-based companies.**
+
+[check it out](/blog/series/becoming-ai-driven)
+
+Becoming AI Driven 
+
+#### Insights on practical AI applications just one click away
+
+Sign up for our newsletter and don't miss out on the latest insights, trends and innovations from this sector.
+
+I agree to the information on [data processing](/nsl_information_on_data_processing.pdf), [privacy policy](/privacy_policy.pdf) and newsletter rules described [here](/nsl_rules.pdf).  I agree to receive marketing communication from nexocode. 
+
+Sign up for newsletter
+
+#### Done! 
+
+#### Thanks for joining the newsletter
+
+Check your inbox for the confirmation email & enjoy the read!
+
+![](/img/nsl-greetings.webp)
+
+## Transform your business with AI
+
+### Subscribe to our newsletter
+
+I agree to the information on [data processing](/nsl_information_on_data_processing.pdf), [privacy policy](/privacy_policy.pdf) and [newsletter rules](/nsl_rules.pdf). I agree to receive marketing communication from nexocode.
+
+![Google Cloud Partner](/images/google-cloud-partner.svg)
+
+### Follow us
+
+[![Facebook](/images/footer/facebook.svg)](https://www.facebook.com/nexocode/) [![LinkedIn](/images/footer/linkedin.svg)](https://pl.linkedin.com/company/nexocode) [![Twitter](/images/footer/twitter.svg)](https://twitter.com/nexocode_com) [![Medium](/images/footer/medium.svg)](https://medium.com/nexocode)
+
+### SERVICES
+
+  * [AI Design Sprint](/ai-design-sprint/)
+  * [AI Consulting Services](/ai-consulting-services/)
+  * [Cloud Development Services](/cloud-development-services/)
+  * [Data Engineering Services](/data-engineering-services/)
+  * [Generative AI Development Services](/generative-ai-development-company/)
+
+
+
+### SOLUTIONS
+
+  * [Computer Vision](/computer-vision-development-services/)
+  * [Natural Language Processing](/natural-language-processing-development-services/)
+  * [Predictive Analytics](/predictive-analytics-development-services/)
+  * [Recommendation Systems](/recommendation-systems-development-services/)
+  * [Dynamic Pricing Services](/dynamic-pricing-engines-development-services/)
+  * [Data Strategy Bootcamp](/data-strategy-bootcamp/)
+
+
+
+### [RESOURCES](/resources/)
+
+  * [AI Design Sprint](/resources/ai-design-sprint-workshops-ebook/)
+  * [The Art of Buliding an AI-Driven Company](/resources/ai-for-business-leaders-the-art-of-building-an-ai-driven-company-ebook/)
+
+
+
+### INDUSTRIES
+
+  * [AI in Logistics](/ai-in-logistics/)
+  * [AI in Pharma](/ai-in-pharma/)
+
+
+
+### COMPANY
+
+  * [About us](/about-us/)
+  * [Blog](/blog/)
+  * [Careers](/careers/)
+  * [Case Studies](/case-studies/)
+  * [Contact](/contact/)
+
+
+
+### nexocode
+
+  * ul. Wadowicka 7
+  * 30-347 Kraków, Poland
+
+
+
+Copyright 2025 © Nexocode | [Privacy policy](/privacy_policy.pdf) | [RSS](/index.xml)
+
+This site uses cookies for analytical purposes.
+
+Accept [Privacy Policy](#read-more)
+
+In the interests of your safety and to implement the principle of lawful, reliable and transparent processing of your personal data when using our services, we developed this document called the Privacy Policy. This document regulates the processing and protection of Users’ personal data in connection with their use of the Website and has been prepared by Nexocode. 
+
+To ensure the protection of Users' personal data, Nexocode applies appropriate organizational and technical solutions to prevent privacy breaches. Nexocode implements measures to ensure security at the level which ensures compliance with applicable Polish and European laws such as: 
+
+  1. Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (published in the Official Journal of the European Union L 119, p 1); Act of 10 May 2018 on personal data protection (published in the Journal of Laws of 2018, item 1000);
+  2. Act of 18 July 2002 on providing services by electronic means;
+  3. Telecommunications Law of 16 July 2004.
+
+
+
+The Website is secured by the SSL protocol, which provides secure data transmission on the Internet. 
+
+#### 1. Definitions
+
+  1. User – a person that uses the Website, i.e. a natural person with full legal capacity, a legal person, or an organizational unit which is not a legal person to which specific provisions grant legal capacity.
+  2. Nexocode – NEXOCODE sp. z o.o. with its registered office in Kraków, ul. Wadowicka 7, 30-347 Kraków, entered into the Register of Entrepreneurs of the National Court Register kept by the District Court for Kraków-Śródmieście in Kraków, 11th Commercial Department of the National Court Register, under the KRS number: 0000686992, NIP: 6762533324.
+  3. Website – website run by Nexocode, at the URL: nexocode.com whose content is available to authorized persons.
+  4. Cookies – small files saved by the server on the User's computer, which the server can read when when the website is accessed from the computer.
+  5. SSL protocol – a special standard for transmitting data on the Internet which unlike ordinary methods of data transmission encrypts data transmission.
+  6. System log – the information that the User's computer transmits to the server which may contain various data (e.g. the user’s IP number), allowing to determine the approximate location where the connection came from.
+  7. IP address – individual number which is usually assigned to every computer connected to the Internet. The IP number can be permanently associated with the computer (static) or assigned to a given connection (dynamic).
+  8. GDPR – Regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals regarding the processing of personal data and onthe free transmission of such data, repealing Directive 95/46 / EC (General Data Protection Regulation).
+  9. Personal data – information about an identified or identifiable natural person ("data subject"). An identifiable natural person is a person who can be directly or indirectly identified, in particular on the basis of identifiers such as name, identification number, location data, online identifiers or one or more specific factors determining the physical, physiological, genetic, mental, economic, cultural or social identity of a natural person.
+  10. Processing – any operations performed on personal data, such as collecting, recording, storing, developing, modifying, sharing, and deleting, especially when performed in IT systems.
+
+
+
+#### 2. Cookies
+
+The Website is secured by the SSL protocol, which provides secure data transmission on the Internet. The Website, in accordance with art. 173 of the Telecommunications Act of 16 July 2004 of the Republic of Poland, uses Cookies, i.e. data, in particular text files, stored on the User's end device.Cookies are used to: 
+
+  1. improve user experience and facilitate navigation on the site;
+  2. help to identify returning Users who access the website using the device on which Cookies were saved;
+  3. creating statistics which help to understand how the Users use websites, which allows to improve their structure and content;
+  4. adjusting the content of the Website pages to specific User’s preferences and optimizing the websites website experience to the each User's individual needs.
+
+
+
+Cookies usually contain the name of the website from which they originate, their storage time on the end device and a unique number. On our Website, we use the following types of Cookies: 
+
+  * "Session" – cookie files stored on the User's end device until the Uses logs out, leaves the website or turns off the web browser;
+  * "Persistent" – cookie files stored on the User's end device for the time specified in the Cookie file parameters or until they are deleted by the User;
+  * "Performance" – cookies used specifically for gathering data on how visitors use a website to measure the performance of a website;
+  * "Strictly necessary" – essential for browsing the website and using its features, such as accessing secure areas of the site;
+  * "Functional" – cookies enabling remembering the settings selected by the User and personalizing the User interface;
+  * "First-party" – cookies stored by the Website;
+  * "Third-party" – cookies derived from a website other than the Website;
+  * "Facebook cookies" – You should read Facebook cookies policy: [www.facebook.com](https://www.facebook.com/policy/cookies)
+  * "Other Google cookies" – Refer to Google cookie policy: [google.com](https://www.google.com/policies/technologies/types/)
+
+
+
+#### 3. How System Logs work on the Website
+
+User's activity on the Website, including the User’s Personal Data, is recorded in System Logs. The information collected in the Logs is processed primarily for purposes related to the provision of services, i.e. for the purposes of: 
+
+  * analytics – to improve the quality of services provided by us as part of the Website and adapt its functionalities to the needs of the Users. The legal basis for processing in this case is the legitimate interest of Nexocode consisting in analyzing Users' activities and their preferences;
+  * fraud detection, identification and countering threats to stability and correct operation of the Website.
+
+
+
+#### 4. Cookie mechanism on the Website
+
+Our site uses basic cookies that facilitate the use of its resources. Cookies contain useful information and are stored on the User's computer – our server can read them when connecting to this computer again. Most web browsers allow cookies to be stored on the User's end device by default. Each User can change their Cookie settings in the web browser settings menu: Google ChromeOpen the menu (click the three-dot icon in the upper right corner), Settings > Advanced. In the "Privacy and security" section, click the Content Settings button. In the "Cookies and site date" section you can change the following Cookie settings: 
+
+  * Deleting cookies,
+  * Blocking cookies by default,
+  * Default permission for cookies,
+  * Saving Cookies and website data by default and clearing them when the browser is closed,
+  * Specifying exceptions for Cookies for specific websites or domains
+
+
+
+**Internet Explorer 6.0 and 7.0** From the browser menu (upper right corner): Tools > Internet Options > Privacy, click the Sites button. Use the slider to set the desired level, confirm the change with the OK button. 
+
+**Mozilla Firefox** browser menu: Tools > Options > Privacy and security. Activate the “Custom” field. From there, you can check a relevant field to decide whether or not to accept cookies. 
+
+**Opera** Open the browser’s settings menu: Go to the Advanced section > Site Settings > Cookies and site data. From there, adjust the setting: Allow sites to save and read cookie data 
+
+**Safari** In the Safari drop-down menu, select Preferences and click the Security icon.From there, select the desired security level in the "Accept cookies" area. 
+
+Disabling Cookies in your browser does not deprive you of access to the resources of the Website. Web browsers, by default, allow storing Cookies on the User's end device. Website Users can freely adjust cookie settings. The web browser allows you to delete cookies. It is also possible to automatically block cookies. Detailed information on this subject is provided in the help or documentation of the specific web browser used by the User. The User can decide not to receive Cookies by changing browser settings. However, disabling Cookies necessary for authentication, security or remembering User preferences may impact user experience, or even make the Website unusable. 
+
+#### 5. Additional information
+
+External links may be placed on the Website enabling Users to directly reach other website. Also, while using the Website, cookies may also be placed on the User’s device from other entities, in particular from third parties such as Google, in order to enable the use the functionalities of the Website integrated with these third parties. Each of such providers sets out the rules for the use of cookies in their privacy policy, so for security reasons we recommend that you read the privacy policy document before using these pages. We reserve the right to change this privacy policy at any time by publishing an updated version on our Website. After making the change, the privacy policy will be published on the page with a new date. For more information on the conditions of providing services, in particular the rules of using the Website, contracting, as well as the conditions of accessing content and using the Website, please refer to the the Website’s Terms and Conditions. 
+
+Nexocode Team 
+
+[![Close](/img/cross.svg)](#)
+
+![](/images/the-art-of-building-ai-driven-company-cover.webp)
+
+## Want to unlock the full potential of Artificial Intelligence technology?
+
+Download our ebook and learn how to drive AI adoption in your business.
+
+[GET EBOOK NOW](/resources/ai-for-business-leaders-the-art-of-building-an-ai-driven-company-ebook/)

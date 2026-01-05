@@ -1,0 +1,1060 @@
+[ Tell 120+K peers about your AI research → Learn more 💡 ![](https://neptune.ai/wp-content/themes/neptune/img/icon-cancel.svg) ](/neurips-2024)
+
+[ ![logo](https://neptune.ai/wp-content/themes/neptune/img/logo-neptune.svg) ](https://neptune.ai "neptune.ai")
+
+  * [Product![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/09/show.svg)Overview](#)
+      * [Walkthrough [2 min]](https://neptune.ai/resources/foundation-model-training)
+      * [Deployment options](https://neptune.ai/product/deployment-options)
+      * [Security](https://security.neptune.ai/)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/compare-1.svg)Compare](#)
+      * [Neptune vs WandB](https://neptune.ai/vs/wandb)
+      * [Neptune vs MLflow](https://neptune.ai/vs/mlflow)
+      * [Neptune vs TensorBoard](https://neptune.ai/vs/tensorboard)
+      * [Other comparisons](https://neptune.ai/vs)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/07/bg-5.jpg?fit=768%2C432&ssl=1)Live Neptune projectPlay with a public example project that showcases Neptune's upcoming product release. It offers enhanced scalability and exciting new features. ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](https://scale.neptune.ai/o/neptune/org/LLM-training-example/runs/compare?viewId=9d0e032a-5a78-4a0e-81d1-98e0a7c81a8f&detailsTab=metadata&dash=charts&type=run&experimentOnly=true&compare=u0MsW4a1PJIUJ75nglpjHa9XUKFfAmcBRbLhNatCHX20)
+
+  * [Solutions![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/bulb.svg)By role](#)
+      * [AI Researcher](https://neptune.ai/product/ai-researcher)
+      * [ML Team Lead](https://neptune.ai/product/ml-team-lead)
+      * [ML Platform Engineer](https://neptune.ai/product/ml-platform)
+      * [Academia & Kagglers](https://neptune.ai/research)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/star.svg)By use case](#)
+      * [Monitor training](https://neptune.ai/product/monitor-training)
+      * [Compare experiments](https://neptune.ai/product/compare-experiments)
+      * [Collaborate with a team](https://neptune.ai/product/team-collaboration)
+      * [Reports](https://neptune.ai/product/reports)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/11/deepsense.ai-logo-e1667753808279.png?fit=75%2C75&ssl=1)Case studyHow deepsense.ai Tracked and Analyzed 120K+ Models Using Neptune ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/customers/deepsense-ai)[ ![Menu thumbnail](https://neptune.ai/wp-content/uploads/2023/06/Respo_square.svg)Case studyHow ReSpo.Vision Uses Neptune to Easily Track Training Pipelines at Scale ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/customers/respo-vision)
+
+[See all case studies ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg)](/resources?ct=case-study)
+
+  * [Developers![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Menu Item](#)
+      * [Documentation](https://docs.neptune.ai/)
+      * [Quickstart](https://docs.neptune.ai/usage/quickstart/)
+      * [Integrations](https://docs.neptune.ai/integrations/)
+      * [Code examples](https://github.com/neptune-ai/examples)
+
+  * [Resources![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/test-tube.svg)Use Neptune](#)
+      * [Play with public sandbox](https://scale.neptune.ai/o/neptune/org/LLM-training-example/runs/compare?viewId=9d0e032a-5a78-4a0e-81d1-98e0a7c81a8f&detailsTab=metadata&dash=charts&type=run&experimentOnly=true&compare=u0MsW4a1PJIUJ75nglpjHa9XUKFfAmcBRbLhNatCHX20)
+      * [Case studies](/resources?ct=case-study)
+      * [Example projects](/resources?ct=example-project)
+      * [Video tutorials](/resources?ct=video)
+      * [All Neptune resources](/resources)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/file.svg)Learn AI/ML](#)
+      * [Blog](https://neptune.ai/blog)
+      * [Experiment Tracking Learning Hub](https://neptune.ai/experiment-tracking-learn-hub)
+      * [LLMOps Learning Hub](https://neptune.ai/llmops-learning-hub)
+      * [MLOps Learning Hub](https://neptune.ai/mlops-learn-hub)
+      * [100 Second Research Playlist](https://www.youtube.com/watch?v=_sKZsx7Iprg&list=PLKePQLVx9tOcAGAKvmRuQ5Y1_k6wqG0cX&pp=iAQB)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/12/Building-The-Most-Scalable-Experiment-Tracker-For-Foundation-Models.png?fit=768%2C403&ssl=1)ArticleFrom Research to Production: Building The Most Scalable Experiment Tracker For Foundation ModelsAurimas Griciūnas discusses the journey and challenges behind building the most scalable experiment tracker for foundation model training. ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/blog/observability-in-llmops)[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/11/reasercher-3-levels-challenge.webp?fit=768%2C432&ssl=1)VideoBreaking Down AI Research Across 3 Levels of DifficultyWe challenged AI/ML researchers to explain their work across 3 levels of difficulty: for a young learner, university student, and a fellow researcher.  ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](https://www.youtube.com/watch?v=zSEv3KBGlJQ&list=PLKePQLVx9tOfqC8ho2g_tQVxRga-XbIWa&index=3&t=9s)
+
+  * [Pricing](https://neptune.ai/pricing)
+  * [Enterprise](https://neptune.ai/product/enterprise)
+  * [Company![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Menu Item](#)
+      * [About us](https://neptune.ai/about-us)
+      * [Customers](https://neptune.ai/customers)
+      * [Careers](https://neptune.ai/jobs)
+      * [In the news](/about-us/#press)
+      * [Security](https://security.neptune.ai/)
+      * [Contact us](https://neptune.ai/contact-us)
+
+
+
+
+![search](https://neptune.ai/wp-content/themes/neptune/img/icon-search.svg)
+
+What do you want to find? 
+
+Search
+
+![cancel](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+[ Log in  ](https://app.neptune.ai/login) [ Sign up  ](https://app.neptune.ai/register) [ Contact us  ](https://neptune.ai/contact-us)
+
+[![Home](/wp-content/themes/neptune/img/icon-breadcrumbs-home.svg)](https://neptune.ai/) > [Blog](https://neptune.ai/blog) > [ML Model Development](https://neptune.ai/blog/category/machine-learning-model-development)
+
+  * [Topics![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Categories](#)
+      * [ML Model Development](https://neptune.ai/blog/category/machine-learning-model-development)
+      * [MLOps](https://neptune.ai/blog/category/mlops)
+      * [LLMOps](https://neptune.ai/blog/category/llmops)
+      * [ML Tools](https://neptune.ai/blog/category/machine-learning-tools)
+      * [Computer Vision](https://neptune.ai/blog/category/computer-vision)
+    * [Categories](#)
+      * [Natural Language Processing](https://neptune.ai/blog/category/natural-language-processing)
+      * [Reinforcement Learning](https://neptune.ai/blog/category/reinforcement-learning)
+      * [Tabular Data](https://neptune.ai/blog/category/tabular-data)
+      * [Time Series](https://neptune.ai/blog/category/time-series-forecasting)
+
+
+
+
+Search in Blog... 
+
+![search](https://neptune.ai/wp-content/themes/neptune/img/icon-search.svg)
+
+![search](https://neptune.ai/wp-content/themes/neptune/img/icon-search.svg) ![cancel](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+Search in Blog... 
+
+![search](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+  * [Topics![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Categories](#)
+      * [ML Model Development](https://neptune.ai/blog/category/machine-learning-model-development)
+      * [MLOps](https://neptune.ai/blog/category/mlops)
+      * [LLMOps](https://neptune.ai/blog/category/llmops)
+      * [ML Tools](https://neptune.ai/blog/category/machine-learning-tools)
+      * [Computer Vision](https://neptune.ai/blog/category/computer-vision)
+    * [Categories](#)
+      * [Natural Language Processing](https://neptune.ai/blog/category/natural-language-processing)
+      * [Reinforcement Learning](https://neptune.ai/blog/category/reinforcement-learning)
+      * [Tabular Data](https://neptune.ai/blog/category/tabular-data)
+      * [Time Series](https://neptune.ai/blog/category/time-series-forecasting)
+
+
+
+
+  * [Product![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/09/show.svg)Overview](#)
+      * [Walkthrough [2 min]](https://neptune.ai/resources/foundation-model-training)
+      * [Deployment options](https://neptune.ai/product/deployment-options)
+      * [Security](https://security.neptune.ai/)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/compare-1.svg)Compare](#)
+      * [Neptune vs WandB](https://neptune.ai/vs/wandb)
+      * [Neptune vs MLflow](https://neptune.ai/vs/mlflow)
+      * [Neptune vs TensorBoard](https://neptune.ai/vs/tensorboard)
+      * [Other comparisons](https://neptune.ai/vs)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/07/bg-5.jpg?fit=768%2C432&ssl=1)Live Neptune projectPlay with a public example project that showcases Neptune's upcoming product release. It offers enhanced scalability and exciting new features. ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](https://scale.neptune.ai/o/neptune/org/LLM-training-example/runs/compare?viewId=9d0e032a-5a78-4a0e-81d1-98e0a7c81a8f&detailsTab=metadata&dash=charts&type=run&experimentOnly=true&compare=u0MsW4a1PJIUJ75nglpjHa9XUKFfAmcBRbLhNatCHX20)
+
+  * [Solutions![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/bulb.svg)By role](#)
+      * [AI Researcher](https://neptune.ai/product/ai-researcher)
+      * [ML Team Lead](https://neptune.ai/product/ml-team-lead)
+      * [ML Platform Engineer](https://neptune.ai/product/ml-platform)
+      * [Academia & Kagglers](https://neptune.ai/research)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/star.svg)By use case](#)
+      * [Monitor training](https://neptune.ai/product/monitor-training)
+      * [Compare experiments](https://neptune.ai/product/compare-experiments)
+      * [Collaborate with a team](https://neptune.ai/product/team-collaboration)
+      * [Reports](https://neptune.ai/product/reports)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/11/deepsense.ai-logo-e1667753808279.png?fit=75%2C75&ssl=1)Case studyHow deepsense.ai Tracked and Analyzed 120K+ Models Using Neptune ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/customers/deepsense-ai)[ ![Menu thumbnail](https://neptune.ai/wp-content/uploads/2023/06/Respo_square.svg)Case studyHow ReSpo.Vision Uses Neptune to Easily Track Training Pipelines at Scale ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/customers/respo-vision)
+
+[See all case studies ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg)](/resources?ct=case-study)
+
+  * [Developers![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Menu Item](#)
+      * [Documentation](https://docs.neptune.ai/)
+      * [Quickstart](https://docs.neptune.ai/usage/quickstart/)
+      * [Integrations](https://docs.neptune.ai/integrations/)
+      * [Code examples](https://github.com/neptune-ai/examples)
+
+  * [Resources![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/test-tube.svg)Use Neptune](#)
+      * [Play with public sandbox](https://scale.neptune.ai/o/neptune/org/LLM-training-example/runs/compare?viewId=9d0e032a-5a78-4a0e-81d1-98e0a7c81a8f&detailsTab=metadata&dash=charts&type=run&experimentOnly=true&compare=u0MsW4a1PJIUJ75nglpjHa9XUKFfAmcBRbLhNatCHX20)
+      * [Case studies](/resources?ct=case-study)
+      * [Example projects](/resources?ct=example-project)
+      * [Video tutorials](/resources?ct=video)
+      * [All Neptune resources](/resources)
+    * [![Menu icon](https://neptune.ai/wp-content/uploads/2023/08/file.svg)Learn AI/ML](#)
+      * [Blog](https://neptune.ai/blog)
+      * [Experiment Tracking Learning Hub](https://neptune.ai/experiment-tracking-learn-hub)
+      * [LLMOps Learning Hub](https://neptune.ai/llmops-learning-hub)
+      * [MLOps Learning Hub](https://neptune.ai/mlops-learn-hub)
+      * [100 Second Research Playlist](https://www.youtube.com/watch?v=_sKZsx7Iprg&list=PLKePQLVx9tOcAGAKvmRuQ5Y1_k6wqG0cX&pp=iAQB)
+
+[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/12/Building-The-Most-Scalable-Experiment-Tracker-For-Foundation-Models.png?fit=768%2C403&ssl=1)ArticleFrom Research to Production: Building The Most Scalable Experiment Tracker For Foundation ModelsAurimas Griciūnas discusses the journey and challenges behind building the most scalable experiment tracker for foundation model training. ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](/blog/observability-in-llmops)[ ![Menu thumbnail](https://i0.wp.com/neptune.ai/wp-content/uploads/2024/11/reasercher-3-levels-challenge.webp?fit=768%2C432&ssl=1)VideoBreaking Down AI Research Across 3 Levels of DifficultyWe challenged AI/ML researchers to explain their work across 3 levels of difficulty: for a young learner, university student, and a fellow researcher.  ![chevron](https://neptune.ai/wp-content/themes/neptune/img/nav-article-arrow-right.svg) ](https://www.youtube.com/watch?v=zSEv3KBGlJQ&list=PLKePQLVx9tOfqC8ho2g_tQVxRga-XbIWa&index=3&t=9s)
+
+  * [Pricing](https://neptune.ai/pricing)
+  * [Enterprise](https://neptune.ai/product/enterprise)
+  * [Company![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-with-margin.svg)](#)
+
+    * [Menu Item](#)
+      * [About us](https://neptune.ai/about-us)
+      * [Customers](https://neptune.ai/customers)
+      * [Careers](https://neptune.ai/jobs)
+      * [In the news](/about-us/#press)
+      * [Security](https://security.neptune.ai/)
+      * [Contact us](https://neptune.ai/contact-us)
+
+
+
+
+[ Log in  ](https://app.neptune.ai/login) [ Sign up  ](https://app.neptune.ai/register) [ Contact us  ](https://neptune.ai/contact-us)
+
+[Neptune Blog](/blog)
+
+#  ML Model Registry: The Ultimate Guide 
+
+![Author image](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/11/Stephen-Oladele.png?fit=560%2C560&ssl=1)
+
+[ Stephen Oladele  ](https://neptune.ai/blog/author/stephen-oladele)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-meta-time.svg) 13 min 
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-meta-date.svg) 29th August, 2024 
+
+[ML Model Development](https://neptune.ai/blog/category/machine-learning-model-development)[MLOps](https://neptune.ai/blog/category/mlops)
+
+![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E)
+
+Imagine you are the only data scientist on your team, you start working on a machine learning project and perform a series of experiments that produce various ML models (and artifacts) that you “track” through non-standard naming conventions. Since the naming conventions you used for your model files were unclear, it took you a while to find the most optimal model you trained. 
+
+When you finally did, you decided to either hand the raw model artifacts over to the operations team or, worse, deploy it yourself. When you handed the raw artifacts to your operations team, they requested more information like:
+
+  * 1 How to use it? 
+  * 2 If the model is tested? 
+  * 3 The runtime dependencies for the model? 
+  * 4 And other crucial operational information 
+
+
+
+Because all you did was build the model and hand it off, it was perhaps difficult to collaborate with them for a successful deployment.
+
+Now imagine another scenario. 
+
+Your company is planning on shipping out more ml-based products/features. A data scientist, engineer, and maybe even a product manager joins the team. When you were working alone, although your model was a pain to deploy (if it was deployed), your workflow worked. Now that you have new teammates, and they started to ask you about your model versions, you realize that storing the ML models in files is not that manageable after all. 
+
+This is the moment when you really feel the pain of not having an efficient way to share your model versions, model artifacts, and model metadata. And the thing is, at this point, there is no easy way to go back in time and set up something proper. 
+
+Your new and improved cross-functional team is asking you about:
+
+  * Where can we find the best version of this model so we can audit, test, deploy, or reuse it?
+  * How was this model trained?
+  * How can we track the docs for each model to make sure they are compliant and people can know the necessary details about it including the metadata?
+  * How can we review models before they are put to use or even after they have been deployed?
+  * How can we integrate with tools and services that make shipping new projects easier?
+
+
+
+Can you blame them?
+
+They want to understand what is running in production, and how to improve it or roll back to previous versions. It makes total sense. 
+
+So with all that pretty experience you gained, you start your next project and look for a tool that deals with it. And you find this article about the machine learning model registry. 
+
+So let’s dive in and tell you all about it!
+
+## What is model registry?
+
+An ML model registry serves as a centralized repository, enabling effective model management and documentation. It allows for clear naming conventions, comprehensive metadata, and improved collaboration between data scientists and operations teams, ensuring smooth deployment and utilization of trained models.
+
+### How does machine learning model registry work?
+
+A data scientist can push trained models to the model registry. Once in the registry, your models are ready to be tested, validated, and deployed to production in a workflow that is similar to the one below:
+
+![Model registry](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/08/model-registry.png?resize=1500%2C785&ssl=1)Model registry | Author: Harshil Patel
+
+While Model Registry serves as a repository of your machine learning model artifacts, there are however some differences, as a repository is a subset feature of a registry. Let’s understand the distinctions between Model Registry and other similar-sounding terms.
+
+### Model registry vs model repository
+
+**Model Repository is a storage location for machine learning models** , while a Model Registry is a more comprehensive system that tracks and manages the full lifecycle of machine learning models.
+
+However, both are often used interchangeably, and the specific definitions may vary depending on the context or the tools and platforms being used. 
+
+In a nutshell, broad differences on a conceptual level look like this:
+
+Feature  |  Model Repository  |  Model Registry   
+---|---|---  
+Storage |  Stores ML models in a file format |  Stores machine learning models and associated metadata  
+Version control |  No |  Yes  
+Model lineage tracking |  No |  Yes  
+Access control |  No |  Yes  
+Other features |  None |  Can track the performance of models over time, ensure reliability and reproducibility of models, and protect sensitive models from unauthorized access  
+  
+### Model registry vs model store
+
+**[Model store](/blog/mlops-model-stores) is a superset of a Model registry**. Meaning within a model store, you can find the model registry component. The store is a service other services can interface with to retrieve models from the registry. 
+
+In a model registry, you may store and fetch models (like a docker registry), but in a model store, you can have the full package of logging, discovery, assets, pipelines, metadata, all model information, and even blueprints to use for building new models. Examples of typical model stores are ModelStore or ClearML.
+
+### Model registry vs experiment tracking
+
+**Model registry has to integrate with the[Experiment management system](/blog/ml-experiment-tracking) (which tracks the experiments) to register ML models** from various experiment runs to make them easier to find and work with. Let’s take a look at some of the key differences between a model registry and an experiment management system.
+
+Parameters  |  Model registry  |  Experiment tracking   
+---|---|---  
+Purpose |  To store trained, production-ready, and retired models in a central repository. |  To track experiment runs of different parameter configurations and combinations.  
+Priority |  To make sure models are discoverable and can be accessed by any user or system. |  To make sure experiments are easier to manage and collaborate on.  
+Integration |  Integrates with the experiment tracking system to register models from successful experiments including the model and experiment metadata. |  Integrates with the training pipeline to perform experiment runs and track experiment details including the dataset version and metadata.  
+MLOps |  A crucial piece of MLOps and production models. |  Most useful in the model development phase, has an indirect impact on operationalizing the model.  
+  
+## Model registry key features and functionalities
+
+![Workflow components of an ideal model registry](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/08/model-registry-4.png?resize=1800%2C942&ssl=1)Workflow components of an ideal model registry | Author: Stephen Oladele
+
+### Acts as centralized storage for effective collaboration
+
+Model registry provides a central storage unit that holds ML models (including model artifacts) for easy retrieval by an application (or service). Without the model registry, the model artifacts would be stored in files that are difficult to track and saved to whatever source code repository is established.
+
+The centralized storage also enables data teams to have a single view of the status of all ML models, making collaboration easier. Here is an example showing a single view of different models with model artifacts stored in a model registry.
+
+![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) See in the app  ](https://app.neptune.ai/o/showcase/org/e2e-tracking/runs/table?viewId=9cb5bc7c-3bce-4c69-8f5c-90d3d9cc682c) ![zoom](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) Full screen preview 
+
+A list of different model versions and associated metadata tracked in neptune.ai 
+
+### Bridges the gap between experiment and production activities
+
+Model registry acts as a glue between ML experimentation and Operations, enabling model development, software development, and operational teams to collaborate.
+
+![A model registry is a central component of MLOps](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/08/model-registry-1.png?resize=1800%2C942&ssl=1)A model registry is a central component of MLOps | Modified based on: [YouTube](https://youtu.be/WrieKPgXZyo?t=643)
+
+### Providing a central UI 
+
+Model registry provides teams with visibility over their ML models. With a central interface, teams can: 
+
+  * Search for models,
+  * View the status of models (if they are being staged, deployed, or retired),
+  * Approve or disapprove models across different stages,
+  * And view the necessary documentation. 
+
+
+
+This makes model discovery easier for everyone on the team. If a model needs to be deployed, the operations teams can easily:
+
+  * Search for it,
+  * Look up the validation results and other metrics,
+  * Package the model (if needed),
+  * And move it from the staging environment to the production environment. 
+
+
+
+This improves the way cross-functional teams collaborate on ML projects.
+
+### Provides an interface for downstream systems to consume models
+
+Model registries provide interfaces that enable downstream services to consume the model through API integration. The integration can also track offline and online evaluation metrics for the models. 
+
+This makes it easy to build an automated setup with CI/CD/CT with ML pipelines. The downstream service could be either a model user, an automated job, or a REST serving that can consume the most stable—or any—version of the model. 
+
+### Enables model versioning by tracking different versions of a model
+
+Model registry enables [model versioning](/blog/top-model-versioning-tools) by tracking the different versions of a model as they are developed and improved. This allows you to compare different versions of the model, track its performance, and select the best version for deployment.
+
+Here’s how it typically works:
+
+  * **Model Registration:** When a new model is developed or trained, it is registered in the model registry.
+  * **Version Control:** The model registry maintains a history of all registered models and their versions. 
+  * **Model Comparison:** The model registry allows users to compare performance metrics, model architectures, hyperparameters, and other relevant information in different versions of a model.
+  * **Model Tracking:** As new versions of the model are developed or trained, they are registered in the model registry as well, incrementing the version number.
+  * **Retention and Archiving:** The model registry typically retains older versions of the models, ensuring a complete history and traceability.
+
+
+
+By enabling model versioning, the model registry ensures that different iterations of a model can be stored, tracked, compared, and accessed conveniently.
+
+### Integrates with experiment management systems or training pipelines
+
+Model registry integrates with systems that output the trained ML models. They could be the raw model artifacts (model weights, configuration, and metadata) or models that have been serialized into a file (e.g., an ONNX file) for compatibility with the production environment or containerized (using Docker) to be exported to the production environment.
+
+Model registries:
+
+  * Register the model, 
+  * Assign a version to it,
+  * Note the version of the dataset the model was trained on,
+  * Add annotations and tags,
+  * Retrieve the parameters, validation results (including metrics and visualizations), and other relevant model metadata on the model from the experiment management system.
+
+
+
+To make collaboration easier, the registry also includes details such as:
+
+  * The model owner or developer, 
+  * Experiment run id the model was trained under, 
+  * Versioned model source code, 
+  * Environment runtime dependencies used to train the model (and the versions),
+  * Comments and model change history, 
+  * And the model documentation.
+
+
+
+### Integrates with the staging environment for your trained ML models
+
+Model Registry provides the functionality for integrating with the staging environment for running all types of checks and balances on the model. These checks can include integration testing (with other applications) and other QA tests before the model can be promoted to the production environment. 
+
+Sharing and collaboration should be enabled for ML models in this environment so that deployment engineers can work with data scientists to test models and ensure they are good to deploy.
+
+In the staging environment, the model reviewers should also be able to perform fairness checks on the model to ensure it:
+
+  * Outputs explainable results, 
+  * Complies with regulatory requirements, 
+  * And provides useful business benefits.
+
+
+
+Generally, the governance and approval workflows should be configured in this environment. There should also be access level control and secure authorization to models in this environment, especially models trained on data with sensitive information.
+
+### Integrate with model delivery (CI/CD) tools and services for automation
+
+Automation is a critical part of building any scalable software. In machine learning, building automated pipelines will allow you to spend more time building new products rather than maintaining old models. 
+
+A Model registry integrates with pipeline automation tools and provides custom APIs that can allow you to plug into custom workflow tools. For example, using webhooks to trigger downstream actions based on predefined events in the registry. 
+
+You should also be able to configure model promotion schemes through different environments like development (training), staging (testing), and production (serving). Performance is a crucial requirement for building automated pipelines. Model registries should be highly available for automated jobs that are event or schedule-based to enable continuous training and delivery of the model.
+
+### Integrate with model deployment tools
+
+Eventually, ML models have to be deployed, and the more efficient the deployment process, the better. Model Registries:
+
+  * Integrate with downstream services and REST serving services that can consume the model and serve it in the production environment.
+  * Collect real-time (or aggregated) metrics on the production model to log performance details of the model. This will be helpful for comparison between models (deployed and staged), as well as auditing the production model for review
+
+
+
+## Why do you need a model registry?
+
+Model registry enables machine learning operationsand fits well with the pillars of MLOps:
+
+  * 1 Model Deployment 
+  * 2 Model Management 
+  * 3 Model Governance 
+  * 4 Model Security 
+
+
+
+### ML model registry enables faster deployment of your models
+
+As we discussed earlier, one of the ways a model registry enables collaboration is by bridging the gap between experimentation and production activities. This results in a faster rollout of your production ML models. 
+
+In addition, model registries store trained models for fast and easy retrieval by any integrated application or one of the [model deployment tools](/blog/best-ml-model-deployment-tools), which is ultimately what you want in an ideal automation setup. 
+
+With a model registry, software engineers and reviewers can easily identify and select only the best version of the trained ML models (based on the evaluation metrics), so the model can be tested, reviewed, and released to production. This makes it a good unifying component for both training and deployment pipelines, as there is less friction in the hand-off of production-ready models from experiment to production environments.
+
+### ML model registry simplifies model lifecycle management
+
+When you work in a large organization with lots of experiments running, many ML models, and cross-functional teams, managing the lifecycle of these models is often a challenging process. 
+
+Model registry helps tackle this challenge by simplifying the management of your model lifecycle. With the registry, you can:
+
+  * Register, track, and version your trained, deployed, and retired models in a central repository that is organized and searchable.
+  * Store the metadata for your trained models, as well as their runtime dependencies so the deployment process is eased.
+  * Build automated pipelines that make CI/CD and training of your production model possible.
+  * Compare models running in production (champion models) to freshly trained models (or challenger models) in the staging environment.
+
+
+
+The registry can also track and store online and offline evaluation metrics for the models. With this functionality, you can easily look up models that are in production to detect a drop in the performance of the model (or [concept drift](https://en.wikipedia.org/wiki/Concept_drift)). 
+
+You can also compare their online and offline performance to see which of the production models need to be reviewed, maintained, or archived.
+
+Not only can you track evaluation metrics for the model both in production and training, but you can also track the system metrics to understand which models are consuming the most application resources (CPU, memory, and GPU usage). 
+
+### ML model registry enables model governance
+
+One thing that the model registry does really well is centralizing ML models and organizing their relevant details. With the registry, you have a central source of truth for your models throughout different stages of their lifecycle, including: 
+
+  * Development, 
+  * Validation,
+  * Deployment,
+  * And monitoring.
+
+
+
+This helps create visibility and model discovery which is very crucial for ML models that require thorough regulatory complaint processes in specific industries such as health, finance, and law.
+
+A user in charge of ensuring legal compliance should be able to easily review the models in the registry and understand: 
+
+  * How the model was trained,
+  * What version of data the model is trained on,
+  * The conditions a model performs best and produces consistent results at, being well-informed of the model’s capabilities and limitations,
+  * Exposure to any compliance risk in case of regulated industries like financial institutions
+
+
+
+A standard model registry will also enforce the documentation and reporting of models, ensuring results are repeatable and can be reproduced by any auditing user. 
+
+**Review** , **Approve** , **Release** , and **Rollback** are all steps in the model launch process that the registry may help with. These choices are based on a variety of factors, including offline performance, bias, fairness measures, and the results of online experiments.
+
+### ML model registry improves model security
+
+ML models, as well as the underlying packages used to build them, must be scanned for vulnerabilities, especially when a large number of packages are used to develop and deploy the models. 
+
+A model registry can manage specific versions of the packages, and you can scan and remove security vulnerabilities that may pose a threat to the system.
+
+Models are likewise vulnerable to adversarial attacks, and as a result, they must be maintained and secured. In some cases, the[ least privilege access security concept](https://en.wikipedia.org/wiki/Principle_of_least_privilege) must be employed so that only authorized users have access to specified model information, data privacy, and protecting PII and other resources.
+
+## Where does a model registry fit in the MLOps stack?
+
+If you want to run machine learning projects efficiently and at scale, you would most likely need to add a model registry to your MLOps stack. Depending on what[ level of implementation](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) you are in your MLOps stack, your needs and requirements for a model registry would differ. Where does it fit? 
+
+Well, recall we learned earlier that the model registry sits between machine learning model development and deployment. 
+
+### Model registry in MLOps level 0
+
+If you are at level 0 implementation of MLOps, your workflow with a model registry could look like this: 
+
+![MLOps level 0 workflow with a model registry](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/08/model-registry-3.png?resize=1800%2C942&ssl=1)MLOps level 0 workflow with a model registry | Modified based on: [Source](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_0_manual_process)
+
+The output from the experimentation step is fed into the model registry. This involves a manual process where the data scientist prepares the model artifact and metadata and could also package them (serialization, containerization) before registering them. 
+
+The operations team can push the packaged model to the staging environment for testing before deploying it to a prediction service engine that can integrate with other applications.
+
+### Model registry in MLOps level 1
+
+As opposed to level 0 (where the workflow is a manual process), the goal of the workflow in [level 1](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_1_ml_pipeline_automation) is to perform continuous training of the model by automating the ML pipeline. This is one process a model registry enables well because of its ability to integrate with the pipeline. 
+
+At this level, the entire pipeline is deployed, and when ML models are trained on the provided dataset, the output (trained model and metadata) is fed into the model registry where it can be staged, and if it passes the necessary tests and checks, it can be fed to the continuous delivery pipeline for release.
+
+[![MLOps level 1 workflow with a model registry](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/08/model-registry-1-1.png?resize=1920%2C1120&ssl=1)](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/08/model-registry-1-1.png?ssl=1)MLOps level 1 workflow with a model registry | Modified based on: [Source](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_1_ml_pipeline_automation)
+
+### Model registry in MLOps level 2
+
+The role of the model registry in level 2 of the MLOps workflow is also the same as that of level 1—the automated pipeline delivers the trained model to the model registry where it is staged, may be passed through QA checks, and sent to the continuous delivery pipeline:
+
+[![Stages of the CI/CD automated ML pipeline with a model registry](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/08/model-registry-2.png?resize=1800%2C942&ssl=1)](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/08/model-registry-2.png?ssl=1)Stages of the CI/CD automated ML pipeline with a model registry |Modified based on: [Source](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_2_cicd_pipeline_automation)
+
+The model registry serves as a crucial component in any automated pipeline because event triggers can be integrated with it to promote models with good metrics upon re-training on fresh data or archive models.
+
+## Setting up machine learning model registry: build, maintain, or buy?
+
+Setting up a model registry for your MLOps workflow will require you to decide on either **Building** one, **Maintaining** one, or **Buying** one. Let’s take a close look at each one of these decisions and the factors to consider before making a choice.
+
+### Building a model registry solution
+
+Like any software solution, if you understand the key functionalities and requirements, you can build a system yourself. This is the case with a model registry. You may want to set up the following:
+
+  * Object storage for models and artifacts.
+  * Database for logging model details.
+  * API integration for both receiving models, promoting models across various environments, and collecting model information from the different environments.
+  * User interface (UI) for ML teams to interact with a visual workflow. 
+
+
+
+While building the solution yourself might seem ideal, you should consider the following factors:
+
+  * **Incentive** : What’s the incentive to build out your solution? Is it for customization or for owning a proprietary license to the solution?
+  * **Human resources** : Do you have the talents and skills to build out your solution?
+  * **Time** : How long would it take you to build out a solution and is it worth the wait?
+  * **Operations** : When the solution is eventually built out, who would maintain its operations?
+  * **Cost** : What would it cost you to build a solution, including the maintenance of the solution?
+
+
+
+### Maintaining a self-hosted model registry
+
+Another option to consider—if you do not want to build out a solution—is to maintain an existing solution yourself. In this scenario, the solution has been built out already, but you might have to manage some features, such as object storage and the database. Most of these existing solutions are open-source solutions.
+
+The following are the factors to consider:
+
+  * **Type of solution:** Are you going to opt for an open-source solution with no license cost or a closed-source solution with license cost?
+  * **Operations** : Who is going to manage the solution? Does the solution support consistent maintenance and software updates?
+  * **Cost** : What is the cost of operating the solution in terms of the infrastructure to host it and the running cost? 
+  * **Features** : What features have already been implemented, and what features do you have to build and manage yourself? Is it worth adopting compared to building out your solution?
+  * **Support** : What type of support is available in case things break during operations? Is there a community or dedicated customer support channel? For open-source solutions, while you might have a community, you will likely lack the necessary developer support required to fix things.
+  * **Accessibility** : How easy is it to get started with the solution? Is the documentation comprehensive enough? Can everyone from the model reviewers to the model developers and software engineers intuitively use the solution?
+
+
+
+### Purchase the license to a fully-managed solution
+
+The final option to consider is subscribing to a fully managed solution where the operations and management of the registry are handled by the solution vendor. In this case, you do not have to worry about building or maintaining a solution. You just have to ensure your systems and services can integrate with the registry.
+
+Here are the factors to consider: 
+
+  * **Industry type** : What type of industry is the model built for? What sensitive information have the models learned? Are there data privacy compliance measures? Is the model only allowed to stay on-premise?
+  * **Features** : Are the key features and functionalities of any model registry available in this solution? What extra features are available, and how relevant are they to your workflow?
+  * **Cost** : What’s the cost of purchasing a license, and do the features justify the cost?
+  * **Security** : How secure is the platform hosting the solution? Is it resistant to third-party attacks?
+  * **Performance** : Is the registry highly performant? For situations where models are too large, can the registry provide models for services to consume at low latency?
+  * **Availability** : What’s the uptime of the solution, and does it meet your required service level agreement (SLA)?
+  * **Support** : What level of support is available in case things go south?
+  * **Accessibility** : How easy is it to get started with the solution? Are the documentation and learning support decent enough? What’s the learning curve in terms of usage?
+
+
+
+That being said, there are lots of options available out there, and it totally depends on the team/organization’s requirements to choose. 
+
+Now, let’s take a look at some of the model registry solutions on the market.
+
+## ML model registry solutions out there
+
+Here are the most popular ones available out there that offer a host of Model Registry features.
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-horizontal-dots.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down--white.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-right--blue.svg) Expand all
+
+Azure ML Studio 
+
+![](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/10/azure-machine-learning-service-logo-445C459FD8-seeklogo.com_.png?fit=280%2C300&ssl=1)
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-link-external.svg) Website  ](https://azure.microsoft.com/en-us/free/machine-learning/search/?ef_id=_k_CjwKCAiA9dGqBhAqEiwAmRpTC5UcF7QWOTePzATWywK5W8GvxuLc69PCDaad9oTX29NuhaDTjTibLxoCysAQAvD_BwE_k_&OCID=AIDcmm4rphvbww_SEM__k_CjwKCAiA9dGqBhAqEiwAmRpTC5UcF7QWOTePzATWywK5W8GvxuLc69PCDaad9oTX29NuhaDTjTibLxoCysAQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiA9dGqBhAqEiwAmRpTC5UcF7QWOTePzATWywK5W8GvxuLc69PCDaad9oTX29NuhaDTjTibLxoCysAQAvD_BwE)
+
+MLflow 
+
+![](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/mlFlow-integration-with-Neptune.png?fit=151%2C86&ssl=1)
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-link-external.svg) Website  ](https://mlflow.org/)
+
+Verta.ai 
+
+![](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/09/Verta-logo.jpg?fit=1200%2C627&ssl=1)
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-link-external.svg) Website  ](https://www.verta.ai/)
+
+AWS Sagemaker 
+
+![](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/sagemaker-2.png?fit=301%2C301&ssl=1)
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-link-external.svg) Website  ](https://aws.amazon.com/sagemaker/)
+
+neptune.ai 
+
+![](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/09/neptune_signet_smaller.png?fit=140%2C140&ssl=1)
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-link-external.svg) Website  ](/)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-horizontal-dots.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down--white.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-right--blue.svg) Expand all
+
+Azure ML Studio 
+
+![](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/10/azure-machine-learning-service-logo-445C459FD8-seeklogo.com_.png?fit=280%2C300&ssl=1)
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-link-external.svg) Website  ](https://azure.microsoft.com/en-us/free/machine-learning/search/?ef_id=_k_CjwKCAiA9dGqBhAqEiwAmRpTC5UcF7QWOTePzATWywK5W8GvxuLc69PCDaad9oTX29NuhaDTjTibLxoCysAQAvD_BwE_k_&OCID=AIDcmm4rphvbww_SEM__k_CjwKCAiA9dGqBhAqEiwAmRpTC5UcF7QWOTePzATWywK5W8GvxuLc69PCDaad9oTX29NuhaDTjTibLxoCysAQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiA9dGqBhAqEiwAmRpTC5UcF7QWOTePzATWywK5W8GvxuLc69PCDaad9oTX29NuhaDTjTibLxoCysAQAvD_BwE)
+
+MLflow 
+
+![](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/mlFlow-integration-with-Neptune.png?fit=151%2C86&ssl=1)
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-link-external.svg) Website  ](https://mlflow.org/)
+
+Verta.ai 
+
+![](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/09/Verta-logo.jpg?fit=1200%2C627&ssl=1)
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-link-external.svg) Website  ](https://www.verta.ai/)
+
+AWS Sagemaker 
+
+![](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/sagemaker-2.png?fit=301%2C301&ssl=1)
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-link-external.svg) Website  ](https://aws.amazon.com/sagemaker/)
+
+neptune.ai 
+
+![](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/09/neptune_signet_smaller.png?fit=140%2C140&ssl=1)
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/icon-link-external.svg) Website  ](/)
+
+Model versioning 
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-cancel.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+CI/CD/CT compatibility 
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-cancel.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-cancel.svg)
+
+Model packaging 
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-cancel.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-cancel.svg)
+
+Model searching 
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+Access control, model review, and promoting models 
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-cancel.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+Model lineage and evaluation history 
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-cancel.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-checkmark.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/big-table/icon-cancel.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down--white.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-right--blue.svg) Expand all
+
+## MLflow model registry
+
+Type: Open-source/Managed
+
+Options: Managed (self-hosted), fully-managed offering.
+
+![MLflow model registry dashboard](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/07/ml-model-registry-the-ultimate-guide-12.png?resize=900%2C667&ssl=1)MLflow model registry dashboard | [Source](https://www.mlflow.org/docs/latest/model-registry.html#ui-workflow)
+
+The [MLflow ](https://www.mlflow.org/docs/latest/model-registry.html#mlflow-model-registry)Model Registry component is a centralized model store, set of APIs, and UI, to collaboratively manage the full lifecycle of an MLflow Model. It provides model lineage (which MLflow experiment and run produced the model), model versioning, stage transitions (for example, from staging to production), and annotations. The model registry component was one of the clamored needs of MLflow users in 2019. 
+
+The MLflow Model Registry is one of the few open-source model registries available in the market today. You can decide to [manage this](https://www.mlflow.org/docs/latest/quickstart.html) on your infrastructure or use a [fully-managed implementation](https://docs.databricks.com/mlflow/index.html) on a platform like Databricks.
+
+### MLflow model registry features
+
+MLflow provides 
+
+  * **Annotation and description tools** for tagging models, providing documentation and model information such as the date the model was registered, modification history of the registered model, the model owner, stage, version, and so on.
+  * **Model versioning** to automatically keep track of versions for registered models when updated.
+  * An **API integration** to serve ML models as RESTful APIs for online testing, dashboard updates, etc.
+  * **CI/CD workflow integration** to record stage transitions, request, review, and approve changes as part of CI/CD pipelines for better control and governance.
+  * A **model stage feature** to assign preset or custom stages to each model version, like “Staging” and “Production” to represent the lifecycle of a model.
+  * **Configuration for promotion schemes** to easily move models across different stages.
+
+
+
+MLflow stores:
+
+  * The model artifacts,
+  * Metadata,
+  * Parameters,
+  * Metrics.
+
+
+
+The pricing will depend on the option you are opting for—a self-hosted, open-source solution or a fully-managed offering.
+
+You can learn more about the workflow [here](https://www.mlflow.org/docs/latest/model-registry.html#model-registry-workflows) and get started with MLflow Model Registry [here](https://www.mlflow.org/docs/latest/quickstart.html).
+
+## Amazon Sagemaker model registry 
+
+Type: Bundled with SageMaker’s free-tier and on-demand pricing.
+
+Options: Fully managed offering
+
+![Amazon SageMaker model registry](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/07/imageml-model-registry-the-ultimate-guide-13.png?resize=444%2C402&ssl=1)Amazon SageMaker model registry | [Source](https://docs.aws.amazon.com/sagemaker/latest/dg/model-registry-details.html)
+
+Amazon SageMaker is a fully managed service that developers can use for every step of ML development, including model registry. The model registry is part of the suite of MLOps offerings in SageMaker that helps users build and operationalize machine learning solutions by automating and standardizing MLOps practices across their organization.
+
+### AWS Sagemaker model registry features
+
+With the SageMaker Model Registry you can do the following:
+
+  * Catalog models for production.
+  * Manage model versions.
+  * Associate metadata, such as training metrics, with a model.
+  * Manage the approval status of a model.
+  * Deploy models to production.
+  * Automate model deployment with CI/CD.
+
+
+
+You can make a model group to keep track of all the ML models you’ve trained to solve a specific problem. Each model you train can then be registered, and the model registry will add it to the model group as a new model version. A typical workflow might look like the following:
+
+  * Create a model group.
+  * Create an ML pipeline with [SageMaker Pipelines](https://docs.aws.amazon.com/sagemaker/latest/dg/pipelines-build.html) that trains a model.
+  * For each run of the ML pipeline, create a model version that you register in the model group you created in the first step.
+
+
+
+The cost of using the Model Registry is bundled with the SageMaker [pricing tiers](https://aws.amazon.com/sagemaker/pricing/). You can learn more about the SageMaker Model Registry in the [documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/model-registry.html).
+
+## Verta.ai model registry
+
+Type: Proprietary, with Open-source, SaaS, and Enterprise offerings.
+
+Options: Fully managed offering.
+
+![Verta.ai model registry dashboard ](https://i0.wp.com/neptune.ai/wp-content/uploads/2023/07/ml-model-registry-the-ultimate-guide-14.png?resize=1572%2C1634&ssl=1)Verta.ai model registry dashboard | [Source](https://blog.verta.ai/introducing-verta-model-registry)
+
+The Verta.ai Model Registry helps you manage your ML models in one place. It provides features that enable you to package, validate, and reliably promote release-ready models and apply safe release and governance practices.
+
+### Verta.ai model registry features
+
+  * It provides a unified hub to publish release-ready models by allowing you to: 
+    * Connect to an experiment management system for end-to-end information tracking.
+    * Publish all the model metadata, documentation, and model artifacts in one central repository.
+    * Select the best-fit models from model experiments and stage them for release.
+    * Record state transitions and manage the release lifecycle from development, staging, and production to archive.
+  * It enables model validation and CI/CD automation by allowing you to: 
+    * Integrate with existing CI/CD pipelines like Jenkins, Chef, and so on.
+    * Use webhooks to trigger downstream actions for model validation and deployment.
+    * Automatically track model versions and tagged releases.
+  * Set up granular access control editors, reviewers, and collaborators.
+  * Access detailed audit logs for compliance.
+  * Release models once they pass basic security and fairness checks.
+
+
+
+You can learn more about the open-source version and pricing tiers available on this [page](https://www.verta.ai/pricing). You can learn more about the Verta Model Registry on this [page](https://blog.verta.ai/introducing-verta-model-registry).
+
+## neptune.ai
+
+Type: Proprietary, with free and paid offerings.
+
+Options: Managed (self-hosted), fully-managed offering.
+
+![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) See in the app  ](https://app.neptune.ai/o/showcase/org/e2e-tracking/runs/table?viewId=9cb5bc7c-3bce-4c69-8f5c-90d3d9cc682c) ![zoom](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) Full screen preview 
+
+Model versions tracked in Neptune 
+
+[Neptune](/) is primarily an experiment tracker, but it provides model registry functionality to some extent. 
+
+It’s a lightweight solution that fits well into any workflow and lets you track, compare, and share all kinds of metadata about your experiments and models. 
+
+On the model registry front, it will prove to be the most useful in the model handover phase. Since you can store your model versions in Neptune and attach any metadata or artifacts to them – it can serve as a connection between the development and deployment phases. ML Engineers can access model artifacts in Neptune instantly, and they can get all the information about how the model was trained, what data was used, who ran the experiment, etc. 
+
+[ ![](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/05/Resources-model-registry-FI-12.22.jpg?fit=200%2C105&ssl=1) ![](https://neptune.ai/wp-content/themes/neptune/img/icon-related--resource.svg) Learn more  How to Track Your Model Metadata in Neptune  Read docs  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](https://docs.neptune.ai/model_registry/)
+
+### Neptune features
+
+Neptune’s lets you:
+
+  * Keep track of your experiments, model versions and production-ready models;
+  * Attach any metadata or artifacts to models;
+  * Save hash, location, and other model artifact metadata (by the way, you don’t have to upload the model to Neptune, you can keep track of the model reference to local or S3-compatible storage);
+  * Use tags to highlight the stage of the model (e.g. production or staging);
+  * Access your models via web app and API.
+
+![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+##  **Editor’s note**
+
+Do you feel like experimenting with neptune.ai?
+
+  * ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+[Create a free account](https://neptune.ai/register) right away and give it a go
+
+  * ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+[Try it out first](https://docs.neptune.ai/usage/quickstart/) and learn how it works (zero setup, no registration)
+
+  * ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg)
+
+[See the docs](https://docs.neptune.ai/) or watch a short [product demo (2 min)](/resources/foundation-model-training)
+
+
+
+
+## You’ve reached the end!
+
+By now, we’ve established the fact that model registries enable the successful operationalization of machine learning projects, and it does so by:
+
+  * helping you speed up your roll-out process
+  * making your ML experiments easy to manage
+  * making collaboration easier
+  * creating a seamless hand-off for your team
+  * increasing security and governance
+
+
+
+The ideal next step for you is to pick up a solution and see if it improves your MLOps workflow. 
+
+Let this article be your guide to making a concrete decision based on your level of MLOps implementation and the factors worth taking into account. 
+
+Here are some additional resources you might want to read for the same.
+
+  * [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
+  * [MLflow Model Registry – Databricks](https://databricks.com/product/mlflow-model-registry)
+  * [MLflow Model Registry — MLflow 1.21.0 documentation](https://www.mlflow.org/docs/latest/model-registry.html#mlflow-model-registry)
+  * [neptune.ai– Model metadata documentation](https://docs.neptune.ai/model_registry/)
+  * [ML Pipelines on Google Cloud ](https://www.coursera.org/learn/ml-pipelines-google-cloud/home/welcome)
+  * [MLOps: Continuous delivery and automation pipelines in machine learning (google.com)](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_2_cicd_pipeline_automation)
+  * [Model Registry Makes MLOps Work – Here’s Why – neptune.ai](/blog/model-registry-makes-mlops-work)
+  * [MLOps Model Stores: Definition, Functionality, Tools Review – neptune.ai](/blog/mlops-model-stores)
+  * [Introducing Verta Model Registry](https://blog.verta.ai/introducing-verta-model-registry)
+  * [Verta Model Registry | Manage all your AI‑ML models in one place](https://www.verta.ai/platform/model-registry)
+  * [Top 3 Reasons You Need a Model Registry (verta.ai)](https://blog.verta.ai/top-3-reasons-you-need-a-model-registry)
+  * [Simplifying MLOps with Model Registry](https://youtu.be/WrieKPgXZyo)
+
+
+
+That’s it for now, stay tuned for more! Adios!
+
+##  Was the article useful? 
+
+![yes](https://neptune.ai/wp-content/themes/neptune/img/icon-article-rating--yes.svg) Yes  ![no](https://neptune.ai/wp-content/themes/neptune/img/icon-article-rating--no.svg) No 
+
+![](https://neptune.ai/wp-content/themes/neptune/img/icon-bulb.svg) Suggest changes 
+
+Your email Your message (optional)
+
+This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply. 
+
+I am familiar with the [Privacy Policy](https://neptune.staginglab.eu/privacy-policy)*
+
+Submit
+
+Δ
+
+![](https://neptune.ai/wp-content/themes/neptune/img/blocks/i-box/header-icon.svg)
+
+### **More about** ML Model Registry: The Ultimate Guide 
+
+####  Check out our  **product resources** and  **related articles** below: 
+
+[ ![](https://neptune.ai/wp-content/themes/neptune/img/ibox-related.svg) Related article  MLOps Landscape in 2024: Top Tools and Platforms  Read more  ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](https://neptune.ai/blog/mlops-tools-platforms-landscape) [ ![](https://neptune.ai/wp-content/themes/neptune/img/ibox-bulb.svg) Product resource  How Elevatus Can Now Find Any Information About a Model in a Minute  Read more  ![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](https://neptune.ai/customers/elevatus)
+
+###  Explore more content topics: 
+
+[ Computer Vision ](https://neptune.ai/blog/category/computer-vision) [ General ](https://neptune.ai/blog/category/general) [ LLMOps ](https://neptune.ai/blog/category/llmops) [ ML Model Development ](https://neptune.ai/blog/category/machine-learning-model-development) [ ML Tools ](https://neptune.ai/blog/category/machine-learning-tools) [ MLOps ](https://neptune.ai/blog/category/mlops) [ Natural Language Processing ](https://neptune.ai/blog/category/natural-language-processing) [ Paper Reflections ](https://neptune.ai/blog/category/paper-reflections) [ Product Updates ](https://neptune.ai/blog/category/product-updates) [ Reinforcement Learning ](https://neptune.ai/blog/category/reinforcement-learning) [ Tabular Data ](https://neptune.ai/blog/category/tabular-data) [ Time Series ](https://neptune.ai/blog/category/time-series-forecasting)
+
+About neptune.ai ![chevron](https://neptune.ai/wp-content/themes/neptune/img/blocks/accordion-simple/icon-arrow-accordion-small.svg)
+
+![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1920 1080'%3E%3C/svg%3E) ![](https://neptune.ai/wp-content/themes/neptune/img/icon-play.svg)
+
+Neptune is the experiment tracker for teams that train foundation models. 
+
+It lets you monitor months-long model training, track massive amounts of data, and compare thousands of metrics in seconds. 
+
+[ Play with a live project  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](https://demo.neptune.ai/) [ See Docs  ![](https://neptune.ai/wp-content/themes/neptune/img/icon-button-arrow-right.svg) ](https://docs.neptune.ai/)
+
+Table of contents
+
+![chevron](https://neptune.ai/wp-content/themes/neptune/img/icon-chevron-down-small.svg)
+
+  1. What is model registry?
+  2. Model registry key features and functionalities
+  3. Why do you need a model registry?
+  4. Where does a model registry fit in the MLOps stack?
+  5. Setting up machine learning model registry: build, maintain, or buy?
+  6. ML model registry solutions out there
+  7. MLflow model registry
+  8. Amazon Sagemaker model registry 
+  9. Verta.ai model registry
+  10. neptune.ai
+  11. You’ve reached the end!
+
+
+
+![chevron](https://neptune.ai/wp-content/themes/neptune/img/popup-cancel.svg) ![chevron](https://neptune.ai/wp-content/themes/neptune/img/popup-more.svg)
+
+Check also: [Building a Machine Learning Platform [Definitive Guide]](https://neptune.ai/blog/ml-platform-guide)
+
+##  **Manage your model metadata in a single place**
+
+Join 50,000+ ML Engineers & Data Scientists using Neptune to easily log, compare, register, and share ML metadata.
+
+[ Try Neptune for free  ](https://app.neptune.ai/register) [ Check out the Docs  ](https://docs.neptune.ai/)
+
+[ Take an interactive product tour  ![](https://neptune.ai/wp-content/themes/neptune/img/image-ratio-holder.svg) ](https://app.neptune.ai/o/showcase/org/onboarding-project/runs/table?viewId=98f66b32-2279-4b73-8210-863021c440ac&product_tour_id=444083)
+
+![](https://neptune.ai/wp-content/themes/neptune/img/footer-post-illustration.svg)
+
+#### Newsletter
+
+Top articles, case studies, events (and more) in your inbox every month.
+
+Get Newsletter
+
+  * [Product](#)
+    * [Resources](https://neptune.ai/resources)
+    * [Pricing](https://neptune.ai/pricing)
+    * [Deployment options](https://neptune.ai/product/deployment-options)
+    * [Service status](https://status.neptune.ai/)
+
+
+  * [Solutions](#)
+    * [AI Researcher](https://neptune.ai/product/ai-researcher)
+    * [ML Team Lead](https://neptune.ai/product/ml-team-lead)
+    * [ML Platform Engineer](https://neptune.ai/product/ml-platform)
+    * [Enterprise](https://neptune.ai/product/enterprise)
+    * [Academic Research](https://neptune.ai/research)
+
+
+  * [Documentation](#)
+    * [Quickstart](https://docs.neptune.ai/usage/quickstart/)
+    * [Neptune docs](https://docs.neptune.ai/)
+    * [Neptune integrations](https://docs.neptune.ai/integrations/)
+
+
+  * [Compare](#)
+    * [Neptune vs Weights & Biases](https://neptune.ai/vs/wandb)
+    * [Neptune vs MLflow](https://neptune.ai/vs/mlflow)
+    * [Neptune vs TensorBoard](https://neptune.ai/vs/tensorboard)
+    * [Other comparisons](/vs)
+    * [ML experiment tracking tools](/blog/best-ml-experiment-tracking-tools)
+
+
+  * [Community](#)
+    * [Blog](https://neptune.ai/blog)
+    * [Experiment Tracking Learning Hub](https://neptune.ai/experiment-tracking-learn-hub)
+    * [LLMOps Learning Hub](https://neptune.ai/llmops-learning-hub)
+    * [MLOps Learning Hub](https://neptune.ai/mlops-learn-hub)
+    * [How to Build an Experiment Tracker](https://neptune.ai/blog/build-experiment-tracking-tool)
+
+
+  * [Company](#)
+    * [About us](https://neptune.ai/about-us)
+    * [Customers](https://neptune.ai/customers)
+    * [Careers](https://neptune.ai/jobs)
+    * [Security portal and SOC 2](https://security.neptune.ai/)
+    * [Contact us](https://neptune.ai/contact-us)
+
+
+
+[ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-linked-in.svg) ](https://www.linkedin.com/company/neptuneai) [ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-twitter.svg) ](https://twitter.com/neptune_ai) [ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-github.svg) ](https://github.com/neptune-ai) [ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-facebook.svg) ](https://www.facebook.com/neptuneAI) [ ![social icon](https://neptune.ai/wp-content/uploads/2022/08/icon-youtube.svg) ](https://www.youtube.com/channel/UCvOJU-ubyUqxGSDRN7xK4Ng) [ ![social icon](https://neptune.ai/wp-content/uploads/2023/01/icon-spotify.svg) ](https://open.spotify.com/show/4kGi82i4wTYgHbWmVMri5x) [ ![social icon](https://neptune.ai/wp-content/uploads/2023/01/icon-apple-podcast.svg) ](https://podcasts.apple.com/us/podcast/mlops-live/id1634179447)
+
+Copyright © 2025 Neptune Labs. All rights reserved.
+
+![](https://neptune.ai/wp-content/themes/neptune/img/footer-stars--414w.png) ![](https://pixel.wp.com/g.gif?v=ext&blog=211928962&post=6285&tz=0&srv=neptune.ai&hp=atomic&ac=2&amp=0&j=1%3A14.3-a.1&host=neptune.ai&ref=&fcp=0&rand=0.14371491252294)

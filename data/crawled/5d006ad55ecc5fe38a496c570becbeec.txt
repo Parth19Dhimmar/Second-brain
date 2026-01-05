@@ -1,0 +1,1118 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fpytorch%2FPiPPy%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fpytorch%2FPiPPy%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=pytorch%2FPiPPy) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ pytorch ](/pytorch) / **[PiPPy](/pytorch/PiPPy) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fpytorch%2FPiPPy) You must be signed in to change notification settings
+  * [ Fork 87 ](/login?return_to=%2Fpytorch%2FPiPPy)
+  * [ Star  736 ](/login?return_to=%2Fpytorch%2FPiPPy)
+
+
+
+
+Pipeline Parallelism for PyTorch 
+
+### License
+
+[ BSD-3-Clause license ](/pytorch/PiPPy/blob/main/LICENSE)
+
+[ 736 stars ](/pytorch/PiPPy/stargazers) [ 87 forks ](/pytorch/PiPPy/forks) [ Branches ](/pytorch/PiPPy/branches) [ Tags ](/pytorch/PiPPy/tags) [ Activity ](/pytorch/PiPPy/activity)
+
+[ Star  ](/login?return_to=%2Fpytorch%2FPiPPy)
+
+[ Notifications ](/login?return_to=%2Fpytorch%2FPiPPy) You must be signed in to change notification settings
+
+  * [ Code ](/pytorch/PiPPy)
+  * [ Issues 160 ](/pytorch/PiPPy/issues)
+  * [ Pull requests 9 ](/pytorch/PiPPy/pulls)
+  * [ Actions ](/pytorch/PiPPy/actions)
+  * [ Projects 0 ](/pytorch/PiPPy/projects)
+  * [ Security ](/pytorch/PiPPy/security)
+  * [ Insights ](/pytorch/PiPPy/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/pytorch/PiPPy)
+  * [ Issues  ](/pytorch/PiPPy/issues)
+  * [ Pull requests  ](/pytorch/PiPPy/pulls)
+  * [ Actions  ](/pytorch/PiPPy/actions)
+  * [ Projects  ](/pytorch/PiPPy/projects)
+  * [ Security  ](/pytorch/PiPPy/security)
+  * [ Insights  ](/pytorch/PiPPy/pulse)
+
+
+
+# pytorch/PiPPy
+
+main
+
+[**508** Branches](/pytorch/PiPPy/branches)[**4** Tags](/pytorch/PiPPy/tags)
+
+[](/pytorch/PiPPy/branches)[](/pytorch/PiPPy/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![muellerzr](https://avatars.githubusercontent.com/u/7831895?v=4&size=40)](/muellerzr)[muellerzr](/pytorch/PiPPy/commits?author=muellerzr)[Update all hf examples to have dist.barrier (](/pytorch/PiPPy/commit/1bcb2bfb2d6cc4ac2125c0edb37c35585bb9695f)[#1139](https://github.com/pytorch/PiPPy/pull/1139)[)](/pytorch/PiPPy/commit/1bcb2bfb2d6cc4ac2125c0edb37c35585bb9695f)Aug 21, 2024[1bcb2bf](/pytorch/PiPPy/commit/1bcb2bfb2d6cc4ac2125c0edb37c35585bb9695f) · Aug 21, 2024
+
+## History
+
+[705 Commits](/pytorch/PiPPy/commits/main/)[](/pytorch/PiPPy/commits/main/)  
+[.github/workflows](/pytorch/PiPPy/tree/main/.github/workflows "This path skips through empty directories")| [.github/workflows](/pytorch/PiPPy/tree/main/.github/workflows "This path skips through empty directories")| [Add migration notice](/pytorch/PiPPy/commit/7b6e73f8c8b110b10af47a8ee4137e46903708b8 "Add migration notice
+ghstack-source-id: 3c385465093aeb94d1b2fa63b829dad39d79da15
+Pull Request resolved: https://github.com/pytorch/PiPPy/pull/1128")| Jun 15, 2024  
+[binaries](/pytorch/PiPPy/tree/main/binaries "binaries")| [binaries](/pytorch/PiPPy/tree/main/binaries "binaries")| [Add pypi instructions (](/pytorch/PiPPy/commit/86198de27900000243fba1b807045f5642c2a766 "Add pypi instructions \(#937\)")[#937](https://github.com/pytorch/PiPPy/pull/937)[)](/pytorch/PiPPy/commit/86198de27900000243fba1b807045f5642c2a766 "Add pypi instructions \(#937\)")| Jan 30, 2024  
+[docs](/pytorch/PiPPy/tree/main/docs "docs")| [docs](/pytorch/PiPPy/tree/main/docs "docs")| [pippy.IR: use pipeline instead of Pipe.from_tracing (](/pytorch/PiPPy/commit/062778704cafa8d8f2cf98e72cb1fea3ae3cf7fa "pippy.IR: use pipeline instead of Pipe.from_tracing \(#984\)
+## Description
+This adds a new `pippy.pipeline` method that wraps `Pipe.from_tracing`
+and updates all documentation and examples to use it.
+There are a _lot_ of examples
+Fixes #979 
+## Type of change
+Please delete options that are not relevant.
+- \[ \] Bug fix \(non-breaking change which fixes an issue\)
+- \[ \] Breaking change \(fix or feature that would cause existing
+functionality to not work as expected\)
+- \[x\] New feature \(non-breaking change which adds functionality\)
+- \[x\] This change requires a documentation update
+## Feature/Issue validation/testing
+Please describe the Unit or Integration tests that you ran to verify
+your changes and relevant result summary. Provide instructions so it can
+be reproduced.
+Please also list any relevant details for your test configuration.
+```
+torchrun --nproc-per-node 2 examples/huggingface/pippy_bert.py
+torchrun --nproc-per-node 4 test/test_fwd.py
+```
+CI
+
+## Checklist:
+- \[x\] Have you added tests that prove your fix is effective or that this
+feature works?
+- \[x\] Has code been commented, particularly in hard-to-understand areas?
+- \[x\] Have you made corresponding changes to the documentation?")[#984](https://github.com/pytorch/PiPPy/pull/984)[)](/pytorch/PiPPy/commit/062778704cafa8d8f2cf98e72cb1fea3ae3cf7fa "pippy.IR: use pipeline instead of Pipe.from_tracing \(#984\)
+## Description
+This adds a new `pippy.pipeline` method that wraps `Pipe.from_tracing`
+and updates all documentation and examples to use it.
+There are a _lot_ of examples
+Fixes #979 
+## Type of change
+Please delete options that are not relevant.
+- \[ \] Bug fix \(non-breaking change which fixes an issue\)
+- \[ \] Breaking change \(fix or feature that would cause existing
+functionality to not work as expected\)
+- \[x\] New feature \(non-breaking change which adds functionality\)
+- \[x\] This change requires a documentation update
+## Feature/Issue validation/testing
+Please describe the Unit or Integration tests that you ran to verify
+your changes and relevant result summary. Provide instructions so it can
+be reproduced.
+Please also list any relevant details for your test configuration.
+```
+torchrun --nproc-per-node 2 examples/huggingface/pippy_bert.py
+torchrun --nproc-per-node 4 test/test_fwd.py
+```
+CI
+
+## Checklist:
+- \[x\] Have you added tests that prove your fix is effective or that this
+feature works?
+- \[x\] Has code been commented, particularly in hard-to-understand areas?
+- \[x\] Have you made corresponding changes to the documentation?")| Mar 20, 2024  
+[examples](/pytorch/PiPPy/tree/main/examples "examples")| [examples](/pytorch/PiPPy/tree/main/examples "examples")| [Update all hf examples to have dist.barrier (](/pytorch/PiPPy/commit/1bcb2bfb2d6cc4ac2125c0edb37c35585bb9695f "Update all hf examples to have dist.barrier \(#1139\)
+Without having `dist.barrier\(\)`, all of the HF examples wind up hanging
+since we're destroying the pg before all comms have completed in these
+small examples, leading to a hang. This PR adds `dist.barrier\(\)` just
+before `dist.destroy_process_group\(\)` to fix this.")[#1139](https://github.com/pytorch/PiPPy/pull/1139)[)](/pytorch/PiPPy/commit/1bcb2bfb2d6cc4ac2125c0edb37c35585bb9695f "Update all hf examples to have dist.barrier \(#1139\)
+Without having `dist.barrier\(\)`, all of the HF examples wind up hanging
+since we're destroying the pg before all comms have completed in these
+small examples, leading to a hang. This PR adds `dist.barrier\(\)` just
+before `dist.destroy_process_group\(\)` to fix this.")| Aug 21, 2024  
+[pippy](/pytorch/PiPPy/tree/main/pippy "pippy")| [pippy](/pytorch/PiPPy/tree/main/pippy "pippy")| [A graph-based pipeline splitting (](/pytorch/PiPPy/commit/5e1d71962eae89a38479b968bf1b97c4c0ab0bda "A graph-based pipeline splitting \(#1080\)
+An automatic graph-based pipeline splitting algorithm. The goal of the
+method is to split the computation graph into stages to minimize the
+communication between the stages while trying to balance the
+computation. The optimization is done via solving a mixed-integer linear
+program \(MILP\) using `scipy`.
+Measuring mean batch time in sec over 50 batches \(after a warmup\) for
+various models using "manual split", "--autosplit", and the new
+"--graphsplit":
+| model | nproc-per-node | manual | autosplit | graphsplit |
+|--------|--------|--------|--------|--------|
+| pippy_bert | 2 | 0.1082 | 0.1279 | 0.1083 |
+| pippy_bert | 4 | 0.0670 | 0.0798 | 0.0671 |
+| pippy_gpt2 | 2 | 0.0388 | 0.0550 | 0.0391 |
+| pippy_gpt2 | 4 | 0.0201 | 0.0271 | 0.0205 |
+| pippy_fnet | 2 | 0.0324 | 0.0420 | 0.0323 |
+| pippy_fnet | 4 | 0.0221 | crash | 0.0218 |
+| pippy_blenderbot | 2 | 0.4805 | 0.4991 | 0.4839 |
+| pippy_blenderbot | 4 | 0.2421 | 0.2593 | 0.2436 |
+That is, the results of graph-split are almost identical to manual
+splitting, indicating that no manual model annotation is needed.")[#1080](https://github.com/pytorch/PiPPy/pull/1080)[)](/pytorch/PiPPy/commit/5e1d71962eae89a38479b968bf1b97c4c0ab0bda "A graph-based pipeline splitting \(#1080\)
+An automatic graph-based pipeline splitting algorithm. The goal of the
+method is to split the computation graph into stages to minimize the
+communication between the stages while trying to balance the
+computation. The optimization is done via solving a mixed-integer linear
+program \(MILP\) using `scipy`.
+Measuring mean batch time in sec over 50 batches \(after a warmup\) for
+various models using "manual split", "--autosplit", and the new
+"--graphsplit":
+| model | nproc-per-node | manual | autosplit | graphsplit |
+|--------|--------|--------|--------|--------|
+| pippy_bert | 2 | 0.1082 | 0.1279 | 0.1083 |
+| pippy_bert | 4 | 0.0670 | 0.0798 | 0.0671 |
+| pippy_gpt2 | 2 | 0.0388 | 0.0550 | 0.0391 |
+| pippy_gpt2 | 4 | 0.0201 | 0.0271 | 0.0205 |
+| pippy_fnet | 2 | 0.0324 | 0.0420 | 0.0323 |
+| pippy_fnet | 4 | 0.0221 | crash | 0.0218 |
+| pippy_blenderbot | 2 | 0.4805 | 0.4991 | 0.4839 |
+| pippy_blenderbot | 4 | 0.2421 | 0.2593 | 0.2436 |
+That is, the results of graph-split are almost identical to manual
+splitting, indicating that no manual model annotation is needed.")| Jun 1, 2024  
+[test](/pytorch/PiPPy/tree/main/test "test")| [test](/pytorch/PiPPy/tree/main/test "test")| [Add migration notice](/pytorch/PiPPy/commit/7b6e73f8c8b110b10af47a8ee4137e46903708b8 "Add migration notice
+ghstack-source-id: 3c385465093aeb94d1b2fa63b829dad39d79da15
+Pull Request resolved: https://github.com/pytorch/PiPPy/pull/1128")| Jun 15, 2024  
+[.coverage](/pytorch/PiPPy/blob/main/.coverage ".coverage")| [.coverage](/pytorch/PiPPy/blob/main/.coverage ".coverage")| [Use our own fork of](/pytorch/PiPPy/commit/71e0a18a50e5ff878e883c93adac99485fb173f1 "Use our own fork of `torch.fx` \(#302\)
+* Fork torch.fx for our use
+* Fix imports
+* Add FX tests
+* Add should_traverse_fn to torch.fx.node.map_aggregate
+* fix lint
+* fix tests
+* dont do matrix params for fx tests
+* more test fixes
+* fix mypy and pytest
+* fix xmlrunner dep
+* fix fx tests
+* try to fix mypy") `[torch.fx](/pytorch/PiPPy/commit/71e0a18a50e5ff878e883c93adac99485fb173f1 "Use our own fork of `torch.fx` \(#302\)
+* Fork torch.fx for our use
+* Fix imports
+* Add FX tests
+* Add should_traverse_fn to torch.fx.node.map_aggregate
+* fix lint
+* fix tests
+* dont do matrix params for fx tests
+* more test fixes
+* fix mypy and pytest
+* fix xmlrunner dep
+* fix fx tests
+* try to fix mypy")` [(](/pytorch/PiPPy/commit/71e0a18a50e5ff878e883c93adac99485fb173f1 "Use our own fork of `torch.fx` \(#302\)
+* Fork torch.fx for our use
+* Fix imports
+* Add FX tests
+* Add should_traverse_fn to torch.fx.node.map_aggregate
+* fix lint
+* fix tests
+* dont do matrix params for fx tests
+* more test fixes
+* fix mypy and pytest
+* fix xmlrunner dep
+* fix fx tests
+* try to fix mypy")[#302](https://github.com/pytorch/PiPPy/pull/302)[)](/pytorch/PiPPy/commit/71e0a18a50e5ff878e883c93adac99485fb173f1 "Use our own fork of `torch.fx` \(#302\)
+* Fork torch.fx for our use
+* Fix imports
+* Add FX tests
+* Add should_traverse_fn to torch.fx.node.map_aggregate
+* fix lint
+* fix tests
+* dont do matrix params for fx tests
+* more test fixes
+* fix mypy and pytest
+* fix xmlrunner dep
+* fix fx tests
+* try to fix mypy")| Jul 23, 2022  
+[.flake8](/pytorch/PiPPy/blob/main/.flake8 ".flake8")| [.flake8](/pytorch/PiPPy/blob/main/.flake8 ".flake8")| [Unflatten traced module (](/pytorch/PiPPy/commit/77be55dcc36d45dbdd6e04997dbe133392151584 "Unflatten traced module \(#954\)
+## Description
+- Move tracer from `_export_to_torch_ir` to the official
+`torch.export.export`
+- Add unflatten utils \(from torch/export/unflatten.py\) to unflatten each
+stage module
+Purpose of this PR is to:
+- be composable with FSDP and TP, which requires structured FQNs like
+`a.b.c` to submodules to specify their policies.
+- be nice to DCP which would not like to see change of FQNs compared to
+original model.
+- retire use of `_export_to_torch_ir` per Export Team's plan.
+## Test
+Added `test_transformer.py`.
+```
+class TransformerLike\(torch.nn.Module\):
+  def __init__\(self\) -> None:
+    super\(\).__init__\(\)
+    self.layers = torch.nn.Sequential\(
+      *\[
+        MLPModule\(d_hid\)
+        for _ in range\(n_layers\)
+      \]
+    \)
+  def forward\(self, x: torch.Tensor\) -> torch.Tensor:
+    return self.layers\(x\)
+```
+We split the model into two stages. Each stages would preserve the
+`layers.<i>` structure as in the original model.
+```
+Stage 0: 
+ GraphModule\(
+ \(layers\): InterpreterModule\(
+  \(0\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(1\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(2\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(3\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+ \)
+\)
+ ```
+```
+Stage 1: 
+ GraphModule\(
+ \(layers\): InterpreterModule\(
+  \(4\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(5\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(6\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(7\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+ \)
+\)
+```
+Caveat:
+I temporarily disabled multi-use parameter support \(aka. shared paramters or tied parameters\). So some real examples may break. Will add the support back in next PR.")[#954](https://github.com/pytorch/PiPPy/pull/954)[)](/pytorch/PiPPy/commit/77be55dcc36d45dbdd6e04997dbe133392151584 "Unflatten traced module \(#954\)
+## Description
+- Move tracer from `_export_to_torch_ir` to the official
+`torch.export.export`
+- Add unflatten utils \(from torch/export/unflatten.py\) to unflatten each
+stage module
+Purpose of this PR is to:
+- be composable with FSDP and TP, which requires structured FQNs like
+`a.b.c` to submodules to specify their policies.
+- be nice to DCP which would not like to see change of FQNs compared to
+original model.
+- retire use of `_export_to_torch_ir` per Export Team's plan.
+## Test
+Added `test_transformer.py`.
+```
+class TransformerLike\(torch.nn.Module\):
+  def __init__\(self\) -> None:
+    super\(\).__init__\(\)
+    self.layers = torch.nn.Sequential\(
+      *\[
+        MLPModule\(d_hid\)
+        for _ in range\(n_layers\)
+      \]
+    \)
+  def forward\(self, x: torch.Tensor\) -> torch.Tensor:
+    return self.layers\(x\)
+```
+We split the model into two stages. Each stages would preserve the
+`layers.<i>` structure as in the original model.
+```
+Stage 0: 
+ GraphModule\(
+ \(layers\): InterpreterModule\(
+  \(0\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(1\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(2\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(3\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+ \)
+\)
+ ```
+```
+Stage 1: 
+ GraphModule\(
+ \(layers\): InterpreterModule\(
+  \(4\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(5\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(6\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(7\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+ \)
+\)
+```
+Caveat:
+I temporarily disabled multi-use parameter support \(aka. shared paramters or tied parameters\). So some real examples may break. Will add the support back in next PR.")| Apr 2, 2024  
+[.gitignore](/pytorch/PiPPy/blob/main/.gitignore ".gitignore")| [.gitignore](/pytorch/PiPPy/blob/main/.gitignore ".gitignore")| [A graph-based pipeline splitting (](/pytorch/PiPPy/commit/5e1d71962eae89a38479b968bf1b97c4c0ab0bda "A graph-based pipeline splitting \(#1080\)
+An automatic graph-based pipeline splitting algorithm. The goal of the
+method is to split the computation graph into stages to minimize the
+communication between the stages while trying to balance the
+computation. The optimization is done via solving a mixed-integer linear
+program \(MILP\) using `scipy`.
+Measuring mean batch time in sec over 50 batches \(after a warmup\) for
+various models using "manual split", "--autosplit", and the new
+"--graphsplit":
+| model | nproc-per-node | manual | autosplit | graphsplit |
+|--------|--------|--------|--------|--------|
+| pippy_bert | 2 | 0.1082 | 0.1279 | 0.1083 |
+| pippy_bert | 4 | 0.0670 | 0.0798 | 0.0671 |
+| pippy_gpt2 | 2 | 0.0388 | 0.0550 | 0.0391 |
+| pippy_gpt2 | 4 | 0.0201 | 0.0271 | 0.0205 |
+| pippy_fnet | 2 | 0.0324 | 0.0420 | 0.0323 |
+| pippy_fnet | 4 | 0.0221 | crash | 0.0218 |
+| pippy_blenderbot | 2 | 0.4805 | 0.4991 | 0.4839 |
+| pippy_blenderbot | 4 | 0.2421 | 0.2593 | 0.2436 |
+That is, the results of graph-split are almost identical to manual
+splitting, indicating that no manual model annotation is needed.")[#1080](https://github.com/pytorch/PiPPy/pull/1080)[)](/pytorch/PiPPy/commit/5e1d71962eae89a38479b968bf1b97c4c0ab0bda "A graph-based pipeline splitting \(#1080\)
+An automatic graph-based pipeline splitting algorithm. The goal of the
+method is to split the computation graph into stages to minimize the
+communication between the stages while trying to balance the
+computation. The optimization is done via solving a mixed-integer linear
+program \(MILP\) using `scipy`.
+Measuring mean batch time in sec over 50 batches \(after a warmup\) for
+various models using "manual split", "--autosplit", and the new
+"--graphsplit":
+| model | nproc-per-node | manual | autosplit | graphsplit |
+|--------|--------|--------|--------|--------|
+| pippy_bert | 2 | 0.1082 | 0.1279 | 0.1083 |
+| pippy_bert | 4 | 0.0670 | 0.0798 | 0.0671 |
+| pippy_gpt2 | 2 | 0.0388 | 0.0550 | 0.0391 |
+| pippy_gpt2 | 4 | 0.0201 | 0.0271 | 0.0205 |
+| pippy_fnet | 2 | 0.0324 | 0.0420 | 0.0323 |
+| pippy_fnet | 4 | 0.0221 | crash | 0.0218 |
+| pippy_blenderbot | 2 | 0.4805 | 0.4991 | 0.4839 |
+| pippy_blenderbot | 4 | 0.2421 | 0.2593 | 0.2436 |
+That is, the results of graph-split are almost identical to manual
+splitting, indicating that no manual model annotation is needed.")| Jun 1, 2024  
+[.gitmodules](/pytorch/PiPPy/blob/main/.gitmodules ".gitmodules")| [.gitmodules](/pytorch/PiPPy/blob/main/.gitmodules ".gitmodules")| [Remove stale examples (](/pytorch/PiPPy/commit/dd73ebe59bf74c1d850b8a0ce08915dd3c175761 "Remove stale examples \(#994\)
+mnist
+minGPT")[#994](https://github.com/pytorch/PiPPy/pull/994)[)](/pytorch/PiPPy/commit/dd73ebe59bf74c1d850b8a0ce08915dd3c175761 "Remove stale examples \(#994\)
+mnist
+minGPT")| Mar 25, 2024  
+[ARCHITECTURE.md](/pytorch/PiPPy/blob/main/ARCHITECTURE.md "ARCHITECTURE.md")| [ARCHITECTURE.md](/pytorch/PiPPy/blob/main/ARCHITECTURE.md "ARCHITECTURE.md")| [pippy.IR: use pipeline instead of Pipe.from_tracing (](/pytorch/PiPPy/commit/062778704cafa8d8f2cf98e72cb1fea3ae3cf7fa "pippy.IR: use pipeline instead of Pipe.from_tracing \(#984\)
+## Description
+This adds a new `pippy.pipeline` method that wraps `Pipe.from_tracing`
+and updates all documentation and examples to use it.
+There are a _lot_ of examples
+Fixes #979 
+## Type of change
+Please delete options that are not relevant.
+- \[ \] Bug fix \(non-breaking change which fixes an issue\)
+- \[ \] Breaking change \(fix or feature that would cause existing
+functionality to not work as expected\)
+- \[x\] New feature \(non-breaking change which adds functionality\)
+- \[x\] This change requires a documentation update
+## Feature/Issue validation/testing
+Please describe the Unit or Integration tests that you ran to verify
+your changes and relevant result summary. Provide instructions so it can
+be reproduced.
+Please also list any relevant details for your test configuration.
+```
+torchrun --nproc-per-node 2 examples/huggingface/pippy_bert.py
+torchrun --nproc-per-node 4 test/test_fwd.py
+```
+CI
+
+## Checklist:
+- \[x\] Have you added tests that prove your fix is effective or that this
+feature works?
+- \[x\] Has code been commented, particularly in hard-to-understand areas?
+- \[x\] Have you made corresponding changes to the documentation?")[#984](https://github.com/pytorch/PiPPy/pull/984)[)](/pytorch/PiPPy/commit/062778704cafa8d8f2cf98e72cb1fea3ae3cf7fa "pippy.IR: use pipeline instead of Pipe.from_tracing \(#984\)
+## Description
+This adds a new `pippy.pipeline` method that wraps `Pipe.from_tracing`
+and updates all documentation and examples to use it.
+There are a _lot_ of examples
+Fixes #979 
+## Type of change
+Please delete options that are not relevant.
+- \[ \] Bug fix \(non-breaking change which fixes an issue\)
+- \[ \] Breaking change \(fix or feature that would cause existing
+functionality to not work as expected\)
+- \[x\] New feature \(non-breaking change which adds functionality\)
+- \[x\] This change requires a documentation update
+## Feature/Issue validation/testing
+Please describe the Unit or Integration tests that you ran to verify
+your changes and relevant result summary. Provide instructions so it can
+be reproduced.
+Please also list any relevant details for your test configuration.
+```
+torchrun --nproc-per-node 2 examples/huggingface/pippy_bert.py
+torchrun --nproc-per-node 4 test/test_fwd.py
+```
+CI
+
+## Checklist:
+- \[x\] Have you added tests that prove your fix is effective or that this
+feature works?
+- \[x\] Has code been commented, particularly in hard-to-understand areas?
+- \[x\] Have you made corresponding changes to the documentation?")| Mar 20, 2024  
+[CITATION](/pytorch/PiPPy/blob/main/CITATION "CITATION")| [CITATION](/pytorch/PiPPy/blob/main/CITATION "CITATION")| [Add BiBTeX citation to CITATION file (](/pytorch/PiPPy/commit/a436b6a4853eada736a52068cab700c177264c6b "Add BiBTeX citation to CITATION file \(#210\)")[#210](https://github.com/pytorch/PiPPy/pull/210)[)](/pytorch/PiPPy/commit/a436b6a4853eada736a52068cab700c177264c6b "Add BiBTeX citation to CITATION file \(#210\)")| May 9, 2022  
+[CODE_OF_CONDUCT.md](/pytorch/PiPPy/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/pytorch/PiPPy/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Initial commit](/pytorch/PiPPy/commit/b39beba275307f44ebb1248768de99448eadae79 "Initial commit")| Apr 9, 2022  
+[CONTRIBUTING.md](/pytorch/PiPPy/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/pytorch/PiPPy/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Update CONTRIBUTING.md](/pytorch/PiPPy/commit/b8e01c26825461230d38c8a176f1d5da5b73ac7d "Update CONTRIBUTING.md")| Jun 24, 2024  
+[LICENSE](/pytorch/PiPPy/blob/main/LICENSE "LICENSE")| [LICENSE](/pytorch/PiPPy/blob/main/LICENSE "LICENSE")| [Initial commit](/pytorch/PiPPy/commit/b39beba275307f44ebb1248768de99448eadae79 "Initial commit")| Apr 9, 2022  
+[README.md](/pytorch/PiPPy/blob/main/README.md "README.md")| [README.md](/pytorch/PiPPy/blob/main/README.md "README.md")| [Add migration notice](/pytorch/PiPPy/commit/7b6e73f8c8b110b10af47a8ee4137e46903708b8 "Add migration notice
+ghstack-source-id: 3c385465093aeb94d1b2fa63b829dad39d79da15
+Pull Request resolved: https://github.com/pytorch/PiPPy/pull/1128")| Jun 15, 2024  
+[REFERENCE.md](/pytorch/PiPPy/blob/main/REFERENCE.md "REFERENCE.md")| [REFERENCE.md](/pytorch/PiPPy/blob/main/REFERENCE.md "REFERENCE.md")| [Add development notice (](/pytorch/PiPPy/commit/21ce1292eda94b9130a65a190788303c25dc42eb "Add development notice \(#995\)
+Repo will be under frequent development and refactoring. Adding notice.")[#995](https://github.com/pytorch/PiPPy/pull/995)[)](/pytorch/PiPPy/commit/21ce1292eda94b9130a65a190788303c25dc42eb "Add development notice \(#995\)
+Repo will be under frequent development and refactoring. Adding notice.")| Mar 25, 2024  
+[check.sh](/pytorch/PiPPy/blob/main/check.sh "check.sh")| [check.sh](/pytorch/PiPPy/blob/main/check.sh "check.sh")| [Unflatten traced module (](/pytorch/PiPPy/commit/77be55dcc36d45dbdd6e04997dbe133392151584 "Unflatten traced module \(#954\)
+## Description
+- Move tracer from `_export_to_torch_ir` to the official
+`torch.export.export`
+- Add unflatten utils \(from torch/export/unflatten.py\) to unflatten each
+stage module
+Purpose of this PR is to:
+- be composable with FSDP and TP, which requires structured FQNs like
+`a.b.c` to submodules to specify their policies.
+- be nice to DCP which would not like to see change of FQNs compared to
+original model.
+- retire use of `_export_to_torch_ir` per Export Team's plan.
+## Test
+Added `test_transformer.py`.
+```
+class TransformerLike\(torch.nn.Module\):
+  def __init__\(self\) -> None:
+    super\(\).__init__\(\)
+    self.layers = torch.nn.Sequential\(
+      *\[
+        MLPModule\(d_hid\)
+        for _ in range\(n_layers\)
+      \]
+    \)
+  def forward\(self, x: torch.Tensor\) -> torch.Tensor:
+    return self.layers\(x\)
+```
+We split the model into two stages. Each stages would preserve the
+`layers.<i>` structure as in the original model.
+```
+Stage 0: 
+ GraphModule\(
+ \(layers\): InterpreterModule\(
+  \(0\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(1\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(2\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(3\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+ \)
+\)
+ ```
+```
+Stage 1: 
+ GraphModule\(
+ \(layers\): InterpreterModule\(
+  \(4\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(5\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(6\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(7\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+ \)
+\)
+```
+Caveat:
+I temporarily disabled multi-use parameter support \(aka. shared paramters or tied parameters\). So some real examples may break. Will add the support back in next PR.")[#954](https://github.com/pytorch/PiPPy/pull/954)[)](/pytorch/PiPPy/commit/77be55dcc36d45dbdd6e04997dbe133392151584 "Unflatten traced module \(#954\)
+## Description
+- Move tracer from `_export_to_torch_ir` to the official
+`torch.export.export`
+- Add unflatten utils \(from torch/export/unflatten.py\) to unflatten each
+stage module
+Purpose of this PR is to:
+- be composable with FSDP and TP, which requires structured FQNs like
+`a.b.c` to submodules to specify their policies.
+- be nice to DCP which would not like to see change of FQNs compared to
+original model.
+- retire use of `_export_to_torch_ir` per Export Team's plan.
+## Test
+Added `test_transformer.py`.
+```
+class TransformerLike\(torch.nn.Module\):
+  def __init__\(self\) -> None:
+    super\(\).__init__\(\)
+    self.layers = torch.nn.Sequential\(
+      *\[
+        MLPModule\(d_hid\)
+        for _ in range\(n_layers\)
+      \]
+    \)
+  def forward\(self, x: torch.Tensor\) -> torch.Tensor:
+    return self.layers\(x\)
+```
+We split the model into two stages. Each stages would preserve the
+`layers.<i>` structure as in the original model.
+```
+Stage 0: 
+ GraphModule\(
+ \(layers\): InterpreterModule\(
+  \(0\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(1\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(2\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(3\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+ \)
+\)
+ ```
+```
+Stage 1: 
+ GraphModule\(
+ \(layers\): InterpreterModule\(
+  \(4\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(5\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(6\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+  \(7\): InterpreterModule\(
+   \(net1\): InterpreterModule\(\)
+   \(relu\): InterpreterModule\(\)
+   \(net2\): InterpreterModule\(\)
+  \)
+ \)
+\)
+```
+Caveat:
+I temporarily disabled multi-use parameter support \(aka. shared paramters or tied parameters\). So some real examples may break. Will add the support back in next PR.")| Apr 2, 2024  
+[format.sh](/pytorch/PiPPy/blob/main/format.sh "format.sh")| [format.sh](/pytorch/PiPPy/blob/main/format.sh "format.sh")| [Make some modules private (](/pytorch/PiPPy/commit/73e349bc5c48ec4a2df5f60c6aa9acc18317366a "Make some modules private \(#1093\)
+This is a PyTorch requirement. Otherwise, the module must be documented
+in a .rst file.
+Making modules private by prefixing an `_`, as suggested by PyTorch doc
+checker.
+Privatized modules: 
+`_utils`, `_debug`, `_backward`, `_unflatten`")[#1093](https://github.com/pytorch/PiPPy/pull/1093)[)](/pytorch/PiPPy/commit/73e349bc5c48ec4a2df5f60c6aa9acc18317366a "Make some modules private \(#1093\)
+This is a PyTorch requirement. Otherwise, the module must be documented
+in a .rst file.
+Making modules private by prefixing an `_`, as suggested by PyTorch doc
+checker.
+Privatized modules: 
+`_utils`, `_debug`, `_backward`, `_unflatten`")| Apr 26, 2024  
+[pyproject.toml](/pytorch/PiPPy/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/pytorch/PiPPy/blob/main/pyproject.toml "pyproject.toml")| [Make some modules private (](/pytorch/PiPPy/commit/73e349bc5c48ec4a2df5f60c6aa9acc18317366a "Make some modules private \(#1093\)
+This is a PyTorch requirement. Otherwise, the module must be documented
+in a .rst file.
+Making modules private by prefixing an `_`, as suggested by PyTorch doc
+checker.
+Privatized modules: 
+`_utils`, `_debug`, `_backward`, `_unflatten`")[#1093](https://github.com/pytorch/PiPPy/pull/1093)[)](/pytorch/PiPPy/commit/73e349bc5c48ec4a2df5f60c6aa9acc18317366a "Make some modules private \(#1093\)
+This is a PyTorch requirement. Otherwise, the module must be documented
+in a .rst file.
+Making modules private by prefixing an `_`, as suggested by PyTorch doc
+checker.
+Privatized modules: 
+`_utils`, `_debug`, `_backward`, `_unflatten`")| Apr 26, 2024  
+[requirements.txt](/pytorch/PiPPy/blob/main/requirements.txt "requirements.txt")| [requirements.txt](/pytorch/PiPPy/blob/main/requirements.txt "requirements.txt")| [Clean up IR.py (](/pytorch/PiPPy/commit/ca008ebacd217662ffac175b55510c0989b5abec "Clean up IR.py \(#1084\)
+## Description
+- Remove torch version checking, as a result, remove dependency on
+packaging
+- Pack multi-use param logics into functions
+- Remove duplicated `_split_before_forwad` and `_split_before_backwad`")[#1084](https://github.com/pytorch/PiPPy/pull/1084)[)](/pytorch/PiPPy/commit/ca008ebacd217662ffac175b55510c0989b5abec "Clean up IR.py \(#1084\)
+## Description
+- Remove torch version checking, as a result, remove dependency on
+packaging
+- Pack multi-use param logics into functions
+- Remove duplicated `_split_before_forwad` and `_split_before_backwad`")| Apr 23, 2024  
+[setup.py](/pytorch/PiPPy/blob/main/setup.py "setup.py")| [setup.py](/pytorch/PiPPy/blob/main/setup.py "setup.py")| [Clean up IR.py (](/pytorch/PiPPy/commit/ca008ebacd217662ffac175b55510c0989b5abec "Clean up IR.py \(#1084\)
+## Description
+- Remove torch version checking, as a result, remove dependency on
+packaging
+- Pack multi-use param logics into functions
+- Remove duplicated `_split_before_forwad` and `_split_before_backwad`")[#1084](https://github.com/pytorch/PiPPy/pull/1084)[)](/pytorch/PiPPy/commit/ca008ebacd217662ffac175b55510c0989b5abec "Clean up IR.py \(#1084\)
+## Description
+- Remove torch version checking, as a result, remove dependency on
+packaging
+- Pack multi-use param logics into functions
+- Remove duplicated `_split_before_forwad` and `_split_before_backwad`")| Apr 23, 2024  
+[version.txt](/pytorch/PiPPy/blob/main/version.txt "version.txt")| [version.txt](/pytorch/PiPPy/blob/main/version.txt "version.txt")| [Version 0.2.0 (](/pytorch/PiPPy/commit/354dc53ec1af94591bdc28b8a203831c94f14d72 "Version 0.2.0 \(#936\)
+Version 0.2.0
+Release Note:
+- Migrated frontend tracer to PyTorch2 tracer.
+- Added pipeline schedules \(GPipe, looped BFS, looped DFS\).
+- Added manual pipeline stage creation API.
+- Added supporting for CPU tracing and GPU runtime.")[#936](https://github.com/pytorch/PiPPy/pull/936)[)](/pytorch/PiPPy/commit/354dc53ec1af94591bdc28b8a203831c94f14d72 "Version 0.2.0 \(#936\)
+Version 0.2.0
+Release Note:
+- Migrated frontend tracer to PyTorch2 tracer.
+- Added pipeline schedules \(GPipe, looped BFS, looped DFS\).
+- Added manual pipeline stage creation API.
+- Added supporting for CPU tracing and GPU runtime.")| Jan 26, 2024  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [BSD-3-Clause license](#)
+
+
+
+# PiPPy: Pipeline Parallelism for PyTorch
+
+[](#pippy-pipeline-parallelism-for-pytorch)
+
+Note
+
+PiPPy has been migrated into [PyTorch](https://github.com/pytorch/pytorch) as a subpackage: [`torch.distributed.pipelining`](https://github.com/pytorch/pytorch/tree/main/torch/distributed/pipelining). You can find the detailed documentation [here](https://pytorch.org/docs/main/distributed.pipelining.html). The current repo mainly serves as a land of [examples](/pytorch/PiPPy/blob/main/examples). The PiPPy library code will be removed. Please use the APIs in `torch.distributed.pipelining` instead. Thank you!
+
+[**Why PiPPy?**](#why-pippy) | [**Install guide**](#install) | [**Examples**](#examples) | [**PiPPy Explained**](#pippy-explained)
+
+# Why PiPPy?
+
+[](#why-pippy)
+
+One of the most important techniques for advancing the state of the art in deep learning is scaling. Common techniques for scaling neural networks include _data parallelism_ , _tensor/operation parallelism_ , and _pipeline parallelism_. In many cases, pipeline parallelism in particular can be an effective technique for scaling, however it is often difficult to implement, requiring intrusive code changes to model code and difficult-to-implement runtime orchestration code. PiPPy aims to provide a toolkit that does said things automatically to allow high-productivity scaling of models.
+
+# What is PiPPy?
+
+[](#what-is-pippy)
+
+The PiPPy project consists of a compiler and runtime stack for automated parallelism and scaling of PyTorch models. Currently, PiPPy focuses on _pipeline parallelism_ , a technique in which the code of the model is partitioned and multiple _micro-batches_ execute different parts of the model code concurrently. To learn more about pipeline parallelism, see [this article](https://www.deepspeed.ai/tutorials/pipeline/).
+
+[![pipeline_diagram_web](https://private-user-images.githubusercontent.com/6676466/317342803-c93e2fe7-1cd4-49a2-9fd8-231ec9905e0c.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1NDUyMjcsIm5iZiI6MTczNzU0NDkyNywicGF0aCI6Ii82Njc2NDY2LzMxNzM0MjgwMy1jOTNlMmZlNy0xY2Q0LTQ5YTItOWZkOC0yMzFlYzk5MDVlMGMuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDEyMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAxMjJUMTEyMjA3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YTdiMWE3Y2FmYjk0MjQ1ZjY4NzA5ZWNiNGFiZDhmZDhhNmY3NDgzMWQ2ZTc3NTZkZDlhZDAwYTI4ODA5NGE1YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.Fd6hIZzZgXHM8pSFdwnOXtXHwSfpM2v9mbYOvkTB54U)](https://private-user-images.githubusercontent.com/6676466/317342803-c93e2fe7-1cd4-49a2-9fd8-231ec9905e0c.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1NDUyMjcsIm5iZiI6MTczNzU0NDkyNywicGF0aCI6Ii82Njc2NDY2LzMxNzM0MjgwMy1jOTNlMmZlNy0xY2Q0LTQ5YTItOWZkOC0yMzFlYzk5MDVlMGMuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDEyMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAxMjJUMTEyMjA3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YTdiMWE3Y2FmYjk0MjQ1ZjY4NzA5ZWNiNGFiZDhmZDhhNmY3NDgzMWQ2ZTc3NTZkZDlhZDAwYTI4ODA5NGE1YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.Fd6hIZzZgXHM8pSFdwnOXtXHwSfpM2v9mbYOvkTB54U)
+
+Figure: Pipeline parallel. "F", "B" and "U" denote forward, backward and weight update, respectively. Different colors represent different micro-batches.
+
+PiPPy provides the following features that make pipeline parallelism easier:
+
+  * Automatic splitting of model code by tracing the model. The goal is for the user to provide model code as-is to the system for parallelization, without having to make heavyweight modifications to make parallelism work.
+  * Related to the last point, PiPPy supports non-trivial topologies, including skip connections and tied weights/layers. PiPPy provides configurable behavior for tied weights, allowing for transmission across pipeline stages or replication and gradient synchronization.
+  * First-class support for cross-host pipeline parallelism, as this is where PP is typically used (over slower interconnects). This is currently missing from the torchgpipe-based `torch.distributed.pipeline.sync.Pipe`.
+  * Composability with other parallelism schemes such as data parallelism or tensor splitting model parallelism (overall, known as "3d parallelism"). Currently, pipelining and data parallelism can be composed. Other compositions will be available in the future.
+  * Support for pipeline scheduling paradigms, including schedules like fill-drain (GPipe), 1F1B and interleaved 1F1B. More schedules will be added too.
+
+
+
+For in-depth technical architecture, see [ARCHITECTURE.md](/pytorch/PiPPy/blob/main/ARCHITECTURE.md).
+
+# Install
+
+[](#install)
+
+PiPPy requires PyTorch version newer than 2.2.0.dev to work. To quickly install, for example, PyTorch nightly, run the following command from the same directory as this README:
+
+```
+`pip install -r requirements.txt --find-links https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html `
+```
+
+You can also select the CUDA build of PyTorch if your system has NVIDIA GPUs, for example:
+
+```
+`pip install -r requirements.txt --find-links https://download.pytorch.org/whl/nightly/cu118/torch_nightly.html `
+```
+
+To install PiPPy from source, run the following command in the same directory as this README:
+
+```
+`python setup.py install `
+```
+
+To expose PiPPy for development such that changes to this repo are reflected in the imported package, run:
+
+```
+`python setup.py develop `
+```
+
+# Examples
+
+[](#examples)
+
+In this repo, we provide rich examples based on realistic models. In particular, we show how to apply PiPPy without any code change to the model. Please refer to the [HuggingFace examples directory](/pytorch/PiPPy/blob/main/examples/huggingface). Examples include: [BERT](/pytorch/PiPPy/blob/main/examples/huggingface/pippy_bert.py), [GPT2](/pytorch/PiPPy/blob/main/examples/huggingface/pippy_gpt2.py), [T5](/pytorch/PiPPy/blob/main/examples/huggingface/pippy_t5.py), [LLaMA](/pytorch/PiPPy/blob/main/examples/llama), etc.
+
+# PiPPy Explained
+
+[](#pippy-explained)
+
+PiPPy consists of two parts: a _compiler_ and a _runtime_. The compiler takes your model code, splits it up, and transforms it into a `Pipe`, which is a wrapper that describes the model at each pipeline stage and their data-flow relationship. The runtime executes the `PipelineStage`s in parallel, handling things like micro-batch splitting, scheduling, communication, and gradient propagation, etc. We will cover the APIs for these concepts in this section.
+
+## Splitting a Model with Pipe
+
+[](#splitting-a-model-with-pipe)
+
+To see how we can split a model into a pipeline, let's first take an example trivial neural network:
+
+```
+import torch class MyNetworkBlock(torch.nn.Module): def __init__(self, in_dim, out_dim): super().__init__() self.lin = torch.nn.Linear(in_dim, out_dim) def forward(self, x): x = self.lin(x) x = torch.relu(x) return x class MyNetwork(torch.nn.Module): def __init__(self, in_dim, layer_dims): super().__init__() prev_dim = in_dim for i, dim in enumerate(layer_dims): setattr(self, f'layer{i}', MyNetworkBlock(prev_dim, dim)) prev_dim = dim self.num_layers = len(layer_dims) # 10 output classes self.output_proj = torch.nn.Linear(layer_dims[-1], 10) def forward(self, x): for i in range(self.num_layers): x = getattr(self, f'layer{i}')(x) return self.output_proj(x) in_dim = 512 layer_dims = [512, 1024, 256] mn = MyNetwork(in_dim, layer_dims).to(device)
+```
+
+This network is written as free-form Python code; it has not been modified for any specific parallelism technique.
+
+Let us see our first usage of the `pippy.Pipe` interface:
+
+```
+from pippy import pipeline, annotate_split_points, Pipe, SplitPoint annotate_split_points(mn, {'layer0': SplitPoint.END, 'layer1': SplitPoint.END}) batch_size = 32 example_input = torch.randn(batch_size, in_dim, device=device) chunks = 4 pipe = pipeline(mn, chunks, example_args=(example_input,)) print(pipe) """ ************************************* pipe ************************************* GraphModule( (submod_0): PipeStageModule( (L__self___layer0_mod_lin): Linear(in_features=512, out_features=512, bias=True) ) (submod_1): PipeStageModule( (L__self___layer1_mod_lin): Linear(in_features=512, out_features=1024, bias=True) ) (submod_2): PipeStageModule( (L__self___layer2_lin): Linear(in_features=1024, out_features=256, bias=True) (L__self___output_proj): Linear(in_features=256, out_features=10, bias=True) ) ) def forward(self, arg0): submod_0 = self.submod_0(arg0); arg0 = None submod_1 = self.submod_1(submod_0); submod_0 = None submod_2 = self.submod_2(submod_1); submod_1 = None return [submod_2] """
+```
+
+So what's going on here? First, `pipeline` turns our model into a directed acyclic graph (DAG) by tracing the model. Then, it groups together the operations and parameters into _pipeline stages_. Stages are represented as `submod_N` submodules, where `N` is a natural number.
+
+We used `annotate_split_points` to specify that the code should be split and the end of `layer0` and `layer1`. Our code has thus been split into _three_ pipeline stages. PiPPy also provides `SplitPoint.BEGINNING` if a user wants to split before certain annotation point.
+
+While the `annotate_split_points` API gives users a way to specify the split points without modifying the model, PiPPy also provides an API for in-model annotation: `pipe_split()`. For details, you can read [this example](https://github.com/pytorch/PiPPy/blob/main/test/test_pipe.py).
+
+This covers the basic usage of the `Pipe` API. For more information, see the documentation.
+
+## Using PipelineStage for Pipelined Execution
+
+[](#using-pipelinestage-for-pipelined-execution)
+
+Given the above `Pipe` object, we can use one of the `PipelineStage` classes to execute our model in a pipelined fashion. First off, let us instantiate a `PipelineStage` instance:
+
+```
+# We are using `torchrun` to run this example with multiple processes. # `torchrun` defines two environment variables: `RANK` and `WORLD_SIZE`. rank = int(os.environ["RANK"]) world_size = int(os.environ["WORLD_SIZE"]) # Initialize distributed environment import torch.distributed as dist dist.init_process_group(rank=rank, world_size=world_size) # Pipeline stage is our main pipeline runtime. It takes in the pipe object, # the rank of this process, and the device. from pippy.PipelineStage import PipelineStage stage = PipelineStage(pipe, rank, device)
+```
+
+We can now run the pipeline by passing input to the first `PipelineStage`:
+
+```
+# Input data x = torch.randn(batch_size, in_dim, device=device) # Run the pipeline with input `x`. Divide the batch into 4 micro-batches # and run them in parallel on the pipeline if rank == 0: stage(x) elif rank == world_size - 1: output = stage() else: stage()
+```
+
+Note that since we split our model into three stages, we must run this script with three workers. For this example, we will use `torchrun` to run multiple processes within a single machine for demonstration purposes. We can collect up all of the code blocks above into a file named [example.py](/pytorch/PiPPy/blob/main/examples/basic/example.py) and then run it with `torchrun` like so:
+
+```
+`torchrun --nproc_per_node=3 example.py `
+```
+
+## License
+
+[](#license)
+
+PiPPy is 3-clause BSD licensed, as found in the LICENSE file.
+
+## Citing PiPPy
+
+[](#citing-pippy)
+
+If you use PiPPy in your publication, please cite it by using the following BibTeX entry.
+
+```
+@Misc{pippy2022, author = {James Reed, Pavel Belevich, Ke Wen, Howard Huang, Will Constable}, title = {PiPPy: Pipeline Parallelism for PyTorch}, howpublished = {\url{https://github.com/pytorch/PiPPy}}, year = {2022} }
+```
+
+## About
+
+Pipeline Parallelism for PyTorch 
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ BSD-3-Clause license ](#BSD-3-Clause-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+### Citation
+
+Cite this repository 
+
+Loading
+
+Something went wrong. 
+
+[ Activity](/pytorch/PiPPy/activity)
+
+[ Custom properties](/pytorch/PiPPy/custom-properties)
+
+### Stars
+
+[ **736** stars](/pytorch/PiPPy/stargazers)
+
+### Watchers
+
+[ **37** watching](/pytorch/PiPPy/watchers)
+
+### Forks
+
+[ **87** forks](/pytorch/PiPPy/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fpytorch%2FPiPPy&report=pytorch+%28user%29)
+
+##  [Releases](/pytorch/PiPPy/releases)
+
+[ 4 tags ](/pytorch/PiPPy/tags)
+
+##  [Packages 0](/orgs/pytorch/packages?repo_name=PiPPy)
+
+No packages published 
+
+##  [Contributors 37](/pytorch/PiPPy/graphs/contributors)
+
+  * [ ![@kwen2501](https://avatars.githubusercontent.com/u/6676466?s=64&v=4) ](https://github.com/kwen2501)
+  * [ ![@jamesr66a](https://avatars.githubusercontent.com/u/4685384?s=64&v=4) ](https://github.com/jamesr66a)
+  * [ ![@pbelevich](https://avatars.githubusercontent.com/u/1160355?s=64&v=4) ](https://github.com/pbelevich)
+  * [ ![@wanchaol](https://avatars.githubusercontent.com/u/9443650?s=64&v=4) ](https://github.com/wanchaol)
+  * [ ![@aazzolini](https://avatars.githubusercontent.com/u/37222419?s=64&v=4) ](https://github.com/aazzolini)
+  * [ ![@lessw2020](https://avatars.githubusercontent.com/u/46302957?s=64&v=4) ](https://github.com/lessw2020)
+  * [ ![@H-Huang](https://avatars.githubusercontent.com/u/14858254?s=64&v=4) ](https://github.com/H-Huang)
+  * [ ![@eddogola](https://avatars.githubusercontent.com/u/64967909?s=64&v=4) ](https://github.com/eddogola)
+  * [ ![@wz337](https://avatars.githubusercontent.com/u/31293777?s=64&v=4) ](https://github.com/wz337)
+  * [ ![@fegin](https://avatars.githubusercontent.com/u/2461448?s=64&v=4) ](https://github.com/fegin)
+  * [ ![@HamidShojanazeri](https://avatars.githubusercontent.com/u/9162336?s=64&v=4) ](https://github.com/HamidShojanazeri)
+  * [ ![@fduwjj](https://avatars.githubusercontent.com/u/6937752?s=64&v=4) ](https://github.com/fduwjj)
+  * [ ![@mrshenli](https://avatars.githubusercontent.com/u/16999635?s=64&v=4) ](https://github.com/mrshenli)
+  * [ ![@anj-s](https://avatars.githubusercontent.com/u/32556631?s=64&v=4) ](https://github.com/anj-s)
+
+
+
+[+ 23 contributors](/pytorch/PiPPy/graphs/contributors)
+
+## Languages
+
+  * [ Python 98.7% ](/pytorch/PiPPy/search?l=python)
+  * [ Shell 1.3% ](/pytorch/PiPPy/search?l=shell)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

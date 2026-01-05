@@ -1,0 +1,998 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FcrewAIInc%2FcrewAI%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2FcrewAIInc%2FcrewAI%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=crewAIInc%2FcrewAI) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ crewAIInc ](/crewAIInc) / **[crewAI](/crewAIInc/crewAI) ** Public
+
+  * [ Notifications ](/login?return_to=%2FcrewAIInc%2FcrewAI) You must be signed in to change notification settings
+  * [ Fork 3.4k ](/login?return_to=%2FcrewAIInc%2FcrewAI)
+  * [ Star  25.2k ](/login?return_to=%2FcrewAIInc%2FcrewAI)
+
+
+
+
+Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. 
+
+[crewai.com](https://crewai.com "https://crewai.com")
+
+### License
+
+[ MIT license ](/crewAIInc/crewAI/blob/main/LICENSE)
+
+[ 25.2k stars ](/crewAIInc/crewAI/stargazers) [ 3.4k forks ](/crewAIInc/crewAI/forks) [ Branches ](/crewAIInc/crewAI/branches) [ Tags ](/crewAIInc/crewAI/tags) [ Activity ](/crewAIInc/crewAI/activity)
+
+[ Star  ](/login?return_to=%2FcrewAIInc%2FcrewAI)
+
+[ Notifications ](/login?return_to=%2FcrewAIInc%2FcrewAI) You must be signed in to change notification settings
+
+  * [ Code ](/crewAIInc/crewAI)
+  * [ Issues 86 ](/crewAIInc/crewAI/issues)
+  * [ Pull requests 21 ](/crewAIInc/crewAI/pulls)
+  * [ Discussions ](/crewAIInc/crewAI/discussions)
+  * [ Actions ](/crewAIInc/crewAI/actions)
+  * [ Projects 0 ](/crewAIInc/crewAI/projects)
+  * [ Security ](/crewAIInc/crewAI/security)
+  * [ Insights ](/crewAIInc/crewAI/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/crewAIInc/crewAI)
+  * [ Issues  ](/crewAIInc/crewAI/issues)
+  * [ Pull requests  ](/crewAIInc/crewAI/pulls)
+  * [ Discussions  ](/crewAIInc/crewAI/discussions)
+  * [ Actions  ](/crewAIInc/crewAI/actions)
+  * [ Projects  ](/crewAIInc/crewAI/projects)
+  * [ Security  ](/crewAIInc/crewAI/security)
+  * [ Insights  ](/crewAIInc/crewAI/pulse)
+
+
+
+# crewAIInc/crewAI
+
+main
+
+[**193** Branches](/crewAIInc/crewAI/branches)[**75** Tags](/crewAIInc/crewAI/tags)
+
+[](/crewAIInc/crewAI/branches)[](/crewAIInc/crewAI/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+[![bhancockio](https://avatars.githubusercontent.com/u/109994880?v=4&size=40)](/bhancockio)[bhancockio](/crewAIInc/crewAI/commits?author=bhancockio)[add docs for crewai chat (](/crewAIInc/crewAI/commit/a21e310d784beb23202cd5a61286846a1e41f436)[#1936](https://github.com/crewAIInc/crewAI/pull/1936)[)](/crewAIInc/crewAI/commit/a21e310d784beb23202cd5a61286846a1e41f436)Jan 21, 2025[a21e310](/crewAIInc/crewAI/commit/a21e310d784beb23202cd5a61286846a1e41f436) · Jan 21, 2025
+
+## History
+
+[1,106 Commits](/crewAIInc/crewAI/commits/main/)[](/crewAIInc/crewAI/commits/main/)  
+[.cache/plugin/social](/crewAIInc/crewAI/tree/main/.cache/plugin/social "This path skips through empty directories")| [.cache/plugin/social](/crewAIInc/crewAI/tree/main/.cache/plugin/social "This path skips through empty directories")| [adding manager_llm](/crewAIInc/crewAI/commit/09bec0e28b5e0a7c16e0691fc256794d02a29360 "adding manager_llm")| Feb 6, 2024  
+[.github](/crewAIInc/crewAI/tree/main/.github ".github")| [.github](/crewAIInc/crewAI/tree/main/.github ".github")| [Feature/add workflow permissions (](/crewAIInc/crewAI/commit/9702711094808e2534499794dbcb85fb12b955fb "Feature/add workflow permissions \(#1749\)
+* fix: Call ChromaDB reset before removing storage directory to fix disk I/O errors
+* feat: add workflow permissions to stale.yml
+* revert rag_storage.py changes
+* revert rag_storage.py changes
+---------
+Co-authored-by: Matt B <mattb@Matts-MacBook-Pro.local>
+Co-authored-by: Brandon Hancock \(bhancock_ai\) <109994880+bhancockio@users.noreply.github.com>")[#1749](https://github.com/crewAIInc/crewAI/pull/1749)[)](/crewAIInc/crewAI/commit/9702711094808e2534499794dbcb85fb12b955fb "Feature/add workflow permissions \(#1749\)
+* fix: Call ChromaDB reset before removing storage directory to fix disk I/O errors
+* feat: add workflow permissions to stale.yml
+* revert rag_storage.py changes
+* revert rag_storage.py changes
+---------
+Co-authored-by: Matt B <mattb@Matts-MacBook-Pro.local>
+Co-authored-by: Brandon Hancock \(bhancock_ai\) <109994880+bhancockio@users.noreply.github.com>")| Dec 12, 2024  
+[docs](/crewAIInc/crewAI/tree/main/docs "docs")| [docs](/crewAIInc/crewAI/tree/main/docs "docs")| [add docs for crewai chat (](/crewAIInc/crewAI/commit/a21e310d784beb23202cd5a61286846a1e41f436 "add docs for crewai chat \(#1936\)
+* add docs for crewai chat
+* add version number")[#1936](https://github.com/crewAIInc/crewAI/pull/1936)[)](/crewAIInc/crewAI/commit/a21e310d784beb23202cd5a61286846a1e41f436 "add docs for crewai chat \(#1936\)
+* add docs for crewai chat
+* add version number")| Jan 21, 2025  
+[src/crewai](/crewAIInc/crewAI/tree/main/src/crewai "This path skips through empty directories")| [src/crewai](/crewAIInc/crewAI/tree/main/src/crewai "This path skips through empty directories")| [add docs for crewai chat (](/crewAIInc/crewAI/commit/a21e310d784beb23202cd5a61286846a1e41f436 "add docs for crewai chat \(#1936\)
+* add docs for crewai chat
+* add version number")[#1936](https://github.com/crewAIInc/crewAI/pull/1936)[)](/crewAIInc/crewAI/commit/a21e310d784beb23202cd5a61286846a1e41f436 "add docs for crewai chat \(#1936\)
+* add docs for crewai chat
+* add version number")| Jan 21, 2025  
+[tests](/crewAIInc/crewAI/tree/main/tests "tests")| [tests](/crewAIInc/crewAI/tree/main/tests "tests")| [Stateful flows (](/crewAIInc/crewAI/commit/ab2274caf079014a3e6771fcdb37a0b14de29868 "Stateful flows \(#1931\)
+* fix: ensure persisted state overrides class defaults
+- Remove early return in Flow.__init__ to allow proper state initialization
+- Add test_flow_default_override.py to verify state override behavior
+- Fix issue where default values weren't being overridden by persisted state
+Fixes the issue where persisted state values weren't properly overriding
+class defaults when restarting a flow with a previously saved state ID.
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* test: improve state restoration verification with has_set_count flag
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* test: add has_set_count field to PoemState
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* refactoring test
+* fix: ensure persisted state overrides class defaults
+- Remove early return in Flow.__init__ to allow proper state initialization
+- Add test_flow_default_override.py to verify state override behavior
+- Fix issue where default values weren't being overridden by persisted state
+Fixes the issue where persisted state values weren't properly overriding
+class defaults when restarting a flow with a previously saved state ID.
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* test: improve state restoration verification with has_set_count flag
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* test: add has_set_count field to PoemState
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* refactoring test
+* Fixing flow state
+* fixing peristed stateful flows
+* linter
+* type fix
+---------
+Co-authored-by: Devin AI <158243242+devin-ai-integration\[bot\]@users.noreply.github.com>
+Co-authored-by: Joe Moura <joao@crewai.com>")[#1931](https://github.com/crewAIInc/crewAI/pull/1931)[)](/crewAIInc/crewAI/commit/ab2274caf079014a3e6771fcdb37a0b14de29868 "Stateful flows \(#1931\)
+* fix: ensure persisted state overrides class defaults
+- Remove early return in Flow.__init__ to allow proper state initialization
+- Add test_flow_default_override.py to verify state override behavior
+- Fix issue where default values weren't being overridden by persisted state
+Fixes the issue where persisted state values weren't properly overriding
+class defaults when restarting a flow with a previously saved state ID.
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* test: improve state restoration verification with has_set_count flag
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* test: add has_set_count field to PoemState
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* refactoring test
+* fix: ensure persisted state overrides class defaults
+- Remove early return in Flow.__init__ to allow proper state initialization
+- Add test_flow_default_override.py to verify state override behavior
+- Fix issue where default values weren't being overridden by persisted state
+Fixes the issue where persisted state values weren't properly overriding
+class defaults when restarting a flow with a previously saved state ID.
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* test: improve state restoration verification with has_set_count flag
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* test: add has_set_count field to PoemState
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* refactoring test
+* Fixing flow state
+* fixing peristed stateful flows
+* linter
+* type fix
+---------
+Co-authored-by: Devin AI <158243242+devin-ai-integration\[bot\]@users.noreply.github.com>
+Co-authored-by: Joe Moura <joao@crewai.com>")| Jan 20, 2025  
+[.editorconfig](/crewAIInc/crewAI/blob/main/.editorconfig ".editorconfig")| [.editorconfig](/crewAIInc/crewAI/blob/main/.editorconfig ".editorconfig")| [adding editor config](/crewAIInc/crewAI/commit/c95eed3fe0ce7a8486e38779d4b972e3ed39c9d4 "adding editor config")| Apr 1, 2024  
+[.gitignore](/crewAIInc/crewAI/blob/main/.gitignore ".gitignore")| [.gitignore](/crewAIInc/crewAI/blob/main/.gitignore ".gitignore")| [preparing new version](/crewAIInc/crewAI/commit/d1e2430aac476aa162c5b67bcc1350f8d7474ac1 "preparing new version")| Jan 3, 2025  
+[.pre-commit-config.yaml](/crewAIInc/crewAI/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/crewAIInc/crewAI/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [sort imports with isort rules by ruff linter (](/crewAIInc/crewAI/commit/0b0f2d30ab072abced49de838d9a4be3065edb62 "sort imports with isort rules by ruff linter \(#1730\)
+* sort imports
+* update
+---------
+Co-authored-by: Brandon Hancock \(bhancock_ai\) <109994880+bhancockio@users.noreply.github.com>
+Co-authored-by: Eduardo Chiarotti <dudumelgaco@hotmail.com>")[#1730](https://github.com/crewAIInc/crewAI/pull/1730)[)](/crewAIInc/crewAI/commit/0b0f2d30ab072abced49de838d9a4be3065edb62 "sort imports with isort rules by ruff linter \(#1730\)
+* sort imports
+* update
+---------
+Co-authored-by: Brandon Hancock \(bhancock_ai\) <109994880+bhancockio@users.noreply.github.com>
+Co-authored-by: Eduardo Chiarotti <dudumelgaco@hotmail.com>")| Dec 11, 2024  
+[.ruff.toml](/crewAIInc/crewAI/blob/main/.ruff.toml ".ruff.toml")| [.ruff.toml](/crewAIInc/crewAI/blob/main/.ruff.toml ".ruff.toml")| [sort imports with isort rules by ruff linter (](/crewAIInc/crewAI/commit/0b0f2d30ab072abced49de838d9a4be3065edb62 "sort imports with isort rules by ruff linter \(#1730\)
+* sort imports
+* update
+---------
+Co-authored-by: Brandon Hancock \(bhancock_ai\) <109994880+bhancockio@users.noreply.github.com>
+Co-authored-by: Eduardo Chiarotti <dudumelgaco@hotmail.com>")[#1730](https://github.com/crewAIInc/crewAI/pull/1730)[)](/crewAIInc/crewAI/commit/0b0f2d30ab072abced49de838d9a4be3065edb62 "sort imports with isort rules by ruff linter \(#1730\)
+* sort imports
+* update
+---------
+Co-authored-by: Brandon Hancock \(bhancock_ai\) <109994880+bhancockio@users.noreply.github.com>
+Co-authored-by: Eduardo Chiarotti <dudumelgaco@hotmail.com>")| Dec 11, 2024  
+[LICENSE](/crewAIInc/crewAI/blob/main/LICENSE "LICENSE")| [LICENSE](/crewAIInc/crewAI/blob/main/LICENSE "LICENSE")| [Updating Readme](/crewAIInc/crewAI/commit/682d87e93ec9f3ae7a111d74bf840250804ddf27 "Updating Readme")| Nov 14, 2023  
+[README.md](/crewAIInc/crewAI/blob/main/README.md "README.md")| [README.md](/crewAIInc/crewAI/blob/main/README.md "README.md")| [fix: add tiktoken as explicit dependency and document Rust requirement (](/crewAIInc/crewAI/commit/ba0965ef874eee958b8cb4cc091f23416ba3c9fb "fix: add tiktoken as explicit dependency and document Rust requirement \(#1826\)
+* feat: add tiktoken as explicit dependency and document Rust requirement
+- Add tiktoken>=0.8.0 as explicit dependency to ensure pre-built wheels are used
+- Document Rust compiler requirement as fallback in README.md
+- Addresses issue #1824 tiktoken build failure
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* fix: adjust tiktoken version to ~=0.7.0 for dependency compatibility
+- Update tiktoken dependency to ~=0.7.0 to resolve conflict with embedchain
+- Maintain compatibility with crewai-tools dependency chain
+- Addresses CI build failures
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* docs: add troubleshooting section and make tiktoken optional
+Co-Authored-By: Joe Moura <joao@crewai.com>
+* Update README.md
+---------
+Co-authored-by: Devin AI <158243242+devin-ai-integration\[bot\]@users.noreply.github.com>
+Co-authored-by: Joe Moura <joao@crewai.com>
+Co-authored-by: João Moura <joaomdmoura@gmail.com>")| Dec 30, 2024  
+[crewAI.excalidraw](/crewAIInc/crewAI/blob/main/crewAI.excalidraw "crewAI.excalidraw")| [crewAI.excalidraw](/crewAIInc/crewAI/blob/main/crewAI.excalidraw "crewAI.excalidraw")| [Changed "Inert" to "Innate"](/crewAIInc/crewAI/commit/39deac2747c538fbe1f5393ac1a5f6d8e0b09765 "Changed "Inert" to "Innate" #470 \(#490\)") [#470](https://github.com/crewAIInc/crewAI/issues/470) [(](/crewAIInc/crewAI/commit/39deac2747c538fbe1f5393ac1a5f6d8e0b09765 "Changed "Inert" to "Innate" #470 \(#490\)")[#490](https://github.com/crewAIInc/crewAI/pull/490)[)](/crewAIInc/crewAI/commit/39deac2747c538fbe1f5393ac1a5f6d8e0b09765 "Changed "Inert" to "Innate" #470 \(#490\)")| May 2, 2024  
+[mkdocs.yml](/crewAIInc/crewAI/blob/main/mkdocs.yml "mkdocs.yml")| [mkdocs.yml](/crewAIInc/crewAI/blob/main/mkdocs.yml "mkdocs.yml")| [remove all references to pipeline and pipeline router (](/crewAIInc/crewAI/commit/bbea797b0cdff5c30821ab877aaa30162d69523e "remove all references to pipeline and pipeline router \(#1661\)
+* remove all references to pipeline and router
+* fix linting
+* drop poetry.lock")[#1661](https://github.com/crewAIInc/crewAI/pull/1661)[)](/crewAIInc/crewAI/commit/bbea797b0cdff5c30821ab877aaa30162d69523e "remove all references to pipeline and pipeline router \(#1661\)
+* remove all references to pipeline and router
+* fix linting
+* drop poetry.lock")| Dec 4, 2024  
+[pyproject.toml](/crewAIInc/crewAI/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/crewAIInc/crewAI/blob/main/pyproject.toml "pyproject.toml")| [updating tools version](/crewAIInc/crewAI/commit/cc018bf1287d8325b1566951d52de49c8ec73882 "updating tools version")| Jan 19, 2025  
+[uv.lock](/crewAIInc/crewAI/blob/main/uv.lock "uv.lock")| [uv.lock](/crewAIInc/crewAI/blob/main/uv.lock "uv.lock")| [updating tools version](/crewAIInc/crewAI/commit/cc018bf1287d8325b1566951d52de49c8ec73882 "updating tools version")| Jan 19, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+[![Logo of CrewAI, two people rowing on a boat](/crewAIInc/crewAI/raw/main/docs/crewai_logo.png)](/crewAIInc/crewAI/blob/main/docs/crewai_logo.png)
+
+# **CrewAI**
+
+[](#crewai)
+
+🤖 **CrewAI** : Production-grade framework for orchestrating sophisticated AI agent systems. From simple automations to complex real-world applications, CrewAI provides precise control and deep customization. By fostering collaborative intelligence through flexible, production-ready architecture, CrewAI empowers agents to work together seamlessly, tackling complex business challenges with predictable, consistent results.
+
+[Homepage](https://www.crewai.com/) | [Documentation](https://docs.crewai.com/) | [Chat with Docs](https://chatg.pt/DWjSBZn) | [Examples](https://github.com/crewAIInc/crewAI-examples) | [Discourse](https://community.crewai.com)
+
+[](#homepage--documentation--chat-with-docs--examples--discourse)
+
+[![GitHub Repo stars](https://camo.githubusercontent.com/ead7de14b8a5a2e0fcf9a435b40076799722ade121981a85605be68953e7e773/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6a6f616f6d646d6f7572612f637265774149)](https://github.com/crewAIInc/crewAI) [![License: MIT](https://camo.githubusercontent.com/28f4d479bf0a9b033b3a3b95ab2adc343da448a025b01aefdc0fbc7f0e169eb8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667)](https://opensource.org/licenses/MIT)
+
+## Table of contents
+
+[](#table-of-contents)
+
+  * [Why CrewAI?](#why-crewai)
+  * [Getting Started](#getting-started)
+  * [Key Features](#key-features)
+  * [Understanding Flows and Crews](#understanding-flows-and-crews)
+  * [CrewAI vs LangGraph](#how-crewai-compares)
+  * [Examples](#examples)
+    * [Quick Tutorial](#quick-tutorial)
+    * [Write Job Descriptions](#write-job-descriptions)
+    * [Trip Planner](#trip-planner)
+    * [Stock Analysis](#stock-analysis)
+    * [Using Crews and Flows Together](#using-crews-and-flows-together)
+  * [Connecting Your Crew to a Model](#connecting-your-crew-to-a-model)
+  * [How CrewAI Compares](#how-crewai-compares)
+  * [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+  * [Contribution](#contribution)
+  * [Telemetry](#telemetry)
+  * [License](#license)
+
+
+
+## Why CrewAI?
+
+[](#why-crewai)
+
+The power of AI collaboration has too much to offer. CrewAI is a standalone framework, built from the ground up without dependencies on Langchain or other agent frameworks. It's designed to enable AI agents to assume roles, share goals, and operate in a cohesive unit - much like a well-oiled crew. Whether you're building a smart assistant platform, an automated customer service ensemble, or a multi-agent research team, CrewAI provides the backbone for sophisticated multi-agent interactions.
+
+## Getting Started
+
+[](#getting-started)
+
+### Learning Resources
+
+[](#learning-resources)
+
+Learn CrewAI through our comprehensive courses:
+
+  * [Multi AI Agent Systems with CrewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) - Master the fundamentals of multi-agent systems
+  * [Practical Multi AI Agents and Advanced Use Cases](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/) - Deep dive into advanced implementations
+
+
+
+### Understanding Flows and Crews
+
+[](#understanding-flows-and-crews)
+
+CrewAI offers two powerful, complementary approaches that work seamlessly together to build sophisticated AI applications:
+
+  1. **Crews** : Teams of AI agents with true autonomy and agency, working together to accomplish complex tasks through role-based collaboration. Crews enable:
+
+     * Natural, autonomous decision-making between agents
+     * Dynamic task delegation and collaboration
+     * Specialized roles with defined goals and expertise
+     * Flexible problem-solving approaches
+  2. **Flows** : Production-ready, event-driven workflows that deliver precise control over complex automations. Flows provide:
+
+     * Fine-grained control over execution paths for real-world scenarios
+     * Secure, consistent state management between tasks
+     * Clean integration of AI agents with production Python code
+     * Conditional branching for complex business logic
+
+
+
+The true power of CrewAI emerges when combining Crews and Flows. This synergy allows you to:
+
+  * Build complex, production-grade applications
+  * Balance autonomy with precise control
+  * Handle sophisticated real-world scenarios
+  * Maintain clean, maintainable code structure
+
+
+
+### Getting Started with Installation
+
+[](#getting-started-with-installation)
+
+To get started with CrewAI, follow these simple steps:
+
+### 1. Installation
+
+[](#1-installation)
+
+Ensure you have Python >=3.10 <3.13 installed on your system. CrewAI uses [UV](https://docs.astral.sh/uv/) for dependency management and package handling, offering a seamless setup and execution experience.
+
+First, install CrewAI:
+
+```
+pip install crewai
+```
+
+If you want to install the 'crewai' package along with its optional features that include additional tools for agents, you can do so by using the following command:
+
+```
+pip install 'crewai[tools]'
+```
+
+The command above installs the basic package and also adds extra components which require more dependencies to function.
+
+### Troubleshooting Dependencies
+
+[](#troubleshooting-dependencies)
+
+If you encounter issues during installation or usage, here are some common solutions:
+
+#### Common Issues
+
+[](#common-issues)
+
+  1. **ModuleNotFoundError: No module named 'tiktoken'**
+
+     * Install tiktoken explicitly: `pip install 'crewai[embeddings]'`
+     * If using embedchain or other tools: `pip install 'crewai[tools]'`
+  2. **Failed building wheel for tiktoken**
+
+     * Ensure Rust compiler is installed (see installation steps above)
+     * For Windows: Verify Visual C++ Build Tools are installed
+     * Try upgrading pip: `pip install --upgrade pip`
+     * If issues persist, use a pre-built wheel: `pip install tiktoken --prefer-binary`
+
+
+
+### 2. Setting Up Your Crew with the YAML Configuration
+
+[](#2-setting-up-your-crew-with-the-yaml-configuration)
+
+To create a new CrewAI project, run the following CLI (Command Line Interface) command:
+
+```
+crewai create crew <project_name>
+```
+
+This command creates a new project folder with the following structure:
+
+```
+`my_project/ ├── .gitignore ├── pyproject.toml ├── README.md ├── .env └── src/ └── my_project/ ├── __init__.py ├── main.py ├── crew.py ├── tools/ │ ├── custom_tool.py │ └── __init__.py └── config/ ├── agents.yaml └── tasks.yaml `
+```
+
+You can now start developing your crew by editing the files in the `src/my_project` folder. The `main.py` file is the entry point of the project, the `crew.py` file is where you define your crew, the `agents.yaml` file is where you define your agents, and the `tasks.yaml` file is where you define your tasks.
+
+#### To customize your project, you can:
+
+[](#to-customize-your-project-you-can)
+
+  * Modify `src/my_project/config/agents.yaml` to define your agents.
+  * Modify `src/my_project/config/tasks.yaml` to define your tasks.
+  * Modify `src/my_project/crew.py` to add your own logic, tools, and specific arguments.
+  * Modify `src/my_project/main.py` to add custom inputs for your agents and tasks.
+  * Add your environment variables into the `.env` file.
+
+
+
+#### Example of a simple crew with a sequential process:
+
+[](#example-of-a-simple-crew-with-a-sequential-process)
+
+Instantiate your crew:
+
+```
+crewai create crew latest-ai-development
+```
+
+Modify the files as needed to fit your use case:
+
+**agents.yaml**
+
+```
+# src/my_project/config/agents.yaml researcher: role: > {topic} Senior Data Researcher goal: > Uncover cutting-edge developments in {topic} backstory: > You're a seasoned researcher with a knack for uncovering the latest developments in {topic}. Known for your ability to find the most relevant information and present it in a clear and concise manner. reporting_analyst: role: > {topic} Reporting Analyst goal: > Create detailed reports based on {topic} data analysis and research findings backstory: > You're a meticulous analyst with a keen eye for detail. You're known for your ability to turn complex data into clear and concise reports, making it easy for others to understand and act on the information you provide.
+```
+
+**tasks.yaml**
+
+```
+# src/my_project/config/tasks.yaml research_task: description: > Conduct a thorough research about {topic} Make sure you find any interesting and relevant information given the current year is 2024. expected_output: > A list with 10 bullet points of the most relevant information about {topic} agent: researcher reporting_task: description: > Review the context you got and expand each topic into a full section for a report. Make sure the report is detailed and contains any and all relevant information. expected_output: > A fully fledge reports with the mains topics, each with a full section of information. Formatted as markdown without '```' agent: reporting_analyst output_file: report.md
+```
+
+**crew.py**
+
+```
+# src/my_project/crew.py from crewai import Agent, Crew, Process, Task from crewai.project import CrewBase, agent, crew, task from crewai_tools import SerperDevTool @CrewBase class LatestAiDevelopmentCrew(): """LatestAiDevelopment crew""" @agent def researcher(self) -> Agent: return Agent( config=self.agents_config['researcher'], verbose=True, tools=[SerperDevTool()] ) @agent def reporting_analyst(self) -> Agent: return Agent( config=self.agents_config['reporting_analyst'], verbose=True ) @task def research_task(self) -> Task: return Task( config=self.tasks_config['research_task'], ) @task def reporting_task(self) -> Task: return Task( config=self.tasks_config['reporting_task'], output_file='report.md' ) @crew def crew(self) -> Crew: """Creates the LatestAiDevelopment crew""" return Crew( agents=self.agents, # Automatically created by the @agent decorator tasks=self.tasks, # Automatically created by the @task decorator process=Process.sequential, verbose=True, )
+```
+
+**main.py**
+
+```
+#!/usr/bin/env python # src/my_project/main.py import sys from latest_ai_development.crew import LatestAiDevelopmentCrew def run(): """ Run the crew. """ inputs = { 'topic': 'AI Agents' } LatestAiDevelopmentCrew().crew().kickoff(inputs=inputs)
+```
+
+### 3. Running Your Crew
+
+[](#3-running-your-crew)
+
+Before running your crew, make sure you have the following keys set as environment variables in your `.env` file:
+
+  * An [OpenAI API key](https://platform.openai.com/account/api-keys) (or other LLM API key): `OPENAI_API_KEY=sk-...`
+  * A [Serper.dev](https://serper.dev/) API key: `SERPER_API_KEY=YOUR_KEY_HERE`
+
+
+
+Lock the dependencies and install them by using the CLI command but first, navigate to your project directory:
+
+```
+cd my_project crewai install (Optional)
+```
+
+To run your crew, execute the following command in the root of your project:
+
+```
+crewai run
+```
+
+or
+
+```
+python src/my_project/main.py
+```
+
+If an error happens due to the usage of poetry, please run the following command to update your crewai package:
+
+```
+crewai update
+```
+
+You should see the output in the console and the `report.md` file should be created in the root of your project with the full final report.
+
+In addition to the sequential process, you can use the hierarchical process, which automatically assigns a manager to the defined crew to properly coordinate the planning and execution of tasks through delegation and validation of results. [See more about the processes here](https://docs.crewai.com/core-concepts/Processes/).
+
+## Key Features
+
+[](#key-features)
+
+**Note** : CrewAI is a standalone framework built from the ground up, without dependencies on Langchain or other agent frameworks.
+
+  * **Deep Customization** : Build sophisticated agents with full control over the system - from overriding inner prompts to accessing low-level APIs. Customize roles, goals, tools, and behaviors while maintaining clean abstractions.
+  * **Autonomous Inter-Agent Delegation** : Agents can autonomously delegate tasks and inquire amongst themselves, enabling complex problem-solving in real-world scenarios.
+  * **Flexible Task Management** : Define and customize tasks with granular control, from simple operations to complex multi-step processes.
+  * **Production-Grade Architecture** : Support for both high-level abstractions and low-level customization, with robust error handling and state management.
+  * **Predictable Results** : Ensure consistent, accurate outputs through programmatic guardrails, agent training capabilities, and flow-based execution control. See our [documentation on guardrails](https://docs.crewai.com/how-to/guardrails/) for implementation details.
+  * **Model Flexibility** : Run your crew using OpenAI or open source models with production-ready integrations. See [Connect CrewAI to LLMs](https://docs.crewai.com/how-to/LLM-Connections/) for detailed configuration options.
+  * **Event-Driven Flows** : Build complex, real-world workflows with precise control over execution paths, state management, and conditional logic.
+  * **Process Orchestration** : Achieve any workflow pattern through flows - from simple sequential and hierarchical processes to complex, custom orchestration patterns with conditional branching and parallel execution.
+
+
+
+[![CrewAI Mind Map](/crewAIInc/crewAI/raw/main/docs/crewAI-mindmap.png)](/crewAIInc/crewAI/blob/main/docs/crewAI-mindmap.png)
+
+## Examples
+
+[](#examples)
+
+You can test different real life examples of AI crews in the [CrewAI-examples repo](https://github.com/crewAIInc/crewAI-examples?tab=readme-ov-file):
+
+  * [Landing Page Generator](https://github.com/crewAIInc/crewAI-examples/tree/main/landing_page_generator)
+  * [Having Human input on the execution](https://docs.crewai.com/how-to/Human-Input-on-Execution)
+  * [Trip Planner](https://github.com/crewAIInc/crewAI-examples/tree/main/trip_planner)
+  * [Stock Analysis](https://github.com/crewAIInc/crewAI-examples/tree/main/stock_analysis)
+
+
+
+### Quick Tutorial
+
+[](#quick-tutorial)
+
+[![CrewAI Tutorial](https://camo.githubusercontent.com/abfd5573f1ee34a73581a46e11c1f18ae641a748a353f0aae0c0fc63cb858cc0/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f746e656a72722d306139342f6d617872657364656661756c742e6a7067)](https://www.youtube.com/watch?v=tnejrr-0a94 "CrewAI Tutorial")
+
+### Write Job Descriptions
+
+[](#write-job-descriptions)
+
+[Check out code for this example](https://github.com/crewAIInc/crewAI-examples/tree/main/job-posting) or watch a video below:
+
+[![Jobs postings](https://camo.githubusercontent.com/7d96688eed9342a1e2dae4ce154cd619e3c86f36668c28c90b6bd763c1a67be7/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f75393877454d7a2d39746f2f6d617872657364656661756c742e6a7067)](https://www.youtube.com/watch?v=u98wEMz-9to "Jobs postings")
+
+### Trip Planner
+
+[](#trip-planner)
+
+[Check out code for this example](https://github.com/crewAIInc/crewAI-examples/tree/main/trip_planner) or watch a video below:
+
+[![Trip Planner](https://camo.githubusercontent.com/4b2beed56091679ef8a9847b3716868e3759c9b37d6498e0f25c059bce3a56c5/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f786973377257702d686a732f6d617872657364656661756c742e6a7067)](https://www.youtube.com/watch?v=xis7rWp-hjs "Trip Planner")
+
+### Stock Analysis
+
+[](#stock-analysis)
+
+[Check out code for this example](https://github.com/crewAIInc/crewAI-examples/tree/main/stock_analysis) or watch a video below:
+
+[![Stock Analysis](https://camo.githubusercontent.com/64052dc9a50661bfbc0e8844559ca82ea63cf1e2c095602c1bd09502db081652/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f6530556a347957646141672f6d617872657364656661756c742e6a7067)](https://www.youtube.com/watch?v=e0Uj4yWdaAg "Stock Analysis")
+
+### Using Crews and Flows Together
+
+[](#using-crews-and-flows-together)
+
+CrewAI's power truly shines when combining Crews with Flows to create sophisticated automation pipelines. Here's how you can orchestrate multiple Crews within a Flow:
+
+```
+from crewai.flow.flow import Flow, listen, start, router from crewai import Crew, Agent, Task from pydantic import BaseModel # Define structured state for precise control class MarketState(BaseModel): sentiment: str = "neutral" confidence: float = 0.0 recommendations: list = [] class AdvancedAnalysisFlow(Flow[MarketState]): @start() def fetch_market_data(self): # Demonstrate low-level control with structured state self.state.sentiment = "analyzing" return {"sector": "tech", "timeframe": "1W"} # These parameters match the task description template @listen(fetch_market_data) def analyze_with_crew(self, market_data): # Show crew agency through specialized roles analyst = Agent( role="Senior Market Analyst", goal="Conduct deep market analysis with expert insight", backstory="You're a veteran analyst known for identifying subtle market patterns" ) researcher = Agent( role="Data Researcher", goal="Gather and validate supporting market data", backstory="You excel at finding and correlating multiple data sources" ) analysis_task = Task( description="Analyze {sector} sector data for the past {timeframe}", expected_output="Detailed market analysis with confidence score", agent=analyst ) research_task = Task( description="Find supporting data to validate the analysis", expected_output="Corroborating evidence and potential contradictions", agent=researcher ) # Demonstrate crew autonomy analysis_crew = Crew( agents=[analyst, researcher], tasks=[analysis_task, research_task], process=Process.sequential, verbose=True ) return analysis_crew.kickoff(inputs=market_data) # Pass market_data as named inputs @router(analyze_with_crew) def determine_next_steps(self): # Show flow control with conditional routing if self.state.confidence > 0.8: return "high_confidence" elif self.state.confidence > 0.5: return "medium_confidence" return "low_confidence" @listen("high_confidence") def execute_strategy(self): # Demonstrate complex decision making strategy_crew = Crew( agents=[ Agent(role="Strategy Expert", goal="Develop optimal market strategy") ], tasks=[ Task(description="Create detailed strategy based on analysis", expected_output="Step-by-step action plan") ] ) return strategy_crew.kickoff() @listen("medium_confidence", "low_confidence") def request_additional_analysis(self): self.state.recommendations.append("Gather more data") return "Additional analysis required"
+```
+
+This example demonstrates how to:
+
+  1. Use Python code for basic data operations
+  2. Create and execute Crews as steps in your workflow
+  3. Use Flow decorators to manage the sequence of operations
+  4. Implement conditional branching based on Crew results
+
+
+
+## Connecting Your Crew to a Model
+
+[](#connecting-your-crew-to-a-model)
+
+CrewAI supports using various LLMs through a variety of connection options. By default your agents will use the OpenAI API when querying the model. However, there are several other ways to allow your agents to connect to models. For example, you can configure your agents to use a local model via the Ollama tool.
+
+Please refer to the [Connect CrewAI to LLMs](https://docs.crewai.com/how-to/LLM-Connections/) page for details on configuring you agents' connections to models.
+
+## How CrewAI Compares
+
+[](#how-crewai-compares)
+
+**CrewAI's Advantage** : CrewAI combines autonomous agent intelligence with precise workflow control through its unique Crews and Flows architecture. The framework excels at both high-level orchestration and low-level customization, enabling complex, production-grade systems with granular control.
+
+  * **LangGraph** : While LangGraph provides a foundation for building agent workflows, its approach requires significant boilerplate code and complex state management patterns. The framework's tight coupling with LangChain can limit flexibility when implementing custom agent behaviors or integrating with external systems.
+
+
+
+_P.S. CrewAI demonstrates significant performance advantages over LangGraph, executing 5.76x faster in certain cases like this QA task example ([see comparison](https://github.com/crewAIInc/crewAI-examples/tree/main/Notebooks/CrewAI%20Flows%20%26%20Langgraph/QA%20Agent)) while achieving higher evaluation scores with faster completion times in certain coding tasks, like in this example ([detailed analysis](https://github.com/crewAIInc/crewAI-examples/blob/main/Notebooks/CrewAI%20Flows%20%26%20Langgraph/Coding%20Assistant/coding_assistant_eval.ipynb))._
+
+  * **Autogen** : While Autogen excels at creating conversational agents capable of working together, it lacks an inherent concept of process. In Autogen, orchestrating agents' interactions requires additional programming, which can become complex and cumbersome as the scale of tasks grows.
+
+  * **ChatDev** : ChatDev introduced the idea of processes into the realm of AI agents, but its implementation is quite rigid. Customizations in ChatDev are limited and not geared towards production environments, which can hinder scalability and flexibility in real-world applications.
+
+
+
+
+## Contribution
+
+[](#contribution)
+
+CrewAI is open-source and we welcome contributions. If you're looking to contribute, please:
+
+  * Fork the repository.
+  * Create a new branch for your feature.
+  * Add your feature or improvement.
+  * Send a pull request.
+  * We appreciate your input!
+
+
+
+### Installing Dependencies
+
+[](#installing-dependencies)
+
+```
+uv lock uv sync
+```
+
+### Virtual Env
+
+[](#virtual-env)
+
+```
+uv venv
+```
+
+### Pre-commit hooks
+
+[](#pre-commit-hooks)
+
+```
+pre-commit install
+```
+
+### Running Tests
+
+[](#running-tests)
+
+```
+uv run pytest .
+```
+
+### Running static type checks
+
+[](#running-static-type-checks)
+
+```
+uvx mypy src
+```
+
+### Packaging
+
+[](#packaging)
+
+```
+uv build
+```
+
+### Installing Locally
+
+[](#installing-locally)
+
+```
+pip install dist/*.tar.gz
+```
+
+## Telemetry
+
+[](#telemetry)
+
+CrewAI uses anonymous telemetry to collect usage data with the main purpose of helping us improve the library by focusing our efforts on the most used features, integrations and tools.
+
+It's pivotal to understand that **NO data is collected** concerning prompts, task descriptions, agents' backstories or goals, usage of tools, API calls, responses, any data processed by the agents, or secrets and environment variables, with the exception of the conditions mentioned. When the `share_crew` feature is enabled, detailed data including task descriptions, agents' backstories or goals, and other specific attributes are collected to provide deeper insights while respecting user privacy. Users can disable telemetry by setting the environment variable OTEL_SDK_DISABLED to true.
+
+Data collected includes:
+
+  * Version of CrewAI 
+    * So we can understand how many users are using the latest version
+  * Version of Python 
+    * So we can decide on what versions to better support
+  * General OS (e.g. number of CPUs, macOS/Windows/Linux) 
+    * So we know what OS we should focus on and if we could build specific OS related features
+  * Number of agents and tasks in a crew 
+    * So we make sure we are testing internally with similar use cases and educate people on the best practices
+  * Crew Process being used 
+    * Understand where we should focus our efforts
+  * If Agents are using memory or allowing delegation 
+    * Understand if we improved the features or maybe even drop them
+  * If Tasks are being executed in parallel or sequentially 
+    * Understand if we should focus more on parallel execution
+  * Language model being used 
+    * Improved support on most used languages
+  * Roles of agents in a crew 
+    * Understand high level use cases so we can build better tools, integrations and examples about it
+  * Tools names available 
+    * Understand out of the publicly available tools, which ones are being used the most so we can improve them
+
+
+
+Users can opt-in to Further Telemetry, sharing the complete telemetry data by setting the `share_crew` attribute to `True` on their Crews. Enabling `share_crew` results in the collection of detailed crew and task execution data, including `goal`, `backstory`, `context`, and `output` of tasks. This enables a deeper insight into usage patterns while respecting the user's choice to share.
+
+## License
+
+[](#license)
+
+CrewAI is released under the [MIT License](https://github.com/crewAIInc/crewAI/blob/main/LICENSE).
+
+## Frequently Asked Questions (FAQ)
+
+[](#frequently-asked-questions-faq)
+
+### Q: What is CrewAI?
+
+[](#q-what-is-crewai)
+
+A: CrewAI is a cutting-edge framework for orchestrating role-playing, autonomous AI agents. It enables agents to work together seamlessly, tackling complex tasks through collaborative intelligence.
+
+### Q: How do I install CrewAI?
+
+[](#q-how-do-i-install-crewai)
+
+A: You can install CrewAI using pip:
+
+```
+pip install crewai
+```
+
+For additional tools, use:
+
+```
+pip install 'crewai[tools]'
+```
+
+### Q: Can I use CrewAI with local models?
+
+[](#q-can-i-use-crewai-with-local-models)
+
+A: Yes, CrewAI supports various LLMs, including local models. You can configure your agents to use local models via tools like Ollama & LM Studio. Check the [LLM Connections documentation](https://docs.crewai.com/how-to/LLM-Connections/) for more details.
+
+### Q: What are the key features of CrewAI?
+
+[](#q-what-are-the-key-features-of-crewai)
+
+A: Key features include role-based agent design, autonomous inter-agent delegation, flexible task management, process-driven execution, output saving as files, and compatibility with both open-source and proprietary models.
+
+### Q: How does CrewAI compare to other AI orchestration tools?
+
+[](#q-how-does-crewai-compare-to-other-ai-orchestration-tools)
+
+A: CrewAI is designed with production in mind, offering flexibility similar to Autogen's conversational agents and structured processes like ChatDev, but with more adaptability for real-world applications.
+
+### Q: Is CrewAI open-source?
+
+[](#q-is-crewai-open-source)
+
+A: Yes, CrewAI is open-source and welcomes contributions from the community.
+
+### Q: Does CrewAI collect any data?
+
+[](#q-does-crewai-collect-any-data)
+
+A: CrewAI uses anonymous telemetry to collect usage data for improvement purposes. No sensitive data (like prompts, task descriptions, or API calls) is collected. Users can opt-in to share more detailed data by setting `share_crew=True` on their Crews.
+
+### Q: Where can I find examples of CrewAI in action?
+
+[](#q-where-can-i-find-examples-of-crewai-in-action)
+
+A: You can find various real-life examples in the [CrewAI-examples repository](https://github.com/crewAIInc/crewAI-examples), including trip planners, stock analysis tools, and more.
+
+### Q: What is the difference between Crews and Flows?
+
+[](#q-what-is-the-difference-between-crews-and-flows)
+
+A: Crews and Flows serve different but complementary purposes in CrewAI. Crews are teams of AI agents working together to accomplish specific tasks through role-based collaboration, delivering accurate and predictable results. Flows, on the other hand, are event-driven workflows that can orchestrate both Crews and regular Python code, allowing you to build complex automation pipelines with secure state management and conditional execution paths.
+
+### Q: How can I contribute to CrewAI?
+
+[](#q-how-can-i-contribute-to-crewai)
+
+A: Contributions are welcome! You can fork the repository, create a new branch for your feature, add your improvement, and send a pull request. Check the Contribution section in the README for more details.
+
+## About
+
+Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. 
+
+[crewai.com](https://crewai.com "https://crewai.com")
+
+### Topics
+
+[ ai ](/topics/ai "Topic: ai") [ agents ](/topics/agents "Topic: agents") [ ai-agents ](/topics/ai-agents "Topic: ai-agents") [ llms ](/topics/llms "Topic: llms")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/crewAIInc/crewAI/activity)
+
+[ Custom properties](/crewAIInc/crewAI/custom-properties)
+
+### Stars
+
+[ **25.2k** stars](/crewAIInc/crewAI/stargazers)
+
+### Watchers
+
+[ **259** watching](/crewAIInc/crewAI/watchers)
+
+### Forks
+
+[ **3.4k** forks](/crewAIInc/crewAI/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FcrewAIInc%2FcrewAI&report=crewAIInc+%28user%29)
+
+##  [Releases 74](/crewAIInc/crewAI/releases)
+
+[ 0.98.0 Latest  Jan 20, 2025 ](/crewAIInc/crewAI/releases/tag/0.98.0)
+
+[+ 73 releases](/crewAIInc/crewAI/releases)
+
+##  [Packages 0](/orgs/crewAIInc/packages?repo_name=crewAI)
+
+No packages published 
+
+##  [Used by 7.3k](/crewAIInc/crewAI/network/dependents)
+
+[
+
+  * ![@Tushar-CYL](https://avatars.githubusercontent.com/u/141545071?s=64&v=4)
+  * ![@spaceguy101](https://avatars.githubusercontent.com/u/9769767?s=64&v=4)
+  * ![@SanathThoughtclan](https://avatars.githubusercontent.com/u/175814652?s=64&v=4)
+  * ![@maricecil](https://avatars.githubusercontent.com/u/179934872?s=64&v=4)
+  * ![@Youngerjesus](https://avatars.githubusercontent.com/u/28587291?s=64&v=4)
+  * ![@ppadiya](https://avatars.githubusercontent.com/u/134351102?s=64&v=4)
+  * ![@LIJO20041997](https://avatars.githubusercontent.com/u/132869542?s=64&v=4)
+  * ![@uqam-lomagnin](https://avatars.githubusercontent.com/u/144286703?s=64&v=4)
+
++ 7,325  ](/crewAIInc/crewAI/network/dependents)
+
+##  [Contributors 196](/crewAIInc/crewAI/graphs/contributors)
+
+  * [ ![@joaomdmoura](https://avatars.githubusercontent.com/u/667063?s=64&v=4) ](https://github.com/joaomdmoura)
+  * [ ![@bhancockio](https://avatars.githubusercontent.com/u/109994880?s=64&v=4) ](https://github.com/bhancockio)
+  * [ ![@pythonbyte](https://avatars.githubusercontent.com/u/25188076?s=64&v=4) ](https://github.com/pythonbyte)
+  * [ ![@lorenzejay](https://avatars.githubusercontent.com/u/63378463?s=64&v=4) ](https://github.com/lorenzejay)
+  * [ ![@theCyberTech](https://avatars.githubusercontent.com/u/84775494?s=64&v=4) ](https://github.com/theCyberTech)
+  * [ ![@tonykipkemboi](https://avatars.githubusercontent.com/u/64493665?s=64&v=4) ](https://github.com/tonykipkemboi)
+  * [ ![@thiagomoretto](https://avatars.githubusercontent.com/u/168731?s=64&v=4) ](https://github.com/thiagomoretto)
+  * [ ![@gvieira](https://avatars.githubusercontent.com/u/856480?s=64&v=4) ](https://github.com/gvieira)
+  * [ ![@devin-ai-integration\[bot\]](https://avatars.githubusercontent.com/in/811515?s=64&v=4) ](https://github.com/apps/devin-ai-integration)
+  * [ ![@vinibrsl](https://avatars.githubusercontent.com/u/5093045?s=64&v=4) ](https://github.com/vinibrsl)
+  * [ ![@greysonlalonde](https://avatars.githubusercontent.com/u/77358368?s=64&v=4) ](https://github.com/greysonlalonde)
+  * [ ![@Astha0024](https://avatars.githubusercontent.com/u/29340953?s=64&v=4) ](https://github.com/Astha0024)
+  * [ ![@rumble773](https://avatars.githubusercontent.com/u/76521427?s=64&v=4) ](https://github.com/rumble773)
+  * [ ![@eltociear](https://avatars.githubusercontent.com/u/22633385?s=64&v=4) ](https://github.com/eltociear)
+
+
+
+[+ 182 contributors](/crewAIInc/crewAI/graphs/contributors)
+
+## Languages
+
+  * [ Python 99.8% ](/crewAIInc/crewAI/search?l=python)
+  * [ HTML 0.2% ](/crewAIInc/crewAI/search?l=html)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

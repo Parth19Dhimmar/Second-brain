@@ -1,0 +1,450 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fpydantic%2Fpydantic-ai%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fpydantic%2Fpydantic-ai%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=pydantic%2Fpydantic-ai) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ pydantic ](/pydantic) / **[pydantic-ai](/pydantic/pydantic-ai) ** Public
+
+  * [ Notifications ](/login?return_to=%2Fpydantic%2Fpydantic-ai) You must be signed in to change notification settings
+  * [ Fork 405 ](/login?return_to=%2Fpydantic%2Fpydantic-ai)
+  * [ Star  5.7k ](/login?return_to=%2Fpydantic%2Fpydantic-ai)
+
+
+
+
+Agent Framework / shim to use Pydantic with LLMs 
+
+[ai.pydantic.dev](https://ai.pydantic.dev "https://ai.pydantic.dev")
+
+### License
+
+[ MIT license ](/pydantic/pydantic-ai/blob/main/LICENSE)
+
+[ 5.7k stars ](/pydantic/pydantic-ai/stargazers) [ 405 forks ](/pydantic/pydantic-ai/forks) [ Branches ](/pydantic/pydantic-ai/branches) [ Tags ](/pydantic/pydantic-ai/tags) [ Activity ](/pydantic/pydantic-ai/activity)
+
+[ Star  ](/login?return_to=%2Fpydantic%2Fpydantic-ai)
+
+[ Notifications ](/login?return_to=%2Fpydantic%2Fpydantic-ai) You must be signed in to change notification settings
+
+  * [ Code ](/pydantic/pydantic-ai)
+  * [ Issues 86 ](/pydantic/pydantic-ai/issues)
+  * [ Pull requests 17 ](/pydantic/pydantic-ai/pulls)
+  * [ Actions ](/pydantic/pydantic-ai/actions)
+  * [ Security ](/pydantic/pydantic-ai/security)
+  * [ Insights ](/pydantic/pydantic-ai/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/pydantic/pydantic-ai)
+  * [ Issues  ](/pydantic/pydantic-ai/issues)
+  * [ Pull requests  ](/pydantic/pydantic-ai/pulls)
+  * [ Actions  ](/pydantic/pydantic-ai/actions)
+  * [ Security  ](/pydantic/pydantic-ai/security)
+  * [ Insights  ](/pydantic/pydantic-ai/pulse)
+
+
+
+# pydantic/pydantic-ai
+
+main
+
+[**23** Branches](/pydantic/pydantic-ai/branches)[**20** Tags](/pydantic/pydantic-ai/tags)
+
+[](/pydantic/pydantic-ai/branches)[](/pydantic/pydantic-ai/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+![sydney-runkle](https://avatars.githubusercontent.com/u/54324534?v=4&size=40)![dmontagu](https://avatars.githubusercontent.com/u/35119617?v=4&size=40)[sydney-runkle](/pydantic/pydantic-ai/commits?author=sydney-runkle)and[dmontagu](/pydantic/pydantic-ai/commits?author=dmontagu)[Add](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1) `[model_name](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1)` [to](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1) `[ModelResponse](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1)` [(](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1)[#701](https://github.com/pydantic/pydantic-ai/pull/701)[)](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1)Jan 21, 2025[e434af9](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1) · Jan 21, 2025
+
+## History
+
+[288 Commits](/pydantic/pydantic-ai/commits/main/)[](/pydantic/pydantic-ai/commits/main/)  
+[.github/workflows](/pydantic/pydantic-ai/tree/main/.github/workflows "This path skips through empty directories")| [.github/workflows](/pydantic/pydantic-ai/tree/main/.github/workflows "This path skips through empty directories")| [Graph Support (](/pydantic/pydantic-ai/commit/53fcb50fdec8693a6684c96c53cad96ecd31d2f5 "Graph Support \(#528\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>
+Co-authored-by: Israel Ekpo <44282278+izzyacademy@users.noreply.github.com>")[#528](https://github.com/pydantic/pydantic-ai/pull/528)[)](/pydantic/pydantic-ai/commit/53fcb50fdec8693a6684c96c53cad96ecd31d2f5 "Graph Support \(#528\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>
+Co-authored-by: Israel Ekpo <44282278+izzyacademy@users.noreply.github.com>")| Jan 15, 2025  
+[docs](/pydantic/pydantic-ai/tree/main/docs "docs")| [docs](/pydantic/pydantic-ai/tree/main/docs "docs")| [Add](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>") `[model_name](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")` [to](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>") `[ModelResponse](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")` [(](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")[#701](https://github.com/pydantic/pydantic-ai/pull/701)[)](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")| Jan 21, 2025  
+[examples](/pydantic/pydantic-ai/tree/main/examples "examples")| [examples](/pydantic/pydantic-ai/tree/main/examples "examples")| [Fixed Typo in Question Graph Sub Command (](/pydantic/pydantic-ai/commit/47250532cc61eddc997dc53ec44a305cf05d951b "Fixed Typo in Question Graph Sub Command \(#702\)")[#702](https://github.com/pydantic/pydantic-ai/pull/702)[)](/pydantic/pydantic-ai/commit/47250532cc61eddc997dc53ec44a305cf05d951b "Fixed Typo in Question Graph Sub Command \(#702\)")| Jan 16, 2025  
+[pydantic_ai_slim](/pydantic/pydantic-ai/tree/main/pydantic_ai_slim "pydantic_ai_slim")| [pydantic_ai_slim](/pydantic/pydantic-ai/tree/main/pydantic_ai_slim "pydantic_ai_slim")| [Add](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>") `[model_name](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")` [to](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>") `[ModelResponse](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")` [(](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")[#701](https://github.com/pydantic/pydantic-ai/pull/701)[)](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")| Jan 21, 2025  
+[pydantic_graph](/pydantic/pydantic-ai/tree/main/pydantic_graph "pydantic_graph")| [pydantic_graph](/pydantic/pydantic-ai/tree/main/pydantic_graph "pydantic_graph")| [uprev to v0.0.19 (](/pydantic/pydantic-ai/commit/a5dca23e0832bcf4abb578e01149dde210d31255 "uprev to v0.0.19 \(#696\)")[#696](https://github.com/pydantic/pydantic-ai/pull/696)[)](/pydantic/pydantic-ai/commit/a5dca23e0832bcf4abb578e01149dde210d31255 "uprev to v0.0.19 \(#696\)")| Jan 15, 2025  
+[tests](/pydantic/pydantic-ai/tree/main/tests "tests")| [tests](/pydantic/pydantic-ai/tree/main/tests "tests")| [Add](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>") `[model_name](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")` [to](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>") `[ModelResponse](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")` [(](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")[#701](https://github.com/pydantic/pydantic-ai/pull/701)[)](/pydantic/pydantic-ai/commit/e434af971e3a4deb6879bcdc6d6ad225af13b3f1 "Add `model_name` to `ModelResponse` \(#701\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")| Jan 21, 2025  
+[.gitignore](/pydantic/pydantic-ai/blob/main/.gitignore ".gitignore")| [.gitignore](/pydantic/pydantic-ai/blob/main/.gitignore ".gitignore")| [Graph Support (](/pydantic/pydantic-ai/commit/53fcb50fdec8693a6684c96c53cad96ecd31d2f5 "Graph Support \(#528\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>
+Co-authored-by: Israel Ekpo <44282278+izzyacademy@users.noreply.github.com>")[#528](https://github.com/pydantic/pydantic-ai/pull/528)[)](/pydantic/pydantic-ai/commit/53fcb50fdec8693a6684c96c53cad96ecd31d2f5 "Graph Support \(#528\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>
+Co-authored-by: Israel Ekpo <44282278+izzyacademy@users.noreply.github.com>")| Jan 15, 2025  
+[.pre-commit-config.yaml](/pydantic/pydantic-ai/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/pydantic/pydantic-ai/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [readme links (](/pydantic/pydantic-ai/commit/afb835b01e58ab1b602b84a4ae3eaf6150d60ddc "readme links \(#622\)")[#622](https://github.com/pydantic/pydantic-ai/pull/622)[)](/pydantic/pydantic-ai/commit/afb835b01e58ab1b602b84a4ae3eaf6150d60ddc "readme links \(#622\)")| Jan 7, 2025  
+[LICENSE](/pydantic/pydantic-ai/blob/main/LICENSE "LICENSE")| [LICENSE](/pydantic/pydantic-ai/blob/main/LICENSE "LICENSE")| [Documentation (](/pydantic/pydantic-ai/commit/234cde8250927e20733a3472a83639c63d98fb8c "Documentation \(#37\)")[#37](https://github.com/pydantic/pydantic-ai/pull/37)[)](/pydantic/pydantic-ai/commit/234cde8250927e20733a3472a83639c63d98fb8c "Documentation \(#37\)")| Nov 11, 2024  
+[Makefile](/pydantic/pydantic-ai/blob/main/Makefile "Makefile")| [Makefile](/pydantic/pydantic-ai/blob/main/Makefile "Makefile")| [Graph Support (](/pydantic/pydantic-ai/commit/53fcb50fdec8693a6684c96c53cad96ecd31d2f5 "Graph Support \(#528\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>
+Co-authored-by: Israel Ekpo <44282278+izzyacademy@users.noreply.github.com>")[#528](https://github.com/pydantic/pydantic-ai/pull/528)[)](/pydantic/pydantic-ai/commit/53fcb50fdec8693a6684c96c53cad96ecd31d2f5 "Graph Support \(#528\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>
+Co-authored-by: Israel Ekpo <44282278+izzyacademy@users.noreply.github.com>")| Jan 15, 2025  
+[README.md](/pydantic/pydantic-ai/blob/main/README.md "README.md")| [README.md](/pydantic/pydantic-ai/blob/main/README.md "README.md")| [uprev to v0.0.19 (](/pydantic/pydantic-ai/commit/a5dca23e0832bcf4abb578e01149dde210d31255 "uprev to v0.0.19 \(#696\)")[#696](https://github.com/pydantic/pydantic-ai/pull/696)[)](/pydantic/pydantic-ai/commit/a5dca23e0832bcf4abb578e01149dde210d31255 "uprev to v0.0.19 \(#696\)")| Jan 15, 2025  
+[mkdocs.insiders.yml](/pydantic/pydantic-ai/blob/main/mkdocs.insiders.yml "mkdocs.insiders.yml")| [mkdocs.insiders.yml](/pydantic/pydantic-ai/blob/main/mkdocs.insiders.yml "mkdocs.insiders.yml")| [fix icons? (](/pydantic/pydantic-ai/commit/247fcb6ac75391710db22769346a88fc934bd97e "fix icons? \(#549\)")[#549](https://github.com/pydantic/pydantic-ai/pull/549)[)](/pydantic/pydantic-ai/commit/247fcb6ac75391710db22769346a88fc934bd97e "fix icons? \(#549\)")| Dec 26, 2024  
+[mkdocs.yml](/pydantic/pydantic-ai/blob/main/mkdocs.yml "mkdocs.yml")| [mkdocs.yml](/pydantic/pydantic-ai/blob/main/mkdocs.yml "mkdocs.yml")| [Graph Support (](/pydantic/pydantic-ai/commit/53fcb50fdec8693a6684c96c53cad96ecd31d2f5 "Graph Support \(#528\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>
+Co-authored-by: Israel Ekpo <44282278+izzyacademy@users.noreply.github.com>")[#528](https://github.com/pydantic/pydantic-ai/pull/528)[)](/pydantic/pydantic-ai/commit/53fcb50fdec8693a6684c96c53cad96ecd31d2f5 "Graph Support \(#528\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>
+Co-authored-by: Israel Ekpo <44282278+izzyacademy@users.noreply.github.com>")| Jan 15, 2025  
+[pyproject.toml](/pydantic/pydantic-ai/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/pydantic/pydantic-ai/blob/main/pyproject.toml "pyproject.toml")| [Add support for Cohere models (](/pydantic/pydantic-ai/commit/331ea8d610513fb1ec60b06d56477400ac1b5b83 "Add support for Cohere models \(#203\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")[#203](https://github.com/pydantic/pydantic-ai/pull/203)[)](/pydantic/pydantic-ai/commit/331ea8d610513fb1ec60b06d56477400ac1b5b83 "Add support for Cohere models \(#203\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")| Jan 21, 2025  
+[requirements.txt](/pydantic/pydantic-ai/blob/main/requirements.txt "requirements.txt")| [requirements.txt](/pydantic/pydantic-ai/blob/main/requirements.txt "requirements.txt")| [Uv workspaces and](/pydantic/pydantic-ai/commit/0e0e0dc56ebdb98c52c9fc31f5844770b05bd812 "Uv workspaces and `pydantic-ai-slim` \(#92\)") `[pydantic-ai-slim](/pydantic/pydantic-ai/commit/0e0e0dc56ebdb98c52c9fc31f5844770b05bd812 "Uv workspaces and `pydantic-ai-slim` \(#92\)")` [(](/pydantic/pydantic-ai/commit/0e0e0dc56ebdb98c52c9fc31f5844770b05bd812 "Uv workspaces and `pydantic-ai-slim` \(#92\)")[#92](https://github.com/pydantic/pydantic-ai/pull/92)[)](/pydantic/pydantic-ai/commit/0e0e0dc56ebdb98c52c9fc31f5844770b05bd812 "Uv workspaces and `pydantic-ai-slim` \(#92\)")| Nov 25, 2024  
+[uprev.py](/pydantic/pydantic-ai/blob/main/uprev.py "uprev.py")| [uprev.py](/pydantic/pydantic-ai/blob/main/uprev.py "uprev.py")| [uprev to v0.0.19 (](/pydantic/pydantic-ai/commit/a5dca23e0832bcf4abb578e01149dde210d31255 "uprev to v0.0.19 \(#696\)")[#696](https://github.com/pydantic/pydantic-ai/pull/696)[)](/pydantic/pydantic-ai/commit/a5dca23e0832bcf4abb578e01149dde210d31255 "uprev to v0.0.19 \(#696\)")| Jan 15, 2025  
+[uv.lock](/pydantic/pydantic-ai/blob/main/uv.lock "uv.lock")| [uv.lock](/pydantic/pydantic-ai/blob/main/uv.lock "uv.lock")| [Add support for Cohere models (](/pydantic/pydantic-ai/commit/331ea8d610513fb1ec60b06d56477400ac1b5b83 "Add support for Cohere models \(#203\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")[#203](https://github.com/pydantic/pydantic-ai/pull/203)[)](/pydantic/pydantic-ai/commit/331ea8d610513fb1ec60b06d56477400ac1b5b83 "Add support for Cohere models \(#203\)
+Co-authored-by: David Montague <35119617+dmontagu@users.noreply.github.com>")| Jan 21, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [MIT license](#)
+  * [Security](#)
+
+
+
+[ ![PydanticAI](https://camo.githubusercontent.com/db41603111af0719466351bfdc749898ed80417ed58cc30f82077db1412e53bc/68747470733a2f2f61692e707964616e7469632e6465762f696d672f707964616e7469632d61692d6c696768742e737667) ](https://ai.pydantic.dev/)
+
+_Agent Framework / shim to use Pydantic with LLMs_
+
+[![CI](https://github.com/pydantic/pydantic-ai/actions/workflows/ci.yml/badge.svg?event=push)](https://github.com/pydantic/pydantic-ai/actions/workflows/ci.yml?query=branch%3Amain) [![Coverage](https://camo.githubusercontent.com/acc33e54b5246d93839e927d13b30f63ad7864b68cf6fad989a4a2cbc94bd940/68747470733a2f2f636f7665726167652d62616467652e73616d75656c636f6c76696e2e776f726b6572732e6465762f707964616e7469632f707964616e7469632d61692e737667)](https://coverage-badge.samuelcolvin.workers.dev/redirect/pydantic/pydantic-ai) [![PyPI](https://camo.githubusercontent.com/8a8ca88f5ae64dde56c77614f309d4acfd5f639503979f2f2625ce84834c2259/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f707964616e7469632d61692e737667)](https://pypi.python.org/pypi/pydantic-ai) [![versions](https://camo.githubusercontent.com/32551c3b884b9022480606ea6081e34b2d603e4736b6f7d23e9368d80d12bd92/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f707964616e7469632d61692e737667)](https://github.com/pydantic/pydantic-ai) [![license](https://camo.githubusercontent.com/93bd35d21ab2f1fe7513a278cc03aeb6c3c95fb99c1ce706f79a60ff4f4b0871/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f707964616e7469632f707964616e7469632d61692e7376673f76)](https://github.com/pydantic/pydantic-ai/blob/main/LICENSE)
+
+**Documentation** : [ai.pydantic.dev](https://ai.pydantic.dev/)
+
+PydanticAI is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
+
+FastAPI revolutionized web development by offering an innovative and ergonomic design, built on the foundation of [Pydantic](https://docs.pydantic.dev).
+
+Similarly, virtually every agent framework and LLM library in Python uses Pydantic, yet when we began to use LLMs in [Pydantic Logfire](https://pydantic.dev/logfire), we couldn't find anything that gave us the same feeling.
+
+We built PydanticAI with one simple aim: to bring that FastAPI feeling to GenAI app development.
+
+## Why use PydanticAI
+
+[](#why-use-pydanticai)
+
+  * **Built by the Pydantic Team** Built by the team behind [Pydantic](https://docs.pydantic.dev/latest/) (the validation layer of the OpenAI SDK, the Anthropic SDK, LangChain, LlamaIndex, AutoGPT, Transformers, CrewAI, Instructor and many more).
+
+  * **Model-agnostic** Supports OpenAI, Anthropic, Gemini, Ollama, Groq, and Mistral, and there is a simple interface to implement support for [other models](https://ai.pydantic.dev/models/).
+
+  * **Pydantic Logfire Integration** Seamlessly [integrates](https://ai.pydantic.dev/logfire/) with [Pydantic Logfire](https://pydantic.dev/logfire) for real-time debugging, performance monitoring, and behavior tracking of your LLM-powered applications.
+
+  * **Type-safe** Designed to make [type checking](https://ai.pydantic.dev/agents/#static-type-checking) as powerful and informative as possible for you.
+
+  * **Python-centric Design** Leverages Python's familiar control flow and agent composition to build your AI-driven projects, making it easy to apply standard Python best practices you'd use in any other (non-AI) project.
+
+  * **Structured Responses** Harnesses the power of [Pydantic](https://docs.pydantic.dev/latest/) to [validate and structure](https://ai.pydantic.dev/results/#structured-result-validation) model outputs, ensuring responses are consistent across runs.
+
+  * **Dependency Injection System** Offers an optional [dependency injection](https://ai.pydantic.dev/dependencies/) system to provide data and services to your agent's [system prompts](https://ai.pydantic.dev/agents/#system-prompts), [tools](https://ai.pydantic.dev/tools/) and [result validators](https://ai.pydantic.dev/results/#result-validators-functions). This is useful for testing and eval-driven iterative development.
+
+  * **Streamed Responses** Provides the ability to [stream](https://ai.pydantic.dev/results/#streamed-results) LLM outputs continuously, with immediate validation, ensuring rapid and accurate results.
+
+  * **Graph Support** [Pydantic Graph](https://ai.pydantic.dev/graph) provides a powerful way to define graphs using typing hints, this is useful in complex applications where standard control flow can degrade to spaghetti code.
+
+
+
+
+## In Beta!
+
+[](#in-beta)
+
+PydanticAI is in early beta, the API is still subject to change and there's a lot more to do. [Feedback](https://github.com/pydantic/pydantic-ai/issues) is very welcome!
+
+## Hello World Example
+
+[](#hello-world-example)
+
+Here's a minimal example of PydanticAI:
+
+```
+from pydantic_ai import Agent # Define a very simple agent including the model to use, you can also set the model when running the agent. agent = Agent( 'gemini-1.5-flash', # Register a static system prompt using a keyword argument to the agent. # For more complex dynamically-generated system prompts, see the example below. system_prompt='Be concise, reply with one sentence.', ) # Run the agent synchronously, conducting a conversation with the LLM. # Here the exchange should be very short: PydanticAI will send the system prompt and the user query to the LLM, # the model will return a text response. See below for a more complex run. result = agent.run_sync('Where does "hello world" come from?') print(result.data) """ The first known use of "hello, world" was in a 1974 textbook about the C programming language. """
+```
+
+_(This example is complete, it can be run "as is")_
+
+Not very interesting yet, but we can easily add "tools", dynamic system prompts, and structured responses to build more powerful agents.
+
+## Tools & Dependency Injection Example
+
+[](#tools--dependency-injection-example)
+
+Here is a concise example using PydanticAI to build a support agent for a bank:
+
+**(Better documented example[in the docs](https://ai.pydantic.dev/#tools-dependency-injection-example))**
+
+```
+from dataclasses import dataclass from pydantic import BaseModel, Field from pydantic_ai import Agent, RunContext from bank_database import DatabaseConn # SupportDependencies is used to pass data, connections, and logic into the model that will be needed when running # system prompt and tool functions. Dependency injection provides a type-safe way to customise the behavior of your agents. @dataclass class SupportDependencies: customer_id: int db: DatabaseConn # This pydantic model defines the structure of the result returned by the agent. class SupportResult(BaseModel): support_advice: str = Field(description='Advice returned to the customer') block_card: bool = Field(description="Whether to block the customer's card") risk: int = Field(description='Risk level of query', ge=0, le=10) # This agent will act as first-tier support in a bank. # Agents are generic in the type of dependencies they accept and the type of result they return. # In this case, the support agent has type `Agent[SupportDependencies, SupportResult]`. support_agent = Agent( 'openai:gpt-4o', deps_type=SupportDependencies, # The response from the agent will, be guaranteed to be a SupportResult, # if validation fails the agent is prompted to try again. result_type=SupportResult, system_prompt=( 'You are a support agent in our bank, give the ' 'customer support and judge the risk level of their query.' ), ) # Dynamic system prompts can make use of dependency injection. # Dependencies are carried via the `RunContext` argument, which is parameterized with the `deps_type` from above. # If the type annotation here is wrong, static type checkers will catch it. @support_agent.system_prompt async def add_customer_name(ctx: RunContext[SupportDependencies]) -> str: customer_name = await ctx.deps.db.customer_name(id=ctx.deps.customer_id) return f"The customer's name is {customer_name!r}" # `tool` let you register functions which the LLM may call while responding to a user. # Again, dependencies are carried via `RunContext`, any other arguments become the tool schema passed to the LLM. # Pydantic is used to validate these arguments, and errors are passed back to the LLM so it can retry. @support_agent.tool async def customer_balance( ctx: RunContext[SupportDependencies], include_pending: bool ) -> float: """Returns the customer's current account balance.""" # The docstring of a tool is also passed to the LLM as the description of the tool. # Parameter descriptions are extracted from the docstring and added to the parameter schema sent to the LLM. balance = await ctx.deps.db.customer_balance( id=ctx.deps.customer_id, include_pending=include_pending, ) return balance ... # In a real use case, you'd add more tools and a longer system prompt async def main(): deps = SupportDependencies(customer_id=123, db=DatabaseConn()) # Run the agent asynchronously, conducting a conversation with the LLM until a final response is reached. # Even in this fairly simple case, the agent will exchange multiple messages with the LLM as tools are called to retrieve a result. result = await support_agent.run('What is my balance?', deps=deps) # The result will be validated with Pydantic to guarantee it is a `SupportResult`, since the agent is generic, # it'll also be typed as a `SupportResult` to aid with static type checking. print(result.data) """ support_advice='Hello John, your current account balance, including pending transactions, is $123.45.' block_card=False risk=1 """ result = await support_agent.run('I just lost my card!', deps=deps) print(result.data) """ support_advice="I'm sorry to hear that, John. We are temporarily blocking your card to prevent unauthorized transactions." block_card=True risk=8 """
+```
+
+## Next Steps
+
+[](#next-steps)
+
+To try PydanticAI yourself, follow the instructions [in the examples](https://ai.pydantic.dev/examples/).
+
+Read the [docs](https://ai.pydantic.dev/agents/) to learn more about building applications with PydanticAI.
+
+Read the [API Reference](https://ai.pydantic.dev/api/agent/) to understand PydanticAI's interface.
+
+## About
+
+Agent Framework / shim to use Pydantic with LLMs 
+
+[ai.pydantic.dev](https://ai.pydantic.dev "https://ai.pydantic.dev")
+
+### Topics
+
+[ python ](/topics/python "Topic: python") [ pydantic ](/topics/pydantic "Topic: pydantic") [ agent-framework ](/topics/agent-framework "Topic: agent-framework") [ llms ](/topics/llms "Topic: llms")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Security policy
+
+[ Security policy ](#security-ov-file)
+
+[ Activity](/pydantic/pydantic-ai/activity)
+
+[ Custom properties](/pydantic/pydantic-ai/custom-properties)
+
+### Stars
+
+[ **5.7k** stars](/pydantic/pydantic-ai/stargazers)
+
+### Watchers
+
+[ **44** watching](/pydantic/pydantic-ai/watchers)
+
+### Forks
+
+[ **405** forks](/pydantic/pydantic-ai/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fpydantic%2Fpydantic-ai&report=pydantic+%28user%29)
+
+##  [Releases 20](/pydantic/pydantic-ai/releases)
+
+[ v0.0.19 2025-01-15 Latest  Jan 15, 2025 ](/pydantic/pydantic-ai/releases/tag/v0.0.19)
+
+[+ 19 releases](/pydantic/pydantic-ai/releases)
+
+##  [Used by 394](/pydantic/pydantic-ai/network/dependents)
+
+[
+
+  * ![@abdul-28930](https://avatars.githubusercontent.com/u/51827927?s=64&v=4)
+  * ![@nishantguvvada](https://avatars.githubusercontent.com/u/16853887?s=64&v=4)
+  * ![@Howard115](https://avatars.githubusercontent.com/u/125288922?s=64&v=4)
+  * ![@IyadSultan](https://avatars.githubusercontent.com/u/42122545?s=64&v=4)
+  * ![@AscendwithAsvin](https://avatars.githubusercontent.com/u/190306707?s=64&v=4)
+  * ![@Michaelzag](https://avatars.githubusercontent.com/u/4809030?s=64&v=4)
+  * ![@ViSU-Humanoid](https://avatars.githubusercontent.com/u/192978661?s=64&v=4)
+  * ![@PrefectHQ](https://avatars.githubusercontent.com/u/39270919?s=64&v=4)
+
++ 386  ](/pydantic/pydantic-ai/network/dependents)
+
+##  [Contributors 48](/pydantic/pydantic-ai/graphs/contributors)
+
+  * [ ![@samuelcolvin](https://avatars.githubusercontent.com/u/4039449?s=64&v=4) ](https://github.com/samuelcolvin)
+  * [ ![@sydney-runkle](https://avatars.githubusercontent.com/u/54324534?s=64&v=4) ](https://github.com/sydney-runkle)
+  * [ ![@dmontagu](https://avatars.githubusercontent.com/u/35119617?s=64&v=4) ](https://github.com/dmontagu)
+  * [ ![@YanSte](https://avatars.githubusercontent.com/u/6950194?s=64&v=4) ](https://github.com/YanSte)
+  * [ ![@petyosi](https://avatars.githubusercontent.com/u/13347?s=64&v=4) ](https://github.com/petyosi)
+  * [ ![@jlowin](https://avatars.githubusercontent.com/u/153965?s=64&v=4) ](https://github.com/jlowin)
+  * [ ![@DurandA](https://avatars.githubusercontent.com/u/3709037?s=64&v=4) ](https://github.com/DurandA)
+  * [ ![@Kludex](https://avatars.githubusercontent.com/u/7353520?s=64&v=4) ](https://github.com/Kludex)
+  * [ ![@lealre](https://avatars.githubusercontent.com/u/123672970?s=64&v=4) ](https://github.com/lealre)
+  * [ ![@akgerber](https://avatars.githubusercontent.com/u/201313?s=64&v=4) ](https://github.com/akgerber)
+  * [ ![@montasaurus](https://avatars.githubusercontent.com/u/1934358?s=64&v=4) ](https://github.com/montasaurus)
+  * [ ![@alexmojaki](https://avatars.githubusercontent.com/u/3627481?s=64&v=4) ](https://github.com/alexmojaki)
+  * [ ![@imfing](https://avatars.githubusercontent.com/u/5097752?s=64&v=4) ](https://github.com/imfing)
+  * [ ![@josead](https://avatars.githubusercontent.com/u/5884889?s=64&v=4) ](https://github.com/josead)
+
+
+
+[+ 34 contributors](/pydantic/pydantic-ai/graphs/contributors)
+
+## Languages
+
+  * [ Python 99.4% ](/pydantic/pydantic-ai/search?l=python)
+  * [ Makefile 0.6% ](/pydantic/pydantic-ai/search?l=makefile)
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

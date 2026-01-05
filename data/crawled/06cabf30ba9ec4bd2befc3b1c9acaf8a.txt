@@ -1,0 +1,47 @@
+![](https://cdn.prod.website-files.com/6013cab68382f702f5481fa8/6013cab6837af23632f1fe1c_menu-icon.png)
+
+[](/)
+
+[About](/about)[Github](https://github.com/logicalclocks/rondb)[Blog](/blog)[Benchmark](/benchmark-rondb-the-fastest-key-value-store-on-the-cloud)
+
+Resources
+
+[Community](https://community.rondb.com/)[Downloads](/downloads)[Docs](https://docs.rondb.com/)[Bugs](https://github.com/logicalclocks/rondb/issues)
+
+[Contact](#)
+
+The world's **fastest** **key value store** is now in the cloud.
+
+Powering the world's most advanced and fastest feature store; [Hopsworks](https://www.hopsworks.ai/the-python-centric-feature-store?utm_source=internal&utm_medium=rondb&utm_id=backlink)
+
+**RonDB** as a managed version provides advanced technology with a user friendly interface. You can launch a cluster in less than a minute. Scales to **hundreds of million of operations per second**. There are no other existing managed databases available today that can do this.
+
+## **Scale-Out**
+
+Scales linearly with mores CPUs on a single host and/or scale-out by adding new data nodes.
+
+## **Battle tested**
+
+An open-source distribution of NDB Cluster by Mikael Ronström, the inventor of NDB Cluster. 
+
+## **Fastest**
+
+Throughput of up to hundreds of millions of read or write ops/seconds and <1ms latency for individual operations.
+
+## **SQL Support**
+
+Access using the MySQL Server API for full compatibility with SQL. Native support for parallelizing queries.
+
+![LATS diagram](https://cdn.prod.website-files.com/6013cab68382f702f5481fa8/6034ee493af24635ef60fb45_venn-04.png)
+
+## **The first LATS databasein the cloud.**
+
+RonDB has dedicated support for features required for a high performance online feature store, including **LATS** : low **L** atency, high **A** vailability, high **T** hroughput, scalable **S** torage. RonDB is built with online feature stores in mind providing key capabilities that are unmatched.‍**< 1ms KV lookup>10M KV Lookups/sec>99.999% availability **
+
+[Learn More](/about)
+
+## Contact us
+
+[![Logical Clocks Icon](https://cdn.prod.website-files.com/6013cab68382f702f5481fa8/621f2cc6b7c4660b4ec3c146_Hopsworks%20Icon%20White%20.png)](https://www.hopsworks.ai/)
+
+Powered by Hopsworks © RonDB 2024. All rights reserved 

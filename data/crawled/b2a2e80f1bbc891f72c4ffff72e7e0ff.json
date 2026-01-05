@@ -1,0 +1,68 @@
+{
+    "id": "b2a2e80f1bbc891f72c4ffff72e7e0ff",
+    "metadata": {
+        "id": "b2a2e80f1bbc891f72c4ffff72e7e0ff",
+        "url": "https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/?utm_campaign=googlecloud2-launch&utm_medium=email&_hsmi=286365341&_hsenc=p2ANqtz-_23ROKwApqG01Fp8FT_ml2dc2BpqEK2fqGAzcDcB8QXYh2BXCkrKWGu9jjiC9MHS8FoYOn77Pmwc0l_VvgT6foQaXobw&utm_content=286365341&utm_source=hs_email/",
+        "title": "Reinforcement Learning from Human Feedback - DeepLearning.AI",
+        "properties": {
+            "description": "Tune and evaluate LLMs using Reinforcement Learning from Human Feedback. Fine-tune the Llama 2 model with RLHF and evaluate performance.",
+            "keywords": null,
+            "author": null,
+            "og:locale": "en_US",
+            "og:type": "website",
+            "og:title": "Reinforcement Learning from Human Feedback",
+            "og:description": "Tune and evaluate LLMs using Reinforcement Learning from Human Feedback. Fine-tune the Llama 2 model with RLHF and evaluate performance.",
+            "og:image": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/12/DeepLearning1_GoogleCloudPlatfomr_Banner2_2070x1080-1.png",
+            "og:image:width": "4313",
+            "og:image:height": "2242",
+            "og:url": "https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/?utm_campaign=googlecloud2-launch&utm_medium=email&_hsmi=286365341&_hsenc=p2ANqtz-_23ROKwApqG01Fp8FT_ml2dc2BpqEK2fqGAzcDcB8QXYh2BXCkrKWGu9jjiC9MHS8FoYOn77Pmwc0l_VvgT6foQaXobw&utm_content=286365341&utm_source=hs_email/",
+            "twitter:creator": "@deeplearningai_",
+            "twitter:site": "@deeplearningai_",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Reinforcement Learning from Human Feedback - DeepLearning.AI",
+            "twitter:description": "Tune and evaluate LLMs using Reinforcement Learning from Human Feedback. Fine-tune the Llama 2 model with RLHF and evaluate performance."
+        }
+    },
+    "parent_metadata": {
+        "id": "c86e8a873dc9e981c3bcceaffe1ea27d",
+        "url": "https://www.notion.so/LLMs-c86e8a873dc9e981c3bcceaffe1ea27d",
+        "title": "LLMs",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "content": "[](/)\n\n  * [Explore Courses](/courses/)\n  * [AI Newsletter](/the-batch/)\n    * [The Batch](/the-batch/)\n    * [Andrew's Letter](/the-batch/tag/letters/)\n    * [Data Points](/the-batch/tag/data-points/)\n    * [ML Research](/the-batch/tag/research/)\n    * [Blog](/blog/)\n  * [Community](/community/)\n    * [Forum](https://community.deeplearning.ai/)\n    * [Events](/events/)\n    * [Ambassadors](/ambassador/)\n    * [Ambassador Spotlight](/blog/category/ambassador-spotlight/)\n  * [Resources](/resources/)\n  * [Company](/about/)\n    * [About](/about/)\n    * [Careers](/careers/)\n    * [Contact](/contact/)\n\n[Start Learning](https://bit.ly/3RB9T8a)\n\n  * [Overview](#overview)\n  * [Course Outline](#course-outline)\n  * [Instructors](#instructors)\n\n\n\n![](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F12%2FMainGraphic_2070x1080-1.png&w=1080&q=75)\n\n  * [All Courses](/courses/)\n  * [Short Courses](/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses)\n  * Reinforcement Learning from Human Feedback\n\n\n\nShort CourseIntermediate1 Hour 16 Minutes\n\n# Reinforcement Learning from Human Feedback\n\nInstructor: Nikita Namjoshi\n\n[![Google Cloud](https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/12/e5f1055b-da31-41d3-b251-57e79e4dfd5c.png)](https://cloud.google.com/)\n\n[Enroll for Free](https://learn.deeplearning.ai/reinforcement-learning-from-human-feedback)\n\n  * [All Courses](/courses/)\n  * [Short Courses](/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses)\n  * Reinforcement Learning from Human Feedback\n\n\n\n![](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F12%2FYouTube-Thumbnails-14.png&w=3840&q=75)\n\n  * Intermediate\n  * 1 Hour 16 Minutes\n  * 6 Video Lessons\n  * 4 Code Examples\n  * Instructor: Nikita Namjoshi\n  *     * ![Google Cloud](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F06%2Fgoogle-cloud.png&w=48&q=75)\nGoogle Cloud\n\n\n\n## What you'll learn\n\n  * Get a conceptual understanding of Reinforcement Learning from Human Feedback (RLHF), as well as the datasets needed for this technique\n\n  * Fine-tune the Llama 2 model using RLHF with the open source Google Cloud Pipeline Components Library\n\n  * Evaluate tuned model performance against the base model with evaluation methods\n\n\n\n\n## About this course\n\nLarge language models (LLMs) are trained on human-generated text, but additional methods are needed to align an LLM with human values and preferences.\n\nReinforcement Learning from Human Feedback (RLHF) is currently the main method for aligning LLMs with human values and preferences. RLHF is also used for further tuning a base LLM to align with values and preferences that are specific to your use case. \n\nIn this course, you will gain a conceptual understanding of the RLHF training process, and then practice applying RLHF to tune an LLM. You will: \n\n  * Explore the two datasets that are used in RLHF training: the “preference” and “prompt” datasets.\n  * Use the open source Google Cloud Pipeline Components Library, to fine-tune the Llama 2 model with RLHF.\n  * Assess the tuned LLM against the original base model by comparing loss curves and using the “Side-by-Side (SxS)” method.\n\n\n\n## Who should join?\n\nAnyone with intermediate Python knowledge who’s interested in learning about using the Reinforcement Learning from Human Feedback technique. \n\n## Course Outline\n\n6 Lessons・4 Code Examples\n\n  * Introduction\n\nVideo・4 mins\n\n  * How does RLHF work\n\nVideo・12 mins\n\n  * Datasets for RL training\n\nVideo with code examples・9 mins\n\n  * Tune an LLM with RLHF\n\nVideo with code examples・24 mins\n\n  * Evaluate the tuned model\n\nVideo with code examples・22 mins\n\n  * Google Cloud Setup\n\nCode examples・1 min\n\n  * Conclusion\n\nVideo・4 mins\n\n\n\n\n## Instructor\n\n![Nikita Namjoshi](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F09%2F1673997679119.jpeg&w=256&q=75)\n\n### Nikita Namjoshi\n\nDeveloper Advocate at [Google Cloud](https://cloud.google.com/)\n\n  * [](https://www.linkedin.com/in/nikitanamjoshi/)\n\n\n\n## Reinforcement Learning from Human Feedback\n\n  * Intermediate\n  * 1 Hour 16 Minutes\n  * 6 Video Lessons\n  * 4 Code Examples\n  * Instructor: Nikita Namjoshi\n  *     * ![Google Cloud](/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F06%2Fgoogle-cloud.png&w=48&q=75)\nGoogle Cloud\n\n\n\n[Enroll for Free](https://learn.deeplearning.ai/reinforcement-learning-from-human-feedback)\n\nCourse access is free for a limited time during the DeepLearning.AI learning platform beta!\n\n[Enroll for Free](https://learn.deeplearning.ai/reinforcement-learning-from-human-feedback)\n\n## Want to learn more about Generative AI?\n\nKeep learning with updates on curated AI news, courses, and events, as well as Andrew’s thoughts from DeepLearning.AI! \n\nFirst name*\n\nLast name*\n\nEmail*\n\nWhere do you live?*\n\nPlease SelectAfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandColombiaComorosCongo - BrazzavilleCongo - KinshasaCook IslandsCosta RicaCroatiaCubaCyprusCzech RepublicCôte d’IvoireDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuamGuatemalaGuineaGuinea-BissauGuyanaHaitiHondurasHong Kong SAR ChinaHungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacau SAR ChinaMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMauritaniaMauritiusMexicoMicronesiaMidway IslandsMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmar [Burma]NamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorth KoreaNorwayOmanPakistanPalauPanamaPapua New GuineaParaguayPeople's Democratic Republic of YemenPeruPhilippinesPolandPortugalPuerto RicoQatarRomaniaRussiaRwandaSaint BarthélemySaint Kitts and NevisSaint LuciaSaint MartinSaint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSaudi ArabiaSenegalSerbiaSerbia and MontenegroSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth KoreaSpainSri LankaSudanSurinameSwazilandSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsU.S. Minor Outlying IslandsU.S. Miscellaneous Pacific IslandsU.S. Virgin IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamYemenZambiaZimbabwe\n\n  * I want to get the latest news, courses, and workshops and events announcements*\n\n\n\n[Enroll for Free](https://learn.deeplearning.ai/reinforcement-learning-from-human-feedback)\n\n  * [Courses](/courses/)\n  * [The Batch](/the-batch/)\n  * [Community](/community/)\n  * [Careers](/careers/)\n  * [About](/about/)\n\n\n\n[](https://www.facebook.com/1027125564106325)[](https://www.instagram.com/deeplearningai)[](http://twitter.com/deeplearningai)[](https://www.linkedin.com/company/18246783)[](https://www.youtube.com/c/Deeplearningai)\n",
+    "content_quality_score": 0.8,
+    "summary": null,
+    "child_urls": [
+        "https://www.deeplearning.ai/",
+        "https://www.deeplearning.ai/courses/",
+        "https://www.deeplearning.ai/the-batch/",
+        "https://www.deeplearning.ai/the-batch/tag/letters/",
+        "https://www.deeplearning.ai/the-batch/tag/data-points/",
+        "https://www.deeplearning.ai/the-batch/tag/research/",
+        "https://www.deeplearning.ai/blog/",
+        "https://www.deeplearning.ai/community/",
+        "https://www.deeplearning.ai/events/",
+        "https://www.deeplearning.ai/ambassador/",
+        "https://www.deeplearning.ai/blog/category/ambassador-spotlight/",
+        "https://www.deeplearning.ai/resources/",
+        "https://www.deeplearning.ai/about/",
+        "https://www.deeplearning.ai/careers/",
+        "https://www.deeplearning.ai/contact/",
+        "https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/?utm_campaign=googlecloud2-launch&utm_medium=email&_hsmi=286365341&_hsenc=p2ANqtz-_23ROKwApqG01Fp8FT_ml2dc2BpqEK2fqGAzcDcB8QXYh2BXCkrKWGu9jjiC9MHS8FoYOn77Pmwc0l_VvgT6foQaXobw&utm_content=286365341&utm_source=hs_email/#overview",
+        "https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/?utm_campaign=googlecloud2-launch&utm_medium=email&_hsmi=286365341&_hsenc=p2ANqtz-_23ROKwApqG01Fp8FT_ml2dc2BpqEK2fqGAzcDcB8QXYh2BXCkrKWGu9jjiC9MHS8FoYOn77Pmwc0l_VvgT6foQaXobw&utm_content=286365341&utm_source=hs_email/#course-outline",
+        "https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/?utm_campaign=googlecloud2-launch&utm_medium=email&_hsmi=286365341&_hsenc=p2ANqtz-_23ROKwApqG01Fp8FT_ml2dc2BpqEK2fqGAzcDcB8QXYh2BXCkrKWGu9jjiC9MHS8FoYOn77Pmwc0l_VvgT6foQaXobw&utm_content=286365341&utm_source=hs_email/#instructors",
+        "https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses",
+        "https://community.deeplearning.ai/",
+        "https://bit.ly/3RB9T8a",
+        "https://cloud.google.com/",
+        "https://learn.deeplearning.ai/reinforcement-learning-from-human-feedback",
+        "https://www.linkedin.com/in/nikitanamjoshi/",
+        "https://www.facebook.com/1027125564106325",
+        "https://www.instagram.com/deeplearningai",
+        "http://twitter.com/deeplearningai",
+        "https://www.linkedin.com/company/18246783",
+        "https://www.youtube.com/c/Deeplearningai"
+    ]
+}

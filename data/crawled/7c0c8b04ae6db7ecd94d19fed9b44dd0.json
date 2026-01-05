@@ -1,0 +1,30 @@
+{
+    "id": "7c0c8b04ae6db7ecd94d19fed9b44dd0",
+    "metadata": {
+        "id": "7c0c8b04ae6db7ecd94d19fed9b44dd0",
+        "url": "https://www.tidepool.so/blog/emerging-ux-patterns-for-generative-ai-apps-copilots/",
+        "title": "Aquarium Is Joining Notion!",
+        "properties": {
+            "description": "We’re excited to be joining Notion to help make AI a ubiquitous and useful part of everyday life!",
+            "keywords": null,
+            "author": null,
+            "og:title": "Aquarium Is Joining Notion!",
+            "og:description": "We’re excited to be joining Notion to help make AI a ubiquitous and useful part of everyday life!",
+            "og:image": "https://cdn.prod.website-files.com/646f62c3533c566ba80c92ec/670e8d98cafedef15e68d0fd_Open%20Graph%20image.png",
+            "og:type": "website",
+            "twitter:card": "summary_large_image"
+        }
+    },
+    "parent_metadata": {
+        "id": "efb622e85cbfdf8289be4b923aca81e2",
+        "url": "https://www.notion.so/UI-UX-efb622e85cbfdf8289be4b923aca81e2",
+        "title": "UI & UX",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "content": "![An image of the Aquarium logo and the Notion logo with a plus sign between them.](images/hires_notion_announcement.png)\n\n# Aquarium is joining Notion!\n\nAquarium’s mission has always been to accelerate the process of building and deploying production AI systems. Over the last five years, we’ve seen a massive leap in the capabilities of AI models, and we’ve been lucky to help a variety of AI teams across computer vision and natural language processing to improve the quality of their AI systems more quickly and easily than ever before.\n\nWhen we first met the Notion team, we realized that there was a massive opportunity to use generative AI to bring value to more than 100 million users. We saw a good fit between the two teams: Aquarium has built a lot of AI retrieval technology over the years, while Notion is working towards their vision of bringing AI to their vast user base spanning college students to the enterprise. It ended up being such a good fit that we decided to join the Notion AI team!\n\nAs part of bringing our teams together, we have made the difficult decision to wind down our products. We recognize this impacts our existing customers, and we are doing our best to ensure the transition is as smooth as possible.\n\nThanks to everyone who supported Aquarium and helped get us to where we are today - our team members, customers, investors, and everyone who we’ve met on the startup journey. We’re excited to be joining Notion to help make AI a ubiquitous and useful part of everyday life!\n\n- The Aquarium Team\n",
+    "content_quality_score": 0.9,
+    "summary": null,
+    "child_urls": []
+}

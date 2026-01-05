@@ -1,0 +1,1046 @@
+[Skip to content](#start-of-content)
+
+## Navigation Menu
+
+Toggle navigation
+
+[ ](/)
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Flangflow-ai%2Flangflow%3Ftab%3Dreadme-ov-file%2F)
+
+  * Product 
+
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+
+  * Solutions 
+
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](/solutions/industry/nonprofits)
+
+By use case
+    * [ DevSecOps ](/solutions/use-case/devsecops)
+    * [ DevOps ](/solutions/use-case/devops)
+    * [ CI/CD ](/solutions/use-case/ci-cd)
+    * [ View all use cases ](/solutions/use-case)
+
+By industry
+    * [ Healthcare ](/solutions/industry/healthcare)
+    * [ Financial services ](/solutions/industry/financial-services)
+    * [ Manufacturing ](/solutions/industry/manufacturing)
+    * [ Government ](/solutions/industry/government)
+    * [ View all industries ](/solutions/industry)
+
+[ View all solutions ](/solutions)
+
+  * Resources 
+
+Topics
+    * [ AI ](/resources/articles/ai)
+    * [ DevOps ](/resources/articles/devops)
+    * [ Security ](/resources/articles/security)
+    * [ Software Development ](/resources/articles/software-development)
+    * [ View all ](/resources/articles)
+
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ White papers, Ebooks, Webinars ](https://resources.github.com)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+
+  * Open Source 
+
+    * [ GitHub Sponsors Fund open source developers  ](/sponsors)
+
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+
+  * Enterprise 
+
+    * [ Enterprise platform AI-powered developer platform  ](/enterprise)
+
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ GitHub Copilot Enterprise-grade AI features  ](/features/copilot#enterprise)
+    * [ Premium Support Enterprise-grade 24/7 support  ](/premium-support)
+
+  * [Pricing](https://github.com/pricing)
+
+
+
+Search or jump to...
+
+# Search code, repositories, users, issues, pull requests...
+
+Search 
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+#  Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel  Submit feedback 
+
+#  Saved searches 
+
+## Use saved searches to filter your results more quickly
+
+Name
+
+Query
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+
+Cancel  Create saved search 
+
+[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Flangflow-ai%2Flangflow%3Ftab%3Dreadme-ov-file%2F)
+
+[ Sign up ](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=langflow-ai%2Flangflow) Reseting focus
+
+You signed in with another tab or window. [Reload]() to refresh your session. You signed out in another tab or window. [Reload]() to refresh your session. You switched accounts on another tab or window. [Reload]() to refresh your session. Dismiss alert
+
+{{ message }}
+
+[ langflow-ai ](/langflow-ai) / **[langflow](/langflow-ai/langflow) ** Public
+
+  * [ Notifications ](/login?return_to=%2Flangflow-ai%2Flangflow) You must be signed in to change notification settings
+  * [ Fork 4.9k ](/login?return_to=%2Flangflow-ai%2Flangflow)
+  * [ Star  44.4k ](/login?return_to=%2Flangflow-ai%2Flangflow)
+
+
+
+
+Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database. 
+
+[www.langflow.org](http://www.langflow.org "http://www.langflow.org")
+
+### License
+
+[ MIT license ](/langflow-ai/langflow/blob/main/LICENSE)
+
+[ 44.4k stars ](/langflow-ai/langflow/stargazers) [ 4.9k forks ](/langflow-ai/langflow/forks) [ Branches ](/langflow-ai/langflow/branches) [ Tags ](/langflow-ai/langflow/tags) [ Activity ](/langflow-ai/langflow/activity)
+
+[ Star  ](/login?return_to=%2Flangflow-ai%2Flangflow)
+
+[ Notifications ](/login?return_to=%2Flangflow-ai%2Flangflow) You must be signed in to change notification settings
+
+  * [ Code ](/langflow-ai/langflow)
+  * [ Issues 208 ](/langflow-ai/langflow/issues)
+  * [ Pull requests 94 ](/langflow-ai/langflow/pulls)
+  * [ Discussions ](/langflow-ai/langflow/discussions)
+  * [ Actions ](/langflow-ai/langflow/actions)
+  * [ Projects 0 ](/langflow-ai/langflow/projects)
+  * [ Security ](/langflow-ai/langflow/security)
+  * [ Insights ](/langflow-ai/langflow/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/langflow-ai/langflow)
+  * [ Issues  ](/langflow-ai/langflow/issues)
+  * [ Pull requests  ](/langflow-ai/langflow/pulls)
+  * [ Discussions  ](/langflow-ai/langflow/discussions)
+  * [ Actions  ](/langflow-ai/langflow/actions)
+  * [ Projects  ](/langflow-ai/langflow/projects)
+  * [ Security  ](/langflow-ai/langflow/security)
+  * [ Insights  ](/langflow-ai/langflow/pulse)
+
+
+
+# langflow-ai/langflow
+
+main
+
+[**872** Branches](/langflow-ai/langflow/branches)[**365** Tags](/langflow-ai/langflow/tags)
+
+[](/langflow-ai/langflow/branches)[](/langflow-ai/langflow/tags)
+
+Go to file
+
+Code
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+![Cristhianzl](https://avatars.githubusercontent.com/u/72977554?v=4&size=40)![anovazzi1](https://avatars.githubusercontent.com/u/70824914?v=4&size=40)[Cristhianzl](/langflow-ai/langflow/commits?author=Cristhianzl)and[anovazzi1](/langflow-ai/langflow/commits?author=anovazzi1)[feat: Update and reorganize starter templates (](/langflow-ai/langflow/commit/26de4c7097ac914fdcac7865318afb09c0e49eb4)[#5856](https://github.com/langflow-ai/langflow/pull/5856)[)](/langflow-ai/langflow/commit/26de4c7097ac914fdcac7865318afb09c0e49eb4)Jan 22, 2025[26de4c7](/langflow-ai/langflow/commit/26de4c7097ac914fdcac7865318afb09c0e49eb4) · Jan 22, 2025
+
+## History
+
+[15,047 Commits](/langflow-ai/langflow/commits/main/)[](/langflow-ai/langflow/commits/main/)  
+[.devcontainer](/langflow-ai/langflow/tree/main/.devcontainer ".devcontainer")| [.devcontainer](/langflow-ai/langflow/tree/main/.devcontainer ".devcontainer")| [ref: improving development environment and instructions (](/langflow-ai/langflow/commit/d1821cb466eb80d7ad343820fa55b8c347699bc2 "ref: improving development environment and instructions \(#5180\)
+* improving development environment and instructions
+* minor edits as requested
+* fix typo in DEVELOPMENT.md
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>
+---------
+Co-authored-by: Gabriel Luiz Freitas Almeida <gabriel@langflow.org>
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>")[#5180](https://github.com/langflow-ai/langflow/pull/5180)[)](/langflow-ai/langflow/commit/d1821cb466eb80d7ad343820fa55b8c347699bc2 "ref: improving development environment and instructions \(#5180\)
+* improving development environment and instructions
+* minor edits as requested
+* fix typo in DEVELOPMENT.md
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>
+---------
+Co-authored-by: Gabriel Luiz Freitas Almeida <gabriel@langflow.org>
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>")| Dec 12, 2024  
+[.github](/langflow-ai/langflow/tree/main/.github ".github")| [.github](/langflow-ai/langflow/tree/main/.github ".github")| [ci: adds verbosity to the backend unit tests output (](/langflow-ai/langflow/commit/f22cf01d5c5372b84c47a3d3f920339aaedef402 "ci: adds verbosity to the backend unit tests output \(#5775\)")[#5775](https://github.com/langflow-ai/langflow/pull/5775)[)](/langflow-ai/langflow/commit/f22cf01d5c5372b84c47a3d3f920339aaedef402 "ci: adds verbosity to the backend unit tests output \(#5775\)")| Jan 20, 2025  
+[.vscode](/langflow-ai/langflow/tree/main/.vscode ".vscode")| [.vscode](/langflow-ai/langflow/tree/main/.vscode ".vscode")| [chore: Add backend installation tasks to VSCode configuration (](/langflow-ai/langflow/commit/f2af059c65465f32cc2fd3903db2dbd086630e3a "chore: Add backend installation tasks to VSCode configuration \(#4335\)
+* Add separate task for installing backend in VSCode tasks configuration
+* Add preLaunchTask to launch.json for backend installation")[#4335](https://github.com/langflow-ai/langflow/pull/4335)[)](/langflow-ai/langflow/commit/f2af059c65465f32cc2fd3903db2dbd086630e3a "chore: Add backend installation tasks to VSCode configuration \(#4335\)
+* Add separate task for installing backend in VSCode tasks configuration
+* Add preLaunchTask to launch.json for backend installation")| Oct 31, 2024  
+[deploy](/langflow-ai/langflow/tree/main/deploy "deploy")| [deploy](/langflow-ai/langflow/tree/main/deploy "deploy")| [fix: fix docker compose and add instructions (](/langflow-ai/langflow/commit/68e9617f549a8446387867c22d9eb1a648f5a317 "fix: fix docker compose and add instructions \(#2654\)")[#2654](https://github.com/langflow-ai/langflow/pull/2654)[)](/langflow-ai/langflow/commit/68e9617f549a8446387867c22d9eb1a648f5a317 "fix: fix docker compose and add instructions \(#2654\)")| Jul 12, 2024  
+[docker](/langflow-ai/langflow/tree/main/docker "docker")| [docker](/langflow-ai/langflow/tree/main/docker "docker")| [refactor: run upgrade in dockerfiles to update dependencies (](/langflow-ai/langflow/commit/8ea4405010ef64ecfbe79b55bc0f347343fba254 "refactor: run upgrade in dockerfiles to update dependencies \(#5508\)
+chore: Update Dockerfiles to use COPY instead of ADD run apt-get upgrade
+- Replaced ADD commands with COPY for better clarity and consistency across Dockerfiles.
+- Added apt-get upgrade and clean commands to reduce image size and ensure packages are up to date.
+- Updated user creation commands to include necessary cleanup steps.
+- Ensured all Dockerfiles follow a similar structure for maintainability.")[#5508](https://github.com/langflow-ai/langflow/pull/5508)[)](/langflow-ai/langflow/commit/8ea4405010ef64ecfbe79b55bc0f347343fba254 "refactor: run upgrade in dockerfiles to update dependencies \(#5508\)
+chore: Update Dockerfiles to use COPY instead of ADD run apt-get upgrade
+- Replaced ADD commands with COPY for better clarity and consistency across Dockerfiles.
+- Added apt-get upgrade and clean commands to reduce image size and ensure packages are up to date.
+- Updated user creation commands to include necessary cleanup steps.
+- Ensured all Dockerfiles follow a similar structure for maintainability.")| Jan 2, 2025  
+[docker_example](/langflow-ai/langflow/tree/main/docker_example "docker_example")| [docker_example](/langflow-ai/langflow/tree/main/docker_example "docker_example")| [chore: Use expose instead of ports in docker compose example (](/langflow-ai/langflow/commit/294de475c1ba424b9750fb54f2da3151efcc905d "chore: Use expose instead of ports in docker compose example \(#5592\)
+This makes the postgres instance only reachable from the langflow container and allows it to spin up even if another process \(e.g. another postgres instance\) is running on the host and binds to the same port.")[#5592](https://github.com/langflow-ai/langflow/pull/5592)[)](/langflow-ai/langflow/commit/294de475c1ba424b9750fb54f2da3151efcc905d "chore: Use expose instead of ports in docker compose example \(#5592\)
+This makes the postgres instance only reachable from the langflow container and allows it to spin up even if another process \(e.g. another postgres instance\) is running on the host and binds to the same port.")| Jan 8, 2025  
+[docs](/langflow-ai/langflow/tree/main/docs "docs")| [docs](/langflow-ai/langflow/tree/main/docs "docs")| [docs: Fix duplicate numbering in "Run Langflow" section (](/langflow-ai/langflow/commit/c688924fba1fb4db4b0de1b9ade84246f6140073 "docs: Fix duplicate numbering in "Run Langflow" section \(#5844\)
+Co-authored-by: Mendon Kissling <59585235+mendonk@users.noreply.github.com>")[#5844](https://github.com/langflow-ai/langflow/pull/5844)[)](/langflow-ai/langflow/commit/c688924fba1fb4db4b0de1b9ade84246f6140073 "docs: Fix duplicate numbering in "Run Langflow" section \(#5844\)
+Co-authored-by: Mendon Kissling <59585235+mendonk@users.noreply.github.com>")| Jan 21, 2025  
+[scripts](/langflow-ai/langflow/tree/main/scripts "scripts")| [scripts](/langflow-ai/langflow/tree/main/scripts "scripts")| [feat: Bump ruff version to 0.9 (](/langflow-ai/langflow/commit/da83dbbcb546fc2d8d7f826b72b8ed285105c7a2 "feat: Bump ruff version to 0.9 \(#5666\)
+* Bump ruff version to 0.9
+* Rename some modules for A005 ruff rule")[#5666](https://github.com/langflow-ai/langflow/pull/5666)[)](/langflow-ai/langflow/commit/da83dbbcb546fc2d8d7f826b72b8ed285105c7a2 "feat: Bump ruff version to 0.9 \(#5666\)
+* Bump ruff version to 0.9
+* Rename some modules for A005 ruff rule")| Jan 15, 2025  
+[src](/langflow-ai/langflow/tree/main/src "src")| [src](/langflow-ai/langflow/tree/main/src "src")| [feat: Update and reorganize starter templates (](/langflow-ai/langflow/commit/26de4c7097ac914fdcac7865318afb09c0e49eb4 "feat: Update and reorganize starter templates \(#5856\)
+* update openAI templates
+* update components
+* update templates
+* Update starter projects with OPENAI_API_KEY value
+* add notes to graph rag
+---------
+Co-authored-by: anovazzi1 <otavio2204@gmail.com>")[#5856](https://github.com/langflow-ai/langflow/pull/5856)[)](/langflow-ai/langflow/commit/26de4c7097ac914fdcac7865318afb09c0e49eb4 "feat: Update and reorganize starter templates \(#5856\)
+* update openAI templates
+* update components
+* update templates
+* Update starter projects with OPENAI_API_KEY value
+* add notes to graph rag
+---------
+Co-authored-by: anovazzi1 <otavio2204@gmail.com>")| Jan 22, 2025  
+[test-results](/langflow-ai/langflow/tree/main/test-results "test-results")| [test-results](/langflow-ai/langflow/tree/main/test-results "test-results")| [feat: Flow's canvas actions design uplift (](/langflow-ai/langflow/commit/20b3a6b46e20f370f6db360d5ed2795346c17f02 "feat: Flow's canvas actions design uplift \(#4260\)
+* init
+* move panels and make custom
+* post review changes
+* \[autofix.ci\] apply automated fixes
+* pr comment fix
+* design review fixes
+* \[autofix.ci\] apply automated fixes
+* action toolbar positioning feedback
+* \[autofix.ci\] apply automated fixes
+* remove extra imports
+* test selector updates
+* missed a couple
+* one more
+---------
+Co-authored-by: autofix-ci\[bot\] <114827586+autofix-ci\[bot\]@users.noreply.github.com>")[#4260](https://github.com/langflow-ai/langflow/pull/4260)[)](/langflow-ai/langflow/commit/20b3a6b46e20f370f6db360d5ed2795346c17f02 "feat: Flow's canvas actions design uplift \(#4260\)
+* init
+* move panels and make custom
+* post review changes
+* \[autofix.ci\] apply automated fixes
+* pr comment fix
+* design review fixes
+* \[autofix.ci\] apply automated fixes
+* action toolbar positioning feedback
+* \[autofix.ci\] apply automated fixes
+* remove extra imports
+* test selector updates
+* missed a couple
+* one more
+---------
+Co-authored-by: autofix-ci\[bot\] <114827586+autofix-ci\[bot\]@users.noreply.github.com>")| Oct 31, 2024  
+[.env.example](/langflow-ai/langflow/blob/main/.env.example ".env.example")| [.env.example](/langflow-ai/langflow/blob/main/.env.example ".env.example")| [feat: add retry on database connection (](/langflow-ai/langflow/commit/471b8e2f6fcc3f8c4474b1e357ef108ed195571b "feat: add retry on database connection \(#5772\)
+* Add retry to database connection
+* \[autofix.ci\] apply automated fixes
+* fix comments
+---------
+Co-authored-by: autofix-ci\[bot\] <114827586+autofix-ci\[bot\]@users.noreply.github.com>")[#5772](https://github.com/langflow-ai/langflow/pull/5772)[)](/langflow-ai/langflow/commit/471b8e2f6fcc3f8c4474b1e357ef108ed195571b "feat: add retry on database connection \(#5772\)
+* Add retry to database connection
+* \[autofix.ci\] apply automated fixes
+* fix comments
+---------
+Co-authored-by: autofix-ci\[bot\] <114827586+autofix-ci\[bot\]@users.noreply.github.com>")| Jan 21, 2025  
+[.eslintrc.json](/langflow-ai/langflow/blob/main/.eslintrc.json ".eslintrc.json")| [.eslintrc.json](/langflow-ai/langflow/blob/main/.eslintrc.json ".eslintrc.json")| [🔧 (.pre-commit-config.yaml): Add eslint@9.1.1 as a dependency and ena…](/langflow-ai/langflow/commit/2920e6959385ea788f9c40b9a72cb724bf295ee1 "🔧 \(.pre-commit-config.yaml\): Add eslint@9.1.1 as a dependency and enable autofix for pretty-format-json hook
+🔧 \(.eslintrc.json\): Update eslint configuration to include additional plugins, parser, parserOptions, and env settings")| May 3, 2024  
+[.gitattributes](/langflow-ai/langflow/blob/main/.gitattributes ".gitattributes")| [.gitattributes](/langflow-ai/langflow/blob/main/.gitattributes ".gitattributes")| [refactor: Update .gitattributes to remove working-tree-encoding for .…](/langflow-ai/langflow/commit/65773b424f04b685e8d43837b249d7ddc55980bd "refactor: Update .gitattributes to remove working-tree-encoding for .mdx and .json files")| Jun 10, 2024  
+[.gitignore](/langflow-ai/langflow/blob/main/.gitignore ".gitignore")| [.gitignore](/langflow-ai/langflow/blob/main/.gitignore ".gitignore")| [refactor: Improve error messaging for missing message fields in memor…](/langflow-ai/langflow/commit/e61fb96504f6fe699ab785346fb3c96df28e147b "refactor: Improve error messaging for missing message fields in memory module \(#4779\)
+* Improve error messaging for missing message fields in memory module
+* fix: Simplify return statement in NotDiamondComponent's chat result method
+* Update .gitignore to exclude all .db files")| Nov 23, 2024  
+[.pre-commit-config.yaml](/langflow-ai/langflow/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/langflow-ai/langflow/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [feat: return variable value if it is a generic variable (](/langflow-ai/langflow/commit/dd68a975670eb4ff7848e35d561de1ebaafb65d4 "feat: return variable value if it is a generic variable \(#5366\)
+* fix: update pre-commit configuration for ruff formatting args
+* fix: update variable type constant from GENERIC_TYPE to CREDENTIAL_TYPE
+* feat: enhance variable service to handle decryption for generic type and update default variable type to CREDENTIAL_TYPE
+* feat: add abstract method to retrieve all variables for a user in VariableService
+* feat: implement get_all method in KubernetesSecretService to retrieve and decrypt user variables
+* refactor: update variable tests to use fixtures for generic and credential types
+- Renamed and refactored test fixtures for better clarity and reusability.
+- Updated tests to utilize `generic_variable` and `credential_variable` fixtures instead of hardcoded values.
+- Enhanced assertions to ensure correct handling of variable types, including encryption for credential variables and decryption for generic variables.
+- Improved test structure for creating, reading, updating, and deleting variables, ensuring consistency across test cases.
+* refactor: update get_all method signatures in variable services to return VariableRead
+- Changed return type of the get_all method in VariableService, KubernetesSecretService, and DatabaseVariableService from list\[Variable | None\] to list\[VariableRead\].
+- This update enhances type consistency across variable services and aligns with the new VariableRead model for improved data handling.
+* fix: update variable type assertion in test_update_variable to CREDENTIAL_TYPE
+- Changed the assertion in the `test_update_variable` test to verify that the result type is now `CREDENTIAL_TYPE` instead of `GENERIC_TYPE`.
+- This update aligns the test with recent changes in variable type handling, ensuring accurate validation of variable updates.
+* fix: update variable type assertion in test_create_variable to CREDENTIAL_TYPE
+- Changed the assertion in the `test_create_variable` test to verify that the result type is now `CREDENTIAL_TYPE` instead of `GENERIC_TYPE`.
+- This update ensures consistency with recent changes in variable type handling and improves the accuracy of the test validation.")[#5366](https://github.com/langflow-ai/langflow/pull/5366)[)](/langflow-ai/langflow/commit/dd68a975670eb4ff7848e35d561de1ebaafb65d4 "feat: return variable value if it is a generic variable \(#5366\)
+* fix: update pre-commit configuration for ruff formatting args
+* fix: update variable type constant from GENERIC_TYPE to CREDENTIAL_TYPE
+* feat: enhance variable service to handle decryption for generic type and update default variable type to CREDENTIAL_TYPE
+* feat: add abstract method to retrieve all variables for a user in VariableService
+* feat: implement get_all method in KubernetesSecretService to retrieve and decrypt user variables
+* refactor: update variable tests to use fixtures for generic and credential types
+- Renamed and refactored test fixtures for better clarity and reusability.
+- Updated tests to utilize `generic_variable` and `credential_variable` fixtures instead of hardcoded values.
+- Enhanced assertions to ensure correct handling of variable types, including encryption for credential variables and decryption for generic variables.
+- Improved test structure for creating, reading, updating, and deleting variables, ensuring consistency across test cases.
+* refactor: update get_all method signatures in variable services to return VariableRead
+- Changed return type of the get_all method in VariableService, KubernetesSecretService, and DatabaseVariableService from list\[Variable | None\] to list\[VariableRead\].
+- This update enhances type consistency across variable services and aligns with the new VariableRead model for improved data handling.
+* fix: update variable type assertion in test_update_variable to CREDENTIAL_TYPE
+- Changed the assertion in the `test_update_variable` test to verify that the result type is now `CREDENTIAL_TYPE` instead of `GENERIC_TYPE`.
+- This update aligns the test with recent changes in variable type handling, ensuring accurate validation of variable updates.
+* fix: update variable type assertion in test_create_variable to CREDENTIAL_TYPE
+- Changed the assertion in the `test_create_variable` test to verify that the result type is now `CREDENTIAL_TYPE` instead of `GENERIC_TYPE`.
+- This update ensures consistency with recent changes in variable type handling and improves the accuracy of the test validation.")| Dec 19, 2024  
+[CODE_OF_CONDUCT.md](/langflow-ai/langflow/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](/langflow-ai/langflow/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [run codespell](/langflow-ai/langflow/commit/8c89efd08f85cf6781fdc377272f8a0982648ec6 "run codespell")| Jun 4, 2024  
+[CONTRIBUTING.md](/langflow-ai/langflow/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](/langflow-ai/langflow/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [fix: fix typo in CONTRIBUTING.md (](/langflow-ai/langflow/commit/1afa76a75c22b4a6a5564df4c6d2a82aa414e696 "fix: fix typo in CONTRIBUTING.md \(#5556\)
+Fix typo Update CONTRIBUTING.md
+Co-authored-by: Gabriel Luiz Freitas Almeida <gabriel@langflow.org>")[#5556](https://github.com/langflow-ai/langflow/pull/5556)[)](/langflow-ai/langflow/commit/1afa76a75c22b4a6a5564df4c6d2a82aa414e696 "fix: fix typo in CONTRIBUTING.md \(#5556\)
+Fix typo Update CONTRIBUTING.md
+Co-authored-by: Gabriel Luiz Freitas Almeida <gabriel@langflow.org>")| Jan 20, 2025  
+[DEVELOPMENT.md](/langflow-ai/langflow/blob/main/DEVELOPMENT.md "DEVELOPMENT.md")| [DEVELOPMENT.md](/langflow-ai/langflow/blob/main/DEVELOPMENT.md "DEVELOPMENT.md")| [fix: fix typo Update DEVELOPMENT.md (](/langflow-ai/langflow/commit/e00ee88e06d37f4da716214887dcb1050f139291 "fix: fix typo Update DEVELOPMENT.md \(#5558\)
+Fix typo Update DEVELOPMENT.md
+Co-authored-by: Gabriel Luiz Freitas Almeida <gabriel@langflow.org>")[#5558](https://github.com/langflow-ai/langflow/pull/5558)[)](/langflow-ai/langflow/commit/e00ee88e06d37f4da716214887dcb1050f139291 "fix: fix typo Update DEVELOPMENT.md \(#5558\)
+Fix typo Update DEVELOPMENT.md
+Co-authored-by: Gabriel Luiz Freitas Almeida <gabriel@langflow.org>")| Jan 20, 2025  
+[LICENSE](/langflow-ai/langflow/blob/main/LICENSE "LICENSE")| [LICENSE](/langflow-ai/langflow/blob/main/LICENSE "LICENSE")| [Update organization name and URLs in configuration files](/langflow-ai/langflow/commit/9c292af1833ebae97e1b92c5a4fd39a1458173f2 "Update organization name and URLs in configuration files")| Apr 18, 2024  
+[Makefile](/langflow-ai/langflow/blob/main/Makefile "Makefile")| [Makefile](/langflow-ai/langflow/blob/main/Makefile "Makefile")| [fix: adjust path to run only unit tests (](/langflow-ai/langflow/commit/93d5a22c5642a6e9d3776f72322d431ef25e3568 "fix: adjust path to run only unit tests \(#5184\)
+* fix: adjust path to run only unit tests
+* style: split unit test command for readability")[#5184](https://github.com/langflow-ai/langflow/pull/5184)[)](/langflow-ai/langflow/commit/93d5a22c5642a6e9d3776f72322d431ef25e3568 "fix: adjust path to run only unit tests \(#5184\)
+* fix: adjust path to run only unit tests
+* style: split unit test command for readability")| Jan 8, 2025  
+[README.ES.md](/langflow-ai/langflow/blob/main/README.ES.md "README.ES.md")| [README.ES.md](/langflow-ai/langflow/blob/main/README.ES.md "README.ES.md")| [feat: add README.FR.md for French speakers (](/langflow-ai/langflow/commit/d73bf214a8bce54629078e4514ea303b7cf2574d "feat: add README.FR.md for French speakers \(#5232\)
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Delete markdown files
+---------
+Co-authored-by: AlexandreBobis <alexandrebobis91@gmail.com>")[#5232](https://github.com/langflow-ai/langflow/pull/5232)[)](/langflow-ai/langflow/commit/d73bf214a8bce54629078e4514ea303b7cf2574d "feat: add README.FR.md for French speakers \(#5232\)
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Delete markdown files
+---------
+Co-authored-by: AlexandreBobis <alexandrebobis91@gmail.com>")| Dec 12, 2024  
+[README.FR.md](/langflow-ai/langflow/blob/main/README.FR.md "README.FR.md")| [README.FR.md](/langflow-ai/langflow/blob/main/README.FR.md "README.FR.md")| [feat: add README.FR.md for French speakers (](/langflow-ai/langflow/commit/d73bf214a8bce54629078e4514ea303b7cf2574d "feat: add README.FR.md for French speakers \(#5232\)
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Delete markdown files
+---------
+Co-authored-by: AlexandreBobis <alexandrebobis91@gmail.com>")[#5232](https://github.com/langflow-ai/langflow/pull/5232)[)](/langflow-ai/langflow/commit/d73bf214a8bce54629078e4514ea303b7cf2574d "feat: add README.FR.md for French speakers \(#5232\)
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Delete markdown files
+---------
+Co-authored-by: AlexandreBobis <alexandrebobis91@gmail.com>")| Dec 12, 2024  
+[README.KR.md](/langflow-ai/langflow/blob/main/README.KR.md "README.KR.md")| [README.KR.md](/langflow-ai/langflow/blob/main/README.KR.md "README.KR.md")| [feat: add README.FR.md for French speakers (](/langflow-ai/langflow/commit/d73bf214a8bce54629078e4514ea303b7cf2574d "feat: add README.FR.md for French speakers \(#5232\)
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Delete markdown files
+---------
+Co-authored-by: AlexandreBobis <alexandrebobis91@gmail.com>")[#5232](https://github.com/langflow-ai/langflow/pull/5232)[)](/langflow-ai/langflow/commit/d73bf214a8bce54629078e4514ea303b7cf2574d "feat: add README.FR.md for French speakers \(#5232\)
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Delete markdown files
+---------
+Co-authored-by: AlexandreBobis <alexandrebobis91@gmail.com>")| Dec 12, 2024  
+[README.PT.md](/langflow-ai/langflow/blob/main/README.PT.md "README.PT.md")| [README.PT.md](/langflow-ai/langflow/blob/main/README.PT.md "README.PT.md")| [feat: add README.FR.md for French speakers (](/langflow-ai/langflow/commit/d73bf214a8bce54629078e4514ea303b7cf2574d "feat: add README.FR.md for French speakers \(#5232\)
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Delete markdown files
+---------
+Co-authored-by: AlexandreBobis <alexandrebobis91@gmail.com>")[#5232](https://github.com/langflow-ai/langflow/pull/5232)[)](/langflow-ai/langflow/commit/d73bf214a8bce54629078e4514ea303b7cf2574d "feat: add README.FR.md for French speakers \(#5232\)
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Delete markdown files
+---------
+Co-authored-by: AlexandreBobis <alexandrebobis91@gmail.com>")| Dec 12, 2024  
+[README.ja.md](/langflow-ai/langflow/blob/main/README.ja.md "README.ja.md")| [README.ja.md](/langflow-ai/langflow/blob/main/README.ja.md "README.ja.md")| [feat: add README.FR.md for French speakers (](/langflow-ai/langflow/commit/d73bf214a8bce54629078e4514ea303b7cf2574d "feat: add README.FR.md for French speakers \(#5232\)
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Delete markdown files
+---------
+Co-authored-by: AlexandreBobis <alexandrebobis91@gmail.com>")[#5232](https://github.com/langflow-ai/langflow/pull/5232)[)](/langflow-ai/langflow/commit/d73bf214a8bce54629078e4514ea303b7cf2574d "feat: add README.FR.md for French speakers \(#5232\)
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Delete markdown files
+---------
+Co-authored-by: AlexandreBobis <alexandrebobis91@gmail.com>")| Dec 12, 2024  
+[README.md](/langflow-ai/langflow/blob/main/README.md "README.md")| [README.md](/langflow-ai/langflow/blob/main/README.md "README.md")| [feat(groq): added llama 3.3 models (](/langflow-ai/langflow/commit/317c743906fff14b4fd41ddd9a666d58099c2a6b "feat\(groq\): added llama 3.3 models \(#5497\)
+* Update groq_constants.py
+added new llama 3.3 models from groq
+* Rechecking the codeflash workflow
+---------
+Co-authored-by: Gabriel Luiz Freitas Almeida <gabriel@langflow.org>")[#5497](https://github.com/langflow-ai/langflow/pull/5497)[)](/langflow-ai/langflow/commit/317c743906fff14b4fd41ddd9a666d58099c2a6b "feat\(groq\): added llama 3.3 models \(#5497\)
+* Update groq_constants.py
+added new llama 3.3 models from groq
+* Rechecking the codeflash workflow
+---------
+Co-authored-by: Gabriel Luiz Freitas Almeida <gabriel@langflow.org>")| Jan 20, 2025  
+[README.zh_CN.md](/langflow-ai/langflow/blob/main/README.zh_CN.md "README.zh_CN.md")| [README.zh_CN.md](/langflow-ai/langflow/blob/main/README.zh_CN.md "README.zh_CN.md")| [feat: add README.FR.md for French speakers (](/langflow-ai/langflow/commit/d73bf214a8bce54629078e4514ea303b7cf2574d "feat: add README.FR.md for French speakers \(#5232\)
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Delete markdown files
+---------
+Co-authored-by: AlexandreBobis <alexandrebobis91@gmail.com>")[#5232](https://github.com/langflow-ai/langflow/pull/5232)[)](/langflow-ai/langflow/commit/d73bf214a8bce54629078e4514ea303b7cf2574d "feat: add README.FR.md for French speakers \(#5232\)
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Create README.FR.md
+* Update README.FR.md
+feat: add new readme \(README.FR.md\)
+* Update README.FR.md
+feat: add README.md for french people
+* feat: add French README files
+Modified README.FR.md
+Add CONTRIBUTING.FR.md and CODE_OF_CONDUCT.FR.md
+* fix: update README links
+* Update README.zh_CN.md
+* Delete markdown files
+---------
+Co-authored-by: AlexandreBobis <alexandrebobis91@gmail.com>")| Dec 12, 2024  
+[eslint.config.js](/langflow-ai/langflow/blob/main/eslint.config.js "eslint.config.js")| [eslint.config.js](/langflow-ai/langflow/blob/main/eslint.config.js "eslint.config.js")| [🔧 (.pre-commit-config.yaml): Add eslint@9.1.1 as a dependency and ena…](/langflow-ai/langflow/commit/2920e6959385ea788f9c40b9a72cb724bf295ee1 "🔧 \(.pre-commit-config.yaml\): Add eslint@9.1.1 as a dependency and enable autofix for pretty-format-json hook
+🔧 \(.eslintrc.json\): Update eslint configuration to include additional plugins, parser, parserOptions, and env settings")| May 3, 2024  
+[pyproject.toml](/langflow-ai/langflow/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](/langflow-ai/langflow/blob/main/pyproject.toml "pyproject.toml")| [feat: update duckduckgo search component version (](/langflow-ai/langflow/commit/160452673c44f59c916f6a3f76e4f0fda7bce6ba "feat: update duckduckgo search component version \(#5818\)
+⬆️ \(pyproject.toml\): upgrade duckduckgo_search dependency from version 6.3.7 to 7.2.1 for bug fixes and new features
+♻️ \(duck_duck_go_search_run.py\): refactor DuckDuckGoSearchComponent by removing unnecessary 'required' attribute from MessageTextInput")[#5818](https://github.com/langflow-ai/langflow/pull/5818)[)](/langflow-ai/langflow/commit/160452673c44f59c916f6a3f76e4f0fda7bce6ba "feat: update duckduckgo search component version \(#5818\)
+⬆️ \(pyproject.toml\): upgrade duckduckgo_search dependency from version 6.3.7 to 7.2.1 for bug fixes and new features
+♻️ \(duck_duck_go_search_run.py\): refactor DuckDuckGoSearchComponent by removing unnecessary 'required' attribute from MessageTextInput")| Jan 20, 2025  
+[render.yaml](/langflow-ai/langflow/blob/main/render.yaml "render.yaml")| [render.yaml](/langflow-ai/langflow/blob/main/render.yaml "render.yaml")| [docs: fix render deployment and docs (](/langflow-ai/langflow/commit/17337b4748b3244081a562a9c89a92eac4f7b8c7 "docs: fix render deployment and docs \(#3309\)
+* initial-content
+* doc-update")[#3309](https://github.com/langflow-ai/langflow/pull/3309)[)](/langflow-ai/langflow/commit/17337b4748b3244081a562a9c89a92eac4f7b8c7 "docs: fix render deployment and docs \(#3309\)
+* initial-content
+* doc-update")| Aug 14, 2024  
+[uv.lock](/langflow-ai/langflow/blob/main/uv.lock "uv.lock")| [uv.lock](/langflow-ai/langflow/blob/main/uv.lock "uv.lock")| [feat: add dialog support to dropdown components and enhance AstraDB (](/langflow-ai/langflow/commit/a06cca4a8c8c194641aea22185bcebc7c31ad6cf "feat: add dialog support to dropdown components and enhance AstraDB \(#5349\)
+* feat: add dialog support to dropdown components and enhance AstraDB integration
+- Introduced a new NodeDialog component for improved user interaction when connecting to Astra DB.
+- Updated AstraDBVectorStoreComponent to include a dialog option for creating new collections.
+- Enhanced dropdown components to support dialog functionality, allowing users to create new options directly from the dropdown.
+- Added `hasDialog` property to relevant component types to manage dialog visibility.
+- Refactored utility functions to support new naming conventions and improve code clarity.
+* \[autofix.ci\] apply automated fixes
+* Remove creation parameters, add new inputs for dialog
+* Update astradb.py
+* \[autofix.ci\] apply automated fixes
+* Update the mixins for dialog_inputs
+* \[autofix.ci\] apply automated fixes
+* \[autofix.ci\] apply automated fixes
+* refactor: standardize JSON formatting and clean up input types in Vector Store RAG configuration
+- Reformatted JSON structure for better readability, ensuring consistent indentation and line breaks.
+- Updated input types across various components to use array notation for clarity.
+- Removed extraneous entries in package-lock.json to streamline dependencies.
+- Enhanced overall maintainability of the configuration files.
+* Add new options_metadata field to dropdown mixin
+* Update test_astra_component.py
+* Properly set dictionary mapping
+* Update astradb.py
+* Fix collection loading
+* \[autofix.ci\] apply automated fixes
+* Update astradb.py
+* Update astradb.py
+* \[autofix.ci\] apply automated fixes
+* \[autofix.ci\] apply automated fixes \(attempt 2/3\)
+* Enhance AstraDB integration and update dropdown components
+- Updated the AstraDBVectorStoreComponent to include new input fields for database and collection creation, with default options for selection.
+- Refactored dropdown components to support dynamic dialog inputs, improving user interaction for creating new options and refreshing lists.
+- Updated package-lock.json to reflect dependency upgrades, including Rollup and SWC packages.
+This commit improves the functionality and usability of the AstraDB integration and dropdown components, ensuring a smoother user experience.
+* Update astradb.py
+* Fix autodetection
+* Enhance dropdown components to support options metadata
+- Added `optionsMetaData` prop to Dropdown and DropdownComponent for improved data handling.
+- Updated rendering logic in Dropdown to display metadata alongside options, enhancing user experience.
+- Modified type definitions to include `optionsMetaData` in relevant components.
+These changes improve the flexibility and usability of dropdown components, allowing for richer data presentation.
+* Refactor and enhance AstraDB integration and dropdown components
+- Updated the `Vector Store RAG.json` configuration for improved formatting and consistency in output and input types.
+- Enhanced the `NodeDialogComponent` to accept `dialogInputs` as a prop, allowing for more dynamic content rendering.
+- Modified the `Dropdown` component to use `onSelect` instead of `onClick` for better accessibility and user interaction.
+- Improved rendering logic in the `Dropdown` component to conditionally display icon options based on the presence of `dialogInputs`.
+These changes enhance the usability and flexibility of the AstraDB integration and dropdown components, providing a more intuitive user experience.
+* Don't inherit from dict input in new inputs
+* \[autofix.ci\] apply automated fixes
+* Update astradb.py
+* update logic for dropdown
+* Fix the number of records per collection
+* Update astradb.py
+* \[autofix.ci\] apply automated fixes
+* \[autofix.ci\] apply automated fixes \(attempt 2/3\)
+* feat: Enhance Dropdown and Parameter Render Components
+- Updated Dropdown component to integrate post template value handling and refresh functionality.
+- Refactored ParameterRenderComponent to conditionally render based on dialog inputs.
+- Improved DropdownComponent to accept additional props for better flexibility.
+These changes improve the overall functionality and usability of the dropdown components within the application.
+* Set unknown to none to hide unavailable fields
+* Update astradb.py
+* Refactor Dropdown Component for Enhanced Usability
+- Removed unnecessary state initialization and improved code readability.
+- Updated button elements within the dropdown to enhance user interaction.
+- Added loading state indication for the refresh button.
+- Filtered out null values from options metadata for cleaner rendering.
+These changes streamline the dropdown functionality and improve the user experience.
+* Refactor NodeDialog, Dropdown, and ParameterRender Components
+- Commented out debug logs in NodeDialogComponent to clean up console output.
+- Enhanced Dropdown component to conditionally render icon options based on dialog inputs.
+- Updated ParameterRenderComponent to check for the length of dialog inputs before rendering.
+These changes improve code readability and ensure components behave correctly based on input conditions.
+* \[autofix.ci\] apply automated fixes
+* Cleanup some tests
+* Fix ruff style issue
+* \[autofix.ci\] apply automated fixes
+* Fix environment specification
+* \[autofix.ci\] apply automated fixes
+* Update starter project template
+* Update astradb.py
+* Remove backwards compatibility features
+* \[autofix.ci\] apply automated fixes
+* Small tweak to autodetect
+* \[autofix.ci\] apply automated fixes
+* Refactor NodeDialogComponent to Dynamically Render Inputs
+- Replaced static content in NodeDialogComponent with dynamic rendering based on dialogInputs.
+- Introduced NodeInputField and RenderInputParameters components for better modularity.
+- Enhanced footer with Cancel and Save buttons, improving user interaction.
+These changes enhance the flexibility and usability of the NodeDialogComponent, allowing it to adapt to varying input configurations.
+* Refactor NodeDialogComponent: Remove Unused Imports
+- Commented out unused imports in NodeDialogComponent to clean up the code.
+- This change enhances code readability and prepares the component for future updates.
+No functional changes were made; the focus was on improving code quality.
+* Refactor Dropdown and ParameterRender Components for Improved Readability and Functionality
+- Renamed functions in Dropdown component for clarity: `renderOptionsList` and `renderCreateOptionDialog` to `oldRenderOptionsList` and `renderCustomOptionDialog`, respectively.
+- Enhanced the rendering logic in Dropdown to streamline the display of options and metadata.
+- Simplified the return structure in ParameterRenderComponent to always render the RefreshParameterComponent, improving code consistency.
+- Updated RefreshParameterComponent to conditionally display the refresh button based on the presence of dialog inputs.
+These changes improve code readability and maintainability while ensuring consistent behavior across components.
+* \[autofix.ci\] apply automated fixes
+* Add the new naming conventions to deletion fields
+* \[autofix.ci\] apply automated fixes
+* \[autofix.ci\] apply automated fixes
+* Add new cloud provider options for database creation
+* \[autofix.ci\] apply automated fixes
+* \[autofix.ci\] apply automated fixes \(attempt 2/3\)
+* Make dialog inputs a dictionary of inputs
+* \[autofix.ci\] apply automated fixes
+* Update astradb.py
+* Update astradb.py
+* \[autofix.ci\] apply automated fixes
+* \[autofix.ci\] apply automated fixes \(attempt 2/3\)
+* Update astradb.py
+* \[autofix.ci\] apply automated fixes
+* added mock data for testing
+* Clean up the reactive flow
+* \[autofix.ci\] apply automated fixes
+* Fix the dialog inputs
+* Update Vector Store RAG.json
+* Update Vector Store RAG.json
+* Update astradb.py
+* Update astradb.py
+* \[autofix.ci\] apply automated fixes
+* Update astradb.py
+* Update astradb.py
+* Switch dialog inputs from list to dictionary
+* Update astradb.py
+* Refactor NodeDialogComponent to utilize useDialogSubmit hook for handling dialog submissions and streamline input rendering. Remove unused props and mock data, enhancing clarity and maintainability. Update DropdownComponent to remove unnecessary content prop. Introduce useDialogSubmit hook for improved API interaction and loading state management.
+* New structure for dialog inputs
+* \[autofix.ci\] apply automated fixes
+* \[autofix.ci\] apply automated fixes \(attempt 2/3\)
+* No need for the input type on token
+* Flip order of ingest and search
+* \[autofix.ci\] apply automated fixes
+* Remove id field from factory
+* Remove other id field
+* \[autofix.ci\] apply automated fixes
+* Refactor directory_reader.py to simplify file filtering logic
+* Refactor flowSidebarComponent to filter out bundles and custom components in CategoryGroup
+* \[autofix.ci\] apply automated fixes
+* Refactor NodeDialogComponent to utilize dialogInputs directly, removing mock data and enhancing parameter rendering. Update Dropdown and ParameterRenderComponent types to accept single dialogInputs object. Remove unused useDialogSubmit hook.
+* ✨ \(NodeDialogComponent/index.tsx\): Introduce handleNewValue function to handle updating node template values based on user input
+🔧 \(NodeDialogComponent/index.tsx\): Add support for process.env.PORT environment variable to be able to run app on a configurable port
+🔧 \(dropdownComponent/index.tsx\): Add nodeId prop to Dropdown component to pass node id for better context
+🔧 \(parameterRenderComponent/index.tsx\): Update handleOnNewValue prop to accept key parameter for better handling of new values
+🔧 \(parameterRenderComponent/types.ts\): Add nodeId property to BaseInputProps type for better context and consistency
+* Don't load the new collection names from db
+* Update astradb.py
+* Temporary disabling of dialog inputs functionality
+* Update directory_reader.py
+* Fix problematic uv.lock line
+* Update uv.lock
+* Update Vector Store RAG.json
+* Update Vector Store RAG.json
+* refactor: enhance dropdown and refresh button logic for better user experience
+- Updated the dropdown component to disable the trigger button when there are no options available or when certain conditions are met.
+- Removed the old render options list to streamline the dropdown rendering process.
+- Improved the loading state handling in the dropdown to provide clearer feedback to users.
+- Refactored the refresh button logic to ensure it only displays when appropriate conditions are met, enhancing the component's responsiveness.
+* \[autofix.ci\] apply automated fixes
+* Allow combobox specification of api endpoint
+* \[autofix.ci\] apply automated fixes
+* \[autofix.ci\] apply automated fixes
+* \[autofix.ci\] apply automated fixes
+* Update Vector Store RAG.json
+* Add back api_endpoint option for compatibility
+* Update Vector Store RAG.json
+* \[autofix.ci\] apply automated fixes
+---------
+Co-authored-by: autofix-ci\[bot\] <114827586+autofix-ci\[bot\]@users.noreply.github.com>
+Co-authored-by: Eric Hare <ericrhare@gmail.com>
+Co-authored-by: anovazzi1 <otavio2204@gmail.com>
+Co-authored-by: Gabriel Luiz Freitas Almeida <gabriel@langflow.org>
+Co-authored-by: cristhianzl <cristhian.lousa@gmail.com>")[#…](https://github.com/langflow-ai/langflow/pull/5349)| Jan 21, 2025  
+View all files  
+  
+## Repository files navigation
+
+  * [README](#)
+  * [Code of conduct](#)
+  * [MIT license](#)
+
+
+
+[![Langflow](/langflow-ai/langflow/raw/main/docs/static/img/hero.png)](/langflow-ai/langflow/blob/main/docs/static/img/hero.png)
+
+Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database. 
+
+[Docs](https://docs.langflow.org) - [Free Cloud Service](https://astra.datastax.com/signup?type=langflow) - [Self Managed](https://docs.langflow.org/get-started-installation)
+
+[![README in English](https://camo.githubusercontent.com/7b4d7d7635efe8fb99f1d7d76ac00635e1cc9a591384a404abef3e1e23b93f6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456e676c6973682d643964396439)](/langflow-ai/langflow/blob/main/README.md) [![README in Portuguese](https://camo.githubusercontent.com/753fab7cf0fdbd760ad2109aff2b9246df2d17894fc6db9e5ae6fdafebaa1336/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f72747567756573652d643964396439)](/langflow-ai/langflow/blob/main/README.PT.md) [![README in Spanish](https://camo.githubusercontent.com/463f8520c39005de71c77712049091e49024ff4220e2bdbce1c804303c2b0bb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5370616e6973682d643964396439)](/langflow-ai/langflow/blob/main/README.ES.md) [![README in Simplified Chinese](https://camo.githubusercontent.com/8f15589a114444cac77ce5357c770e152bd2e9deceda4cee7df89c9731863da8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe7ae80e4bd93e4b8ade696872d643964396439)](/langflow-ai/langflow/blob/main/README.zh_CN.md) [![README in Japanese](https://camo.githubusercontent.com/ea035aa20ea354b2145233d774e13285f2ae9926010e55527fe562c247aca245/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe697a5e69cace8aa9e2d643964396439)](/langflow-ai/langflow/blob/main/README.ja.md) [![README in KOREAN](https://camo.githubusercontent.com/a9ddea687e96c0e46575cb3eaffdfd4ef222153acaaaab3b8f4194555a1eb82f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fed959ceab5adec96b42d643964396439)](/langflow-ai/langflow/blob/main/README.KR.md) [![README in French](https://camo.githubusercontent.com/a2bbe876b48709007980dccccdec986d82771ee47513016cb196a45fbbbba1e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4672616ec3a76169732d643964396439)](/langflow-ai/langflow/blob/main/README.FR.md)
+
+## ✨ Core features
+
+[](#-core-features)
+
+  1. **Python-based** and agnostic to models, APIs, data sources, or databases.
+  2. **Visual IDE** for drag-and-drop building and testing of workflows.
+  3. **Playground** to immediately test and iterate workflows with step-by-step control.
+  4. **Multi-agent** orchestration and conversation management and retrieval.
+  5. **Free cloud service** to get started in minutes with no setup.
+  6. **Publish as an API** or export as a Python application.
+  7. **Observability** with LangSmith, LangFuse, or LangWatch integration.
+  8. **Enterprise-grade** security and scalability with free DataStax Langflow cloud service.
+  9. **Customize workflows** or create flows entirely just using Python.
+  10. **Ecosystem integrations** as reusable components for any model, API or database.
+
+
+
+[![Integrations](/langflow-ai/langflow/raw/main/docs/static/img/integrations.png)](/langflow-ai/langflow/blob/main/docs/static/img/integrations.png)
+
+## 📦 Quickstart
+
+[](#-quickstart)
+
+  * **Install with uv (recommended)** (Python 3.10 to 3.12):
+
+
+
+```
+uv pip install langflow
+```
+
+  * **Install with pip** (Python 3.10 to 3.12):
+
+
+
+```
+pip install langflow
+```
+
+  * **Cloud:** DataStax Langflow is a hosted environment with zero setup. [Sign up for a free account.](https://astra.datastax.com/signup?type=langflow)
+  * **Self-managed:** Run Langflow in your environment. [Install Langflow](https://docs.langflow.org/get-started-installation) to run a local Langflow server, and then use the [Quickstart](https://docs.langflow.org/get-started-quickstart) guide to create and execute a flow.
+  * **Hugging Face:** [Clone the space using this link](https://huggingface.co/spaces/Langflow/Langflow?duplicate=true) to create a Langflow workspace.
+
+
+
+[![Getting Started](https://private-user-images.githubusercontent.com/62335616/356890930-f1adfbe7-3c35-43a4-b265-661f3d4f875f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1NDQ5NzAsIm5iZiI6MTczNzU0NDY3MCwicGF0aCI6Ii82MjMzNTYxNi8zNTY4OTA5MzAtZjFhZGZiZTctM2MzNS00M2E0LWIyNjUtNjYxZjNkNGY4NzVmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIyVDExMTc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1OTNkMzY1NzkzMWY1Y2U5NTQzYzA2Y2I0N2M2ZThlZDQzMjkzOWE3Y2IyM2EyZWIzZjM4Y2IwYzgwMTJjOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IWqZLOCuLBL4oOXnrcWbC0Qk-ihs3J6A-20kOSgHiIo)](https://www.youtube.com/watch?v=kinngWhaUKM)
+
+## ⭐ Stay up-to-date
+
+[](#-stay-up-to-date)
+
+Star Langflow on GitHub to be instantly notified of new releases.
+
+[![Star Langflow](https://private-user-images.githubusercontent.com/62335616/355231272-03168b17-a11d-4b2a-b0f7-c1cce69e5a2c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1NDQ5NzAsIm5iZiI6MTczNzU0NDY3MCwicGF0aCI6Ii82MjMzNTYxNi8zNTUyMzEyNzItMDMxNjhiMTctYTExZC00YjJhLWIwZjctYzFjY2U2OWU1YTJjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIyVDExMTc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3OWJhYjc0Njk1ODdkZmZjZjgwYmUzNjJjZDNiYzQ4NzY3MzE5NTJmN2M1OTExYzI5YmI1ZmMxMjgwNjQ0OWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vSZThPHJcs3zIpbz0Bggv5HloOSkjndhESdDF3HS00E)](https://private-user-images.githubusercontent.com/62335616/355231272-03168b17-a11d-4b2a-b0f7-c1cce69e5a2c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1NDQ5NzAsIm5iZiI6MTczNzU0NDY3MCwicGF0aCI6Ii82MjMzNTYxNi8zNTUyMzEyNzItMDMxNjhiMTctYTExZC00YjJhLWIwZjctYzFjY2U2OWU1YTJjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIyVDExMTc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3OWJhYjc0Njk1ODdkZmZjZjgwYmUzNjJjZDNiYzQ4NzY3MzE5NTJmN2M1OTExYzI5YmI1ZmMxMjgwNjQ0OWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vSZThPHJcs3zIpbz0Bggv5HloOSkjndhESdDF3HS00E) [ ![Star Langflow](https://private-user-images.githubusercontent.com/62335616/355231272-03168b17-a11d-4b2a-b0f7-c1cce69e5a2c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1NDQ5NzAsIm5iZiI6MTczNzU0NDY3MCwicGF0aCI6Ii82MjMzNTYxNi8zNTUyMzEyNzItMDMxNjhiMTctYTExZC00YjJhLWIwZjctYzFjY2U2OWU1YTJjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIyVDExMTc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3OWJhYjc0Njk1ODdkZmZjZjgwYmUzNjJjZDNiYzQ4NzY3MzE5NTJmN2M1OTExYzI5YmI1ZmMxMjgwNjQ0OWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vSZThPHJcs3zIpbz0Bggv5HloOSkjndhESdDF3HS00E) ](https://private-user-images.githubusercontent.com/62335616/355231272-03168b17-a11d-4b2a-b0f7-c1cce69e5a2c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1NDQ5NzAsIm5iZiI6MTczNzU0NDY3MCwicGF0aCI6Ii82MjMzNTYxNi8zNTUyMzEyNzItMDMxNjhiMTctYTExZC00YjJhLWIwZjctYzFjY2U2OWU1YTJjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIyVDExMTc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3OWJhYjc0Njk1ODdkZmZjZjgwYmUzNjJjZDNiYzQ4NzY3MzE5NTJmN2M1OTExYzI5YmI1ZmMxMjgwNjQ0OWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vSZThPHJcs3zIpbz0Bggv5HloOSkjndhESdDF3HS00E) [ ](https://private-user-images.githubusercontent.com/62335616/355231272-03168b17-a11d-4b2a-b0f7-c1cce69e5a2c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1NDQ5NzAsIm5iZiI6MTczNzU0NDY3MCwicGF0aCI6Ii82MjMzNTYxNi8zNTUyMzEyNzItMDMxNjhiMTctYTExZC00YjJhLWIwZjctYzFjY2U2OWU1YTJjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIyVDExMTc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3OWJhYjc0Njk1ODdkZmZjZjgwYmUzNjJjZDNiYzQ4NzY3MzE5NTJmN2M1OTExYzI5YmI1ZmMxMjgwNjQ0OWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vSZThPHJcs3zIpbz0Bggv5HloOSkjndhESdDF3HS00E)
+
+## 👋 Contribute
+
+[](#-contribute)
+
+We welcome contributions from developers of all levels. If you'd like to contribute, please check our [contributing guidelines](/langflow-ai/langflow/blob/main/CONTRIBUTING.md) and help make Langflow more accessible.
+
+[![Star History Chart](https://camo.githubusercontent.com/58d1efb8328bec76b01ca956be18ea4deee6e00efa24117fb6a97c9a2ddc773f/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d6c616e67666c6f772d61692f6c616e67666c6f7726747970653d54696d656c696e65)](https://star-history.com/#langflow-ai/langflow&Date)
+
+## ❤️ Contributors
+
+[](#️-contributors)
+
+[![langflow contributors](https://camo.githubusercontent.com/bd682f12cfee021ab3c48cd5507126e21fd879459127f41c23a3de55d7063b14/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6c616e67666c6f772d61692f6c616e67666c6f77)](https://github.com/langflow-ai/langflow/graphs/contributors)
+
+## About
+
+Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database. 
+
+[www.langflow.org](http://www.langflow.org "http://www.langflow.org")
+
+### Topics
+
+[ react-flow ](/topics/react-flow "Topic: react-flow") [ large-language-models ](/topics/large-language-models "Topic: large-language-models") [ generative-ai ](/topics/generative-ai "Topic: generative-ai") [ chatgpt ](/topics/chatgpt "Topic: chatgpt")
+
+### Resources
+
+[ Readme ](#readme-ov-file)
+
+### License
+
+[ MIT license ](#MIT-1-ov-file)
+
+### Code of conduct
+
+[ Code of conduct ](#coc-ov-file)
+
+[ Activity](/langflow-ai/langflow/activity)
+
+[ Custom properties](/langflow-ai/langflow/custom-properties)
+
+### Stars
+
+[ **44.4k** stars](/langflow-ai/langflow/stargazers)
+
+### Watchers
+
+[ **318** watching](/langflow-ai/langflow/watchers)
+
+### Forks
+
+[ **4.9k** forks](/langflow-ai/langflow/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Flangflow-ai%2Flangflow&report=langflow-ai+%28user%29)
+
+##  [Releases 246](/langflow-ai/langflow/releases)
+
+[ v1.1.1 Latest  Nov 25, 2024 ](/langflow-ai/langflow/releases/tag/v1.1.1)
+
+[+ 245 releases](/langflow-ai/langflow/releases)
+
+##  [Packages 0](/orgs/langflow-ai/packages?repo_name=langflow)
+
+No packages published 
+
+##  [Used by 1.2k](/langflow-ai/langflow/network/dependents)
+
+[
+
+  * ![@heaven00](https://avatars.githubusercontent.com/u/1822197?s=64&v=4)
+  * ![@overripedatascientist](https://avatars.githubusercontent.com/u/60662037?s=64&v=4)
+  * ![@nate1029](https://avatars.githubusercontent.com/u/158605084?s=64&v=4)
+  * ![@aayyuushii](https://avatars.githubusercontent.com/u/174345148?s=64&v=4)
+  * ![@Ajinkyapatil2060](https://avatars.githubusercontent.com/u/144332792?s=64&v=4)
+  * ![@Kenneth3120](https://avatars.githubusercontent.com/u/96428866?s=64&v=4)
+  * ![@thisisarsh1](https://avatars.githubusercontent.com/u/136853370?s=64&v=4)
+  * ![@AbhigyaKrishna](https://avatars.githubusercontent.com/u/71663979?s=64&v=4)
+
++ 1,197  ](/langflow-ai/langflow/network/dependents)
+
+##  [Contributors 224](/langflow-ai/langflow/graphs/contributors)
+
+  * [ ![@ogabrielluiz](https://avatars.githubusercontent.com/u/24829397?s=64&v=4) ](https://github.com/ogabrielluiz)
+  * [ ![@anovazzi1](https://avatars.githubusercontent.com/u/70824914?s=64&v=4) ](https://github.com/anovazzi1)
+  * [ ![@lucaseduoli](https://avatars.githubusercontent.com/u/62335616?s=64&v=4) ](https://github.com/lucaseduoli)
+  * [ ![@Cristhianzl](https://avatars.githubusercontent.com/u/72977554?s=64&v=4) ](https://github.com/Cristhianzl)
+  * [ ![@igorrCarvalho](https://avatars.githubusercontent.com/u/64559670?s=64&v=4) ](https://github.com/igorrCarvalho)
+  * [ ![@autofix-ci\[bot\]](https://avatars.githubusercontent.com/in/243519?s=64&v=4) ](https://github.com/apps/autofix-ci)
+  * [ ![@rodrigosnader](https://avatars.githubusercontent.com/u/12815734?s=64&v=4) ](https://github.com/rodrigosnader)
+  * [ ![@mendonk](https://avatars.githubusercontent.com/u/59585235?s=64&v=4) ](https://github.com/mendonk)
+  * [ ![@ibiscp](https://avatars.githubusercontent.com/u/19699606?s=64&v=4) ](https://github.com/ibiscp)
+  * [ ![@italojohnny](https://avatars.githubusercontent.com/u/7606021?s=64&v=4) ](https://github.com/italojohnny)
+  * [ ![@gustavoschaedler](https://avatars.githubusercontent.com/u/38400824?s=64&v=4) ](https://github.com/gustavoschaedler)
+  * [ ![@genome21](https://avatars.githubusercontent.com/u/1147229?s=64&v=4) ](https://github.com/genome21)
+  * [ ![@carlosrcoelho](https://avatars.githubusercontent.com/u/80289056?s=64&v=4) ](https://github.com/carlosrcoelho)
+  * [ ![@cbornet](https://avatars.githubusercontent.com/u/11633333?s=64&v=4) ](https://github.com/cbornet)
+
+
+
+[+ 210 contributors](/langflow-ai/langflow/graphs/contributors)
+
+## Languages
+
+  * [ Python 40.6% ](/langflow-ai/langflow/search?l=python)
+  * [ JavaScript 31.5% ](/langflow-ai/langflow/search?l=javascript)
+  * [ TypeScript 26.6% ](/langflow-ai/langflow/search?l=typescript)
+  * [ CSS 0.8% ](/langflow-ai/langflow/search?l=css)
+  * [ Dockerfile 0.2% ](/langflow-ai/langflow/search?l=dockerfile)
+  * [ Makefile 0.2% ](/langflow-ai/langflow/search?l=makefile)
+  * Other 0.1%
+
+
+
+## Footer
+
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+
+### Footer navigation
+
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+
+You can’t perform that action at this time. 

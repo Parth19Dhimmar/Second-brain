@@ -1,0 +1,55 @@
+# Resources [Community]
+
+	<child_page>
+	# Number of samples for fine-tuning based on general, domain, task specific
+	
+	🔗 [Number of samples for fine-tuning based on general, domain, task specific](https://www.linkedin.com/posts/maxime-labonne_the-term-fine-tuning-includes-completely-activity-7267499732669796352-AwSE?utm_source=share&utm_medium=member_desktop)
+	---
+	
+	🔧 The term "fine-tuning" includes completely different categories, with different objectives.
+	1️⃣ General-purpose fine-tuning corresponds to the instruct models produced by LLM providers. This approach is used both at
+	[Liquid AI](https://www.linkedin.com/company/liquid-ai-inc/)
+	and by organizations like Meta that release open-weight models.
+	Here, the objective is to build a general-purpose AI assistant that can do most tasks. Because we have a super broad objective, this often requires over 1M samples just for supervised fine-tuning.
+	2️⃣ Domain-specific fine-tuning targets domains like finance, law, medicine, specific languages, etc. The goal is slightly similar to general-purpose fine-tuning but within a defined category. This type of fine-tuning often benefits from continual pre-training (CPT) if your domain is poorly represented in the pre-training data.
+	This type of fine-tuning tends to disappear because base models are getting better and better. However, it is still useful for niche domains and rare languages. You can see an example of a pipeline with CPT and model merging to create a strong domain-specific LLM. ↓
+	3️⃣ Task-specific fine-tuning is defined by its narrow scope, like summarization, information extraction, etc. This is quite popular with small models. With the right dataset, you reach the performance of frontier LLMs using cheap and fast models for your use case. It requires more tinkering but this can also build interesting technical moats. Because of the narrow focus, this also requires a lot fewer samples than the other types of fine-tuning.
+	If you use fine-tuning in your daily job, I'm super interested in knowing more about your use cases. This is not an influencer trick to get comments, I'm genuinely trying to update my view of the FT landscape. :))
+	
+	[Image](No URL)
+	
+	[Image](No URL)
+	</child_page>
+
+# Tools
+
+	[Link Preview](https://github.com/unslothai/unsloth)
+	[Link Preview](https://github.com/axolotl-ai-cloud/axolotl)
+	[Link Preview](https://github.com/huggingface/trl)
+
+---
+
+# Articles
+
+	- Parameter efficient fine-tuning: [https://lightning.ai/pages/community/article/understanding-llama-adapters/](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
+	- [Fine-tune Llama 3 with ORPO](https://towardsdatascience.com/fine-tune-llama-3-with-orpo-56cfab2f9ada)
+	- [LLM Fine-Tuning and Model Selection Using Neptune and Transformers](https://neptune.ai/blog/llm-fine-tuning-and-model-selection-with-neptune-transformers)
+
+# Papers
+
+	- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+	- [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+
+# Code & Repositories
+
+	- [Templates for Chat Models [HuggingFace]](https://huggingface.co/docs/transformers/en/chat_templating#what-template-should-i-use)
+	- [https://github.com/huggingface/trl](https://github.com/huggingface/trl)
+
+# Benchmarks
+
+	- [MMLU (Massive Multitask Language Understanding)](/2481cc7a06434b84aebb95999eb77dff)
+	- [Code Generation on HumanEval](https://paperswithcode.com/sota/code-generation-on-humaneval)
+
+# Videos
+
+	- [SFT, Preference Alignment, Merging, MoE](https://www.youtube.com/live/R0X7mPagRiE?app=desktop&t=11716)

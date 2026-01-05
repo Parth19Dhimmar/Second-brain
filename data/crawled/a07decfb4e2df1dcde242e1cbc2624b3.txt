@@ -1,0 +1,319 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F7e6df189077b&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav----------------------------------)
+
+Sign up
+
+[Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Fmarvelous-mlops%2Fmlops-maturity-assessment-7e6df189077b&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+[](/?source=---top_nav_layout_nav----------------------------------)
+
+[Write](/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
+
+[](/search?source=---top_nav_layout_nav----------------------------------)
+
+Sign up
+
+[Sign in](/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Fmarvelous-mlops%2Fmlops-maturity-assessment-7e6df189077b&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
+
+![](https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png)
+
+# MLOps Maturity Assessment
+
+[![Vechtomova Maria](https://miro.medium.com/v2/resize:fill:44:44/1*df7T3ByXRHs0nCE8eWat5g.jpeg)](/@vechtomova.maria?source=post_page---byline--7e6df189077b--------------------------------)
+
+[![Marvelous MLOps](https://miro.medium.com/v2/resize:fill:24:24/1*JeNXc653bVrJo7z17h3vPw.png)](https://medium.com/marvelous-mlops?source=post_page---byline--7e6df189077b--------------------------------)
+
+[Vechtomova Maria](/@vechtomova.maria?source=post_page---byline--7e6df189077b--------------------------------)
+
+·
+
+[Follow](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F2f16f7492ea8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmarvelous-mlops%2Fmlops-maturity-assessment-7e6df189077b&user=Vechtomova+Maria&userId=2f16f7492ea8&source=post_page-2f16f7492ea8--byline--7e6df189077b---------------------post_header-----------)
+
+Published in
+
+[Marvelous MLOps](https://medium.com/marvelous-mlops?source=post_page---byline--7e6df189077b--------------------------------)
+
+·
+
+6 min read
+
+·
+
+Apr 11, 2023
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fmarvelous-mlops%2F7e6df189077b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmarvelous-mlops%2Fmlops-maturity-assessment-7e6df189077b&user=Vechtomova+Maria&userId=2f16f7492ea8&source=---header_actions--7e6df189077b---------------------clap_footer-----------)
+
+--
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7e6df189077b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmarvelous-mlops%2Fmlops-maturity-assessment-7e6df189077b&source=---header_actions--7e6df189077b---------------------bookmark_footer-----------)
+
+Listen
+
+Share
+
+As more and more companies rely on machine learning to run their daily operations, it’s becoming important to adopt MLOps best practices. However, it can be hard to find structured information on what those best practices actually are and how a company can become more mature in terms of MLOps if they decide to start on that journey.
+
+![](https://miro.medium.com/v2/resize:fit:700/0*kqNBRGywSs-reaKG.png)
+
+[Microsoft’s MLOps maturity model](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-maturity-model) or [Google’s definition of MLOps levels ](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)is a good start, but they don’t necessarily offer actionable insights on how a project can go from being MLOps immature to achieving 100% MLOps maturity. That’s why we decided to create a questionnaire that can help evaluate MLOps maturity on a project level. Our questionnaire covers a wide range of MLOps aspects, making it a valuable resource for teams looking to improve their MLOps practices.
+
+  1. Documentation
+  2. Traceability & Reproducibility
+  3. Code quality
+  4. Monitoring & Support
+  5. Data transformation pipelines & Feature store
+  6. Model explainability
+  7. A/B testing & Feedback loop
+
+
+
+We believe that a machine learning project can be considered MLOps mature if all statements in sections 1–4 (documentation, traceability & reproducibility, code quality, monitoring & support) can be answered with “yes”. This is the bare minimum required to deploy a machine learning project reliably in production. Sections 5–7 go beyond basic MLOps maturity, and it is possible to work on its implementation while some of the statements in sections 1–4 haven’t been covered. However, we encourage everyone to prioritize the basics before moving on to advanced MLOps practices.
+
+This questionnaire makes MLOps actionable by clearly highlighting areas for improvement: If some of the statements are answered with a “no,” it’s a clear indicator of what needs to be addressed to improve your MLOps maturity.
+
+You can download the questionnaire in Excel format from our github: <https://github.com/marvelousmlops/mlops_maturity_assessment>.
+
+# 1. Documentation
+
+**1.1. Project Documentation**
+
+  1. Business goals and KPIs of an ML project are documented and kept up to date.
+  2. Overview of all team members involved in a machine learning project including their responsibilities are created and kept up to date.
+  3. ML model risk evaluation is created, documented, and kept up to date.
+
+
+
+**1.2. ML model documentation**
+
+  1. Steps of gathering, analyzing and cleaning data including motivation for each step should be documented.
+  2. Data definition (what features are used in an ML model and what these features mean) is documented.
+  3. Choice of machine learning model is documented and justified.
+
+
+
+**1.3. Technical documentation**
+
+  1. For real time inference use cases, API is documented: request & response structure and definition, data types.
+  2. Software architecture design is documented and kept up to date.
+
+
+
+# 2. Traceability and reproducibility
+
+**2.1. Infrastructure traceability and reproducibility**
+
+  1. Infrastructure is defined as code, later referenced as IaC.
+  2. IaC is stored in a version control system.
+  3. Pull request process is used to create changes in IaC.
+  4. When pull request is merged, changes will be automatically applied to corresponding environments through a CD pipeline.
+  5. Only CD pipelines can deploy changes, individual developers do not have rights to deploy infrastructure.
+  6. ML projects should have at least two environments (preproduction and production) which are exact copies of each other.
+  7. All environments related to a ML project should have (read and/or write) access to production data (data should be the same at any moment of time).
+
+
+
+**2.2. ML code traceability and reproducibility**
+
+  1. Code for gathering, analyzing, and cleaning data should be stored in a version control system.
+  2. ML model code is stored in the version control system, together with data preparation code and API code (if applicable).
+  3. Pull requests (PR) are used to make changes in any code related to an ML project.
+  4. When PR is merged, changes will be automatically applied to corresponding environments through a CD pipeline.
+  5. Environment is defined as code and is reproducible.
+  6. ML model code should not require changes to run in different environments. The processes of deployment of an ML model to all environments should be the same.
+  7. **For any given machine learning model run/deployment in any environment it is possible to look up unambiguously:** 1. corresponding code/ commit on git, 2. infrastructure used for training and serving, 3. environment used for training and serving, 4. ML model artifacts, 5. what data was used to train the model.
+  8. ML model retraining strategy is present and motivated.
+  9. Roll-back strategy is present to be able to revert to the previous ML model version.
+
+
+
+# 3. Code Quality
+
+**3.1. Infrastructure code quality requirements**
+
+  1. CI pipeline that includes configuration files validation and running automated tests is triggered at pull request creation.
+  2. Other team members (e.g., developers / security specialists) must review and approve changes before merging a pull request.
+
+
+
+**3.2. ML model code quality requirements**
+
+  1. Pre-commit hooks are implemented to ensure that code follows the code quality guidelines before it is pushed to a version control system.
+  2. ML model code contains tests for all steps in an ML process (data processing, ML model training, API deployment).
+  3. CI pipeline that includes running automated tests is triggered at pull request creation.
+  4. Other team members (for example, developers/ security specialists) must approve changes before merging a pull request.
+  5. For real time inference use cases, strategy should be present to perform API load and stress tests regularly and make sure API meets latency requirements.
+  6. For real time inference use cases, authentication and networking should follow security guidelines.
+  7. ML model code should be documented (documentation as code).
+  8. Release notes should be created every time there is a new release of an ML model code.
+
+
+
+# 4. Monitoring & Support
+
+**4.1. Infrastructure monitoring requirements**
+
+  1. Tracking of infrastructure costs is set up; cost estimation is done regularly for an ML project.
+  2. Health of infrastructure resources is monitored. Alerting is set up in case problems occur.
+
+
+
+**4.2. Application monitoring requirements**
+
+  1. For real time inference use cases, all API requests and responses should be logged, API response time, response codes, and health status should be monitored.
+  2. For batch use cases, continuity of delivery to the target system should be monitored.
+
+
+
+**4.3. KPI & model performance monitoring requirements**
+
+  1. Offline evaluation metrics (for example, F1 score computed on historical data for classification tasks) is stored and monitored.
+  2. Feedback loop is used to evaluate and constantly monitor KPIs that were defined together with the business stakeholders for this ML project.
+
+
+
+**4.4. Data drift & Outliers monitoring**
+
+  1. Distributions of important model features are recalculated on a regular basis, alerts are created if a significant change in distribution that affects the target is detected.
+  2. Outlier detection is set up, cases when machine learning models are returning predictions with low certainty are regularly reviewed.
+
+
+
+# 5. Data transformation pipelines & Feature store
+
+  1. Features are pre-computed in a Feature store and/or imported as code shareable across projects.
+  2. The offline training data and online prediction data is transformed with the same code.
+  3. All the model features are sourced from the feature store or external libraries.
+  4. Data scientist can add features to the feature store with a PR.
+  5. Feature dependency is automatically managed by the feature store.
+  6. The feature store keeps track of the feature usage per model.
+  7. The feature configuration is separated from its code.
+
+
+
+# 6. Model Explainability
+
+  1. The AI system is capable of providing an explanation for its outputs, with evidence to support the explanation.
+  2. The AI system explanation is meaningful if a user of the system can understand the explanation.
+  3. The AI system is able to clearly describe how it arrived at its decision outputs.
+  4. The AI system operates within its knowledge limits and knows when it is operating outside of those limits.
+
+
+
+# 7. A/B testing & feedback loop
+
+  1. The inputs and outputs of the model are stored automatically.
+  2. A/B testing is performed regularly.
+  3. When doing A/B testing, it can be guaranteed that the same customer will get predictions based the same version of the model during the whole experiment.
+
+
+
+![](https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)
+
+## Sign up to discover human stories that deepen your understanding of the world.
+
+## Free
+
+Distraction-free reading. No ads.
+
+Organize your knowledge with lists and highlights.
+
+Tell your story. Find your audience.
+
+Sign up for free
+
+## Membership
+
+Read member-only stories
+
+Support writers you read most
+
+Earn money for your writing
+
+Listen to audio narrations
+
+Read offline with the Medium app
+
+Try for $5/month
+
+[Mlops](/tag/mlops?source=post_page-----7e6df189077b--------------------------------)
+
+[Mlops Platform](/tag/mlops-platform?source=post_page-----7e6df189077b--------------------------------)
+
+[Mlops Tool](/tag/mlops-tool?source=post_page-----7e6df189077b--------------------------------)
+
+[Mlops Solution](/tag/mlops-solution?source=post_page-----7e6df189077b--------------------------------)
+
+[Machine Learning](/tag/machine-learning?source=post_page-----7e6df189077b--------------------------------)
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fmarvelous-mlops%2F7e6df189077b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmarvelous-mlops%2Fmlops-maturity-assessment-7e6df189077b&user=Vechtomova+Maria&userId=2f16f7492ea8&source=---footer_actions--7e6df189077b---------------------clap_footer-----------)
+
+--
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fmarvelous-mlops%2F7e6df189077b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmarvelous-mlops%2Fmlops-maturity-assessment-7e6df189077b&user=Vechtomova+Maria&userId=2f16f7492ea8&source=---footer_actions--7e6df189077b---------------------clap_footer-----------)
+
+--
+
+[](/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7e6df189077b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmarvelous-mlops%2Fmlops-maturity-assessment-7e6df189077b&source=---footer_actions--7e6df189077b---------------------bookmark_footer-----------)
+
+[![Marvelous MLOps](https://miro.medium.com/v2/resize:fill:48:48/1*JeNXc653bVrJo7z17h3vPw.png)](https://medium.com/marvelous-mlops?source=post_page---post_publication_info--7e6df189077b--------------------------------)
+
+[![Marvelous MLOps](https://miro.medium.com/v2/resize:fill:64:64/1*JeNXc653bVrJo7z17h3vPw.png)](https://medium.com/marvelous-mlops?source=post_page---post_publication_info--7e6df189077b--------------------------------)
+
+Follow
+
+## [Published in Marvelous MLOps](https://medium.com/marvelous-mlops?source=post_page---post_publication_info--7e6df189077b--------------------------------)
+
+[1K Followers](/marvelous-mlops/followers?source=post_page---post_publication_info--7e6df189077b--------------------------------)
+
+·[Last published Dec 4, 2024](/marvelous-mlops/building-an-end-to-end-mlops-project-with-databricks-8cd9a85cc3c0?source=post_page---post_publication_info--7e6df189077b--------------------------------)
+
+Hey there! We’re Başak and Maria, friends and colleagues who share a love for Marvel and MLOps. — hence “Marvelous MLOps”. We’ve both been working as ML engineers in the corporate world for a while now, and we believe it’s time to share our knowledge with others.
+
+Follow
+
+[![Vechtomova Maria](https://miro.medium.com/v2/resize:fill:48:48/1*df7T3ByXRHs0nCE8eWat5g.jpeg)](/@vechtomova.maria?source=post_page---post_author_info--7e6df189077b--------------------------------)
+
+[![Vechtomova Maria](https://miro.medium.com/v2/resize:fill:64:64/1*df7T3ByXRHs0nCE8eWat5g.jpeg)](/@vechtomova.maria?source=post_page---post_author_info--7e6df189077b--------------------------------)
+
+Follow
+
+## [Written by Vechtomova Maria](/@vechtomova.maria?source=post_page---post_author_info--7e6df189077b--------------------------------)
+
+[1.3K Followers](/@vechtomova.maria/followers?source=post_page---post_author_info--7e6df189077b--------------------------------)
+
+·[12 Following](/@vechtomova.maria/following?source=post_page---post_author_info--7e6df189077b--------------------------------)
+
+Leading MLOps transformation
+
+Follow
+
+## No responses yet
+
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--7e6df189077b--------------------------------)
+
+[What are your thoughts?](/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmarvelous-mlops%2Fmlops-maturity-assessment-7e6df189077b&source=---post_responses--7e6df189077b---------------------respond_sidebar-----------)
+
+Also publish to my profile
+
+Respond
+
+Respond
+
+[Help](https://help.medium.com/hc/en-us?source=post_page-----7e6df189077b--------------------------------)
+
+[Status](https://medium.statuspage.io/?source=post_page-----7e6df189077b--------------------------------)
+
+[About](/about?autoplay=1&source=post_page-----7e6df189077b--------------------------------)
+
+[Careers](/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----7e6df189077b--------------------------------)
+
+[Press](pressinquiries@medium.com?source=post_page-----7e6df189077b--------------------------------)
+
+[Blog](https://blog.medium.com/?source=post_page-----7e6df189077b--------------------------------)
+
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----7e6df189077b--------------------------------)
+
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----7e6df189077b--------------------------------)
+
+[Text to speech](https://speechify.com/medium?source=post_page-----7e6df189077b--------------------------------)
+
+[Teams](/business?source=post_page-----7e6df189077b--------------------------------)
