@@ -13,7 +13,6 @@ from second_brain_offline.domain import Document
 from second_brain_offline.config import settings
 
 import litellm
-litellm._turn_on_debug()
 
 class SummarizerResponseFormat(BaseModel):
     summary: str

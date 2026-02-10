@@ -14,7 +14,7 @@ def fetch_from_mongodb(
     
     with MongoDBService(model=Document, collection_name=collection_name) as service:
         logger.info(f"Fetching documents from the '{collection_name}' mongodb collection.")
-        documents = service.fetch_documents(limit, query={})
+        documents = service.fetch_documents(limit, query={"content_quality_score": {"$gt": 0.8}})
                 
     step_context = get_step_context()
     

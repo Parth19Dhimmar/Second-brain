@@ -1,6 +1,6 @@
 parameters:
   extract_collection_name: scored_documents
-  fetch_limit: 500
+  fetch_limit: 2
   load_collection_name: rag
   content_quality_score_threshold: 0.6
   retriever_type: contextual
@@ -8,11 +8,11 @@ parameters:
   embedding_model_type: huggingface
   embedding_model_dim: 1024
   chunk_size: 640
-  # contextual_summarization_type: contextual
-  # contextual_agent_model_id: gemini/gemini-1.5-flash  # gemini/gemini-2.5-flash
-  # contextual_agent_max_characters: 128
+  contextual_summarization_type: contextual
+  contextual_agent_model_id: gemini/gemini-2.5-flash  # gemini/gemini-2.5-flash
+  contextual_agent_max_characters: 128
   mock: false
   processing_batch_size: 2
-  processing_max_workers: 2
+  processing_max_workers: 1
   device: cpu # or cuda (for Nvidia GPUs) or mps  (for Apple M1/M2/M3 chips)
  

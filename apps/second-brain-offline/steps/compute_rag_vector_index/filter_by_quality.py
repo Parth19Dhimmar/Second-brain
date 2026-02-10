@@ -1,6 +1,5 @@
 from typing_extensions import Annotated
-from zenml import get_step_context
-from zenml.steps import step
+from zenml import step, get_step_context
 
 from second_brain_offline.domain import Document
 

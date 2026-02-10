@@ -24,9 +24,9 @@ def chunk_embed_load(
     documents: list[Document],
     embed_collection_name: str,
     retriever_type: RetrieverType,
-    # contextual_summarization_type: SummarizationType,
-    # contextual_agent_model_id: str,
-    # contextual_agent_max_characters: int,
+    contextual_summarization_type: SummarizationType,
+    contextual_agent_model_id: str,   
+    contextual_agent_max_characters: int,
     embedding_model_type: EmbeddingModelType,
     embedding_model_id: str,
     embedding_model_dim: int,
@@ -38,12 +38,20 @@ def chunk_embed_load(
 ):
     splitter = get_splitter(
         chunk_size=chunk_size,
-        # summarization_type=contextual_summarization_type,
-        # model_id=contextual_agent_model_id,
-        # max_characters=contextual_agent_max_characters,
-        # mock=mock,
-        # max_concurrent_requests=processing_max_workers
+        summarization_type=contextual_summarization_type,
+        model_id=contextual_agent_model_id,
+        max_characters=contextual_agent_max_characters,
+        mock=mock,
+        max_concurrent_requests=processing_max_workers
     )
+    
+    logger.info(f"Splitter : , {splitter}")
+    
+    logger.info(f"""
+            embedding_model_id : {embedding_model_id},
+            embedding_model_type : {embedding_model_type},
+            retriever_type : {retriever_type},
+        """)
     
     retriever = get_retriever(
         embedding_model_id=embedding_model_id,
@@ -52,7 +60,7 @@ def chunk_embed_load(
         device=device
     )
     
-    logger.info("retriever : ", retriever)
+    logger.info(f"retriever : {retriever}")
     
     langchain_documents = [
         LangchainDocument(

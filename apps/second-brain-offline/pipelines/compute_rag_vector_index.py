@@ -23,9 +23,9 @@ def compute_rag_vector_index(
     embedding_model_type: EmbeddingModelType,
     embedding_model_dim: int,
     chunk_size: int,
-    # contextual_summarization_type: SummarizationType = "none",
-    # contextual_agent_model_id: str | None = None,
-    # contextual_agent_max_characters: int | None = None,
+    contextual_summarization_type: SummarizationType = "none",
+    contextual_agent_model_id: str | None = None,
+    contextual_agent_max_characters: int | None = None,
     mock: bool = False,
     processing_batch_size: int = 256,
     processing_max_workers: int = 10,
@@ -61,6 +61,10 @@ def compute_rag_vector_index(
     documents = fetch_from_mongodb(
         collection_name=extract_collection_name, limit=fetch_limit
     )
+    
+    # logger.info(f"type of documents : {type(documents)}, {type(list(documents))}")
+    logger.info(f"threshold : {content_quality_score_threshold}")
+    
     documents = filter_by_quality(
         documents=documents,
         content_quality_score_threshold=content_quality_score_threshold,
@@ -70,9 +74,9 @@ def compute_rag_vector_index(
         documents=documents,
         embed_collection_name=load_collection_name,
         retriever_type=retriever_type,
-        # contextual_summarization_type=contextual_summarization_type,
-        # contextual_agent_model_id=contextual_agent_model_id,
-        # contextual_agent_max_characters=contextual_agent_max_characters,
+        contextual_summarization_type=contextual_summarization_type,
+        contextual_agent_model_id=contextual_agent_model_id,
+        contextual_agent_max_characters=contextual_agent_max_characters,
         embedding_model_type=embedding_model_type,
         embedding_model_id=embedding_model_id,
         embedding_model_dim=embedding_model_dim,

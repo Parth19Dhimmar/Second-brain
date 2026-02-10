@@ -113,11 +113,11 @@ Please give a short succinct context of maximum {characters} characters to situa
         )
         
         documents_with_summary = [
-            document for document in contextual_documents if contextual_documents.contextual_summarization is not None
+            document for document in contextual_documents if document.contextual_summarization is not None
         ]
         
         documents_without_summary = [
-            document for document in contextual_documents if contextual_documents.contextual_summarization is None
+            document for document in contextual_documents if document.contextual_summarization is None
         ]
         
         # retry failed documents with increased await time
@@ -175,7 +175,7 @@ Please give a short succinct context of maximum {characters} characters to situa
         
         semaphore = asyncio.Semaphore(self.max_concurrent_requests)
         
-        tasks = [await self.__summarize_chunk(doc, semaphore, await_time_seconds) for doc in documents]
+        tasks = [self.__summarize_chunk(doc, semaphore, await_time_seconds) for doc in documents]
         results=[]
         
         for coro in tqdm(
@@ -194,7 +194,7 @@ Please give a short succinct context of maximum {characters} characters to situa
         self,
         document: ContextualDocument,
         semaphore: asyncio.Semaphore | None = None,
-        await_time_seconds: int = 17
+        await_time_seconds: int = 2
     ) -> ContextualDocument:
         """Generate a contextual summary for a single document.
 
@@ -217,15 +217,21 @@ Please give a short succinct context of maximum {characters} characters to situa
                 chunk =document.chunk,
             )
             
+            logger.info(f"input_prompt inside contextual summarizer : {input_prompt}")
+            
             messages = [{"role" : "system", "content" : input_prompt }]
             
             try: 
+                logger.info("inside try block of acompletion,")
                 response = await acompletion(
                     model=self.model_id,
                     messages=messages,
                     stream=False,
-                    temperature=self.temperature,   
+                    temperature=self.temperature,  
+                    # api_base="http://localhost:11434", 
                 )
+                
+                logger.info(f"response from contextual summarizer: {response}")
                 
                 await asyncio.sleep(await_time_seconds)
                 
@@ -237,8 +243,8 @@ Please give a short succinct context of maximum {characters} characters to situa
                 
                 return document.add_contextual_summarization(context_summary)
                 
-            except:
-                raise Exception("Failed to generate contextual chunk.")
+            except Exception as e:
+                logger.exception(f"Contextual summarization failed : {str(e)}")
                 return document
             
         if semaphore:

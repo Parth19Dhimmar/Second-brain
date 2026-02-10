@@ -42,6 +42,7 @@ def  get_retriever(
         device
     )
     
+    logger.info(f"embedding_model : {embedding_model}")
     
     if retriever_type == "parent":
         return get_parent_document_retriever(embedding_model, k)
@@ -81,6 +82,8 @@ def get_hybrid_search_retriever(
        relevance_score_fn="dotProduct"
    ) 
    
+   logger.info(f"vector_store : {vector_store}")
+   
    retriever = MongoDBAtlasHybridSearchRetriever(
        vectorstore=vector_store,
        search_index_name="chunk_text_search",
@@ -88,5 +91,7 @@ def get_hybrid_search_retriever(
        vector_penalty=50,
        fulltext_penalty=50,
    )
+   
+   logger.info(f"retriever inside hybrid search : {retriever}")
    
    return retriever

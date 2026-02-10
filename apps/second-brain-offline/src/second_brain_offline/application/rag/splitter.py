@@ -93,6 +93,8 @@ class HandlerRecursiveCharacterTextSplitter(RecursiveCharacterTextSplitter):
         """
         
         chunks = super().split_text(text)
+        
+        logger.info(f"chunks inside handler : {chunks[0][:100]}")
         processed_chunks = self.handler(text, chunks)
         
         return processed_chunks
