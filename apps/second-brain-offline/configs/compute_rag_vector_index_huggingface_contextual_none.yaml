@@ -1,7 +1,7 @@
 parameters:
   extract_collection_name: scored_documents
   fetch_limit: 2
-  load_collection_name: rag
+  load_collection_name: rag-async
   content_quality_score_threshold: 0.6
   retriever_type: contextual
   embedding_model_id: Alibaba-NLP/gte-large-en-v1.5
@@ -13,6 +13,8 @@ parameters:
   contextual_agent_max_characters: 128
   mock: false
   processing_batch_size: 2
-  processing_max_workers: 1
+  # processing_max_workers: 1 # for thread(doc_batch) removed ThreadPoolExecutor
+  processing_max_concurrent: 5 # for chunks
   device: cpu # or cuda (for Nvidia GPUs) or mps  (for Apple M1/M2/M3 chips)
- 
+  enable_retry: True
+  max_retries: 2

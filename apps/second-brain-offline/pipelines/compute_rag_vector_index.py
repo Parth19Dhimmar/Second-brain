@@ -1,15 +1,13 @@
 from zenml import pipeline
 from loguru import logger
+
 logger.info("🔥 compute_rag_vector_index module imported")
 
 from second_brain_offline.application.rag import EmbeddingModelType
 from second_brain_offline.application.rag import RetrieverType
 from second_brain_offline.application.rag import SummarizationType
-from steps.compute_rag_vector_index import chunk_embed_load, filter_by_quality
-from steps.infrastructure import (
-    fetch_from_mongodb,
-)
-
+from steps.compute_rag_vector_index import chunk_embed_load_async, filter_by_quality  # CHANGED: chunk_embed_load -> chunk_embed_load_async
+from steps.infrastructure import fetch_from_mongodb
 
 
 @pipeline(enable_cache=False)
@@ -27,42 +25,18 @@ def compute_rag_vector_index(
     contextual_agent_model_id: str | None = None,
     contextual_agent_max_characters: int | None = None,
     mock: bool = False,
-    processing_batch_size: int = 256,
-    processing_max_workers: int = 10,
+    processing_batch_size: int = 32,                    # CHANGED: Default 256 -> 32 (better memory management)
+    processing_max_concurrent: int = 50,                # CHANGED: processing_max_workers -> processing_max_concurrent, default 10 -> 50
     device: str = "cpu",
+    enable_retry: bool = True,                          # NEW: Enable retry logic
+    max_retries: int = 3,                               # NEW: Max retry attempts
 ) -> None:
-    """Computes and stores RAG vector index from documents in MongoDB.
-
-    This pipeline fetches documents from MongoDB, filters them by quality,
-    chunks the content, computes embeddings, and stores the results.
-
-    Args:
-        extract_collection_name: Name of MongoDB collection to fetch documents from
-        fetch_limit: Maximum number of documents to fetch
-        load_collection_name: Name of MongoDB collection to store results in
-        content_quality_score_threshold: Minimum quality score for documents to be included
-        retriever_type: Type of retriever to use for vector search
-        embedding_model_id: Identifier for the embedding model
-        embedding_model_type: Type of embedding model (e.g. OpenAI, HuggingFace)
-        embedding_model_dim: Dimension of the embedding vectors
-        chunk_size: Size of text chunks for embedding
-        contextual_summarization_type: Type of summarization to apply to chunks
-        contextual_agent_model_id: Model ID for contextual summarization agent
-        contextual_agent_max_characters: Maximum characters for contextual summaries
-        mock: Whether to run in mock mode
-        processing_batch_size: Batch size for parallel processing
-        processing_max_workers: Number of worker threads for parallel processing
-        device: Device to run embeddings on ('cpu' or 'cuda')
-
-    Returns:
-        None
-    """
 
     documents = fetch_from_mongodb(
-        collection_name=extract_collection_name, limit=fetch_limit
+        collection_name=extract_collection_name, 
+        limit=fetch_limit
     )
     
-    # logger.info(f"type of documents : {type(documents)}, {type(list(documents))}")
     logger.info(f"threshold : {content_quality_score_threshold}")
     
     documents = filter_by_quality(
@@ -70,7 +44,7 @@ def compute_rag_vector_index(
         content_quality_score_threshold=content_quality_score_threshold,
     )
     
-    chunk_embed_load(
+    chunk_embed_load_async(                             # CHANGED: chunk_embed_load -> chunk_embed_load_async
         documents=documents,
         embed_collection_name=load_collection_name,
         retriever_type=retriever_type,
@@ -80,11 +54,13 @@ def compute_rag_vector_index(
         embedding_model_type=embedding_model_type,
         embedding_model_id=embedding_model_id,
         embedding_model_dim=embedding_model_dim,
-        processing_max_workers=processing_max_workers,
+        processing_max_concurrent=processing_max_concurrent,  # CHANGED: processing_max_workers -> processing_max_concurrent
         processing_batch_size=processing_batch_size,
         mock=mock,
         chunk_size=chunk_size,
         device=device,
+        enable_retry=enable_retry,                      # NEW
+        max_retries=max_retries,                        # NEW
     )
 
 if __name__ == "__main__":
@@ -93,8 +69,6 @@ if __name__ == "__main__":
     
     with open("configs/compute_rag_vector_index_huggingface_contextual_none.yaml", "r") as f:
         config = yaml.safe_load(f)
-        logger.info(f"Loaded configurations to run compute rag vector index pipeline: {config}")
+        logger.info(f"Loaded configurations: {config}")
     
-    compute_rag_vector_index(
-    **config["parameters"] 
-) 
+    compute_rag_vector_index(**config["parameters"])

@@ -1,49 +1,42 @@
+"""Async contextual summarization agent with production features."""
+
 import os
 import psutil
 import asyncio
+from typing import Callable
 
 from loguru import logger
-from tqdm import tqdm
+from tqdm.asyncio import tqdm as async_tqdm  # CHANGED: from tqdm import tqdm
 from litellm import acompletion
-from openai import AsyncOpenAI
 from pydantic import BaseModel
+from openai import AsyncOpenAI
 
 from second_brain_offline.config import settings
 
-class ContextualDocument(BaseModel):
+class ContextualDocument(BaseModel):  # UNCHANGED
+    """Document with optional contextual summary."""
+    
     content: str
     chunk: str | None = None
     contextual_summarization: str | None = None
     
-    def add_contextual_summarization(
-        self,
-        summary: str
-    ) -> "ContextualDocument":
-        """Adds a contextual summary to the document.
-
-        Args:
-            summary: The contextual summary to add
-
-        Returns:
-            ContextualDocument: The document with added summary
-        """
+    def add_contextual_summarization(self, summary: str) -> "ContextualDocument":
         self.contextual_summarization = summary
         return self
-        
+
 
 class ContextualSummarizerAgent:
-    """Generates summaries for documents using LiteLLM with async support.
-
-    This class handles the interaction with language models through LiteLLM to
-    generate concise summaries while preserving key information from the original
-    documents. It supports both single and batch document processing.
-
-    Attributes:
-        max_characters: Maximum number of characters for the summary.
-        model_id: The ID of the language model to use for summarization.
-        mock: If True, returns mock summaries instead of using the model.
-        max_concurrent_requests: Maximum number of concurrent API requests.
-        temperature: The value given to llm from normal(0) to variable(1) content.
+    """Async agent for generating contextual summaries.
+    
+    CHANGE: Removed event loop detection/creation.
+    CHANGE: Made __call__ async-only.
+    CHANGE: Added retry logic.
+    CHANGE: Added metrics tracking.
+    
+    PROBLEM SOLVED:
+    - No more event loop conflicts
+    - Automatic retry on failures
+    - Better observability
     """
     
     SYSTEM_PROMPT_TEMPLATE = """
@@ -59,201 +52,338 @@ Please give a short succinct context of maximum {characters} characters to situa
     
     def __init__(
         self,
-        model_id: str = "gpt-4o-mini", # gemini/gemini-2.5-flash
+        model_id: str = "gpt-4o-mini",
         max_characters: int = 128,
         mock: bool = False,
-        max_concurrent_requests: int = 2,
+        max_concurrent_requests: int = 50,      # CHANGED: 2 -> 50 (production default)
         temperature: float = 0.0,
+        retry_attempts: int = 2,                 # NEW
+        base_delay: float = 1.0,                 # NEW: renamed from await_time_seconds
     ):
+        """Initialize the contextual summarizer.
+
+        Args:
+            model_id: LLM model identifier.
+            max_characters: Maximum summary length.
+            mock: Enable mock mode for testing.
+            max_concurrent_requests: Max concurrent API calls.
+            temperature: LLM temperature parameter.
+            retry_attempts: Number of retry attempts for failed requests.  # NEW
+            base_delay: Base delay in seconds between API calls.          # NEW
+        """
         self.model_id = model_id
         self.max_characters = max_characters
         self.mock = mock
         self.max_concurrent_requests = max_concurrent_requests
         self.temperature = temperature
+        self.retry_attempts = retry_attempts      # NEW
+        self.base_delay = base_delay              # NEW
         
+        # NEW: Metrics
+        self._total_requests = 0
+        self._successful_requests = 0
+        self._failed_requests = 0
     
-    def __call__(
+    async def __call__(  # CHANGED: Now async (was sync with event loop detection)
         self,
         content: str,
         chunks: list[str],
     ) -> list[str]:
+        """Async callable interface for the agent.
         
-        try:
-            loop = asyncio.get_running_loop()
-        except:
-            results = asyncio.run(self.__context_summarize_batch(content, chunks))
-        else:
-            results =  loop.run_until_complete(
-                self.__context_summarize_batch(
-                    content,
-                    chunks,
-                )
-            )
-            
-        return results
-    
-    async def __context_summarize_batch(
-        self,
-        content: str,
-        chunks: list[str],
-    ) -> list[str]:
-        
-        process = psutil.Process(os.getpid())
-        start_mem = process.memory_info().rss
-        total_chunks = len(chunks)
-        logger.debug(
-            f"Starting summarization batch with {self.max_concurrent_requests} concurrent requests. "
-            f"Current process memory usage: {start_mem // (1024 * 1024)} MB"
-        )
-        
-        documents = [ContextualDocument(content=content, chunk=chunk) for chunk in chunks]
-
-        contextual_documents = await self.__context_summarize_documents(
-            documents, await_time_seconds = 5
-        )
-        
-        documents_with_summary = [
-            document for document in contextual_documents if document.contextual_summarization is not None
-        ]
-        
-        documents_without_summary = [
-            document for document in contextual_documents if document.contextual_summarization is None
-        ]
-        
-        # retry failed documents with increased await time
-        if documents_without_summary:
-            logger.info(
-                f"Retrying {len(documents_without_summary)} failed documents with increased await time..."
-            )
-            retry_documents = await self.__context_summarize_documents(
-                documents_without_summary, await_time_seconds=15
-            )
-            
-            documents_with_summary+=retry_documents
-            
-        end_mem = process.memory_info().rss
-        memory_diff = end_mem - start_mem
-        logger.debug(
-            f"Contextual summarization completed. "
-            f"Final memory usage: {end_mem // (1024 * 1024)} MB, "
-            f"Memory difference: {memory_diff // (1024 * 1024)} MB"
-        )
-        
-        success_count = len(documents_with_summary)
-        failed_count = total_chunks - success_count
-        logger.info(
-            f"Contextual summarization results: "
-            f"{success_count}/{total_chunks} chunks summarized successfully ✓ | "
-            f"{failed_count}/{total_chunks} chunks failed ✗"
-        )
-        
-        contextual_chunks = []
-        for doc in documents_with_summary:
-            if doc.contextual_summarization is not None:
-                chunk = f"{doc.contextual_summarization}\n\n{doc.chunk}"
-            else:
-                chunk = f"{doc.chunk}"
-                
-            contextual_chunks.append(chunk)
-            
-        return contextual_chunks
-
-    async def __context_summarize_documents(
-        self,
-        documents: ContextualDocument,
-        await_time_seconds: int
-    ) -> list[ContextualDocument]:
-        """Process a batch of documents with specified await time.
+        CHANGE: Removed event loop detection - now pure async.
+        OLD: try/except to detect loop, asyncio.run() or loop.run_until_complete()
+        NEW: Direct async call - caller manages event loop
+        PROBLEM SOLVED: No more event loop conflicts
 
         Args:
-            documents: List of documents to summarize
-            await_time_seconds: Time in seconds to wait between requests
+            content: Full document content for context.
+            chunks: List of text chunks to summarize.
 
         Returns:
-            list[ContextualDocument]: Processed documents with summaries
+            list[str]: Chunks with prepended contextual summaries.
+        """
+        # CHANGED: Direct async call instead of event loop detection
+        return await self._context_summarize_batch(content, chunks)
+    
+    async def _context_summarize_batch(  # CHANGED: from __context_summarize_batch
+        self,
+        content: str,
+        chunks: list[str],
+    ) -> list[str]:
+        """Process a batch of chunks with contextual summarization.
+        
+        CHANGE: Renamed from __context_summarize_batch.
+        CHANGE: Removed memory tracking (less important).
+        CHANGE: Use renamed methods.
+
+        Args:
+            content: Full document content.
+            chunks: Text chunks to summarize.
+
+        Returns:
+            list[str]: Chunks with contextual summaries prepended.
+        """
+        total_chunks = len(chunks)
+        logger.info(
+            f"Starting contextual summarization for {total_chunks} chunks "
+            f"(max_concurrent={self.max_concurrent_requests})"
+        )
+        
+        # Create documents
+        documents = [
+            ContextualDocument(content=content, chunk=chunk)
+            for chunk in chunks
+        ]
+        
+        # First attempt
+        semaphore = asyncio.Semaphore(self.max_concurrent_requests)
+        contextual_documents = await self._process_documents(  # CHANGED: from __context_summarize_documents
+            documents,
+            semaphore,
+            retry_delay=self.base_delay,
+        )
+        
+        # Separate success/failure
+        success_docs = [
+            doc for doc in contextual_documents
+            if doc.contextual_summarization is not None
+        ]
+        
+        failed_docs = [
+            doc for doc in contextual_documents
+            if doc.contextual_summarization is None
+        ]
+        
+        # Retry failed documents with increased delay
+        if failed_docs:
+            logger.warning(
+                f"Retrying {len(failed_docs)} failed chunks with increased delay..."
+            )
+            
+            retry_docs = await self._process_documents(
+                failed_docs,
+                semaphore,
+                retry_delay=self.base_delay * 3,  # CHANGED: Increased backoff
+            )
+            
+            success_docs.extend([
+                doc for doc in retry_docs
+                if doc.contextual_summarization is not None
+            ])
+        
+        # Log results
+        success_count = len(success_docs)
+        failed_count = total_chunks - success_count
+        
+        logger.info(
+            f"Contextual summarization complete: "
+            f"✓ {success_count}/{total_chunks} succeeded | "
+            f"✗ {failed_count}/{total_chunks} failed"
+        )
+        
+        # Build final chunks with summaries
+        return self._build_contextual_chunks(success_docs, chunks)
+    
+    async def _process_documents(  # CHANGED: from __context_summarize_documents
+        self,
+        documents: list[ContextualDocument],
+        semaphore: asyncio.Semaphore,
+        retry_delay: float,
+    ) -> list[ContextualDocument]:
+        """Process documents with controlled concurrency.
+        
+        CHANGE: Use async_tqdm instead of sync tqdm.
+        CHANGE: Call new _summarize_chunk_with_retry.
+
+        Args:
+            documents: Documents to process.
+            semaphore: Semaphore for rate limiting.
+            retry_delay: Delay between API calls.
+
+        Returns:
+            list[ContextualDocument]: Processed documents.
         """
         
-        semaphore = asyncio.Semaphore(self.max_concurrent_requests)
+        tasks = [
+            self._summarize_chunk_with_retry(doc, semaphore, retry_delay)  # CHANGED: new method
+            for doc in documents
+        ]
         
-        tasks = [self.__summarize_chunk(doc, semaphore, await_time_seconds) for doc in documents]
-        results=[]
+        results = []
         
-        for coro in tqdm(
-            asyncio.as_completed(tasks),
+        # CHANGED: async_tqdm instead of sync tqdm
+        async for result in async_tqdm(
+            self._as_completed(tasks),
             total=len(documents),
-            desc="processing_chunks",
-            unit="doc"
+            desc="Summarizing chunks",
+            leave=False,
         ):
-            result = await coro
             results.append(result)
-            
-        return results
         
+        return results
     
-    async def __summarize_chunk(
+    async def _summarize_chunk_with_retry(  # NEW METHOD
         self,
         document: ContextualDocument,
-        semaphore: asyncio.Semaphore | None = None,
-        await_time_seconds: int = 2
+        semaphore: asyncio.Semaphore,
+        retry_delay: float,
     ) -> ContextualDocument:
-        """Generate a contextual summary for a single document.
+        """Summarize a chunk with automatic retry.
+        
+        CHANGE: New method with retry logic.
+        OLD: Single attempt in __summarize_chunk
+        NEW: Multiple attempts with exponential backoff
+        PROBLEM SOLVED: Transient API failures now recoverable.
 
         Args:
-            document: The document to summarize
-            semaphore: Optional semaphore for controlling concurrent requests
-            await_time_seconds: Time in seconds to wait between requests
+            document: Document to summarize.
+            semaphore: Semaphore for rate limiting.
+            retry_delay: Base delay between requests.
 
         Returns:
-            ContextualDocument: Document with generated summary
+            ContextualDocument: Document with summary (or None on failure).
         """
         if self.mock:
-            return document.add_contextual_summarization("This is a mock summary")
+            await asyncio.sleep(0.01)
+            return document.add_contextual_summarization("Mock summary")
         
-        async def process_chunk():
-            
-            input_prompt = self.SYSTEM_PROMPT_TEMPLATE.format(
-                characters=self.max_characters,
-                content=document.content[:6000], 
-                chunk =document.chunk,
-            )
-            
-            logger.info(f"input_prompt inside contextual summarizer : {input_prompt}")
-            
-            messages = [{"role" : "system", "content" : input_prompt }]
-            
-            try: 
-                logger.info("inside try block of acompletion,")
-                response = await acompletion(
-                    model=self.model_id,
-                    messages=messages,
-                    stream=False,
-                    temperature=self.temperature,  
-                    # api_base="http://localhost:11434", 
-                )
-                
-                logger.info(f"response from contextual summarizer: {response}")
-                
-                await asyncio.sleep(await_time_seconds)
-                
-                if not response.choices:
-                    logger.warning(f"No contextual chunk generated.")
-                    return document
-                
-                context_summary = response.choices[0].message.content
-                
-                return document.add_contextual_summarization(context_summary)
-                
+        last_error = None
+        
+        # NEW: Retry loop with exponential backoff
+        for attempt in range(self.retry_attempts):
+            try:
+                async with semaphore:
+                    result = await self._summarize_chunk(
+                        document,
+                        retry_delay * (2 ** attempt),  # Exponential backoff
+                    )
+                    
+                    self._successful_requests += 1  # NEW: Track success
+                    return result
+                    
             except Exception as e:
-                logger.exception(f"Contextual summarization failed : {str(e)}")
-                return document
-            
-        if semaphore:
-            async with semaphore:
-                return await process_chunk()
-        else:
-            return await process_chunk()
-            
+                last_error = e
                 
+                if attempt < self.retry_attempts - 1:
+                    logger.debug(
+                        f"Summarization failed (attempt {attempt + 1}/"
+                        f"{self.retry_attempts}): {str(e)}"
+                    )
+                else:
+                    logger.error(f"Summarization failed after retries: {str(e)}")
+                    self._failed_requests += 1  # NEW: Track failure
+        
+        return document  # Return without summary
+    
+    async def _summarize_chunk(  # CHANGED: from __summarize_chunk, simplified signature
+        self,
+        document: ContextualDocument,
+        delay: float,
+    ) -> ContextualDocument:
+        """Generate contextual summary for a single chunk.
+        
+        CHANGE: Simplified - no semaphore (handled by caller).
+        CHANGE: Renamed await_time_seconds -> delay.
+
+        Args:
+            document: Document to summarize.
+            delay: Delay after API call.
+
+        Returns:
+            ContextualDocument: Document with summary.
+        """
+        input_prompt = self.SYSTEM_PROMPT_TEMPLATE.format(
+            characters=self.max_characters,
+            content=document.content[:6000],
+            chunk=document.chunk,
+        )
+        
+        messages = [{"role": "system", "content": input_prompt}]
+        
+        # Call LLM
+        response = await acompletion(
+            model=self.model_id,
+            messages=messages,
+            stream=False,
+            temperature=self.temperature,
+        )
+        
+        # Rate limiting
+        await asyncio.sleep(delay)
+        
+        # Extract summary
+        if not response.choices:
+            logger.warning("No response from LLM")
+            return document
+        
+        context_summary = response.choices[0].message.content
+        
+        return document.add_contextual_summarization(context_summary)
+    
+    @staticmethod
+    def _build_contextual_chunks(  # NEW METHOD
+        documents: list[ContextualDocument],
+        original_chunks: list[str],
+    ) -> list[str]:
+        """Build final chunks with summaries prepended.
+        
+        CHANGE: Extracted from _context_summarize_batch for clarity.
+
+        Args:
+            documents: Documents with summaries.
+            original_chunks: Original chunks for fallback.
+
+        Returns:
+            list[str]: Chunks with contextual summaries.
+        """
+        # Create lookup by chunk content
+        summary_map = {
+            doc.chunk: doc.contextual_summarization
+            for doc in documents
+            if doc.chunk is not None
+        }
+        
+        # Build final chunks
+        contextual_chunks = []
+        for chunk in original_chunks:
+            summary = summary_map.get(chunk)
+            
+            if summary:
+                contextual_chunks.append(f"{summary}\n\n{chunk}")
+            else:
+                contextual_chunks.append(chunk)
+        
+        return contextual_chunks
+    
+    @staticmethod
+    async def _as_completed(tasks):  # NEW METHOD
+        """Async generator for completed tasks."""
+        for coro in asyncio.as_completed(tasks):
+            yield await coro
+    
+    def get_metrics(self) -> dict:  # NEW METHOD
+        """Get summarization metrics.
+
+        Returns:
+            dict: Metrics including success/failure counts.
+        """
+        return {
+            "total_requests": self._total_requests,
+            "successful_requests": self._successful_requests,
+            "failed_requests": self._failed_requests,
+            "success_rate": (
+                self._successful_requests / self._total_requests
+                if self._total_requests > 0
+                else 0.0
+            ),
+        }
+
+
+# REMOVED: Old code with event loop detection
+# OLD: try/except asyncio.get_running_loop()
+# OLD: asyncio.run() or loop.run_until_complete()
+
 class SimpleSummarizerAgent:
     """Generates summaries for documents using LiteLLM with async support.
 
