@@ -166,7 +166,7 @@ Return the document in plain text format regardless of the original format.
 
         # No client needed — LiteLLM handles routing internally
 
-    @track
+    @track(name="GeminiSummarizerTool.forward")
     def forward(self, text: str) -> str:
         response = completion(
             model=settings.GEMINI_MODEL_ID,  # e.g. "gemini/gemini-1.5-flash"
