@@ -9,9 +9,7 @@ from second_brain_online.config import settings
 from .tools import (
     MongoDBRetrieverTool, HuggingFaceSummarizerTool, OpenAISummarizerTool, what_can_i_do, GeminiSummarizerTool
 )
-from second_brain_online import opik_utils
-
-opik_utils.configure_opik()
+from exceptions import LLMGenerationError, LLMQuotaError, AgentError
 
 def get_agent(retriever_config_path : Path) -> "AgentWrapper":
     
@@ -64,14 +62,14 @@ class AgentWrapper:
         
         model = LiteLLMModel(
             model_id=settings.GEMINI_MODEL_ID, # Use the gemini/ prefix
-            # api_base is not required for the default Google AI Studio endpoint
+            max_tokens=2048,
             api_key=settings.GEMINI_API_KEY
         )
         
         agent = ToolCallingAgent(
             tools=[what_can_i_do, retriever_tool, summarizer_tool],
             model=model,
-            max_steps=3,
+            max_steps=2,
             verbosity_level=2,
             # step_callbacks = [] # add callback like opik trace callback for step_log
         )
@@ -80,28 +78,58 @@ class AgentWrapper:
     
     @track(name="AgentWrapper.run")
     def run(self, task: str, **kwargs) -> Any:
-        result = self.__agent.run(task, **kwargs)
-        
-        model = self.__agent.model
-        metadata = {
-            "system_prompt": self.__agent.system_prompt,
-            "system_prompt_template": self.__agent.system_prompt_template,
-            "tool_description_template": self.__agent.tool_description_template,
-            "tools": self.__agent.tools,
-            "model_id": self.__agent.model.model_id,
-            "api_base": self.__agent.model.api_base,
-            "input_token_count": model.last_input_token_count,
-            "output_token_count": model.last_output_token_count,
-        }
-        if hasattr(self.__agent, "step_number"):
-            metadata["step_number"] = self.__agent.step_number
+        try: 
+            result = self.__agent.run(task, **kwargs)
             
-        opik_context.update_current_trace(
-            tags=["agent"],
-            metadata=metadata,
-        )
+            result_str = str(result)
+            
+            # Detect smolagents failure
+            if isinstance(result, str) and "Error in generating final LLM output" in result:
 
-        return result
+                if (
+                    "RateLimitError" in result_str
+                    or "quota exceeded" in result_str.lower()
+                    or "RESOURCE_EXHAUSTED" in result_str
+                ):
+                    raise LLMQuotaError("Model quota exceeded. Please try again later.")
+
+                raise LLMGenerationError("Failed to generate response from LLM.")
+
+            return result
+
+        except AgentError:
+            # propagate clean domain errors
+            raise
+
+        except Exception as e:
+            logger.exception("Agent execution failed")
+            raise AgentError("Agent execution failed") from e
+
+        finally:
+            # tracing should never break execution
+            try:
+                model = self.__agent.model
+                metadata = {
+                    "system_prompt": self.__agent.system_prompt,
+                    "system_prompt_template": self.__agent.system_prompt_template,
+                    "tool_description_template": self.__agent.tool_description_template,
+                    "tools": self.__agent.tools,
+                    "model_id": model.model_id,
+                    "api_base": model.api_base,
+                    "input_token_count": model.last_input_token_count,
+                    "output_token_count": model.last_output_token_count,
+                }
+
+                if hasattr(self.__agent, "step_number"):
+                    metadata["step_number"] = self.__agent.step_number
+
+                opik_context.update_current_trace(
+                    tags=["agent"],
+                    metadata=metadata,
+                )
+
+            except Exception:
+                logger.warning("Failed to update opik trace metadata")
     
 def extract_tool_response(agent: ToolCallingAgent) -> str:
     """
