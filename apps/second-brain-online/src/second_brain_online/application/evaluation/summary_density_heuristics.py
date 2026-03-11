@@ -30,7 +30,7 @@ class SummaryDensityHeuristic(base_metric.BaseMetric):
         
         if length_score == 1.0:
             reason += f"The output length is in ideal range."
-        if 1.0 > length_score > 0.5:
+        elif 1.0 > length_score >= 0.5:
             reason += f"The output length is slightly outside ideal range."
         else:
             reason += f"The output length is significantly outside ideal range." 
@@ -52,9 +52,9 @@ class SummaryDensityHeuristic(base_metric.BaseMetric):
             float: _description_
         """
         
-        text_length = len(str)
+        text_length = len(text)
         
-        if self.min_length < text_length < self.max_length:
+        if self.min_length <= text_length <= self.max_length:
             return 1.0
         
         if text_length < self.min_length:

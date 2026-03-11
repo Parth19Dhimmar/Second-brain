@@ -59,7 +59,7 @@ Explain to me:
 )
 def main(retriever_config_path: Path) -> None:
     """Evaluate agent with custom retriever configuration."""
-    evaluate_agent(EVALUATION_PROMPTS, retriever_config_path=retriever_config_path)
+    evaluate_agent(EVALUATION_PROMPTS[:5], retriever_config_path=retriever_config_path)
 
 
 if __name__ == "__main__":

@@ -77,33 +77,29 @@ Where:
             **ignored_kwargs: Any additional keyword arguments. This is important so that the metric can be used in the `evaluate` function.
         """
         
-        self.prompt_template.format(input=input, output=output)
+        prompt = self.prompt_template.format(input=input, output=output)
         
         response = self.client.generate_string(
-            input,
+            prompt,
             response_format=SummaryDensityJudgeResponse
         )
         
         return self._parse_llm_response(response)
 
 
-    def _parse_llm_reponse(self, response: SummaryDensityJudgeResponse):
-        try:
-            dict_content = json.loads(response)
-        except:
-            raise exceptions.MetricComputationError("Failed to parse llm model response.")
+    def _parse_llm_response(self, response: SummaryDensityJudgeResponse):
         
-        score = dict_content["score"]
+        score = response.score
         
-        try: 
-            assert 1 <= score <= 3, f"invalid score value {score}"     
-        except AssertionError as e:
-            raise exceptions.MetricComputationError(str(e))
-        
-        score = (score - 1) /   2.0  # normalize to range of 0-1
-        
-        return score_result(
+        if not 1 <= score <= 3:
+            raise exceptions.MetricComputationError(
+                f"invalid score value {score}"
+            )
+
+        score = (score - 1) / 2.0
+
+        return score_result.ScoreResult(
             name=self.name,
             value=score,
-            reason=dict_content["reason"],
+            reason=response.reason,
         )

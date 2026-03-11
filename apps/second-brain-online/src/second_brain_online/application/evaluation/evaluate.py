@@ -3,12 +3,19 @@ from loguru import logger
 from second_brain_online.config import settings
 from opik.evaluation.evaluator import evaluate
 from opik.evaluation.metrics import Hallucination, AnswerRelevance, Moderation
+from opik.evaluation import models
 
 from second_brain_online.application.agents import get_agent, extract_tool_response
 from second_brain_online import opik_utils
-from second_brain_online.application.evaluation import SummaryDensityHeuristic, SummaryDensityJudge 
+from .summary_density_heuristics import SummaryDensityHeuristic
+from .summary_density_judge import SummaryDensityJudge
+
 
 opik_utils.configure_opik()
+
+judge_model = models.LiteLLMChatModel(
+    model_name="gemini/gemini-2.5-flash-lite"
+)
 
 def evaluate_agent(
     prompts: list[str],
@@ -50,9 +57,9 @@ def evaluate_agent(
     }
     
     scoring_metrics = [
-        Hallucination(),
-        AnswerRelevance(),
-        Moderation(),
+        Hallucination(model=judge_model),
+        AnswerRelevance(model=judge_model),
+        Moderation(model=judge_model),
         SummaryDensityHeuristic(),
         SummaryDensityJudge(),
     ]   
@@ -63,10 +70,10 @@ def evaluate_agent(
         logger.info(f"Metrics: {[m.__class__.__name__ for m in scoring_metrics]}")
         evaluate(
             dataset=dataset,
-            task=evaluation_task(),
+            task=evaluation_task,
             experiment_config=experiment_config,
             scoring_metrics=scoring_metrics,
-            task_threads=2,
+            task_threads=1,
         )
     else:
         logger.error("Can't run the evaluation as the dataset items are empty.")
