@@ -6,7 +6,7 @@ from opik.evaluation.metrics import Hallucination, AnswerRelevance, Moderation
 from opik.evaluation import models
 
 from second_brain_online.application.agents import get_agent, extract_tool_response
-from second_brain_online import opik_utils
+from second_brain_online.utilities import opik_utils
 from .summary_density_heuristics import SummaryDensityHeuristic
 from .summary_density_judge import SummaryDensityJudge
 

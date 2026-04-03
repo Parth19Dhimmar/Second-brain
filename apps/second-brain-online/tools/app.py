@@ -5,7 +5,7 @@ from smolagents import GradioUI
 from loguru import logger
 
 from second_brain_online.application.agents import get_agent
-from second_brain_online import opik_utils
+from second_brain_online.utilities import opik_utils
 
 opik_utils.configure_opik()
 

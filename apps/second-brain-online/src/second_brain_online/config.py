@@ -77,6 +77,11 @@ class Settings(BaseSettings):
         descroption="Model Id of gemini model to be used(include provider, as using litellm)."
     )
     
+    GEMINI_SUMMARIZER_MODEL_ID:str | None = Field(
+        default=None,
+        descroption="Model Id of gemini summarization tool(include provider, as using litellm)."
+    )
+    
     # OPIK configuration (Comet Ml)
     
     COMET_API_KEY : str | None = Field(
@@ -93,6 +98,34 @@ class Settings(BaseSettings):
     )
     OPENAI_MODEL_ID: str | None = Field(
         default="gpt-4o-mini", description="Identifier for the OpenAI model to be used."
+    )
+    
+    # ---- OpeRouter API configuration ---
+    OPENROUTER_API_KEY: str | None = Field(
+        default=None, description="API key for OpenRouter service."
+    )
+    OPENROUTER_API_BASE: str | None = Field(
+        default="https://openrouter.ai/api/v1", description="API base to access OpenRouter service."
+    )
+    OPENROUTER_MODEL_ID: str | None = Field(
+        default="openai/gpt-oss-20b:free", description="Model to use for the inference with provider."
+    )
+    
+    # cache mongo db configs
+    CACHE_MONGODB_URI: str = Field(
+        default=None, 
+        description="Connection URI for the MongoDB Atlas instance powering caching."
+    )
+    
+    MONGODB_CACHE_DATABASE_NAME: str = Field(
+        default=None, 
+        description="Cache powering MongoDB database name."
+    )
+    
+    # ---- Redis Configuration ---
+    
+    REDIS_URL: str | None = Field(
+        default="", description="Local redis connection URL."
     )
     
 try:

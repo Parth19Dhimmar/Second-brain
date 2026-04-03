@@ -75,4 +75,3 @@ def create_dataset(name: str, dataset_items: list[dict]) -> opik.Dataset:
     dataset = client.get_dataset(name=name) # ensuring fresh dataset object 
     
     return dataset
-    

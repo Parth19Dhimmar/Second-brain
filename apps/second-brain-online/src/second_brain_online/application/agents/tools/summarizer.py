@@ -8,6 +8,7 @@ from litellm import completion
 from openai import OpenAI
 
 from second_brain_online.config import settings
+from second_brain_online.utilities.retries import gemini_retry, hf_retry
 
 
 class HuggingFaceSummarizerTool(Tool):
@@ -58,24 +59,30 @@ You are a helpful assistant specialized in summarizing documents. Generate a con
             api_key=settings.HUGGINGFACE_ACCESS_TOKEN,
         )
 
+    @hf_retry
+    def __call_hf_endpoint(self, text: str) -> str:
+        """
+        Isolated so hf_retry only wraps the network call.
+        Retries on timeout and connection errors only — not on bad input.
+        """
+        response = self.client.chat.completions.create(
+            model="tgi",
+            messages=[{"role": "user", "content": self.SYSTEM_PROMPT.format(content=text)}]
+        )
+        return response.choices[0].message.content
+
     @track(name="HuggingFaceSummarizerTool.forward")
     def forward(self, text: str) -> str:
         if not text.strip():
             raise ValueError("Input text is empty")
 
         try:
-            response = self.client.chat.completions.create(
-            model="tgi", 
-            messages=[
-                {"role": "user", "content": self.SYSTEM_PROMPT.format(text)}
-            ]
-)
-            return response.choices[0].message.content
-
+            return self.__call_hf_endpoint(text)
         except Exception:
-            logger.warning("Failed to generate summary using Dedicated HF endpoint.")
+            logger.warning("Failed to generate summary using Dedicated HF endpoint after retries.")
             return "No summary generated"
-            
+
+
 class OpenAISummarizerTool(Tool):
     name = "openai_summarizer"
     description = """Use this tool to summarize a piece of text. Especially useful when you need to summarize a document or a list of documents."""
@@ -164,12 +171,15 @@ Return the document in plain text format regardless of the original format.
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-        # No client needed — LiteLLM handles routing internally
-
-    @track(name="GeminiSummarizerTool.forward")
-    def forward(self, text: str) -> str:
+    @gemini_retry
+    def __call_gemini(self, text: str) -> str:
+        """
+        Isolated so gemini_retry only wraps the LiteLLM network call.
+        Retries on: RateLimitError (burst), ServiceUnavailableError, Timeout, ConnectionError.
+        Never retries: quota exceeded, auth error, bad request.
+        """
         response = completion(
-            model=settings.GEMINI_MODEL_ID,  # e.g. "gemini/gemini-1.5-flash"
+            model=settings.GEMINI_SUMMARIZER_MODEL_ID,
             messages=[
                 {
                     "role": "user",
@@ -177,5 +187,8 @@ Return the document in plain text format regardless of the original format.
                 }
             ],
         )
-
         return response.choices[0].message.content
+
+    @track(name="GeminiSummarizerTool.forward")
+    def forward(self, text: str) -> str:
+        return self.__call_gemini(text)

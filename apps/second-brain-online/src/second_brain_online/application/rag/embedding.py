@@ -78,6 +78,7 @@ def get_hugggingface_embedding_model(
         model_kwargs={
             "device": device,
             "trust_remote_code": True,
+            "backend": "onnx",
         },
         encode_kwargs={
             "normalize_embeddings": False,
