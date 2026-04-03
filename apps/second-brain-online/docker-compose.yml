@@ -1,0 +1,113 @@
+# services:
+
+#   redis:
+#     image: redis:7-alpine          # lightweight, production-grade
+#     container_name: second_brain_redis
+#     ports:
+#       - "6379:6379"                # expose locally so warm_redis.py still works in dev
+#     volumes:
+#       - redis_data:/data           # persist data across container restarts
+#     command: >
+#       redis-server
+#       --appendonly yes
+#       --appendfsync everysec
+#     # appendonly yes   → AOF persistence — writes to disk every second
+#     # appendfsync everysec → balance between durability and performance
+#     #                        at most 1 second of data lost on crash
+#     restart: unless-stopped
+#     healthcheck:
+#       test: ["CMD", "redis-cli", "ping"]
+#       interval: 10s
+#       timeout: 5s
+#       retries: 3
+
+#   api:
+#     build:
+#       context: .
+#       dockerfile: Dockerfile
+#     container_name: second_brain_api
+#     ports:
+#       - "8000:8000"
+#     env_file:
+#       - .env                       # all your secrets — MONGODB_URI, GEMINI_API_KEY, etc.
+#     environment:
+#       # Override REDIS_URL to point at the redis SERVICE name, not localhost.
+#       # Inside Docker network, containers talk to each other by service name.
+#       # "localhost" inside the api container = the api container itself, not Redis.
+#       REDIS_URL: "redis://redis:6379"
+#     depends_on:
+#       redis:
+#         condition: service_healthy  # wait for Redis ping to succeed before starting api
+#     restart: unless-stopped
+#     healthcheck:
+#       test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+#       interval: 30s
+#       timeout: 10s
+#       start_period: 60s            # agent + model loading takes time
+#       retries: 3
+
+# volumes:
+#   redis_data:
+#     driver: local                  # stored in Docker volume, survives container restarts
+
+
+
+
+####### new 
+
+services:
+
+  redis:
+    image: redis:7-alpine
+    container_name: second_brain_redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: >
+      redis-server
+      --appendonly yes
+      --appendfsync everysec
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: second_brain_api
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      # This OVERRIDES REDIS_URL from your .env file.
+      # Inside Docker network, containers talk by SERVICE NAME not localhost.
+      # "redis" here = the redis service defined above in this file.
+      # Your .env keeps redis://localhost:6379 for running locally without Docker.
+      REDIS_URL: "redis://redis:6379"
+    volumes:
+      # Persist HuggingFace model cache across container rebuilds.
+      # Without this: gte-large (670MB) re-downloads every time you rebuild.
+      # With this: downloads once, reused on every subsequent start.
+      - hf_cache:/app/.cache/huggingface
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      start_period: 120s
+      retries: 5
+
+volumes:
+  redis_data:
+    driver: local
+  hf_cache:
+    driver: local

@@ -1,69 +1,96 @@
-# Python
-__pycache__
+# .dockerignore - Critical for preventing bloat
+
+# Python runtime
+__pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
 *.so
-.Python
-*.egg-info
-dist/
-build/
-*.egg
 
-# Virtual environments
-.venv
+# Virtual environments (DON'T copy local venv!)
+.venv/
+.venv-online/
 venv/
-.venv-online
-ENV/
 env/
+ENV/
+**/.venv/
 
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+# uv and pip caches (CRITICAL!)
+.uv/
+.uv_cache/
+.cache/
+**/.cache/
+.pip/
+**/.pip/
+
+# Transformers/Huggingface caches (HUGE!)
+.transformers_cache/
+.huggingface/
+**/.transformers_cache/
+**/.huggingface/
+
+# Model files (DO NOT COPY!)
+*.bin
+*.pt
+*.pth
+*.onnx
+*.h5
+*.safetensors
+*.msgpack
+*.ckpt
+models/
+**/models/
+
+# Environment
+.env
+.env.*
+!.env.example
 
 # Testing
 .pytest_cache/
 .coverage
 htmlcov/
-.tox/
+tests/
+**tests**/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
 
 # Git
-.git
-.gitignore
-.gitattributes
+.git/
+.github/
 
 # Docker
-.dockerignore
 Dockerfile*
 docker-compose*.yml
+.dockerignore
 
-# Documentation
-# *.md
-docs/
-
-# CI/CD
-.github/
-.gitlab-ci.yml
-
-# Environment files (should be passed at runtime)
-.env
-.env.*
+# Build
+dist/
+build/
+*.egg-info/
 
 # Logs
 *.log
 logs/
 
-# OS
-.DS_Store
-Thumbs.db
+# Data
+data/
+*.csv
+*.json
+*.pkl
 
-# Development tools
-.ruff_cache/
-.mypy_cache/
+# Documentation
+# README.md
+docs/
+# *.md
+!pyproject.toml
+!uv.lock
 
-# Misc
-*.bak
-*.tmp
-.cache/
+# Tools/scripts not needed in container
+Makefile
+commands.txt
+.python-version

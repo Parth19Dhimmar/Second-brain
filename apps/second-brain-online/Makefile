@@ -10,7 +10,7 @@ export PYTHONPATH = .
 # --- Default Values ---
 
 CHECK_DIRS := .
-RETRIEVER_CONFIG ?= configs/compute_rag_vector_index_openai_parent.yaml
+RETRIEVER_CONFIG ?= configs/compute_rag_vector_index_huggingface_contextual_none.yaml
 
 # --- Utilities ---
 
@@ -42,13 +42,13 @@ local-infrastructure-down:
 # --- Run ---
 
 run_agent_app: check-config
-	uv run python -m tools.app --retriever-config-path=$(RETRIEVER_CONFIG) --ui
+	uv run --active python -m tools.app --retriever-config-path=$(RETRIEVER_CONFIG) --ui
 
 run_agent_query: check-config
-	uv run python -m tools.app --retriever-config-path=$(RETRIEVER_CONFIG) --query "What's the difference between vector databases and vector indices?"
+	uv run --active python -m tools.app --retriever-config-path=$(RETRIEVER_CONFIG) --query "What's the difference between vector databases and vector indices?"
 
 evaluate_agent: check-config
-	uv run python -m tools.evaluate_app --retriever-config-path=$(RETRIEVER_CONFIG)
+	uv run --active python -m tools.evaluate_app --retriever-config-path=$(RETRIEVER_CONFIG)
 
 
 # --- QA ---
